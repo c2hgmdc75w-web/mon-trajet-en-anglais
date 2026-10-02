@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1.0">
+<title>Mon Trajet en Anglais</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Manrope:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="app">
+
+  <!-- ============ HOME ============ -->
+  <div id="home">
+    <div class="home-header">
+      <div class="wordmark">Mon Trajet en <span>Anglais</span></div>
+      <div class="tagline">Apprends l'anglais en conduisant, en courant, en marchant.</div>
+    </div>
+
+    <div class="module-tabs" id="levelTabs"></div>
+    <div class="module-tabs" id="moduleTabs"></div>
+    <div class="module-summary" id="moduleSummary"></div>
+    <div class="lesson-list" id="lessonList"></div>
+
+    <div class="safety-note">
+      Conçu pour être utilisé sans les mains : lance une leçon avant de démarrer, pose ton téléphone, et laisse l'audio guider la séance. Garde toujours ton attention sur la route.
+    </div>
+  </div>
+
+  <!-- ============ SESSION ============ -->
+  <div id="session">
+    <div class="session-top">
+      <div class="back-btn" id="backBtn">
+        <svg viewBox="0 0 24 24" fill="none" stroke="var(--text)" stroke-width="2" stroke-linecap="round"><path d="M15 18l-6-6 6-6"/></svg>
+      </div>
+      <div class="session-title">
+        <div class="name" id="sessName">—</div>
+        <div class="count" id="sessCount">Phrase 1/10</div>
+      </div>
+    </div>
+
+    <div class="dots" id="dots"></div>
+
+    <div class="stage">
+      <div class="ring-wrap">
+        <div class="ring" id="ring">
+          <div class="ring-icon" id="ringIcon"></div>
+        </div>
+      </div>
+      <div class="phase-label" id="phaseLabel">Écoute en français</div>
+
+      <div class="phrase-card">
+        <div class="phrase-fr" id="phraseFr">—</div>
+        <div class="phrase-en" id="phraseEn">—</div>
+      </div>
+
+      <!-- Point de grammaire : s'affiche et se lit automatiquement, mais
+           reste à l'intérieur de la scène pour laisser la barre de temps
+           et les contrôles (±10s, précédent/suivant, retour) accessibles
+           à tout moment, comme pour une leçon normale. -->
+      <div class="tip-overlay" id="tipOverlay">
+        <div class="tip-card">
+          <div class="tip-badge">Point de grammaire</div>
+          <div class="tip-title" id="tipTitle">—</div>
+          <div class="tip-example" id="tipExample">—</div>
+          <div class="tip-body" id="tipBody">—</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="scrubber-row">
+      <span class="time-label" id="timeElapsed">0:00</span>
+      <input type="range" id="scrubber" class="scrubber" min="0" max="1000" value="0" step="1">
+      <span class="time-label" id="timeTotal">0:00</span>
+    </div>
+
+    <div class="controls">
+      <div class="ctrl-btn" id="prevBtn" title="Leçon précédente">
+        <svg viewBox="0 0 24 24" fill="none" stroke="var(--text)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 20L9 12l10-8v16z"/><path d="M5 19V5"/></svg>
+      </div>
+      <div class="ctrl-btn ctrl-skip" id="skipBackBtn" title="Reculer de 10 secondes">−10</div>
+      <div class="ctrl-btn ctrl-main" id="playPauseBtn">
+        <svg id="playIcon" viewBox="0 0 24 24" fill="#1A1200" stroke="none"><path d="M8 5v14l11-7z"/></svg>
+      </div>
+      <div class="ctrl-btn ctrl-skip" id="skipFwdBtn" title="Avancer de 10 secondes">+10</div>
+      <div class="ctrl-btn" id="nextBtn" title="Leçon suivante">
+        <svg viewBox="0 0 24 24" fill="none" stroke="var(--text)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4l10 8-10 8V4z"/><path d="M19 5v14"/></svg>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============ PAYWALL ============ -->
+  <div id="paywall">
+    <div class="paywall-inner">
+      <div class="paywall-icon">🔓</div>
+      <div class="paywall-title">Débloque les 600 phrases</div>
+      <div class="paywall-sub">Les premières leçons de chaque niveau sont gratuites (10 pour le niveau 1, 3 pour les suivants). Passe en version complète pour débloquer tous les modules et tous les niveaux disponibles.</div>
+      <button class="end-btn primary" id="buyBtn" style="width:100%;padding:16px;font-size:16px;">Débloquer — 9,99&nbsp;€</button>
+      <button class="restore-link" id="restoreBtn">Restaurer mes achats</button>
+      <button class="restore-link" id="closePaywallBtn">Retour</button>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+</div>
+
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
