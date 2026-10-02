@@ -6,10 +6,12 @@ workflows:
     integrations:
       app_store_connect: codemagic_ios_key
     environment:
+      ios_signing:
+        distribution_type: app_store
+        bundle_identifier: com.tonstudio.montrajet.anglais
       vars:
         XCODE_WORKSPACE: "ios/App/App.xcworkspace"
         XCODE_SCHEME: "App"
-        BUNDLE_ID: "com.tonstudio.montrajet.anglais"
       node: latest
       xcode: latest
       cocoapods: default
@@ -24,11 +26,6 @@ workflows:
       - name: Install CocoaPods dependencies
         script: |
           cd ios/App && pod install
-      - name: Fetch signing files
-        script: |
-          app-store-connect fetch-signing-files "$BUNDLE_ID" \
-            --type IOS_APP_STORE \
-            --create
       - name: Set up code signing settings on Xcode project
         script: |
           xcode-project use-profiles
