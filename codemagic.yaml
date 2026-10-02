@@ -12,6 +12,7 @@ workflows:
       vars:
         XCODE_WORKSPACE: "ios/App/App.xcworkspace"
         XCODE_SCHEME: "App"
+        BUNDLE_ID: "com.tonstudio.montrajet.anglais"
       node: latest
       xcode: latest
       cocoapods: default
@@ -31,7 +32,6 @@ workflows:
           xcode-project use-profiles
       - name: Increment build number
         script: |
-          cd $CM_BUILD_DIR
           LATEST_BUILD_NUMBER=$(app-store-connect get-latest-app-store-build-number "$BUNDLE_ID" || echo 0)
           agvtool new-version -all $(($LATEST_BUILD_NUMBER + 1))
         working_directory: ios/App
