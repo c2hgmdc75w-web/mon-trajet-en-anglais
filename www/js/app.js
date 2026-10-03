@@ -34,12 +34,12 @@ function loadState(){
 function saveState(s){ try{ localStorage.setItem('enroute_state', JSON.stringify(s)); }catch(e){} }
 let state = loadState();
 
-function showToast(msg){
+function showToast(msg, duration){
   const t = $('toast');
   t.textContent = msg;
   t.classList.add('show');
   clearTimeout(showToast._tm);
-  showToast._tm = setTimeout(()=>t.classList.remove('show'), 1800);
+  showToast._tm = setTimeout(()=>t.classList.remove('show'), duration || 1800);
 }
 
 function isLessonUnlocked(moduleId, lessonIndex){
@@ -900,13 +900,21 @@ async function buyPremium(){
     const pkg = offerings && offerings.current && offerings.current.availablePackages
       ? offerings.current.availablePackages.find(p => p.product && p.product.identifier === PRODUCT_ID) || offerings.current.availablePackages[0]
       : null;
-    if(!pkg){ showToast("Produit indisponible pour le moment."); return; }
+    if(!pkg){
+      const nbPackages = (offerings && offerings.current && offerings.current.availablePackages) ? offerings.current.availablePackages.length : -1;
+      const hasCurrent = !!(offerings && offerings.current);
+      showToast("Produit indisponible (offering=" + hasCurrent + ", packages=" + nbPackages + ")", 8000);
+      return;
+    }
     const { customerInfo } = await Purchases.purchasePackage({ aPackage: pkg });
     applyCustomerInfo(customerInfo);
     if(state.premium){ closePaywall(); showToast('Version complète débloquée 🎉'); }
   }catch(e){
     if(e && e.userCancelled) return; // l'utilisateur a annulé, rien à dire
-    showToast("L'achat n'a pas pu aboutir. Réessaie dans un instant.");
+    // DEBUG TEMPORAIRE : on affiche le détail de l'erreur pour diagnostiquer.
+    let detail = '';
+    try{ detail = (e && (e.message || e.code || JSON.stringify(e))) || 'erreur inconnue'; }catch(_){ detail = 'erreur inconnue'; }
+    showToast("Achat échoué : " + detail, 8000);
   }
 }
 async function restorePremium(){
