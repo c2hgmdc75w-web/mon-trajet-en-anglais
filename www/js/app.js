@@ -836,7 +836,7 @@ function skipBy(deltaMs){
 //   (ex. "premium"), qui doit être rattaché au produit des deux stores.
 // - PRODUCT_ID : l'identifiant du produit "version complète" créé à
 //   l'IDENTIQUE dans App Store Connect ET Google Play Console.
-const REVENUECAT_API_KEY_IOS = 'appl_qNDcGongiAZkuJLEfSPhEjMlQDg';
+const REVENUECAT_API_KEY_IOS = 'appl_qNDcGongiAZkuJLEfSPhEjMlQDq';
 const REVENUECAT_API_KEY_ANDROID = 'TODO_REVENUECAT_ANDROID_KEY';
 const ENTITLEMENT_ID = 'mon_trajet_pro';
 const PRODUCT_ID = 'version_complete';
