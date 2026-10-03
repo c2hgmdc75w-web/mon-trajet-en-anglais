@@ -32,8 +32,7 @@ workflows:
           xcode-project use-profiles
       - name: Increment build number
         script: |
-          LATEST_BUILD_NUMBER=$(app-store-connect get-latest-app-store-build-number "$BUNDLE_ID" || echo 0)
-          agvtool new-version -all $(($LATEST_BUILD_NUMBER + 1))
+          agvtool new-version -all $(date +%s)
         working_directory: ios/App
       - name: Build ipa for distribution
         script: |
