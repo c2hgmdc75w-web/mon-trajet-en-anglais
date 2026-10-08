@@ -889,7 +889,6 @@ function unlockPremium(){
 
 async function buyPremium(){
   if(!isNativeApp()){
-    // Mode test navigateur : pas de vrai paiement possible ici.
     unlockPremium();
     return;
   }
@@ -901,20 +900,15 @@ async function buyPremium(){
       ? offerings.current.availablePackages.find(p => p.product && p.product.identifier === PRODUCT_ID) || offerings.current.availablePackages[0]
       : null;
     if(!pkg){
-      const nbPackages = (offerings && offerings.current && offerings.current.availablePackages) ? offerings.current.availablePackages.length : -1;
-      const hasCurrent = !!(offerings && offerings.current);
-      showToast("Produit indisponible (offering=" + hasCurrent + ", packages=" + nbPackages + ")", 8000);
+      showToast("Produit indisponible pour le moment. Réessaie plus tard.");
       return;
     }
     const { customerInfo } = await Purchases.purchasePackage({ aPackage: pkg });
     applyCustomerInfo(customerInfo);
     if(state.premium){ closePaywall(); showToast('Version complète débloquée 🎉'); }
   }catch(e){
-    if(e && e.userCancelled) return; // l'utilisateur a annulé, rien à dire
-    // DEBUG TEMPORAIRE : on affiche le détail de l'erreur pour diagnostiquer.
-    let detail = '';
-    try{ detail = (e && (e.message || e.code || JSON.stringify(e))) || 'erreur inconnue'; }catch(_){ detail = 'erreur inconnue'; }
-    showToast("Achat échoué : " + detail, 8000);
+    if(e && e.userCancelled) return;
+    showToast("L'achat n'a pas pu aboutir. Réessaie plus tard.");
   }
 }
 async function restorePremium(){
