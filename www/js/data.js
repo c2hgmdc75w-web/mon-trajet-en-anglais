@@ -1679,9 +1679,9 @@ const LEVEL2_MODULES = [
   },
   {
     id:3, name:"Conversation sociale",
-    desc:"Bientôt disponible.",
+    desc:"Exprime tes opinions, tes émotions et gère les petites situations sociales du quotidien avec plus d'aisance.",
     totalPhrases:200, lessonsCount:20,
-    lessons: buildLockedLessons([], 20)
+    lessons: level2Module3Lessons
   }
 ];
 const LEVEL2_FREE_LESSONS = { 1: 3, 2: 0, 3: 0 }; // à partir du niveau 2, seulement 3 leçons gratuites
