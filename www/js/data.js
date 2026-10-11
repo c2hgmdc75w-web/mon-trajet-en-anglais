@@ -2498,20 +2498,20 @@ const level3Module3Lessons = [
 
 const LEVEL3_MODULES = [
   {
-    id:1, name:"Quotidien",
-    desc:"Le quotidien à un niveau avancé : conditionnels, voix passive, phrasal verbs et regrets pour t'exprimer avec plus de précision.",
+    id:1, name:"Le quotidien",
+    desc:"Exprime-toi avec plus de nuance dans les situations de la vie de tous les jours : hypothèses, regrets, voix passive et tournures idiomatiques.",
     totalPhrases:200, lessonsCount:20,
     lessons: level3Module1Lessons
   },
   {
     id:2, name:"En voyage",
-    desc:"Gère les imprévus de voyage avec aisance : conditionnels mixtes, voix passive au passé et tournures plus naturelles.",
+    desc:"Raconte tes voyages avec un anglais plus riche : conditions mixtes, inversions et expressions imagées.",
     totalPhrases:200, lessonsCount:20,
     lessons: level3Module2Lessons
   },
   {
     id:3, name:"Conversation sociale",
-    desc:"Nuance tes propos, donne des conseils avec tact et maîtrise les tournures les plus fines de la conversation.",
+    desc:"Maîtrise les nuances d'un anglais soutenu pour les discussions délicates, les débats et les moments importants de la vie.",
     totalPhrases:200, lessonsCount:20,
     lessons: level3Module3Lessons
   }
