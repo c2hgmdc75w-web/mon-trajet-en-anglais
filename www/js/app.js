@@ -162,11 +162,14 @@ function renderHome(){
         : ICONS.headphones.replace('stroke-width="2"','stroke="var(--target)" stroke-width="2"')
       }</div>
       <div class="lesson-text">
-        <div class="lesson-title">Bien commencer ensemble <span class="free-tag">GRATUIT</span></div>
+        <div class="lesson-title">Bien commencer ensemble ${state.premium ? '' : '<span class="free-tag">GRATUIT</span>'}</div>
         <div class="lesson-sub">Un mot avant de démarrer — à propos de ma voix</div>
       </div>
     </div>`;
   }
+
+  // Badge "GRATUIT" : seulement tant que la version complète n'est pas débloquée.
+  const freeTag = state.premium ? '' : '<span class="free-tag">GRATUIT</span>';
 
   for(let i=0;i<m.lessonsCount;i++){
     const lesson = m.lessons[i];
@@ -184,7 +187,7 @@ function renderHome(){
             : ICONS.headphones.replace('stroke-width="2"','stroke="var(--text-muted)" stroke-width="2"')))
       }</div>
       <div class="lesson-text">
-        <div class="lesson-title">Leçon ${i+1}${lesson.title? ' · '+lesson.title:''} ${unlocked && content ? '<span class="free-tag">GRATUIT</span>':''}</div>
+        <div class="lesson-title">Leçon ${i+1}${lesson.title? ' · '+lesson.title:''} ${unlocked && content ? freeTag : ''}</div>
         <div class="lesson-sub">Phrases ${start}–${end}${content? (unlocked? '' : ' · version complète'):' · bientôt disponible'}</div>
       </div>
     </div>`;
@@ -201,7 +204,7 @@ function renderHome(){
             : ICONS.headphones.replace('stroke-width="2"','stroke="var(--context)" stroke-width="2"'))
         }</div>
         <div class="lesson-text">
-          <div class="lesson-title">Point grammaire ${tipNum} ${unlocked ? '<span class="free-tag">GRATUIT</span>':''}</div>
+          <div class="lesson-title">Point grammaire ${tipNum} ${unlocked ? freeTag : ''}</div>
           <div class="lesson-sub">${lesson.tip.title}</div>
         </div>
       </div>`;
@@ -225,7 +228,7 @@ function renderHome(){
             : ICONS.repeat.replace('stroke-width="2"','stroke="var(--speak)" stroke-width="2"'))
         }</div>
         <div class="lesson-text">
-          <div class="lesson-title">${evalLabel} ${unlocked ? '<span class="free-tag">GRATUIT</span>':''}</div>
+          <div class="lesson-title">${evalLabel} ${unlocked ? freeTag : ''}</div>
           <div class="lesson-sub">${evalSub}</div>
         </div>
       </div>`;
