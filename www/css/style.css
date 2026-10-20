@@ -27,7 +27,7 @@ body{
 .tagline{color:var(--text-muted);font-size:13px;margin-top:2px;}
 
 /* ---------- HOME ---------- */
-#home{padding:28px 20px 100px;}
+#home{padding:calc(28px + env(safe-area-inset-top)) 20px calc(100px + env(safe-area-inset-bottom));}
 .home-header{margin-bottom:22px;}
 
 .module-tabs{display:flex;gap:8px;overflow-x:auto;padding-bottom:4px;margin-bottom:20px;scrollbar-width:none;}
@@ -61,7 +61,7 @@ body{
 .safety-note{margin-top:24px;color:var(--text-muted);font-size:12.5px;line-height:1.6;border-top:1px solid var(--border);padding-top:16px;}
 
 /* ---------- SESSION ---------- */
-#session{display:none;flex-direction:column;flex:1;padding:20px;min-height:100vh;position:relative;}
+#session{display:none;flex-direction:column;flex:1;padding:calc(20px + env(safe-area-inset-top)) 20px calc(20px + env(safe-area-inset-bottom));min-height:100vh;position:relative;}
 .session-top{display:flex;align-items:center;gap:12px;margin-bottom:8px;position:relative;z-index:10;}
 .back-btn{width:44px;height:44px;border-radius:50%;background:var(--surface);border:1px solid var(--border);display:flex;align-items:center;justify-content:center;cursor:pointer;flex-shrink:0;touch-action:manipulation;-webkit-tap-highlight-color:rgba(255,255,255,.15);position:relative;z-index:10;}
 .session-title{flex:1;}
