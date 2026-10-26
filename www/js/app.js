@@ -328,7 +328,7 @@ function buildIntroSegments(){
 
   let pathText;
   if(platform === 'ios'){
-    pathText = "Tu es sur iPhone. Voici le chemin : ouvre l'application Réglages. Va dans Accessibilité. Puis Contenu énoncé. Puis Voix. Puis Français. Et télécharge une voix marquée Améliorée, ou Premium, si elle est proposée. Une fois téléchargée, elle sera automatiquement utilisée ici, sans rien à faire de plus.";
+    pathText = "Tu es sur iPhone. Voici le chemin : ouvre l'application Réglages. Va dans Accessibilité. Puis Contenu énoncé. Puis Voix. Puis Français. Et télécharge une voix marquée Améliorée, ou Premium, si elle est proposée. Fais la même chose dans Anglais, États-Unis, pour la voix anglaise. Une fois téléchargées, ces voix seront automatiquement utilisées ici, sans rien à faire de plus.";
   } else if(platform === 'android'){
     pathText = "Tu es sur Android. Voici le chemin, qui peut varier légèrement selon la marque de ton téléphone : ouvre les Paramètres. Va dans Système, ou Paramètres généraux. Puis Langues et saisie. Puis Synthèse vocale, ou Text-to-speech. Choisis le moteur Google. Installe les données vocales en français. Et choisis, si elle est proposée, une voix Réseau plutôt qu'une voix Compacte, pour un rendu plus naturel.";
   } else {
@@ -575,6 +575,45 @@ function hasWebSpeech(){
 function getTTSPlugin(){
   return (window.Capacitor && window.Capacitor.Plugins && window.Capacitor.Plugins.TextToSpeech) || null;
 }
+/* ---------- choix explicite de la meilleure voix iOS/Android ----------
+   Quand on ne passe que la langue au plugin, iOS utilise la voix par défaut
+   de base (compacte, robotique) et IGNORE la voix téléchargée dans Réglages >
+   Accessibilité > Contenu énoncé. On liste donc les voix installées et on
+   désigne nous-mêmes la meilleure : Premium > Améliorée > standard (jamais
+   les voix "fantaisie"). Liste relue au retour au premier plan, pour qu'une
+   voix téléchargée entre-temps soit prise en compte sans relancer l'app. */
+let nativeVoiceIdx = {};
+let nativeVoicesLoaded = false;
+function nativeVoiceScore(v){
+  const id = ((v.voiceURI||'') + ' ' + (v.name||'')).toLowerCase();
+  if(id.includes('eloquence') || id.includes('speech.synthesis.voice') || id.includes('novelty')) return -100;
+  let s = 0;
+  if(id.includes('premium')) s += 30;
+  else if(id.includes('enhanced') || id.includes('amélior') || id.includes('network') || id.includes('réseau')) s += 20;
+  if(id.includes('compact')) s -= 5;
+  return s;
+}
+function bestNativeVoice(list, exact, prefix){
+  const norm = v=>(v.lang||'').toLowerCase().replace('_','-');
+  const all = list.map((v,i)=>({v,i}));
+  let c = all.filter(o=>norm(o.v) === exact);
+  if(!c.length) c = all.filter(o=>norm(o.v).startsWith(prefix));
+  if(!c.length) return -1;
+  c.sort((a,b)=>nativeVoiceScore(b.v) - nativeVoiceScore(a.v));
+  return nativeVoiceScore(c[0].v) < -50 ? -1 : c[0].i;
+}
+async function loadNativeVoices(){
+  if(nativeVoicesLoaded) return;
+  nativeVoicesLoaded = true;
+  const tts = getTTSPlugin();
+  if(!tts || !tts.getSupportedVoices) return;
+  try{
+    const r = await tts.getSupportedVoices();
+    const list = (r && r.voices) || [];
+    nativeVoiceIdx = { fr: bestNativeVoice(list, 'fr-fr', 'fr'), tgt: bestNativeVoice(list, 'en-us', 'en') };
+  }catch(e){ nativeVoiceIdx = {}; }
+}
+document.addEventListener('visibilitychange', ()=>{ if(!document.hidden) nativeVoicesLoaded = false; });
 async function cancelSpeech(){
   if(isNativeApp()){
     const tts = getTTSPlugin();
@@ -607,8 +646,12 @@ function speakSeg(seg, token){
     if(isNativeApp()){
       const tts = getTTSPlugin();
       if(!tts){ resolve(); return; }
+      await loadNativeVoices();
+      const opts = { text: seg.text, lang, rate: seg.rate || 1, category: 'ambient' };
+      const vi = nativeVoiceIdx[seg.lang === 'fr' ? 'fr' : 'tgt'];
+      if(typeof vi === 'number' && vi >= 0) opts.voice = vi;
       try{
-        await tts.speak({ text: seg.text, lang, rate: seg.rate || 1, category: 'ambient' });
+        await tts.speak(opts);
       }catch(e){ /* on continue malgré une éventuelle erreur du plugin */ }
       resolve();
       return;
