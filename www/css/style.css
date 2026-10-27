@@ -131,3 +131,19 @@ body{
 
 .toast{position:fixed;left:50%;bottom:26px;transform:translate(-50%,20px);background:var(--surface-2);border:1px solid var(--border);padding:11px 18px;border-radius:999px;font-size:13px;color:var(--text);opacity:0;transition:all .25s ease;pointer-events:none;max-width:88%;text-align:center;z-index:30;}
 .toast.show{opacity:1;transform:translate(-50%,0);}
+
+/* ---------- choix des voix ---------- */
+.voice-btn{display:inline-block;margin:-8px 0 18px;padding:9px 14px;border-radius:999px;border:1px solid var(--border);background:var(--surface);color:var(--text-muted);font-weight:600;font-size:13px;cursor:pointer;font-family:'Manrope',sans-serif;}
+#voicePicker{display:none;position:fixed;inset:0;background:var(--bg);z-index:25;overflow-y:auto;-webkit-overflow-scrolling:touch;}
+#voicePicker.show{display:block;}
+.voice-inner{max-width:480px;margin:0 auto;padding:calc(24px + env(safe-area-inset-top)) 20px calc(30px + env(safe-area-inset-bottom));}
+.voice-title{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:22px;margin-bottom:8px;}
+.voice-sub{color:var(--text-muted);font-size:13.5px;line-height:1.55;margin-bottom:18px;}
+.voice-section{margin-bottom:18px;}
+.voice-section-title{font-weight:800;font-size:14px;margin-bottom:8px;color:var(--text);}
+.voice-item{display:flex;align-items:center;justify-content:space-between;padding:12px 14px;border:1px solid var(--border);background:var(--surface);border-radius:14px;margin-bottom:8px;cursor:pointer;}
+.voice-item.selected{border-color:var(--target);}
+.voice-name{font-weight:700;font-size:15px;}
+.voice-meta{color:var(--text-muted);font-size:12.5px;margin-top:2px;}
+.voice-check{color:var(--target);font-weight:800;font-size:18px;min-width:20px;text-align:right;}
+.voice-empty{color:var(--text-muted);font-size:13.5px;padding:8px 2px;}

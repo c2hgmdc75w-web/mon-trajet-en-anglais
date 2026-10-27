@@ -323,14 +323,14 @@ function buildIntroSegments(){
   segs.push(S("Nous allons commencer à travailler ensemble. Mais ma voix dépend de toi.", 'fr', 1, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
   segs.push(W(400, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
 
-  segs.push(S("Si tu trouves ma voix trop robotique, sache que tu peux l'améliorer directement dans les réglages de ton téléphone.", 'fr', 1, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
+  segs.push(S("Si tu trouves ma voix trop robotique, tu peux en changer à tout moment. Sur l'écran d'accueil, appuie sur le bouton Choisir les voix, juste sous le titre. Tu y verras toutes les voix installées sur ton téléphone, en français et en anglais. Appuie sur une voix pour l'écouter : elle sera choisie automatiquement pour les leçons.", 'fr', 1, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
   segs.push(W(500, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
 
   let pathText;
   if(platform === 'ios'){
-    pathText = "Tu es sur iPhone. Voici le chemin : ouvre l'application Réglages. Va dans Accessibilité. Puis Contenu énoncé. Puis Voix. Puis Français. Et télécharge une voix marquée Améliorée, ou Premium, si elle est proposée. Fais la même chose dans Anglais, États-Unis, pour la voix anglaise. Une fois téléchargées, ces voix seront automatiquement utilisées ici, sans rien à faire de plus.";
+    pathText = "Pour avoir des voix plus naturelles, tu peux en télécharger de nouvelles sur ton iPhone. Voici le chemin : ouvre l'application Réglages. Va dans Accessibilité. Puis Lire et énoncer, ou Contenu énoncé selon ta version. Puis Voix. Puis Français. Et télécharge une voix marquée Premium, ou Améliorée. Fais la même chose dans Anglais. Ensuite, reviens dans l'application et choisis la nouvelle voix avec le bouton Choisir les voix. Attention, les voix Siri ne sont pas disponibles pour les applications.";
   } else if(platform === 'android'){
-    pathText = "Tu es sur Android. Voici le chemin, qui peut varier légèrement selon la marque de ton téléphone : ouvre les Paramètres. Va dans Système, ou Paramètres généraux. Puis Langues et saisie. Puis Synthèse vocale, ou Text-to-speech. Choisis le moteur Google. Installe les données vocales en français. Et choisis, si elle est proposée, une voix Réseau plutôt qu'une voix Compacte, pour un rendu plus naturel.";
+    pathText = "Tu es sur Android. Voici le chemin, qui peut varier légèrement selon la marque de ton téléphone : ouvre les Paramètres. Va dans Système, ou Paramètres généraux. Puis Langues et saisie. Puis Synthèse vocale, ou Text-to-speech. Choisis le moteur Google. Installe les données vocales en français. Et choisis, si elle est proposée, une voix Réseau plutôt qu'une voix Compacte, pour un rendu plus naturel. Ensuite, reviens dans l'application et choisis la nouvelle voix avec le bouton Choisir les voix.";
   } else {
     pathText = "La qualité de la voix dépend des voix installées sur ton appareil ou ton navigateur. Regarde du côté des réglages d'accessibilité ou de synthèse vocale pour en installer une meilleure, si une est disponible.";
   }
@@ -582,25 +582,44 @@ function getTTSPlugin(){
    désigne nous-mêmes la meilleure : Premium > Améliorée > standard (jamais
    les voix "fantaisie"). Liste relue au retour au premier plan, pour qu'une
    voix téléchargée entre-temps soit prise en compte sans relancer l'app. */
+const VOICE_LANGS = {
+  fr:  { exact:'fr-fr', prefix:'fr', label:'Français', sample:"Bonjour, c'est moi qui te lirai les phrases en français." },
+  tgt: { exact:'en-us', prefix:'en', label:'Anglais', sample:"Hello! I'll be the one reading the English sentences to you." }
+};
 let nativeVoiceIdx = {};
+let nativeVoiceList = [];
 let nativeVoicesLoaded = false;
-function nativeVoiceScore(v){
+function voiceQuality(v){
   const id = ((v.voiceURI||'') + ' ' + (v.name||'')).toLowerCase();
   if(id.includes('eloquence') || id.includes('speech.synthesis.voice') || id.includes('novelty')) return -100;
-  let s = 0;
-  if(id.includes('premium')) s += 30;
-  else if(id.includes('enhanced') || id.includes('amélior') || id.includes('network') || id.includes('réseau')) s += 20;
-  if(id.includes('compact')) s -= 5;
-  return s;
+  if(id.includes('premium')) return 30;
+  if(id.includes('enhanced') || id.includes('amélior') || id.includes('network') || id.includes('réseau')) return 20;
+  if(id.includes('compact')) return -5;
+  return 0;
 }
-function bestNativeVoice(list, exact, prefix){
-  const norm = v=>(v.lang||'').toLowerCase().replace('_','-');
-  const all = list.map((v,i)=>({v,i}));
-  let c = all.filter(o=>norm(o.v) === exact);
-  if(!c.length) c = all.filter(o=>norm(o.v).startsWith(prefix));
-  if(!c.length) return -1;
-  c.sort((a,b)=>nativeVoiceScore(b.v) - nativeVoiceScore(a.v));
-  return nativeVoiceScore(c[0].v) < -50 ? -1 : c[0].i;
+function voiceQualityLabel(v){
+  const q = voiceQuality(v);
+  return q >= 30 ? 'Premium' : q >= 20 ? 'Améliorée' : 'Standard';
+}
+const normLang = v=>(v.lang||'').toLowerCase().replace('_','-');
+function voicesFor(key){
+  const L = VOICE_LANGS[key];
+  const all = nativeVoiceList.map((v,i)=>({v,i})).filter(o=>voiceQuality(o.v) > -50);
+  let c = all.filter(o=>normLang(o.v) === L.exact);
+  const others = all.filter(o=>normLang(o.v) !== L.exact && normLang(o.v).startsWith(L.prefix));
+  c = c.sort((a,b)=>voiceQuality(b.v)-voiceQuality(a.v) || (a.v.name||'').localeCompare(b.v.name||''));
+  return c.concat(others.sort((a,b)=>voiceQuality(b.v)-voiceQuality(a.v)));
+}
+function loadVoicePrefs(){ try{ return JSON.parse(localStorage.getItem('montrajet_voices')||'{}'); }catch(e){ return {}; } }
+function saveVoicePrefs(p){ try{ localStorage.setItem('montrajet_voices', JSON.stringify(p)); }catch(e){} }
+function resolveVoiceIdx(){
+  const prefs = loadVoicePrefs();
+  nativeVoiceIdx = {};
+  for(const key of Object.keys(VOICE_LANGS)){
+    const cands = voicesFor(key);
+    const chosen = prefs[key] && cands.find(o=>o.v.voiceURI === prefs[key]);
+    nativeVoiceIdx[key] = chosen ? chosen.i : (cands.length ? cands[0].i : -1);
+  }
 }
 async function loadNativeVoices(){
   if(nativeVoicesLoaded) return;
@@ -609,11 +628,56 @@ async function loadNativeVoices(){
   if(!tts || !tts.getSupportedVoices) return;
   try{
     const r = await tts.getSupportedVoices();
-    const list = (r && r.voices) || [];
-    nativeVoiceIdx = { fr: bestNativeVoice(list, 'fr-fr', 'fr'), tgt: bestNativeVoice(list, 'en-us', 'en') };
-  }catch(e){ nativeVoiceIdx = {}; }
+    nativeVoiceList = (r && r.voices) || [];
+  }catch(e){ nativeVoiceList = []; }
+  resolveVoiceIdx();
 }
 document.addEventListener('visibilitychange', ()=>{ if(!document.hidden) nativeVoicesLoaded = false; });
+
+/* ---------- écran "Choisir les voix" ----------
+   Liste les voix réellement installées sur le téléphone pour le français et
+   la langue apprise, avec leur qualité. Un appui choisit la voix (mémorisée)
+   et la fait entendre. Par défaut, la meilleure voix est choisie. */
+async function openVoicePicker(){
+  $('voicePicker').classList.add('show');
+  $('voiceLists').innerHTML = '<div class="voice-empty">Chargement des voix…</div>';
+  if(!isNativeApp()){
+    $('voiceLists').innerHTML = '<div class="voice-empty">Le choix des voix est disponible dans l\'app sur iPhone.</div>';
+    return;
+  }
+  nativeVoicesLoaded = false;
+  await loadNativeVoices();
+  renderVoicePicker();
+}
+function closeVoicePicker(){ $('voicePicker').classList.remove('show'); cancelSpeech(); }
+function renderVoicePicker(){
+  let html = '';
+  for(const key of Object.keys(VOICE_LANGS)){
+    const L = VOICE_LANGS[key];
+    const cands = voicesFor(key);
+    html += `<div class="voice-section"><div class="voice-section-title">${L.label}</div>`;
+    if(!cands.length) html += '<div class="voice-empty">Aucune voix installée pour cette langue.</div>';
+    for(const o of cands){
+      const sel = nativeVoiceIdx[key] === o.i;
+      html += `<div class="voice-item${sel?' selected':''}" data-key="${key}" data-i="${o.i}">
+        <div><div class="voice-name">${o.v.name || 'Voix'}</div><div class="voice-meta">${voiceQualityLabel(o.v)} · ${o.v.lang||''}</div></div>
+        <div class="voice-check">${sel?'✓':''}</div></div>`;
+    }
+    html += '</div>';
+  }
+  $('voiceLists').innerHTML = html;
+  document.querySelectorAll('.voice-item').forEach(el=>{
+    el.onclick = async ()=>{
+      const key = el.dataset.key, i = parseInt(el.dataset.i, 10);
+      const v = nativeVoiceList[i];
+      const prefs = loadVoicePrefs(); prefs[key] = v.voiceURI; saveVoicePrefs(prefs);
+      nativeVoiceIdx[key] = i;
+      renderVoicePicker();
+      const tts = getTTSPlugin();
+      if(tts){ try{ await tts.stop(); await tts.speak({ text: VOICE_LANGS[key].sample, lang: v.lang, voice: i, rate: 1, category: 'ambient' }); }catch(e){} }
+    };
+  });
+}
 async function cancelSpeech(){
   if(isNativeApp()){
     const tts = getTTSPlugin();
@@ -1077,6 +1141,8 @@ $('scrubber').addEventListener('change', ()=>{
 $('buyBtn').onclick = buyPremium;
 $('restoreBtn').onclick = restorePremium;
 $('closePaywallBtn').onclick = closePaywall;
+$('voiceBtn').onclick = openVoicePicker;
+$('closeVoiceBtn').onclick = closeVoicePicker;
 
 if('speechSynthesis' in window){
   speechSynthesis.onvoiceschanged = ()=>{ voices = speechSynthesis.getVoices(); };
