@@ -323,7 +323,7 @@ function buildIntroSegments(){
   segs.push(S("Nous allons commencer à travailler ensemble. Mais ma voix dépend de toi.", 'fr', 1, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
   segs.push(W(400, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
 
-  segs.push(S("Si tu trouves ma voix trop robotique, tu peux en changer à tout moment. Sur l'écran d'accueil, appuie sur le bouton Choisir les voix, juste sous le titre. Tu y verras toutes les voix installées sur ton téléphone, en français et en anglais. Appuie sur une voix pour l'écouter : elle sera choisie automatiquement pour les leçons.", 'fr', 1, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
+  segs.push(S("Si tu trouves ma voix trop robotique, tu peux en changer à tout moment. Sur l'écran d'accueil, appuie sur le bouton Choisir les voix, juste sous le titre. Tu y verras toutes les voix installées sur ton téléphone, en français et en anglais. Appuie sur une voix pour l'écouter : elle sera choisie automatiquement pour les leçons. Attention, cette liste ne montre que les voix déjà téléchargées sur ton téléphone. D'autres voix, d'homme ou de femme, sont disponibles gratuitement dans les Réglages : il faut d'abord les télécharger. Le bouton Plus de voix, sous chaque langue, t'explique exactement où les trouver.", 'fr', 1, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
   segs.push(W(500, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
 
   let pathText;
@@ -583,8 +583,8 @@ function getTTSPlugin(){
    les voix "fantaisie"). Liste relue au retour au premier plan, pour qu'une
    voix téléchargée entre-temps soit prise en compte sans relancer l'app. */
 const VOICE_LANGS = {
-  fr:  { exact:'fr-fr', prefix:'fr', label:'Français', sample:"Bonjour, c'est moi qui te lirai les phrases en français." },
-  tgt: { exact:'en-us', prefix:'en', label:'Anglais', sample:"Hello! I'll be the one reading the English sentences to you." }
+  fr:  { exact:'fr-fr', prefix:'fr', label:'Français', settings:'Français, puis les voix « France »', sample:"Bonjour, c'est moi qui te lirai les phrases en français." },
+  tgt: { exact:'en-us', prefix:'en', label:'Anglais', settings:'Anglais, puis les voix « États-Unis »', sample:"Hello! I'll be the one reading the English sentences to you." }
 };
 let nativeVoiceIdx = {};
 let nativeVoiceList = [];
@@ -632,7 +632,12 @@ async function loadNativeVoices(){
   }catch(e){ nativeVoiceList = []; }
   resolveVoiceIdx();
 }
-document.addEventListener('visibilitychange', ()=>{ if(!document.hidden) nativeVoicesLoaded = false; });
+document.addEventListener('visibilitychange', async ()=>{
+  if(document.hidden) return;
+  nativeVoicesLoaded = false;
+  // Retour des Réglages avec l'écran des voix ouvert : on relit la liste tout de suite.
+  if($('voicePicker') && $('voicePicker').classList.contains('show') && isNativeApp()){ await loadNativeVoices(); renderVoicePicker(); }
+});
 
 /* ---------- écran "Choisir les voix" ----------
    Liste les voix réellement installées sur le téléphone pour le français et
@@ -663,9 +668,16 @@ function renderVoicePicker(){
         <div><div class="voice-name">${o.v.name || 'Voix'}</div><div class="voice-meta">${voiceQualityLabel(o.v)} · ${o.v.lang||''}</div></div>
         <div class="voice-check">${sel?'✓':''}</div></div>`;
     }
+    html += `<button class="voice-more" data-help="${key}">＋ Plus de voix ${key === 'fr' ? 'en français' : 'en anglais'}</button>
+      <div class="voice-help" id="voiceHelp-${key}">Ton iPhone n'affiche ici que les voix <b>déjà téléchargées</b>. D'autres voix, d'homme ou de femme, sont disponibles gratuitement :<ol>
+        <li>Ouvre l'app <b>Réglages</b> de l'iPhone</li><li><b>Accessibilité</b></li><li><b>Contenu énoncé</b> (ou <b>Lire et énoncer</b>)</li><li><b>Voix</b></li><li><b>${L.settings}</b></li>
+        <li>Touche une voix (de préférence <b>Premium</b> ou <b>Améliorée</b>) et télécharge-la</li></ol>Reviens ensuite dans l'app : la nouvelle voix apparaîtra ici automatiquement. Les voix Siri ne sont pas disponibles pour les applications.</div>`;
     html += '</div>';
   }
   $('voiceLists').innerHTML = html;
+  document.querySelectorAll('.voice-more').forEach(b=>{
+    b.onclick = ()=>{ const h = $('voiceHelp-' + b.dataset.help); h.classList.toggle('show'); };
+  });
   document.querySelectorAll('.voice-item').forEach(el=>{
     el.onclick = async ()=>{
       const key = el.dataset.key, i = parseInt(el.dataset.i, 10);
