@@ -13,7 +13,7 @@ workflows:
         XCODE_WORKSPACE: "ios/App/App.xcworkspace"
         XCODE_SCHEME: "App"
         BUNDLE_ID: "com.tonstudio.montrajet.anglais"
-        APP_VERSION: "1.0.2"   # numéro de version App Store : à augmenter à chaque nouvelle version soumise
+        APP_VERSION: "1.0.3"   # numéro de version App Store : à augmenter à chaque nouvelle version soumise
       node: latest
       xcode: latest
       cocoapods: default
@@ -49,6 +49,22 @@ workflows:
           sed -i '' "s/MARKETING_VERSION = [^;]*;/MARKETING_VERSION = $APP_VERSION;/g" ios/App/App.xcodeproj/project.pbxproj
           /usr/libexec/PlistBuddy -c "Set :CFBundleShortVersionString $APP_VERSION" ios/App/App/Info.plist
           /usr/libexec/PlistBuddy -c "Print :CFBundleShortVersionString" ios/App/App/Info.plist
+      - name: CarPlay / Bluetooth audio fix (session audio principale + arriere-plan)
+        script: |
+          # Le plugin TTS ouvre la session audio en ".playback" + ".duckOthers" :
+          # CarPlay traite alors la voix comme une annonce secondaire (type GPS)
+          # et coupe/rétablit le son à chaque phrase -> mots manquants en voiture.
+          # On en fait une source audio principale, mode "spokenAudio", sans ducking.
+          F=node_modules/@capacitor-community/text-to-speech/ios/Sources/TextToSpeechPlugin/TextToSpeech.swift
+          perl -0pi -e 's/setCategory\(avAudioSessionCategory, mode: \.default, options: \.duckOthers\)/setCategory(avAudioSessionCategory, mode: .spokenAudio, options: [])/' "$F"
+          grep -q "mode: .spokenAudio, options: \[\]" "$F" || { echo "PATCH TTS NON APPLIQUE"; exit 1; }
+          grep -n "setCategory" "$F"
+          # Lecture qui continue écran verrouillé (indispensable en voiture).
+          PLIST=ios/App/App/Info.plist
+          /usr/libexec/PlistBuddy -c "Delete :UIBackgroundModes" "$PLIST" 2>/dev/null || true
+          /usr/libexec/PlistBuddy -c "Add :UIBackgroundModes array" "$PLIST"
+          /usr/libexec/PlistBuddy -c "Add :UIBackgroundModes:0 string audio" "$PLIST"
+          plutil -lint "$PLIST"
       - name: Install CocoaPods dependencies
         script: |
           cd ios/App && pod install
