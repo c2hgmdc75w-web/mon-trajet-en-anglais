@@ -49,16 +49,16 @@ workflows:
           sed -i '' "s/MARKETING_VERSION = [^;]*;/MARKETING_VERSION = $APP_VERSION;/g" ios/App/App.xcodeproj/project.pbxproj
           /usr/libexec/PlistBuddy -c "Set :CFBundleShortVersionString $APP_VERSION" ios/App/App/Info.plist
           /usr/libexec/PlistBuddy -c "Print :CFBundleShortVersionString" ios/App/App/Info.plist
-      - name: CarPlay / Bluetooth audio fix (session audio principale + arriere-plan)
+      - name: CarPlay / Bluetooth audio fix (plugin TTS modifié + lecture en arrière-plan)
         script: |
-          # Le plugin TTS ouvre la session audio en ".playback" + ".duckOthers" :
-          # CarPlay traite alors la voix comme une annonce secondaire (type GPS)
-          # et coupe/rétablit le son à chaque phrase -> mots manquants en voiture.
-          # On en fait une source audio principale, mode "spokenAudio", sans ducking.
+          # Remplace l'implémentation iOS du plugin TTS par notre version
+          # (ios-patch/TextToSpeech.swift) : session audio principale activée une
+          # seule fois, sans ducking, + piste keep-alive quasi silencieuse en boucle
+          # pour que CarPlay/Bluetooth ne coupe jamais le canal entre les mots.
           F=node_modules/@capacitor-community/text-to-speech/ios/Sources/TextToSpeechPlugin/TextToSpeech.swift
-          perl -0pi -e 's/setCategory\(avAudioSessionCategory, mode: \.default, options: \.duckOthers\)/setCategory(avAudioSessionCategory, mode: .spokenAudio, options: [])/' "$F"
-          grep -q "mode: .spokenAudio, options: \[\]" "$F" || { echo "PATCH TTS NON APPLIQUE"; exit 1; }
-          grep -n "setCategory" "$F"
+          test -f "$F" || { echo "Fichier plugin introuvable: $F"; exit 1; }
+          cp ios-patch/TextToSpeech.swift "$F"
+          grep -q "keepAlive" "$F" || { echo "PATCH TTS NON APPLIQUE"; exit 1; }
           # Lecture qui continue écran verrouillé (indispensable en voiture).
           PLIST=ios/App/App/Info.plist
           /usr/libexec/PlistBuddy -c "Delete :UIBackgroundModes" "$PLIST" 2>/dev/null || true
