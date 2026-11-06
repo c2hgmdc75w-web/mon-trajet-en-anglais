@@ -1,5 +1,5 @@
 /* ============================================================
-   MON TRAJET EN ANGLAIS — logique app
+   MON TRAJET : APPRENDRE LANGUES — logique app (toutes les langues)
    Flux 100% audio, "sans les mains ni les yeux" : chaque leçon se
    déroule automatiquement du début à la fin uniquement grâce à la
    voix. Une leçon est précompilée en une suite de "segments"
@@ -9,6 +9,52 @@
    Pas de reconnaissance vocale : les temps de silence pour répéter
    sont chronométrés, l'app n'écoute jamais la voix de l'utilisateur.
    ============================================================ */
+
+/* ---------- registre des langues ----------
+   Chaque langue a son contenu dans data/<code>.js (chargé à la demande),
+   sa voix iOS, son achat intégré et son « entitlement » RevenueCat.
+   L'abonnement « Toutes les langues » débloque tout (entitlement
+   all_languages). L'anglais garde son produit historique (version_complete /
+   mon_trajet_pro) pour que les acheteurs existants restent débloqués. */
+const LANGS = {
+  de:   { name:'Allemand', inLang:'en allemand', learn:"l'allemand", flag:'🇩🇪', tts:'de-DE', cps:16,
+          voice:{ exact:'de-de', prefix:'de', label:'Allemand', settings:'Allemand', sample:"Hallo! Ich bin es, die dir die Sätze auf Deutsch vorliest." },
+          product:'mt_lang_de', entitlement:'lang_de' },
+  en:   { name:'Anglais', inLang:'en anglais', learn:"l'anglais", flag:'🇬🇧', tts:'en-US', cps:16,
+          voice:{ exact:'en-us', prefix:'en', label:'Anglais', settings:'Anglais, puis les voix « États-Unis »', sample:"Hello! I'll be the one reading the English sentences to you." },
+          product:'version_complete', entitlement:'mon_trajet_pro' },
+  ar:   { name:'Arabe', inLang:'en arabe', learn:"l'arabe littéraire", flag:'🌙', tts:'ar-SA', cps:11, rtl:true,
+          voice:{ exact:'ar-sa', prefix:'ar', label:'Arabe', settings:'Arabe', sample:"مَرْحَبًا! أَنَا مَنْ سَيَقْرَأُ لَكَ الجُمَلَ بِالعَرَبِيَّةِ." },
+          product:'mt_lang_ar', entitlement:'lang_ar' },
+  es:   { name:'Espagnol', inLang:'en espagnol', learn:"l'espagnol", flag:'🇪🇸', tts:'es-ES', cps:16,
+          voice:{ exact:'es-es', prefix:'es', label:'Espagnol', settings:'Espagnol, puis les voix « Espagne »', sample:"¡Hola! Soy yo quien te leerá las frases en español." },
+          product:'mt_lang_es', entitlement:'lang_es' },
+  it:   { name:'Italien', inLang:'en italien', learn:"l'italien", flag:'🇮🇹', tts:'it-IT', cps:16,
+          voice:{ exact:'it-it', prefix:'it', label:'Italien', settings:'Italien', sample:"Ciao! Sono io che ti leggerò le frasi in italiano." },
+          product:'mt_lang_it', entitlement:'lang_it' },
+  ja:   { name:'Japonais', inLang:'en japonais', learn:'le japonais', flag:'🇯🇵', tts:'ja-JP', cps:7,
+          voice:{ exact:'ja-jp', prefix:'ja', label:'Japonais', settings:'Japonais', sample:"こんにちは。日本語の文を読むのは私です。" },
+          product:'mt_lang_ja', entitlement:'lang_ja' },
+  ptbr: { name:'Portugais (Brésil)', inLang:'en portugais', learn:'le portugais du Brésil', flag:'🇧🇷', tts:'pt-BR', cps:16,
+          voice:{ exact:'pt-br', prefix:'pt', label:'Portugais (Brésil)', settings:'Portugais, puis les voix « Brésil »', sample:"Olá! Sou eu que vou ler as frases em português para você." },
+          product:'mt_lang_ptbr', entitlement:'lang_ptbr' },
+  ptpt: { name:'Portugais (Portugal)', inLang:'en portugais', learn:'le portugais du Portugal', flag:'🇵🇹', tts:'pt-PT', cps:16,
+          voice:{ exact:'pt-pt', prefix:'pt', label:'Portugais (Portugal)', settings:'Portugais, puis les voix « Portugal »', sample:"Olá! Sou eu que vou ler as frases em português para ti." },
+          product:'mt_lang_ptpt', entitlement:'lang_ptpt' },
+};
+const LANG_ORDER = ['de','en','ar','es','it','ja','ptbr','ptpt']; // ordre alphabétique (demande d'Alexis)
+const ALL_LANGS_ENTITLEMENT = 'all_languages';
+const SUB_MONTHLY_PRODUCT = 'mt_all_monthly';
+const SUB_YEARLY_PRODUCT = 'mt_all_yearly';
+const PRIVACY_URL = 'https://claude.ai/artifact/Y7XPRMMX7qtZrjaXowadyM';
+const TERMS_URL = 'https://www.apple.com/legal/internet-services/itunes/dev/stdeula/';
+
+let currentLang = null;      // code de la langue apprise (clé de LANGS)
+let L = null;                // raccourci : LANGS[currentLang]
+let LEVELS = [];
+let MODULES = [];
+let FREE_LESSONS_PER_MODULE = {};
+let TGT_INDEX = new Map();   // phrase cible -> {ro, lit} (japonais, arabe)
 
 let currentLevel = 0;
 let currentModule = 0;
@@ -25,14 +71,37 @@ let voices = [];
 const $ = id => document.getElementById(id);
 
 /* ---------- stockage local (progression + achat) ---------- */
-function loadState(){
+function stateKey(code){ return 'montrajet_state_' + code; }
+function loadState(code){
   try{
-    const raw = localStorage.getItem('enroute_state');
-    return raw ? JSON.parse(raw) : {completed:[], premium:false};
-  }catch(e){ return {completed:[], premium:false}; }
+    let raw = localStorage.getItem(stateKey(code));
+    // Migration des anciens utilisateurs de « Apprendre Anglais : Mon Trajet ».
+    if(!raw && code === 'en'){
+      const old = localStorage.getItem('enroute_state');
+      if(old){
+        raw = old;
+        try{ const o = JSON.parse(old); if(o && o.premium){ const a = loadAccess(); a.en = true; saveAccess(a); } }catch(e){}
+        try{ const vp = JSON.parse(localStorage.getItem('montrajet_voices')||'{}'); if(vp.tgt && !vp.tgt_en){ vp.tgt_en = vp.tgt; delete vp.tgt; localStorage.setItem('montrajet_voices', JSON.stringify(vp)); } }catch(e){}
+      }
+    }
+    const st = raw ? JSON.parse(raw) : {completed:[]};
+    if(!Array.isArray(st.completed)) st.completed = [];
+    return st;
+  }catch(e){ return {completed:[]}; }
 }
-function saveState(s){ try{ localStorage.setItem('enroute_state', JSON.stringify(s)); }catch(e){} }
-let state = loadState();
+function saveState(s){ try{ if(currentLang) localStorage.setItem(stateKey(currentLang), JSON.stringify(s)); }catch(e){} }
+let state = {completed:[]};
+
+/* ---------- accès (achats) ----------
+   access[code] = true si la langue est débloquée ; access.all = true si
+   l'abonnement « Toutes les langues » est actif. Mis à jour par RevenueCat
+   à chaque lancement / achat / restauration, et gardé en cache local pour
+   fonctionner hors connexion. */
+function loadAccess(){ try{ return JSON.parse(localStorage.getItem('montrajet_access')||'{}'); }catch(e){ return {}; } }
+function saveAccess(a){ try{ localStorage.setItem('montrajet_access', JSON.stringify(a)); }catch(e){} }
+let access = loadAccess();
+function hasAccess(code){ return !!(access.all || access[code || currentLang]); }
+
 
 function showToast(msg, duration){
   const t = $('toast');
@@ -43,7 +112,7 @@ function showToast(msg, duration){
 }
 
 function isLessonUnlocked(moduleId, lessonIndex){
-  if(state.premium) return true;
+  if(hasAccess()) return true;
   const freeCount = FREE_LESSONS_PER_MODULE[moduleId] || 0;
   return lessonIndex < freeCount;
 }
@@ -63,7 +132,7 @@ function computeTipNumbers(modules){
   });
   return map;
 }
-let TIP_NUMBERS = computeTipNumbers(MODULES);
+let TIP_NUMBERS = {};
 
 /* ---------- points de contrôle "Évaluation" : tous les 5 leçons,
    plus une évaluation finale (60 phrases) qui remplace celle de la
@@ -86,7 +155,66 @@ function computeEvalNumbers(modules){
   });
   return map;
 }
-let EVAL_NUMBERS = computeEvalNumbers(MODULES);
+let EVAL_NUMBERS = {};
+
+/* ---------- chargement / changement de langue ---------- */
+function loadLangData(code){
+  return new Promise((resolve, reject)=>{
+    if(window.MT_DATA && window.MT_DATA[code]){ resolve(); return; }
+    const sc = document.createElement('script');
+    sc.src = 'data/' + code + '.js';
+    sc.onload = ()=>{ (window.MT_DATA && window.MT_DATA[code]) ? resolve() : reject(new Error('données absentes')); };
+    sc.onerror = ()=>reject(new Error('chargement impossible'));
+    document.head.appendChild(sc);
+  });
+}
+async function setLanguage(code){
+  if(!LANGS[code]) return false;
+  try{ await loadLangData(code); }catch(e){ showToast("Impossible de charger cette langue. Réessaie."); return false; }
+  closeSessionSilent();
+  currentLang = code; L = LANGS[code];
+  try{ localStorage.setItem('montrajet_lang', code); }catch(e){}
+  LEVELS = window.MT_DATA[code];
+  currentLevel = 0; currentModule = 0;
+  MODULES = LEVELS[0].modules;
+  FREE_LESSONS_PER_MODULE = LEVELS[0].freeLessonsPerModule;
+  TIP_NUMBERS = computeTipNumbers(MODULES);
+  EVAL_NUMBERS = computeEvalNumbers(MODULES);
+  TGT_INDEX = new Map();
+  LEVELS.forEach(lv=>lv.modules.forEach(m=>m.lessons.forEach(l=>(l && l.phrases ? l.phrases : []).forEach(p=>{ if(p.ro || p.lit) TGT_INDEX.set(p.tgt, p); }))));
+  state = loadState(code);
+  VOICE_LANGS.tgt = L.voice;
+  nativeVoicesLoaded = false;
+  document.body.classList.toggle('rtl-target', !!L.rtl);
+  $('wordmarkLang').textContent = L.name;
+  $('tagline').textContent = `Apprends ${L.learn} en conduisant, en courant, en marchant.`;
+  $('langBtn').textContent = `${L.flag} ${L.name} · changer`;
+  renderHome();
+  return true;
+}
+// Ferme l'écran de session sans re-rendre l'accueil (utilisé pendant un changement de langue).
+function closeSessionSilent(){
+  try{ playToken++; cancelSpeech(); isPaused = false; $('session').style.display = 'none'; $('home').style.display = 'block'; hideTipCard(); }catch(e){}
+}
+
+/* ---------- écran « Quelle langue veux-tu apprendre ? » ---------- */
+function openLangPicker(){
+  const el = $('langList');
+  el.innerHTML = LANG_ORDER.map(code=>{
+    const lg = LANGS[code];
+    const unlocked = hasAccess(code);
+    return `<div class="lang-item${code===currentLang?' selected':''}" data-code="${code}">
+      <div class="lang-flag">${lg.flag}</div>
+      <div><div class="lang-name">${lg.name}</div><div class="lang-meta">${unlocked ? 'Version complète' : 'Premières leçons gratuites'}</div></div>
+      <div class="voice-check">${code===currentLang?'✓':''}</div></div>`;
+  }).join('');
+  el.querySelectorAll('.lang-item').forEach(it=>{
+    it.onclick = async ()=>{ const ok = await setLanguage(it.dataset.code); if(ok){ closeLangPicker(); } };
+  });
+  $('closeLangBtn').style.display = currentLang ? '' : 'none';
+  $('langPicker').classList.add('show');
+}
+function closeLangPicker(){ $('langPicker').classList.remove('show'); }
 
 /* ---------- changement de niveau ---------- */
 function switchLevel(idx){
@@ -162,14 +290,14 @@ function renderHome(){
         : ICONS.headphones.replace('stroke-width="2"','stroke="var(--target)" stroke-width="2"')
       }</div>
       <div class="lesson-text">
-        <div class="lesson-title">Bien commencer ensemble ${state.premium ? '' : '<span class="free-tag">GRATUIT</span>'}</div>
+        <div class="lesson-title">Bien commencer ensemble ${hasAccess() ? '' : '<span class="free-tag">GRATUIT</span>'}</div>
         <div class="lesson-sub">Un mot avant de démarrer — à propos de ma voix</div>
       </div>
     </div>`;
   }
 
   // Badge "GRATUIT" : seulement tant que la version complète n'est pas débloquée.
-  const freeTag = state.premium ? '' : '<span class="free-tag">GRATUIT</span>';
+  const freeTag = hasAccess() ? '' : '<span class="free-tag">GRATUIT</span>';
 
   for(let i=0;i<m.lessonsCount;i++){
     const lesson = m.lessons[i];
@@ -263,7 +391,8 @@ function renderHome(){
 /* ---------- voix ---------- */
 function pickVoice(lang){
   if(!voices.length) voices = speechSynthesis.getVoices();
-  const candidates = voices.filter(v=>v.lang && v.lang.toLowerCase().startsWith(lang));
+  const want = lang === 'fr' ? 'fr' : (L ? L.voice.prefix : 'en');
+  const candidates = voices.filter(v=>v.lang && v.lang.toLowerCase().startsWith(want));
   if(!candidates.length) return null;
   // Préfère une voix "Enhanced/Premium/Neural" si le système en propose une
   // (sur iPhone : Réglages > Accessibilité > Contenu énoncé > Voix > Français
@@ -281,7 +410,7 @@ function pickVoice(lang){
 
 /* ---------- construction d'une leçon en segments (parole / silence) ---------- */
 function estimateSpeechMs(text, lang, rate){
-  const baseCharsPerSec = lang === 'fr' ? 14 : 16;
+  const baseCharsPerSec = lang === 'fr' ? 14 : (L ? L.cps : 16);
   const cps = baseCharsPerSec * (rate || 1);
   return Math.round(Math.max(500, (text.length / cps) * 1000) + 250);
 }
@@ -323,12 +452,12 @@ function buildIntroSegments(){
   segs.push(S("Nous allons commencer à travailler ensemble. Mais ma voix dépend de toi.", 'fr', 1, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
   segs.push(W(400, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
 
-  segs.push(S("Si tu trouves ma voix trop robotique, tu peux en changer à tout moment. Sur l'écran d'accueil, appuie sur le bouton Choisir les voix, juste sous le titre. Tu y verras toutes les voix installées sur ton téléphone, en français et en anglais. Appuie sur une voix pour l'écouter : elle sera choisie automatiquement pour les leçons. Attention, cette liste ne montre que les voix déjà téléchargées sur ton téléphone. D'autres voix, d'homme ou de femme, sont disponibles gratuitement dans les Réglages : il faut d'abord les télécharger. Le bouton Plus de voix, sous chaque langue, t'explique exactement où les trouver.", 'fr', 1, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
+  segs.push(S(`Si tu trouves ma voix trop robotique, tu peux en changer à tout moment. Sur l'écran d'accueil, appuie sur le bouton Choisir les voix, juste sous le titre. Tu y verras toutes les voix installées sur ton téléphone, en français et ${L.inLang}. Appuie sur une voix pour l'écouter : elle sera choisie automatiquement pour les leçons. Attention, cette liste ne montre que les voix déjà téléchargées sur ton téléphone. D'autres voix, d'homme ou de femme, sont disponibles gratuitement dans les Réglages : il faut d'abord les télécharger. Le bouton Plus de voix, sous chaque langue, t'explique exactement où les trouver.`, 'fr', 1, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
   segs.push(W(500, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
 
   let pathText;
   if(platform === 'ios'){
-    pathText = "Pour avoir des voix plus naturelles, tu peux en télécharger de nouvelles sur ton iPhone. Voici le chemin : ouvre l'application Réglages. Va dans Accessibilité. Puis Lire et énoncer, ou Contenu énoncé selon ta version. Puis Voix. Puis Français. Et télécharge une voix marquée Premium, ou Améliorée. Fais la même chose dans Anglais. Ensuite, reviens dans l'application et choisis la nouvelle voix avec le bouton Choisir les voix. Attention, les voix Siri ne sont pas disponibles pour les applications.";
+    pathText = `Pour avoir des voix plus naturelles, tu peux en télécharger de nouvelles sur ton iPhone. Voici le chemin : ouvre l'application Réglages. Va dans Accessibilité. Puis Lire et énoncer, ou Contenu énoncé selon ta version. Puis Voix. Puis Français. Et télécharge une voix marquée Premium, ou Améliorée. Fais la même chose dans ${L.voice.settings.split(',')[0]}. Ensuite, reviens dans l'application et choisis la nouvelle voix avec le bouton Choisir les voix. Attention, les voix Siri ne sont pas disponibles pour les applications.`;
   } else if(platform === 'android'){
     pathText = "Tu es sur Android. Voici le chemin, qui peut varier légèrement selon la marque de ton téléphone : ouvre les Paramètres. Va dans Système, ou Paramètres généraux. Puis Langues et saisie. Puis Synthèse vocale, ou Text-to-speech. Choisis le moteur Google. Installe les données vocales en français. Et choisis, si elle est proposée, une voix Réseau plutôt qu'une voix Compacte, pour un rendu plus naturel. Ensuite, reviens dans l'application et choisis la nouvelle voix avec le bouton Choisir les voix.";
   } else {
@@ -348,13 +477,29 @@ function buildIntroSegments(){
 function buildTipSegments(tip, tipNum){
   const CTX = 'var(--context)';
   const tx = {phase:'tip', tipData: tip, tipNum};
-  return [
-    S(`Point grammaire ${tipNum}.`, 'fr', 1, `Point grammaire ${tipNum}`, CTX, 'headphones', false, tip.title, '', tx),
-    W(400, `Point grammaire ${tipNum}`, CTX, 'headphones', false, tip.title, '', tx),
-    S(spokenTipText(tip), 'fr', 1, `Point grammaire ${tipNum}`, CTX, 'headphones', false, tip.title, '', tx),
-    W(1500, `Point grammaire ${tipNum}`, CTX, 'headphones', false, tip.title, '', tx)
+  const lab = `Point grammaire ${tipNum}`;
+  const out = [
+    S(`Point grammaire ${tipNum}.`, 'fr', 1, lab, CTX, 'headphones', false, tip.title, '', tx),
+    W(400, lab, CTX, 'headphones', false, tip.title, '', tx)
   ];
+  // L'exemple « FR — cible » est lu en deux temps : la partie française par la
+  // voix française, la partie cible par la voix de la langue apprise.
+  const parts = stripHtml(tip.example || '').split(' — ');
+  if(parts.length === 2){
+    out.push(S(`${tip.title}.`, 'fr', 1, lab, CTX, 'headphones', false, tip.title, '', tx));
+    out.push(S(`Par exemple : ${parts[0]}`, 'fr', 1, lab, CTX, 'headphones', false, tip.title, '', tx));
+    out.push(W(300, lab, CTX, 'headphones', false, tip.title, '', tx));
+    out.push(S(parts[1], 'tgt', 0.85, lab, 'var(--target)', 'speaker', false, tip.title, '', tx));
+    out.push(W(400, lab, CTX, 'headphones', false, tip.title, '', tx));
+    if(tip.lit) out.push(S(`Mot à mot : ${tip.lit}.`, 'fr', 1, lab, CTX, 'headphones', false, tip.title, '', tx));
+    out.push(S(tip.body, 'fr', 1, lab, CTX, 'headphones', false, tip.title, '', tx));
+  } else {
+    out.push(S(spokenTipText(tip), 'fr', 1, lab, CTX, 'headphones', false, tip.title, '', tx));
+  }
+  out.push(W(1500, lab, CTX, 'headphones', false, tip.title, '', tx));
+  return out;
 }
+
 
 // Segments d'une "Évaluation" : révision aléatoire des phrases des 5
 // dernières leçons (ou de tout le module pour l'évaluation finale),
@@ -386,14 +531,14 @@ function buildEvalSegments(mi, anchor, isFinal, evalLabel){
   segs.push(W(700, evalLabel, SPK, 'repeat', false, '', ''));
 
   chosen.forEach((p,i)=>{
-    const repeatMs = Math.max(2200, p.en.length*80) + 3000; // même formule que le Test 2
+    const repeatMs = Math.max(2200, (p.ro||p.tgt).length*80) + 3000; // même formule que le Test 2
     const ex = {idx:i, total: chosen.length};
-    segs.push(S(p.fr, 'fr', 1, `${evalLabel} — traduis en anglais`, CTX, 'headphones', false, p.fr, '···', ex));
+    segs.push(S(p.fr, 'fr', 1, `${evalLabel} — traduis ${L.inLang}`, CTX, 'headphones', false, p.fr, '···', ex));
     segs.push(W(repeatMs, `${evalLabel} — à toi de répondre`, SPK, 'repeat', true, p.fr, '···', ex));
-    segs.push(S(p.en, 'en', 0.85, `${evalLabel} — réponse`, TGT, 'speaker', false, p.fr, p.en, ex));
-    segs.push(W(400 + 2000, `${evalLabel} — réponse`, TGT, 'speaker', false, p.fr, p.en, ex)); // même écart que le Test 2 (+2s)
-    segs.push(S(p.en, 'en', 0.85, `${evalLabel} — réponse`, TGT, 'speaker', false, p.fr, p.en, ex));
-    segs.push(W(400 + 2000, `${evalLabel} — réponse`, TGT, 'speaker', false, p.fr, p.en, ex)); // même durée que l'écart entre les 2 répétitions
+    segs.push(S(p.tgt, 'tgt', 0.85, `${evalLabel} — réponse`, TGT, 'speaker', false, p.fr, p.tgt, ex));
+    segs.push(W(400 + 2000, `${evalLabel} — réponse`, TGT, 'speaker', false, p.fr, p.tgt, ex)); // même écart que le Test 2 (+2s)
+    segs.push(S(p.tgt, 'tgt', 0.85, `${evalLabel} — réponse`, TGT, 'speaker', false, p.fr, p.tgt, ex));
+    segs.push(W(400 + 2000, `${evalLabel} — réponse`, TGT, 'speaker', false, p.fr, p.tgt, ex)); // même durée que l'écart entre les 2 répétitions
   });
 
   const closingText = isFinal
@@ -429,14 +574,14 @@ function buildLessonSegments(mi, li){
 
   // 3. Apprentissage : FR une fois, EN deux fois avec temps de répétition (+3s)
   lesson.phrases.forEach((p,i)=>{
-    const repeatMs = Math.max(2200, p.en.length*80) + 3000;
+    const repeatMs = Math.max(2200, (p.ro||p.tgt).length*80) + 3000;
     const ex = {idx:i, total: lesson.phrases.length};
     segs.push(S(p.fr, 'fr', 1, 'Écoute en français', CTX, 'headphones', false, p.fr, '', ex));
     segs.push(W(300, 'Écoute en français', CTX, 'headphones', false, p.fr, '', ex));
-    segs.push(S(p.en, 'en', 0.85, 'Écoute en anglais', TGT, 'speaker', false, p.fr, p.en, ex));
-    segs.push(W(repeatMs, 'À toi de répéter', SPK, 'repeat', true, p.fr, p.en, ex));
-    segs.push(S(p.en, 'en', 0.85, 'Encore une fois', TGT, 'speaker', false, p.fr, p.en, ex));
-    segs.push(W(repeatMs, 'À toi de répéter', SPK, 'repeat', true, p.fr, p.en, ex));
+    segs.push(S(p.tgt, 'tgt', 0.85, `Écoute ${L.inLang}`, TGT, 'speaker', false, p.fr, p.tgt, ex));
+    segs.push(W(repeatMs, 'À toi de répéter', SPK, 'repeat', true, p.fr, p.tgt, ex));
+    segs.push(S(p.tgt, 'tgt', 0.85, 'Encore une fois', TGT, 'speaker', false, p.fr, p.tgt, ex));
+    segs.push(W(repeatMs, 'À toi de répéter', SPK, 'repeat', true, p.fr, p.tgt, ex));
   });
 
   // 4. Test 1 : ordre mélangé — pause de réflexion, puis réponse x2
@@ -445,28 +590,28 @@ function buildLessonSegments(mi, li){
   segs.push(W(700, 'Phase de test 1', SPK, 'repeat', false, '', ''));
   const shuffled = shuffleArray(lesson.phrases);
   shuffled.forEach((p,i)=>{
-    const repeatMs = Math.max(2200, p.en.length*80) + 3000;
+    const repeatMs = Math.max(2200, (p.ro||p.tgt).length*80) + 3000;
     const ex = {idx:i, total: shuffled.length};
-    segs.push(S(p.fr, 'fr', 1, 'Test 1 — traduis en anglais', CTX, 'headphones', false, p.fr, '···', ex));
+    segs.push(S(p.fr, 'fr', 1, `Test 1 — traduis ${L.inLang}`, CTX, 'headphones', false, p.fr, '···', ex));
     segs.push(W(repeatMs, 'Test 1 — à toi de répondre', SPK, 'repeat', true, p.fr, '···', ex));
-    segs.push(S(p.en, 'en', 0.85, 'Test 1 — réponse', TGT, 'speaker', false, p.fr, p.en, ex));
-    segs.push(W(400 + 3000, 'Test 1 — réponse', TGT, 'speaker', false, p.fr, p.en, ex));
-    segs.push(S(p.en, 'en', 0.85, 'Test 1 — réponse', TGT, 'speaker', false, p.fr, p.en, ex));
-    segs.push(W(400 + 3000, 'Test 1 — réponse', TGT, 'speaker', false, p.fr, p.en, ex)); // même durée que l'écart entre les 2 répétitions
+    segs.push(S(p.tgt, 'tgt', 0.85, 'Test 1 — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
+    segs.push(W(400 + 3000, 'Test 1 — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
+    segs.push(S(p.tgt, 'tgt', 0.85, 'Test 1 — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
+    segs.push(W(400 + 3000, 'Test 1 — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex)); // même durée que l'écart entre les 2 répétitions
   });
 
   // 5. Test 2 : ordre d'origine — même principe (+2s entre les deux répétitions)
-  segs.push(S("Maintenant, la phase de test. Essaie de traduire chaque phrase en anglais.", 'fr', 1, 'Phase de test 2', SPK, 'repeat', false, '', ''));
+  segs.push(S(`Maintenant, la phase de test. Essaie de traduire chaque phrase ${L.inLang}.`, 'fr', 1, 'Phase de test 2', SPK, 'repeat', false, '', ''));
   segs.push(W(700, 'Phase de test 2', SPK, 'repeat', false, '', ''));
   lesson.phrases.forEach((p,i)=>{
-    const repeatMs = Math.max(2200, p.en.length*80) + 3000;
+    const repeatMs = Math.max(2200, (p.ro||p.tgt).length*80) + 3000;
     const ex = {idx:i, total: lesson.phrases.length};
-    segs.push(S(p.fr, 'fr', 1, 'Test 2 — traduis en anglais', CTX, 'headphones', false, p.fr, '···', ex));
+    segs.push(S(p.fr, 'fr', 1, `Test 2 — traduis ${L.inLang}`, CTX, 'headphones', false, p.fr, '···', ex));
     segs.push(W(repeatMs, 'Test 2 — à toi de répondre', SPK, 'repeat', true, p.fr, '···', ex));
-    segs.push(S(p.en, 'en', 0.85, 'Test 2 — réponse', TGT, 'speaker', false, p.fr, p.en, ex));
-    segs.push(W(400 + 2000, 'Test 2 — réponse', TGT, 'speaker', false, p.fr, p.en, ex));
-    segs.push(S(p.en, 'en', 0.85, 'Test 2 — réponse', TGT, 'speaker', false, p.fr, p.en, ex));
-    segs.push(W(400 + 2000, 'Test 2 — réponse', TGT, 'speaker', false, p.fr, p.en, ex)); // même durée que l'écart entre les 2 répétitions
+    segs.push(S(p.tgt, 'tgt', 0.85, 'Test 2 — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
+    segs.push(W(400 + 2000, 'Test 2 — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
+    segs.push(S(p.tgt, 'tgt', 0.85, 'Test 2 — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
+    segs.push(W(400 + 2000, 'Test 2 — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex)); // même durée que l'écart entre les 2 répétitions
   });
 
   // 6. Clôture
@@ -506,6 +651,9 @@ function setStage(phaseText, idxInPhase, totalInPhase, frText, enText, ringColor
   }
   $('phraseFr').textContent = frText || '';
   $('phraseEn').textContent = enText || '';
+  const extra = enText && TGT_INDEX.get(enText);
+  $('phraseRo').textContent = extra ? (extra.ro || '') : '';
+  $('phraseLit').textContent = extra && extra.lit && currentLevel === 0 ? 'mot à mot : ' + extra.lit : '';
   setRing(ringColor, ringIcon, phaseText, pulse);
 }
 function setRing(color, iconKey, label, pulse){
@@ -523,7 +671,12 @@ function setPlayIcon(paused){
 }
 function showTipCard(tip, tipNum){
   $('tipTitle').textContent = `Point grammaire ${tipNum} — ${tip.title}`;
-  $('tipExample').innerHTML = tip.example;
+  const pr = (tip.example || '').split(' — ');
+  $('tipExample').innerHTML = (L && L.rtl && pr.length === 2
+      ? `<div>${pr[0]}</div><div class="tip-tgt-rtl" dir="rtl">${pr[1]}</div>`
+      : tip.example)
+    + (tip.exampleRo ? `<div class="tip-ro">${tip.exampleRo}</div>` : '')
+    + (tip.lit ? `<div class="tip-lit">mot à mot : ${tip.lit}</div>` : '');
   $('tipBody').textContent = tip.body;
   $('tipOverlay').classList.add('show');
 }
@@ -584,8 +737,10 @@ function getTTSPlugin(){
    voix téléchargée entre-temps soit prise en compte sans relancer l'app. */
 const VOICE_LANGS = {
   fr:  { exact:'fr-fr', prefix:'fr', label:'Français', settings:'Français, puis les voix « France »', sample:"Bonjour, c'est moi qui te lirai les phrases en français." },
-  tgt: { exact:'en-us', prefix:'en', label:'Anglais', settings:'Anglais, puis les voix « États-Unis »', sample:"Hello! I'll be the one reading the English sentences to you." }
+  tgt: null // rempli par setLanguage() avec LANGS[code].voice
 };
+// Clé de préférence de voix : « fr » pour le français, « tgt_<code> » pour la langue apprise.
+function voicePrefKey(key){ return key === 'fr' ? 'fr' : 'tgt_' + currentLang; }
 let nativeVoiceIdx = {};
 let nativeVoiceList = [];
 let nativeVoicesLoaded = false;
@@ -617,7 +772,8 @@ function resolveVoiceIdx(){
   nativeVoiceIdx = {};
   for(const key of Object.keys(VOICE_LANGS)){
     const cands = voicesFor(key);
-    const chosen = prefs[key] && cands.find(o=>o.v.voiceURI === prefs[key]);
+    const pk = voicePrefKey(key);
+    const chosen = prefs[pk] && cands.find(o=>o.v.voiceURI === prefs[pk]);
     nativeVoiceIdx[key] = chosen ? chosen.i : (cands.length ? cands[0].i : -1);
   }
 }
@@ -668,7 +824,7 @@ function renderVoicePicker(){
         <div><div class="voice-name">${o.v.name || 'Voix'}</div><div class="voice-meta">${voiceQualityLabel(o.v)} · ${o.v.lang||''}</div></div>
         <div class="voice-check">${sel?'✓':''}</div></div>`;
     }
-    html += `<button class="voice-more" data-help="${key}">＋ Plus de voix ${key === 'fr' ? 'en français' : 'en anglais'}</button>
+    html += `<button class="voice-more" data-help="${key}">＋ Plus de voix ${key === 'fr' ? 'en français' : L.inLang}</button>
       <div class="voice-help" id="voiceHelp-${key}">Ton iPhone n'affiche ici que les voix <b>déjà téléchargées</b>. D'autres voix, d'homme ou de femme, sont disponibles gratuitement :<ol>
         <li>Ouvre l'app <b>Réglages</b> de l'iPhone</li><li><b>Accessibilité</b></li><li><b>Contenu énoncé</b> (ou <b>Lire et énoncer</b>)</li><li><b>Voix</b></li><li><b>${L.settings}</b></li>
         <li>Touche une voix (de préférence <b>Premium</b> ou <b>Améliorée</b>) et télécharge-la</li></ol>Reviens ensuite dans l'app : la nouvelle voix apparaîtra ici automatiquement. Les voix Siri ne sont pas disponibles pour les applications.</div>`;
@@ -682,7 +838,7 @@ function renderVoicePicker(){
     el.onclick = async ()=>{
       const key = el.dataset.key, i = parseInt(el.dataset.i, 10);
       const v = nativeVoiceList[i];
-      const prefs = loadVoicePrefs(); prefs[key] = v.voiceURI; saveVoicePrefs(prefs);
+      const prefs = loadVoicePrefs(); prefs[voicePrefKey(key)] = v.voiceURI; saveVoicePrefs(prefs);
       nativeVoiceIdx[key] = i;
       renderVoicePicker();
       const tts = getTTSPlugin();
@@ -717,7 +873,7 @@ function waitWhilePaused(token){
 function speakSeg(seg, token){
   return new Promise(async resolve=>{
     if(token !== playToken){ resolve(); return; }
-    const lang = seg.lang === 'fr' ? 'fr-FR' : 'en-US';
+    const lang = seg.lang === 'fr' ? 'fr-FR' : L.tts;
 
     if(isNativeApp()){
       const tts = getTTSPlugin();
@@ -951,17 +1107,11 @@ function skipBy(deltaMs){
    alors automatiquement sur le stub, pour continuer à pouvoir tester
    sans payer. Le vrai flux ne s'active QUE dans l'app compilée. */
 
-// TODO (à remplir une fois les comptes créés) :
-// - REVENUECAT_API_KEY_IOS / ANDROID : clés publiques "App-specific"
-//   données par RevenueCat (Project settings > API keys), une par store.
-// - ENTITLEMENT_ID : l'identifiant d'"entitlement" créé dans RevenueCat
-//   (ex. "premium"), qui doit être rattaché au produit des deux stores.
-// - PRODUCT_ID : l'identifiant du produit "version complète" créé à
-//   l'IDENTIQUE dans App Store Connect ET Google Play Console.
+// Clés publiques RevenueCat (App Store). Les produits et entitlements
+// par langue sont dans LANGS (en haut du fichier) ; l'abonnement « Toutes les
+// langues » dans SUB_MONTHLY_PRODUCT / SUB_YEARLY_PRODUCT / ALL_LANGS_ENTITLEMENT.
 const REVENUECAT_API_KEY_IOS = 'appl_qNDcGongiAZkuJLEfSPhEjMlQDq';
 const REVENUECAT_API_KEY_ANDROID = 'TODO_REVENUECAT_ANDROID_KEY';
-const ENTITLEMENT_ID = 'mon_trajet_pro';
-const PRODUCT_ID = 'version_complete';
 
 function isNativeApp(){
   return !!(window.Capacitor && window.Capacitor.isNativePlatform && window.Capacitor.isNativePlatform());
@@ -987,52 +1137,78 @@ async function initPurchases(){
   }catch(e){ /* pas de connexion, ou clé pas encore configurée : on reste sur l'état local existant */ }
 }
 function applyCustomerInfo(customerInfo){
-  const active = !!(customerInfo && customerInfo.entitlements && customerInfo.entitlements.active && customerInfo.entitlements.active[ENTITLEMENT_ID]);
-  if(active !== state.premium){
-    state.premium = active;
-    saveState(state);
-    renderHome();
-  }
+  const active = (customerInfo && customerInfo.entitlements && customerInfo.entitlements.active) || {};
+  const a = {};
+  if(active[ALL_LANGS_ENTITLEMENT]) a.all = true;
+  for(const code of Object.keys(LANGS)){ if(active[LANGS[code].entitlement]) a[code] = true; }
+  access = a; saveAccess(a);
+  if(currentLang) renderHome();
 }
 
-function openPaywall(){ $('paywall').classList.add('show'); }
+// Prix affichés sur le paywall : lus dans RevenueCat (donc dans l'App Store,
+// dans la devise du client) ; valeurs par défaut en attendant.
+let storePackages = null; // { [productId]: package }
+async function loadStorePackages(){
+  if(storePackages) return storePackages;
+  const Purchases = getPurchasesPlugin();
+  if(!isNativeApp() || !Purchases) return null;
+  try{
+    const offerings = await Purchases.getOfferings();
+    const map = {};
+    const all = offerings && offerings.all ? Object.values(offerings.all) : [];
+    if(offerings && offerings.current) all.unshift(offerings.current);
+    all.forEach(o=>((o && o.availablePackages) || []).forEach(p=>{ if(p.product && p.product.identifier && !map[p.product.identifier]) map[p.product.identifier] = p; }));
+    storePackages = map;
+  }catch(e){ storePackages = null; }
+  return storePackages;
+}
+function priceOf(productId, fallback){
+  const p = storePackages && storePackages[productId];
+  return p && p.product && p.product.priceString ? p.product.priceString : fallback;
+}
+
+async function openPaywall(){
+  $('paywallTitle').textContent = `Débloque les 1800 phrases ${L.inLang}`;
+  $('buyBtn').textContent = `Débloquer ${L.name} — 9,99 €`;
+  $('subMonthlyBtn').textContent = `Toutes les langues — 8,99 € / mois`;
+  $('subYearlyBtn').textContent = `Toutes les langues — 59,99 € / an`;
+  $('paywall').classList.add('show');
+  await loadStorePackages();
+  $('buyBtn').textContent = `Débloquer ${L.name} — ${priceOf(L.product, '9,99 €')}`;
+  $('subMonthlyBtn').textContent = `Toutes les langues — ${priceOf(SUB_MONTHLY_PRODUCT, '8,99 €')} / mois`;
+  $('subYearlyBtn').textContent = `Toutes les langues — ${priceOf(SUB_YEARLY_PRODUCT, '59,99 €')} / an`;
+}
 function closePaywall(){ $('paywall').classList.remove('show'); }
 
-// Déverrouillage LOCAL uniquement — n'est appelé qu'après confirmation
-// réelle du store (achat ou restauration) en app native, ou directement
-// en mode test navigateur (aucun vrai paiement n'existe dans ce cas).
-function unlockPremium(){
-  state.premium = true;
-  saveState(state);
+// Déverrouillage LOCAL uniquement (mode test navigateur : aucun vrai paiement).
+function unlockLocal(all){
+  if(all) access.all = true; else access[currentLang] = true;
+  saveAccess(access);
   closePaywall();
   renderHome();
-  showToast('Version complète débloquée 🎉');
+  showToast(all ? 'Toutes les langues débloquées 🎉' : `${L.name} débloqué 🎉`);
 }
 
-async function buyPremium(){
-  if(!isNativeApp()){
-    unlockPremium();
-    return;
-  }
+async function purchaseProduct(productId, all){
+  if(!isNativeApp()){ unlockLocal(all); return; }
   const Purchases = getPurchasesPlugin();
   if(!Purchases){ showToast("Le module d'achat n'est pas disponible."); return; }
   try{
-    const offerings = await Purchases.getOfferings();
-    const pkg = offerings && offerings.current && offerings.current.availablePackages
-      ? offerings.current.availablePackages.find(p => p.product && p.product.identifier === PRODUCT_ID) || offerings.current.availablePackages[0]
-      : null;
-    if(!pkg){
-      showToast("Produit indisponible pour le moment. Réessaie plus tard.");
-      return;
-    }
+    await loadStorePackages();
+    const pkg = storePackages && storePackages[productId];
+    if(!pkg){ showToast("Produit indisponible pour le moment. Réessaie plus tard."); return; }
     const { customerInfo } = await Purchases.purchasePackage({ aPackage: pkg });
     applyCustomerInfo(customerInfo);
-    if(state.premium){ closePaywall(); showToast('Version complète débloquée 🎉'); }
+    if(hasAccess()){ closePaywall(); showToast(all ? 'Toutes les langues débloquées 🎉' : `${L.name} débloqué 🎉`); }
   }catch(e){
     if(e && e.userCancelled) return;
     showToast("L'achat n'a pas pu aboutir. Réessaie plus tard.");
   }
 }
+function buyPremium(){ return purchaseProduct(L.product, false); }
+function buySubMonthly(){ return purchaseProduct(SUB_MONTHLY_PRODUCT, true); }
+function buySubYearly(){ return purchaseProduct(SUB_YEARLY_PRODUCT, true); }
+
 async function restorePremium(){
   if(!isNativeApp()){
     showToast('Aucun achat à restaurer (mode test navigateur).');
@@ -1043,11 +1219,18 @@ async function restorePremium(){
   try{
     const { customerInfo } = await Purchases.restorePurchases();
     applyCustomerInfo(customerInfo);
-    showToast(state.premium ? 'Achat restauré ✓' : 'Aucun achat trouvé pour ce compte.');
-    if(state.premium) closePaywall();
+    showToast(hasAccess() ? 'Achat restauré ✓' : 'Aucun achat trouvé pour cette langue.');
+    if(hasAccess()) closePaywall();
   }catch(e){
     showToast("La restauration n'a pas pu aboutir. Réessaie dans un instant.");
   }
+}
+function openExternal(url){
+  try{
+    const B = window.Capacitor && window.Capacitor.Plugins && window.Capacitor.Plugins.Browser;
+    if(B && B.open){ B.open({ url }); return; }
+  }catch(e){}
+  window.open(url, '_blank');
 }
 
 /* ---------- CONTRÔLES ---------- */
@@ -1151,14 +1334,27 @@ $('scrubber').addEventListener('change', ()=>{
 });
 
 $('buyBtn').onclick = buyPremium;
+$('subMonthlyBtn').onclick = buySubMonthly;
+$('subYearlyBtn').onclick = buySubYearly;
 $('restoreBtn').onclick = restorePremium;
 $('closePaywallBtn').onclick = closePaywall;
+$('termsLink').onclick = (e)=>{ e.preventDefault(); openExternal(TERMS_URL); };
+$('privacyLink').onclick = (e)=>{ e.preventDefault(); openExternal(PRIVACY_URL); };
 $('voiceBtn').onclick = openVoicePicker;
 $('closeVoiceBtn').onclick = closeVoicePicker;
+$('langBtn').onclick = openLangPicker;
+$('closeLangBtn').onclick = closeLangPicker;
 
 if('speechSynthesis' in window){
   speechSynthesis.onvoiceschanged = ()=>{ voices = speechSynthesis.getVoices(); };
 }
 
-renderHome();
-initPurchases();
+/* ---------- démarrage ----------
+   Langue mémorisée -> accueil directement ; sinon écran de choix de la langue. */
+(async function init(){
+  initPurchases();
+  let saved = null;
+  try{ saved = localStorage.getItem('montrajet_lang'); }catch(e){}
+  if(saved && LANGS[saved] && await setLanguage(saved)) return;
+  openLangPicker();
+})();

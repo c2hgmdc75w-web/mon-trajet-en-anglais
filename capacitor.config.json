@@ -1,6 +1,6 @@
 {
   "appId": "com.tonstudio.montrajet.anglais",
-  "appName": "Mon Trajet en Anglais",
+  "appName": "Mon Trajet",
   "webDir": "www",
   "bundledWebRuntime": false
 }

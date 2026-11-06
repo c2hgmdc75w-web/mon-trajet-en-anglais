@@ -154,3 +154,29 @@ body{
 .voice-help b{color:var(--text);}
 .voice-help ol{margin:8px 0 8px 18px;padding:0;}
 .voice-help li{margin:3px 0;}
+
+/* ---------- app multilingue ---------- */
+.home-btns{display:flex;gap:8px;flex-wrap:wrap;margin:-8px 0 18px;}
+.home-btns .voice-btn{margin:0;}
+#langPicker{display:none;position:fixed;inset:0;background:var(--bg);z-index:22;overflow-y:auto;}
+#langPicker.show{display:block;}
+.lang-item{display:flex;align-items:center;gap:14px;padding:14px 16px;border:1px solid var(--border);border-radius:14px;background:var(--surface);margin-bottom:8px;cursor:pointer;}
+.lang-item.selected{border-color:var(--target);}
+.lang-flag{font-size:26px;width:34px;text-align:center;}
+.lang-name{font-weight:700;font-size:16px;}
+.lang-meta{color:var(--text-muted);font-size:12.5px;margin-top:2px;}
+.lang-item>div:nth-child(2){flex:1;}
+.phrase-ro{margin-top:6px;font-size:16px;color:var(--text-muted);font-style:italic;}
+.phrase-lit{margin-top:6px;font-size:13.5px;color:var(--text-muted);opacity:.85;}
+.tip-ro{margin-top:6px;font-style:italic;color:var(--text-muted);}
+.tip-lit{margin-top:4px;font-size:13px;color:var(--text-muted);}
+.tip-tgt-rtl{font-size:19px;line-height:1.8;text-align:right;margin-top:4px;color:var(--text);}
+.rtl-target .phrase-en{direction:rtl;font-size:28px;line-height:1.7;}
+.paywall-or{color:var(--text-muted);font-size:13px;margin:12px 0 10px;}
+.end-btn.secondary{background:var(--surface);color:var(--text);border:1px solid var(--border);border-radius:14px;font-weight:700;font-family:'Manrope',sans-serif;cursor:pointer;}
+.paywall-note{color:var(--text-muted);font-size:11.5px;line-height:1.5;margin:16px 0 6px;text-align:left;}
+.paywall-note a{color:var(--context);}
+/* Points de grammaire longs : la carte défile dans la scène sans chevaucher l'en-tête ni les contrôles. */
+.stage{min-height:0;}
+.tip-overlay{justify-content:flex-start;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:12px 6px 24px;}
+.tip-overlay .tip-card{margin:auto 0;}
