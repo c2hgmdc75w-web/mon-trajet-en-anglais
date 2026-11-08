@@ -1,4 +1,4 @@
-// Construit www/data/<code>.js à partir des data.js des 8 dépôts d'origine.
+// Construit www/data/<code>.js à partir des data.js des dépôts d'origine et des dossiers <code>_content.
 // Usage : node tools/build_data.js
 // Format commun d'une phrase : { fr, tgt, ro?, lit? } ; un module garde ses
 // champs id/name/desc/totalPhrases/lessonsCount/lessons ; une leçon : title,
@@ -6,18 +6,24 @@
 const fs = require('fs'), vm = require('vm'), path = require('path');
 const SRC = {
   de:   ['/home/claude/mon-trajet-en-allemand/www/js/data.js', 'de'],
-  en:   ['/home/claude/mon-trajet-en-anglais/www/js/data.js',  'en'],
+  en:   [require('path').join(__dirname, 'legacy', 'en_data.js'),  'en'],
   ar:   ['/home/claude/mon-trajet-en-arabe/www/js/data.js',    'ar'],
   es:   ['/home/claude/mon-trajet-en-espagnol/www/js/data.js', 'es'],
   it:   ['/home/claude/mon-trajet-en-italien/www/js/data.js',  'it'],
   ja:   ['/home/claude/mon-trajet-en-japonais/www/js/data.js', 'ja'],
   ptbr: ['/home/claude/mon-trajet-portb/www/js/data.js',       'pt'],
   ptpt: ['/home/claude/mon-trajet-portp/www/js/data.js',       'pt'],
+  zh:   ['/home/claude/zh_content/data.js', 'zh'],
+  he:   ['/home/claude/he_content/data.js', 'he'],
+  hi:   ['/home/claude/hi_content/data.js', 'hi'],
+  th:   ['/home/claude/th_content/data.js', 'th'],
 };
 const out = path.join(__dirname, '..', 'www', 'data');
 fs.mkdirSync(out, { recursive: true });
 let icons = null;
+const ONLY = process.argv.slice(2); // ex. node tools/build_data.js zh he → ne reconstruit que ces langues
 for (const [code, [file, key]] of Object.entries(SRC)) {
+  if (ONLY.length && !ONLY.includes(code) && icons) continue;
   const src = fs.readFileSync(file, 'utf8');
   const ctx = {}; vm.createContext(ctx);
   vm.runInContext(src + ';globalThis.__L = LEVELS; globalThis.__I = ICONS;', ctx);

@@ -41,8 +41,20 @@ const LANGS = {
   ptpt: { name:'Portugais (Portugal)', inLang:'en portugais', learn:'le portugais du Portugal', flag:'🇵🇹', tts:'pt-PT', cps:16,
           voice:{ exact:'pt-pt', prefix:'pt', label:'Portugais (Portugal)', settings:'Portugais, puis les voix « Portugal »', sample:"Olá! Sou eu que vou ler as frases em português para ti." },
           product:'mt_lang_ptpt', entitlement:'lang_ptpt' },
+  zh:   { name:'Chinois', inLang:'en chinois', learn:'le chinois mandarin', flag:'🇨🇳', tts:'zh-CN', cps:6,
+          voice:{ exact:'zh-cn', prefix:'zh', label:'Chinois', settings:'Chinois, puis les voix « Chine continentale »', sample:"你好！我来给你读中文句子。" },
+          product:'mt_lang_zh', entitlement:'lang_zh' },
+  he:   { name:'Hébreu', inLang:'en hébreu', learn:"l'hébreu", flag:'🇮🇱', tts:'he-IL', cps:13, rtl:true,
+          voice:{ exact:'he-il', prefix:'he', label:'Hébreu', settings:'Hébreu', sample:"שלום! אני אקרא לך את המשפטים בעברית." },
+          product:'mt_lang_he', entitlement:'lang_he' },
+  hi:   { name:'Hindi', inLang:'en hindi', learn:'le hindi', flag:'🇮🇳', tts:'hi-IN', cps:12,
+          voice:{ exact:'hi-in', prefix:'hi', label:'Hindi', settings:'Hindi', sample:"नमस्ते! मैं आपको हिंदी के वाक्य पढ़कर सुनाऊँगी।" },
+          product:'mt_lang_hi', entitlement:'lang_hi' },
+  th:   { name:'Thaï', inLang:'en thaï', learn:'le thaï', flag:'🇹🇭', tts:'th-TH', cps:9,
+          voice:{ exact:'th-th', prefix:'th', label:'Thaï', settings:'Thaï', sample:"สวัสดีค่ะ ฉันจะอ่านประโยคภาษาไทยให้คุณฟังค่ะ" },
+          product:'mt_lang_th', entitlement:'lang_th' },
 };
-const LANG_ORDER = ['de','en','ar','es','it','ja','ptbr','ptpt']; // ordre alphabétique (demande d'Alexis)
+const LANG_ORDER = ['de','en','ar','zh','es','he','hi','it','ja','ptbr','ptpt','th']; // ordre alphabétique (demande d'Alexis)
 const ALL_LANGS_ENTITLEMENT = 'all_languages';
 const SUB_MONTHLY_PRODUCT = 'mt_all_monthly';
 const SUB_YEARLY_PRODUCT = 'mt_all_yearly';
