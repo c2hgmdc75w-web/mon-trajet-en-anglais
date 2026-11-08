@@ -17,6 +17,7 @@ const SRC = {
   he:   ['/home/claude/he_content/data.js', 'he'],
   hi:   ['/home/claude/hi_content/data.js', 'hi'],
   th:   ['/home/claude/th_content/data.js', 'th'],
+  id:   ['/home/claude/id_content/data.js', 'id'],
 };
 const out = path.join(__dirname, '..', 'www', 'data');
 fs.mkdirSync(out, { recursive: true });
