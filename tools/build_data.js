@@ -23,6 +23,7 @@ const SRC = {
   yue:  ['/home/claude/yue_content/data.js', 'yue'],
   fa:   ['/home/claude/fa_content/data.js', 'fa'],
   tr:   ['/home/claude/tr_content/data.js', 'tr'],
+  ru:   ['/home/claude/ru_content/data.js', 'ru'],
 };
 const out = path.join(__dirname, '..', 'www', 'data');
 fs.mkdirSync(out, { recursive: true });
