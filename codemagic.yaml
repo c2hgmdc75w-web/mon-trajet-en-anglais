@@ -59,6 +59,11 @@ workflows:
           test -f "$F" || { echo "Fichier plugin introuvable: $F"; exit 1; }
           cp ios-patch/TextToSpeech.swift "$F"
           grep -q "keepAlive" "$F" || { echo "PATCH TTS NON APPLIQUE"; exit 1; }
+          # Pont JS <-> natif : ajoute playSequence/pauseSequence/resumeSequence
+          # (leçon jouée entièrement en natif, continue écran éteint).
+          P="$(dirname "$F")/TextToSpeechPlugin.swift"
+          cp ios-patch/TextToSpeechPlugin.swift "$P"
+          grep -q "playSequence" "$P" || { echo "PATCH PLUGIN NON APPLIQUE"; exit 1; }
           # Lecture qui continue écran verrouillé (indispensable en voiture).
           PLIST=ios/App/App/Info.plist
           /usr/libexec/PlistBuddy -c "Delete :UIBackgroundModes" "$PLIST" 2>/dev/null || true

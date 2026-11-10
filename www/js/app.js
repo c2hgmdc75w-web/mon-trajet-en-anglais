@@ -878,6 +878,7 @@ async function loadNativeVoices(){
 }
 document.addEventListener('visibilitychange', async ()=>{
   if(document.hidden) return;
+  syncNativeSequence();
   nativeVoicesLoaded = false;
   // Retour des Réglages avec l'écran des voix ouvert : on relit la liste tout de suite.
   if($('voicePicker') && $('voicePicker').classList.contains('show') && isNativeApp()){ await loadNativeVoices(); renderVoicePicker(); }
@@ -936,6 +937,7 @@ function renderVoicePicker(){
   });
 }
 async function cancelSpeech(){
+  nativeSeq = null; stopNativeTicker();
   if(isNativeApp()){
     const tts = getTTSPlugin();
     if(tts){ try{ await tts.stop(); }catch(e){} }
@@ -1010,6 +1012,140 @@ function waitSeg(seg, token){
   });
 }
 
+/* ---------- lecture native en séquence (écran éteint / verrouillé) ----------
+   iOS gèle la page web (donc le JavaScript et ses minuteries) quand l'écran
+   s'éteint : l'ancienne boucle phrase → silence → phrase s'arrêtait alors.
+   Dans l'app, on confie donc au code natif TOUTE la leçon d'un bloc
+   (phrases + silences de répétition), ainsi que les leçons suivantes
+   débloquées du module, enchaînées comme le ferait goToNextLessonOrStop().
+   Le natif joue tout seul, écran noir ou verrouillé ; il envoie des
+   événements (seqProgress / seqEnd) que la page traite quand elle est
+   active, pour l'affichage et la progression. */
+var nativeSeq = null;      // { id, token, programs:[{prog, segs}], map:[{p,s}], curP }
+var nativeSeqCounter = 0;
+var nativeListenersOn = false;
+var nativeTicker = null, nativeSegStartedAt = 0, nativePausedAt = 0;
+
+function canUseNativeSequence(){
+  const tts = isNativeApp() && getTTSPlugin();
+  return !!(tts && typeof tts.playSequence === 'function');
+}
+function ensureNativeListeners(){
+  if(nativeListenersOn) return;
+  const tts = getTTSPlugin();
+  if(!tts || typeof tts.addListener !== 'function') return;
+  nativeListenersOn = true;
+  try{ tts.addListener('seqProgress', ev=>onNativeSeqProgress(ev)); }catch(e){}
+  try{ tts.addListener('seqEnd', ev=>onNativeSeqEnd(ev)); }catch(e){}
+}
+function lessonChainAfter(prog){
+  // Leçons qui suivraient automatiquement (même logique que goToNextLessonOrStop).
+  const out = [];
+  let mi, li;
+  if(prog.type === 'intro'){ mi = 0; li = -1; }
+  else if(prog.type === 'lesson'){ mi = prog.mi; li = prog.li; }
+  else return out;
+  const m = MODULES[mi];
+  if(!m) return out;
+  for(let n = li + 1; n < m.lessonsCount && out.length < 25; n++){
+    if(!hasContent(mi, n) || !isLessonUnlocked(m.id, n)) break;
+    out.push({ prog:{type:'lesson', mi, li:n}, segs: buildLessonSegments(mi, n) });
+  }
+  return out;
+}
+function nativeItemFor(seg){
+  if(seg.type !== 'speak') return { k:'w', ms: seg.ms };
+  const it = { k:'s', text: seg.text, lang: seg.lang === 'fr' ? 'fr-FR' : L.tts, rate: seg.rate || 1 };
+  const vi = nativeVoiceIdx[seg.lang === 'fr' ? 'fr' : 'tgt'];
+  it.voice = (typeof vi === 'number' && vi >= 0) ? vi : -1;
+  return it;
+}
+async function playFromNative(startIndex, token){
+  await loadNativeVoices();
+  if(token !== playToken) return true;
+  const programs = [{ prog: currentProgram, segs: segments }, ...lessonChainAfter(currentProgram)];
+  const items = [], map = [];
+  programs.forEach((pg, p)=>{
+    for(let s = (p === 0 ? startIndex : 0); s < pg.segs.length; s++){
+      items.push(nativeItemFor(pg.segs[s])); map.push({p, s});
+    }
+  });
+  const id = ++nativeSeqCounter;
+  ensureNativeListeners();
+  nativeSeq = { id, token, programs, map, curP: 0 };
+  try{
+    await getTTSPlugin().playSequence({ items, start: 0, seq: id });
+  }catch(e){
+    nativeSeq = null;
+    return false; // ancienne app native sans séquence : on retombe sur la boucle JS
+  }
+  startNativeTicker();
+  return true;
+}
+function finishProgramQuietly(prog){
+  if(prog.type === 'intro'){ state.introDone = true; saveState(state); }
+  else if(prog.type === 'lesson'){ markLessonComplete(prog.mi, prog.li); }
+}
+function switchToChainedProgram(pg){
+  currentProgram = pg.prog;
+  segments = pg.segs;
+  if(pg.prog.type === 'lesson'){
+    const mi = pg.prog.mi, li = pg.prog.li;
+    currentModule = mi; currentLesson = li;
+    const m = MODULES[mi], lesson = m.lessons[li];
+    $('sessName').textContent = `${m.name} · Leçon ${li+1}${lesson.title? ' · '+lesson.title:''}`;
+  }
+}
+function onNativeSeqProgress(ev){
+  const sq = nativeSeq;
+  if(!sq || !ev || ev.seq !== sq.id || sq.token !== playToken) return;
+  const pos = sq.map[ev.index];
+  if(!pos) return;
+  while(sq.curP < pos.p){
+    finishProgramQuietly(sq.programs[sq.curP].prog);
+    sq.curP++;
+    switchToChainedProgram(sq.programs[sq.curP]);
+  }
+  segIndex = pos.s;
+  const seg = segments[segIndex];
+  if(seg) updateUIForSegment(seg);
+  elapsedBaseMs = computeSegmentStarts()[segIndex] || 0;
+  nativeSegStartedAt = Date.now(); nativePausedAt = isPaused ? Date.now() : 0;
+  updateScrubberLive(elapsedBaseMs);
+}
+function onNativeSeqEnd(ev){
+  const sq = nativeSeq;
+  if(!sq || !ev || ev.seq !== sq.id || sq.token !== playToken) return;
+  while(sq.curP < sq.programs.length - 1){
+    finishProgramQuietly(sq.programs[sq.curP].prog);
+    sq.curP++;
+    switchToChainedProgram(sq.programs[sq.curP]);
+  }
+  nativeSeq = null; stopNativeTicker();
+  onProgramFinished(playToken);
+}
+function startNativeTicker(){
+  stopNativeTicker();
+  nativeSegStartedAt = Date.now(); nativePausedAt = 0;
+  nativeTicker = setInterval(()=>{
+    if(!nativeSeq || isPaused) return;
+    const seg = segments[segIndex];
+    if(!seg) return;
+    const dur = seg.type === 'speak' ? seg.estMs : seg.ms;
+    updateScrubberLive(elapsedBaseMs + Math.min(Date.now() - nativeSegStartedAt, dur));
+  }, 250);
+}
+function stopNativeTicker(){ if(nativeTicker){ clearInterval(nativeTicker); nativeTicker = null; } }
+async function syncNativeSequence(){
+  if(!nativeSeq) return;
+  const tts = getTTSPlugin();
+  if(!tts || typeof tts.getSequenceState !== 'function') return;
+  try{
+    const st = await tts.getSequenceState();
+    if(st && st.active && nativeSeq && st.seq === nativeSeq.id) onNativeSeqProgress({ seq: st.seq, index: st.index });
+  }catch(e){}
+}
+
 /* ---------- lecture d'une leçon, depuis un segment donné ---------- */
 async function playFrom(startIndex){
   playToken++;
@@ -1022,6 +1158,13 @@ async function playFrom(startIndex){
   const starts = computeSegmentStarts();
   elapsedBaseMs = starts[startIndex] || 0;
   updateScrubberLive(elapsedBaseMs);
+
+  if(canUseNativeSequence()){
+    const seg0 = segments[startIndex];
+    if(seg0) updateUIForSegment(seg0);
+    if(await playFromNative(startIndex, token)) return;
+    if(token !== playToken) return;
+  }
 
   while(segIndex < segments.length){
     if(token !== playToken) return;
@@ -1344,6 +1487,12 @@ function openExternal(url){
 $('playPauseBtn').onclick = ()=>{
   isPaused = !isPaused;
   setPlayIcon(isPaused);
+  if(nativeSeq){
+    const tts = getTTSPlugin();
+    if(isPaused){ nativePausedAt = Date.now(); try{ tts.pauseSequence(); }catch(e){} }
+    else { if(nativePausedAt){ nativeSegStartedAt += Date.now() - nativePausedAt; nativePausedAt = 0; } try{ tts.resumeSequence(); }catch(e){} }
+    return;
+  }
   // Sur navigateur, on peut vraiment geler/reprendre l'utterance en cours.
   // Sur app native, le plugin TTS n'a pas de pause : la phrase en cours va
   // jusqu'à son terme, puis waitWhilePaused() bloque avant le segment

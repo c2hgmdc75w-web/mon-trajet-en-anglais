@@ -14,6 +14,12 @@ import Capacitor
 //    le canal audio de la voiture reste ouvert entre deux phrases.
 //  - Secours : si la fabrication du fichier échoue (voix incompatible…),
 //    la phrase est lue en direct comme avant.
+//  - LECTURE EN SÉQUENCE NATIVE (playSequence) : toute la leçon (phrases ET
+//    silences de répétition, et les leçons suivantes enchaînées) est confiée
+//    d'un bloc au code natif. iOS gèle la page web (JavaScript) quand l'écran
+//    s'éteint ; avec la séquence native, la lecture continue écran noir /
+//    verrouillé, sans dépendre du JavaScript. La page est tenue au courant
+//    par des événements (seqProgress / seqEnd) qu'elle traite à son réveil.
 
 enum QUEUE_STRATEGY: Int {
     case QUEUE_ADD = 1, QUEUE_FLUSH = 0
@@ -39,6 +45,19 @@ final class MTRenderJob {
     private var player: AVAudioPlayer?
     private var liveUtterance: AVSpeechUtterance?
     private var generation = 0
+    private var onDone: (() -> Void)?   // appelé quand la phrase en cours est finie
+
+    // Séquence native
+    var notify: ((String, [String: Any]) -> Void)?
+    private var seqItems: [[String: Any]] = []
+    private var seqIndex = 0
+    private var seqId = 0
+    private var seqActive = false
+    private var seqPaused = false
+    private var seqInWait = false
+    private var waitRemaining: Double = 0
+    private var waitStartedAt: Date?
+    private var waitGen = 0
 
     override init() {
         super.init()
@@ -104,6 +123,7 @@ final class MTRenderJob {
         let gen = keepAliveGeneration
         DispatchQueue.main.asyncAfter(deadline: .now() + keepAliveIdleSeconds) { [weak self] in
             guard let strongSelf = self, gen == strongSelf.keepAliveGeneration else { return }
+            if strongSelf.seqActive && !strongSelf.seqPaused { strongSelf.touchKeepAlive(); return }
             if strongSelf.player == nil && !strongSelf.synthesizer.isSpeaking {
                 strongSelf.keepAlive?.pause()
             }
@@ -118,6 +138,12 @@ final class MTRenderJob {
         calls.removeFirst()
     }
 
+    private func finishCurrent() {
+        let d = onDone
+        onDone = nil
+        d?()
+    }
+
     private func resolveAllCalls() {
         let pending = calls
         calls.removeAll()
@@ -130,7 +156,7 @@ final class MTRenderJob {
         DispatchQueue.main.async { [weak self] in
             guard let strongSelf = self, utterance === strongSelf.liveUtterance else { return }
             strongSelf.liveUtterance = nil
-            strongSelf.resolveCurrentCall()
+            strongSelf.finishCurrent()
         }
     }
 
@@ -139,13 +165,14 @@ final class MTRenderJob {
             guard let strongSelf = self, utterance === strongSelf.liveUtterance else { return }
             strongSelf.liveUtterance = nil
             strongSelf.touchKeepAlive()
-            strongSelf.resolveCurrentCall()
+            strongSelf.finishCurrent()
         }
     }
 
     private func speakLive(_ utterance: AVSpeechUtterance) {
         liveUtterance = utterance
         synthesizer.speak(utterance)
+        if seqActive && seqPaused { synthesizer.pauseSpeaking(at: .immediate) }
     }
 
     // MARK: - Lecture du fichier fabriqué : délégué du lecteur
@@ -155,7 +182,7 @@ final class MTRenderJob {
             guard let strongSelf = self, p === strongSelf.player else { return }
             strongSelf.player = nil
             strongSelf.touchKeepAlive()
-            strongSelf.resolveCurrentCall()
+            strongSelf.finishCurrent()
         }
     }
 
@@ -163,7 +190,7 @@ final class MTRenderJob {
         DispatchQueue.main.async { [weak self] in
             guard let strongSelf = self, p === strongSelf.player else { return }
             strongSelf.player = nil
-            strongSelf.resolveCurrentCall()
+            strongSelf.finishCurrent()
         }
     }
 
@@ -229,6 +256,7 @@ final class MTRenderJob {
             p.prepareToPlay()
             player = p
             touchKeepAlive()
+            if seqActive && seqPaused { return } // reprendra au resumeSequence()
             if !p.play() {
                 player = nil
                 speakLive(utterance)
@@ -241,7 +269,28 @@ final class MTRenderJob {
 
     // MARK: - Arrêt
 
+    private func stopPlayback() {
+        generation += 1
+        onDone = nil
+        if let p = player { p.stop() }
+        player = nil
+        renderSynth?.stopSpeaking(at: .immediate)
+        renderSynth = nil
+        liveUtterance = nil
+        if synthesizer.isSpeaking { synthesizer.stopSpeaking(at: .immediate) }
+    }
+
+    private func stopSequence() {
+        seqActive = false
+        seqPaused = false
+        seqInWait = false
+        waitStartedAt = nil
+        waitGen += 1
+        seqItems = []
+    }
+
     private func stopInternal() {
+        onDone = nil
         generation += 1
         if let p = player { p.stop() }
         player = nil
@@ -274,8 +323,10 @@ final class MTRenderJob {
             strongSelf.touchKeepAlive()
             // L'app enchaîne toujours une phrase après l'autre : on coupe toute
             // phrase précédente encore en cours, quelle que soit la stratégie.
+            strongSelf.stopSequence()
             strongSelf.stopInternal()
             strongSelf.calls.append(call)
+            strongSelf.onDone = { [weak self] in self?.resolveCurrentCall() }
             strongSelf.generation += 1
             strongSelf.renderAndPlay(utterance, strongSelf.generation)
         }
@@ -283,8 +334,142 @@ final class MTRenderJob {
 
     @objc public func stop() {
         DispatchQueue.main.async { [weak self] in
+            self?.stopSequence()
             self?.stopInternal()
         }
+    }
+
+    // MARK: - Séquence native (leçon entière jouée sans le JavaScript)
+
+    private func makeUtterance(_ text: String, _ lang: String, _ rate: Float, _ voice: Int) -> AVSpeechUtterance {
+        let utterance = AVSpeechUtterance(string: text)
+        utterance.voice = AVSpeechSynthesisVoice(language: lang)
+        utterance.rate = adjustRate(rate)
+        utterance.pitchMultiplier = 1.0
+        utterance.volume = 1.0
+        if voice >= 0 {
+            let allVoices = AVSpeechSynthesisVoice.speechVoices()
+            if voice < allVoices.count { utterance.voice = allVoices[voice] }
+        }
+        return utterance
+    }
+
+    private static func num(_ v: Any?) -> Double? {
+        if let n = v as? NSNumber { return n.doubleValue }
+        if let d = v as? Double { return d }
+        if let i = v as? Int { return Double(i) }
+        if let f = v as? Float { return Double(f) }
+        return nil
+    }
+
+    @objc public func playSequence(_ items: [[String: Any]], _ start: Int, _ id: Int) {
+        DispatchQueue.main.async { [weak self] in
+            guard let s = self else { return }
+            s.stopSequence()
+            s.stopInternal()
+            s.ensureSession()
+            s.seqItems = items
+            s.seqIndex = max(0, start)
+            s.seqId = id
+            s.seqActive = true
+            s.seqPaused = false
+            s.touchKeepAlive()
+            s.seqRun()
+        }
+    }
+
+    private func seqAdvance(_ id: Int, _ idx: Int) {
+        DispatchQueue.main.async { [weak self] in
+            guard let s = self, s.seqActive, s.seqId == id, s.seqIndex == idx else { return }
+            s.seqIndex = idx + 1
+            s.seqRun()
+        }
+    }
+
+    private func seqRun() {
+        guard seqActive else { return }
+        let id = seqId
+        if seqIndex >= seqItems.count {
+            seqActive = false
+            seqItems = []
+            touchKeepAlive() // la piste silencieuse s'arrêtera seule après le délai d'inactivité
+            notify?("seqEnd", ["seq": id])
+            return
+        }
+        let idx = seqIndex
+        let it = seqItems[idx]
+        notify?("seqProgress", ["seq": id, "index": idx])
+        let kind = (it["k"] as? String) ?? "w"
+        if kind == "s" {
+            let text = (it["text"] as? String) ?? ""
+            let lang = (it["lang"] as? String) ?? "fr-FR"
+            let rate = Float(TextToSpeech.num(it["rate"]) ?? 1.0)
+            let voice = Int(TextToSpeech.num(it["voice"]) ?? -1)
+            if text.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty || (voice < 0 && !isLanguageSupported(lang)) {
+                seqAdvance(id, idx)
+                return
+            }
+            let u = makeUtterance(text, lang, rate, voice)
+            stopPlayback()
+            onDone = { [weak self] in self?.seqAdvance(id, idx) }
+            generation += 1
+            touchKeepAlive()
+            renderAndPlay(u, generation)
+        } else {
+            let ms = TextToSpeech.num(it["ms"]) ?? 0
+            seqInWait = true
+            scheduleWait(ms / 1000.0, id, idx)
+        }
+    }
+
+    private func scheduleWait(_ secs: Double, _ id: Int, _ idx: Int) {
+        waitRemaining = max(0, secs)
+        waitStartedAt = Date()
+        waitGen += 1
+        let g = waitGen
+        touchKeepAlive()
+        DispatchQueue.main.asyncAfter(deadline: .now() + waitRemaining) { [weak self] in
+            guard let s = self, s.seqActive, !s.seqPaused, s.seqId == id, s.waitGen == g else { return }
+            s.seqInWait = false
+            s.waitStartedAt = nil
+            s.seqAdvance(id, idx)
+        }
+    }
+
+    @objc public func pauseSequence() {
+        DispatchQueue.main.async { [weak self] in
+            guard let s = self, s.seqActive, !s.seqPaused else { return }
+            s.seqPaused = true
+            if s.seqInWait, let t = s.waitStartedAt {
+                s.waitRemaining = max(0, s.waitRemaining - Date().timeIntervalSince(t))
+                s.waitStartedAt = nil
+                s.waitGen += 1
+            }
+            if let p = s.player, p.isPlaying { p.pause() }
+            if s.liveUtterance != nil && s.synthesizer.isSpeaking { s.synthesizer.pauseSpeaking(at: .word) }
+            s.keepAlive?.pause()
+        }
+    }
+
+    @objc public func resumeSequence() {
+        DispatchQueue.main.async { [weak self] in
+            guard let s = self, s.seqActive, s.seqPaused else { return }
+            s.seqPaused = false
+            s.ensureSession()
+            s.touchKeepAlive()
+            if s.seqInWait {
+                s.scheduleWait(s.waitRemaining, s.seqId, s.seqIndex)
+            } else if let p = s.player {
+                if !p.isPlaying { p.play() }
+            } else if s.liveUtterance != nil {
+                s.synthesizer.continueSpeaking()
+            }
+            // sinon : la phrase est en cours de fabrication, elle démarrera seule.
+        }
+    }
+
+    @objc public func sequenceState() -> [String: Any] {
+        return ["seq": seqId, "index": seqIndex, "active": seqActive, "paused": seqPaused]
     }
 
     @objc public func getSupportedLanguages() -> [String] {
