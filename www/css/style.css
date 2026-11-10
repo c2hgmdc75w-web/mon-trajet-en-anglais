@@ -180,3 +180,7 @@ body{
 .stage{min-height:0;}
 .tip-overlay{justify-content:flex-start;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:12px 6px 24px;}
 .tip-overlay .tip-card{margin:auto 0;}
+
+/* langue sans voix installée */
+.no-voice-banner{margin:4px 0 14px;padding:12px 14px;border-radius:14px;background:rgba(255,122,41,.12);border:1px solid var(--accent,#ff7a29);color:var(--text);font-size:14px;line-height:1.5;cursor:pointer;}
+.voice-alert{margin:0 0 14px;padding:12px 14px;border-radius:14px;background:rgba(255,122,41,.12);border:1px solid var(--accent,#ff7a29);color:var(--text);font-size:14px;line-height:1.5;}

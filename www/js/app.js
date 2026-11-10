@@ -232,7 +232,36 @@ async function setLanguage(code){
   $('tagline').textContent = `Apprends ${L.learn} en conduisant, en courant, en marchant.`;
   $('langBtn').textContent = `${L.flag} ${L.name} · changer`;
   renderHome();
+  refreshVoiceWarning(true);
   return true;
+}
+/* ---------- langue sans voix installée sur le téléphone ----------
+   Certaines langues (persan, tamoul, bengali…) n'ont AUCUNE voix installée
+   d'office sur l'iPhone : la phrase serait alors lue en silence. On le
+   détecte, on affiche un bandeau sur l'accueil et on explique où télécharger
+   la voix (Réglages > Accessibilité > Contenu énoncé > Voix). */
+let tgtVoiceMissing = false;
+async function refreshVoiceWarning(popup){
+  if(!isNativeApp() || !L) { tgtVoiceMissing = false; renderVoiceWarning(); return; }
+  nativeVoicesLoaded = false;
+  try{ await loadNativeVoices(); }catch(e){}
+  tgtVoiceMissing = !voicesFor('tgt').length;
+  renderVoiceWarning();
+  if(tgtVoiceMissing && popup) openNoVoiceHelp();
+}
+function renderVoiceWarning(){
+  const el = $('noVoiceBanner'); if(!el) return;
+  if(!tgtVoiceMissing){ el.style.display = 'none'; return; }
+  el.innerHTML = `⚠️ Aucune voix ${L.inLang.replace(/^en /,'')} n'est installée sur ton iPhone : les phrases ${L.inLang} resteraient muettes. <b>Touche ici pour l'installer (gratuit, 1 minute).</b>`;
+  el.style.display = 'block';
+}
+async function openNoVoiceHelp(){
+  await openVoicePicker();
+  const h = $('voiceHelp-tgt'); if(h) h.classList.add('show');
+  const box = $('voiceLists');
+  if(box && tgtVoiceMissing){
+    box.insertAdjacentHTML('afterbegin', `<div class="voice-alert">Ton iPhone n'a encore <b>aucune voix ${L.inLang.replace(/^en /,'')}</b>. Sans elle, les phrases ${L.inLang} ne seront pas lues. Suis le chemin ci-dessous pour en télécharger une (c'est gratuit), puis reviens dans l'app : elle sera choisie automatiquement.</div>`);
+  }
 }
 // Ferme l'écran de session sans re-rendre l'accueil (utilisé pendant un changement de langue).
 function closeSessionSilent(){
@@ -408,6 +437,7 @@ function renderHome(){
   listEl.querySelectorAll('.lesson-row').forEach(el=>{
     el.onclick = ()=>{
       if(el.dataset.intro === '1'){ startIntro(); return; }
+      if(tgtVoiceMissing){ openNoVoiceHelp(); return; }
       if(el.dataset.tipMi !== undefined){
         const mi = parseInt(el.dataset.tipMi);
         const li = parseInt(el.dataset.tipLi);
@@ -494,7 +524,7 @@ function buildIntroSegments(){
   segs.push(S("Nous allons commencer à travailler ensemble. Mais ma voix dépend de toi.", 'fr', 1, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
   segs.push(W(400, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
 
-  segs.push(S(`Si tu trouves ma voix trop robotique, tu peux en changer à tout moment. Sur l'écran d'accueil, appuie sur le bouton Choisir les voix, juste sous le titre. Tu y verras toutes les voix installées sur ton téléphone, en français et ${L.inLang}. Appuie sur une voix pour l'écouter : elle sera choisie automatiquement pour les leçons. Attention, cette liste ne montre que les voix déjà téléchargées sur ton téléphone. D'autres voix, d'homme ou de femme, sont disponibles gratuitement dans les Réglages : il faut d'abord les télécharger. Le bouton Plus de voix, sous chaque langue, t'explique exactement où les trouver.`, 'fr', 1, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
+  segs.push(S(`Si tu trouves ma voix trop robotique, tu peux en changer à tout moment. Sur l'écran d'accueil, appuie sur le bouton Choisir les voix, juste sous le titre. Tu y verras toutes les voix installées sur ton téléphone, en français et ${L.inLang}. Appuie sur une voix pour l'écouter : elle sera choisie automatiquement pour les leçons. Attention, cette liste ne montre que les voix déjà téléchargées sur ton téléphone. Pour certaines langues, comme le persan, le tamoul ou le bengali, l'iPhone n'installe aucune voix d'office : si la phrase étrangère reste muette, c'est qu'il faut d'abord télécharger une voix. D'autres voix, d'homme ou de femme, sont disponibles gratuitement dans les Réglages : il faut d'abord les télécharger. Le bouton Plus de voix, sous chaque langue, t'explique exactement où les trouver.`, 'fr', 1, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
   segs.push(W(500, 'Bien commencer ensemble', CTX, 'headphones', false, '', ''));
 
   let pathText;
@@ -835,6 +865,7 @@ document.addEventListener('visibilitychange', async ()=>{
   nativeVoicesLoaded = false;
   // Retour des Réglages avec l'écran des voix ouvert : on relit la liste tout de suite.
   if($('voicePicker') && $('voicePicker').classList.contains('show') && isNativeApp()){ await loadNativeVoices(); renderVoicePicker(); }
+  if(L && isNativeApp()) refreshVoiceWarning(false);
 });
 
 /* ---------- écran "Choisir les voix" ----------
@@ -866,7 +897,7 @@ function renderVoicePicker(){
         <div><div class="voice-name">${o.v.name || 'Voix'}</div><div class="voice-meta">${voiceQualityLabel(o.v)} · ${o.v.lang||''}</div></div>
         <div class="voice-check">${sel?'✓':''}</div></div>`;
     }
-    html += `<button class="voice-more" data-help="${key}">＋ Plus de voix ${key === 'fr' ? 'en français' : L.inLang}</button>
+    html += `<button class="voice-more" data-help="${key}">＋ Plus de voix ${key === 'fr' ? 'en français' : LANGS[currentLang].inLang}</button>
       <div class="voice-help" id="voiceHelp-${key}">Ton iPhone n'affiche ici que les voix <b>déjà téléchargées</b>. D'autres voix, d'homme ou de femme, sont disponibles gratuitement :<ol>
         <li>Ouvre l'app <b>Réglages</b> de l'iPhone</li><li><b>Accessibilité</b></li><li><b>Contenu énoncé</b> (ou <b>Lire et énoncer</b>)</li><li><b>Voix</b></li><li><b>${L.settings}</b></li>
         <li>Touche une voix (de préférence <b>Premium</b> ou <b>Améliorée</b>) et télécharge-la</li></ol>Reviens ensuite dans l'app : la nouvelle voix apparaîtra ici automatiquement. Les voix Siri ne sont pas disponibles pour les applications.</div>`;
@@ -1385,6 +1416,7 @@ $('privacyLink').onclick = (e)=>{ e.preventDefault(); openExternal(PRIVACY_URL);
 $('voiceBtn').onclick = openVoicePicker;
 $('closeVoiceBtn').onclick = closeVoicePicker;
 $('langBtn').onclick = openLangPicker;
+$('noVoiceBanner').onclick = openNoVoiceHelp;
 $('closeLangBtn').onclick = closeLangPicker;
 
 if('speechSynthesis' in window){
