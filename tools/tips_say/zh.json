@@ -1,0 +1,718 @@
+{
+ "0-0-0": {
+  "zhù": "住",
+  "Wǒ zhù zài Lǐ'áng": "我住在里昂",
+  "Tā zhù zài Běijīng": "他住在北京",
+  "qù": "去",
+  "wǒ qù": "我去",
+  "wǒmen qù": "我们去"
+ },
+ "0-0-1": {
+  "chá": "茶",
+  "mǎi": "买",
+  "mài": "卖",
+  "Wǒ xiǎng mǎi chá": "我想买茶",
+  "Nǐmen mài chá ma ?": "你们卖茶吗？",
+  "ma": "吗"
+ },
+ "0-0-2": {
+  "Shì": "是",
+  "shì": "是",
+  "Wǒ shì yóukè": "我是游客",
+  "Zhè shì Gùgōng": "这是故宫",
+  "rén": "人",
+  "Wǒ shì Bālírén": "我是巴黎人",
+  "Gùgōng hěn dà": "故宫很大"
+ },
+ "0-0-3": {
+  "Ma": "吗",
+  "ma": "吗",
+  "Nǐ è": "你饿",
+  "Nǐ è ma ?": "你饿吗？",
+  "Nǐ yào shuǐ": "你要水",
+  "Nǐ yào shuǐ ma ?": "你要水吗？",
+  "Yào": "要"
+ },
+ "0-0-4": {
+  "Bù": "不",
+  "bù": "不",
+  "Wǒ chī là": "我吃辣",
+  "Wǒ bù chī là": "我不吃辣",
+  "bú yào": "不要",
+  "bú shì": "不是",
+  "bú guì": "不贵",
+  "bù chī": "不吃",
+  "bù hē": "不喝"
+ },
+ "0-0-5": {
+  "Wǒ": "我",
+  "nǐ": "你",
+  "tā": "他",
+  "wǒmen": "我们",
+  "nǐmen": "你们",
+  "tāmen": "他们",
+  "Tāmen zhù zài lóushàng": "他们住在楼上",
+  "wǒ zhù": "我住",
+  "tāmen zhù": "他们住",
+  "nín": "您"
+ },
+ "0-0-6": {
+  "De": "的",
+  "de": "的",
+  "wǒ de": "我的",
+  "nǐ de": "你的",
+  "wǒmen de": "我们的",
+  "Zhè shì wǒ de fángjiān": "这是我的房间",
+  "chúfáng de chuānghu": "厨房的窗户",
+  "wǒ māma": "我妈妈",
+  "wǒ tàitai": "我太太"
+ },
+ "0-0-7": {
+  "Hěn": "很",
+  "shì": "是",
+  "hěn": "很",
+  "Kōngqì hěn gān": "空气很干",
+  "Jīntiān hěn rè": "今天很热",
+  "Fēng hěn dà": "风很大",
+  "bù": "不",
+  "Bù lěng": "不冷"
+ },
+ "0-0-8": {
+  "Zhè": "这",
+  "nà": "那",
+  "zhè": "这",
+  "ge": "个",
+  "zhège": "这个",
+  "nàge": "那个",
+  "Wǒ yào zhège": "我要这个",
+  "zhèxiē": "这些",
+  "nàxiē": "那些",
+  "Zhèxiē píngguǒ hěn xīnxiān": "这些苹果很新鲜",
+  "Nàge ne ?": "那个呢？"
+ },
+ "0-0-9": {
+  "Wǒmen jīntiān wǎnshang zài wàimiàn chī fàn": "我们今天晚上在外面吃饭",
+  "Wǒ míngtiān qù Gùgōng": "我明天去故宫",
+  "Wǒ zài chūkǒu děng nǐ": "我在出口等你",
+  "Míngtiān wǒ qù Gùgōng": "明天我去故宫"
+ },
+ "0-0-10": {
+  "yī, èr, sān, sì, wǔ, liù, qī, bā, jiǔ, shí": "一，二，三，四，五，六，七，八，九，十",
+  "shíyī": "十一",
+  "èrshí": "二十",
+  "sānshíwǔ": "三十五",
+  "Wǒ sānshí suì": "我三十岁",
+  "yìbǎi": "一百",
+  "liǎng": "两",
+  "èr": "二",
+  "liǎng zhāng piào": "两张票",
+  "yāo": "幺"
+ },
+ "0-0-11": {
+  "ge": "个",
+  "liǎng ge bāozi": "两个包子",
+  "zhāng": "张",
+  "píng": "瓶",
+  "wǎn": "碗",
+  "shuāng": "双",
+  "zhè": "这",
+  "nà": "那",
+  "zhè jiā fànguǎn": "这家饭馆"
+ },
+ "0-0-12": {
+  "Yǒu": "有",
+  "méiyǒu": "没有",
+  "yǒu": "有",
+  "Wǒ yǒu língqián": "我有零钱",
+  "Zhèr yǒu hěn duō cài": "这儿有很多菜",
+  "Yǒu dòufu ma ?": "有豆腐吗？",
+  "bù": "不",
+  "bù yǒu": "不有",
+  "méi": "没",
+  "Wǒ méiyǒu dàizi": "我没有袋子",
+  "Méiyǒu": "没有",
+  "Méiyǒu le": "没有了",
+  "yǒu, méiyǒu": "有，没有"
+ },
+ "0-0-13": {
+  "Zài": "在",
+  "zài": "在",
+  "shì": "是",
+  "Nǐ zài nǎr ?": "你在哪儿？",
+  "Wǒ zài hútòng li": "我在胡同里",
+  "bù": "不",
+  "Wǒ bú zài jiā": "我不在家",
+  "zài zuǒbian": "在左边",
+  "zài běibian": "在北边"
+ },
+ "0-0-14": {
+  "diǎn": "点",
+  "fēn": "分",
+  "qī diǎn": "七点",
+  "Jiǔ diǎn shí fēn": "九点十分",
+  "bàn": "半",
+  "bā diǎn bàn": "八点半",
+  "yí kè": "一刻",
+  "liǎng diǎn": "两点",
+  "èr diǎn": "二点",
+  "jǐ": "几",
+  "Xiànzài jǐ diǎn ?": "现在几点？",
+  "Wǒ qī diǎn qǐchuáng": "我七点起床"
+ },
+ "0-0-15": {
+  "shénme": "什么",
+  "nǎr": "哪儿",
+  "shéi": "谁",
+  "jǐ": "几",
+  "Nǐ jīntiān wǎnshang zuò shénme ?": "你今天晚上做什么？",
+  "Wǒ jīntiān wǎnshang kàn diànyǐng": "我今天晚上看电影",
+  "Nǐ zài nǎr ?": "你在哪儿？",
+  "Wǒ zài jiā": "我在家",
+  "jǐ diǎn": "几点",
+  "ma": "吗"
+ },
+ "0-0-16": {
+  "Yě": "也",
+  "dōu": "都",
+  "yě": "也",
+  "Zhèxiē zìxíngchē dōu shì huángsè de": "这些自行车都是黄色的",
+  "Wǒ yě qí zìxíngchē": "我也骑自行车",
+  "Wǒ yě bú pà": "我也不怕",
+  "Wǒmen yě dōu hěn gāoxìng": "我们也都很高兴"
+ },
+ "0-0-17": {
+  "Xiǎng": "想",
+  "yào": "要",
+  "Yào": "要",
+  "Wǒ xiǎng mǎi yí jiàn wàitào": "我想买一件外套",
+  "Wǒ yào zhè jiàn": "我要这件",
+  "xiǎng qù": "想去",
+  "yào shìshi": "要试试",
+  "bú yào": "不要",
+  "xiǎng": "想"
+ },
+ "0-0-18": {
+  "Ba": "吧",
+  "ba": "吧",
+  "Pāi zhāng zhàopiàn ba !": "拍张照片吧！",
+  "wǒmen": "我们",
+  "Wǒmen qù Jǐngshān Gōngyuán ba": "我们去景山公园吧",
+  "Zǒu ba !": "走吧！",
+  "Nǐ lèi le ba ?": "你累了吧？",
+  "ma": "吗"
+ },
+ "0-0-19": {
+  "Nǐ hǎo": "你好",
+  "Dàjiā hǎo": "大家好",
+  "ní hǎo": "你好",
+  "Xièxie": "谢谢",
+  "Duìbuqǐ": "对不起",
+  "Méi guānxi": "没关系",
+  "Duìbuqǐ !": "对不起！",
+  "Méi guānxi !": "没关系！"
+ },
+ "0-1-1": {
+  "Jīntiān, míngtiān, zuótiān": "今天，明天，昨天",
+  "tiān": "天",
+  "jīntiān": "今天",
+  "míngtiān": "明天",
+  "zuótiān": "昨天",
+  "Míngtiān wǒmen qù Chángchéng": "明天我们去长城",
+  "qù": "去",
+  "Zuótiān wǒ zài Bālí": "昨天我在巴黎",
+  "Jīntiān wǒ zài Běijīng": "今天我在北京",
+  "hòutiān": "后天",
+  "míng": "明",
+  "zuó": "昨"
+ },
+ "0-1-3": {
+  "Qǐng": "请",
+  "qǐng": "请",
+  "Qǐng jìn": "请进",
+  "Qǐng zuò": "请坐",
+  "Qǐng shāo děng": "请稍等",
+  "qǐngwèn": "请问"
+ },
+ "0-1-5": {
+  "Duōshao qián": "多少钱",
+  "duōshao qián": "多少钱",
+  "Duō": "多",
+  "Zhège màozi duōshao qián ?": "这个帽子多少钱？",
+  "Wǔshí kuài": "五十块",
+  "kuài": "块",
+  "Yígòng duōshao qián ?": "一共多少钱？",
+  "Tài guì le !": "太贵了！",
+  "duōshao": "多少"
+ },
+ "0-1-7": {
+  "Cóng... dào...": "从……到……",
+  "cóng": "从",
+  "dào": "到",
+  "cóng Běijīng dào Xī'ān": "从北京到西安",
+  "Zhè tàng chē cóng Běijīng dào Xī'ān": "这趟车从北京到西安",
+  "cóng xīngqīyī dào xīngqīwǔ": "从星期一到星期五",
+  "cóng jiǔ diǎn dào shí diǎn": "从九点到十点",
+  "yào jǐ ge xiǎoshí ?": "要几个小时？"
+ },
+ "0-1-9": {
+  "Le": "了",
+  "le": "了",
+  "Wǒ zū le yí liàng zìxíngchē": "我租了一辆自行车",
+  "ma": "吗",
+  "Nǐ mǎi shuǐ le ma ?": "你买水了吗？",
+  "Mǎi le": "买了",
+  "méiyǒu": "没有",
+  "méi": "没",
+  "Hái méiyǒu": "还没有",
+  "Yǐjīng liù diǎn le": "已经六点了"
+ },
+ "0-1-11": {
+  "Zěnme": "怎么",
+  "zěnme": "怎么",
+  "zěnme zǒu": "怎么走",
+  "Huǒchēzhàn zěnme zǒu ?": "火车站怎么走？",
+  "qǐngwèn": "请问",
+  "Qù bówùguǎn zěnme zǒu ?": "去博物馆怎么走？",
+  "zěnme shuō": "怎么说",
+  "zěnme qù": "怎么去"
+ },
+ "0-1-13": {
+  "Néng": "能",
+  "kěyǐ": "可以",
+  "huì": "会",
+  "Kěyǐ": "可以",
+  "Wǒ kěyǐ zuò zhèr ma ?": "我可以坐这儿吗？",
+  "Nín néng shuō màn yìdiǎnr ma ?": "您能说慢一点儿吗？",
+  "bù néng": "不能",
+  "Zhèr bù néng chōuyān": "这儿不能抽烟",
+  "Wǒ huì shuō yìdiǎnr": "我会说一点儿",
+  "bù": "不",
+  "Wǒ bú huì kāichē": "我不会开车",
+  "néng": "能"
+ },
+ "0-1-15": {
+  "Zuò": "坐",
+  "zuò": "坐",
+  "zuò dìtiě": "坐地铁",
+  "zuò gōngjiāochē": "坐公交车",
+  "zuò huǒchē": "坐火车",
+  "zuò fēijī": "坐飞机",
+  "Wǒ zuò dìtiě qù Pǔdōng": "我坐地铁去浦东",
+  "Míngtiān wǒ zuò huǒchē qù Hángzhōu": "明天我坐火车去杭州",
+  "qí zìxíngchē": "骑自行车"
+ },
+ "0-1-17": {
+  "Lí": "离",
+  "lí": "离",
+  "yuǎn": "远",
+  "jìn": "近",
+  "Hángzhōu lí Shànghǎi hěn jìn": "杭州离上海很近",
+  "hěn": "很",
+  "Lí zhèr yuǎn ma ?": "离这儿远吗？",
+  "Huǒchēzhàn lí zhèr liǎng gōnglǐ": "火车站离这儿两公里",
+  "cóng": "从"
+ },
+ "0-1-19": {
+  "Guo": "过",
+  "guo": "过",
+  "Wǒ qù guo Chángchéng": "我去过长城",
+  "ma": "吗",
+  "Nǐ qù guo Hángzhōu ma ?": "你去过杭州吗？",
+  "méi": "没",
+  "Wǒ méi chī guo kǎoyā": "我没吃过烤鸭",
+  "le": "了",
+  "Le": "了"
+ },
+ "0-2-1": {
+  "jiào": "叫",
+  "xìng": "姓",
+  "Jiào": "叫",
+  "Wǒ jiào Wáng Lěi": "我叫王磊",
+  "Xìng": "姓",
+  "Wǒ xìng Wáng": "我姓王",
+  "Wáng Lěi": "王磊",
+  "Nín guìxìng ?": "您贵姓？",
+  "Nǐ jiào shénme míngzi ?": "你叫什么名字？"
+ },
+ "0-2-3": {
+  "Xǐhuan": "喜欢",
+  "xǐ": "喜",
+  "wǒ xǐhuan": "我喜欢",
+  "nǐ xǐhuan": "你喜欢",
+  "tā xǐhuan": "他喜欢",
+  "xǐhuan": "喜欢",
+  "Wǒ xǐhuan xióngmāo": "我喜欢熊猫",
+  "Wǒ xǐhuan hē chá": "我喜欢喝茶",
+  "bù": "不",
+  "Wǒ bù xǐhuan kāfēi": "我不喜欢咖啡",
+  "hěn": "很",
+  "Wǒ hěn xǐhuan Chéngdū": "我很喜欢成都",
+  "ma": "吗",
+  "Nǐ xǐhuan dǎ májiàng ma ?": "你喜欢打麻将吗？"
+ },
+ "0-2-5": {
+  "Bàba": "爸爸",
+  "māma": "妈妈",
+  "gēge": "哥哥",
+  "jiějie": "姐姐",
+  "dìdi": "弟弟",
+  "mèimei": "妹妹",
+  "wǒ bàba": "我爸爸",
+  "Wǒ gēge zhù zài Běijīng": "我哥哥住在北京"
+ },
+ "0-2-7": {
+  "Zhèngzài": "正在",
+  "zhèngzài": "正在",
+  "Wǒ chīfàn": "我吃饭",
+  "Wǒ zhèngzài chīfàn": "我正在吃饭",
+  "wǒ": "我",
+  "chīfàn": "吃饭",
+  "zài": "在",
+  "Nǐ zài gàn shénme ?": "你在干什么？",
+  "ma": "吗",
+  "Nǐ zhèngzài shàngbān ma ?": "你正在上班吗？",
+  "Wǒ zhèngzài cháguǎn hē chá": "我正在茶馆喝茶",
+  "zhèng": "正"
+ },
+ "0-2-9": {
+  "bǐ": "比",
+  "Chéngdū bǐ Lǐ'áng dà": "成都比里昂大",
+  "hěn": "很",
+  "Wǒ bǐ nǐ xiǎo liǎng suì": "我比你小两岁",
+  "ma": "吗",
+  "Zhōngwén bǐ Fǎyǔ nán ma ?": "中文比法语难吗？"
+ },
+ "0-2-11": {
+  "Yīnwèi... suǒyǐ...": "因为……所以……",
+  "yīnwèi": "因为",
+  "suǒyǐ": "所以",
+  "Yīnwèi xià yǔ, suǒyǐ wǒmen dāi zài cháguǎn": "因为下雨，所以我们待在茶馆",
+  "wèishénme": "为什么",
+  "Yīnwèi wǒ zài Zhōngguó gōngzuò": "因为我在中国工作",
+  "Wǒ pà là, suǒyǐ chī wēilà": "我怕辣，所以吃微辣"
+ },
+ "0-2-13": {
+  "Kàn": "看",
+  "kànkan": "看看",
+  "Shì": "试",
+  "shìshi": "试试",
+  "Nǐ chángchang zhège chá": "你尝尝这个茶",
+  "xiūxi xiūxi": "休息休息",
+  "xiǎngxiang": "想想",
+  "zǒuzou": "走走"
+ },
+ "0-2-15": {
+  "Gěi": "给",
+  "Wǒ gěi nǐ zhè běn shū": "我给你这本书",
+  "gěi": "给",
+  "Wǒ gěi māma mǎi chá": "我给妈妈买茶",
+  "gěi nǐ dǎ diànhuà": "给你打电话",
+  "Gěi nǐ !": "给你！"
+ },
+ "0-2-17": {
+  "Tài... le": "太……了",
+  "fēicháng": "非常",
+  "tài": "太",
+  "le": "了",
+  "Zhège huǒguō tài là le !": "这个火锅太辣了！",
+  "tài... le": "太……了",
+  "Tài hǎo le !": "太好了！",
+  "Nǐ tài kèqi le !": "你太客气了！",
+  "hěn": "很",
+  "Fēicháng hǎochī": "非常好吃"
+ },
+ "0-2-19": {
+  "Ba": "吧",
+  "Wǒmen zǒu ba": "我们走吧",
+  "Nǐ lèi le ba": "你累了吧",
+  "Ne": "呢",
+  "Nǐ ne ?": "你呢？",
+  "ne": "呢",
+  "A": "啊",
+  "Hǎo a !": "好啊！",
+  "Nǐ ne ? Nǐ zuì xǐhuan shénme ?": "你呢？你最喜欢什么？"
+ },
+ "1-0-1": {
+  "Shì... de": "是……的",
+  "shì": "是",
+  "de": "的",
+  "Wǒ shì shàng ge yuè lái de": "我是上个月来的",
+  "wǒ": "我",
+  "shàng ge yuè": "上个月",
+  "lái": "来",
+  "Shì zài Bālí bàn de": "是在巴黎办的",
+  "Nǐ shì zěnme lái de ?": "你是怎么来的？"
+ },
+ "1-0-4": {
+  "kàn": "看",
+  "kàn wán": "看完",
+  "tīng": "听",
+  "tīng dǒng": "听懂",
+  "Zǎoshang wǒ kàn wánle suǒyǒu de yóujiàn": "早上我看完了所有的邮件",
+  "méi": "没",
+  "Wǒ méi tīng dǒng": "我没听懂",
+  "Wǒ méi tīng": "我没听",
+  "xiě cuò": "写错",
+  "zhǎo dào": "找到"
+ },
+ "1-0-5": {
+  "Bǎ": "把",
+  "bǎ": "把",
+  "Qǐng bǎ shū fàng dào shūjià shang": "请把书放到书架上",
+  "Bǎ chuānghu guānshang": "把窗户关上",
+  "Bǎ yīfu xǐ hǎo le": "把衣服洗好了"
+ },
+ "1-0-11": {
+  "Guo": "过",
+  "le": "了",
+  "guo": "过",
+  "Nǐ qùguo Sūzhōu ma ?": "你去过苏州吗？",
+  "Le": "了",
+  "Zuótiān wǎnshang wǒ zhōngyú chīle yì zhī": "昨天晚上我终于吃了一只",
+  "Zuòguo, shàng ge xīngqī wǒ zuò gāotiě qùle Hángzhōu": "坐过，上个星期我坐高铁去了杭州",
+  "méi chīguo": "没吃过",
+  "méi chī": "没吃"
+ },
+ "1-0-18": {
+  "Bié": "别",
+  "bùyào": "不要",
+  "bié": "别",
+  "búyào": "不要",
+  "Bié chūmén, tài wēixiǎn le": "别出门，太危险了",
+  "chūmén": "出门",
+  "tài wēixiǎn le": "太危险了",
+  "bù": "不",
+  "qǐng": "请",
+  "Qǐng búyào": "请不要",
+  "Bié dānxīn": "别担心",
+  "Bié kèqi": "别客气"
+ },
+ "1-1-2": {
+  "lái": "来",
+  "qù": "去",
+  "Lái": "来",
+  "shànglai": "上来",
+  "shàngqu": "上去",
+  "Nǐ xiān shànglai": "你先上来",
+  "nǐ": "你",
+  "xiān": "先",
+  "shàng": "上",
+  "jìnlai": "进来",
+  "xiàqu": "下去",
+  "huíqu": "回去"
+ },
+ "1-1-4": {
+  "Yào... le": "要……了",
+  "yào": "要",
+  "le": "了",
+  "tàiyáng yào xiàshān le": "太阳要下山了",
+  "tàiyáng": "太阳",
+  "xiàshān": "下山",
+  "kuài": "快",
+  "kuài yào xià yǔ le": "快要下雨了",
+  "yào chūfā le": "要出发了",
+  "tiān yào hēi le": "天要黑了"
+ },
+ "1-1-7": {
+  "Rúguǒ... jiù...": "如果……就……",
+  "rúguǒ": "如果",
+  "jiù": "就",
+  "Rúguǒ tiānqì hǎo, wǒmen jiù zuò suǒdào shàngqu": "如果天气好，我们就坐索道上去",
+  "rúguǒ xià yǔ, wǒmen jiù bú qù": "如果下雨，我们就不去",
+  "rúguǒ nǐ lèi, jiù xiūxi ba": "如果你累，就休息吧"
+ },
+ "1-1-11": {
+  "de": "得",
+  "pǎo de hěn kuài": "跑得很快",
+  "Tā qí chē qí de hěn kuài": "他骑车骑得很快",
+  "tā": "他",
+  "qí chē": "骑车",
+  "qí": "骑",
+  "hěn kuài": "很快",
+  "shuōhuà": "说话",
+  "nǐ qí de tài kuài le": "你骑得太快了",
+  "wǒmen wán de hěn kāixīn": "我们玩得很开心"
+ },
+ "1-1-15": {
+  "Suīrán... dànshì...": "虽然……但是……",
+  "suīrán": "虽然",
+  "dànshì": "但是",
+  "Suīrán wǒ hěn lèi, dànshì wǒ bù xiǎng fàngqì": "虽然我很累，但是我不想放弃",
+  "Suīrán": "虽然",
+  "wǒ suīrán hěn lèi": "我虽然很累",
+  "dàn": "但",
+  "kěshì": "可是"
+ },
+ "1-2-1": {
+  "La": "啦",
+  "hǎo la": "好啦",
+  "Bei": "呗",
+  "nà jiù zǒu guòqu bei": "那就走过去呗",
+  "zǒu, chī fàn qù !": "走，吃饭去！",
+  "méi shì": "没事",
+  "chāo": "超",
+  "tǐng": "挺",
+  "hěn": "很"
+ },
+ "1-2-4": {
+  "Kěnéng": "可能",
+  "yěxǔ": "也许",
+  "huì": "会",
+  "jīnwǎn kěnéng huì xià yǔ": "今晚可能会下雨",
+  "Yěxǔ": "也许",
+  "yěxǔ wǒmen yīnggāi huàn yì jiā fànguǎn": "也许我们应该换一家饭馆",
+  "yǒu kěnéng": "有可能",
+  "bù kěnéng !": "不可能！",
+  "kě": "可",
+  "néng": "能"
+ },
+ "1-2-11": {
+  "Tīngshuō": "听说",
+  "tīngshuō Xiǎo Wáng yào jiéhūn le": "听说小王要结婚了",
+  "wǒ tīng tóngshì shuō de": "我听同事说的",
+  "nǐ tīng shéi shuō de ?": "你听谁说的？"
+ },
+ "1-2-13": {
+  "Yìbiān... yìbiān...": "一边……一边……",
+  "yìbiān": "一边",
+  "tā xǐhuan yìbiān chī fàn yìbiān kàn diànshì": "他喜欢一边吃饭一边看电视",
+  "yìbiān hē chá yìbiān liáotiān": "一边喝茶一边聊天",
+  "bié yìbiān zǒulù yìbiān kàn shǒujī": "别一边走路一边看手机",
+  "biān": "边"
+ },
+ "1-2-17": {
+  "nǐ": "你",
+  "nín": "您",
+  "qǐngwèn": "请问",
+  "qǐngwèn, xǐshǒujiān zài nǎlǐ ?": "请问，洗手间在哪里？",
+  "qǐngwèn nín guìxìng ?": "请问您贵姓？",
+  "guì": "贵",
+  "wǒ xìng Lǐ": "我姓李"
+ },
+ "2-0-0": {
+  "bèi": "被",
+  "Kèhù de zīliào bèi shíxíshēng nòng diū le": "客户的资料被实习生弄丢了",
+  "bèi tōu le": "被偷了",
+  "bèi pīpíng": "被批评",
+  "Wénjiàn bèi wù shān le": "文件被误删了"
+ },
+ "2-0-2": {
+  "ràng": "让",
+  "jiào": "叫",
+  "Lǎobǎn ràng wǒ zǔzhī zhōuyī de huìyì": "老板让我组织周一的会议",
+  "Jiào": "叫",
+  "Wǒ qù jiào Xiǎo Lǐ dìng yíxià huìyìshì": "我去叫小李订一下会议室",
+  "Ràng": "让",
+  "Zhège xiāoxi ràng wǒ hěn dānxīn": "这个消息让我很担心",
+  "Ràng wǒ xiān kàn yíxià": "让我先看一下"
+ },
+ "2-0-4": {
+  "Zhǐyào... jiù...": "只要……就……",
+  "zhǐyǒu... cái...": "只有……才……",
+  "Zhǐyào nín zài zhèlǐ qiānzì, hétong jiù shēngxiào le": "只要您在这里签字，合同就生效了",
+  "Zhǐyǒu... cái...": "只有……才……",
+  "Zhǐyǒu guò le shìyòngqī, nǐ cái néng zhuǎnzhèng": "只有过了试用期，你才能转正",
+  "jiù": "就",
+  "cái": "才"
+ },
+ "2-0-7": {
+  "Lián... dōu...": "连……都……",
+  "lián": "连",
+  "dōu": "都",
+  "yě": "也",
+  "Lián wǒ lǎobǎn dōu zuò dìtiě shàngbān": "连我老板都坐地铁上班",
+  "Wǒ lián hē bēi kāfēi de shíjiān dōu méiyǒu": "我连喝杯咖啡的时间都没有",
+  "jǐ de lián dòng dōu dòng bu liǎo": "挤得连动都动不了"
+ },
+ "2-0-11": {
+  "dàjiā": "大家",
+  "gèwèi": "各位",
+  "xièxie": "谢谢",
+  "gǎnxiè": "感谢",
+  "zài bǎi máng zhī zhōng chōukòng": "在百忙之中抽空",
+  "fánqǐng": "烦请",
+  "shēn biǎo qiànyì": "深表歉意"
+ },
+ "2-1-1": {
+  "de": "的",
+  "wǒ zuówǎn pāi de zhàopiàn": "我昨晚拍的照片",
+  "wǒ mǎi de piào": "我买的票",
+  "mài piào de rén": "卖票的人"
+ },
+ "2-1-3": {
+  "Wèile": "为了",
+  "wèile": "为了",
+  "Wèile kàn rìchū, děi sì diǎn bàn qǐchuáng": "为了看日出，得四点半起床",
+  "shì wèile": "是为了",
+  "shì wèile dǎng fēng": "是为了挡风",
+  "bù": "不",
+  "wèile bù dǎrǎo biérén": "为了不打扰别人",
+  "wèi": "为"
+ },
+ "2-1-6": {
+  "de": "得",
+  "tīng de dǒng": "听得懂",
+  "mǎi bu dào": "买不到",
+  "kàn bu qīngchu": "看不清楚",
+  "kàn bu wán": "看不完",
+  "gēn bu shàng": "跟不上"
+ },
+ "2-1-11": {
+  "Yīnggāi": "应该",
+  "lúndù yīnggāi jiǔ diǎn chūfā": "轮渡应该九点出发",
+  "nǐ yīnggāi xiūxi": "你应该休息",
+  "zǎo jiù": "早就",
+  "le": "了",
+  "chuán zǎo jiù yīnggāi kāi le": "船早就应该开了",
+  "yīng": "应",
+  "gāi": "该",
+  "yīnggāi": "应该"
+ },
+ "2-1-17": {
+  "Yuè lái yuè": "越来越",
+  "yuè lái yuè": "越来越",
+  "yuè lái yuè fāngbiàn": "越来越方便",
+  "yuè lái yuè xǐhuan": "越来越喜欢",
+  "yuè lái yuè duō de rén": "越来越多的人",
+  "le": "了",
+  "yuè": "越",
+  "yuè lǚxíng yuè xiǎng zài chūfā": "越旅行越想再出发",
+  "lái": "来"
+ },
+ "2-2-0": {
+  "chéngyǔ": "成语",
+  "yì jǔ liǎng dé": "一举两得",
+  "luàn qī bā zāo": "乱七八糟",
+  "bù zhī bù jué": "不知不觉"
+ },
+ "2-2-2": {
+  "Chī le ma ?": "吃了吗？",
+  "chī le, nǐ ne ?": "吃了，你呢？",
+  "Mànmàn chī": "慢慢吃",
+  "jiāyóu": "加油"
+ },
+ "2-2-4": {
+  "Hǎoxiàng": "好像",
+  "sìhū": "似乎",
+  "hǎoxiàng": "好像",
+  "nǐ hǎoxiàng duì shūfǎ hěn gǎn xìngqù": "你好像对书法很感兴趣",
+  "hǎoxiàng yào xià yǔ le": "好像要下雨了",
+  "yíyàng": "一样",
+  "hǎoxiàng zài tiàowǔ yíyàng": "好像在跳舞一样",
+  "xiàng": "像"
+ },
+ "2-2-7": {
+  "Bùdébù": "不得不",
+  "tā bùdébù líkāi lǎojiā": "他不得不离开老家",
+  "děi": "得",
+  "bù": "不",
+  "bùdébú zhù": "不得不住",
+  "wǒ bùdébù chéngrèn": "我不得不承认",
+  "bù dé bù": "不得不"
+ },
+ "2-2-11": {
+  "lǎohuà shuō": "老话说",
+  "qiān lǐ zhī xíng, shǐ yú zú xià": "千里之行，始于足下",
+  "shú néng shēng qiǎo": "熟能生巧"
+ }
+}

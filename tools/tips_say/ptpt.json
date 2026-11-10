@@ -1,0 +1,381 @@
+{
+ "0-0-1": {
+  "O, a, um, uma": "O, a, um, uma"
+ },
+ "0-0-4": {
+  "Ser": "Ser",
+  "estar": "estar",
+  "Estar": "Estar",
+  "O meu vizinho é simpático": "O meu vizinho é simpático",
+  "Hoje está muito simpático": "Hoje está muito simpático"
+ },
+ "0-0-7": {
+  "no, na, do, da, ao": "no, na, do, da, ao"
+ },
+ "0-0-13": {
+  "Tu": "Tu",
+  "o senhor / a senhora": "o senhor / a senhora",
+  "tu": "tu",
+  "Quer um café?": "Quer um café?",
+  "Pode ajudar-me?": "Pode ajudar-me?",
+  "você": "você",
+  "tratar por tu": "tratar por tu"
+ },
+ "0-0-17": {
+  "Ter": "Ter",
+  "há": "há",
+  "tem": "tem",
+  "há uma pastelaria aqui": "há uma pastelaria aqui"
+ },
+ "0-1-1": {
+  "Queria…": "Queria…",
+  "queria": "queria",
+  "Queria um café, por favor": "Queria um café, por favor",
+  "Queria uma mesa para dois": "Queria uma mesa para dois",
+  "Quero": "Quero"
+ },
+ "0-1-4": {
+  "ir": "ir",
+  "Vou apanhar o comboio": "Vou apanhar o comboio",
+  "Vais gostar do Porto": "Vais gostar do Porto",
+  "Vamos jantar na Ribeira": "Vamos jantar na Ribeira"
+ },
+ "0-1-7": {
+  "Quanto custa?": "Quanto custa?",
+  "Quanto é?": "Quanto é?",
+  "um": "um",
+  "dois": "dois",
+  "uma": "uma",
+  "duas": "duas",
+  "e": "e",
+  "três euros e cinquenta": "três euros e cinquenta",
+  "um euro e vinte": "um euro e vinte"
+ },
+ "0-1-13": {
+  "Em": "Em",
+  "para": "para",
+  "a": "a",
+  "de": "de",
+  "em": "em",
+  "no Porto": "no Porto",
+  "ao Porto": "ao Porto",
+  "para o Porto": "para o Porto",
+  "do Porto": "do Porto"
+ },
+ "0-2-1": {
+  "O meu, a minha": "O meu, a minha"
+ },
+ "0-2-4": {
+  "Gostar de": "Gostar de"
+ },
+ "0-2-7": {
+  "O que, Qual, Como, Onde, Quando": "O que, Qual, Como, Onde, Quando"
+ },
+ "0-2-13": {
+  "É que": "É que",
+  "Onde é que moras?": "Onde é que moras?"
+ },
+ "1-0-1": {
+  "pretérito perfeito": "pretérito perfeito",
+  "nós": "nós",
+  "falámos": "falámos",
+  "falamos": "falamos"
+ },
+ "1-0-4": {
+  "fui, fiz, tive, estive": "fui, fiz, tive, estive",
+  "Ir": "Ir",
+  "ser": "ser",
+  "fazer": "fazer",
+  "ter": "ter",
+  "estar": "estar",
+  "Fui ao médico": "Fui ao médico",
+  "Fiz o jantar": "Fiz o jantar",
+  "Estive em casa": "Estive em casa",
+  "foi": "foi"
+ },
+ "1-0-5": {
+  "estar a": "estar a",
+  "Estou a trabalhar": "Estou a trabalhar",
+  "Estás a ouvir?": "Estás a ouvir?",
+  "Está a chover": "Está a chover",
+  "estou a comer": "estou a comer",
+  "estava a": "estava a"
+ },
+ "1-0-11": {
+  "pretérito imperfeito": "pretérito imperfeito",
+  "Ser": "Ser",
+  "ir": "ir",
+  "era": "era",
+  "ia": "ia",
+  "Ao domingo íamos à praia": "Ao domingo íamos à praia"
+ },
+ "1-0-18": {
+  "Liga-me": "Liga-me",
+  "Ajudo-te": "Ajudo-te",
+  "Chamo-me Ana": "Chamo-me Ana",
+  "já": "já",
+  "Não te preocupes": "Não te preocupes",
+  "Quem te disse?": "Quem te disse?",
+  "me": "me",
+  "te": "te"
+ },
+ "1-1-2": {
+  "Acabar de": "Acabar de",
+  "vir": "vir",
+  "acabar de": "acabar de",
+  "Acabei de chegar": "Acabei de chegar",
+  "Acabámos de jantar": "Acabámos de jantar",
+  "Acabo de saber": "Acabo de saber"
+ },
+ "1-1-4": {
+  "mais… do que": "mais… do que",
+  "melhor": "melhor",
+  "pior": "pior",
+  "menos… do que": "menos… do que",
+  "O comboio é mais rápido do que o autocarro": "O comboio é mais rápido do que o autocarro",
+  "bom": "bom",
+  "mau": "mau",
+  "Este café é melhor do que aquele": "Este café é melhor do que aquele",
+  "Grande": "Grande",
+  "maior": "maior",
+  "A praia é maior do que a de ontem": "A praia é maior do que a de ontem"
+ },
+ "1-1-7": {
+  "Siga": "Siga",
+  "Vire": "Vire",
+  "Apanhe": "Apanhe",
+  "sigo": "sigo",
+  "siga": "siga",
+  "viro": "viro",
+  "vire": "vire",
+  "apanho": "apanho",
+  "apanhe": "apanhe",
+  "Siga em frente": "Siga em frente",
+  "Vire à direita": "Vire à direita",
+  "Apanhe o autocarro": "Apanhe o autocarro",
+  "Sigam": "Sigam",
+  "Virem": "Virem",
+  "apanha": "apanha"
+ },
+ "1-1-11": {
+  "Já": "Já",
+  "ainda": "ainda",
+  "Já visitaste?": "Já visitaste?",
+  "Ainda": "Ainda",
+  "Ainda está de pé": "Ainda está de pé",
+  "ainda não": "ainda não",
+  "já não": "já não",
+  "Já não chove": "Já não chove",
+  "Já me disseram": "Já me disseram",
+  "Ainda o tenho": "Ainda o tenho"
+ },
+ "1-1-15": {
+  "Por": "Por",
+  "para": "para",
+  "Para": "Para",
+  "o autocarro para Mértola": "o autocarro para Mértola",
+  "para fugir às obras": "para fugir às obras",
+  "um café para mim": "um café para mim",
+  "passar por": "passar por",
+  "trinta euros por pessoa": "trinta euros por pessoa",
+  "obrigado pela paciência": "obrigado pela paciência",
+  "por": "por",
+  "pelo, pela, pelos, pelas": "pelo, pela, pelos, pelas"
+ },
+ "1-2-1": {
+  "Achar que": "Achar que",
+  "achar que": "achar que",
+  "acho que": "acho que",
+  "O que é que achas?": "O que é que achas?",
+  "Acho que sim": "Acho que sim",
+  "Acho que não": "Acho que não",
+  "penso que": "penso que",
+  "na minha opinião": "na minha opinião"
+ },
+ "1-2-4": {
+  "muito": "muito"
+ },
+ "1-2-11": {
+  "Gostava de…": "Gostava de…",
+  "gostava de": "gostava de",
+  "podias": "podias",
+  "era fixe": "era fixe",
+  "gostaria": "gostaria",
+  "poderia": "poderia",
+  "Gostaria de marcar uma reunião.": "Gostaria de marcar uma reunião.",
+  "Queria uma bica, por favor.": "Queria uma bica, por favor."
+ },
+ "1-2-13": {
+  "Há… que": "Há… que",
+  "há… que": "há… que",
+  "Há dez anos que vivo aqui": "Há dez anos que vivo aqui",
+  "Há quanto tempo é que…?": "Há quanto tempo é que…?",
+  "há": "há",
+  "Vi-o há dois dias": "Vi-o há dois dias"
+ },
+ "1-2-17": {
+  "ficar": "ficar",
+  "Ficar": "Ficar",
+  "Ficámos na rua até de manhã": "Ficámos na rua até de manhã",
+  "Onde fica a Ribeira?": "Onde fica a Ribeira?",
+  "Ela ficou contente": "Ela ficou contente",
+  "Essa camisola fica-te bem": "Essa camisola fica-te bem"
+ },
+ "2-0-0": {
+  "Espero que… / É importante que…": "Espero que… / É importante que…",
+  "É importante que": "É importante que",
+  "É importante que saibas isto": "É importante que saibas isto",
+  "esperar que": "esperar que",
+  "talvez": "talvez",
+  "oxalá": "oxalá",
+  "Talvez chova amanhã": "Talvez chova amanhã"
+ },
+ "2-0-2": {
+  "Quando eu tiver… / Se puderes…": "Quando eu tiver… / Se puderes…",
+  "quando": "quando",
+  "se": "se",
+  "assim que": "assim que",
+  "enquanto": "enquanto",
+  "quando tiver": "quando tiver",
+  "se puderes": "se puderes",
+  "Quando chegares, liga-me": "Quando chegares, liga-me",
+  "Se fizer sol, vamos à praia": "Se fizer sol, vamos à praia"
+ },
+ "2-0-4": {
+  "Para fazermos / antes de eles chegarem": "Para fazermos / antes de eles chegarem",
+  "para": "para",
+  "antes de": "antes de",
+  "depois de": "depois de",
+  "sem": "sem",
+  "para fazermos": "para fazermos",
+  "antes de eles chegarem": "antes de eles chegarem",
+  "depois de jantarmos": "depois de jantarmos",
+  "É melhor saíres já": "É melhor saíres já"
+ },
+ "2-0-7": {
+  "Foi construído / vende-se": "Foi construído / vende-se",
+  "ser": "ser",
+  "A casa foi vendida": "A casa foi vendida",
+  "Os azulejos vão ser restaurados": "Os azulejos vão ser restaurados",
+  "se": "se",
+  "Vende-se casa": "Vende-se casa",
+  "Vendem-se apartamentos": "Vendem-se apartamentos",
+  "Aluga-se quarto": "Aluga-se quarto"
+ },
+ "2-0-11": {
+  "Se eu tivesse… comprava": "Se eu tivesse… comprava",
+  "se": "se",
+  "Se eu tivesse tempo…": "Se eu tivesse tempo…",
+  "compraria": "compraria",
+  "Se tivesse dinheiro, comprava uma casa": "Se tivesse dinheiro, comprava uma casa"
+ },
+ "2-1-1": {
+  "tinha + particípio": "tinha + particípio",
+  "ter": "ter",
+  "Eu tinha jantado": "Eu tinha jantado",
+  "Tu tinhas saído": "Tu tinhas saído",
+  "Eles já tinham partido": "Eles já tinham partido",
+  "tinha": "tinha",
+  "Ela tinha-me avisado": "Ela tinha-me avisado",
+  "Não me tinha dito": "Não me tinha dito",
+  "chegara": "chegara",
+  "fizera": "fizera"
+ },
+ "2-1-3": {
+  "Ele disse que ia…": "Ele disse que ia…",
+  "vou": "vou",
+  "ia": "ia",
+  "posso": "posso",
+  "podia": "podia",
+  "fiz": "fiz",
+  "tinha feito": "tinha feito",
+  "Disse que estava cansado": "Disse que estava cansado",
+  "Disseram que vinham amanhã": "Disseram que vinham amanhã",
+  "Perguntar se": "Perguntar se",
+  "Perguntou-me se eu queria ir": "Perguntou-me se eu queria ir",
+  "Prometeu que voltaria": "Prometeu que voltaria"
+ },
+ "2-1-6": {
+  "Embora": "Embora",
+  "Embora esteja cansado, continuo": "Embora esteja cansado, continuo",
+  "Embora chovesse, saímos": "Embora chovesse, saímos",
+  "apesar de": "apesar de",
+  "Apesar de estar cansado, continuo": "Apesar de estar cansado, continuo",
+  "Mesmo que": "Mesmo que",
+  "Mesmo que chova, vamos": "Mesmo que chova, vamos"
+ },
+ "2-1-11": {
+  "dar": "dar",
+  "Dar": "Dar",
+  "dar jeito": "dar jeito",
+  "dar para": "dar para",
+  "Não dá!": "Não dá!",
+  "dar conta de": "dar conta de",
+  "dar com": "dar com",
+  "dar-se bem com": "dar-se bem com",
+  "Dava-me jeito sair mais cedo": "Dava-me jeito sair mais cedo",
+  "Dei com ele no café": "Dei com ele no café",
+  "Dás-te bem com a tua irmã?": "Dás-te bem com a tua irmã?"
+ },
+ "2-1-17": {
+  "Caso": "Caso",
+  "a não ser que": "a não ser que",
+  "Caso precises, liga-me": "Caso precises, liga-me",
+  "Vou a pé, a não ser que chova": "Vou a pé, a não ser que chova",
+  "Disse que vinha, a não ser que estivesse cansado": "Disse que vinha, a não ser que estivesse cansado",
+  "se": "se",
+  "Se chover, fico em casa": "Se chover, fico em casa"
+ },
+ "2-2-0": {
+  "meter água": "meter água",
+  "ter lata": "ter lata",
+  "estar com os azeites": "estar com os azeites",
+  "Meter água": "Meter água",
+  "Meti água no exame": "Meti água no exame",
+  "Ter lata": "Ter lata",
+  "Que lata!": "Que lata!",
+  "Ele tem cá uma lata!": "Ele tem cá uma lata!",
+  "Estar com os azeites": "Estar com os azeites",
+  "Hoje ela está com os azeites.": "Hoje ela está com os azeites."
+ },
+ "2-2-2": {
+  "pois": "pois",
+  "aliás": "aliás",
+  "portanto": "portanto",
+  "enfim": "enfim",
+  "Pois": "Pois",
+  "Pois, tens razão": "Pois, tens razão",
+  "Pois é": "Pois é",
+  "Aliás": "Aliás",
+  "Aliás, eu já sabia": "Aliás, eu já sabia",
+  "Está a chover, portanto fico em casa": "Está a chover, portanto fico em casa",
+  "Enfim, paciência!": "Enfim, paciência!"
+ },
+ "2-2-4": {
+  "deixar": "deixar",
+  "Deixar": "Deixar",
+  "Deixei as chaves em casa": "Deixei as chaves em casa",
+  "Os meus pais não me deixam sair": "Os meus pais não me deixam sair",
+  "de": "de",
+  "Deixei de fumar": "Deixei de fumar",
+  "Deixa de te queixar!": "Deixa de te queixar!",
+  "Essa notícia deixou-me triste": "Essa notícia deixou-me triste"
+ },
+ "2-2-7": {
+  "Por mais que": "Por mais que",
+  "Por mais que estude, esqueço tudo": "Por mais que estude, esqueço tudo",
+  "Por mais que tentes": "Por mais que tentes",
+  "Por mais que chovesse, ele saía": "Por mais que chovesse, ele saía",
+  "por muito que": "por muito que"
+ },
+ "2-2-11": {
+  "Oxalá": "Oxalá",
+  "quem me dera": "quem me dera",
+  "Oxalá faça sol amanhã": "Oxalá faça sol amanhã",
+  "Oxalá eu pudesse ir": "Oxalá eu pudesse ir",
+  "Quem me dera": "Quem me dera",
+  "Quem me dera ter férias!": "Quem me dera ter férias!",
+  "que": "que",
+  "Quem me dera que viesses comigo!": "Quem me dera que viesses comigo!"
+ }
+}

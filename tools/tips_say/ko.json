@@ -1,0 +1,714 @@
+{
+ "0-0-0": {
+  "Jeoneun achime babeul meogeoyo": "저는 아침에 밥을 먹어요",
+  "jeoneun": "저는",
+  "achime": "아침에",
+  "babeul": "밥을",
+  "meogeoyo": "먹어요",
+  "Mapoe sarayo": "마포에 살아요",
+  "cheongsoreul haeyo": "청소를 해요"
+ },
+ "0-0-1": {
+  "Annyeonghaseyo": "안녕하세요",
+  "an": "안",
+  "nyeong": "녕",
+  "haseyo": "하세요",
+  "annyeonghi gaseyo": "안녕히 가세요",
+  "annyeonghi gyeseyo": "안녕히 계세요",
+  "gyeseyo": "계세요",
+  "gaseyo": "가세요"
+ },
+ "0-0-2": {
+  "ga": "가",
+  "gayo": "가요",
+  "sarayo": "살아요",
+  "meogeoyo": "먹어요",
+  "ilgeoyo": "읽어요",
+  "haeyo": "해요",
+  "ilhaeyo": "일해요",
+  "Achime gimchireul meogeoyo": "아침에 김치를 먹어요"
+ },
+ "0-0-3": {
+  "hoesawon": "회사원",
+  "hoesawonieyo": "회사원이에요",
+  "dijaineo": "디자이너",
+  "dijaineoyeyo": "디자이너예요",
+  "Jeoneun hoesawonieyo": "저는 회사원이에요",
+  "jeoneun": "저는",
+  "gimbabieyo": "김밥이에요",
+  "hoesayeyo": "회사예요"
+ },
+ "0-0-4": {
+  "Jeo": "저",
+  "jeoneun": "저는",
+  "jeo": "저",
+  "Jeoneun Hongdaeeseo ilhaeyo": "저는 홍대에서 일해요",
+  "Maponeun": "마포는",
+  "jibeun": "집은",
+  "je": "제",
+  "je chingu": "제 친구",
+  "jeodo": "저도"
+ },
+ "0-0-5": {
+  "Ne": "네",
+  "aniyo": "아니요",
+  "ne": "네",
+  "ne, ne": "네, 네",
+  "aniyo, gwaenchanayo": "아니요, 괜찮아요",
+  "Aniyo, bongtuneun gwaenchanayo": "아니요, 봉투는 괜찮아요",
+  "anieyo": "아니에요",
+  "uyuga anieyo": "우유가 아니에요"
+ },
+ "0-0-6": {
+  "bi": "비",
+  "biga": "비가",
+  "baram": "바람",
+  "barami": "바람이",
+  "biga wayo": "비가 와요",
+  "Mapoe biga wayo": "마포에 비가 와요",
+  "keopiga tteugeowoyo": "커피가 뜨거워요",
+  "usani jagayo": "우산이 작아요",
+  "Seoureun nalssiga chuwoyo": "서울은 날씨가 추워요"
+ },
+ "0-0-7": {
+  "dubu": "두부",
+  "dubureul": "두부를",
+  "gyeran": "계란",
+  "gyeraneul": "계란을",
+  "Ssalhago gyeraneul sayo": "쌀하고 계란을 사요",
+  "sagwareul sayo": "사과를 사요",
+  "gimchireul matbwayo": "김치를 맛봐요"
+ },
+ "0-0-8": {
+  "An": "안",
+  "an": "안",
+  "meogeoyo": "먹어요",
+  "an meogeoyo": "안 먹어요",
+  "bissayo": "비싸요",
+  "an bissayo": "안 비싸요",
+  "haeyo": "해요",
+  "il haeyo": "일 해요",
+  "il an haeyo": "일 안 해요",
+  "Oneureun il an haeyo": "오늘은 일 안 해요"
+ },
+ "0-0-9": {
+  "Yeogiseo ilhaeyo": "여기서 일해요",
+  "yeogiseo": "여기서",
+  "ilhaeyo": "일해요",
+  "masisseoyo": "맛있어요",
+  "masisseoyo ?": "맛있어요?",
+  "isseoyo": "있어요"
+ },
+ "0-0-10": {
+  "Isseoyo": "있어요",
+  "eopseoyo": "없어요",
+  "Seoureseoneun chaga eopseoyo": "서울에서는 차가 없어요",
+  "sigan isseoyo ?": "시간 있어요?",
+  "waipai isseoyo ?": "와이파이 있어요?",
+  "isseoyo": "있어요"
+ },
+ "0-0-11": {
+  "I": "이",
+  "geu": "그",
+  "jeo": "저",
+  "i moja": "이 모자",
+  "Geu": "그",
+  "geu gabang": "그 가방",
+  "Jeo": "저",
+  "jeo gage": "저 가게",
+  "Jeo gageneun keoyo": "저 가게는 커요",
+  "geo": "거",
+  "igeo": "이거",
+  "geugeo": "그거",
+  "jeogeo": "저거",
+  "i": "이"
+ },
+ "0-0-12": {
+  "Mwo": "뭐",
+  "eodi": "어디",
+  "nugu": "누구",
+  "eonje": "언제",
+  "mwo": "뭐",
+  "jeomsime bibimbap meogeoyo": "점심에 비빔밥 먹어요",
+  "jeomsime mwo meogeoyo ?": "점심에 뭐 먹어요?",
+  "mwoyeyo ?": "뭐예요?",
+  "nuguyeyo ?": "누구예요?",
+  "eonjeyeyo ?": "언제예요?",
+  "eodie sarayo ?": "어디에 살아요?",
+  "nuga": "누가",
+  "nuga wayo ?": "누가 와요?"
+ },
+ "0-0-13": {
+  "gongwone gayo": "공원에 가요",
+  "jibe isseoyo": "집에 있어요",
+  "toyoire": "토요일에",
+  "achime": "아침에",
+  "Toyoire gongwone gayo": "토요일에 공원에 가요",
+  "jibe": "집에",
+  "gongwone": "공원에",
+  "jihacheoreseo chaegeul ilgeoyo": "지하철에서 책을 읽어요"
+ },
+ "0-0-14": {
+  "il, i, sam, sa, o": "일, 이, 삼, 사, 오",
+  "il, i, sam, sa, o, yuk, chil, pal, gu, sip": "일, 이, 삼, 사, 오, 육, 칠, 팔, 구, 십",
+  "sibil": "십일",
+  "isip": "이십",
+  "baek": "백",
+  "cheon": "천",
+  "man": "만",
+  "Gimbabeun samcheon wonieyo": "김밥은 삼천 원이에요",
+  "oman won": "오만 원",
+  "yuk, chil, pal, gu, sip": "육, 칠, 팔, 구, 십"
+ },
+ "0-0-15": {
+  "hana, dul, set, net": "하나, 둘, 셋, 넷",
+  "hana, dul, set, net, daseot": "하나, 둘, 셋, 넷, 다섯",
+  "han, du, se, ne": "한, 두, 세, 네",
+  "gae": "개",
+  "myeong": "명",
+  "jan": "잔",
+  "sal": "살",
+  "Harue keopireul du jan masyeoyo": "하루에 커피를 두 잔 마셔요",
+  "sagwa ne gae": "사과 네 개",
+  "daseot sal": "다섯 살",
+  "hana, dul, set": "하나, 둘, 셋",
+  "gimchi": "김치"
+ },
+ "0-0-16": {
+  "si": "시",
+  "bun": "분",
+  "han si": "한 시",
+  "du si": "두 시",
+  "ahop si": "아홉 시",
+  "sip bun": "십 분",
+  "isip bun": "이십 분",
+  "yeodeol si isip bune": "여덟 시 이십 분에",
+  "ban": "반",
+  "du si ban": "두 시 반",
+  "myeot siyeyo ?": "몇 시예요?",
+  "jeonyeok ilgop si": "저녁 일곱 시"
+ },
+ "0-0-17": {
+  "Juseyo": "주세요",
+  "juseyo": "주세요",
+  "Bibimbap hana juseyo": "비빔밥 하나 주세요",
+  "jom deo": "좀 더",
+  "gimchi jom deo juseyo": "김치 좀 더 주세요",
+  "gyesanhae juseyo": "계산해 주세요",
+  "deol maepge hae juseyo": "덜 맵게 해 주세요",
+  "yeogiyo !": "여기요!"
+ },
+ "0-0-18": {
+  "Joayo": "좋아요",
+  "jo-a-yo": "좋아요",
+  "Gimchiga jeongmal joayo": "김치가 정말 좋아요",
+  "joayo !": "좋아요!",
+  "an joayo": "안 좋아요",
+  "nalssiga joayo": "날씨가 좋아요",
+  "Mapoga joayo": "마포가 좋아요",
+  "joayo": "좋아요"
+ },
+ "0-0-19": {
+  "Gamsahamnida": "감사합니다",
+  "joesonghamnida": "죄송합니다",
+  "sillyehamnida": "실례합니다",
+  "gwaenchanayo": "괜찮아요",
+  "hamnida": "합니다",
+  "ham-ni-da": "합니다",
+  "Seonsaengnim, jeongmal gamsahamnida": "선생님, 정말 감사합니다",
+  "aniyo": "아니요",
+  "Sillyehamnida": "실례합니다"
+ },
+ "0-1-1": {
+  "Eolmayeyo": "얼마예요",
+  "eolmayeyo": "얼마예요",
+  "eolma": "얼마",
+  "keopi eolmayeyo ?": "커피 얼마예요?",
+  "won": "원",
+  "oman wonieyo": "오만 원이에요",
+  "man": "만",
+  "oman": "오만",
+  "samcheon": "삼천"
+ },
+ "0-1-3": {
+  "Eodi isseoyo": "어디 있어요",
+  "eodi isseoyo ?": "어디 있어요?",
+  "Eodi": "어디",
+  "isseoyo": "있어요",
+  "hwajangsil eodi isseoyo": "화장실 어디 있어요",
+  "eodi": "어디",
+  "chulgu yeope isseoyo": "출구 옆에 있어요",
+  "kape ape isseoyo": "카페 앞에 있어요"
+ },
+ "0-1-5": {
+  "haebyeoneseo suyeonghaeyo": "해변에서 수영해요",
+  "Haeundaee sarami manayo": "해운대에 사람이 많아요",
+  "kapeeseo keopireul masyeoyo": "카페에서 커피를 마셔요",
+  "eodieseo ?": "어디에서?"
+ },
+ "0-1-7": {
+  "yeogeseo hotelkkaji": "역에서 호텔까지",
+  "Seoureseo Busankkaji": "서울에서 부산까지",
+  "ahop sibuteo yeoseot sikkaji": "아홉 시부터 여섯 시까지",
+  "geumyoilkkaji": "금요일까지"
+ },
+ "0-1-9": {
+  "Taeksiro gayo": "택시로 가요",
+  "beoseuro": "버스로",
+  "kadeuro": "카드로",
+  "oenjjok": "왼쪽",
+  "oenjjogeuro": "왼쪽으로",
+  "haebyeon": "해변",
+  "haebyeoneuro": "해변으로",
+  "jihacheollo": "지하철로",
+  "jihacheollo Seomyeone gayo": "지하철로 서면에 가요"
+ },
+ "0-1-11": {
+  "Gidarida": "기다리다",
+  "gidariseyo": "기다리세요",
+  "Tada": "타다",
+  "taseyo": "타세요",
+  "anjda": "앉다",
+  "anjeuseyo": "앉으세요",
+  "batda": "받다",
+  "badeuseyo": "받으세요",
+  "mwo chajeuseyo ?": "뭐 찾으세요?",
+  "annyeonghaseyo": "안녕하세요"
+ },
+ "0-1-13": {
+  "hoehago bap": "회하고 밥",
+  "Minho ssihago gayo": "민호 씨하고 가요",
+  "gachi": "같이",
+  "Sorarang": "소라랑",
+  "chojangirang": "초장이랑"
+ },
+ "0-1-15": {
+  "Anieyo": "아니에요",
+  "anieyo": "아니에요",
+  "Igeo je gabang anieyo": "이거 제 가방 아니에요",
+  "dakgogiga anieyo": "닭고기가 아니에요",
+  "saengseonieyo": "생선이에요",
+  "an": "안",
+  "an bissayo": "안 비싸요",
+  "ani": "아니",
+  "aniyo": "아니요"
+ },
+ "0-1-17": {
+  "Mot": "못",
+  "an": "안",
+  "mot": "못",
+  "an meogeoyo": "안 먹어요",
+  "mot meogeoyo": "못 먹어요",
+  "maeun geo mot meogeoyo": "매운 거 못 먹어요",
+  "hada": "하다",
+  "haeyo": "해요",
+  "suyeong mot haeyo": "수영 못 해요",
+  "mon meogeoyo": "못 먹어요",
+  "motaeyo": "못해요"
+ },
+ "0-1-19": {
+  "Jom": "좀",
+  "jom": "좀",
+  "Mul juseyo": "물 주세요",
+  "mul jom juseyo": "물 좀 주세요",
+  "sajin jom jjigeo juseyo": "사진 좀 찍어 주세요",
+  "jom dowajuseyo": "좀 도와주세요",
+  "jom bissayo": "좀 비싸요",
+  "Hangugeo jom haeyo": "한국어 좀 해요"
+ },
+ "0-2-1": {
+  "mannaseo bangawoyo": "만나서 반가워요",
+  "ireumi mwoyeyo ?": "이름이 뭐예요?",
+  "ireum": "이름",
+  "mwo": "뭐",
+  "je ireumeun": "제 이름은",
+  "Sopiyeyo": "소피예요",
+  "Jieunieyo": "지은이에요",
+  "je ireumeun Sopiyeyo": "제 이름은 소피예요",
+  "je": "제",
+  "ireumeun": "이름은",
+  "mannaseo": "만나서",
+  "bangawoyo": "반가워요",
+  "jeodo mannaseo bangawoyo": "저도 만나서 반가워요",
+  "man-na": "만나"
+ },
+ "0-2-3": {
+  "Joahaeyo": "좋아해요",
+  "joahaeyo": "좋아해요",
+  "jeoneun hanogeul joahaeyo": "저는 한옥을 좋아해요",
+  "jeoneun": "저는",
+  "hanogeul": "한옥을",
+  "eumak joahaeyo": "음악 좋아해요",
+  "bibimbap joahaeyo": "비빔밥 좋아해요",
+  "mwo joahaeyo ?": "뭐 좋아해요?",
+  "an": "안",
+  "an joahaeyo": "안 좋아해요",
+  "joayo": "좋아요"
+ },
+ "0-2-5": {
+  "appa": "아빠",
+  "eomma": "엄마",
+  "hyeong": "형",
+  "nuna": "누나",
+  "oppa": "오빠",
+  "eonni": "언니",
+  "jeoneun oppaga isseoyo": "저는 오빠가 있어요",
+  "jeoneun": "저는",
+  "oppaga": "오빠가",
+  "isseoyo": "있어요",
+  "dongsaeng": "동생"
+ },
+ "0-2-7": {
+  "banmal": "반말",
+  "Mwo haeyo ?": "뭐 해요?",
+  "mwo hae ?": "뭐 해?",
+  "Gomawoyo": "고마워요",
+  "gomawo": "고마워",
+  "gwaenchanayo": "괜찮아요",
+  "gwaenchana": "괜찮아",
+  "Minsuya": "민수야",
+  "Jieuna": "지은아",
+  "gaja": "가자",
+  "gayo": "가요"
+ },
+ "0-2-9": {
+  "jeodo": "저도",
+  "jeoneun": "저는",
+  "jeodo bibimbap joahaeyo": "저도 비빔밥 좋아해요",
+  "bibimbap": "비빔밥",
+  "joahaeyo": "좋아해요",
+  "jeodoyo !": "저도요!",
+  "gimchido": "김치도",
+  "oneuldo": "오늘도",
+  "sajindo": "사진도"
+ },
+ "0-2-11": {
+  "Mani": "많이",
+  "jeongmal": "정말",
+  "igeo jeongmal masisseoyo": "이거 정말 맛있어요",
+  "igeo": "이거",
+  "masisseoyo": "맛있어요",
+  "mani": "많이",
+  "mani meogeoyo": "많이 먹어요",
+  "sajineul mani jjigeoyo": "사진을 많이 찍어요",
+  "mani deuseyo": "많이 드세요",
+  "Jeongmal": "정말",
+  "jeongmarieyo ?": "정말이에요?"
+ },
+ "0-2-13": {
+  "Geurigo": "그리고",
+  "geunde": "근데",
+  "bibimbabeul meogeoyo. Geurigo keopireul masyeoyo": "비빔밥을 먹어요. 그리고 커피를 마셔요",
+  "Geunde": "근데",
+  "geureonde": "그런데",
+  "deungsaneul joahaeyo. Geunde oneureun pigonhaeyo": "등산을 좋아해요. 근데 오늘은 피곤해요",
+  "geunde ireumi mwoyeyo ?": "근데 이름이 뭐예요?",
+  "geurigo": "그리고"
+ },
+ "0-2-15": {
+  "Neomu": "너무",
+  "aju": "아주",
+  "Aju": "아주",
+  "aju chinjeolhaeyo": "아주 친절해요",
+  "neomu bissayo": "너무 비싸요",
+  "neomu maewoyo": "너무 매워요",
+  "i gukbabeun neomu tteugeowoyo": "이 국밥은 너무 뜨거워요",
+  "i gukbabeun": "이 국밥은",
+  "neomu": "너무",
+  "tteugeowoyo": "뜨거워요",
+  "neomu masisseoyo !": "너무 맛있어요!"
+ },
+ "0-2-17": {
+  "wol": "월",
+  "il": "일",
+  "owol": "오월",
+  "samwol": "삼월",
+  "sibiwol": "십이월",
+  "yuwol": "유월",
+  "siwol": "시월",
+  "samil": "삼일",
+  "isibil": "이십일",
+  "siwol samirieyo": "시월 삼일이에요",
+  "myeot wol myeochirieyo ?": "몇 월 며칠이에요?",
+  "saengiri eonjeyeyo ?": "생일이 언제예요?"
+ },
+ "0-2-19": {
+  "Masisseoyo": "맛있어요",
+  "masitjiyo ?": "맛있지요?",
+  "Hangugeo jaemiitjiyo ?": "한국어 재미있지요?",
+  "Hangugeo": "한국어",
+  "jaemiitjiyo": "재미있지요",
+  "jochyo ?": "좋죠?",
+  "ne": "네"
+ },
+ "1-0-1": {
+  "gada": "가다",
+  "gasseoyo": "갔어요",
+  "meokda": "먹다",
+  "meogeosseoyo": "먹었어요",
+  "hada": "하다",
+  "haesseoyo": "했어요",
+  "ilhaesseoyo": "일했어요"
+ },
+ "1-0-4": {
+  "Swida": "쉬다",
+  "swigo sipeoyo": "쉬고 싶어요",
+  "meokda": "먹다",
+  "meokgo sipeoyo": "먹고 싶어요",
+  "jibeseo swigo sipeoyo": "집에서 쉬고 싶어요",
+  "sipeoyo": "싶어요",
+  "bogo sipeosseoyo": "보고 싶었어요"
+ },
+ "1-0-5": {
+  "Achimeul meokgo chulgeunhaeyo": "아침을 먹고 출근해요",
+  "jangeul bogo jibe wasseoyo": "장을 보고 집에 왔어요",
+  "masitgo ssayo": "맛있고 싸요"
+ },
+ "1-0-11": {
+  "unjeonhada": "운전하다",
+  "unjeonhal su isseoyo": "운전할 수 있어요",
+  "meokda": "먹다",
+  "meogeul su isseoyo": "먹을 수 있어요",
+  "isseoyo": "있어요",
+  "eopseoyo": "없어요",
+  "gal su eopseoyo": "갈 수 없어요",
+  "ol su isseoyo ?": "올 수 있어요?"
+ },
+ "1-0-18": {
+  "Piuda": "피우다",
+  "piuji maseyo": "피우지 마세요",
+  "gyedaneseo dambaereul piuji maseyo": "계단에서 담배를 피우지 마세요",
+  "maseyo": "마세요",
+  "malda": "말다",
+  "geokjeonghaji maseyo": "걱정하지 마세요",
+  "juseyo": "주세요"
+ },
+ "1-1-2": {
+  "geoyeyo": "거예요",
+  "gada": "가다",
+  "gal geoyeyo": "갈 거예요",
+  "meokda": "먹다",
+  "meogeul geoyeyo": "먹을 거예요",
+  "ollagal geoyeyo": "올라갈 거예요",
+  "ollaga": "올라가",
+  "chuul geoyeyo": "추울 거예요"
+ },
+ "1-1-4": {
+  "wayo": "와요",
+  "waseo": "와서",
+  "haeyo": "해요",
+  "haeseo": "해서",
+  "biga waseo": "비가 와서",
+  "kapee gaseo": "카페에 가서",
+  "bappaseo": "바빠서",
+  "pigonhaeseo": "피곤해서",
+  "gaseo": "가서"
+ },
+ "1-1-7": {
+  "gada": "가다",
+  "gamyeon": "가면",
+  "eopda": "없다",
+  "eopseumyeon": "없으면",
+  "nalssiga joeumyeon": "날씨가 좋으면",
+  "haega jimyeon": "해가 지면"
+ },
+ "1-1-11": {
+  "boda": "보다",
+  "bwayo": "봐요",
+  "meogeo bwayo": "먹어 봐요",
+  "meogeo bwasseoyo": "먹어 봤어요",
+  "deusyeo boseyo": "드셔 보세요",
+  "ga boseyo": "가 보세요",
+  "meogeo bwasseoyo ?": "먹어 봤어요?"
+ },
+ "1-1-15": {
+  "bissada": "비싸다",
+  "bissajiman": "비싸지만",
+  "areumdapda": "아름답다",
+  "areumdapjiman": "아름답지만",
+  "haean doroneun": "해안 도로는",
+  "keobeuga manayo": "커브가 많아요",
+  "natjiman": "났지만",
+  "eoryeopjiman jaemiisseoyo": "어렵지만 재미있어요"
+ },
+ "1-2-1": {
+  "haseyo": "하세요",
+  "anjeuseyo": "앉으세요",
+  "saseyo": "사세요",
+  "salda": "살다",
+  "sarayo": "살아요",
+  "gasyeosseoyo": "가셨어요",
+  "halmeoni": "할머니",
+  "abeonim": "아버님",
+  "seonsaengnim": "선생님"
+ },
+ "1-2-4": {
+  "oda": "오다",
+  "ol geot gatayo": "올 것 같아요",
+  "masisseul geot gatayo": "맛있을 것 같아요",
+  "biga ol geot gatayo": "비가 올 것 같아요",
+  "biga": "비가",
+  "ol": "올",
+  "geot": "것",
+  "gatayo": "같아요",
+  "gata": "같아"
+ },
+ "1-2-11": {
+  "juda": "주다",
+  "juseyo": "주세요",
+  "gidaryeo juseyo": "기다려 주세요",
+  "sajin jom jjigeo juseyo": "사진 좀 찍어 주세요",
+  "sajin": "사진",
+  "jom": "좀",
+  "jjigeo": "찍어",
+  "jwo": "줘",
+  "deureo jwo": "들어 줘",
+  "julge": "줄게"
+ },
+ "1-2-13": {
+  "yorihamyeonseo": "요리하면서",
+  "ilgeumyeonseo": "읽으면서",
+  "sinmuneul ilgeumyeonseo keopireul masyeoyo": "신문을 읽으면서 커피를 마셔요",
+  "sinmuneul": "신문을",
+  "keopireul": "커피를",
+  "masyeoyo": "마셔요"
+ },
+ "1-2-17": {
+  "seonsaengnim": "선생님",
+  "seonbae": "선배",
+  "ssi": "씨",
+  "Sujin ssi": "수진 씨",
+  "hubae": "후배",
+  "sajangnim": "사장님"
+ },
+ "2-0-0": {
+  "hada": "하다",
+  "hamnida": "합니다",
+  "itda": "있다",
+  "itseumnida": "있습니다",
+  "sijakhamnida": "시작합니다",
+  "sijak": "시작",
+  "annyeonghasimnikka": "안녕하십니까",
+  "yeolsimhi hagetseumnida": "열심히 하겠습니다",
+  "ham-ni-da": "합니다"
+ },
+ "2-0-2": {
+  "haeyo": "해요",
+  "haesseoyo": "했어요",
+  "masitda": "맛있다",
+  "masitdago haeyo": "맛있다고 해요",
+  "biga ondago haesseoyo": "비가 온다고 했어요",
+  "mot meongneundago haeyo": "못 먹는다고 해요",
+  "isahaetdago haesseoyo": "이사했다고 했어요",
+  "masitdaeyo": "맛있대요"
+ },
+ "2-0-4": {
+  "boyeoyo": "보여요",
+  "deullyeoyo": "들려요",
+  "yeollyeoyo": "열려요",
+  "Boda": "보다",
+  "boida": "보이다",
+  "deutda": "듣다",
+  "deullida": "들리다",
+  "yeolda": "열다",
+  "yeollida": "열리다",
+  "moksoriga jal an deullyeoyo": "목소리가 잘 안 들려요",
+  "moksori": "목소리",
+  "jal an": "잘 안",
+  "Hangangi boyeoyo": "한강이 보여요"
+ },
+ "2-0-7": {
+  "haeyo": "해요",
+  "Sseuda": "쓰다",
+  "sseuge haeyo": "쓰게 해요",
+  "oda": "오다",
+  "oge haeyo": "오게 해요",
+  "bogoseoreul dasi sseuge haesseoyo": "보고서를 다시 쓰게 했어요",
+  "juda": "주다",
+  "iljjik toegeunhage hae jwoyo": "일찍 퇴근하게 해 줘요",
+  "gidarige haji anayo": "기다리게 하지 않아요"
+ },
+ "2-0-11": {
+  "sugohaseyo": "수고하세요",
+  "yeollak deurigetseumnida": "연락 드리겠습니다",
+  "Sugohaseyo": "수고하세요",
+  "sugo maneusyeotseumnida": "수고 많으셨습니다",
+  "meonjeo deureoga bogetseumnida": "먼저 들어가 보겠습니다",
+  "Yeollak deurigetseumnida": "연락 드리겠습니다",
+  "yeollak": "연락",
+  "hwaginhae bogo": "확인해 보고"
+ },
+ "2-1-1": {
+  "sanchaekhaneun saram": "산책하는 사람",
+  "mannan gaideu": "만난 가이드",
+  "chajeun mulgeon": "찾은 물건",
+  "keun eondeok": "큰 언덕"
+ },
+ "2-1-3": {
+  "wihaeseo": "위해서",
+  "deowireul pihagi wihaeseo iljjik chulbalhaeyo": "더위를 피하기 위해서 일찍 출발해요",
+  "jajeongeoreul billigi wihaeseo": "자전거를 빌리기 위해서",
+  "siganeul akkigi wihaeseo": "시간을 아끼기 위해서",
+  "wihae": "위해"
+ },
+ "2-1-6": {
+  "gugyeonghal ttae": "구경할 때",
+  "joeul ttae": "좋을 때",
+  "gugyeonghal ttae joyonghi malsseumhae juseyo": "구경할 때 조용히 말씀해 주세요",
+  "eoryeosseul ttae": "어렸을 때",
+  "ttae": "때"
+ },
+ "2-1-11": {
+  "dwaeyo": "돼요",
+  "bakkwoya dwaeyo": "바꿔야 돼요",
+  "gayo": "가요",
+  "gaya dwaeyo": "가야 돼요",
+  "meogeoyo": "먹어요",
+  "meogeoya dwaeyo": "먹어야 돼요",
+  "jakseonghaeya dwaeyo ?": "작성해야 돼요?"
+ },
+ "2-1-17": {
+  "jeomjeom": "점점",
+  "balgayo": "밝아요",
+  "balgajyeoyo": "밝아져요",
+  "haneuri jeomjeom balgajyeoyo": "하늘이 점점 밝아져요",
+  "keojyeoyo": "커져요",
+  "jjalbajyeoyo": "짧아져요",
+  "pyeonhaejyeosseoyo": "편해졌어요"
+ },
+ "2-2-0": {
+  "bap meogeosseoyo": "밥 먹었어요",
+  "jal meokgesseumnida": "잘 먹겠습니다",
+  "himnaeseyo": "힘내세요",
+  "bap meogeosseoyo ?": "밥 먹었어요?",
+  "jal meogeosseumnida": "잘 먹었습니다"
+ },
+ "2-2-2": {
+  "mani georeotgeodeunyo": "많이 걸었거든요",
+  "mani": "많이",
+  "joahageodeunyo": "좋아하거든요",
+  "cheoeumigeodeunyo": "처음이거든요"
+ },
+ "2-2-4": {
+  "jeok": "적",
+  "isseoyo": "있어요",
+  "eopseoyo": "없어요",
+  "meogeo bon jeok isseoyo ?": "먹어 본 적 있어요?",
+  "bon jeogi eopseoyo": "본 적이 없어요",
+  "ga bon jeogi eopseoyo": "가 본 적이 없어요"
+ },
+ "2-2-7": {
+  "sseudeoragoyo": "쓰더라고요",
+  "manteoragoyo": "많더라고요",
+  "gwiyeopdeoragoyo": "귀엽더라고요"
+ },
+ "2-2-11": {
+  "sokdam": "속담",
+  "hajanayo": "하잖아요",
+  "Sijagi banieyo": "시작이 반이에요",
+  "sijak": "시작",
+  "banieyo": "반이에요",
+  "Tikkeul moa taesan": "티끌 모아 태산",
+  "Horangido je mal hamyeon onda": "호랑이도 제 말 하면 온다"
+ }
+}

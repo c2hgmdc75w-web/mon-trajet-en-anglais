@@ -1,0 +1,719 @@
+{
+ "0-0-0": {
+  "Makan": "Makan",
+  "makan": "makan",
+  "saya makan": "saya makan",
+  "dia makan": "dia makan",
+  "mereka makan": "mereka makan",
+  "kemarin": "kemarin",
+  "sudah": "sudah",
+  "Kemarin saya makan di warung": "Kemarin saya makan di warung",
+  "besok saya makan": "besok saya makan"
+ },
+ "0-0-1": {
+  "selamat pagi": "selamat pagi",
+  "selamat siang": "selamat siang",
+  "selamat malam": "selamat malam",
+  "selamat": "selamat",
+  "selamat sore": "selamat sore",
+  "Selamat pagi, Bu": "Selamat pagi, Bu",
+  "Bu": "Bu",
+  "Pak": "Pak",
+  "selamat jalan": "selamat jalan",
+  "selamat tidur": "selamat tidur"
+ },
+ "0-0-2": {
+  "susu": "susu",
+  "cari": "cari",
+  "kecil": "kecil",
+  "makan": "makan",
+  "Saya cari kafe dekat sini": "Saya cari kafe dekat sini",
+  "cangkir": "cangkir"
+ },
+ "0-0-3": {
+  "Saya": "Saya",
+  "Anda": "Anda",
+  "nama saya": "nama saya",
+  "saya": "saya",
+  "Nama saya Dewi": "Nama saya Dewi",
+  "Siapa nama Anda ?": "Siapa nama Anda?",
+  "Bapak": "Bapak",
+  "Ibu": "Ibu"
+ },
+ "0-0-4": {
+  "Saya orang Prancis": "Saya orang Prancis",
+  "saya capek": "saya capek",
+  "rumah besar": "rumah besar",
+  "orang": "orang",
+  "orang Indonesia": "orang Indonesia",
+  "Bu Sari perawat": "Bu Sari perawat",
+  "adalah": "adalah"
+ },
+ "0-0-5": {
+  "Tidak": "Tidak",
+  "tidak": "tidak",
+  "Saya tidak suka cabai": "Saya tidak suka cabai",
+  "tidak pedas": "tidak pedas",
+  "tidak mahal": "tidak mahal",
+  "nggak": "nggak",
+  "gak": "gak",
+  "tidak apa-apa": "tidak apa-apa"
+ },
+ "0-0-6": {
+  "Bukan": "Bukan",
+  "tidak": "tidak",
+  "bukan": "bukan",
+  "Saya bukan turis": "Saya bukan turis",
+  "Ini bukan kopi, ini teh": "Ini bukan kopi, ini teh",
+  "kopinya tidak panas": "kopinya tidak panas",
+  "Ini helm Anda ?": "Ini helm Anda?",
+  "barang": "barang"
+ },
+ "0-0-7": {
+  "Apakah": "Apakah",
+  "apakah": "apakah",
+  "Apakah ini manis ?": "Apakah ini manis?",
+  "Pisangnya segar ?": "Pisangnya segar?",
+  "ya": "ya",
+  "tidak": "tidak",
+  "segar": "segar"
+ },
+ "0-0-8": {
+  "rumah saya": "rumah saya",
+  "rumah Anda": "rumah Anda",
+  "rumah mereka": "rumah mereka",
+  "Ini rumah saya": "Ini rumah saya",
+  "motor Pak Budi": "motor Pak Budi",
+  "anaknya": "anaknya"
+ },
+ "0-0-9": {
+  "kopi panas": "kopi panas",
+  "warung besar": "warung besar",
+  "nasi goreng": "nasi goreng",
+  "ayam goreng": "ayam goreng",
+  "Saya mau teh manis dingin": "Saya mau teh manis dingin",
+  "ini": "ini",
+  "nasi goreng ini": "nasi goreng ini"
+ },
+ "0-0-10": {
+  "Ini": "Ini",
+  "itu": "itu",
+  "ini": "ini",
+  "Ini apa ?": "Ini apa?",
+  "pasar ini": "pasar ini",
+  "ibu itu": "ibu itu",
+  "yang": "yang",
+  "yang ini": "yang ini",
+  "yang itu": "yang itu",
+  "Saya ambil yang ini": "Saya ambil yang ini",
+  "kue itu": "kue itu"
+ },
+ "0-0-11": {
+  "satu": "satu",
+  "sepuluh": "sepuluh",
+  "dua": "dua",
+  "tiga": "tiga",
+  "empat": "empat",
+  "lima": "lima",
+  "enam": "enam",
+  "tujuh": "tujuh",
+  "delapan": "delapan",
+  "sembilan": "sembilan",
+  "tiga mangga": "tiga mangga",
+  "Saya mau tiga mangga": "Saya mau tiga mangga",
+  "lantai lima": "lantai lima"
+ },
+ "0-0-12": {
+  "puluh": "puluh",
+  "ratus": "ratus",
+  "ribu": "ribu",
+  "dua puluh": "dua puluh",
+  "tiga puluh": "tiga puluh",
+  "satu": "satu",
+  "sepuluh": "sepuluh",
+  "seratus": "seratus",
+  "seribu": "seribu",
+  "belas": "belas",
+  "lima belas": "lima belas",
+  "lima puluh ribu": "lima puluh ribu",
+  "juta": "juta",
+  "tiga juta": "tiga juta"
+ },
+ "0-0-13": {
+  "Ada": "Ada",
+  "ada": "ada",
+  "Ada ojek di depan rumah": "Ada ojek di depan rumah",
+  "Ada teh manis ?": "Ada teh manis?",
+  "Bu Sari ada ?": "Bu Sari ada?",
+  "Ada warung dekat sini ?": "Ada warung dekat sini?",
+  "tidak ada": "tidak ada",
+  "saya ada": "saya ada",
+  "saya punya": "saya punya"
+ },
+ "0-0-14": {
+  "Di": "Di",
+  "di": "di",
+  "Saya di kantor": "Saya di kantor",
+  "di depan": "di depan",
+  "di dalam": "di dalam",
+  "di atas": "di atas",
+  "di sebelah": "di sebelah",
+  "HP saya di dalam tas": "HP saya di dalam tas",
+  "di mana": "di mana",
+  "Anda di mana ?": "Anda di mana?",
+  "ke": "ke",
+  "ke kantor": "ke kantor"
+ },
+ "0-0-15": {
+  "jam": "jam",
+  "pukul": "pukul",
+  "jam tujuh": "jam tujuh",
+  "pukul sembilan": "pukul sembilan",
+  "delapan jam": "delapan jam",
+  "jam berapa ?": "jam berapa?",
+  "setengah delapan": "setengah delapan",
+  "Sekarang jam setengah delapan": "Sekarang jam setengah delapan",
+  "pagi": "pagi",
+  "malam": "malam"
+ },
+ "0-0-16": {
+  "apa": "apa",
+  "siapa": "siapa",
+  "di mana": "di mana",
+  "berapa": "berapa",
+  "Apa": "Apa",
+  "Anda tinggal di mana ?": "Anda tinggal di mana?",
+  "Siapa itu ?": "Siapa itu?",
+  "Nomor telepon Anda berapa ?": "Nomor telepon Anda berapa?",
+  "suara apa": "suara apa"
+ },
+ "0-0-17": {
+  "Mau": "Mau",
+  "mau": "mau",
+  "Saya mau kopi": "Saya mau kopi",
+  "Saya mau bayar": "Saya mau bayar",
+  "Saya mau ke pasar": "Saya mau ke pasar",
+  "Mau ke mana, Pak ?": "Mau ke mana, Pak?",
+  "tidak mau": "tidak mau",
+  "mau hujan": "mau hujan",
+  "saya mau": "saya mau"
+ },
+ "0-0-18": {
+  "anak-anak": "anak-anak",
+  "anak": "anak",
+  "rumah-rumah": "rumah-rumah",
+  "teman-teman": "teman-teman",
+  "Anak-anak bermain di jalan": "Anak-anak bermain di jalan",
+  "banyak": "banyak",
+  "dua kucing": "dua kucing",
+  "banyak anak": "banyak anak",
+  "ibu-ibu": "ibu-ibu"
+ },
+ "0-0-19": {
+  "terima kasih": "terima kasih",
+  "sama-sama": "sama-sama",
+  "maaf": "maaf",
+  "permisi": "permisi",
+  "Terima kasih": "Terima kasih",
+  "terima kasih banyak": "terima kasih banyak",
+  "Maaf": "Maaf",
+  "Permisi": "Permisi",
+  "Permisi, numpang lewat": "Permisi, numpang lewat",
+  "Pak": "Pak",
+  "Bu": "Bu"
+ },
+ "0-1-1": {
+  "Hari ini": "Hari ini",
+  "besok": "besok",
+  "kemarin": "kemarin",
+  "Besok": "Besok",
+  "Besok saya ke Ubud": "Besok saya ke Ubud",
+  "Kemarin saya ke Ubud": "Kemarin saya ke Ubud",
+  "pagi": "pagi",
+  "malam": "malam",
+  "besok pagi": "besok pagi"
+ },
+ "0-1-3": {
+  "Tolong": "Tolong",
+  "silakan": "silakan",
+  "Tolong bantu saya": "Tolong bantu saya",
+  "Silakan": "Silakan",
+  "Silakan masuk": "Silakan masuk",
+  "Silakan duduk": "Silakan duduk",
+  "tolong": "tolong"
+ },
+ "0-1-5": {
+  "Berapa harganya ?": "Berapa harganya?",
+  "Berapa": "Berapa",
+  "harga": "harga",
+  "Berapa harga sarung ini ?": "Berapa harga sarung ini?",
+  "ribu": "ribu",
+  "lima puluh ribu": "lima puluh ribu",
+  "Bisa kurang ?": "Bisa kurang?",
+  "Berapa ?": "Berapa?",
+  "berapa, berapa": "berapa, berapa"
+ },
+ "0-1-7": {
+  "Dari... ke...": "Dari... ke...",
+  "dari": "dari",
+  "ke": "ke",
+  "dari bandara ke Ubud": "dari bandara ke Ubud",
+  "Saya ke pantai": "Saya ke pantai",
+  "Dari": "Dari",
+  "Saya dari Paris": "Saya dari Paris",
+  "Anda dari mana ?": "Anda dari mana?",
+  "sampai": "sampai",
+  "dari pagi sampai malam": "dari pagi sampai malam"
+ },
+ "0-1-9": {
+  "Sudah": "Sudah",
+  "belum": "belum",
+  "Saya sudah bayar": "Saya sudah bayar",
+  "Sudah makan ?": "Sudah makan?",
+  "sudah": "sudah",
+  "tidak": "tidak",
+  "Sudah jam delapan": "Sudah jam delapan",
+  "sudah, belum": "sudah, belum"
+ },
+ "0-1-11": {
+  "Bagaimana": "Bagaimana",
+  "cara": "cara",
+  "Bagaimana cara ke Pasar Ubud ?": "Bagaimana cara ke Pasar Ubud?",
+  "Bagaimana kabarnya ?": "Bagaimana kabarnya?",
+  "Bagaimana perjalanannya ?": "Bagaimana perjalanannya?",
+  "kiri": "kiri",
+  "kanan": "kanan",
+  "terus": "terus",
+  "permisi": "permisi",
+  "bagaimana": "bagaimana"
+ },
+ "0-1-13": {
+  "Bisa": "Bisa",
+  "boleh": "boleh",
+  "Saya bisa naik motor": "Saya bisa naik motor",
+  "Boleh": "Boleh",
+  "Boleh saya coba ?": "Boleh saya coba?",
+  "tidak boleh": "tidak boleh",
+  "tidak bisa": "tidak bisa",
+  "Bisa bayar pakai kartu ?": "Bisa bayar pakai kartu?",
+  "bisa": "bisa"
+ },
+ "0-1-15": {
+  "Naik": "Naik",
+  "naik bus": "naik bus",
+  "Saya naik kapal ke Lombok": "Saya naik kapal ke Lombok",
+  "naik ojek": "naik ojek",
+  "naik taksi": "naik taksi",
+  "naik pesawat": "naik pesawat",
+  "naik motor": "naik motor",
+  "turun": "turun",
+  "Saya turun di sini": "Saya turun di sini",
+  "jalan kaki": "jalan kaki",
+  "naik": "naik"
+ },
+ "0-1-17": {
+  "Jauh": "Jauh",
+  "dekat": "dekat",
+  "Jauh dari sini ?": "Jauh dari sini?",
+  "dari": "dari",
+  "Bandara jauh dari Ubud": "Bandara jauh dari Ubud",
+  "dekat hotel": "dekat hotel",
+  "sekali": "sekali",
+  "dekat sekali": "dekat sekali",
+  "terlalu": "terlalu",
+  "terlalu jauh": "terlalu jauh",
+  "jauh": "jauh"
+ },
+ "0-1-19": {
+  "Pernah": "Pernah",
+  "Saya pernah ke Bali": "Saya pernah ke Bali",
+  "sudah": "sudah",
+  "pernah": "pernah",
+  "Anda pernah naik ojek ?": "Anda pernah naik ojek?",
+  "belum pernah": "belum pernah",
+  "Saya belum pernah ke Komodo": "Saya belum pernah ke Komodo",
+  "tidak pernah": "tidak pernah"
+ },
+ "0-2-1": {
+  "Aku": "Aku",
+  "kamu": "kamu",
+  "saya": "saya",
+  "Anda": "Anda",
+  "aku": "aku",
+  "Nanti malam aku telepon kamu": "Nanti malam aku telepon kamu",
+  "aku capek": "aku capek",
+  "kamu mau ke mana": "kamu mau ke mana",
+  "namaku": "namaku",
+  "namamu": "namamu"
+ },
+ "0-2-3": {
+  "Suka": "Suka",
+  "suka": "suka",
+  "Kamu suka musik": "Kamu suka musik",
+  "aku suka": "aku suka",
+  "kamu suka": "kamu suka",
+  "kami suka": "kami suka",
+  "aku suka berenang": "aku suka berenang",
+  "tidak": "tidak",
+  "aku tidak suka kopi": "aku tidak suka kopi",
+  "lebih suka": "lebih suka"
+ },
+ "0-2-5": {
+  "bapak": "bapak",
+  "ibu": "ibu",
+  "kakak": "kakak",
+  "adik": "adik",
+  "Bapak": "Bapak",
+  "laki-laki": "laki-laki",
+  "perempuan": "perempuan",
+  "kakak perempuan": "kakak perempuan",
+  "adik laki-laki": "adik laki-laki",
+  "bapakku": "bapakku",
+  "Pak": "Pak",
+  "Bu": "Bu",
+  "terima kasih, Bu": "terima kasih, Bu"
+ },
+ "0-2-7": {
+  "Sedang": "Sedang",
+  "sedang": "sedang",
+  "Aku sedang makan": "Aku sedang makan",
+  "dia sedang tidur": "dia sedang tidur",
+  "kami sedang belajar": "kami sedang belajar",
+  "kamu sedang apa ?": "kamu sedang apa?",
+  "lagi": "lagi"
+ },
+ "0-2-9": {
+  "lebih... dari": "lebih... dari",
+  "lebih": "lebih",
+  "dari": "dari",
+  "Yogyakarta lebih tenang dari Jakarta": "Yogyakarta lebih tenang dari Jakarta",
+  "kopi lebih pahit dari teh": "kopi lebih pahit dari teh",
+  "hari ini lebih panas": "hari ini lebih panas",
+  "lebih murah": "lebih murah",
+  "lebih enak": "lebih enak",
+  "aku dari Prancis": "aku dari Prancis"
+ },
+ "0-2-11": {
+  "Karena": "Karena",
+  "jadi": "jadi",
+  "karena": "karena",
+  "Aku suka Yogya karena orangnya ramah": "Aku suka Yogya karena orangnya ramah",
+  "hujan, jadi kita di rumah saja": "hujan, jadi kita di rumah saja",
+  "kenapa": "kenapa",
+  "karena macet": "karena macet",
+  "aku capek karena banyak belajar": "aku capek karena banyak belajar"
+ },
+ "0-2-13": {
+  "Akan": "Akan",
+  "akan": "akan",
+  "Aku akan pergi": "Aku akan pergi",
+  "kita akan makan bersama": "kita akan makan bersama",
+  "besok akan hujan": "besok akan hujan",
+  "besok": "besok",
+  "hari Sabtu": "hari Sabtu",
+  "sudah": "sudah",
+  "sedang": "sedang"
+ },
+ "0-2-15": {
+  "Untuk": "Untuk",
+  "untuk": "untuk",
+  "hadiah ini untuk kamu": "hadiah ini untuk kamu",
+  "aku datang untuk kuliah": "aku datang untuk kuliah",
+  "untuk siapa ?": "untuk siapa?",
+  "kue ini untuk siapa ?": "kue ini untuk siapa?",
+  "buat": "buat",
+  "buat kamu": "buat kamu"
+ },
+ "0-2-17": {
+  "Terlalu": "Terlalu",
+  "sekali": "sekali",
+  "kopi ini terlalu manis": "kopi ini terlalu manis",
+  "Sekali": "Sekali",
+  "enak sekali": "enak sekali",
+  "terlalu mahal": "terlalu mahal",
+  "panas sekali": "panas sekali",
+  "tidak": "tidak",
+  "tidak terlalu jauh": "tidak terlalu jauh",
+  "banget": "banget"
+ },
+ "0-2-19": {
+  "Juga": "Juga",
+  "semua": "semua",
+  "aku juga": "aku juga",
+  "Aku juga bisa sedikit": "Aku juga bisa sedikit",
+  "aku juga suka": "aku juga suka",
+  "Semua": "Semua",
+  "semua teman": "semua teman",
+  "semua orang": "semua orang",
+  "semuanya": "semuanya",
+  "aku sudah paham semuanya": "aku sudah paham semuanya",
+  "teman": "teman",
+  "juga": "juga"
+ },
+ "1-0-1": {
+  "olahraga": "olahraga",
+  "berolahraga": "berolahraga",
+  "jalan": "jalan",
+  "berjalan": "berjalan",
+  "main": "main",
+  "bermain": "bermain",
+  "berkeluarga": "berkeluarga"
+ },
+ "1-0-4": {
+  "tulis": "tulis",
+  "menulis": "menulis",
+  "baca": "baca",
+  "membaca": "membaca",
+  "kirim": "kirim",
+  "mengirim": "mengirim",
+  "nulis": "nulis"
+ },
+ "1-0-5": {
+  "Yang": "Yang",
+  "yang": "yang",
+  "kopi yang panas": "kopi yang panas",
+  "yang ini": "yang ini",
+  "yang merah": "yang merah"
+ },
+ "1-0-11": {
+  "Beli": "Beli",
+  "belikan": "belikan",
+  "bersih": "bersih",
+  "membersihkan": "membersihkan",
+  "tolong ambilkan": "tolong ambilkan"
+ },
+ "1-0-18": {
+  "Jangan": "Jangan",
+  "jangan": "jangan",
+  "tidak": "tidak",
+  "jangan lupa": "jangan lupa",
+  "jangan khawatir": "jangan khawatir",
+  "tolong": "tolong",
+  "ya": "ya"
+ },
+ "1-1-2": {
+  "kunjung": "kunjung",
+  "mengunjungi Gili Meno": "mengunjungi Gili Meno",
+  "ke": "ke",
+  "dekat": "dekat",
+  "mendekati kuda": "mendekati kuda",
+  "keliling": "keliling",
+  "mengelilingi pulau": "mengelilingi pulau",
+  "hubungi saya": "hubungi saya"
+ },
+ "1-1-4": {
+  "Hampir": "Hampir",
+  "baru saja": "baru saja",
+  "Saya baru saja melihat penyu": "Saya baru saja melihat penyu",
+  "baru": "baru",
+  "baru datang": "baru datang",
+  "hampir": "hampir",
+  "saya hampir lupa": "saya hampir lupa",
+  "hampir siap": "hampir siap"
+ },
+ "1-1-7": {
+  "Kalau": "Kalau",
+  "kalau": "kalau",
+  "Kalau hujan, jalurnya jadi sangat licin": "Kalau hujan, jalurnya jadi sangat licin",
+  "pasti": "pasti",
+  "kalau saya tahu, saya pasti membawa air": "kalau saya tahu, saya pasti membawa air",
+  "kalau bisa": "kalau bisa"
+ },
+ "1-1-11": {
+  "Paling": "Paling",
+  "paling": "paling",
+  "indah": "indah",
+  "paling indah": "paling indah",
+  "pulau mana yang paling indah": "pulau mana yang paling indah",
+  "paling enak": "paling enak",
+  "di": "di",
+  "yang pernah saya lihat": "yang pernah saya lihat",
+  "terbaik": "terbaik",
+  "lebih": "lebih"
+ },
+ "1-1-15": {
+  "Walaupun": "Walaupun",
+  "Walaupun langitnya biru, lautnya berbahaya": "Walaupun langitnya biru, lautnya berbahaya",
+  "tetap": "tetap",
+  "walaupun gerimis, pasarnya tetap ramai": "walaupun gerimis, pasarnya tetap ramai",
+  "meskipun": "meskipun",
+  "walau": "walau"
+ },
+ "1-2-1": {
+  "kok": "kok",
+  "dong": "dong",
+  "sih": "sih",
+  "Dong": "Dong",
+  "cerita dong": "cerita dong",
+  "Kok": "Kok",
+  "kok kamu tidak kenal dia ?": "kok kamu tidak kenal dia?",
+  "dia baik kok": "dia baik kok",
+  "Sih": "Sih",
+  "siapa sih ?": "siapa sih?"
+ },
+ "1-2-4": {
+  "Mungkin": "Mungkin",
+  "mungkin": "mungkin",
+  "Kamu ikut ? Mungkin !": "Kamu ikut? Mungkin!",
+  "mungkin aku datang agak terlambat": "mungkin aku datang agak terlambat",
+  "Budi mungkin bisa": "Budi mungkin bisa"
+ },
+ "1-2-11": {
+  "Katanya": "Katanya",
+  "katanya": "katanya",
+  "kata": "kata",
+  "katanya es kopinya enak sekali": "katanya es kopinya enak sekali",
+  "katanya Rina mau pindah": "katanya Rina mau pindah"
+ },
+ "1-2-13": {
+  "Sambil": "Sambil",
+  "sambil": "sambil",
+  "aku bernyanyi sambil berjoget": "aku bernyanyi sambil berjoget",
+  "makan sambil menonton": "makan sambil menonton",
+  "tertawa sambil memegang mikrofon": "tertawa sambil memegang mikrofon"
+ },
+ "1-2-17": {
+  "Mas": "Mas",
+  "Mbak": "Mbak",
+  "Bapak": "Bapak",
+  "Ibu": "Ibu",
+  "Pak": "Pak",
+  "Bu": "Bu",
+  "Bu, rawonnya enak sekali": "Bu, rawonnya enak sekali",
+  "Bapak masih bekerja ?": "Bapak masih bekerja?",
+  "Mas !": "Mas!",
+  "Mbak !": "Mbak!"
+ },
+ "2-0-0": {
+  "kirim": "kirim",
+  "dikirim": "dikirim",
+  "rapatnya dipindahkan": "rapatnya dipindahkan",
+  "Proyek itu sudah disetujui": "Proyek itu sudah disetujui",
+  "oleh": "oleh",
+  "ditulis oleh Dewi": "ditulis oleh Dewi"
+ },
+ "2-0-2": {
+  "suruh": "suruh",
+  "membuat": "membuat",
+  "menyuruh": "menyuruh",
+  "Direktur menyuruh saya memesan ruang rapat": "Direktur menyuruh saya memesan ruang rapat",
+  "membuat saya gugup": "membuat saya gugup",
+  "Jangan membuat klien menunggu": "Jangan membuat klien menunggu"
+ },
+ "2-0-4": {
+  "Asal": "Asal",
+  "asalkan": "asalkan",
+  "Daerahnya tidak masalah, asal dekat dengan kantor": "Daerahnya tidak masalah, asal dekat dengan kantor",
+  "boleh, asal tepat waktu": "boleh, asal tepat waktu",
+  "asal": "asal"
+ },
+ "2-0-7": {
+  "Bahkan": "Bahkan",
+  "Petugasnya ramah, bahkan dia membantu saya": "Petugasnya ramah, bahkan dia membantu saya",
+  "tiga jam, bahkan lebih": "tiga jam, bahkan lebih",
+  "pun": "pun",
+  "juga": "juga",
+  "bahkan kepala bagiannya pun": "bahkan kepala bagiannya pun",
+  "bahkan": "bahkan"
+ },
+ "2-0-11": {
+  "Mohon": "Mohon",
+  "dengan hormat": "dengan hormat",
+  "mohon": "mohon",
+  "Mohon isi formulir ini": "Mohon isi formulir ini",
+  "tolong": "tolong",
+  "mohon ditunggu": "mohon ditunggu",
+  "Dengan hormat": "Dengan hormat",
+  "mohon maaf": "mohon maaf"
+ },
+ "2-1-1": {
+  "indah": "indah",
+  "keindahan": "keindahan",
+  "selamat": "selamat",
+  "keselamatan": "keselamatan",
+  "Hujan": "Hujan",
+  "kehujanan": "kehujanan",
+  "hilang": "hilang",
+  "kehilangan": "kehilangan",
+  "Teman saya kehilangan dompetnya": "Teman saya kehilangan dompetnya"
+ },
+ "2-1-3": {
+  "Supaya": "Supaya",
+  "agar": "agar",
+  "supaya": "supaya",
+  "Pemandu berbicara pelan-pelan agar semua orang mengerti": "Pemandu berbicara pelan-pelan agar semua orang mengerti",
+  "supaya tidak kedinginan": "supaya tidak kedinginan",
+  "supaya tetap bugar": "supaya tetap bugar"
+ },
+ "2-1-6": {
+  "kunjung": "kunjung",
+  "pengunjung": "pengunjung",
+  "pandu": "pandu",
+  "pemandu": "pemandu",
+  "daki": "daki",
+  "pendakian": "pendakian",
+  "inap": "inap",
+  "penginapan": "penginapan",
+  "Semua pengunjung harus didampingi oleh pemandu resmi": "Semua pengunjung harus didampingi oleh pemandu resmi"
+ },
+ "2-1-11": {
+  "Seharusnya": "Seharusnya",
+  "harus": "harus",
+  "Seharusnya kami sampai sebelum malam": "Seharusnya kami sampai sebelum malam",
+  "Seharusnya dia memeriksa mesinnya": "Seharusnya dia memeriksa mesinnya",
+  "Seharusnya busnya sudah berangkat pukul delapan": "Seharusnya busnya sudah berangkat pukul delapan",
+  "sudah": "sudah",
+  "seharusnya": "seharusnya"
+ },
+ "2-1-17": {
+  "Semakin... semakin...": "Semakin... semakin...",
+  "semakin": "semakin",
+  "Semakin tinggi kita naik, semakin sejuk udaranya": "Semakin tinggi kita naik, semakin sejuk udaranya",
+  "semakin berat": "semakin berat",
+  "semakin lancar": "semakin lancar",
+  "semakin hari semakin": "semakin hari semakin",
+  "makin": "makin"
+ },
+ "2-2-0": {
+  "buah tangan": "buah tangan",
+  "panjang tangan": "panjang tangan",
+  "Buah tangan": "Buah tangan",
+  "ringan tangan": "ringan tangan",
+  "keras kepala": "keras kepala"
+ },
+ "2-2-2": {
+  "hati-hati": "hati-hati",
+  "selamat jalan": "selamat jalan",
+  "semangat": "semangat",
+  "Hati-hati": "Hati-hati",
+  "hati-hati di jalan": "hati-hati di jalan",
+  "Selamat jalan": "Selamat jalan",
+  "selamat tinggal": "selamat tinggal",
+  "jalan": "jalan",
+  "tinggal": "tinggal"
+ },
+ "2-2-4": {
+  "Sepertinya": "Sepertinya",
+  "kelihatannya": "kelihatannya",
+  "sepertinya": "sepertinya",
+  "seperti": "seperti",
+  "Kelihatannya": "Kelihatannya",
+  "lihat": "lihat",
+  "kamu kelihatannya capek": "kamu kelihatannya capek",
+  "sepertinya sore ini akan hujan": "sepertinya sore ini akan hujan"
+ },
+ "2-2-7": {
+  "Terpaksa": "Terpaksa",
+  "paksa": "paksa",
+  "aku terpaksa naik ojek": "aku terpaksa naik ojek",
+  "aku terpaksa": "aku terpaksa",
+  "harus": "harus",
+  "terpaksa": "terpaksa"
+ },
+ "2-2-11": {
+  "peribahasa": "peribahasa",
+  "malu bertanya, sesat di jalan": "malu bertanya, sesat di jalan",
+  "tak ada asap tanpa api": "tak ada asap tanpa api",
+  "seperti pinang dibelah dua": "seperti pinang dibelah dua"
+ }
+}
