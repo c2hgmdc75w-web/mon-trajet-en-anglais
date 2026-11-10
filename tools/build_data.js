@@ -38,12 +38,15 @@ for (const [code, [file, key]] of Object.entries(SRC)) {
   const ctx = {}; vm.createContext(ctx);
   vm.runInContext(src + ';globalThis.__L = LEVELS; globalThis.__I = ICONS;', ctx);
   if (!icons) icons = ctx.__I;
-  let phrases = 0, tips = 0;
-  const levels = ctx.__L.map(lv => ({
+  let phrases = 0, tips = 0, says = 0;
+  // Mots cités « … » dans les points de grammaire à faire lire par la voix native :
+  // tools/tips_say/<code>.json = { "<niveau>-<module>-<leçon>": { "<passage>": "<texte natif>" } }
+  let SAY = {}; try { SAY = JSON.parse(fs.readFileSync(path.join(__dirname, 'tips_say', code + '.json'), 'utf8')); } catch (e) {}
+  const levels = ctx.__L.map((lv, a) => ({
     id: lv.id, name: lv.name, freeLessonsPerModule: lv.freeLessonsPerModule,
-    modules: lv.modules.map(m => ({
+    modules: lv.modules.map((m, b) => ({
       id: m.id, name: m.name, desc: m.desc, totalPhrases: m.totalPhrases, lessonsCount: m.lessonsCount,
-      lessons: m.lessons.map(l => {
+      lessons: m.lessons.map((l, c) => {
         if (!l || !l.phrases) return l;
         const lesson = { title: l.title, phrases: l.phrases.map(p => {
           const q = { fr: p.fr, tgt: p[key] };
@@ -51,13 +54,14 @@ for (const [code, [file, key]] of Object.entries(SRC)) {
           if (p.ro) q.ro = p.ro; if (p.lit) q.lit = p.lit; phrases++; return q;
         }) };
         if (l.tip) { lesson.tip = { title: l.tip.title, example: l.tip.example, body: l.tip.body };
-          if (l.tip.exampleRo) lesson.tip.exampleRo = l.tip.exampleRo; if (l.tip.lit) lesson.tip.lit = l.tip.lit; tips++; }
+          if (l.tip.exampleRo) lesson.tip.exampleRo = l.tip.exampleRo; if (l.tip.lit) lesson.tip.lit = l.tip.lit; tips++;
+          const sy = SAY[`${a}-${b}-${c}`]; if (sy && Object.keys(sy).length) { lesson.tip.say = sy; says += Object.keys(sy).length; } }
         return lesson;
       })
     }))
   }));
   const js = `/* Mon Trajet — contenu « ${code} » (${phrases} phrases, ${tips} points de grammaire). Fichier généré par tools/build_data.js, ne pas éditer à la main. */\nwindow.MT_DATA = window.MT_DATA || {};\nwindow.MT_DATA['${code}'] = ${JSON.stringify(levels)};\n`;
   fs.writeFileSync(path.join(out, code + '.js'), js);
-  console.log(code, phrases, 'phrases', tips, 'tips', Math.round(js.length / 1024) + ' Ko');
+  console.log(code, phrases, 'phrases', tips, 'tips', says, 'mots natifs', Math.round(js.length / 1024) + ' Ko');
 }
 fs.writeFileSync(path.join(__dirname, '..', 'www', 'js', 'icons.js'), '/* Icônes SVG partagées (extraites de l\'ancien data.js). */\nconst ICONS = ' + JSON.stringify(icons, null, 1) + ';\n');

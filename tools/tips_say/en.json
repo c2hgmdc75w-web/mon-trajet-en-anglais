@@ -1,0 +1,274 @@
+{
+ "0-0-2": {
+  "The check": "The check",
+  "the bill": "the bill",
+  "the check": "the check"
+ },
+ "0-0-5": {
+  "do / does": "do, does",
+  "do": "do",
+  "does": "does",
+  "Do you have...": "Do you have...",
+  "Does she like...": "Does she like..."
+ },
+ "0-0-8": {
+  "Won't": "Won't",
+  "will not": "will not",
+  "the car won't start": "the car won't start"
+ },
+ "0-0-14": {
+  "has been swimming": "has been swimming"
+ },
+ "0-0-19": {
+  "For": "For",
+  "since": "since",
+  "for a long time": "for a long time",
+  "for three years": "for three years",
+  "Since": "Since",
+  "since childhood": "since childhood",
+  "since Monday": "since Monday"
+ },
+ "0-1-2": {
+  "Be going to": "Be going to",
+  "we're going to land": "we're going to land",
+  "it's going to rain": "it's going to rain"
+ },
+ "0-1-5": {
+  "to be": "to be",
+  "do": "do",
+  "do/does": "do, does",
+  "is/are": "is, are",
+  "Is insurance included?": "Is insurance included?",
+  "Are you ready?": "Are you ready?"
+ },
+ "0-1-8": {
+  "There is": "There is",
+  "there are": "there are",
+  "Il y a": "Il y a",
+  "there is": "there is",
+  "Is there... ?": "Is there... ?",
+  "Are there... ?": "Are there... ?"
+ },
+ "0-1-14": {
+  "Already": "Already",
+  "I have already booked": "I have already booked"
+ },
+ "0-1-19": {
+  "Meet": "Meet",
+  "met": "met"
+ },
+ "0-2-2": {
+  "my brother's office": "my brother's office",
+  "my sister's studies": "my sister's studies",
+  "the students' books": "the students' books"
+ },
+ "0-2-5": {
+  "more... than": "more... than",
+  "quiet → quieter": "quiet, quieter",
+  "interesting → more interesting than": "interesting, more interesting than",
+  "good → better": "good, better",
+  "bad → worse": "bad, worse"
+ },
+ "0-2-8": {
+  "Should": "Should",
+  "shouldn't": "shouldn't",
+  "you shouldn't worry": "you shouldn't worry"
+ },
+ "0-2-14": {
+  "because": "because",
+  "so": "so",
+  "but": "but",
+  "although": "although"
+ },
+ "0-2-19": {
+  "isn't it?": "isn't it?",
+  "don't you?": "don't you?",
+  "doesn't it?": "doesn't it?"
+ },
+ "1-0-2": {
+  "going to": "going to",
+  "I'm meeting a friend on Saturday": "I'm meeting a friend on Saturday",
+  "She's coming for dinner": "She's coming for dinner"
+ },
+ "1-0-5": {
+  "Have to": "Have to",
+  "must": "must",
+  "do/does": "do, does",
+  "I don't have to": "I don't have to",
+  "Must": "Must",
+  "had to": "had to"
+ },
+ "1-0-8": {
+  "Used to": "Used to",
+  "I used to play outside": "I used to play outside",
+  "We used to go to the beach": "We used to go to the beach",
+  "didn't use to": "didn't use to"
+ },
+ "1-0-14": {
+  "easy → the easiest": "easy, the easiest",
+  "the most": "the most",
+  "useful → the most useful": "useful, the most useful",
+  "the": "the",
+  "the easiest": "the easiest",
+  "the most useful": "the most useful",
+  "good → the best": "good, the best",
+  "bad → the worst": "bad, the worst"
+ },
+ "1-0-19": {
+  "Who": "Who",
+  "the person who...": "the person who...",
+  "which": "which",
+  "the book which...": "the book which...",
+  "that": "that"
+ },
+ "1-1-0": {
+  "was": "was",
+  "were": "were",
+  "I was driving": "I was driving",
+  "They were packing": "They were packing"
+ },
+ "1-1-1": {
+  "if": "if",
+  "will": "will",
+  "If it rains, we will stay inside.": "If it rains, we will stay inside."
+ },
+ "1-1-2": {
+  "Could": "Could",
+  "can": "can",
+  "Could you help me?": "Could you help me?",
+  "Can you help me?": "Can you help me?"
+ },
+ "1-1-3": {
+  "Too": "Too",
+  "enough": "enough",
+  "too heavy": "too heavy",
+  "too expensive": "too expensive",
+  "Enough": "Enough",
+  "enough fruit": "enough fruit",
+  "good enough": "good enough",
+  "for someone to do something": "for someone to do something"
+ },
+ "1-1-8": {
+  "said that": "said that",
+  "told me that": "told me that",
+  "I live here": "I live here",
+  "He said he lived here": "He said he lived here"
+ },
+ "1-2-0": {
+  "Would like to": "Would like to",
+  "want to": "want to",
+  "I would like to help": "I would like to help",
+  "I want to help": "I want to help",
+  "I'd like to": "I'd like to"
+ },
+ "1-2-1": {
+  "So do I": "So do I",
+  "Neither do I": "Neither do I",
+  "So am I": "So am I",
+  "Neither am I": "Neither am I"
+ },
+ "1-2-5": {
+  "Used to": "Used to",
+  "to be used to": "to be used to",
+  "I used to live there": "I used to live there",
+  "I'm used to living there": "I'm used to living there"
+ },
+ "1-2-6": {
+  "Might": "Might",
+  "could": "could",
+  "It might rain": "It might rain",
+  "She could be right": "She could be right",
+  "to": "to",
+  "will": "will"
+ },
+ "1-2-18": {
+  "Do you know...": "Do you know...",
+  "Could you tell me...": "Could you tell me...",
+  "I wonder...": "I wonder...",
+  "Could you tell me what are you planning?": "Could you tell me what are you planning?",
+  "Could you tell me what you are planning?": "Could you tell me what you are planning?"
+ },
+ "2-0-0": {
+  "if": "if",
+  "would": "would",
+  "If I won the lottery, I would travel the world": "If I won the lottery, I would travel the world"
+ },
+ "2-0-1": {
+  "Wish": "Wish",
+  "wish": "wish",
+  "I wish I had known": "I wish I had known",
+  "She wishes she hadn't said that": "She wishes she hadn't said that"
+ },
+ "2-0-2": {
+  "to be": "to be",
+  "by": "by",
+  "The bills are sent": "The bills are sent",
+  "The budget is checked by an accountant": "The budget is checked by an accountant"
+ },
+ "2-0-3": {
+  "for": "for",
+  "since": "since",
+  "I've been waiting for an hour": "I've been waiting for an hour"
+ },
+ "2-0-4": {
+  "get rid of": "get rid of",
+  "put off": "put off",
+  "deal with": "deal with",
+  "get down to": "get down to",
+  "end up": "end up"
+ },
+ "2-1-1": {
+  "Walking through the streets, we discovered...": "Walking through the streets, we discovered...",
+  "While we were walking...": "While we were walking..."
+ },
+ "2-1-4": {
+  "rarely": "rarely",
+  "never": "never",
+  "seldom": "seldom",
+  "hardly": "hardly",
+  "Never have I seen...": "Never have I seen...",
+  "Rarely does she complain": "Rarely does she complain"
+ },
+ "2-1-11": {
+  "As if": "As if",
+  "as though": "as though",
+  "He talks as if he knew everything": "He talks as if he knew everything",
+  "She looked as though she had seen a ghost": "She looked as though she had seen a ghost"
+ },
+ "2-1-18": {
+  "enjoy": "enjoy",
+  "avoid": "avoid",
+  "keep": "keep",
+  "avoid doing": "avoid doing",
+  "enjoy travelling": "enjoy travelling",
+  "keep trying": "keep trying",
+  "finish packing": "finish packing"
+ },
+ "2-2-0": {
+  "suggest": "suggest",
+  "recommend": "recommend",
+  "important that": "important that",
+  "propose": "propose",
+  "I suggest that he go": "I suggest that he go",
+  "goes": "goes"
+ },
+ "2-2-1": {
+  "It is said that": "It is said that",
+  "He is said to": "He is said to",
+  "She is believed to be in Paris": "She is believed to be in Paris"
+ },
+ "2-2-2": {
+  "if": "if",
+  "Had I known": "Had I known",
+  "If I had known": "If I had known"
+ },
+ "2-2-5": {
+  "Tired as I was, I kept working": "Tired as I was, I kept working",
+  "Strange as it may seem...": "Strange as it may seem...",
+  "although": "although"
+ },
+ "2-2-12": {
+  "Having finished the report, she went home": "Having finished the report, she went home",
+  "After I had realised...": "After I had realised..."
+ }
+}

@@ -546,6 +546,22 @@ function buildIntroSegments(){
 
 // Segments d'un point de grammaire seul (réutilisés à la fois en fin de
 // leçon automatiquement, et pour une lecture autonome depuis la liste).
+// Découpe un texte de point de grammaire : le français est lu par la voix
+// française, les mots cités « … » en langue apprise (tip.say) par la voix native.
+function tipSpeech(text, tip, lab, tx){
+  const map = tip.say || {}, CTX = 'var(--context)', out = [];
+  const re = /«\s*([^»]+?)\s*»/g; let last = 0, m, buf = '';
+  const flush = ()=>{ const t = buf.replace(/\s+/g,' ').trim(); if(/[A-Za-zÀ-ÿ0-9]/.test(t)) out.push(S(t, 'fr', 1, lab, CTX, 'headphones', false, tip.title, '', tx)); buf = ''; };
+  while((m = re.exec(text))){
+    const nat = map[m[1]];
+    if(!nat) continue;
+    buf += text.slice(last, m.index); flush();
+    out.push(S(nat, 'tgt', 0.85, lab, 'var(--target)', 'speaker', false, tip.title, '', tx));
+    last = re.lastIndex;
+  }
+  buf += text.slice(last); flush();
+  return out;
+}
 function buildTipSegments(tip, tipNum){
   const CTX = 'var(--context)';
   const tx = {phase:'tip', tipData: tip, tipNum};
@@ -558,15 +574,15 @@ function buildTipSegments(tip, tipNum){
   // voix française, la partie cible par la voix de la langue apprise.
   const parts = stripHtml(tip.example || '').split(' — ');
   if(parts.length === 2){
-    out.push(S(`${tip.title}.`, 'fr', 1, lab, CTX, 'headphones', false, tip.title, '', tx));
+    out.push(...tipSpeech(`${tip.title}.`, tip, lab, tx));
     out.push(S(`Par exemple : ${parts[0]}`, 'fr', 1, lab, CTX, 'headphones', false, tip.title, '', tx));
     out.push(W(300, lab, CTX, 'headphones', false, tip.title, '', tx));
     out.push(S(parts[1], 'tgt', 0.85, lab, 'var(--target)', 'speaker', false, tip.title, '', tx));
     out.push(W(400, lab, CTX, 'headphones', false, tip.title, '', tx));
     if(tip.lit) out.push(S(`Mot à mot : ${tip.lit}.`, 'fr', 1, lab, CTX, 'headphones', false, tip.title, '', tx));
-    out.push(S(tip.body, 'fr', 1, lab, CTX, 'headphones', false, tip.title, '', tx));
+    out.push(...tipSpeech(tip.body, tip, lab, tx));
   } else {
-    out.push(S(spokenTipText(tip), 'fr', 1, lab, CTX, 'headphones', false, tip.title, '', tx));
+    out.push(...tipSpeech(spokenTipText(tip), tip, lab, tx));
   }
   out.push(W(1500, lab, CTX, 'headphones', false, tip.title, '', tx));
   return out;
