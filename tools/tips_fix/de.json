@@ -1,0 +1,166 @@
+{
+ "0-0-1": {
+  "title": "« Der, die, das » : les articles définis au nominatif",
+  "body": "Contrairement au français, l'allemand a trois genres grammaticaux : masculin (« der »), féminin (« die ») et neutre (« das »). Il faut apprendre le genre de chaque nom par cœur, car il conditionne tous les accords : « der Kaffee » (le café), « die Rechnung » (l'addition), « das Croissant » (le croissant)."
+ },
+ "0-0-4": {
+  "title": "« Haben » au présent",
+  "body": "« Haben » (avoir) est un verbe irrégulier essentiel : « ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie haben ». On le retrouve dans énormément d'expressions figées, comme « Hunger haben » (avoir faim) ou « Glück haben » (avoir de la chance), là où le français utilise souvent « être »."
+ },
+ "0-0-7": {
+  "title": "L'accusatif : le complément d'objet direct",
+  "body": "Le complément d'objet direct se met à l'accusatif. Pour les articles indéfinis, seul le masculin change : « ein » → « einen » (« ich sehe einen Mann »), tandis que le féminin (« eine ») et le neutre (« ein ») restent identiques au nominatif. Même logique pour les articles définis : « der » → « den », « die » → « die », « das » → « das »."
+ },
+ "0-0-13": {
+  "title": "Les verbes à particule séparable",
+  "body": "Beaucoup de verbes allemands sont formés d'un verbe de base et d'une particule qui, à l'infinitif, se colle devant : « ankommen » (arriver), « aufstehen » (se lever), « einkaufen » (faire les courses). Mais dans une phrase simple au présent, cette particule se détache et part à la toute fin de la phrase : « ankommen » → « Der Bus kommt an »."
+ },
+ "0-0-17": {
+  "title": "L'heure officielle en allemand",
+  "body": "Dans les horaires officiels (gares, administrations), l'allemand utilise le système de 0 à 24 heures, exactement comme le français : « vierzehn Uhr fünfzehn » (14h15). À l'oral informel, on dit plutôt « Viertel nach zwei » (et quart après deux heures), sur un cycle de 12 heures, un peu comme en français familier."
+ },
+ "0-1-1": {
+  "title": "Le pluriel irrégulier des noms allemands",
+  "body": "Il n'existe pas de règle unique pour former le pluriel en allemand : « der Zug » devient « die Züge » (avec Umlaut), « das Kind » devient « die Kinder », « der Tisch » devient « die Tische ». Il faut apprendre le pluriel de chaque nom en même temps que son genre, par cœur."
+ },
+ "0-1-4": {
+  "title": "Les modaux « können » et « müssen »",
+  "body": "« Können » (pouvoir) et « müssen » (devoir) sont des verbes modaux : ils s'accordent eux-mêmes (« ich kann, du kannst, er kann » / « ich muss, du musst, er muss ») et renvoient le verbe principal à l'infinitif, tout à la fin de la phrase : « Ich muss ein Zimmer reservieren »."
+ },
+ "0-1-7": {
+  "title": "Les prépositions de lieu simples : « in, auf, nach »",
+  "body": "« In » sert pour un lieu fermé ou une ville/un pays (« in der Stadt, in Deutschland »), « auf » pour une surface ouverte comme une place ou une île (« auf dem Platz, auf der Insel »), et « nach » pour indiquer une direction vers un lieu (« nach München fahren »). Le choix de la préposition change souvent aussi le cas du nom qui suit."
+ },
+ "0-1-13": {
+  "title": "« Kein » et « nicht » : les deux négations",
+  "body": "« Kein » nie un nom précédé d'un article indéfini ou sans article (« kein Problem, keine Zeit ») et se décline comme « ein ». « Nicht » nie tout le reste : un verbe, un adjectif, ou un nom déjà précédé de « der/die/das » (« Das ist nicht mein Mantel »)."
+ },
+ "0-1-18": {
+  "title": "Le pronom indéfini « man »",
+  "body": "« Man » correspond au « on » impersonnel du français : il désigne les gens en général et se conjugue toujours à la troisième personne du singulier (« man muss, man kann, man sagt »). Il ne faut jamais le confondre avec « Mann » (l'homme), qui s'écrit avec deux n."
+ },
+ "0-2-1": {
+  "title": "« Heißen » et « sein » : se présenter",
+  "body": "« Heißen » (s'appeler) se conjugue « ich heiße, du heißt, er/sie heißt ». « Sein » (être) est irrégulier : « ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie sind ». Ensemble, ces deux verbes suffisent pour toute présentation de base."
+ },
+ "0-2-4": {
+  "title": "Les adjectifs possessifs : « mein, dein, sein »",
+  "body": "Les possessifs allemands (« mein, dein, sein, ihr, unser, euer, ihr ») se déclinent comme « ein » : « mein » devant un nom masculin ou neutre au nominatif, « meine » devant un nom féminin ou au pluriel. On dit donc « mein Bruder, meine Wohnung, mein Buch »."
+ },
+ "0-2-7": {
+  "title": "Poser une question avec un mot interrogatif (W-Frage)",
+  "body": "Les questions ouvertes commencent par un mot interrogatif (« was, wer, wann, wo, warum, wie ») suivi immédiatement du verbe conjugué, puis du sujet : « Warum hat dir... » Ce schéma « mot interrogatif + verbe + sujet » est fixe, contrairement au français qui a plusieurs constructions possibles."
+ },
+ "0-2-13": {
+  "title": "Les verbes à particule séparable : « anrufen, einladen »",
+  "body": "« Anrufen » (appeler au téléphone) et « einladen » (inviter) suivent la même règle que les autres verbes à particule séparable : au présent dans une phrase simple, la particule (« an, ein ») se détache du verbe et va à la fin : « Ich rufe dich an. Ich lade dich ein. »"
+ },
+ "0-2-17": {
+  "title": "Dire qu'on aime faire quelque chose : « gern » + verbe",
+  "body": "Pour dire qu'on aime faire quelque chose, l'allemand ajoute simplement l'adverbe « gern » après le verbe conjugué, sans construction particulière : « Ich lese gern » (j'aime lire), « Ich koche gern » (j'aime cuisiner). Le superlatif « am liebsten » exprime la préférence absolue : « Ich koche am liebsten vegetarisch »."
+ },
+ "1-0-1": {
+  "title": "Le datif après des verbes comme « helfen » et « gefallen »",
+  "body": "Certains verbes allemands très courants demandent toujours le datif pour leur complément, même quand le français utilise un complément direct : « helfen » (aider), « gefallen » (plaire), « danken » (remercier). On dit donc « jemandem helfen », et non « jemanden helfen »."
+ },
+ "1-0-4": {
+  "title": "Le Perfekt (passé composé) avec « haben »",
+  "body": "La plupart des verbes allemands forment leur passé (Perfekt) avec « haben » au présent + le participe passé, qui part en fin de phrase : « ich habe gearbeitet, du hast gelernt, er hat gegessen ». C'est le temps le plus utilisé à l'oral pour parler du passé, bien plus que le prétérit."
+ },
+ "1-0-5": {
+  "title": "Le Perfekt avec « sein » : les verbes de mouvement",
+  "body": "Les verbes exprimant un déplacement ou un changement d'état (« fahren, gehen, kommen, bleiben, aufstehen ») forment leur Perfekt avec « sein » et non « haben » : « ich bin gefahren, du bist gekommen, sie ist geblieben ». C'est une exception importante à retenir, car la plupart des autres verbes utilisent « haben »."
+ },
+ "1-0-11": {
+  "title": "Les pronoms personnels à l'accusatif et au datif",
+  "body": "Les pronoms personnels changent de forme selon le cas : à l'accusatif (« mich, dich, ihn/sie/es, uns, euch, sie »), au datif (« mir, dir, ihm/ihr/ihm, uns, euch, ihnen »). Un verbe comme « mitbringen » prend souvent les deux : un datif (à qui) et un accusatif (quoi) : « Kannst du mir das Buch mitbringen? »"
+ },
+ "1-0-18": {
+  "title": "Les prépositions à datif fixe : « mit, bei, nach, aus, zu »",
+  "body": "Certaines prépositions entraînent toujours le datif, sans exception : « mit » (avec), « bei » (chez/près de), « nach » (après/vers), « aus » (de, provenance), « zu » (vers, chez). On dit donc « bei dir, zu euch, aus der Stadt, nach der Arbeit » — à retenir comme un bloc, sans réfléchir au contexte."
+ },
+ "1-1-2": {
+  "title": "Les prépositions mixtes : « in, auf, an » avec accusatif ou datif",
+  "body": "Neuf prépositions (« in, auf, an, über, unter, vor, hinter, neben, zwischen ») prennent le datif pour indiquer un lieu fixe (« où ? », pas de mouvement : « in diesem Gebäude ») mais l'accusatif pour indiquer une destination (« où vers ? », avec mouvement : « Ich gehe in das Gebäude »). C'est la règle la plus importante à retenir pour ces prépositions."
+ },
+ "1-1-4": {
+  "title": "Le comparatif régulier et irrégulier",
+  "body": "Le comparatif régulier ajoute -er à l'adjectif (« schnell » → « schneller », « klein » → « kleiner »), souvent avec un Umlaut si possible (« kalt » → « kälter »). Mais certains adjectifs très courants sont irréguliers : « gut » → « besser », « viel » → « mehr », « gern » → « lieber ». Le complément de comparaison se construit toujours avec « als » : « besser als, schneller als »."
+ },
+ "1-1-7": {
+  "title": "Les modaux « wollen » et « dürfen »",
+  "body": "« Wollen » (vouloir, une intention forte) et « dürfen » (avoir la permission de) sont deux modaux à bien distinguer de « können » (être capable de) et « müssen » (être obligé de) : « Ich will reisen » (je veux voyager, c'est mon choix) contre « Man darf hier campen » (c'est autorisé)."
+ },
+ "1-1-15": {
+  "title": "L'ordre des mots : le verbe en position deux",
+  "body": "Dans une phrase principale allemande, le verbe conjugué occupe toujours la deuxième position, quel que soit l'élément placé en premier : qu'on commence par le sujet, un complément de temps ou de lieu, le verbe reste en deuxième place et le sujet se déplace après si besoin : « Für morgen haben die Eisenbahner einen Streik angekündigt »."
+ },
+ "1-2-1": {
+  "title": "La subordonnée avec « dass »",
+  "body": "« Dass » (que) introduit une subordonnée complétive, exactement comme en français après penser, croire, savoir, espérer. Comme pour « weil », le verbe conjugué part en fin de subordonnée : « Ich denke, dass du Recht hast ». Une virgule sépare toujours la principale de la subordonnée."
+ },
+ "1-2-4": {
+  "title": "Les verbes réfléchis : « sich freuen, sich interessieren »",
+  "body": "Beaucoup de verbes allemands s'emploient avec un pronom réfléchi à l'accusatif (« mich, dich, sich, uns, euch, sich ») : « sich freuen » (se réjouir), « sich interessieren » (s'intéresser), « sich erinnern » (se souvenir). Le pronom réfléchi se place juste après le verbe conjugué : « Ich freue mich, Er interessiert sich für... »"
+ },
+ "1-2-11": {
+  "title": "L'adjectif épithète décliné : « der neue Kollege »",
+  "body": "Quand un adjectif précède directement un nom, il prend une terminaison qui dépend du genre, du cas et de l'article qui précède : « der neue Kollege » (masculin, nominatif, article défini), « ein neuer Kollege » (sans article défini). C'est l'un des points les plus subtils de la grammaire allemande, à pratiquer longuement."
+ },
+ "1-2-13": {
+  "title": "Le génitif simple : « des Freundes »",
+  "body": "Le génitif exprime la possession (l'équivalent du « de » français) et se forme en ajoutant -s (ou -es) au nom masculin ou neutre : « der Mann » → « des Mannes », et en ne changeant rien pour le féminin : « die Familie meiner Mutter ». À l'oral, on remplace souvent le génitif par « von + datif », mais à l'écrit il reste très utilisé."
+ },
+ "1-2-17": {
+  "title": "Les conjonctions « obwohl » et « wenn »",
+  "body": "« Obwohl » (bien que, même si) introduit une concession et, comme « weil » ou « dass », envoie le verbe conjugué en fin de subordonnée. « Wenn » (si, quand) fonctionne de la même façon pour une condition ou une répétition : « Wenn alle Zeit haben, könnten wir... » Dans les deux cas, si la subordonnée est en premier, le verbe de la principale suit juste après la virgule."
+ },
+ "2-0-0": {
+  "title": "Le Konjunktiv II de politesse : « Ich hätte gern », « Könnten Sie »",
+  "body": "Le Konjunktiv II de « haben » (« hätte »), « können » (« könnte ») et « werden » (« würde ») sert à formuler une demande polie ou un souhait atténué, exactement comme le conditionnel français : « Ich hätte gern... » (je voudrais bien), « Könnten Sie...? » (pourriez-vous...?). C'est la forme la plus utilisée dans les échanges professionnels ou formels."
+ },
+ "2-0-2": {
+  "title": "Le passif au présent : « wird » + participe passé",
+  "body": "Le passif allemand se forme avec « werden » conjugué + le participe passé, qui part en fin de phrase : « Die Noten werden mitgeteilt » (les notes sont communiquées). On l'utilise quand l'action compte plus que celui qui l'accomplit — très fréquent dans un cadre administratif ou institutionnel."
+ },
+ "2-0-4": {
+  "title": "Le discours indirect simple : Konjunktiv I",
+  "body": "Pour rapporter les paroles de quelqu'un de façon plus formelle (presse, discours indirect écrit), l'allemand utilise le Konjunktiv I : « sein » → « er sei », « haben » → « er habe », « kommen » → « er komme ». À l'oral courant, on utilise souvent simplement l'indicatif avec « dass », mais le Konjunktiv I reste très présent à l'écrit."
+ },
+ "2-0-7": {
+  "title": "Les subordonnées relatives : « der, die, das » comme pronom relatif",
+  "body": "Les pronoms relatifs allemands (« der, die, das », selon le genre et le cas de l'antécédent) introduisent une subordonnée qui envoie, comme toujours, le verbe en fin de proposition. Ils sont toujours encadrés par des virgules, et prennent le cas qui correspond à leur fonction dans la relative (nominatif, accusatif, datif ou génitif)."
+ },
+ "2-1-1": {
+  "title": "Le passif au passé : « wurde » + participe passé",
+  "body": "Pour mettre le passif au passé (Präteritum, le temps préféré du passif à l'écrit), on utilise « wurde » (au lieu de « wird ») + le participe passé en fin de phrase : « Die Mauer wurde errichtet » (le mur a été construit). C'est la forme la plus naturelle pour raconter des faits historiques."
+ },
+ "2-1-3": {
+  "title": "Le Konjunktiv II pour l'irréel : « Wenn ich... wäre, würde ich... »",
+  "body": "Pour exprimer une condition irréelle ou hypothétique (« si j'étais... »), l'allemand combine « wenn » + Konjunktiv II dans la subordonnée, et « würde » + infinitif (ou le Konjunktiv II direct pour « haben/sein »/les modaux) dans la principale : « Wenn ich Zeit hätte, würde ich bleiben »."
+ },
+ "2-1-6": {
+  "title": "Les verbes complexes de déplacement avec particule",
+  "body": "L'allemand est très précis sur la direction d'un déplacement grâce à des particules composées : « hinauf » (vers le haut, en s'éloignant du locuteur), « hinab/hinunter » (vers le bas), « hinüber » (de l'autre côté). Ces verbes (« hinaufsteigen, hinabsteigen ») se conjuguent avec « sein » au Perfekt, comme tous les verbes de mouvement."
+ },
+ "2-1-11": {
+  "title": "« Obwohl » et « trotzdem » : nuancer une opposition",
+  "body": "« Obwohl » (bien que) introduit une subordonnée et envoie le verbe en fin de proposition, comme « weil » ou « dass ». « Trotzdem » (malgré cela, néanmoins), en revanche, commence une phrase principale indépendante et occupe la première place, suivi directement du verbe en position deux : « Trotzdem bleibt die Stimmung fröhlich »."
+ },
+ "2-1-17": {
+  "title": "Les adjectifs substantivés : « das Neue, der Deutsche »",
+  "body": "En allemand, un adjectif peut devenir un nom en prenant une majuscule et la terminaison de l'adjectif épithète correspondant au genre et au cas : « der Neue » (le nouveau), « das Neue » (la nouveauté, la chose nouvelle), « der Alte » (le vieil homme). Ces formes sont très fréquentes pour désigner une personne ou une idée abstraite sans répéter le nom."
+ },
+ "2-2-0": {
+  "title": "Le Konjunktiv II pour exprimer un souhait : « Ich wünschte, ... »",
+  "body": "« Ich wünschte » (littéralement « je souhaitais », mais au sens d'un souhait actuel irréalisable ou difficile) s'emploie toujours avec le Konjunktiv II dans la proposition qui suit : « Ich wünschte, ich hätte mehr Zeit » (j'aimerais avoir plus de temps). C'est une structure typique pour exprimer un regret ou un vœu sur une situation présente."
+ },
+ "2-2-2": {
+  "title": "Le discours indirect avec Konjunktiv I, en profondeur",
+  "body": "Au Konjunktiv I, le verbe prend la terminaison -e à toutes les personnes du singulier (« er komme, er habe, er sei »), ce qui le distingue clairement de l'indicatif. Cette forme marque une distance ou une nuance : on rapporte les propos de quelqu'un sans forcément les valider soi-même, un usage très courant dans la presse et les récits plus soutenus."
+ },
+ "2-2-11": {
+  "title": "Les particules modales : « doch, mal, eben »",
+  "body": "Les particules modales (« doch, mal, eben, ja, halt ») n'ont pas de traduction fixe : elles nuancent le ton d'une phrase plutôt que son sens. « Doch » insiste ou contredit doucement, « mal » adoucit une demande ou une suggestion (« Komm mal her »), « eben » marque une évidence résignée. Elles sont essentielles pour sonner naturel à l'oral, même si elles sont difficiles à traduire littéralement."
+ }
+}

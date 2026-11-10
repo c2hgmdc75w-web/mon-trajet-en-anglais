@@ -7,7 +7,8 @@
   "hôm qua tôi ăn phở": "hôm qua tôi ăn phở",
   "tôi đi": "tôi đi",
   "chúng tôi đi": "chúng tôi đi",
-  "ngày mai tôi đi": "ngày mai tôi đi"
+  "ngày mai tôi đi": "ngày mai tôi đi",
+  "phở": "phở"
  },
  "0-0-1": {
   "ma": "ma",
@@ -28,7 +29,8 @@
   "tôi": "tôi",
   "khách du lịch": "khách du lịch",
   "đây là hồ Hoàn Kiếm": "đây là hồ Hoàn Kiếm",
-  "tên tôi là Lucie": "tên tôi là Lucie"
+  "tên tôi là Lucie": "tên tôi là Lucie",
+  "Hoàn Kiếm": "Hoàn Kiếm"
  },
  "0-0-3": {
   "Không": "Không",
@@ -47,7 +49,8 @@
   "ngon": "ngon",
   "không ngon": "không ngon",
   "có … không ?": "có … không ?",
-  "có phở gà không ?": "có phở gà không ?"
+  "có phở gà không ?": "có phở gà không ?",
+  "phở": "phở"
  },
  "0-0-5": {
   "tôi": "tôi",
@@ -69,7 +72,8 @@
   "chìa khóa của bà chủ nhà": "chìa khóa của bà chủ nhà",
   "gia đình tôi": "gia đình tôi",
   "bạn tôi": "bạn tôi",
-  "của chị hàng xóm": "của chị hàng xóm"
+  "của chị hàng xóm": "của chị hàng xóm",
+  "sách của tôi": "sách của tôi"
  },
  "0-0-7": {
   "tôi mệt": "tôi mệt",
@@ -148,7 +152,9 @@
   "Chợ ở cuối phố": "Chợ ở cuối phố",
   "đâu": "đâu",
   "hồ Hoàn Kiếm ở đâu ?": "hồ Hoàn Kiếm ở đâu ?",
-  "là": "là"
+  "là": "là",
+  "Hàng Gai": "Hàng Gai",
+  "Hoàn Kiếm": "Hoàn Kiếm"
  },
  "0-0-14": {
   "giờ": "giờ",
@@ -175,7 +181,8 @@
   "bạn uống gì ?": "bạn uống gì ?",
   "bạn đi với ai ?": "bạn đi với ai ?",
   "Mấy": "Mấy",
-  "cháu mấy tuổi ?": "cháu mấy tuổi ?"
+  "cháu mấy tuổi ?": "cháu mấy tuổi ?",
+  "gì, đâu, ai, mấy": "gì, đâu, ai, mấy"
  },
  "0-0-16": {
   "Cũng": "Cũng",
@@ -185,7 +192,8 @@
   "chúng tôi đều thích phở": "chúng tôi đều thích phở",
   "tôi cũng vậy": "tôi cũng vậy",
   "nào": "nào",
-  "sáng nào tôi cũng đi làm": "sáng nào tôi cũng đi làm"
+  "sáng nào tôi cũng đi làm": "sáng nào tôi cũng đi làm",
+  "phở": "phở"
  },
  "0-0-17": {
   "Muốn": "Muốn",
@@ -214,7 +222,8 @@
   "Xin lỗi": "Xin lỗi",
   "không sao": "không sao",
   "không sao đâu": "không sao đâu",
-  "đâu": "đâu"
+  "đâu": "đâu",
+  "xin chào, cảm ơn, xin lỗi, không sao": "xin chào, cảm ơn, xin lỗi, không sao"
  },
  "0-1-1": {
   "Hôm nay": "Hôm nay",
@@ -227,7 +236,8 @@
   "hôm nay trời đẹp": "hôm nay trời đẹp",
   "sáng mai": "sáng mai",
   "tối qua": "tối qua",
-  "qua": "qua"
+  "qua": "qua",
+  "Bến Thành": "Bến Thành"
  },
  "0-1-3": {
   "Làm ơn": "Làm ơn",
@@ -260,7 +270,8 @@
   "từ sáu giờ đến chín giờ": "từ sáu giờ đến chín giờ",
   "từ thứ hai đến thứ sáu": "từ thứ hai đến thứ sáu",
   "mất": "mất",
-  "từ Sài Gòn đến Mũi Né mất bao lâu ?": "từ Sài Gòn đến Mũi Né mất bao lâu ?"
+  "từ Sài Gòn đến Mũi Né mất bao lâu ?": "từ Sài Gòn đến Mũi Né mất bao lâu ?",
+  "Mũi Né": "Mũi Né"
  },
  "0-1-9": {
   "Đã": "Đã",
@@ -280,7 +291,8 @@
   "tiếng Việt nói thế nào ?": "tiếng Việt nói thế nào ?",
   "đi thẳng": "đi thẳng",
   "rẽ trái": "rẽ trái",
-  "rẽ phải": "rẽ phải"
+  "rẽ phải": "rẽ phải",
+  "Bến Thành": "Bến Thành"
  },
  "0-1-13": {
   "Có thể": "Có thể",
@@ -308,7 +320,8 @@
   "xe": "xe",
   "xe máy": "xe máy",
   "xe buýt": "xe buýt",
-  "xe ôm": "xe ôm"
+  "xe ôm": "xe ôm",
+  "đi xe máy, đi tàu": "đi xe máy, đi tàu"
  },
  "0-1-17": {
   "Xa": "Xa",
@@ -344,7 +357,8 @@
   "người Pháp": "người Pháp",
   "Tôi là người Pháp": "Tôi là người Pháp",
   "mình là người Huế": "mình là người Huế",
-  "là": "là"
+  "là": "là",
+  "Huế": "Huế"
  },
  "0-2-3": {
   "Thích": "Thích",
@@ -357,7 +371,8 @@
   "bạn có thích cà phê không ?": "bạn có thích cà phê không ?",
   "hơn": "hơn",
   "thích cà phê đá hơn": "thích cà phê đá hơn",
-  "thích": "thích"
+  "thích": "thích",
+  "Huế": "Huế"
  },
  "0-2-5": {
   "Bố": "Bố",
@@ -368,7 +383,8 @@
   "em": "em",
   "trai": "trai",
   "gái": "gái",
-  "em gái": "em gái"
+  "em gái": "em gái",
+  "bố, mẹ, anh, chị, em": "bố, mẹ, anh, chị, em"
  },
  "0-2-7": {
   "Đang": "Đang",
@@ -385,7 +401,10 @@
   "Huế yên tĩnh hơn Hà Nội": "Huế yên tĩnh hơn Hà Nội",
   "bún bò cay hơn phở": "bún bò cay hơn phở",
   "rẻ hơn": "rẻ hơn",
-  "cái này ngon hơn": "cái này ngon hơn"
+  "cái này ngon hơn": "cái này ngon hơn",
+  "Huế": "Huế",
+  "bún bò": "bún bò",
+  "phở": "phở"
  },
  "0-2-11": {
   "Vì… nên…": "Vì… nên…",
@@ -413,7 +432,8 @@
   "mình mua hoa quả cho mẹ bạn": "mình mua hoa quả cho mẹ bạn",
   "cho em hai bát bún bò": "cho em hai bát bún bò",
   "xin": "xin",
-  "cho mình xin ít muối": "cho mình xin ít muối"
+  "cho mình xin ít muối": "cho mình xin ít muối",
+  "bún bò": "bún bò"
  },
  "0-2-17": {
   "Quá": "Quá",
@@ -424,7 +444,8 @@
   "bát bún bò này ngon lắm": "bát bún bò này ngon lắm",
   "không xa lắm": "không xa lắm",
   "quá": "quá",
-  "rất": "rất"
+  "rất": "rất",
+  "bún bò": "bún bò"
  },
  "0-2-19": {
   "À": "À",
@@ -432,7 +453,8 @@
   "Nhỉ": "Nhỉ",
   "tiếng Việt hay nhỉ ?": "tiếng Việt hay nhỉ ?",
   "Mà": "Mà",
-  "bạn làm được mà !": "bạn làm được mà !"
+  "bạn làm được mà !": "bạn làm được mà !",
+  "à, nhỉ, mà": "à, nhỉ, mà"
  },
  "1-0-1": {
   "Được": "Được",
@@ -681,7 +703,8 @@
   "như": "như",
   "chậm như rùa": "chậm như rùa",
   "vui như Tết": "vui như Tết",
-  "tay bắt mặt mừng": "tay bắt mặt mừng"
+  "tay bắt mặt mừng": "tay bắt mặt mừng",
+  "Tết": "Tết"
  },
  "2-2-2": {
   "ăn cơm chưa": "ăn cơm chưa",

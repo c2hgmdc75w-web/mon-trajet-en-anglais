@@ -2,7 +2,10 @@
  "0-0-1": {
   "Il/la": "il, la",
   "il": "il",
-  "la": "la"
+  "la": "la",
+  "il servizio, il conto": "il servizio, il conto",
+  "la mozzarella": "la mozzarella",
+  "lo, l', i, gli, le": "lo, l', i, gli, le"
  },
  "0-0-3": {
   "Vorrei": "Vorrei",
@@ -224,5 +227,15 @@
  "2-2-18": {
   "alla fine dei conti": "alla fine dei conti",
   "Alla fine dei conti": "Alla fine dei conti"
+ },
+ "0-0-6": {
+  "pomodoro": "pomodoro",
+  "pomodori": "pomodori",
+  "panino": "panino",
+  "panini": "panini",
+  "pizza": "pizza",
+  "pizze": "pizze",
+  "mela": "mela",
+  "mele": "mele"
  }
 }

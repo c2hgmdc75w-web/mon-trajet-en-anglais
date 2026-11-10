@@ -63,7 +63,8 @@
   "jesteśmy": "jesteśmy",
   "jesteście": "jesteście",
   "są": "są",
-  "szef jest na spotkaniu": "szef jest na spotkaniu"
+  "szef jest na spotkaniu": "szef jest na spotkaniu",
+  "jestem, jesteś, jest": "jestem, jesteś, jest"
  },
  "0-0-7": {
   "ser": "ser",
@@ -89,7 +90,8 @@
   "Żurek jest dobry": "Żurek jest dobry",
   "Zupa jest dobra": "Zupa jest dobra",
   "Danie jest dobre": "Danie jest dobre",
-  "pierogi są dobre": "pierogi są dobre"
+  "pierogi są dobre": "pierogi są dobre",
+  "żurek": "żurek"
  },
  "0-0-10": {
   "Mieć": "Mieć",
@@ -219,7 +221,8 @@
   "Jutro jadę do Wieliczki": "Jutro jadę do Wieliczki",
   "Dzisiaj zwiedzam": "Dzisiaj zwiedzam",
   "Wczoraj było zimno": "Wczoraj było zimno",
-  "do jutra": "do jutra"
+  "do jutra": "do jutra",
+  "Wieliczka": "Wieliczka"
  },
  "0-1-3": {
   "Poproszę": "Poproszę",
@@ -267,7 +270,8 @@
   "w hotelu": "w hotelu",
   "na dworcu": "na dworcu",
   "na Wawelu": "na Wawelu",
-  "Jestem na rynku": "Jestem na rynku"
+  "Jestem na rynku": "Jestem na rynku",
+  "Wawel": "Wawel"
  },
  "0-1-11": {
   "Jak dojść ?": "Jak dojść?",
@@ -282,7 +286,8 @@
   "proszę iść prosto": "proszę iść prosto",
   "w lewo": "w lewo",
   "w prawo": "w prawo",
-  "jak": "jak"
+  "jak": "jak",
+  "Wawel": "Wawel"
  },
  "0-1-13": {
   "Mogę": "Mogę",
@@ -318,7 +323,8 @@
   "blisko rynku": "blisko rynku",
   "niedaleko": "niedaleko",
   "Wieliczka jest niedaleko Krakowa": "Wieliczka jest niedaleko Krakowa",
-  "dalej": "dalej"
+  "dalej": "dalej",
+  "Wieliczka": "Wieliczka"
  },
  "0-1-19": {
   "Nie ma": "Nie ma",
@@ -394,7 +400,8 @@
   "ma pan": "ma pan",
   "masz": "masz",
   "przejdźmy na ty": "przejdźmy na ty",
-  "z przyjemnością": "z przyjemnością"
+  "z przyjemnością": "z przyjemnością",
+  "Wrocław": "Wrocław"
  },
  "0-2-11": {
   "Bo": "Bo",
@@ -605,7 +612,12 @@
   "panie": "panie",
   "pani": "pani",
   "panie Tomku, dziękujemy za gościnę": "panie Tomku, dziękujemy za gościnę",
-  "mamo": "mamo"
+  "mamo": "mamo",
+  "Kasia": "Kasia",
+  "Ania": "Ania",
+  "Marek": "Marek",
+  "Ewa": "Ewa",
+  "Tomek": "Tomek"
  },
  "2-0-0": {
   "chciałbym": "chciałbym",

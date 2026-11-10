@@ -1,16 +1,39 @@
 {
  "0-0-1": {
-  "O, a, um, uma": "O, a, um, uma"
+  "O, a, um, uma": "O, a, um, uma",
+  "o, a, os, as": "o, a, os, as",
+  "um, uma": "um, uma",
+  "o café, a bica, um pastel, uma tosta, os pastéis": "o café, a bica, um pastel, uma tosta, os pastéis",
+  "a ponte": "a ponte",
+  "a viagem": "a viagem"
  },
  "0-0-4": {
   "Ser": "Ser",
   "estar": "estar",
   "Estar": "Estar",
   "O meu vizinho é simpático": "O meu vizinho é simpático",
-  "Hoje está muito simpático": "Hoje está muito simpático"
+  "Hoje está muito simpático": "Hoje está muito simpático",
+  "sou francês, a Graça é calma": "sou francês, a Graça é calma",
+  "estou cansado, o café está frio": "estou cansado, o café está frio"
  },
  "0-0-7": {
-  "no, na, do, da, ao": "no, na, do, da, ao"
+  "no, na, do, da, ao": "no, na, do, da, ao",
+  "Em": "Em",
+  "o": "o",
+  "no": "no",
+  "em": "em",
+  "a": "a",
+  "na": "na",
+  "no mercado, na padaria": "no mercado, na padaria",
+  "De": "De",
+  "do": "do",
+  "de": "de",
+  "da": "da",
+  "do bairro, da Graça": "do bairro, da Graça",
+  "A": "A",
+  "ao": "ao",
+  "à": "à",
+  "vou ao mercado, vou à pastelaria": "vou ao mercado, vou à pastelaria"
  },
  "0-0-13": {
   "Tu": "Tu",
@@ -19,13 +42,17 @@
   "Quer um café?": "Quer um café?",
   "Pode ajudar-me?": "Pode ajudar-me?",
   "você": "você",
-  "tratar por tu": "tratar por tu"
+  "tratar por tu": "tratar por tu",
+  "queres, podes, estás": "queres, podes, estás"
  },
  "0-0-17": {
   "Ter": "Ter",
   "há": "há",
   "tem": "tem",
-  "há uma pastelaria aqui": "há uma pastelaria aqui"
+  "há uma pastelaria aqui": "há uma pastelaria aqui",
+  "tenho, tens, tem, temos, têm": "tenho, tens, tem, temos, têm",
+  "tens um carregador?": "tens um carregador?",
+  "há um problema, há muitos turistas, não há rede": "há um problema, há muitos turistas, não há rede"
  },
  "0-1-1": {
   "Queria…": "Queria…",
@@ -38,7 +65,8 @@
   "ir": "ir",
   "Vou apanhar o comboio": "Vou apanhar o comboio",
   "Vais gostar do Porto": "Vais gostar do Porto",
-  "Vamos jantar na Ribeira": "Vamos jantar na Ribeira"
+  "Vamos jantar na Ribeira": "Vamos jantar na Ribeira",
+  "vou, vais, vai, vamos, vão": "vou, vais, vai, vamos, vão"
  },
  "0-1-7": {
   "Quanto custa?": "Quanto custa?",
@@ -49,7 +77,8 @@
   "duas": "duas",
   "e": "e",
   "três euros e cinquenta": "três euros e cinquenta",
-  "um euro e vinte": "um euro e vinte"
+  "um euro e vinte": "um euro e vinte",
+  "dois postais, duas bicas": "dois postais, duas bicas"
  },
  "0-1-13": {
   "Em": "Em",
@@ -60,26 +89,55 @@
   "no Porto": "no Porto",
   "ao Porto": "ao Porto",
   "para o Porto": "para o Porto",
-  "do Porto": "do Porto"
+  "do Porto": "do Porto",
+  "estou em Braga": "estou em Braga",
+  "vou a Guimarães": "vou a Guimarães",
+  "volto para casa": "volto para casa",
+  "sou de Lyon": "sou de Lyon"
  },
  "0-2-1": {
-  "O meu, a minha": "O meu, a minha"
+  "O meu, a minha": "O meu, a minha",
+  "o meu irmão, a minha casa, os teus pais, as tuas amigas": "o meu irmão, a minha casa, os teus pais, as tuas amigas"
  },
  "0-2-4": {
-  "Gostar de": "Gostar de"
+  "Gostar de": "Gostar de",
+  "gostar de": "gostar de",
+  "de": "de",
+  "o": "o",
+  "do": "do",
+  "a": "a",
+  "da": "da",
+  "Gosto de fado, gostas do Porto?, gosto muito da praia": "Gosto de fado, gostas do Porto?, gosto muito da praia",
+  "gosto de nadar": "gosto de nadar"
  },
  "0-2-7": {
-  "O que, Qual, Como, Onde, Quando": "O que, Qual, Como, Onde, Quando"
+  "O que, Qual, Como, Onde, Quando": "O que, Qual, Como, Onde, Quando",
+  "O que": "O que",
+  "O que fazes?": "O que fazes?",
+  "como": "como",
+  "Como te chamas?": "Como te chamas?",
+  "onde": "onde",
+  "Onde moras?": "Onde moras?",
+  "quando": "quando",
+  "Quando chegas?": "Quando chegas?",
+  "Qual": "Qual",
+  "ser": "ser",
+  "Qual é o teu prato preferido?": "Qual é o teu prato preferido?"
  },
  "0-2-13": {
   "É que": "É que",
-  "Onde é que moras?": "Onde é que moras?"
+  "Onde é que moras?": "Onde é que moras?",
+  "é que": "é que",
+  "Onde é que moras?, O que é que queres?, Quando é que chegas?": "Onde é que moras?, O que é que queres?, Quando é que chegas?"
  },
  "1-0-1": {
   "pretérito perfeito": "pretérito perfeito",
   "nós": "nós",
   "falámos": "falámos",
-  "falamos": "falamos"
+  "falamos": "falamos",
+  "falei, falaste, falou, falámos, falaram": "falei, falaste, falou, falámos, falaram",
+  "comi, comeste, comeu": "comi, comeste, comeu",
+  "abri, abriste, abriu": "abri, abriste, abriu"
  },
  "1-0-4": {
   "fui, fiz, tive, estive": "fui, fiz, tive, estive",
@@ -91,7 +149,11 @@
   "Fui ao médico": "Fui ao médico",
   "Fiz o jantar": "Fiz o jantar",
   "Estive em casa": "Estive em casa",
-  "foi": "foi"
+  "foi": "foi",
+  "fui, foste, foi, fomos, foram": "fui, foste, foi, fomos, foram",
+  "fiz, fizeste, fez": "fiz, fizeste, fez",
+  "tive, tiveste, teve": "tive, tiveste, teve",
+  "estive, estiveste, esteve": "estive, estiveste, esteve"
  },
  "1-0-5": {
   "estar a": "estar a",
@@ -107,7 +169,9 @@
   "ir": "ir",
   "era": "era",
   "ia": "ia",
-  "Ao domingo íamos à praia": "Ao domingo íamos à praia"
+  "Ao domingo íamos à praia": "Ao domingo íamos à praia",
+  "eu apanhava, nós jogávamos": "eu apanhava, nós jogávamos",
+  "eu comia, ele vivia": "eu comia, ele vivia"
  },
  "1-0-18": {
   "Liga-me": "Liga-me",
@@ -193,7 +257,17 @@
   "na minha opinião": "na minha opinião"
  },
  "1-2-4": {
-  "muito": "muito"
+  "muito": "muito",
+  "animado": "animado",
+  "animadíssimo": "animadíssimo",
+  "lindo": "lindo",
+  "lindíssimo": "lindíssimo",
+  "cheio": "cheio",
+  "cheíssimo": "cheíssimo",
+  "fácil": "fácil",
+  "facílimo": "facílimo",
+  "difícil": "difícil",
+  "dificílimo": "dificílimo"
  },
  "1-2-11": {
   "Gostava de…": "Gostava de…",
@@ -228,7 +302,13 @@
   "esperar que": "esperar que",
   "talvez": "talvez",
   "oxalá": "oxalá",
-  "Talvez chova amanhã": "Talvez chova amanhã"
+  "Talvez chova amanhã": "Talvez chova amanhã",
+  "tenho": "tenho",
+  "tenha": "tenha",
+  "faço": "faço",
+  "faça": "faça",
+  "digo": "digo",
+  "diga": "diga"
  },
  "2-0-2": {
   "Quando eu tiver… / Se puderes…": "Quando eu tiver… / Se puderes…",
@@ -239,7 +319,13 @@
   "quando tiver": "quando tiver",
   "se puderes": "se puderes",
   "Quando chegares, liga-me": "Quando chegares, liga-me",
-  "Se fizer sol, vamos à praia": "Se fizer sol, vamos à praia"
+  "Se fizer sol, vamos à praia": "Se fizer sol, vamos à praia",
+  "tiveram": "tiveram",
+  "tiver": "tiver",
+  "puderam": "puderam",
+  "puder": "puder",
+  "viram": "viram",
+  "vir": "vir"
  },
  "2-0-4": {
   "Para fazermos / antes de eles chegarem": "Para fazermos / antes de eles chegarem",
@@ -250,7 +336,10 @@
   "para fazermos": "para fazermos",
   "antes de eles chegarem": "antes de eles chegarem",
   "depois de jantarmos": "depois de jantarmos",
-  "É melhor saíres já": "É melhor saíres já"
+  "É melhor saíres já": "É melhor saíres já",
+  "tu": "tu",
+  "nós": "nós",
+  "eles": "eles"
  },
  "2-0-7": {
   "Foi construído / vende-se": "Foi construído / vende-se",
@@ -267,7 +356,13 @@
   "se": "se",
   "Se eu tivesse tempo…": "Se eu tivesse tempo…",
   "compraria": "compraria",
-  "Se tivesse dinheiro, comprava uma casa": "Se tivesse dinheiro, comprava uma casa"
+  "Se tivesse dinheiro, comprava uma casa": "Se tivesse dinheiro, comprava uma casa",
+  "tiveram": "tiveram",
+  "tivesse": "tivesse",
+  "fizeram": "fizeram",
+  "fizesse": "fizesse",
+  "foram": "foram",
+  "fosse": "fosse"
  },
  "2-1-1": {
   "tinha + particípio": "tinha + particípio",
@@ -377,5 +472,31 @@
   "Quem me dera ter férias!": "Quem me dera ter férias!",
   "que": "que",
   "Quem me dera que viesses comigo!": "Quem me dera que viesses comigo!"
+ },
+ "0-1-18": {
+  "avião": "avião",
+  "aviões": "aviões",
+  "informação": "informação",
+  "informações": "informações",
+  "pão": "pão",
+  "pães": "pães",
+  "cão": "cão",
+  "cães": "cães",
+  "mão": "mão",
+  "mãos": "mãos",
+  "jornal": "jornal",
+  "jornais": "jornais",
+  "hotel": "hotel",
+  "hotéis": "hotéis",
+  "painel": "painel",
+  "painéis": "painéis"
+ },
+ "0-2-17": {
+  "Um bocado": "Um bocado",
+  "um bocadinho": "um bocadinho",
+  "um minuto": "um minuto",
+  "um minutinho": "um minutinho",
+  "um café": "um café",
+  "um cafezinho": "um cafezinho"
  }
 }

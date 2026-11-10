@@ -41,6 +41,8 @@ for (const [code, [file, key]] of Object.entries(SRC)) {
   let phrases = 0, tips = 0, says = 0;
   // Mots cités « … » dans les points de grammaire à faire lire par la voix native :
   // tools/tips_say/<code>.json = { "<niveau>-<module>-<leçon>": { "<passage>": "<texte natif>" } }
+  // Corrections de points de grammaire (titre/texte réécrits) : tools/tips_fix/<code>.json = { "<niveau>-<module>-<leçon>": { title?, body? } }
+  let FIX = {}; try { FIX = JSON.parse(fs.readFileSync(path.join(__dirname, 'tips_fix', code + '.json'), 'utf8')); } catch (e) {}
   let SAY = {}; try { SAY = JSON.parse(fs.readFileSync(path.join(__dirname, 'tips_say', code + '.json'), 'utf8')); } catch (e) {}
   const levels = ctx.__L.map((lv, a) => ({
     id: lv.id, name: lv.name, freeLessonsPerModule: lv.freeLessonsPerModule,
@@ -55,6 +57,7 @@ for (const [code, [file, key]] of Object.entries(SRC)) {
         }) };
         if (l.tip) { lesson.tip = { title: l.tip.title, example: l.tip.example, body: l.tip.body };
           if (l.tip.exampleRo) lesson.tip.exampleRo = l.tip.exampleRo; if (l.tip.lit) lesson.tip.lit = l.tip.lit; tips++;
+          const fx = FIX[`${a}-${b}-${c}`]; if (fx) { if (fx.title) lesson.tip.title = fx.title; if (fx.body) lesson.tip.body = fx.body; if (fx.example) lesson.tip.example = fx.example; }
           const sy = SAY[`${a}-${b}-${c}`]; if (sy && Object.keys(sy).length) { lesson.tip.say = sy; says += Object.keys(sy).length; } }
         return lesson;
       })

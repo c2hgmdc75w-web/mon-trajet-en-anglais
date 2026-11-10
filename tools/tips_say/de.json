@@ -1,74 +1,131 @@
 {
  "0-0-1": {
-  "Der, die, das": "Der, die, das"
+  "Der, die, das": "Der, die, das",
+  "der": "der",
+  "die": "die",
+  "das": "das",
+  "der Kaffee": "der Kaffee",
+  "die Rechnung": "die Rechnung",
+  "das Croissant": "das Croissant"
  },
  "0-0-4": {
-  "Haben": "Haben"
+  "Haben": "Haben",
+  "ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie haben": "ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie haben",
+  "Hunger haben": "Hunger haben",
+  "Glück haben": "Glück haben"
  },
  "0-0-17": {
-  "Viertel nach zwei": "Viertel nach zwei"
+  "Viertel nach zwei": "Viertel nach zwei",
+  "vierzehn Uhr fünfzehn": "vierzehn Uhr fünfzehn"
  },
  "0-1-4": {
   "können": "können",
   "müssen": "müssen",
-  "Können": "Können"
+  "Können": "Können",
+  "ich kann, du kannst, er kann": "ich kann, du kannst, er kann",
+  "ich muss, du musst, er muss": "ich muss, du musst, er muss",
+  "Ich muss ein Zimmer reservieren": "Ich muss ein Zimmer reservieren"
  },
  "0-1-7": {
   "In": "In",
   "auf": "auf",
-  "nach": "nach"
+  "nach": "nach",
+  "in, auf, nach": "in, auf, nach",
+  "in der Stadt, in Deutschland": "in der Stadt, in Deutschland",
+  "auf dem Platz, auf der Insel": "auf dem Platz, auf der Insel",
+  "nach München fahren": "nach München fahren"
  },
  "0-1-13": {
   "Kein": "Kein",
   "nicht": "nicht",
   "ein": "ein",
   "Nicht": "Nicht",
-  "der/die/das": "der, die, das"
+  "der/die/das": "der, die, das",
+  "kein Problem, keine Zeit": "kein Problem, keine Zeit",
+  "Das ist nicht mein Mantel": "Das ist nicht mein Mantel"
  },
  "0-1-18": {
   "man": "man",
   "Man": "Man",
-  "Mann": "Mann"
+  "Mann": "Mann",
+  "man muss, man kann, man sagt": "man muss, man kann, man sagt"
  },
  "0-2-1": {
   "Heißen": "Heißen",
   "sein": "sein",
-  "Sein": "Sein"
+  "Sein": "Sein",
+  "ich heiße, du heißt, er/sie heißt": "ich heiße, du heißt, er/sie heißt",
+  "ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie sind": "ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie sind"
  },
  "0-2-4": {
-  "ein": "ein"
+  "ein": "ein",
+  "mein, dein, sein": "mein, dein, sein",
+  "mein, dein, sein, ihr, unser, euer, ihr": "mein, dein, sein, ihr, unser, euer, ihr",
+  "mein": "mein",
+  "meine": "meine",
+  "mein Bruder, meine Wohnung, mein Buch": "mein Bruder, meine Wohnung, mein Buch"
  },
  "0-2-13": {
   "Anrufen": "Anrufen",
-  "einladen": "einladen"
+  "einladen": "einladen",
+  "anrufen, einladen": "anrufen, einladen",
+  "an, ein": "an, ein",
+  "Ich rufe dich an. Ich lade dich ein.": "Ich rufe dich an. Ich lade dich ein."
  },
  "0-2-17": {
   "gern": "gern",
-  "am liebsten": "am liebsten"
+  "am liebsten": "am liebsten",
+  "Ich lese gern": "Ich lese gern",
+  "Ich koche gern": "Ich koche gern",
+  "Ich koche am liebsten vegetarisch": "Ich koche am liebsten vegetarisch"
  },
  "1-0-1": {
   "helfen": "helfen",
-  "gefallen": "gefallen"
+  "gefallen": "gefallen",
+  "danken": "danken",
+  "jemandem helfen": "jemandem helfen",
+  "jemanden helfen": "jemanden helfen"
  },
  "1-0-4": {
-  "haben": "haben"
+  "haben": "haben",
+  "ich habe gearbeitet, du hast gelernt, er hat gegessen": "ich habe gearbeitet, du hast gelernt, er hat gegessen"
  },
  "1-0-5": {
   "sein": "sein",
-  "haben": "haben"
+  "haben": "haben",
+  "fahren, gehen, kommen, bleiben, aufstehen": "fahren, gehen, kommen, bleiben, aufstehen",
+  "ich bin gefahren, du bist gekommen, sie ist geblieben": "ich bin gefahren, du bist gekommen, sie ist geblieben"
  },
  "1-0-11": {
-  "mitbringen": "mitbringen"
+  "mitbringen": "mitbringen",
+  "mich, dich, ihn/sie/es, uns, euch, sie": "mich, dich, ihn/sie/es, uns, euch, sie",
+  "mir, dir, ihm/ihr/ihm, uns, euch, ihnen": "mir, dir, ihm/ihr/ihm, uns, euch, ihnen",
+  "Kannst du mir das Buch mitbringen?": "Kannst du mir das Buch mitbringen?"
  },
  "1-1-4": {
-  "als": "als"
+  "als": "als",
+  "schnell": "schnell",
+  "schneller": "schneller",
+  "klein": "klein",
+  "kleiner": "kleiner",
+  "kalt": "kalt",
+  "kälter": "kälter",
+  "gut": "gut",
+  "besser": "besser",
+  "viel": "viel",
+  "mehr": "mehr",
+  "gern": "gern",
+  "lieber": "lieber",
+  "besser als, schneller als": "besser als, schneller als"
  },
  "1-1-7": {
   "wollen": "wollen",
   "dürfen": "dürfen",
   "Wollen": "Wollen",
   "können": "können",
-  "müssen": "müssen"
+  "müssen": "müssen",
+  "Ich will reisen": "Ich will reisen",
+  "Man darf hier campen": "Man darf hier campen"
  },
  "1-1-11": {
   "weil": "weil",
@@ -79,7 +136,8 @@
  "1-2-1": {
   "dass": "dass",
   "Dass": "Dass",
-  "weil": "weil"
+  "weil": "weil",
+  "Ich denke, dass du Recht hast": "Ich denke, dass du Recht hast"
  },
  "1-2-17": {
   "obwohl": "obwohl",
@@ -87,20 +145,34 @@
   "Obwohl": "Obwohl",
   "weil": "weil",
   "dass": "dass",
-  "Wenn": "Wenn"
+  "Wenn": "Wenn",
+  "Wenn alle Zeit haben, könnten wir...": "Wenn alle Zeit haben, könnten wir..."
  },
  "2-0-0": {
   "Ich hätte gern": "Ich hätte gern",
   "Könnten Sie": "Könnten Sie",
   "haben": "haben",
   "können": "können",
-  "werden": "werden"
+  "werden": "werden",
+  "hätte": "hätte",
+  "könnte": "könnte",
+  "würde": "würde",
+  "Ich hätte gern...": "Ich hätte gern...",
+  "Könnten Sie...?": "Könnten Sie...?"
  },
  "2-0-2": {
-  "werden": "werden"
+  "werden": "werden",
+  "wird": "wird",
+  "Die Noten werden mitgeteilt": "Die Noten werden mitgeteilt"
  },
  "2-0-4": {
-  "dass": "dass"
+  "dass": "dass",
+  "sein": "sein",
+  "er sei": "er sei",
+  "haben": "haben",
+  "er habe": "er habe",
+  "kommen": "kommen",
+  "er komme": "er komme"
  },
  "2-0-11": {
   "Nachdem": "Nachdem",
@@ -110,26 +182,35 @@
  },
  "2-1-1": {
   "wurde": "wurde",
-  "wird": "wird"
+  "wird": "wird",
+  "Die Mauer wurde errichtet": "Die Mauer wurde errichtet"
  },
  "2-1-3": {
   "Wenn ich... wäre, würde ich...": "Wenn ich ... wäre, würde ich ...",
   "wenn": "wenn",
-  "würde": "würde"
+  "würde": "würde",
+  "haben/sein": "haben/sein",
+  "Wenn ich Zeit hätte, würde ich bleiben": "Wenn ich Zeit hätte, würde ich bleiben"
  },
  "2-1-6": {
-  "sein": "sein"
+  "sein": "sein",
+  "hinauf": "hinauf",
+  "hinab/hinunter": "hinab/hinunter",
+  "hinüber": "hinüber",
+  "hinaufsteigen, hinabsteigen": "hinaufsteigen, hinabsteigen"
  },
  "2-1-11": {
   "Obwohl": "Obwohl",
   "trotzdem": "trotzdem",
   "weil": "weil",
   "dass": "dass",
-  "Trotzdem": "Trotzdem"
+  "Trotzdem": "Trotzdem",
+  "Trotzdem bleibt die Stimmung fröhlich": "Trotzdem bleibt die Stimmung fröhlich"
  },
  "2-2-0": {
   "Ich wünschte, ...": "Ich wünschte ...",
-  "Ich wünschte": "Ich wünschte"
+  "Ich wünschte": "Ich wünschte",
+  "Ich wünschte, ich hätte mehr Zeit": "Ich wünschte, ich hätte mehr Zeit"
  },
  "2-2-4": {
   "dass": "dass",
@@ -143,6 +224,85 @@
  "2-2-11": {
   "Doch": "Doch",
   "mal": "mal",
-  "eben": "eben"
+  "eben": "eben",
+  "doch, mal, eben": "doch, mal, eben",
+  "doch, mal, eben, ja, halt": "doch, mal, eben, ja, halt",
+  "Komm mal her": "Komm mal her"
+ },
+ "0-0-7": {
+  "ein": "ein",
+  "einen": "einen",
+  "ich sehe einen Mann": "ich sehe einen Mann",
+  "eine": "eine",
+  "der": "der",
+  "den": "den",
+  "die": "die",
+  "das": "das"
+ },
+ "0-0-13": {
+  "ankommen": "ankommen",
+  "aufstehen": "aufstehen",
+  "einkaufen": "einkaufen",
+  "Der Bus kommt an": "Der Bus kommt an"
+ },
+ "0-1-1": {
+  "der Zug": "der Zug",
+  "die Züge": "die Züge",
+  "das Kind": "das Kind",
+  "die Kinder": "die Kinder",
+  "der Tisch": "der Tisch",
+  "die Tische": "die Tische"
+ },
+ "0-2-7": {
+  "was, wer, wann, wo, warum, wie": "was, wer, wann, wo, warum, wie",
+  "Warum hat dir...": "Warum hat dir..."
+ },
+ "1-0-18": {
+  "mit, bei, nach, aus, zu": "mit, bei, nach, aus, zu",
+  "mit": "mit",
+  "bei": "bei",
+  "nach": "nach",
+  "aus": "aus",
+  "zu": "zu",
+  "bei dir, zu euch, aus der Stadt, nach der Arbeit": "bei dir, zu euch, aus der Stadt, nach der Arbeit"
+ },
+ "1-1-2": {
+  "in, auf, an": "in, auf, an",
+  "in, auf, an, über, unter, vor, hinter, neben, zwischen": "in, auf, an, über, unter, vor, hinter, neben, zwischen",
+  "in diesem Gebäude": "in diesem Gebäude",
+  "Ich gehe in das Gebäude": "Ich gehe in das Gebäude"
+ },
+ "1-1-15": {
+  "Für morgen haben die Eisenbahner einen Streik angekündigt": "Für morgen haben die Eisenbahner einen Streik angekündigt"
+ },
+ "1-2-4": {
+  "sich freuen, sich interessieren": "sich freuen, sich interessieren",
+  "mich, dich, sich, uns, euch, sich": "mich, dich, sich, uns, euch, sich",
+  "sich freuen": "sich freuen",
+  "sich interessieren": "sich interessieren",
+  "sich erinnern": "sich erinnern",
+  "Ich freue mich, Er interessiert sich für...": "Ich freue mich, Er interessiert sich für..."
+ },
+ "1-2-11": {
+  "der neue Kollege": "der neue Kollege",
+  "ein neuer Kollege": "ein neuer Kollege"
+ },
+ "1-2-13": {
+  "des Freundes": "des Freundes",
+  "der Mann": "der Mann",
+  "des Mannes": "des Mannes",
+  "die Familie meiner Mutter": "die Familie meiner Mutter"
+ },
+ "2-0-7": {
+  "der, die, das": "der, die, das"
+ },
+ "2-1-17": {
+  "das Neue, der Deutsche": "das Neue, der Deutsche",
+  "der Neue": "der Neue",
+  "das Neue": "das Neue",
+  "der Alte": "der Alte"
+ },
+ "2-2-2": {
+  "er komme, er habe, er sei": "er komme, er habe, er sei"
  }
 }

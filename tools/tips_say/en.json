@@ -26,7 +26,8 @@
   "for three years": "for three years",
   "Since": "Since",
   "since childhood": "since childhood",
-  "since Monday": "since Monday"
+  "since Monday": "since Monday",
+  "for": "for"
  },
  "0-1-2": {
   "Be going to": "Be going to",
@@ -55,7 +56,8 @@
  },
  "0-1-19": {
   "Meet": "Meet",
-  "met": "met"
+  "met": "met",
+  "go→gone, see→seen, meet→met": "go→gone, see→seen, meet→met"
  },
  "0-2-2": {
   "my brother's office": "my brother's office",
@@ -78,7 +80,8 @@
   "because": "because",
   "so": "so",
   "but": "but",
-  "although": "although"
+  "although": "although",
+  "because, so, although": "because, so, although"
  },
  "0-2-19": {
   "isn't it?": "isn't it?",
@@ -96,7 +99,8 @@
   "do/does": "do, does",
   "I don't have to": "I don't have to",
   "Must": "Must",
-  "had to": "had to"
+  "had to": "had to",
+  "have to / must": "have to / must"
  },
  "1-0-8": {
   "Used to": "Used to",
@@ -112,20 +116,23 @@
   "the easiest": "the easiest",
   "the most useful": "the most useful",
   "good → the best": "good, the best",
-  "bad → the worst": "bad, the worst"
+  "bad → the worst": "bad, the worst",
+  "the most... / the -est": "the most... / the -est"
  },
  "1-0-19": {
   "Who": "Who",
   "the person who...": "the person who...",
   "which": "which",
   "the book which...": "the book which...",
-  "that": "that"
+  "that": "that",
+  "who / which / that": "who / which / that"
  },
  "1-1-0": {
   "was": "was",
   "were": "were",
   "I was driving": "I was driving",
-  "They were packing": "They were packing"
+  "They were packing": "They were packing",
+  "was/were": "was/were"
  },
  "1-1-1": {
   "if": "if",
@@ -197,7 +204,8 @@
   "Wish": "Wish",
   "wish": "wish",
   "I wish I had known": "I wish I had known",
-  "She wishes she hadn't said that": "She wishes she hadn't said that"
+  "She wishes she hadn't said that": "She wishes she hadn't said that",
+  "had": "had"
  },
  "2-0-2": {
   "to be": "to be",
@@ -208,7 +216,8 @@
  "2-0-3": {
   "for": "for",
   "since": "since",
-  "I've been waiting for an hour": "I've been waiting for an hour"
+  "I've been waiting for an hour": "I've been waiting for an hour",
+  "have/has been": "have/has been"
  },
  "2-0-4": {
   "get rid of": "get rid of",
