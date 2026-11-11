@@ -8,12 +8,17 @@
   "pracuję": "pracuję",
   "centrum": "centrum",
   "piję kawę": "piję kawę",
-  "mówię po polsku": "mówię po polsku"
+  "mówię po polsku": "mówię po polsku",
+  "w": "w"
  },
  "0-0-1": {
   "dziękuję": "dziękuję",
   "poproszę": "poproszę",
-  "bagietka": "bagietka"
+  "bagietka": "bagietka",
+  "dzię": "dzię",
+  "ku": "ku",
+  "ję": "ję",
+  "pro": "pro"
  },
  "0-0-2": {
   "dzień dobry": "dzień dobry",
@@ -64,7 +69,9 @@
   "jesteście": "jesteście",
   "są": "są",
   "szef jest na spotkaniu": "szef jest na spotkaniu",
-  "jestem, jesteś, jest": "jestem, jesteś, jest"
+  "jestem, jesteś, jest": "jestem, jesteś, jest",
+  "eś": "eś",
+  "eśmy": "eśmy"
  },
  "0-0-7": {
   "ser": "ser",
@@ -143,7 +150,8 @@
   "herbatę": "herbatę",
   "czarna kawa": "czarna kawa",
   "czarną kawę": "czarną kawę",
-  "poproszę": "poproszę"
+  "poproszę": "poproszę",
+  "ę": "ę"
  },
  "0-0-14": {
   "co": "co",
@@ -165,7 +173,8 @@
   "Jest siódma": "Jest siódma",
   "o dziewiątej": "o dziewiątej",
   "o szóstej": "o szóstej",
-  "w południe": "w południe"
+  "w południe": "w południe",
+  "ej": "ej"
  },
  "0-0-16": {
   "Chcę": "Chcę",
@@ -177,7 +186,9 @@
   "piszę": "piszę",
   "poproszę": "poproszę",
   "chcesz": "chcesz",
-  "chce": "chce"
+  "chce": "chce",
+  "-ę": "ę",
+  "ę": "ę"
  },
  "0-0-17": {
   "być": "być",
@@ -189,7 +200,8 @@
   "jest lekarką": "jest lekarką",
   "to jest": "to jest",
   "to jest student": "to jest student",
-  "jestem": "jestem"
+  "jestem": "jestem",
+  "ą": "ą"
  },
  "0-0-18": {
   "Też": "Też",
@@ -210,7 +222,10 @@
   "Dziękuję": "Dziękuję",
   "bardzo dziękuję": "bardzo dziękuję",
   "Przepraszam": "Przepraszam",
-  "przepraszam, może pan powtórzyć ?": "przepraszam, może pan powtórzyć?"
+  "przepraszam, może pan powtórzyć ?": "przepraszam, może pan powtórzyć?",
+  "pro": "pro",
+  "ku": "ku",
+  "pra": "pra"
  },
  "0-1-1": {
   "Dzisiaj": "Dzisiaj",
@@ -232,7 +247,8 @@
   "kawa": "kawa",
   "kawę": "kawę",
   "poproszę szklankę wody": "poproszę szklankę wody",
-  "proszę": "proszę"
+  "proszę": "proszę",
+  "pro": "pro"
  },
  "0-1-5": {
   "Ile kosztuje ?": "Ile kosztuje?",
@@ -261,7 +277,10 @@
   "Kazimierz": "Kazimierz",
   "do Kazimierza": "do Kazimierza",
   "muzeum": "muzeum",
-  "centrum": "centrum"
+  "centrum": "centrum",
+  "z": "z",
+  "Z": "Z",
+  "u": "u"
  },
  "0-1-9": {
   "na": "na",
@@ -271,7 +290,10 @@
   "na dworcu": "na dworcu",
   "na Wawelu": "na Wawelu",
   "Jestem na rynku": "Jestem na rynku",
-  "Wawel": "Wawel"
+  "Wawel": "Wawel",
+  "W": "W",
+  "w": "w",
+  "u": "u"
  },
  "0-1-11": {
   "Jak dojść ?": "Jak dojść?",
@@ -356,7 +378,8 @@
   "kawa": "kawa",
   "lubię kawę": "lubię kawę",
   "lubię sport": "lubię sport",
-  "lubię czytać": "lubię czytać"
+  "lubię czytać": "lubię czytać",
+  "ę": "ę"
  },
  "0-2-5": {
   "mama": "mama",
@@ -369,7 +392,8 @@
   "mam": "mam",
   "brata": "brata",
   "siostrę": "siostrę",
-  "rodzice": "rodzice"
+  "rodzice": "rodzice",
+  "i": "i"
  },
  "0-2-7": {
   "Mój": "Mój",
@@ -442,7 +466,10 @@
   "idę": "idę",
   "do kina": "do kina",
   "z nami": "z nami",
-  "z rodzicami": "z rodzicami"
+  "z rodzicami": "z rodzicami",
+  "Z": "Z",
+  "z": "z",
+  "ą": "ą"
  },
  "0-2-17": {
   "Ile masz lat ?": "Ile masz lat?",
@@ -481,7 +508,8 @@
   "Zrobić": "Zrobić",
   "dzisiaj zrobiłem listę": "dzisiaj zrobiłem listę",
   "robiłem raport": "robiłem raport",
-  "zrobiłem raport": "zrobiłem raport"
+  "zrobiłem raport": "zrobiłem raport",
+  "z": "z"
  },
  "1-0-5": {
   "będę": "będę",
@@ -520,7 +548,14 @@
   "przyjechałem": "przyjechałem",
   "wyjeżdżam jutro": "wyjeżdżam jutro",
   "pojedziemy do Sopotu": "pojedziemy do Sopotu",
-  "przyjechaliśmy": "przyjechaliśmy"
+  "przyjechaliśmy": "przyjechaliśmy",
+  "Przy": "Przy",
+  "przy": "przy",
+  "Wy": "Wy",
+  "wy": "wy",
+  "Po": "Po",
+  "jecha": "jecha",
+  "liśmy": "liśmy"
  },
  "1-1-4": {
   "Iść": "Iść",
@@ -617,7 +652,10 @@
   "Ania": "Ania",
   "Marek": "Marek",
   "Ewa": "Ewa",
-  "Tomek": "Tomek"
+  "Tomek": "Tomek",
+  "sia": "sia",
+  "nia": "nia",
+  "u": "u"
  },
  "2-0-0": {
   "chciałbym": "chciałbym",
@@ -627,7 +665,8 @@
   "chciałabym": "chciałabym",
   "mogłabym": "mogłabym",
   "mógłby pan": "mógłby pan",
-  "mogłaby pani": "mogłaby pani"
+  "mogłaby pani": "mogłaby pani",
+  "bym": "bym"
  },
  "2-0-2": {
   "został zbudowany": "został zbudowany",
@@ -690,7 +729,8 @@
   "idą": "idą",
   "idąc": "idąc",
   "jadą": "jadą",
-  "idąc przez las, usłyszeliśmy kukułkę": "idąc przez las, usłyszeliśmy kukułkę"
+  "idąc przez las, usłyszeliśmy kukułkę": "idąc przez las, usłyszeliśmy kukułkę",
+  "-ąc": "ąc"
  },
  "2-1-11": {
   "Powinienem": "Powinienem",
@@ -754,7 +794,8 @@
   "wiedział": "wiedział",
   "wziąłbym": "wziąłbym",
   "zostałbym": "zostałbym",
-  "gdybym wiedział": "gdybym wiedział"
+  "gdybym wiedział": "gdybym wiedział",
+  "bym": "bym"
  },
  "2-2-11": {
   "co dwie głowy, to nie jedna": "co dwie głowy, to nie jedna",

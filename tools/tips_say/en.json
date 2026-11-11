@@ -45,7 +45,6 @@
  "0-1-8": {
   "There is": "There is",
   "there are": "there are",
-  "Il y a": "Il y a",
   "there is": "there is",
   "Is there... ?": "Is there... ?",
   "Are there... ?": "Are there... ?"
@@ -61,8 +60,8 @@
  },
  "0-2-2": {
   "my brother's office": "my brother's office",
-  "my sister's studies": "my sister's studies",
-  "the students' books": "the students' books"
+  "the students' books": "the students' books",
+  "my parents' house": "my parents' house"
  },
  "0-2-5": {
   "more... than": "more... than",
@@ -251,7 +250,9 @@
   "avoid doing": "avoid doing",
   "enjoy travelling": "enjoy travelling",
   "keep trying": "keep trying",
-  "finish packing": "finish packing"
+  "finish packing": "finish packing",
+  "start": "start",
+  "we started preparing": "we started preparing"
  },
  "2-2-0": {
   "suggest": "suggest",

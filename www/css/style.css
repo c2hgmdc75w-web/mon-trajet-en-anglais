@@ -184,3 +184,34 @@ body{
 /* langue sans voix installée */
 .no-voice-banner{margin:4px 0 14px;padding:12px 14px;border-radius:14px;background:rgba(255,122,41,.12);border:1px solid var(--accent,#ff7a29);color:var(--text);font-size:14px;line-height:1.5;cursor:pointer;}
 .voice-alert{margin:0 0 14px;padding:12px 14px;border-radius:14px;background:rgba(255,122,41,.12);border:1px solid var(--accent,#ff7a29);color:var(--text);font-size:14px;line-height:1.5;}
+
+/* ---------- petits écrans (iPhone SE, iPhone 8…) et mode paysage ----------
+   L'écran de leçon tient toujours dans la hauteur du téléphone : les boutons
+   (pause, ±10 s, précédent/suivant) restent visibles en bas ; si la phrase est
+   très longue, seule la zone centrale défile. */
+#session{flex:none;height:100vh;height:100dvh;min-height:0;overflow:hidden;}
+.stage{justify-content:flex-start;overflow-y:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;}
+.stage::-webkit-scrollbar{display:none;}
+.stage > *{flex-shrink:0;}
+.stage > .ring-wrap{margin-top:auto;}
+.stage > .phase-label{margin-top:0;}
+.stage > .phrase-card{margin-bottom:auto;}
+@media (max-height:480px){ .stage > .phase-label{margin-top:auto;} }
+.scrubber-row,.controls,.session-top,.dots{flex-shrink:0;}
+@media (max-height:720px){
+  .ring-wrap{width:128px;height:128px;}
+  .ring{width:110px;height:110px;}
+  .ring-icon svg{width:36px;height:36px;}
+  .stage{gap:14px;padding:4px 0 10px;}
+  .dots{margin:10px 0 6px;}
+  .phrase-card{min-height:0;}
+  .phrase-en{font-size:clamp(20px,6vw,27px);}
+  .rtl-target .phrase-en{font-size:24px;line-height:1.6;}
+  .phrase-fr{font-size:15px;margin-bottom:6px;}
+  .phrase-ro{font-size:14.5px;}
+}
+@media (max-height:480px){
+  .ring-wrap{display:none;}
+  .stage{gap:8px;}
+  .dots{margin:6px 0 4px;}
+}

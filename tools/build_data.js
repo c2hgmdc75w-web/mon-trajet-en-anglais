@@ -1,70 +1,100 @@
-// Construit www/data/<code>.js à partir des data.js des dépôts d'origine et des dossiers <code>_content.
-// Usage : node tools/build_data.js
-// Format commun d'une phrase : { fr, tgt, ro?, lit? } ; un module garde ses
-// champs id/name/desc/totalPhrases/lessonsCount/lessons ; une leçon : title,
-// phrases, tip? { title, example, exampleRo?, lit?, body }.
+// (Re)construit www/data/<code>.js.
+//
+// SOURCE DE VÉRITÉ : le fichier déjà construit www/data/<code>.js lui-même
+// (il contient tout : phrases, points de grammaire). Les dossiers de travail
+// d'origine (<code>_content, anciens dépôts) ne sont plus nécessaires : ils
+// disparaissent d'une session à l'autre.
+//
+// Sur ce contenu, on applique des surcouches (toutes rejouables sans effet de
+// bord : relancer le script ne change rien si rien n'a changé) :
+//   tools/phrase_fix/<code>.json  { "<niv>-<mod>-<leçon>#<phrase>": { fr?, tgt?, ro?, lit? },
+//                                   "<niv>-<mod>-<leçon>": { title? } }      corrections de phrases / titres
+//   tools/tips_fix/<code>.json    { "<niv>-<mod>-<leçon>": { title?, body?, example?, exampleRo?, lit? } }
+//   tools/tips_say/<code>.json    { "<niv>-<mod>-<leçon>": { "<passage entre « »>": "<texte lu par la voix native>" } }
+//
+// Usage :
+//   node tools/build_data.js                 toutes les langues
+//   node tools/build_data.js zh he           seulement ces langues
+//   node tools/build_data.js --import <code> <chemin/data.js> [clé]
+//        importe une NOUVELLE langue depuis un data.js classique (LEVELS, phrases {fr, <clé>, ro?, lit?})
+//
+// Format commun d'une phrase : { fr, tgt, ro?, lit? } ; module : id/name/desc/
+// totalPhrases/lessonsCount/lessons ; leçon : title, phrases,
+// tip? { title, example, body, exampleRo?, lit?, say? }.
 const fs = require('fs'), vm = require('vm'), path = require('path');
-const SRC = {
-  de:   ['/home/claude/mon-trajet-en-allemand/www/js/data.js', 'de'],
-  en:   [require('path').join(__dirname, 'legacy', 'en_data.js'),  'en'],
-  ar:   ['/home/claude/mon-trajet-en-arabe/www/js/data.js',    'ar'],
-  es:   ['/home/claude/mon-trajet-en-espagnol/www/js/data.js', 'es'],
-  it:   ['/home/claude/mon-trajet-en-italien/www/js/data.js',  'it'],
-  ja:   ['/home/claude/mon-trajet-en-japonais/www/js/data.js', 'ja'],
-  ptbr: ['/home/claude/mon-trajet-portb/www/js/data.js',       'pt'],
-  ptpt: ['/home/claude/mon-trajet-portp/www/js/data.js',       'pt'],
-  zh:   ['/home/claude/zh_content/data.js', 'zh'],
-  he:   ['/home/claude/he_content/data.js', 'he'],
-  hi:   ['/home/claude/hi_content/data.js', 'hi'],
-  th:   ['/home/claude/th_content/data.js', 'th'],
-  id:   ['/home/claude/id_content/data.js', 'id'],
-  vi:   ['/home/claude/vi_content/data.js', 'vi'],
-  bn:   ['/home/claude/bn_content/data.js', 'bn'],
-  yue:  ['/home/claude/yue_content/data.js', 'yue'],
-  fa:   ['/home/claude/fa_content/data.js', 'fa'],
-  tr:   ['/home/claude/tr_content/data.js', 'tr'],
-  ru:   ['/home/claude/ru_content/data.js', 'ru'],
-  ta:   ['/home/claude/ta_content/data.js', 'ta'],
-  ko:   ['/home/claude/ko_content/data.js', 'ko'],
-  pl:   ['/home/claude/pl_content/data.js', 'pl'],
-};
-const out = path.join(__dirname, '..', 'www', 'data');
-fs.mkdirSync(out, { recursive: true });
-let icons = null;
-const ONLY = process.argv.slice(2); // ex. node tools/build_data.js zh he → ne reconstruit que ces langues
-for (const [code, [file, key]] of Object.entries(SRC)) {
-  if (ONLY.length && !ONLY.includes(code) && icons) continue;
-  const src = fs.readFileSync(file, 'utf8');
+const OUT = path.join(__dirname, '..', 'www', 'data');
+const readJson = (dir, code) => { try { return JSON.parse(fs.readFileSync(path.join(__dirname, dir, code + '.json'), 'utf8')); } catch (e) { if (e.code === 'ENOENT') return {}; throw new Error(`${dir}/${code}.json illisible : ${e.message}`); } };
+
+function loadBuilt(code) {
+  const window = {};
+  new Function('window', fs.readFileSync(path.join(OUT, code + '.js'), 'utf8'))(window);
+  if (!window.MT_DATA || !window.MT_DATA[code]) throw new Error(code + ' : www/data/' + code + '.js ne définit pas MT_DATA');
+  return window.MT_DATA[code];
+}
+function importClassic(code, file, key) {
   const ctx = {}; vm.createContext(ctx);
-  vm.runInContext(src + ';globalThis.__L = LEVELS; globalThis.__I = ICONS;', ctx);
-  if (!icons) icons = ctx.__I;
-  let phrases = 0, tips = 0, says = 0;
-  // Mots cités « … » dans les points de grammaire à faire lire par la voix native :
-  // tools/tips_say/<code>.json = { "<niveau>-<module>-<leçon>": { "<passage>": "<texte natif>" } }
-  // Corrections de points de grammaire (titre/texte réécrits) : tools/tips_fix/<code>.json = { "<niveau>-<module>-<leçon>": { title?, body? } }
-  let FIX = {}; try { FIX = JSON.parse(fs.readFileSync(path.join(__dirname, 'tips_fix', code + '.json'), 'utf8')); } catch (e) {}
-  let SAY = {}; try { SAY = JSON.parse(fs.readFileSync(path.join(__dirname, 'tips_say', code + '.json'), 'utf8')); } catch (e) {}
-  const levels = ctx.__L.map((lv, a) => ({
+  vm.runInContext(fs.readFileSync(file, 'utf8') + ';globalThis.__L = LEVELS;', ctx);
+  return ctx.__L.map(lv => ({
     id: lv.id, name: lv.name, freeLessonsPerModule: lv.freeLessonsPerModule,
-    modules: lv.modules.map((m, b) => ({
+    modules: lv.modules.map(m => ({
       id: m.id, name: m.name, desc: m.desc, totalPhrases: m.totalPhrases, lessonsCount: m.lessonsCount,
-      lessons: m.lessons.map((l, c) => {
+      lessons: m.lessons.map(l => {
         if (!l || !l.phrases) return l;
         const lesson = { title: l.title, phrases: l.phrases.map(p => {
           const q = { fr: p.fr, tgt: p[key] };
-          if (!q.tgt) throw new Error(code + ': phrase sans cible : ' + p.fr);
-          if (p.ro) q.ro = p.ro; if (p.lit) q.lit = p.lit; phrases++; return q;
+          if (!q.tgt) throw new Error(code + ' : phrase sans cible : ' + p.fr);
+          if (p.ro) q.ro = p.ro; if (p.lit) q.lit = p.lit; return q;
         }) };
         if (l.tip) { lesson.tip = { title: l.tip.title, example: l.tip.example, body: l.tip.body };
-          if (l.tip.exampleRo) lesson.tip.exampleRo = l.tip.exampleRo; if (l.tip.lit) lesson.tip.lit = l.tip.lit; tips++;
-          const fx = FIX[`${a}-${b}-${c}`]; if (fx) { if (fx.title) lesson.tip.title = fx.title; if (fx.body) lesson.tip.body = fx.body; if (fx.example) lesson.tip.example = fx.example; }
-          const sy = SAY[`${a}-${b}-${c}`]; if (sy && Object.keys(sy).length) { lesson.tip.say = sy; says += Object.keys(sy).length; } }
+          if (l.tip.exampleRo) lesson.tip.exampleRo = l.tip.exampleRo; if (l.tip.lit) lesson.tip.lit = l.tip.lit; }
         return lesson;
       })
     }))
   }));
-  const js = `/* Mon Trajet — contenu « ${code} » (${phrases} phrases, ${tips} points de grammaire). Fichier généré par tools/build_data.js, ne pas éditer à la main. */\nwindow.MT_DATA = window.MT_DATA || {};\nwindow.MT_DATA['${code}'] = ${JSON.stringify(levels)};\n`;
-  fs.writeFileSync(path.join(out, code + '.js'), js);
-  console.log(code, phrases, 'phrases', tips, 'tips', says, 'mots natifs', Math.round(js.length / 1024) + ' Ko');
 }
-fs.writeFileSync(path.join(__dirname, '..', 'www', 'js', 'icons.js'), '/* Icônes SVG partagées (extraites de l\'ancien data.js). */\nconst ICONS = ' + JSON.stringify(icons, null, 1) + ';\n');
+
+function build(code, levels) {
+  const PFIX = readJson('phrase_fix', code), FIX = readJson('tips_fix', code), SAY = readJson('tips_say', code);
+  const used = { PFIX: new Set(), FIX: new Set(), SAY: new Set() };
+  let phrases = 0, tips = 0, says = 0;
+  levels.forEach((lv, a) => lv.modules.forEach((m, b) => m.lessons.forEach((l, c) => {
+    if (!l || !l.phrases) return;
+    const id = `${a}-${b}-${c}`;
+    const lf = PFIX[id]; if (lf) { used.PFIX.add(id); if (lf.title) l.title = lf.title; }
+    l.phrases.forEach((p, i) => {
+      phrases++;
+      const pf = PFIX[`${id}#${i}`]; if (!pf) return; used.PFIX.add(`${id}#${i}`);
+      for (const k of ['fr', 'tgt', 'ro', 'lit']) if (k in pf) { if (pf[k] === null || pf[k] === '') delete p[k]; else p[k] = pf[k]; }
+    });
+    if (!l.tip) return;
+    tips++;
+    const fx = FIX[id];
+    if (fx) { used.FIX.add(id); for (const k of ['title', 'body', 'example', 'exampleRo', 'lit']) if (fx[k]) l.tip[k] = fx[k]; }
+    const sy = SAY[id];
+    if (sy && Object.keys(sy).length) { used.SAY.add(id); l.tip.say = sy; says += Object.keys(sy).length; } else delete l.tip.say;
+  })));
+  for (const [name, obj] of [['phrase_fix', PFIX], ['tips_fix', FIX], ['tips_say', SAY]]) {
+    const set = used[name === 'phrase_fix' ? 'PFIX' : name === 'tips_fix' ? 'FIX' : 'SAY'];
+    const orphan = Object.keys(obj).filter(k => !set.has(k) && !(name === 'tips_say' && !Object.keys(obj[k]).length));
+    if (orphan.length) throw new Error(`${code} : ${name} contient des clés qui ne correspondent à rien : ${orphan.slice(0, 8).join(', ')}`);
+  }
+  const js = `/* Mon Trajet — contenu « ${code} » (${phrases} phrases, ${tips} points de grammaire). Fichier généré par tools/build_data.js, ne pas éditer à la main. */\nwindow.MT_DATA = window.MT_DATA || {};\nwindow.MT_DATA['${code}'] = ${JSON.stringify(levels)};\n`;
+  const file = path.join(OUT, code + '.js');
+  const before = fs.existsSync(file) ? fs.readFileSync(file, 'utf8') : null;
+  if (before !== js) fs.writeFileSync(file, js);
+  console.log(code.padEnd(5), phrases, 'phrases', tips, 'tips', says, 'mots natifs', Math.round(js.length / 1024) + ' Ko', before === js ? '(inchangé)' : before === null ? '(créé)' : '(MODIFIÉ)');
+}
+
+const args = process.argv.slice(2);
+if (args[0] === '--import') {
+  const [, code, file, key] = args;
+  if (!code || !file) { console.error('Usage : node tools/build_data.js --import <code> <chemin/data.js> [clé]'); process.exit(1); }
+  build(code, importClassic(code, file, key || code));
+} else {
+  const all = fs.readdirSync(OUT).filter(f => f.endsWith('.js')).map(f => f.replace(/\.js$/, '')).sort();
+  const codes = args.length ? args : all;
+  for (const code of codes) {
+    if (!all.includes(code)) { console.error(code + ' : www/data/' + code + '.js introuvable (nouvelle langue : utiliser --import)'); process.exit(1); }
+    build(code, loadBuilt(code));
+  }
+}

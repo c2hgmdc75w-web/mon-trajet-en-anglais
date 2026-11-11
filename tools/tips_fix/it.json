@@ -1,7 +1,7 @@
 {
  "0-0-1": {
   "title": "« Il/la » : les articles définis en italien",
-  "body": "L'italien utilise « il » devant un nom masculin singulier commençant par une consonne (« il servizio, il conto »), et « la » devant un nom féminin singulier (« la mozzarella »). Contrairement au français, l'article varie aussi selon la première lettre du mot qui suit (« lo, l', i, gli, le ») : on approfondira ça plus tard."
+  "body": "L'italien utilise « il » devant un nom masculin singulier commençant par une consonne (« il servizio, il conto »), et « la » devant un nom féminin singulier (« la mozzarella »). Plus encore qu'en français, l'article varie selon la première lettre du mot qui suit (« lo, l', i, gli, le ») : on approfondira ça plus tard."
  },
  "0-0-6": {
   "title": "Le pluriel irrégulier en -o et en -a",
@@ -15,5 +15,15 @@
  },
  "2-0-6": {
   "example": "Je ne maîtriserai probablement jamais tout à fait ce dialecte, et ce n'est pas grave. — Probabilmente non padroneggerò mai del tutto questo dialetto, e va bene così."
+ },
+ "0-2-1": {
+  "example": "Oui, j'ai un frère et une sœur. — Sì, <b>ho</b> un fratello e una sorella.",
+  "body": "Comme en français, l'italien utilise « avere », avoir, pour parler de sa famille : « ho un fratello », j'ai un frère, « ho due figlie », j'ai deux filles. On l'utilise aussi pour l'âge, mais la question se pose autrement : « Quanti anni hanno? », mot à mot combien d'années ont-ils ? Pour répondre, on dit par exemple « ho trentadue anni », j'ai trente-deux ans."
+ },
+ "2-1-3": {
+  "body": "« Anche se » (littéralement « même si ») introduit une concession, comme « bien que » ou « même si » en français. Contrairement à « bien que », il se construit le plus souvent avec l'indicatif, comme notre « même si », ce qui simplifie son usage."
+ },
+ "2-2-18": {
+  "title": "« Alla fine dei conti » : au bout du compte"
  }
 }

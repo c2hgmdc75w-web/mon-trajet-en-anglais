@@ -29,7 +29,8 @@
   "makan": "makan",
   "Saya cari kafe dekat sini": "Saya cari kafe dekat sini",
   "cangkir": "cangkir",
-  "sa-ya, tcha-ri, ka-fé, de-kat, si-ni": "saya, cari, kafe, dekat, sini"
+  "sa-ya, tcha-ri, ka-fé, de-kat, si-ni": "saya, cari, kafe, dekat, sini",
+  "u": "u"
  },
  "0-0-3": {
   "Saya": "Saya",
@@ -85,7 +86,8 @@
   "rumah mereka": "rumah mereka",
   "Ini rumah saya": "Ini rumah saya",
   "motor Pak Budi": "motor Pak Budi",
-  "anaknya": "anaknya"
+  "anaknya": "anaknya",
+  "nya": "nya"
  },
  "0-0-9": {
   "kopi panas": "kopi panas",
@@ -252,7 +254,8 @@
   "lima puluh ribu": "lima puluh ribu",
   "Bisa kurang ?": "Bisa kurang?",
   "Berapa ?": "Berapa?",
-  "berapa, berapa": "berapa, berapa"
+  "berapa, berapa": "berapa, berapa",
+  "nya": "nya"
  },
  "0-1-7": {
   "Dari... ke...": "Dari... ke...",
@@ -373,7 +376,8 @@
   "bapakku": "bapakku",
   "Pak": "Pak",
   "Bu": "Bu",
-  "terima kasih, Bu": "terima kasih, Bu"
+  "terima kasih, Bu": "terima kasih, Bu",
+  "ku": "ku"
  },
  "0-2-7": {
   "Sedang": "Sedang",
@@ -482,7 +486,9 @@
   "belikan": "belikan",
   "bersih": "bersih",
   "membersihkan": "membersihkan",
-  "tolong ambilkan": "tolong ambilkan"
+  "tolong ambilkan": "tolong ambilkan",
+  "-kan": "kan",
+  "kan": "kan"
  },
  "1-0-18": {
   "Jangan": "Jangan",
@@ -501,7 +507,9 @@
   "mendekati kuda": "mendekati kuda",
   "keliling": "keliling",
   "mengelilingi pulau": "mengelilingi pulau",
-  "hubungi saya": "hubungi saya"
+  "hubungi saya": "hubungi saya",
+  "-i": "i",
+  "i": "i"
  },
  "1-1-4": {
   "Hampir": "Hampir",
@@ -531,7 +539,8 @@
   "di": "di",
   "yang pernah saya lihat": "yang pernah saya lihat",
   "terbaik": "terbaik",
-  "lebih": "lebih"
+  "lebih": "lebih",
+  "ter-": "ter"
  },
  "1-1-15": {
   "Walaupun": "Walaupun",
@@ -539,7 +548,8 @@
   "tetap": "tetap",
   "walaupun gerimis, pasarnya tetap ramai": "walaupun gerimis, pasarnya tetap ramai",
   "meskipun": "meskipun",
-  "walau": "walau"
+  "walau": "walau",
+  "u": "u"
  },
  "1-2-1": {
   "kok": "kok",
@@ -565,7 +575,8 @@
   "katanya": "katanya",
   "kata": "kata",
   "katanya es kopinya enak sekali": "katanya es kopinya enak sekali",
-  "katanya Rina mau pindah": "katanya Rina mau pindah"
+  "katanya Rina mau pindah": "katanya Rina mau pindah",
+  "nya": "nya"
  },
  "1-2-13": {
   "Sambil": "Sambil",
@@ -656,7 +667,12 @@
   "pendakian": "pendakian",
   "inap": "inap",
   "penginapan": "penginapan",
-  "Semua pengunjung harus didampingi oleh pemandu resmi": "Semua pengunjung harus didampingi oleh pemandu resmi"
+  "Semua pengunjung harus didampingi oleh pemandu resmi": "Semua pengunjung harus didampingi oleh pemandu resmi",
+  "pe-": "pe",
+  "pe": "pe",
+  "peng": "peng",
+  "pem": "pem",
+  "pen": "pen"
  },
  "2-1-11": {
   "Seharusnya": "Seharusnya",
@@ -710,7 +726,8 @@
   "aku terpaksa naik ojek": "aku terpaksa naik ojek",
   "aku terpaksa": "aku terpaksa",
   "harus": "harus",
-  "terpaksa": "terpaksa"
+  "terpaksa": "terpaksa",
+  "ter": "ter"
  },
  "2-2-11": {
   "peribahasa": "peribahasa",

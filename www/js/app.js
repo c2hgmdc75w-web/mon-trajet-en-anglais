@@ -252,7 +252,7 @@ async function refreshVoiceWarning(popup){
 function renderVoiceWarning(){
   const el = $('noVoiceBanner'); if(!el) return;
   if(!tgtVoiceMissing){ el.style.display = 'none'; return; }
-  el.innerHTML = `⚠️ Aucune voix ${L.inLang.replace(/^en /,'')} n'est installée sur ton iPhone : les phrases ${L.inLang} resteraient muettes. <b>Touche ici pour l'installer (gratuit, 1 minute).</b>`;
+  el.innerHTML = `⚠️ Aucune voix ${L.inLang} n'est installée sur ton iPhone : les phrases ${L.inLang} resteraient muettes. <b>Touche ici pour l'installer (gratuit, 1 minute).</b>`;
   el.style.display = 'block';
 }
 async function openNoVoiceHelp(){
@@ -260,7 +260,7 @@ async function openNoVoiceHelp(){
   const h = $('voiceHelp-tgt'); if(h) h.classList.add('show');
   const box = $('voiceLists');
   if(box && tgtVoiceMissing){
-    box.insertAdjacentHTML('afterbegin', `<div class="voice-alert">Ton iPhone n'a encore <b>aucune voix ${L.inLang.replace(/^en /,'')}</b>. Sans elle, les phrases ${L.inLang} ne seront pas lues. Suis le chemin ci-dessous pour en télécharger une (c'est gratuit), puis reviens dans l'app : elle sera choisie automatiquement.</div>`);
+    box.insertAdjacentHTML('afterbegin', `<div class="voice-alert">Ton iPhone n'a encore <b>aucune voix ${L.inLang}</b>. Sans elle, les phrases ${L.inLang} ne seront pas lues. Suis le chemin ci-dessous pour en télécharger une (c'est gratuit), puis reviens dans l'app : elle sera choisie automatiquement.</div>`);
   }
 }
 // Ferme l'écran de session sans re-rendre l'accueil (utilisé pendant un changement de langue).
@@ -703,9 +703,14 @@ function buildLessonSegments(mi, li){
   });
 
   // 6. Clôture
+  // La phrase de fin dit ce qui se passe VRAIMENT ensuite : leçon suivante, fin
+  // du module, ou fin des leçons gratuites (l'auditeur ne voit pas l'écran).
+  const nextLi = li + 1;
+  const hasNext = nextLi < m.lessonsCount && hasContent(mi, nextLi);
+  const nextUnlocked = hasNext && isLessonUnlocked(m.id, nextLi);
   const closingText = li === 0
     ? "Bravo, tu as fini la première leçon. Ce n'est jamais facile de commencer une nouvelle langue, mais tu verras, au fil des leçons, ça va être de plus en plus facile. Il suffit de pratiquer régulièrement."
-    : "Ça y est, tu as fini la leçon. On va passer à la leçon suivante.";
+    : (nextUnlocked ? "Ça y est, tu as fini la leçon. On va passer à la leçon suivante." : "Ça y est, tu as fini la leçon.");
   segs.push(S(closingText, 'fr', 1, 'Leçon terminée', SPK, 'check', false, '', ''));
   segs.push(W(3000, 'Leçon terminée', SPK, 'check', false, '', ''));
 
@@ -713,6 +718,15 @@ function buildLessonSegments(mi, li){
   if(lesson.tip){
     const tipNum = TIP_NUMBERS[mi+'-'+li] || '';
     segs.push(...buildTipSegments(lesson.tip, tipNum));
+  }
+
+  // 8. Mot de la fin quand rien ne s'enchaîne après cette leçon.
+  if(!nextUnlocked){
+    const bye = !hasNext
+      ? "Bravo, tu as terminé toutes les leçons de ce module ! Quand tu seras à l'arrêt, choisis le module suivant sur l'écran d'accueil."
+      : "Bravo, tu as terminé les leçons gratuites ! Pour continuer, débloque la suite dans l'application, quand tu seras à l'arrêt.";
+    segs.push(S(bye, 'fr', 1, 'Leçon terminée', SPK, 'check', false, '', ''));
+    segs.push(W(1000, 'Leçon terminée', SPK, 'check', false, '', ''));
   }
 
   return segs;
@@ -1025,6 +1039,7 @@ var nativeSeq = null;      // { id, token, programs:[{prog, segs}], map:[{p,s}],
 var nativeSeqCounter = 0;
 var nativeListenersOn = false;
 var nativeTicker = null, nativeSegStartedAt = 0, nativePausedAt = 0;
+var segStartedAt = 0;      // moment où le segment en cours a démarré (pour « −10 s »)
 
 function canUseNativeSequence(){
   const tts = isNativeApp() && getTTSPlugin();
@@ -1037,11 +1052,24 @@ function ensureNativeListeners(){
   nativeListenersOn = true;
   try{ tts.addListener('seqProgress', ev=>onNativeSeqProgress(ev)); }catch(e){}
   try{ tts.addListener('seqEnd', ev=>onNativeSeqEnd(ev)); }catch(e){}
+  // Appel téléphonique, Siri, alarme… : iOS coupe le son ; le natif met la leçon
+  // en pause et la reprend tout seul à la fin de l'interruption.
+  try{ tts.addListener('seqPaused', ev=>applyNativePause(ev, true)); }catch(e){}
+  try{ tts.addListener('seqResumed', ev=>applyNativePause(ev, false)); }catch(e){}
+}
+function applyNativePause(ev, paused){
+  const sq = nativeSeq;
+  if(!sq || !ev || ev.seq !== sq.id || isPaused === paused) return;
+  isPaused = paused;
+  setPlayIcon(paused);
+  if(paused){ nativePausedAt = Date.now(); }
+  else if(nativePausedAt){ nativeSegStartedAt += Date.now() - nativePausedAt; nativePausedAt = 0; }
 }
 function lessonChainAfter(prog){
   // Leçons qui suivraient automatiquement (même logique que goToNextLessonOrStop).
   const out = [];
   let mi, li;
+  if(tgtVoiceMissing) return out; // langue sans voix : on n'enchaîne pas sur des leçons muettes
   if(prog.type === 'intro'){ mi = 0; li = -1; }
   else if(prog.type === 'lesson'){ mi = prog.mi; li = prog.li; }
   else return out;
@@ -1111,6 +1139,7 @@ function onNativeSeqProgress(ev){
   if(seg) updateUIForSegment(seg);
   elapsedBaseMs = computeSegmentStarts()[segIndex] || 0;
   nativeSegStartedAt = Date.now(); nativePausedAt = isPaused ? Date.now() : 0;
+  segStartedAt = Date.now();
   updateScrubberLive(elapsedBaseMs);
 }
 function onNativeSeqEnd(ev){
@@ -1142,7 +1171,13 @@ async function syncNativeSequence(){
   if(!tts || typeof tts.getSequenceState !== 'function') return;
   try{
     const st = await tts.getSequenceState();
-    if(st && st.active && nativeSeq && st.seq === nativeSeq.id) onNativeSeqProgress({ seq: st.seq, index: st.index });
+    if(!st || !nativeSeq || st.seq !== nativeSeq.id) return;
+    if(st.active){
+      if(st.index !== undefined && nativeSeq.map[st.index] && (nativeSeq.map[st.index].p !== nativeSeq.curP || nativeSeq.map[st.index].s !== segIndex)) onNativeSeqProgress({ seq: st.seq, index: st.index });
+      applyNativePause({ seq: st.seq }, !!st.paused);
+    } else if(st.ended){
+      onNativeSeqEnd({ seq: st.seq }); // la fin est arrivée pendant que la page dormait
+    }
   }catch(e){}
 }
 
@@ -1159,6 +1194,7 @@ async function playFrom(startIndex){
   elapsedBaseMs = starts[startIndex] || 0;
   updateScrubberLive(elapsedBaseMs);
 
+  segStartedAt = Date.now();
   if(canUseNativeSequence()){
     const seg0 = segments[startIndex];
     if(seg0) updateUIForSegment(seg0);
@@ -1172,6 +1208,7 @@ async function playFrom(startIndex){
     if(token !== playToken) return;
     const seg = segments[segIndex];
     updateUIForSegment(seg);
+    segStartedAt = Date.now();
 
     if(seg.type === 'speak'){
       await speakSeg(seg, token);
@@ -1195,7 +1232,7 @@ function onProgramFinished(token){
   if(currentProgram.type === 'intro'){
     state.introDone = true;
     saveState(state);
-    startLesson(0, 0); // enchaîne directement sur la toute première leçon, gratuite
+    startLesson(0, 0); // enchaîne directement sur la toute première leçon, gratuite (sauf langue sans voix : voir voiceGuard)
   } else if(currentProgram.type === 'tip'){
     const key = 'lv'+LEVELS[currentLevel].id+'-tip-'+currentProgram.mi+'-'+currentProgram.li;
     if(!state.completed.includes(key)){ state.completed.push(key); saveState(state); }
@@ -1210,6 +1247,15 @@ function onProgramFinished(token){
     markLessonComplete(currentProgram.mi, currentProgram.li);
     goToNextLessonOrStop(currentProgram.mi, currentProgram.li, token);
   }
+}
+
+// Langue sans voix installée : on ne lance jamais une leçon qui resterait muette ;
+// on ferme la séance en cours et on montre comment installer la voix.
+function voiceGuard(){
+  if(!tgtVoiceMissing) return false;
+  if($('session').style.display === 'flex') closeSession();
+  openNoVoiceHelp();
+  return true;
 }
 
 function startIntro(){
@@ -1228,6 +1274,7 @@ function startIntro(){
 // Lecture autonome d'un point de grammaire depuis la liste (indépendamment
 // du déroulé automatique qui le joue aussi à la fin de sa leçon associée).
 function startTip(mi, li){
+  if(voiceGuard()) return;
   const lesson = MODULES[mi].lessons[li];
   if(!lesson || !lesson.tip) return;
   const tipNum = TIP_NUMBERS[mi+'-'+li] || '';
@@ -1246,6 +1293,7 @@ function startTip(mi, li){
 
 // Lecture d'une "Évaluation" : révision aléatoire des leçons précédentes.
 function startEval(mi, anchor){
+  if(voiceGuard()) return;
   const info = EVAL_NUMBERS[mi+'-'+anchor];
   if(!info) return;
   const evalLabel = info.isFinal ? 'Évaluation finale' : `Évaluation ${info.num}`;
@@ -1263,6 +1311,7 @@ function startEval(mi, anchor){
 }
 
 function startLesson(mi, li){
+  if(voiceGuard()) return;
   currentModule = mi; currentLesson = li;
   currentProgram = {type:'lesson', mi, li};
   segments = buildLessonSegments(mi, li);
@@ -1312,6 +1361,15 @@ function closeSession(){
 }
 
 /* ---------- navigation ±10s / barre de défilement ---------- */
+// On reprend toujours sur une phrase parlée : atterrir au début d'un long
+// silence (« à toi de répéter ») donnerait l'impression que rien ne se passe.
+function snapToSpeech(idx, forward){
+  const last = segments.length - 1;
+  idx = Math.max(0, Math.min(idx, last));
+  if(forward){ while(idx < last && segments[idx].type === 'wait') idx++; }
+  else { while(idx > 0 && segments[idx].type === 'wait') idx--; }
+  return idx;
+}
 function seekToMs(targetMs){
   if(!segments.length) return;
   const starts = computeSegmentStarts();
@@ -1322,13 +1380,27 @@ function seekToMs(targetMs){
     if(starts[i] <= targetMs) idx = i; else break;
   }
   cancelSpeech();
-  playFrom(idx);
+  playFrom(snapToSpeech(idx, false));
 }
 function skipBy(deltaMs){
   if(!segments.length) return;
   const starts = computeSegmentStarts();
-  const current = starts[segIndex] !== undefined ? starts[segIndex] : elapsedBaseMs;
-  seekToMs(current + deltaMs);
+  const base = starts[segIndex] !== undefined ? starts[segIndex] : elapsedBaseMs;
+  if(deltaMs > 0){
+    // +10 s : on avance TOUJOURS d'au moins un passage (avant, pendant un long
+    // texte, « +10 » relançait ce même texte depuis son début).
+    if(segIndex >= segments.length - 1) return;
+    let idx = segIndex + 1;
+    while(idx < segments.length - 1 && starts[idx + 1] <= base + deltaMs) idx++;
+    cancelSpeech();
+    playFrom(snapToSpeech(idx, true));
+    return;
+  }
+  // −10 s : si la phrase en cours est entamée depuis plus de 4 s, on la réécoute ;
+  // sinon on remonte de 10 s avant son début.
+  const cur = segments[segIndex];
+  if(cur && cur.type === 'speak' && Date.now() - segStartedAt > 4000){ cancelSpeech(); playFrom(segIndex); return; }
+  seekToMs(base + deltaMs);
 }
 
 /* ---------- PAYWALL / ACHAT INTÉGRÉ (RevenueCat) ----------

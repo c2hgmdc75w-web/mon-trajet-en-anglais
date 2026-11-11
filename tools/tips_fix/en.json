@@ -29,11 +29,13 @@
  },
  "1-1-0": {
   "title": "Le passé continu (past continuous)",
-  "body": "Le passé continu (« was/were » + verbe en -ing) décrit une action en train de se dérouler dans le passé, souvent interrompue par un autre événement. On le forme avec « was » ou « were » selon le sujet, suivi du verbe en -ing : « I was driving », « They were packing »."
+  "body": "Le passé continu (« was/were » + verbe en -ing) décrit une action en train de se dérouler dans le passé, souvent interrompue par un autre événement. On le forme avec « was » ou « were » selon le sujet, suivi du verbe en -ing : « I was driving », « They were packing ».",
+  "example": "On était en train de planifier l'itinéraire quand tu as appelé. — We <b>were planning</b> the route when you called."
  },
  "1-1-1": {
   "title": "Le first conditional : « if » + présent, « will »",
-  "body": "Pour parler d'une conséquence probable dans le futur, on utilise « if » suivi du présent simple, puis « will » (ou un impératif) dans la deuxième partie : « If it rains, we will stay inside. » Contrairement au français, on n'utilise jamais « will » après « if »."
+  "body": "Pour parler d'une conséquence probable dans le futur, on utilise « if » suivi du présent simple, puis « will » (ou un impératif) dans la deuxième partie : « If it rains, we will stay inside. » Comme en français après « si », on ne met jamais le futur juste après « if ».",
+  "example": "S'il fait beau demain, on ira se baigner dans le lac. — <b>If</b> it's nice tomorrow, we<b>'ll</b> go swimming in the lake."
  },
  "2-0-0": {
   "title": "Le second conditionnel : « if » + prétérit, « would »",
@@ -46,5 +48,24 @@
  "2-0-3": {
   "title": "Le present perfect continuous",
   "body": "Le present perfect continuous (« have/has been » + verbe en -ing) décrit une action commencée dans le passé et qui continue, ou vient tout juste de s'arrêter, en insistant sur sa durée. On l'utilise souvent avec « for » et « since » : « I've been waiting for an hour »."
+ },
+ "2-1-0": {
+  "example": "Si tout s'était passé comme prévu, on serait déjà arrivés à destination. — If everything <b>had gone</b> as planned, we <b>would</b> already <b>be</b> at our destination."
+ },
+ "2-1-18": {
+  "example": "Si on n'avait pas commencé à préparer ce voyage un an à l'avance, on n'aurait jamais été prêts. — If we hadn't <b>started preparing</b> this trip a year in advance, we would never have been ready.",
+  "body": "En anglais, certains verbes sont suivis d'un verbe en -ing (le gérondif) et non de l'infinitif : « avoid doing », « enjoy travelling », « keep trying », « finish packing ». D'autres, comme « start », acceptent les deux : « we started preparing ». C'est une source fréquente d'erreurs pour les francophones, habitués à l'infinitif après la plupart des verbes."
+ },
+ "1-2-1": {
+  "example": "Moi aussi, je pense que c'est une bonne idée. — I think it's a good idea <b>too</b>."
+ },
+ "2-2-1": {
+  "example": "On dit qu'il aurait démissionné la semaine dernière. — <b>It is said that</b> he resigned last week."
+ },
+ "0-2-2": {
+  "body": "En anglais, on ajoute « 's » à une personne pour montrer la possession, et l'ordre s'inverse par rapport au français : « le bureau de mon frère » devient « my brother's office » (le possesseur d'abord). Au pluriel finissant déjà par « s », on ajoute juste une apostrophe : « my parents' house », « the students' books »."
+ },
+ "0-1-14": {
+  "body": "« Already » (déjà) se glisse entre l'auxiliaire et le verbe au present perfect : « I have already booked » : c'est sa place la plus naturelle. Il souligne qu'une action est faite plus tôt que prévu."
  }
 }

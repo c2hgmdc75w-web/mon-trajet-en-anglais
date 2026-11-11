@@ -14,7 +14,8 @@
   "susamlı": "susamlı",
   "şekersiz": "şekersiz",
   "sütsüz": "sütsüz",
-  "süt": "süt"
+  "süt": "süt",
+  "u": "u"
  },
  "0-0-2": {
   "Merhaba": "Merhaba",
@@ -25,7 +26,8 @@
   "iyiyim": "iyiyim",
   "teşekkürler": "teşekkürler",
   "iyi akşamlar": "iyi akşamlar",
-  "hoşça kalın": "hoşça kalın"
+  "hoşça kalın": "hoşça kalın",
+  "sınız": "sınız"
  },
  "0-0-3": {
   "Ben": "Ben",
@@ -36,7 +38,8 @@
   "siz": "siz",
   "onlar": "onlar",
   "yorgunum": "yorgunum",
-  "mutluyuz": "mutluyuz"
+  "mutluyuz": "mutluyuz",
+  "um": "um"
  },
  "0-0-4": {
   "Fransızım": "Fransızım",
@@ -45,7 +48,10 @@
   "Türksünüz": "Türksünüz",
   "öğretmenim": "öğretmenim",
   "mutluyum": "mutluyum",
-  "kocam Türk": "kocam Türk"
+  "kocam Türk": "kocam Türk",
+  "ım": "ım",
+  "ız": "ız",
+  "sınız": "sınız"
  },
  "0-0-5": {
   "Değil": "Değil",
@@ -55,7 +61,8 @@
   "değilim": "değilim",
   "değiliz": "değiliz",
   "Ben Türk değilim": "Ben Türk değilim",
-  "sorun değil": "sorun değil"
+  "sorun değil": "sorun değil",
+  "ğ": "ğ"
  },
  "0-0-6": {
   "Ahmet çay içiyor": "Ahmet çay içiyor",
@@ -126,7 +133,11 @@
   "çocuklar": "çocuklar",
   "çok": "çok",
   "çok kedi": "çok kedi",
-  "kedi, kediler": "kedi, kediler"
+  "kedi, kediler": "kedi, kediler",
+  "-ler": "ler",
+  "-lar": "lar",
+  "ler": "ler",
+  "lar": "lar"
  },
  "0-0-12": {
   "Nerede": "Nerede",
@@ -147,7 +158,12 @@
   "oku": "oku",
   "okuyorum": "okuyorum",
   "bekliyoruz": "bekliyoruz",
-  "okuyor": "okuyor"
+  "okuyor": "okuyor",
+  "-iyor": "iyor",
+  "iyor": "iyor",
+  "um": "um",
+  "uz": "uz",
+  "yor": "yor"
  },
  "0-0-14": {
   "Gelmiyorum": "Gelmiyorum",
@@ -158,7 +174,9 @@
   "çalışmıyorum": "çalışmıyorum",
   "anla": "anla",
   "anlamıyorum": "anlamıyorum",
-  "uyumuyor": "uyumuyor"
+  "uyumuyor": "uyumuyor",
+  "yor": "yor",
+  "um": "um"
  },
  "0-0-15": {
   "ne": "ne",
@@ -193,7 +211,9 @@
   "yok": "yok",
   "param yok": "param yok",
   "kediniz var mı": "kediniz var mı",
-  "balkonumuz var": "balkonumuz var"
+  "balkonumuz var": "balkonumuz var",
+  "niz": "niz",
+  "iniz": "iniz"
  },
  "0-0-18": {
   "İstiyorum": "İstiyorum",
@@ -203,7 +223,9 @@
   "çay istiyorum": "çay istiyorum",
   "film izlemek istiyorum": "film izlemek istiyorum",
   "istemiyorum": "istemiyorum",
-  "istiyor musunuz": "istiyor musunuz"
+  "istiyor musunuz": "istiyor musunuz",
+  "mek": "mek",
+  "mak": "mak"
  },
  "0-0-19": {
   "teşekkürler": "teşekkürler",
@@ -225,7 +247,9 @@
   "Yarın Efes'e gidiyoruz": "Yarın Efes'e gidiyoruz",
   "Dün geldim": "Dün geldim",
   "Bugün plaja gidiyoruz": "Bugün plaja gidiyoruz",
-  "Dün hava sıcaktı": "Dün hava sıcaktı"
+  "Dün hava sıcaktı": "Dün hava sıcaktı",
+  "gün": "gün",
+  "-iyor": "iyor"
  },
  "0-1-3": {
   "İzmir'e": "İzmir'e",
@@ -237,7 +261,8 @@
   "otele": "otele",
   "limana": "limana",
   "pazara": "pazara",
-  "Çeşme": "Çeşme"
+  "Çeşme": "Çeşme",
+  "i": "i"
  },
  "0-1-5": {
   "Kaç lira ?": "Kaç lira?",
@@ -258,7 +283,11 @@
   "kadar": "kadar",
   "İzmir'den Selçuk'a kadar": "İzmir'den Selçuk'a kadar",
   "sekizden on dokuza kadar": "sekizden on dokuza kadar",
-  "öğlene kadar": "öğlene kadar"
+  "öğlene kadar": "öğlene kadar",
+  "-den": "den",
+  "-e kadar": "e kadar",
+  "den": "den",
+  "i": "i"
  },
  "0-1-9": {
   "Otobüsle": "Otobüsle",
@@ -267,7 +296,12 @@
   "eşimle": "eşimle",
   "bizimle": "bizimle",
   "kartla": "kartla",
-  "taksiyle": "taksiyle"
+  "taksiyle": "taksiyle",
+  "i": "i",
+  "ö": "ö",
+  "ü": "ü",
+  "ı": "ı",
+  "u": "u"
  },
  "0-1-11": {
   "Gidelim": "Gidelim",
@@ -280,7 +314,9 @@
   "mi": "mi",
   "Taksiye binelim mi ?": "Taksiye binelim mi?",
   "Bir çay içelim": "Bir çay içelim",
-  "Kordon'da yürüyelim": "Kordon'da yürüyelim"
+  "Kordon'da yürüyelim": "Kordon'da yürüyelim",
+  "elim": "elim",
+  "alım": "alım"
  },
  "0-1-13": {
   "Uzak mı, yakın mı ?": "Uzak mı, yakın mı?",
@@ -301,7 +337,12 @@
   "taksimetreyi": "taksimetreyi",
   "Bu peyniri çok seviyorum": "Bu peyniri çok seviyorum",
   "simit": "simit",
-  "simidi": "simidi"
+  "simidi": "simidi",
+  "-i": "i",
+  "i": "i",
+  "ı": "ı",
+  "u": "u",
+  "ü": "ü"
  },
  "0-1-17": {
   "Sağ": "Sağ",
@@ -337,7 +378,8 @@
   "adı": "adı",
   "benim": "benim",
   "benim adım Mert": "benim adım Mert",
-  "memnun oldum": "memnun oldum"
+  "memnun oldum": "memnun oldum",
+  "ım": "ım"
  },
  "0-2-3": {
   "Seviyorum": "Seviyorum",
@@ -346,7 +388,10 @@
   "çayı seviyorum": "çayı seviyorum",
   "sevmiyorum": "sevmiyorum",
   "seviyor musun ?": "seviyor musun?",
-  "okumayı seviyorum": "okumayı seviyorum"
+  "okumayı seviyorum": "okumayı seviyorum",
+  "sev": "sev",
+  "iyor": "iyor",
+  "um": "um"
  },
  "0-2-5": {
   "anne": "anne",
@@ -370,7 +415,10 @@
   "nasılsın ?": "nasılsın?",
   "nasılsınız ?": "nasılsınız?",
   "sen diyelim mi ?": "sen diyelim mi?",
-  "teyze": "teyze"
+  "teyze": "teyze",
+  "sın": "sın",
+  "sınız": "sınız",
+  "ız": "ız"
  },
  "0-2-9": {
   "daha": "daha",
@@ -380,7 +428,8 @@
   "restorandan daha güzel": "restorandan daha güzel",
   "en güzel": "en güzel",
   "en iyi": "en iyi",
-  "daha az": "daha az"
+  "daha az": "daha az",
+  "den": "den"
  },
  "0-2-11": {
   "Çünkü": "Çünkü",
@@ -405,7 +454,9 @@
   "arkadaşımın evi": "arkadaşımın evi",
   "arkadaşımın": "arkadaşımın",
   "evi": "evi",
-  "Mert'in annesi": "Mert'in annesi"
+  "Mert'in annesi": "Mert'in annesi",
+  "ın": "ın",
+  "i": "i"
  },
  "0-2-17": {
   "Çok": "Çok",
@@ -418,7 +469,8 @@
   "bekle": "bekle",
   "daha": "daha",
   "biraz daha": "biraz daha",
-  "evet, biraz": "evet, biraz"
+  "evet, biraz": "evet, biraz",
+  "bir": "bir"
  },
  "0-2-19": {
   "yani": "yani",
@@ -438,14 +490,23 @@
   "gördüm": "gördüm",
   "içtik": "içtik",
   "gittim": "gittim",
-  "gördünüz": "gördünüz"
+  "gördünüz": "gördünüz",
+  "ti": "ti",
+  "git": "git",
+  "niz": "niz"
  },
  "1-0-4": {
   "yapacağım": "yapacağım",
   "gelecek": "gelecek",
   "yapacak": "yapacak",
   "gideceğiz": "gideceğiz",
-  "yapacaksınız": "yapacaksınız"
+  "yapacaksınız": "yapacaksınız",
+  "-ecek": "ecek",
+  "ecek": "ecek",
+  "acak": "acak",
+  "git": "git",
+  "gid": "gid",
+  "iz": "iz"
  },
  "1-0-5": {
   "gel": "gel",
@@ -461,7 +522,11 @@
   "Geldi": "Geldi",
   "gelmiş": "gelmiş",
   "yağmış": "yağmış",
-  "Oğlunuz ne kadar büyümüş !": "Oğlunuz ne kadar büyümüş!"
+  "Oğlunuz ne kadar büyümüş !": "Oğlunuz ne kadar büyümüş!",
+  "yağ": "yağ",
+  "mış": "mış",
+  "muş": "muş",
+  "müş": "müş"
  },
  "1-0-18": {
   "Yapma": "Yapma",
@@ -470,7 +535,9 @@
   "yapmayın": "yapmayın",
   "merak etmeyin": "merak etmeyin",
   "koşma": "koşma",
-  "unutma": "unutma"
+  "unutma": "unutma",
+  "yap": "yap",
+  "koş": "koş"
  },
  "1-1-2": {
   "içerim": "içerim",
@@ -478,14 +545,26 @@
   "yerim": "yerim",
   "gelir": "gelir",
   "içmem": "içmem",
-  "yemem": "yemem"
+  "yemem": "yemem",
+  "iç": "iç",
+  "er": "er",
+  "im": "im",
+  "mez": "mez",
+  "maz": "maz"
  },
  "1-1-4": {
   "gidebilir miyim ?": "gidebilir miyim?",
   "Gitmek": "Gitmek",
   "gidebilirim": "gidebilirim",
   "yürüyemem": "yürüyemem",
-  "gelemem": "gelemem"
+  "gelemem": "gelemem",
+  "-ebilir": "ebilir",
+  "ebil": "ebil",
+  "abil": "abil",
+  "gid": "gid",
+  "ir": "ir",
+  "eme": "eme",
+  "bil": "bil"
  },
  "1-1-7": {
   "gelirsen": "gelirsen",
@@ -493,7 +572,9 @@
   "gelirseniz": "gelirseniz",
   "gelirsek": "gelirsek",
   "üç yer ayırtırım": "üç yer ayırtırım",
-  "kuvvetliyse": "kuvvetliyse"
+  "kuvvetliyse": "kuvvetliyse",
+  "ir": "ir",
+  "sen": "sen"
  },
  "1-1-11": {
   "Görmek istiyorum": "Görmek istiyorum",
@@ -502,7 +583,9 @@
   "kalmak": "kalmak",
   "uyumak": "uyumak",
   "bir gün daha kalmak istiyoruz": "bir gün daha kalmak istiyoruz",
-  "binmek istemiyorum": "binmek istemiyorum"
+  "binmek istemiyorum": "binmek istemiyorum",
+  "mek": "mek",
+  "mak": "mak"
  },
  "1-1-15": {
   "önce": "önce",
@@ -511,7 +594,11 @@
   "kahvaltı": "kahvaltı",
   "öğleden önce": "öğleden önce",
   "müzeden sonra": "müzeden sonra",
-  "çıkmadan önce": "çıkmadan önce"
+  "çıkmadan önce": "çıkmadan önce",
+  "-den önce": "den önce",
+  "-den sonra": "den sonra",
+  "den": "den",
+  "madan önce": "madan önce"
  },
  "1-2-1": {
   "naber": "naber",
@@ -546,7 +633,9 @@
   "sen yüzerken": "sen yüzerken",
   "yürürken": "yürürken",
   "yemek yerken": "yemek yerken",
-  "çocukken": "çocukken"
+  "çocukken": "çocukken",
+  "-ken": "ken",
+  "ken": "ken"
  },
  "1-2-17": {
   "kolay gelsin": "kolay gelsin",
@@ -578,7 +667,9 @@
   "temizletmek": "temizletmek",
   "boyamak": "boyamak",
   "boyatmak": "boyatmak",
-  "tamir ettirmem lazım": "tamir ettirmem lazım"
+  "tamir ettirmem lazım": "tamir ettirmem lazım",
+  "dir": "dir",
+  "tir": "tir"
  },
  "2-0-4": {
   "gelen adam": "gelen adam",
@@ -613,7 +704,10 @@
   "gördüğün": "gördüğün",
   "gördüğümüz": "gördüğümüz",
   "aldığım bilet": "aldığım bilet",
-  "tanıştığımız rehber": "tanıştığımız rehber"
+  "tanıştığımız rehber": "tanıştığımız rehber",
+  "-diğim": "diğim",
+  "-dik": "dik",
+  "ğ": "ğ"
  },
  "2-1-3": {
   "İçin": "İçin",
@@ -630,14 +724,19 @@
   "gitseydim": "gitseydim",
   "kalsaydık": "kalsaydık",
   "yapsaydık": "yapsaydık",
-  "bilseydim": "bilseydim"
+  "bilseydim": "bilseydim",
+  "ydi": "ydi",
+  "git": "git",
+  "seydi": "seydi"
  },
  "2-1-11": {
   "Çıkmak": "Çıkmak",
   "çıkmalıyız": "çıkmalıyız",
   "gitmeliyim": "gitmeliyim",
   "giymelisiniz": "giymelisiniz",
-  "yürümemeliyiz": "yürümemeliyiz"
+  "yürümemeliyiz": "yürümemeliyiz",
+  "-meli": "meli",
+  "-malı": "malı"
  },
  "2-1-17": {
   "Gittikçe": "Gittikçe",
@@ -686,7 +785,9 @@
   "iptal etmek zorunda kaldım": "iptal etmek zorunda kaldım",
   "değil": "değil",
   "zorunda değilsiniz": "zorunda değilsiniz",
-  "zor": "zor"
+  "zor": "zor",
+  "-mek": "mek",
+  "-mak": "mak"
  },
  "2-2-11": {
   "damlaya damlaya göl olur": "damlaya damlaya göl olur",

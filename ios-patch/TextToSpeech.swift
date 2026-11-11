@@ -20,6 +20,10 @@ import Capacitor
 //    s'éteint ; avec la séquence native, la lecture continue écran noir /
 //    verrouillé, sans dépendre du JavaScript. La page est tenue au courant
 //    par des événements (seqProgress / seqEnd) qu'elle traite à son réveil.
+//  - INTERRUPTIONS (appel téléphonique, Siri, alarme…) : iOS coupe le son de
+//    l'app. On met alors la séquence en pause proprement (seqPaused) et on la
+//    reprend automatiquement quand iOS signale la fin de l'interruption
+//    (seqResumed). Sans cela, la leçon restait bloquée après un appel.
 
 enum QUEUE_STRATEGY: Int {
     case QUEUE_ADD = 1, QUEUE_FLUSH = 0
@@ -55,6 +59,8 @@ final class MTRenderJob {
     private var seqActive = false
     private var seqPaused = false
     private var seqInWait = false
+    private var seqEnded = false       // la séquence est allée jusqu'au bout (≠ arrêtée)
+    private var seqInterrupted = false // mise en pause par iOS (appel, Siri…), pas par l'utilisateur
     private var waitRemaining: Double = 0
     private var waitStartedAt: Date?
     private var waitGen = 0
@@ -63,6 +69,48 @@ final class MTRenderJob {
         super.init()
         self.synthesizer.usesApplicationAudioSession = true
         self.synthesizer.delegate = self
+        NotificationCenter.default.addObserver(self,
+                                               selector: #selector(handleInterruption(_:)),
+                                               name: AVAudioSession.interruptionNotification,
+                                               object: nil)
+    }
+
+    deinit {
+        NotificationCenter.default.removeObserver(self)
+    }
+
+    // MARK: - Interruptions (appel téléphonique, Siri, alarme…)
+
+    @objc private func handleInterruption(_ note: Notification) {
+        guard let info = note.userInfo,
+              let rawType = info[AVAudioSessionInterruptionTypeKey] as? UInt,
+              let type = AVAudioSession.InterruptionType(rawValue: rawType) else { return }
+        let rawOptions = (info[AVAudioSessionInterruptionOptionKey] as? UInt) ?? 0
+        let shouldResume = AVAudioSession.InterruptionOptions(rawValue: rawOptions).contains(.shouldResume)
+        // iOS envoie aussi un « début d'interruption » en retard quand l'app avait
+        // simplement été mise en sommeil : ce n'est pas une vraie coupure, on l'ignore
+        // (sinon une leçon tout juste lancée se mettrait en pause toute seule).
+        let wasSuspended = (info["AVAudioSessionInterruptionWasSuspendedKey"] as? Bool) ?? false
+        let rawReason = (info["AVAudioSessionInterruptionReasonKey"] as? UInt) ?? 0 // 1 = l'app avait été suspendue
+        DispatchQueue.main.async { [weak self] in
+            guard let s = self else { return }
+            if type == .began {
+                if wasSuspended || rawReason == 1 { return }
+                // iOS vient de couper notre son : on fige la séquence là où elle en est.
+                guard s.seqActive, !s.seqPaused else { return }
+                s.pauseNow()
+                s.seqInterrupted = true
+                s.notify?("seqPaused", ["seq": s.seqId])
+            } else {
+                guard s.seqInterrupted else { return }
+                s.seqInterrupted = false
+                // Fin de l'appel : on reprend tout seul si iOS l'autorise ; sinon la
+                // leçon reste en pause et l'utilisateur la relance avec le bouton lecture.
+                if shouldResume, s.seqActive, s.seqPaused {
+                    s.resumeNow(2, true)
+                }
+            }
+        }
     }
 
     // MARK: - Session audio
@@ -283,6 +331,8 @@ final class MTRenderJob {
     private func stopSequence() {
         seqActive = false
         seqPaused = false
+        seqEnded = false
+        seqInterrupted = false
         seqInWait = false
         waitStartedAt = nil
         waitGen += 1
@@ -373,6 +423,8 @@ final class MTRenderJob {
             s.seqId = id
             s.seqActive = true
             s.seqPaused = false
+            s.seqEnded = false
+            s.seqInterrupted = false
             s.touchKeepAlive()
             s.seqRun()
         }
@@ -391,6 +443,7 @@ final class MTRenderJob {
         let id = seqId
         if seqIndex >= seqItems.count {
             seqActive = false
+            seqEnded = true
             seqItems = []
             touchKeepAlive() // la piste silencieuse s'arrêtera seule après le délai d'inactivité
             notify?("seqEnd", ["seq": id])
@@ -436,40 +489,69 @@ final class MTRenderJob {
         }
     }
 
+    // Fige la séquence (à appeler sur le fil principal).
+    private func pauseNow() {
+        guard seqActive, !seqPaused else { return }
+        seqPaused = true
+        if seqInWait, let t = waitStartedAt {
+            waitRemaining = max(0, waitRemaining - Date().timeIntervalSince(t))
+            waitStartedAt = nil
+            waitGen += 1
+        }
+        if let p = player, p.isPlaying { p.pause() }
+        if liveUtterance != nil && synthesizer.isSpeaking { synthesizer.pauseSpeaking(at: .word) }
+        keepAlive?.pause()
+    }
+
+    // Relance la séquence là où elle s'était arrêtée (à appeler sur le fil principal).
+    // retriesLeft : nouvelles tentatives si iOS refuse encore de rendre le son
+    // (juste après un appel) ; announce : prévenir la page que la lecture a repris.
+    private func resumeNow(_ retriesLeft: Int, _ announce: Bool) {
+        guard seqActive, seqPaused else { return }
+        sessionReady = false // après un appel, la session audio doit être réactivée
+        ensureSession()
+        if !seqInWait, let p = player, !p.isPlaying {
+            if !p.play() {
+                // Le son n'est pas encore rendu à l'app : on réessaie un peu plus tard,
+                // sinon on reste en pause (l'utilisateur relancera avec le bouton lecture).
+                let id = seqId
+                if retriesLeft > 0 {
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 1.5) { [weak self] in
+                        guard let s = self, s.seqActive, s.seqPaused, s.seqId == id else { return }
+                        s.resumeNow(retriesLeft - 1, announce)
+                    }
+                } else {
+                    notify?("seqPaused", ["seq": id])
+                }
+                return
+            }
+        }
+        seqPaused = false
+        seqInterrupted = false
+        touchKeepAlive()
+        if seqInWait {
+            scheduleWait(waitRemaining, seqId, seqIndex)
+        } else if player == nil && liveUtterance != nil {
+            synthesizer.continueSpeaking()
+        }
+        // sinon : la phrase est en cours de fabrication, elle démarrera seule.
+        if announce { notify?("seqResumed", ["seq": seqId]) }
+    }
+
     @objc public func pauseSequence() {
         DispatchQueue.main.async { [weak self] in
-            guard let s = self, s.seqActive, !s.seqPaused else { return }
-            s.seqPaused = true
-            if s.seqInWait, let t = s.waitStartedAt {
-                s.waitRemaining = max(0, s.waitRemaining - Date().timeIntervalSince(t))
-                s.waitStartedAt = nil
-                s.waitGen += 1
-            }
-            if let p = s.player, p.isPlaying { p.pause() }
-            if s.liveUtterance != nil && s.synthesizer.isSpeaking { s.synthesizer.pauseSpeaking(at: .word) }
-            s.keepAlive?.pause()
+            self?.pauseNow()
         }
     }
 
     @objc public func resumeSequence() {
         DispatchQueue.main.async { [weak self] in
-            guard let s = self, s.seqActive, s.seqPaused else { return }
-            s.seqPaused = false
-            s.ensureSession()
-            s.touchKeepAlive()
-            if s.seqInWait {
-                s.scheduleWait(s.waitRemaining, s.seqId, s.seqIndex)
-            } else if let p = s.player {
-                if !p.isPlaying { p.play() }
-            } else if s.liveUtterance != nil {
-                s.synthesizer.continueSpeaking()
-            }
-            // sinon : la phrase est en cours de fabrication, elle démarrera seule.
+            self?.resumeNow(0, false)
         }
     }
 
     @objc public func sequenceState() -> [String: Any] {
-        return ["seq": seqId, "index": seqIndex, "active": seqActive, "paused": seqPaused]
+        return ["seq": seqId, "index": seqIndex, "active": seqActive, "paused": seqPaused, "ended": seqEnded]
     }
 
     @objc public func getSupportedLanguages() -> [String] {
