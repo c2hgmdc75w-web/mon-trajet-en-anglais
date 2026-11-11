@@ -752,28 +752,48 @@ function buildSeriesSegments(mi, li){
   segs.push(S(`Série : ${ser.title}.`, 'fr', 1, lab, CTX, 'headphones', false, ser.title, ''));
   segs.push(W(400, lab, CTX, 'headphones', false, ser.title, ''));
   if(ser.intro){ segs.push(S(ser.intro, 'fr', 1, lab, CTX, 'headphones', false, ser.title, '')); segs.push(W(600, lab, CTX, 'headphones', false, ser.title, '')); }
-  // 1. Groupe par groupe : les mots français du groupe, puis le groupe dans la langue, deux fois, avec un temps pour répéter.
-  const sofar = [];
-  ser.chunks.forEach((c, ci)=>{
-    const ex = {idx:ci, total:ser.chunks.length};
-    const f = frList(c), t = tgtList(c);
-    segs.push(S(f, 'fr', 1, `${lab} — écoute`, CTX, 'headphones', false, f, '', ex));
-    segs.push(W(300, `${lab} — écoute`, CTX, 'headphones', false, f, '', ex));
-    segs.push(S(t, 'tgt', 0.8, `${lab} — écoute`, TGT, 'speaker', false, f, t, ex));
-    segs.push(W(rep(t), 'À toi de répéter', SPK, 'repeat', true, f, t, ex));
-    segs.push(S(t, 'tgt', 0.8, 'Encore une fois', TGT, 'speaker', false, f, t, ex));
-    segs.push(W(rep(t), 'À toi de répéter', SPK, 'repeat', true, f, t, ex));
-    sofar.push(...c);
-    // 2. Depuis le début : on enchaîne tout ce qui a été vu.
-    if(ci > 0){
-      const all = tgtList(sofar), allFr = frList(sofar);
-      const last = ci === ser.chunks.length - 1;
-      segs.push(S(last ? 'Toute la série, maintenant.' : 'Depuis le début.', 'fr', 1, `${lab} — enchaîne`, CTX, 'headphones', false, '', '', ex));
-      segs.push(W(300, `${lab} — enchaîne`, CTX, 'headphones', false, '', '', ex));
-      segs.push(S(all, 'tgt', 0.85, `${lab} — enchaîne`, TGT, 'speaker', false, allFr, all, ex));
-      segs.push(W(rep(all), 'À toi de répéter', SPK, 'repeat', true, allFr, all, ex));
+  // Progression demandée par Alexis (ex. 0 à 10) : on apprend par groupes (0-3, 4-7, 8-10),
+  // puis on regroupe AUTREMENT deux fois (0-4, 5-8, 9-10, puis 0-1, 2-5, 6-10) pour que
+  // les frontières bougent et que tout se soude, et enfin toute la série d'un bloc.
+  const all = ser.chunks.flat();
+  const sizes0 = ser.chunks.map(c=>c.length);
+  const maxC = Math.max(...sizes0);
+  const cut = sizes => { const out = []; let i = 0; for(const n of sizes){ if(i >= all.length) break; out.push(all.slice(i, i+n)); i += n; } if(i < all.length) out.push(all.slice(i)); if(out.length > 1 && out[out.length-1].length === 1){ const l = out.pop(); out[out.length-1] = out[out.length-1].concat(l); } return out; };
+  const fill = (first, step) => { const sz = [first]; let left = all.length - first; while(left > 0){ if(left <= step + 1){ sz.push(left); break; } sz.push(step); left -= step; } return sz; };
+  const passes = [
+    { groups: ser.chunks, twice: true,  intro: '' },
+    { groups: cut([sizes0[0] + 1, ...sizes0.slice(1)]), twice: false, intro: 'On regroupe autrement.' },
+    { groups: cut(fill(2, maxC)), twice: false, intro: 'Encore une autre façon de regrouper.' }
+  ];
+  passes.forEach((pass, pi)=>{
+    if(pass.intro){
+      segs.push(S(pass.intro, 'fr', 1, `${lab} — regroupe`, CTX, 'headphones', false, '', ''));
+      segs.push(W(400, `${lab} — regroupe`, CTX, 'headphones', false, '', ''));
     }
+    pass.groups.forEach((c, ci)=>{
+      const ex = {idx:ci, total:pass.groups.length};
+      const f = frList(c), t = tgtList(c);
+      const step = pi === 0 ? 'écoute' : 'regroupe';
+      segs.push(S(f, 'fr', 1, `${lab} — ${step}`, CTX, 'headphones', false, f, '', ex));
+      segs.push(W(300, `${lab} — ${step}`, CTX, 'headphones', false, f, '', ex));
+      segs.push(S(t, 'tgt', 0.8, `${lab} — ${step}`, TGT, 'speaker', false, f, t, ex));
+      segs.push(W(rep(t), 'À toi de répéter', SPK, 'repeat', true, f, t, ex));
+      if(pass.twice){
+        segs.push(S(t, 'tgt', 0.8, 'Encore une fois', TGT, 'speaker', false, f, t, ex));
+        segs.push(W(rep(t), 'À toi de répéter', SPK, 'repeat', true, f, t, ex));
+      }
+    });
   });
+  // 2. Toute la série d'un bloc, deux fois.
+  {
+    const t = tgtList(all), f = frList(all);
+    segs.push(S('Toute la série, maintenant.', 'fr', 1, `${lab} — toute la série`, CTX, 'headphones', false, '', ''));
+    segs.push(W(300, `${lab} — toute la série`, CTX, 'headphones', false, '', ''));
+    for(let k=0;k<2;k++){
+      segs.push(S(t, 'tgt', 0.85, `${lab} — toute la série`, TGT, 'speaker', false, f, t));
+      segs.push(W(rep(t), 'À toi de répéter', SPK, 'repeat', true, f, t));
+    }
+  }
   // 3. Dans le désordre : sans ça, on doit tout réciter depuis le début pour retrouver un mot.
   segs.push(S("Dans le désordre, maintenant : je te dis le mot en français, tu le dis vite.", 'fr', 1, `${lab} — dans le désordre`, SPK, 'repeat', false, '', ''));
   segs.push(W(600, `${lab} — dans le désordre`, SPK, 'repeat', false, '', ''));
