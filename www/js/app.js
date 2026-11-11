@@ -753,17 +753,17 @@ function buildSeriesSegments(mi, li){
   segs.push(W(400, lab, CTX, 'headphones', false, ser.title, ''));
   if(ser.intro){ segs.push(S(ser.intro, 'fr', 1, lab, CTX, 'headphones', false, ser.title, '')); segs.push(W(600, lab, CTX, 'headphones', false, ser.title, '')); }
   // Progression demandée par Alexis (ex. 0 à 10) : on apprend par groupes (0-3, 4-7, 8-10),
-  // puis on regroupe AUTREMENT deux fois (0-4, 5-8, 9-10, puis 0-1, 2-5, 6-10) pour que
-  // les frontières bougent et que tout se soude, et enfin toute la série d'un bloc.
+  // puis on regroupe AUTREMENT deux fois (0-4, 5-8, 9-10, puis 0-5, 6-10) pour que
+  // les frontières bougent et que tout se soude, puis en grands blocs (0-5, 6-10), et enfin toute la série d'un bloc.
   const all = ser.chunks.flat();
   const sizes0 = ser.chunks.map(c=>c.length);
   const maxC = Math.max(...sizes0);
   const cut = sizes => { const out = []; let i = 0; for(const n of sizes){ if(i >= all.length) break; out.push(all.slice(i, i+n)); i += n; } if(i < all.length) out.push(all.slice(i)); if(out.length > 1 && out[out.length-1].length === 1){ const l = out.pop(); out[out.length-1] = out[out.length-1].concat(l); } return out; };
-  const fill = (first, step) => { const sz = [first]; let left = all.length - first; while(left > 0){ if(left <= step + 1){ sz.push(left); break; } sz.push(step); left -= step; } return sz; };
   const passes = [
     { groups: ser.chunks, twice: true,  intro: '' },
     { groups: cut([sizes0[0] + 1, ...sizes0.slice(1)]), twice: false, intro: 'On regroupe autrement.' },
-    { groups: cut(fill(2, maxC)), twice: false, intro: 'Encore une autre façon de regrouper.' }
+    // 3e passage : deux grands blocs (ex. 0 à 5, puis 6 à 10) ; trois si la série est longue
+    { groups: cut((()=>{ const g = Math.ceil(all.length / 6), base = Math.floor(all.length / g); return Array.from({length:g}, (_,k)=> base + (k < all.length % g ? 1 : 0)); })()), twice: false, intro: 'Maintenant, en grands blocs.' }
   ];
   passes.forEach((pass, pi)=>{
     if(pass.intro){
