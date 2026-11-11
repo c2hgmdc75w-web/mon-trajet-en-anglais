@@ -918,11 +918,8 @@ function buildLessonSegments(mi, li){
   segs.push(S(closingText, 'fr', 1, 'Leçon terminée', SPK, 'check', false, '', ''));
   segs.push(W(3000, 'Leçon terminée', SPK, 'check', false, '', ''));
 
-  // 7. Point de grammaire, présenté et lu comme une mini-leçon audio
-  if(lesson.tip){
-    const tipNum = TIP_NUMBERS[mi+'-'+li] || '';
-    segs.push(...buildTipSegments(lesson.tip, tipNum));
-  }
+  // 7. Le point de grammaire n'est PAS collé ici : c'est un élément distinct, joué
+  //    juste après la leçon dans l'enchaînement (voir lessonExtras).
 
   // 8. Mot de la fin quand rien ne s'enchaîne après cette leçon
   //    (s'il y a une évaluation ou une série après, il est dit à la fin de celle-ci).
@@ -1282,6 +1279,7 @@ function lessonExtras(mi, li){
   const out = [];
   const m = MODULES[mi];
   if(!m || !m.lessons[li]) return out;
+  if(m.lessons[li].tip) out.push({type:'tip', lv:currentLevel, mi, li, chained:true});
   const info = EVAL_NUMBERS[mi+'-'+li];
   if(info) out.push({type:'eval', lv:currentLevel, mi, anchor:li, li, chained:true});
   if(m.lessons[li].series) out.push({type:'series', lv:currentLevel, mi, li, chained:true});
@@ -1291,6 +1289,7 @@ function programSegments(prog){
   return withLevel(prog.lv, ()=>{
     if(prog.type === 'lesson') return buildLessonSegments(prog.mi, prog.li);
     if(prog.type === 'series') return buildSeriesSegments(prog.mi, prog.li);
+    if(prog.type === 'tip') return buildTipSegments(MODULES[prog.mi].lessons[prog.li].tip, TIP_NUMBERS[prog.mi+'-'+prog.li] || '');
     if(prog.type === 'eval'){ const info = EVAL_NUMBERS[prog.mi+'-'+prog.anchor]; return buildEvalSegments(prog.mi, prog.anchor, info.isFinal, info.isFinal ? 'Évaluation finale' : `Évaluation ${info.num}`); }
     return [];
   });
@@ -1304,7 +1303,7 @@ function lessonChainAfter(prog){
   let pos, extrasLeft = [];
   if(prog.type === 'intro'){ pos = {lv:0, mi:0, li:-1}; }
   else if(prog.type === 'lesson'){ pos = {lv:lv0, mi:prog.mi, li:prog.li}; extrasLeft = withLevel(lv0, ()=>lessonExtras(prog.mi, prog.li)); }
-  else if((prog.type === 'eval' || prog.type === 'series') && prog.chained){
+  else if(prog.type === 'tip' || prog.type === 'eval' || prog.type === 'series'){
     // reprise (±10 s…) au milieu d'une évaluation ou d'une série enchaînée
     const li = prog.type === 'eval' ? prog.anchor : prog.li;
     pos = {lv:lv0, mi:prog.mi, li};
@@ -1383,6 +1382,7 @@ function programTitle(prog){
   if(prog.type === 'lesson'){ const lesson = m.lessons[prog.li]; return `${m.name} · Leçon ${prog.li+1}${lesson.title? ' · '+lesson.title:''}`; }
   if(prog.type === 'eval'){ const info = EVAL_NUMBERS[prog.mi+'-'+prog.anchor]; return `${m.name} · ${info.isFinal ? 'Évaluation finale' : 'Évaluation '+info.num}`; }
   if(prog.type === 'series') return `${m.name} · Série · ${m.lessons[prog.li].series.title}`;
+  if(prog.type === 'tip') return `Point grammaire ${TIP_NUMBERS[prog.mi+'-'+prog.li] || ''}`;
   return '';
 }
 function switchToChainedProgram(pg){
@@ -1502,28 +1502,18 @@ function onProgramFinished(token){
     state.introDone = true;
     saveState(state);
     startLesson(0, 0); // enchaîne directement sur la toute première leçon, gratuite (sauf langue sans voix : voir voiceGuard)
-  } else if(currentProgram.type === 'tip'){
-    const key = 'lv'+LEVELS[currentLevel].id+'-tip-'+currentProgram.mi+'-'+currentProgram.li;
-    if(!state.completed.includes(key)){ state.completed.push(key); saveState(state); }
-    closeSession();
-    showToast('Point de grammaire terminé ✓');
-  } else if(currentProgram.type === 'eval' || currentProgram.type === 'series'){
+  } else if(currentProgram.type === 'tip' || currentProgram.type === 'eval' || currentProgram.type === 'series'){
     markDone(currentProgram);
-    if(currentProgram.chained){
-      // fin d'un enchaînement automatique : série de la même leçon, leçon suivante, écran d'achat ou fin
-      const li0 = currentProgram.type === 'eval' ? currentProgram.anchor : currentProgram.li;
-      const rest = lessonExtras(currentProgram.mi, li0); const k = rest.findIndex(x=>x.type === currentProgram.type);
-      if(k >= 0 && rest[k+1]){ startSeries(rest[k+1].mi, rest[k+1].li, true); return; }
-      goToNextLessonOrStop(currentProgram.mi, li0, token);
-    } else {
-      closeSession();
-      showToast(currentProgram.type === 'eval' ? 'Évaluation terminée ✓' : 'Série terminée ✓');
-    }
+    // élément suivant de la même leçon (évaluation, série), sinon leçon suivante / écran d'achat / fin
+    const li0 = currentProgram.type === 'eval' ? currentProgram.anchor : currentProgram.li;
+    const rest = lessonExtras(currentProgram.mi, li0); const k = rest.findIndex(x=>x.type === currentProgram.type);
+    if(k >= 0 && rest[k+1]){ startExtra(rest[k+1]); return; }
+    goToNextLessonOrStop(currentProgram.mi, li0, token);
   } else {
     markLessonComplete(currentProgram.mi, currentProgram.li);
     // évaluation / série de cette leçon d'abord (mode navigateur ; en natif elles sont déjà dans la séquence)
     const ex = lessonExtras(currentProgram.mi, currentProgram.li);
-    if(ex.length){ if(ex[0].type === 'eval') startEval(ex[0].mi, ex[0].anchor, true); else startSeries(ex[0].mi, ex[0].li, true); return; }
+    if(ex.length){ startExtra(ex[0]); return; }
     goToNextLessonOrStop(currentProgram.mi, currentProgram.li, token);
   }
 }
@@ -1535,6 +1525,12 @@ function voiceGuard(){
   if($('session').style.display === 'flex') closeSession();
   openNoVoiceHelp();
   return true;
+}
+
+function startExtra(x){
+  if(x.type === 'tip') startTip(x.mi, x.li);
+  else if(x.type === 'eval') startEval(x.mi, x.anchor);
+  else startSeries(x.mi, x.li);
 }
 
 function startIntro(){
@@ -1558,7 +1554,7 @@ function startTip(mi, li){
   if(!lesson || !lesson.tip) return;
   const tipNum = TIP_NUMBERS[mi+'-'+li] || '';
 
-  currentProgram = {type:'tip', lv:currentLevel, mi, li};
+  currentProgram = {type:'tip', lv:currentLevel, mi, li, chained:true};
   segments = buildTipSegments(lesson.tip, tipNum);
 
   $('home').style.display = 'none';
@@ -1577,7 +1573,7 @@ function startEval(mi, anchor, chained){
   if(!info) return;
   const evalLabel = info.isFinal ? 'Évaluation finale' : `Évaluation ${info.num}`;
 
-  currentProgram = {type:'eval', lv:currentLevel, mi, anchor, li:anchor, chained:!!chained};
+  currentProgram = {type:'eval', lv:currentLevel, mi, anchor, li:anchor, chained:true};
   segments = buildEvalSegments(mi, anchor, info.isFinal, evalLabel);
 
   $('home').style.display = 'none';
@@ -1594,7 +1590,7 @@ function startSeries(mi, li, chained){
   if(voiceGuard()) return;
   const lesson = MODULES[mi].lessons[li];
   if(!lesson || !lesson.series) return;
-  currentProgram = {type:'series', lv:currentLevel, mi, li, chained:!!chained};
+  currentProgram = {type:'series', lv:currentLevel, mi, li, chained:true};
   segments = buildSeriesSegments(mi, li);
   $('home').style.display = 'none';
   $('session').style.display = 'flex';
