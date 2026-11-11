@@ -722,9 +722,14 @@ function buildLessonSegments(mi, li){
 
   // 8. Mot de la fin quand rien ne s'enchaîne après cette leçon.
   if(!nextUnlocked){
-    const bye = !hasNext
-      ? "Bravo, tu as terminé toutes les leçons de ce module ! Quand tu seras à l'arrêt, choisis le module suivant sur l'écran d'accueil."
-      : "Bravo, tu as terminé les leçons gratuites ! Pour continuer, débloque la suite dans l'application, quand tu seras à l'arrêt.";
+    const lastModule = mi >= MODULES.length - 1, lastLevel = currentLevel >= LEVELS.length - 1;
+    const bye = hasNext
+      ? "Bravo, tu as terminé les leçons gratuites ! Pour continuer, débloque la suite dans l'application, quand tu seras à l'arrêt."
+      : !lastModule
+        ? "Bravo, tu as terminé toutes les leçons de ce module ! Quand tu seras à l'arrêt, choisis le module suivant sur l'écran d'accueil."
+        : !lastLevel
+          ? "Bravo, tu as terminé toutes les leçons de ce niveau ! Quand tu seras à l'arrêt, choisis le niveau suivant sur l'écran d'accueil."
+          : "Bravo, tu es arrivé au bout de toutes les leçons ! Félicitations pour tout ce chemin parcouru.";
     segs.push(S(bye, 'fr', 1, 'Leçon terminée', SPK, 'check', false, '', ''));
     segs.push(W(1000, 'Leçon terminée', SPK, 'check', false, '', ''));
   }
