@@ -801,7 +801,7 @@ function buildSeriesSegments(mi, li){
   items.forEach((w, i)=>{
     const ex = {idx:i, total:items.length};
     segs.push(S(w.fr, 'fr', 1, `${lab} — dans le désordre`, CTX, 'headphones', false, w.fr, '···', ex));
-    segs.push(W(2800, 'Vite, le mot !', SPK, 'repeat', true, w.fr, '···', ex));
+    segs.push(W(3800, 'Vite, le mot !', SPK, 'repeat', true, w.fr, '···', ex));
     segs.push(S(w.tgt, 'tgt', 0.8, `${lab} — réponse`, TGT, 'speaker', false, w.fr, w.tgt, ex));
     segs.push(W(1500, `${lab} — réponse`, TGT, 'speaker', false, w.fr, w.tgt, ex));
   });
