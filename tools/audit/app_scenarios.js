@@ -62,8 +62,8 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   ok('8 événements tardifs ignorés', lateOk);
   // 9. enchaînement gratuit : leçons 9, 10 puis écran d'achat
   await pg.evaluate(() => startLesson(0, 8)); await sleep(200); s = await S();
-  const progs = await pg.evaluate(() => nativeSeq.programs.map(p => p.prog.li));
-  ok('9 chaîne gratuite = leçons 9 et 10 seulement', JSON.stringify(progs) === '[8,9]', JSON.stringify(progs));
+  const progs = await pg.evaluate(() => nativeSeq.programs.map(p => p.prog.type[0] + (p.prog.li)));
+  ok('9 chaîne gratuite = leçons 9, 10 + évaluation 2, puis arrêt', JSON.stringify(progs) === '["l8","l9","e9"]', JSON.stringify(progs));
   await toEnd(); await sleep(300); s = await S();
   ok('9 fin des leçons gratuites → écran d\'achat', s.paywall && s.sess === 'none' && s.completed.includes('lv1-m1-l8') && s.completed.includes('lv1-m1-l9'));
   const lastSpoken = await pg.evaluate(() => { const segs = buildLessonSegments(0, 9).filter(x => x.type === 'speak' && x.label === 'Leçon terminée'); return segs.map(x => x.text).join(' | '); });
@@ -71,10 +71,21 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   await pg.click('#closePaywallBtn');
   // 10. accès complet : fin de module
   await pg.evaluate(() => { access.en = true; saveAccess(access); renderHome(); startLesson(0, 18); }); await sleep(200);
-  const progs2 = await pg.evaluate(() => nativeSeq.programs.map(p => p.prog.li)); ok('10 chaîne payante jusqu\'à la leçon 20', JSON.stringify(progs2) === '[18,19]', JSON.stringify(progs2));
-  await toEnd(); await sleep(300); s = await S(); ok('10 fin du module → accueil + message', s.sess === 'none' && /terminé ce module/.test(s.toast), s.toast);
-  const lastSpoken2 = await pg.evaluate(() => buildLessonSegments(0, 19).filter(x => x.type === 'speak' && x.label === 'Leçon terminée').map(x => x.text).join(' | '));
-  R.push('   (info) dernière phrase de la leçon 20 : ' + lastSpoken2);
+  const progs2 = await pg.evaluate(() => nativeSeq.programs.slice(0, 6).map(p => `${p.prog.lv}.${p.prog.mi}.${p.prog.type[0]}${p.prog.li}`));
+  ok('10 chaîne payante : leçon 19, 20, évaluation finale, puis module 2', JSON.stringify(progs2) === '["0.0.l18","0.0.l19","0.0.e19","0.1.l0","0.1.l1","0.1.l2"]', JSON.stringify(progs2));
+  const ann = await pg.evaluate(() => nativeSeq.programs[3].segs[0].text); ok('10 changement de module annoncé à voix haute', /module suivant/.test(ann), ann);
+  await pg.evaluate(() => { const s = window.__seq; for (let k = 0; k < s.items.length && nativeSeq; k++) { onNativeSeqProgress({ seq: s.seq, index: k }); if (nativeSeq.curP >= 4) break; } }); s = await S();
+  ok('10 passage au module 2 : titre et progression à jour', /Leçon 2/.test(s.name) && s.completed.includes('lv1-m1-l19') && s.completed.some(k => /eval-0-19/.test(k)), s.name);
+  // fin de niveau → niveau suivant, et vraie fin du parcours
+  await pg.evaluate(() => { closeSession(); switchLevel(0); currentModule = 2; startLesson(2, 19); }); await sleep(200);
+  const lvl = await pg.evaluate(() => nativeSeq.programs.slice(0, 4).map(p => `${p.prog.lv}.${p.prog.mi}.${p.prog.type[0]}${p.prog.li}`));
+  ok('10 fin du niveau 1 → niveau 2 enchaîné', JSON.stringify(lvl) === '["0.2.l19","0.2.e19","1.0.l0","1.0.l1"]', JSON.stringify(lvl));
+  await pg.evaluate(() => { closeSession(); switchLevel(2); startLesson(2, 18); }); await sleep(200);
+  const endP = await pg.evaluate(() => ({ n: nativeSeq.programs.map(p => p.prog.type[0] + p.prog.li), last: nativeSeq.programs[nativeSeq.programs.length - 1].segs.filter(x => x.type === 'speak').slice(-1)[0].text }));
+  ok('10 toute fin : dernière évaluation puis mot de la fin', JSON.stringify(endP.n) === '["l18","l19","e19"]' && /bout de toutes les leçons/.test(endP.last), JSON.stringify(endP));
+  await toEnd(); await sleep(300); s = await S(); ok('10 fin du parcours → accueil + message', s.sess === 'none' && /toutes les leçons/.test(s.toast), s.toast);
+  await pg.evaluate(() => { switchLevel(0); });
+
   // 11. changement de langue pendant la lecture
   await pg.evaluate(() => startLesson(1, 0)); await sleep(200); await adv(5);
   await pg.evaluate(async () => { await setLanguage('ja'); }); await sleep(300); s = await S();
@@ -107,11 +118,16 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   ok('14 au réveil : leçon marquée terminée + écran d\'achat', s.sess === 'none' && s.paywall && s.completed.includes('lv1-m1-l9'), `sess=${s.sess} paywall=${s.paywall}`);
   await pg.evaluate(() => closePaywall());
   // 15. phrase de fin
-  const ends = await pg.evaluate(() => { const last = (mi, li) => buildLessonSegments(mi, li).filter(x => x.type === 'speak' && x.label === 'Leçon terminée').map(x => x.text); delete access.en; const a = { free5: last(0, 4), free10: last(0, 9) }; access.en = true; a.paid10 = last(0, 9); a.paid20 = last(0, 19); delete access.en; return a; });
+  const ends = await pg.evaluate(() => { const last = (mi, li) => buildLessonSegments(mi, li).filter(x => x.type === 'speak' && x.label === 'Leçon terminée').map(x => x.text); delete access.en; const a = { free5: last(0, 2), free10: last(0, 9) }; access.en = true; a.paid10 = last(0, 9); a.paid20 = last(0, 19); delete access.en; return a; });
   ok('15 leçon suivie d\'une autre : « on va passer à la leçon suivante »', /leçon suivante/.test(ends.free5.join(' ')) && ends.free5.length === 1);
-  ok('15 dernière leçon gratuite : annonce la fin des leçons gratuites', /leçons gratuites/.test(ends.free10.join(' ')) && !/leçon suivante/.test(ends.free10.join(' ')), ends.free10.join(' | '));
-  ok('15 leçon 10 avec accès complet : enchaîne', /leçon suivante/.test(ends.paid10.join(' ')));
-  ok('15 leçon 20 : annonce la fin du module', /terminé toutes les leçons de ce module/.test(ends.paid20.join(' ')) && !/leçon suivante/.test(ends.paid20.join(' ')), ends.paid20.join(' | '));
+  ok('15 dernière leçon gratuite suivie d\'une évaluation : pas de « leçon suivante »', !/leçon suivante/.test(ends.free10.join(' ')), ends.free10.join(' | '));
+  const freeEnd = await pg.evaluate(async () => { delete access.en; startLesson(0, 9); await new Promise(z => setTimeout(z, 150)); const last = nativeSeq.programs[nativeSeq.programs.length - 1]; const t = last.segs.filter(x => x.type === 'speak').slice(-1)[0].text; closeSession(); return t; });
+  ok('15 fin des leçons gratuites annoncée après l\'évaluation', /leçons gratuites/.test(freeEnd), freeEnd);
+  ok('15 leçon 20 avec accès : pas de mot de fin (le module suivant enchaîne)', !/bout de toutes|gratuites/.test(ends.paid20.join(' ')), ends.paid20.join(' | '));
+  // 16. Chinois : évaluations mixtes et séries dans l'enchaînement
+  await pg.evaluate(async () => { await setLanguage('zh'); }); await sleep(300);
+  const zh = await pg.evaluate(async () => { startLesson(0, 4); await new Promise(z => setTimeout(z, 150)); const r = nativeSeq.programs.map(p => p.prog.type[0] + p.prog.li); const ev = nativeSeq.programs[1].segs; const words = ev.filter(x => /vocabulaire/.test(x.label) && x.lang === 'fr').length; const ser = nativeSeq.programs[3]; closeSession(); return { r, words, serType: ser.prog.type, serLen: ser.segs.length }; });
+  ok('16 chinois : leçon 5 → évaluation (avec des mots) → leçon 6 → série', JSON.stringify(zh.r.slice(0, 4)) === '["l4","e4","l5","s5"]' && zh.words >= 10 && zh.serType === 'series', JSON.stringify(zh));
   console.log(R.join('\n')); console.log('Erreurs JS :', errs.length ? errs : 'aucune');
   await b.close();
 })();

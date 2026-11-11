@@ -11,6 +11,8 @@
 //                                   "<niv>-<mod>-<leçon>": { title? } }      corrections de phrases / titres
 //   tools/tips_fix/<code>.json    { "<niv>-<mod>-<leçon>": { title?, body?, example?, exampleRo?, lit? } }
 //   tools/tips_say/<code>.json    { "<niv>-<mod>-<leçon>": { "<passage entre « »>": "<texte lu par la voix native>" } }
+//   tools/extra/<code>.json       { vocab: { "<niv>-<mod>-<leçon>": [ {fr, tgt, ro?}, … ] },        mots de vocabulaire (évaluations mixtes)
+//                                   series: { "<niv>-<mod>-<leçon>": { title, intro, chunks: [[{fr, tgt, ro?}, …], …] } } }   séries fermées
 //
 // Usage :
 //   node tools/build_data.js                 toutes les langues
@@ -55,12 +57,16 @@ function importClassic(code, file, key) {
 
 function build(code, levels) {
   const PFIX = readJson('phrase_fix', code), FIX = readJson('tips_fix', code), SAY = readJson('tips_say', code);
-  const used = { PFIX: new Set(), FIX: new Set(), SAY: new Set() };
+  const EXTRA = readJson('extra', code), VOC = EXTRA.vocab || {}, SER = EXTRA.series || {};
+  const used = { PFIX: new Set(), FIX: new Set(), SAY: new Set(), VOC: new Set(), SER: new Set() };
+  let vocabN = 0, seriesN = 0;
   let phrases = 0, tips = 0, says = 0;
   levels.forEach((lv, a) => lv.modules.forEach((m, b) => m.lessons.forEach((l, c) => {
     if (!l || !l.phrases) return;
     const id = `${a}-${b}-${c}`;
     const lf = PFIX[id]; if (lf) { used.PFIX.add(id); if (lf.title) l.title = lf.title; }
+    if (VOC[id]) { used.VOC.add(id); l.vocab = VOC[id]; vocabN += VOC[id].length; } else delete l.vocab;
+    if (SER[id]) { used.SER.add(id); l.series = SER[id]; seriesN++; } else delete l.series;
     l.phrases.forEach((p, i) => {
       phrases++;
       const pf = PFIX[`${id}#${i}`]; if (!pf) return; used.PFIX.add(`${id}#${i}`);
@@ -78,11 +84,15 @@ function build(code, levels) {
     const orphan = Object.keys(obj).filter(k => !set.has(k) && !(name === 'tips_say' && !Object.keys(obj[k]).length));
     if (orphan.length) throw new Error(`${code} : ${name} contient des clés qui ne correspondent à rien : ${orphan.slice(0, 8).join(', ')}`);
   }
+  for (const [name, obj, set] of [['extra.vocab', VOC, used.VOC], ['extra.series', SER, used.SER]]) {
+    const orphan = Object.keys(obj).filter(k => !set.has(k));
+    if (orphan.length) throw new Error(`${code} : ${name} contient des clés qui ne correspondent à rien : ${orphan.slice(0, 8).join(', ')}`);
+  }
   const js = `/* Mon Trajet — contenu « ${code} » (${phrases} phrases, ${tips} points de grammaire). Fichier généré par tools/build_data.js, ne pas éditer à la main. */\nwindow.MT_DATA = window.MT_DATA || {};\nwindow.MT_DATA['${code}'] = ${JSON.stringify(levels)};\n`;
   const file = path.join(OUT, code + '.js');
   const before = fs.existsSync(file) ? fs.readFileSync(file, 'utf8') : null;
   if (before !== js) fs.writeFileSync(file, js);
-  console.log(code.padEnd(5), phrases, 'phrases', tips, 'tips', says, 'mots natifs', Math.round(js.length / 1024) + ' Ko', before === js ? '(inchangé)' : before === null ? '(créé)' : '(MODIFIÉ)');
+  console.log(code.padEnd(5), phrases, 'phrases', tips, 'tips', says, 'mots natifs', ...(vocabN || seriesN ? [vocabN, 'mots de vocabulaire', seriesN, 'séries'] : []), Math.round(js.length / 1024) + ' Ko', before === js ? '(inchangé)' : before === null ? '(créé)' : '(MODIFIÉ)');
 }
 
 const args = process.argv.slice(2);

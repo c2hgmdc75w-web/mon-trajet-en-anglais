@@ -223,7 +223,12 @@ async function setLanguage(code){
   TIP_NUMBERS = computeTipNumbers(MODULES);
   EVAL_NUMBERS = computeEvalNumbers(MODULES);
   TGT_INDEX = new Map();
-  LEVELS.forEach(lv=>lv.modules.forEach(m=>m.lessons.forEach(l=>(l && l.phrases ? l.phrases : []).forEach(p=>{ if(p.ro || p.lit) TGT_INDEX.set(p.tgt, p); }))));
+  LEVELS.forEach(lv=>lv.modules.forEach(m=>m.lessons.forEach(l=>{
+    (l && l.phrases ? l.phrases : []).forEach(p=>{ if(p.ro || p.lit) TGT_INDEX.set(p.tgt, p); });
+    // mots de vocabulaire et séries fermées (nouvelle méthode) : transcription affichée sous le mot
+    const words = (l && l.vocab ? l.vocab : []).concat(l && l.series ? l.series.chunks.flat() : []);
+    words.forEach(w=>{ if(w.ro && !TGT_INDEX.has(w.tgt)) TGT_INDEX.set(w.tgt, { ro: w.ro }); });
+  })));
   state = loadState(code);
   VOICE_LANGS.tgt = L.voice;
   nativeVoicesLoaded = false;
@@ -290,13 +295,50 @@ function closeLangPicker(){ $('langPicker').classList.remove('show'); }
 /* ---------- changement de niveau ---------- */
 function switchLevel(idx){
   if(idx === currentLevel || !LEVELS[idx]) return;
+  setLevelQuiet(idx);
+  currentModule = 0;
+  renderHome();
+}
+// Change de niveau sans toucher à l'écran (utilisé pendant l'enchaînement automatique).
+function setLevelQuiet(idx){
+  if(!LEVELS[idx]) return;
   currentLevel = idx;
   MODULES = LEVELS[currentLevel].modules;
   FREE_LESSONS_PER_MODULE = LEVELS[currentLevel].freeLessonsPerModule;
   TIP_NUMBERS = computeTipNumbers(MODULES);
   EVAL_NUMBERS = computeEvalNumbers(MODULES);
-  currentModule = 0;
-  renderHome();
+}
+// Exécute fn dans le contexte d'un autre niveau, puis revient au niveau courant.
+function withLevel(lv, fn){
+  if(lv === undefined || lv === currentLevel) return fn();
+  const save = currentLevel;
+  setLevelQuiet(lv);
+  try{ return fn(); } finally { setLevelQuiet(save); }
+}
+/* ---------- ENCHAÎNEMENT AUTOMATIQUE (toutes les langues) ----------
+   Exigence d'Alexis : si on lance la leçon 1 et qu'on ne touche plus au
+   téléphone, TOUT s'enchaîne : leçon (avec son point de grammaire), puis
+   évaluation quand il y en a une, puis série fermée (nouvelle méthode),
+   leçon suivante, module suivant, niveau suivant… jusqu'à la toute fin si
+   la langue est débloquée, sinon jusqu'à la dernière leçon gratuite. */
+function nextPos(lv, mi, li){
+  let l = li + 1, m = mi, v = lv;
+  while(v < LEVELS.length){
+    const mods = LEVELS[v].modules;
+    while(m < mods.length){
+      const mod = mods[m];
+      if(l < mod.lessonsCount && mod.lessons[l] && mod.lessons[l].phrases) return {lv:v, mi:m, li:l};
+      m++; l = 0;
+    }
+    v++; m = 0; l = 0;
+  }
+  return null;
+}
+function unlockedAt(p){
+  if(!p) return false;
+  if(hasAccess()) return true;
+  const lvl = LEVELS[p.lv], mod = lvl.modules[p.mi];
+  return p.li < ((lvl.freeLessonsPerModule || {})[mod.id] || 0);
 }
 
 function stripHtml(html){
@@ -432,6 +474,24 @@ function renderHome(){
         </div>
       </div>`;
     }
+
+    // Série fermée (nouvelle méthode) : affichée juste après sa leçon.
+    if(content && lesson.series){
+      const serKey = 'lv'+levelId+'-series-'+currentModule+'-'+i;
+      const serDone = state.completed.includes(serKey);
+      const nItems = lesson.series.chunks.reduce((n,c)=>n+c.length, 0);
+      rows += `<div class="lesson-row eval-row ${unlocked?'':'locked'}" data-ser-mi="${currentModule}" data-ser-li="${i}">
+        <div class="lesson-icon ${serDone?'done':''}">${
+          serDone ? ICONS.check.replace('stroke-width="2"','stroke="#0B2116" stroke-width="2.5"')
+          : (!unlocked ? ICONS.lock
+            : ICONS.headphones.replace('stroke-width="2"','stroke="var(--target)" stroke-width="2"'))
+        }</div>
+        <div class="lesson-text">
+          <div class="lesson-title">Série · ${lesson.series.title} ${unlocked ? freeTag : ''}</div>
+          <div class="lesson-sub">${nItems} mots, par petits groupes</div>
+        </div>
+      </div>`;
+    }
   }
   listEl.innerHTML = rows;
   listEl.querySelectorAll('.lesson-row').forEach(el=>{
@@ -450,6 +510,13 @@ function renderHome(){
         const anchor = parseInt(el.dataset.evalAnchor);
         if(!isLessonUnlocked(MODULES[mi].id, anchor)){ openPaywall(); return; }
         startEval(mi, anchor);
+        return;
+      }
+      if(el.dataset.serMi !== undefined){
+        const mi = parseInt(el.dataset.serMi);
+        const li = parseInt(el.dataset.serLi);
+        if(!isLessonUnlocked(MODULES[mi].id, li)){ openPaywall(); return; }
+        startSeries(mi, li);
         return;
       }
       const i = parseInt(el.dataset.i);
@@ -593,6 +660,136 @@ function buildTipSegments(tip, tipNum){
 // dernières leçons (ou de tout le module pour l'évaluation finale),
 // dans le même format que le Test 2 (mêmes temps de réponse et de
 // répétition).
+/* ---------- nouvelle méthode (pour l'instant : chinois) ----------
+   Activée automatiquement quand les données de la langue contiennent des mots
+   de vocabulaire (lesson.vocab) et des séries fermées (lesson.series) :
+   - les évaluations alternent 2 phrases et 5 mots (temps de réponse plus court
+     pour les mots), pour la même durée qu'avant ;
+   - une « série » (nombres, jours…) est apprise par petits groupes après les
+     leçons 6, 11 et 16, puis interrogée dans le désordre ;
+   - évaluations et séries s'enchaînent automatiquement après leur leçon. */
+function hasNewMethod(){ return MODULES.some(m=>m.lessons.some(l=>l && ((l.vocab && l.vocab.length) || l.series))); }
+function listSep(){ return ['zh','ja','yue'].includes(currentLang) ? '、' : ', '; }
+function frList(words){ const f = words.map(w=>w.fr); return f.length > 1 ? f.slice(0,-1).join(', ') + ' et ' + f[f.length-1] : (f[0] || ''); }
+function tgtList(words){
+  const t = words.map(w=>w.tgt).join(listSep());
+  const ro = words.map(w=>w.ro || '').join(', ');
+  if(words.every(w=>w.ro) && !TGT_INDEX.has(t)) TGT_INDEX.set(t, { ro });
+  return t;
+}
+function wordsForRange(m, from, to){
+  const seen = new Set(), out = [];
+  for(let i=from;i<=to;i++){
+    const l = m.lessons[i]; if(!l) continue;
+    (l.vocab || []).concat(l.series ? l.series.chunks.flat() : []).forEach(w=>{ if(!seen.has(w.tgt)){ seen.add(w.tgt); out.push(w); } });
+  }
+  return out;
+}
+function evalPhraseSegs(p, i, total, evalLabel){
+  const CTX = 'var(--context)', TGT = 'var(--target)', SPK = 'var(--speak)';
+  const repeatMs = Math.max(2200, (p.ro||p.tgt).length*80) + 3000; // même formule que le Test 2
+  const ex = {idx:i, total};
+  return [
+    S(p.fr, 'fr', 1, `${evalLabel} — traduis ${L.inLang}`, CTX, 'headphones', false, p.fr, '···', ex),
+    W(repeatMs, `${evalLabel} — à toi de répondre`, SPK, 'repeat', true, p.fr, '···', ex),
+    S(p.tgt, 'tgt', 0.85, `${evalLabel} — réponse`, TGT, 'speaker', false, p.fr, p.tgt, ex),
+    W(400 + 2000, `${evalLabel} — réponse`, TGT, 'speaker', false, p.fr, p.tgt, ex),
+    S(p.tgt, 'tgt', 0.85, `${evalLabel} — réponse`, TGT, 'speaker', false, p.fr, p.tgt, ex),
+    W(400 + 2000, `${evalLabel} — réponse`, TGT, 'speaker', false, p.fr, p.tgt, ex)
+  ];
+}
+function evalWordSegs(w, i, total, evalLabel){
+  const CTX = 'var(--context)', TGT = 'var(--target)', SPK = 'var(--speak)';
+  const ex = {idx:i, total};
+  return [
+    S(w.fr, 'fr', 1, `${evalLabel} — vocabulaire`, CTX, 'headphones', false, w.fr, '···', ex),
+    W(2500, `${evalLabel} — vite, le mot !`, SPK, 'repeat', true, w.fr, '···', ex),
+    S(w.tgt, 'tgt', 0.8, `${evalLabel} — réponse`, TGT, 'speaker', false, w.fr, w.tgt, ex),
+    W(1200, `${evalLabel} — réponse`, TGT, 'speaker', false, w.fr, w.tgt, ex),
+    S(w.tgt, 'tgt', 0.8, `${evalLabel} — réponse`, TGT, 'speaker', false, w.fr, w.tgt, ex),
+    W(1200, `${evalLabel} — réponse`, TGT, 'speaker', false, w.fr, w.tgt, ex)
+  ];
+}
+const segsMs = segs => segs.reduce((n,s)=>n + (s.type==='speak' ? s.estMs : s.ms), 0);
+
+function buildMixedEvalSegments(mi, anchor, isFinal, evalLabel, chosen){
+  const m = MODULES[mi];
+  const CTX = 'var(--context)', SPK = 'var(--speak)';
+  // Durée visée = celle de l'évaluation classique (mêmes phrases).
+  const target = chosen.reduce((n,p,i)=>n + segsMs(evalPhraseSegs(p, i, chosen.length, evalLabel)), 0);
+  const words = shuffleArray(wordsForRange(m, isFinal ? 0 : Math.max(0, anchor - 4), anchor));
+  const phrases = chosen.slice();
+  const segs = [];
+  segs.push(S(isFinal
+    ? "Évaluation finale : on révise tout le module, avec des phrases et des mots de vocabulaire. Pour les mots, réponds vite, sans réfléchir trop longtemps."
+    : "Évaluation : on révise les 5 dernières leçons, avec des phrases et des mots de vocabulaire. Pour les mots, réponds vite, sans réfléchir trop longtemps.",
+    'fr', 1, evalLabel, SPK, 'repeat', false, '', ''));
+  segs.push(W(800, evalLabel, SPK, 'repeat', false, '', ''));
+  // Plan : 2 phrases, puis 5 mots, et ainsi de suite jusqu'à la durée visée.
+  const plan = []; let used = 0, pi = 0, wi = 0;
+  while(used < target && (pi < phrases.length || wi < words.length)){
+    for(let k=0;k<2 && pi<phrases.length && used<target;k++){ const p = phrases[pi++]; plan.push({kind:'p', it:p}); used += segsMs(evalPhraseSegs(p, 0, 1, evalLabel)); }
+    for(let k=0;k<5 && wi<words.length && used<target;k++){ const w = words[wi++]; plan.push({kind:'w', it:w}); used += segsMs(evalWordSegs(w, 0, 1, evalLabel)); }
+  }
+  let prev = null;
+  plan.forEach((x,i)=>{
+    if(x.kind !== prev){
+      segs.push(S(x.kind === 'w' ? 'Des mots.' : 'Des phrases.', 'fr', 1, evalLabel, CTX, 'headphones', false, '', ''));
+      segs.push(W(400, evalLabel, CTX, 'headphones', false, '', ''));
+      prev = x.kind;
+    }
+    segs.push(...(x.kind === 'p' ? evalPhraseSegs(x.it, i, plan.length, evalLabel) : evalWordSegs(x.it, i, plan.length, evalLabel)));
+  });
+  return segs;
+}
+
+function buildSeriesSegments(mi, li){
+  const ser = MODULES[mi].lessons[li].series;
+  const CTX = 'var(--context)', TGT = 'var(--target)', SPK = 'var(--speak)';
+  const lab = `Série · ${ser.title}`;
+  const rep = t => Math.round(estimateSpeechMs(t, 'tgt', 0.8) * 1.2) + 1500; // temps pour répéter un groupe
+  const segs = [];
+  segs.push(S(`Série : ${ser.title}.`, 'fr', 1, lab, CTX, 'headphones', false, ser.title, ''));
+  segs.push(W(400, lab, CTX, 'headphones', false, ser.title, ''));
+  if(ser.intro){ segs.push(S(ser.intro, 'fr', 1, lab, CTX, 'headphones', false, ser.title, '')); segs.push(W(600, lab, CTX, 'headphones', false, ser.title, '')); }
+  // 1. Groupe par groupe : les mots français du groupe, puis le groupe dans la langue, deux fois, avec un temps pour répéter.
+  const sofar = [];
+  ser.chunks.forEach((c, ci)=>{
+    const ex = {idx:ci, total:ser.chunks.length};
+    const f = frList(c), t = tgtList(c);
+    segs.push(S(f, 'fr', 1, `${lab} — écoute`, CTX, 'headphones', false, f, '', ex));
+    segs.push(W(300, `${lab} — écoute`, CTX, 'headphones', false, f, '', ex));
+    segs.push(S(t, 'tgt', 0.8, `${lab} — écoute`, TGT, 'speaker', false, f, t, ex));
+    segs.push(W(rep(t), 'À toi de répéter', SPK, 'repeat', true, f, t, ex));
+    segs.push(S(t, 'tgt', 0.8, 'Encore une fois', TGT, 'speaker', false, f, t, ex));
+    segs.push(W(rep(t), 'À toi de répéter', SPK, 'repeat', true, f, t, ex));
+    sofar.push(...c);
+    // 2. Depuis le début : on enchaîne tout ce qui a été vu.
+    if(ci > 0){
+      const all = tgtList(sofar), allFr = frList(sofar);
+      const last = ci === ser.chunks.length - 1;
+      segs.push(S(last ? 'Toute la série, maintenant.' : 'Depuis le début.', 'fr', 1, `${lab} — enchaîne`, CTX, 'headphones', false, '', '', ex));
+      segs.push(W(300, `${lab} — enchaîne`, CTX, 'headphones', false, '', '', ex));
+      segs.push(S(all, 'tgt', 0.85, `${lab} — enchaîne`, TGT, 'speaker', false, allFr, all, ex));
+      segs.push(W(rep(all), 'À toi de répéter', SPK, 'repeat', true, allFr, all, ex));
+    }
+  });
+  // 3. Dans le désordre : sans ça, on doit tout réciter depuis le début pour retrouver un mot.
+  segs.push(S("Dans le désordre, maintenant : je te dis le mot en français, tu le dis vite.", 'fr', 1, `${lab} — dans le désordre`, SPK, 'repeat', false, '', ''));
+  segs.push(W(600, `${lab} — dans le désordre`, SPK, 'repeat', false, '', ''));
+  const items = shuffleArray(ser.chunks.flat());
+  items.forEach((w, i)=>{
+    const ex = {idx:i, total:items.length};
+    segs.push(S(w.fr, 'fr', 1, `${lab} — dans le désordre`, CTX, 'headphones', false, w.fr, '···', ex));
+    segs.push(W(2800, 'Vite, le mot !', SPK, 'repeat', true, w.fr, '···', ex));
+    segs.push(S(w.tgt, 'tgt', 0.8, `${lab} — réponse`, TGT, 'speaker', false, w.fr, w.tgt, ex));
+    segs.push(W(1500, `${lab} — réponse`, TGT, 'speaker', false, w.fr, w.tgt, ex));
+  });
+  segs.push(S('Bravo, série terminée.', 'fr', 1, 'Série terminée', SPK, 'check', false, '', ''));
+  segs.push(W(1200, 'Série terminée', SPK, 'check', false, '', ''));
+  return segs;
+}
+
 function buildEvalSegments(mi, anchor, isFinal, evalLabel){
   const m = MODULES[mi];
   const CTX = 'var(--context)', TGT = 'var(--target)', SPK = 'var(--speak)';
@@ -608,6 +805,12 @@ function buildEvalSegments(mi, anchor, isFinal, evalLabel){
   }
   const sampleSize = isFinal ? 60 : 20;
   const chosen = shuffleArray(pool).slice(0, Math.min(sampleSize, pool.length));
+  if(hasNewMethod()){
+    const segs = buildMixedEvalSegments(mi, anchor, isFinal, evalLabel, chosen);
+    segs.push(S(isFinal ? "Bravo, tu as terminé l'évaluation finale de ce module." : "Bravo, tu as terminé cette évaluation.", 'fr', 1, 'Évaluation terminée', 'var(--speak)', 'check', false, '', ''));
+    segs.push(W(1500, 'Évaluation terminée', 'var(--speak)', 'check', false, '', ''));
+    return segs;
+  }
 
   const segs = [];
   const introText = isFinal
@@ -705,12 +908,13 @@ function buildLessonSegments(mi, li){
   // 6. Clôture
   // La phrase de fin dit ce qui se passe VRAIMENT ensuite : leçon suivante, fin
   // du module, ou fin des leçons gratuites (l'auditeur ne voit pas l'écran).
-  const nextLi = li + 1;
-  const hasNext = nextLi < m.lessonsCount && hasContent(mi, nextLi);
-  const nextUnlocked = hasNext && isLessonUnlocked(m.id, nextLi);
-  const closingText = li === 0
+  const next = nextPos(currentLevel, mi, li);
+  const nextUnlocked = unlockedAt(next);
+  const extrasFollow = lessonExtras(mi, li).length > 0;
+  const sameModuleNext = nextUnlocked && next.lv === currentLevel && next.mi === mi;
+  const closingText = (li === 0 && mi === 0 && currentLevel === 0)
     ? "Bravo, tu as fini la première leçon. Ce n'est jamais facile de commencer une nouvelle langue, mais tu verras, au fil des leçons, ça va être de plus en plus facile. Il suffit de pratiquer régulièrement."
-    : (nextUnlocked ? "Ça y est, tu as fini la leçon. On va passer à la leçon suivante." : "Ça y est, tu as fini la leçon.");
+    : (sameModuleNext && !extrasFollow ? "Ça y est, tu as fini la leçon. On va passer à la leçon suivante." : "Ça y est, tu as fini la leçon.");
   segs.push(S(closingText, 'fr', 1, 'Leçon terminée', SPK, 'check', false, '', ''));
   segs.push(W(3000, 'Leçon terminée', SPK, 'check', false, '', ''));
 
@@ -720,20 +924,22 @@ function buildLessonSegments(mi, li){
     segs.push(...buildTipSegments(lesson.tip, tipNum));
   }
 
-  // 8. Mot de la fin quand rien ne s'enchaîne après cette leçon.
-  if(!nextUnlocked){
-    const lastModule = mi >= MODULES.length - 1, lastLevel = currentLevel >= LEVELS.length - 1;
-    const bye = hasNext
-      ? "Bravo, tu as terminé les leçons gratuites ! Pour continuer, débloque la suite dans l'application, quand tu seras à l'arrêt."
-      : !lastModule
-        ? "Bravo, tu as terminé toutes les leçons de ce module ! Quand tu seras à l'arrêt, choisis le module suivant sur l'écran d'accueil."
-        : !lastLevel
-          ? "Bravo, tu as terminé toutes les leçons de ce niveau ! Quand tu seras à l'arrêt, choisis le niveau suivant sur l'écran d'accueil."
-          : "Bravo, tu es arrivé au bout de toutes les leçons ! Félicitations pour tout ce chemin parcouru.";
-    segs.push(S(bye, 'fr', 1, 'Leçon terminée', SPK, 'check', false, '', ''));
-    segs.push(W(1000, 'Leçon terminée', SPK, 'check', false, '', ''));
-  }
-
+  // 8. Mot de la fin quand rien ne s'enchaîne après cette leçon
+  //    (s'il y a une évaluation ou une série après, il est dit à la fin de celle-ci).
+  if(!nextUnlocked && !extrasFollow) segs.push(...byeSegments(mi, li));
+  return segs;
+}
+// Mot de la fin quand l'enchaînement s'arrête après cette leçon (niveau courant) :
+// fin des leçons gratuites, ou fin de tout le parcours.
+function byeSegments(mi, li){
+  const segs = [], SPK = 'var(--speak)';
+  const next = nextPos(currentLevel, mi, li);
+  if(unlockedAt(next)) return segs; // ça continue : pas de mot de la fin
+  const bye = next
+    ? "Bravo, tu as terminé les leçons gratuites ! Pour continuer, débloque la suite dans l'application, quand tu seras à l'arrêt."
+    : "Bravo, tu es arrivé au bout de toutes les leçons ! Félicitations pour tout ce chemin parcouru.";
+  segs.push(S(bye, 'fr', 1, 'Leçon terminée', SPK, 'check', false, '', ''));
+  segs.push(W(1000, 'Leçon terminée', SPK, 'check', false, '', ''));
   return segs;
 }
 
@@ -1070,20 +1276,64 @@ function applyNativePause(ev, paused){
   if(paused){ nativePausedAt = Date.now(); }
   else if(nativePausedAt){ nativeSegStartedAt += Date.now() - nativePausedAt; nativePausedAt = 0; }
 }
-function lessonChainAfter(prog){
-  // Leçons qui suivraient automatiquement (même logique que goToNextLessonOrStop).
+// Ce qui suit une leçon dans l'enchaînement automatique (nouvelle méthode) :
+// son évaluation puis sa série fermée, s'il y en a.
+function lessonExtras(mi, li){
   const out = [];
-  let mi, li;
-  if(tgtVoiceMissing) return out; // langue sans voix : on n'enchaîne pas sur des leçons muettes
-  if(prog.type === 'intro'){ mi = 0; li = -1; }
-  else if(prog.type === 'lesson'){ mi = prog.mi; li = prog.li; }
-  else return out;
   const m = MODULES[mi];
-  if(!m) return out;
-  for(let n = li + 1; n < m.lessonsCount && out.length < 25; n++){
-    if(!hasContent(mi, n) || !isLessonUnlocked(m.id, n)) break;
-    out.push({ prog:{type:'lesson', mi, li:n}, segs: buildLessonSegments(mi, n) });
+  if(!m || !m.lessons[li]) return out;
+  const info = EVAL_NUMBERS[mi+'-'+li];
+  if(info) out.push({type:'eval', lv:currentLevel, mi, anchor:li, li, chained:true});
+  if(m.lessons[li].series) out.push({type:'series', lv:currentLevel, mi, li, chained:true});
+  return out;
+}
+function programSegments(prog){
+  return withLevel(prog.lv, ()=>{
+    if(prog.type === 'lesson') return buildLessonSegments(prog.mi, prog.li);
+    if(prog.type === 'series') return buildSeriesSegments(prog.mi, prog.li);
+    if(prog.type === 'eval'){ const info = EVAL_NUMBERS[prog.mi+'-'+prog.anchor]; return buildEvalSegments(prog.mi, prog.anchor, info.isFinal, info.isFinal ? 'Évaluation finale' : `Évaluation ${info.num}`); }
+    return [];
+  });
+}
+const CHAIN_MAX = 40; // ≈ 6 à 8 heures d'écoute sans toucher au téléphone
+function lessonChainAfter(prog){
+  // Tout ce qui suit automatiquement : évaluations, séries, leçons, modules, niveaux.
+  const out = [];
+  if(tgtVoiceMissing) return out; // langue sans voix : on n'enchaîne pas sur des leçons muettes
+  const lv0 = prog.lv !== undefined ? prog.lv : currentLevel;
+  let pos, extrasLeft = [];
+  if(prog.type === 'intro'){ pos = {lv:0, mi:0, li:-1}; }
+  else if(prog.type === 'lesson'){ pos = {lv:lv0, mi:prog.mi, li:prog.li}; extrasLeft = withLevel(lv0, ()=>lessonExtras(prog.mi, prog.li)); }
+  else if((prog.type === 'eval' || prog.type === 'series') && prog.chained){
+    // reprise (±10 s…) au milieu d'une évaluation ou d'une série enchaînée
+    const li = prog.type === 'eval' ? prog.anchor : prog.li;
+    pos = {lv:lv0, mi:prog.mi, li};
+    const all = withLevel(lv0, ()=>lessonExtras(prog.mi, li));
+    extrasLeft = all.slice(all.findIndex(x=>x.type === prog.type) + 1);
   }
+  else return out;
+  const push = p => out.push({ prog:p, segs: programSegments(p) });
+  extrasLeft.forEach(push);
+  let p = nextPos(pos.lv, pos.mi, pos.li);
+  while(p && unlockedAt(p) && out.length < CHAIN_MAX){
+    const lessonProg = {type:'lesson', lv:p.lv, mi:p.mi, li:p.li, chained:true};
+    const segs = programSegments(lessonProg);
+    // Changement de module ou de niveau : on l'annonce (l'auditeur ne voit pas l'écran).
+    if(pos.li >= 0 && (p.mi !== pos.mi || p.lv !== pos.lv)){
+      const SPK = 'var(--speak)', name = LEVELS[p.lv].modules[p.mi].name;
+      const txt = p.lv !== pos.lv
+        ? `Bravo, tu as terminé le niveau ${pos.lv + 1} ! On passe au niveau ${p.lv + 1}, module : ${name}.`
+        : `Bravo, module terminé ! On passe au module suivant : ${name}.`;
+      segs.unshift(S(txt, 'fr', 1, 'Module suivant', SPK, 'check', false, '', ''), W(1200, 'Module suivant', SPK, 'check', false, '', ''));
+    }
+    out.push({ prog:lessonProg, segs });
+    withLevel(p.lv, ()=>lessonExtras(p.mi, p.li)).forEach(push);
+    pos = p;
+    p = nextPos(p.lv, p.mi, p.li);
+  }
+  // Le mot de la fin (fin des leçons gratuites / du parcours) est dit après la dernière évaluation ou série.
+  const last = out.length ? out[out.length-1] : null;
+  if(last && last.prog.type !== 'lesson' && (!p || !unlockedAt(p))) last.segs = last.segs.concat(withLevel(pos.lv, ()=>byeSegments(pos.mi, pos.li)));
   return out;
 }
 function nativeItemFor(seg){
@@ -1115,19 +1365,33 @@ async function playFromNative(startIndex, token){
   startNativeTicker();
   return true;
 }
+function completeKey(prog){
+  const lv = 'lv'+LEVELS[currentLevel].id;
+  if(prog.type === 'tip') return lv+'-tip-'+prog.mi+'-'+prog.li;
+  if(prog.type === 'eval') return lv+'-eval-'+prog.mi+'-'+prog.anchor;
+  if(prog.type === 'series') return lv+'-series-'+prog.mi+'-'+prog.li;
+  return null;
+}
+function markDone(prog){ const k = completeKey(prog); if(k && !state.completed.includes(k)){ state.completed.push(k); saveState(state); } }
 function finishProgramQuietly(prog){
   if(prog.type === 'intro'){ state.introDone = true; saveState(state); }
   else if(prog.type === 'lesson'){ markLessonComplete(prog.mi, prog.li); }
+  else markDone(prog);
+}
+function programTitle(prog){
+  const m = MODULES[prog.mi];
+  if(prog.type === 'lesson'){ const lesson = m.lessons[prog.li]; return `${m.name} · Leçon ${prog.li+1}${lesson.title? ' · '+lesson.title:''}`; }
+  if(prog.type === 'eval'){ const info = EVAL_NUMBERS[prog.mi+'-'+prog.anchor]; return `${m.name} · ${info.isFinal ? 'Évaluation finale' : 'Évaluation '+info.num}`; }
+  if(prog.type === 'series') return `${m.name} · Série · ${m.lessons[prog.li].series.title}`;
+  return '';
 }
 function switchToChainedProgram(pg){
   currentProgram = pg.prog;
   segments = pg.segs;
-  if(pg.prog.type === 'lesson'){
-    const mi = pg.prog.mi, li = pg.prog.li;
-    currentModule = mi; currentLesson = li;
-    const m = MODULES[mi], lesson = m.lessons[li];
-    $('sessName').textContent = `${m.name} · Leçon ${li+1}${lesson.title? ' · '+lesson.title:''}`;
-  }
+  if(pg.prog.lv !== undefined && pg.prog.lv !== currentLevel) setLevelQuiet(pg.prog.lv);
+  currentModule = pg.prog.mi !== undefined ? pg.prog.mi : currentModule;
+  if(pg.prog.type === 'lesson') currentLesson = pg.prog.li;
+  const t = programTitle(pg.prog); if(t) $('sessName').textContent = t;
 }
 function onNativeSeqProgress(ev){
   const sq = nativeSeq;
@@ -1243,13 +1507,23 @@ function onProgramFinished(token){
     if(!state.completed.includes(key)){ state.completed.push(key); saveState(state); }
     closeSession();
     showToast('Point de grammaire terminé ✓');
-  } else if(currentProgram.type === 'eval'){
-    const key = 'lv'+LEVELS[currentLevel].id+'-eval-'+currentProgram.mi+'-'+currentProgram.anchor;
-    if(!state.completed.includes(key)){ state.completed.push(key); saveState(state); }
-    closeSession();
-    showToast('Évaluation terminée ✓');
+  } else if(currentProgram.type === 'eval' || currentProgram.type === 'series'){
+    markDone(currentProgram);
+    if(currentProgram.chained){
+      // fin d'un enchaînement automatique : série de la même leçon, leçon suivante, écran d'achat ou fin
+      const li0 = currentProgram.type === 'eval' ? currentProgram.anchor : currentProgram.li;
+      const rest = lessonExtras(currentProgram.mi, li0); const k = rest.findIndex(x=>x.type === currentProgram.type);
+      if(k >= 0 && rest[k+1]){ startSeries(rest[k+1].mi, rest[k+1].li, true); return; }
+      goToNextLessonOrStop(currentProgram.mi, li0, token);
+    } else {
+      closeSession();
+      showToast(currentProgram.type === 'eval' ? 'Évaluation terminée ✓' : 'Série terminée ✓');
+    }
   } else {
     markLessonComplete(currentProgram.mi, currentProgram.li);
+    // évaluation / série de cette leçon d'abord (mode navigateur ; en natif elles sont déjà dans la séquence)
+    const ex = lessonExtras(currentProgram.mi, currentProgram.li);
+    if(ex.length){ if(ex[0].type === 'eval') startEval(ex[0].mi, ex[0].anchor, true); else startSeries(ex[0].mi, ex[0].li, true); return; }
     goToNextLessonOrStop(currentProgram.mi, currentProgram.li, token);
   }
 }
@@ -1284,7 +1558,7 @@ function startTip(mi, li){
   if(!lesson || !lesson.tip) return;
   const tipNum = TIP_NUMBERS[mi+'-'+li] || '';
 
-  currentProgram = {type:'tip', mi, li};
+  currentProgram = {type:'tip', lv:currentLevel, mi, li};
   segments = buildTipSegments(lesson.tip, tipNum);
 
   $('home').style.display = 'none';
@@ -1297,13 +1571,13 @@ function startTip(mi, li){
 }
 
 // Lecture d'une "Évaluation" : révision aléatoire des leçons précédentes.
-function startEval(mi, anchor){
+function startEval(mi, anchor, chained){
   if(voiceGuard()) return;
   const info = EVAL_NUMBERS[mi+'-'+anchor];
   if(!info) return;
   const evalLabel = info.isFinal ? 'Évaluation finale' : `Évaluation ${info.num}`;
 
-  currentProgram = {type:'eval', mi, anchor};
+  currentProgram = {type:'eval', lv:currentLevel, mi, anchor, li:anchor, chained:!!chained};
   segments = buildEvalSegments(mi, anchor, info.isFinal, evalLabel);
 
   $('home').style.display = 'none';
@@ -1315,10 +1589,25 @@ function startEval(mi, anchor){
   playFrom(0);
 }
 
+// Lecture d'une série fermée (nouvelle méthode).
+function startSeries(mi, li, chained){
+  if(voiceGuard()) return;
+  const lesson = MODULES[mi].lessons[li];
+  if(!lesson || !lesson.series) return;
+  currentProgram = {type:'series', lv:currentLevel, mi, li, chained:!!chained};
+  segments = buildSeriesSegments(mi, li);
+  $('home').style.display = 'none';
+  $('session').style.display = 'flex';
+  hideTipCard();
+  setPlayIcon(false);
+  $('sessName').textContent = programTitle(currentProgram);
+  playFrom(0);
+}
+
 function startLesson(mi, li){
   if(voiceGuard()) return;
   currentModule = mi; currentLesson = li;
-  currentProgram = {type:'lesson', mi, li};
+  currentProgram = {type:'lesson', lv:currentLevel, mi, li};
   segments = buildLessonSegments(mi, li);
 
   $('home').style.display = 'none';
@@ -1334,18 +1623,16 @@ function startLesson(mi, li){
 
 function goToNextLessonOrStop(mi, li, token){
   if(token !== playToken) return;
-  const m = MODULES[mi];
-  const nextLi = li + 1;
-  if(nextLi < m.lessonsCount && hasContent(mi, nextLi)){
-    if(isLessonUnlocked(m.id, nextLi)){
-      startLesson(mi, nextLi);
-    } else {
-      closeSession();
-      openPaywall();
-    }
+  const p = nextPos(currentLevel, mi, li);
+  if(p && unlockedAt(p)){
+    if(p.lv !== currentLevel) setLevelQuiet(p.lv);
+    startLesson(p.mi, p.li);
+  } else if(p){
+    closeSession();
+    openPaywall();
   } else {
     closeSession();
-    showToast(nextLi >= m.lessonsCount ? 'Bravo, tu as terminé ce module ! 🎉' : 'La suite arrive bientôt ✨');
+    showToast('Bravo, tu as terminé toutes les leçons ! 🎉', 4000);
   }
 }
 
@@ -1594,6 +1881,7 @@ function buildProgramSequence(mi){
     const lesson = m.lessons[li];
     if(lesson.tip) seq.push({type:'tip', li});
     if(EVAL_NUMBERS[mi+'-'+li]) seq.push({type:'eval', li, anchor: li});
+    if(lesson.series) seq.push({type:'series', li});
   }
   return seq;
 }
@@ -1601,6 +1889,7 @@ function currentSeqIndex(seq){
   if(currentProgram.type === 'lesson') return seq.findIndex(it=>it.type==='lesson' && it.li===currentProgram.li);
   if(currentProgram.type === 'tip') return seq.findIndex(it=>it.type==='tip' && it.li===currentProgram.li);
   if(currentProgram.type === 'eval') return seq.findIndex(it=>it.type==='eval' && it.li===currentProgram.anchor);
+  if(currentProgram.type === 'series') return seq.findIndex(it=>it.type==='series' && it.li===currentProgram.li);
   return -1;
 }
 function goToSeqItem(mi, item){
@@ -1616,6 +1905,10 @@ function goToSeqItem(mi, item){
   if(item.type === 'eval'){
     if(!isLessonUnlocked(MODULES[mi].id, item.anchor)){ openPaywall(); return true; }
     startEval(mi, item.anchor); return true;
+  }
+  if(item.type === 'series'){
+    if(!isLessonUnlocked(MODULES[mi].id, item.li)){ openPaywall(); return true; }
+    startSeries(mi, item.li); return true;
   }
   return false;
 }

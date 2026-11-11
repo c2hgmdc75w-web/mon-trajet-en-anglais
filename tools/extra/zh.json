@@ -1,0 +1,7896 @@
+{
+ "vocab": {
+  "0-0-0": [
+   {
+    "fr": "aller",
+    "tgt": "去",
+    "ro": "qù"
+   },
+   {
+    "fr": "venir",
+    "tgt": "来",
+    "ro": "lái"
+   },
+   {
+    "fr": "habiter",
+    "tgt": "住",
+    "ro": "zhù"
+   },
+   {
+    "fr": "un ami",
+    "tgt": "朋友",
+    "ro": "péngyou"
+   },
+   {
+    "fr": "le métro",
+    "tgt": "地铁",
+    "ro": "dìtiě"
+   },
+   {
+    "fr": "un taxi",
+    "tgt": "出租车",
+    "ro": "chūzūchē"
+   }
+  ],
+  "0-0-1": [
+   {
+    "fr": "le thé",
+    "tgt": "茶",
+    "ro": "chá"
+   },
+   {
+    "fr": "acheter",
+    "tgt": "买",
+    "ro": "mǎi"
+   },
+   {
+    "fr": "combien ça coûte",
+    "tgt": "多少钱",
+    "ro": "duōshao qián"
+   },
+   {
+    "fr": "cher",
+    "tgt": "贵",
+    "ro": "guì"
+   },
+   {
+    "fr": "vendre",
+    "tgt": "卖",
+    "ro": "mài"
+   },
+   {
+    "fr": "le patron",
+    "tgt": "老板",
+    "ro": "lǎobǎn"
+   }
+  ],
+  "0-0-2": [
+   {
+    "fr": "être",
+    "tgt": "是",
+    "ro": "shì"
+   },
+   {
+    "fr": "un étudiant",
+    "tgt": "学生",
+    "ro": "xuésheng"
+   },
+   {
+    "fr": "un billet",
+    "tgt": "票",
+    "ro": "piào"
+   },
+   {
+    "fr": "un touriste",
+    "tgt": "游客",
+    "ro": "yóukè"
+   },
+   {
+    "fr": "un guide",
+    "tgt": "导游",
+    "ro": "dǎoyóu"
+   },
+   {
+    "fr": "grand",
+    "tgt": "大",
+    "ro": "dà"
+   }
+  ],
+  "0-0-3": [
+   {
+    "fr": "merci",
+    "tgt": "谢谢",
+    "ro": "xièxie"
+   },
+   {
+    "fr": "l'eau",
+    "tgt": "水",
+    "ro": "shuǐ"
+   },
+   {
+    "fr": "les toilettes",
+    "tgt": "厕所",
+    "ro": "cèsuǒ"
+   },
+   {
+    "fr": "avoir faim",
+    "tgt": "饿",
+    "ro": "è"
+   },
+   {
+    "fr": "fatigué",
+    "tgt": "累",
+    "ro": "lèi"
+   },
+   {
+    "fr": "un plan",
+    "tgt": "地图",
+    "ro": "dìtú"
+   }
+  ],
+  "0-0-4": [
+   {
+    "fr": "manger",
+    "tgt": "吃",
+    "ro": "chī"
+   },
+   {
+    "fr": "boire",
+    "tgt": "喝",
+    "ro": "hē"
+   },
+   {
+    "fr": "délicieux",
+    "tgt": "好吃",
+    "ro": "hǎochī"
+   },
+   {
+    "fr": "le riz",
+    "tgt": "米饭",
+    "ro": "mǐfàn"
+   },
+   {
+    "fr": "un plat",
+    "tgt": "菜",
+    "ro": "cài"
+   },
+   {
+    "fr": "épicé",
+    "tgt": "辣",
+    "ro": "là"
+   }
+  ],
+  "0-0-5": [
+   {
+    "fr": "aimer",
+    "tgt": "喜欢",
+    "ro": "xǐhuan"
+   },
+   {
+    "fr": "chercher",
+    "tgt": "找",
+    "ro": "zhǎo"
+   },
+   {
+    "fr": "un appartement",
+    "tgt": "房子",
+    "ro": "fángzi"
+   },
+   {
+    "fr": "louer",
+    "tgt": "租",
+    "ro": "zū"
+   },
+   {
+    "fr": "la cuisine",
+    "tgt": "厨房",
+    "ro": "chúfáng"
+   },
+   {
+    "fr": "le propriétaire",
+    "tgt": "房东",
+    "ro": "fángdōng"
+   }
+  ],
+  "0-0-6": [
+   {
+    "fr": "une chambre",
+    "tgt": "房间",
+    "ro": "fángjiān"
+   },
+   {
+    "fr": "une clé",
+    "tgt": "钥匙",
+    "ro": "yàoshi"
+   },
+   {
+    "fr": "un lit",
+    "tgt": "床",
+    "ro": "chuáng"
+   },
+   {
+    "fr": "confortable",
+    "tgt": "舒服",
+    "ro": "shūfu"
+   },
+   {
+    "fr": "une valise",
+    "tgt": "箱子",
+    "ro": "xiāngzi"
+   },
+   {
+    "fr": "le salon",
+    "tgt": "客厅",
+    "ro": "kètīng"
+   }
+  ],
+  "0-0-7": [
+   {
+    "fr": "le temps qu'il fait",
+    "tgt": "天气",
+    "ro": "tiānqì"
+   },
+   {
+    "fr": "chaud",
+    "tgt": "热",
+    "ro": "rè"
+   },
+   {
+    "fr": "froid",
+    "tgt": "冷",
+    "ro": "lěng"
+   },
+   {
+    "fr": "pleuvoir",
+    "tgt": "下雨",
+    "ro": "xiàyǔ"
+   },
+   {
+    "fr": "aujourd'hui",
+    "tgt": "今天",
+    "ro": "jīntiān"
+   },
+   {
+    "fr": "demain",
+    "tgt": "明天",
+    "ro": "míngtiān"
+   }
+  ],
+  "0-0-8": [
+   {
+    "fr": "un fruit",
+    "tgt": "水果",
+    "ro": "shuǐguǒ"
+   },
+   {
+    "fr": "une pomme",
+    "tgt": "苹果",
+    "ro": "píngguǒ"
+   },
+   {
+    "fr": "le marché",
+    "tgt": "市场",
+    "ro": "shìchǎng"
+   },
+   {
+    "fr": "frais",
+    "tgt": "新鲜",
+    "ro": "xīnxiān"
+   },
+   {
+    "fr": "quoi",
+    "tgt": "什么",
+    "ro": "shénme"
+   },
+   {
+    "fr": "une fraise",
+    "tgt": "草莓",
+    "ro": "cǎoméi"
+   }
+  ],
+  "0-0-9": [
+   {
+    "fr": "descendre du véhicule",
+    "tgt": "下车",
+    "ro": "xiàchē"
+   },
+   {
+    "fr": "changer de ligne",
+    "tgt": "换车",
+    "ro": "huànchē"
+   },
+   {
+    "fr": "la sortie",
+    "tgt": "出口",
+    "ro": "chūkǒu"
+   },
+   {
+    "fr": "pratique",
+    "tgt": "方便",
+    "ro": "fāngbiàn"
+   },
+   {
+    "fr": "tous les jours",
+    "tgt": "每天",
+    "ro": "měitiān"
+   },
+   {
+    "fr": "le guichet",
+    "tgt": "窗口",
+    "ro": "chuāngkǒu"
+   }
+  ],
+  "0-0-10": [
+   {
+    "fr": "un",
+    "tgt": "一",
+    "ro": "yī"
+   },
+   {
+    "fr": "deux",
+    "tgt": "二",
+    "ro": "èr"
+   },
+   {
+    "fr": "trois",
+    "tgt": "三",
+    "ro": "sān"
+   },
+   {
+    "fr": "cinq",
+    "tgt": "五",
+    "ro": "wǔ"
+   },
+   {
+    "fr": "dix",
+    "tgt": "十",
+    "ro": "shí"
+   },
+   {
+    "fr": "cent",
+    "tgt": "一百",
+    "ro": "yìbǎi"
+   }
+  ],
+  "0-0-11": [
+   {
+    "fr": "un restaurant",
+    "tgt": "饭馆",
+    "ro": "fànguǎn"
+   },
+   {
+    "fr": "les baguettes",
+    "tgt": "筷子",
+    "ro": "kuàizi"
+   },
+   {
+    "fr": "la soupe",
+    "tgt": "汤",
+    "ro": "tāng"
+   },
+   {
+    "fr": "une table",
+    "tgt": "桌子",
+    "ro": "zhuōzi"
+   },
+   {
+    "fr": "la viande",
+    "tgt": "肉",
+    "ro": "ròu"
+   },
+   {
+    "fr": "les raviolis",
+    "tgt": "饺子",
+    "ro": "jiǎozi"
+   }
+  ],
+  "0-0-12": [
+   {
+    "fr": "avoir",
+    "tgt": "有",
+    "ro": "yǒu"
+   },
+   {
+    "fr": "ne pas avoir",
+    "tgt": "没有",
+    "ro": "méiyǒu"
+   },
+   {
+    "fr": "le téléphone portable",
+    "tgt": "手机",
+    "ro": "shǒujī"
+   },
+   {
+    "fr": "payer",
+    "tgt": "付钱",
+    "ro": "fùqián"
+   },
+   {
+    "fr": "un œuf",
+    "tgt": "鸡蛋",
+    "ro": "jīdàn"
+   },
+   {
+    "fr": "le lait",
+    "tgt": "牛奶",
+    "ro": "niúnǎi"
+   }
+  ],
+  "0-0-13": [
+   {
+    "fr": "où",
+    "tgt": "哪儿",
+    "ro": "nǎr"
+   },
+   {
+    "fr": "se trouver",
+    "tgt": "在",
+    "ro": "zài"
+   },
+   {
+    "fr": "la maison",
+    "tgt": "家",
+    "ro": "jiā"
+   },
+   {
+    "fr": "loin",
+    "tgt": "远",
+    "ro": "yuǎn"
+   },
+   {
+    "fr": "la gauche",
+    "tgt": "左边",
+    "ro": "zuǒbian"
+   },
+   {
+    "fr": "en face",
+    "tgt": "对面",
+    "ro": "duìmiàn"
+   }
+  ],
+  "0-0-14": [
+   {
+    "fr": "se lever",
+    "tgt": "起床",
+    "ro": "qǐchuáng"
+   },
+   {
+    "fr": "maintenant",
+    "tgt": "现在",
+    "ro": "xiànzài"
+   },
+   {
+    "fr": "le matin",
+    "tgt": "早上",
+    "ro": "zǎoshang"
+   },
+   {
+    "fr": "le petit-déjeuner",
+    "tgt": "早饭",
+    "ro": "zǎofàn"
+   },
+   {
+    "fr": "aller au travail",
+    "tgt": "上班",
+    "ro": "shàngbān"
+   },
+   {
+    "fr": "être en retard",
+    "tgt": "迟到",
+    "ro": "chídào"
+   }
+  ],
+  "0-0-15": [
+   {
+    "fr": "qui",
+    "tgt": "谁",
+    "ro": "shéi"
+   },
+   {
+    "fr": "le téléphone",
+    "tgt": "电话",
+    "ro": "diànhuà"
+   },
+   {
+    "fr": "le soir",
+    "tgt": "晚上",
+    "ro": "wǎnshang"
+   },
+   {
+    "fr": "faire",
+    "tgt": "做",
+    "ro": "zuò"
+   },
+   {
+    "fr": "rentrer à la maison",
+    "tgt": "回家",
+    "ro": "huíjiā"
+   },
+   {
+    "fr": "un numéro",
+    "tgt": "号码",
+    "ro": "hàomǎ"
+   }
+  ],
+  "0-0-16": [
+   {
+    "fr": "aussi",
+    "tgt": "也",
+    "ro": "yě"
+   },
+   {
+    "fr": "tous",
+    "tgt": "都",
+    "ro": "dōu"
+   },
+   {
+    "fr": "un vélo",
+    "tgt": "自行车",
+    "ro": "zìxíngchē"
+   },
+   {
+    "fr": "rouler à vélo",
+    "tgt": "骑",
+    "ro": "qí"
+   },
+   {
+    "fr": "bon marché",
+    "tgt": "便宜",
+    "ro": "piányi"
+   },
+   {
+    "fr": "avoir peur",
+    "tgt": "怕",
+    "ro": "pà"
+   }
+  ],
+  "0-0-17": [
+   {
+    "fr": "avoir envie de",
+    "tgt": "想",
+    "ro": "xiǎng"
+   },
+   {
+    "fr": "essayer",
+    "tgt": "试",
+    "ro": "shì"
+   },
+   {
+    "fr": "une veste",
+    "tgt": "外套",
+    "ro": "wàitào"
+   },
+   {
+    "fr": "un pull",
+    "tgt": "毛衣",
+    "ro": "máoyī"
+   },
+   {
+    "fr": "rouge",
+    "tgt": "红色",
+    "ro": "hóngsè"
+   },
+   {
+    "fr": "une jupe",
+    "tgt": "裙子",
+    "ro": "qúnzi"
+   }
+  ],
+  "0-0-18": [
+   {
+    "fr": "regarder",
+    "tgt": "看",
+    "ro": "kàn"
+   },
+   {
+    "fr": "s'asseoir",
+    "tgt": "坐",
+    "ro": "zuò"
+   },
+   {
+    "fr": "se reposer",
+    "tgt": "休息",
+    "ro": "xiūxi"
+   },
+   {
+    "fr": "partir",
+    "tgt": "走",
+    "ro": "zǒu"
+   },
+   {
+    "fr": "une photo",
+    "tgt": "照片",
+    "ro": "zhàopiàn"
+   },
+   {
+    "fr": "une idée",
+    "tgt": "主意",
+    "ro": "zhǔyi"
+   }
+  ],
+  "0-0-19": [
+   {
+    "fr": "au revoir",
+    "tgt": "再见",
+    "ro": "zàijiàn"
+   },
+   {
+    "fr": "pardon",
+    "tgt": "对不起",
+    "ro": "duìbuqǐ"
+   },
+   {
+    "fr": "ça ne fait rien",
+    "tgt": "没关系",
+    "ro": "méi guānxi"
+   },
+   {
+    "fr": "le chinois",
+    "tgt": "中文",
+    "ro": "zhōngwén"
+   },
+   {
+    "fr": "parler",
+    "tgt": "说",
+    "ro": "shuō"
+   },
+   {
+    "fr": "le professeur",
+    "tgt": "老师",
+    "ro": "lǎoshī"
+   }
+  ],
+  "0-1-0": [
+   {
+    "fr": "bienvenue",
+    "tgt": "欢迎",
+    "ro": "huānyíng"
+   },
+   {
+    "fr": "le passeport",
+    "tgt": "护照",
+    "ro": "hùzhào"
+   },
+   {
+    "fr": "l'hôtel",
+    "tgt": "酒店",
+    "ro": "jiǔdiàn"
+   },
+   {
+    "fr": "le taxi",
+    "tgt": "出租车",
+    "ro": "chūzūchē"
+   },
+   {
+    "fr": "les bagages",
+    "tgt": "行李",
+    "ro": "xíngli"
+   },
+   {
+    "fr": "la valise",
+    "tgt": "箱子",
+    "ro": "xiāngzi"
+   }
+  ],
+  "0-1-1": [
+   {
+    "fr": "aujourd'hui",
+    "tgt": "今天",
+    "ro": "jīntiān"
+   },
+   {
+    "fr": "demain",
+    "tgt": "明天",
+    "ro": "míngtiān"
+   },
+   {
+    "fr": "hier",
+    "tgt": "昨天",
+    "ro": "zuótiān"
+   },
+   {
+    "fr": "le temps qu'il fait",
+    "tgt": "天气",
+    "ro": "tiānqì"
+   },
+   {
+    "fr": "le soir",
+    "tgt": "晚上",
+    "ro": "wǎnshang"
+   },
+   {
+    "fr": "partir",
+    "tgt": "出发",
+    "ro": "chūfā"
+   }
+  ],
+  "0-1-2": [
+   {
+    "fr": "la chambre",
+    "tgt": "房间",
+    "ro": "fángjiān"
+   },
+   {
+    "fr": "le nom",
+    "tgt": "名字",
+    "ro": "míngzi"
+   },
+   {
+    "fr": "la réservation",
+    "tgt": "预订",
+    "ro": "yùdìng"
+   },
+   {
+    "fr": "le petit-déjeuner",
+    "tgt": "早饭",
+    "ro": "zǎofàn"
+   },
+   {
+    "fr": "l'ascenseur",
+    "tgt": "电梯",
+    "ro": "diàntī"
+   },
+   {
+    "fr": "le mot de passe",
+    "tgt": "密码",
+    "ro": "mìmǎ"
+   }
+  ],
+  "0-1-3": [
+   {
+    "fr": "s'il vous plaît",
+    "tgt": "请",
+    "ro": "qǐng"
+   },
+   {
+    "fr": "remercier",
+    "tgt": "感谢",
+    "ro": "gǎnxiè"
+   },
+   {
+    "fr": "de rien",
+    "tgt": "不客气",
+    "ro": "bù kèqi"
+   },
+   {
+    "fr": "la serviette",
+    "tgt": "毛巾",
+    "ro": "máojīn"
+   },
+   {
+    "fr": "l'eau chaude",
+    "tgt": "热水",
+    "ro": "rèshuǐ"
+   },
+   {
+    "fr": "la salle de bain",
+    "tgt": "浴室",
+    "ro": "yùshì"
+   }
+  ],
+  "0-1-4": [
+   {
+    "fr": "acheter",
+    "tgt": "买",
+    "ro": "mǎi"
+   },
+   {
+    "fr": "le billet de train",
+    "tgt": "火车票",
+    "ro": "huǒchēpiào"
+   },
+   {
+    "fr": "le train",
+    "tgt": "火车",
+    "ro": "huǒchē"
+   },
+   {
+    "fr": "la place assise",
+    "tgt": "座位",
+    "ro": "zuòwèi"
+   },
+   {
+    "fr": "le train à grande vitesse",
+    "tgt": "高铁",
+    "ro": "gāotiě"
+   },
+   {
+    "fr": "la salle d'attente",
+    "tgt": "候车室",
+    "ro": "hòuchēshì"
+   }
+  ],
+  "0-1-5": [
+   {
+    "fr": "combien ça coûte",
+    "tgt": "多少钱",
+    "ro": "duōshao qián"
+   },
+   {
+    "fr": "cher",
+    "tgt": "贵",
+    "ro": "guì"
+   },
+   {
+    "fr": "payer",
+    "tgt": "付钱",
+    "ro": "fùqián"
+   },
+   {
+    "fr": "le téléphone portable",
+    "tgt": "手机",
+    "ro": "shǒujī"
+   },
+   {
+    "fr": "la carte postale",
+    "tgt": "明信片",
+    "ro": "míngxìnpiàn"
+   },
+   {
+    "fr": "le chapeau",
+    "tgt": "帽子",
+    "ro": "màozi"
+   }
+  ],
+  "0-1-6": [
+   {
+    "fr": "la Grande Muraille",
+    "tgt": "长城",
+    "ro": "chángchéng"
+   },
+   {
+    "fr": "l'eau",
+    "tgt": "水",
+    "ro": "shuǐ"
+   },
+   {
+    "fr": "fatigué",
+    "tgt": "累",
+    "ro": "lèi"
+   },
+   {
+    "fr": "se reposer",
+    "tgt": "休息",
+    "ro": "xiūxi"
+   },
+   {
+    "fr": "la photo",
+    "tgt": "照片",
+    "ro": "zhàopiàn"
+   },
+   {
+    "fr": "le paysage",
+    "tgt": "风景",
+    "ro": "fēngjǐng"
+   }
+  ],
+  "0-1-7": [
+   {
+    "fr": "une heure",
+    "tgt": "小时",
+    "ro": "xiǎoshí"
+   },
+   {
+    "fr": "loin",
+    "tgt": "远",
+    "ro": "yuǎn"
+   },
+   {
+    "fr": "rapide",
+    "tgt": "快",
+    "ro": "kuài"
+   },
+   {
+    "fr": "lundi",
+    "tgt": "星期一",
+    "ro": "xīngqīyī"
+   },
+   {
+    "fr": "environ",
+    "tgt": "大概",
+    "ro": "dàgài"
+   },
+   {
+    "fr": "la voiture du train",
+    "tgt": "车厢",
+    "ro": "chēxiāng"
+   }
+  ],
+  "0-1-8": [
+   {
+    "fr": "le billet",
+    "tgt": "票",
+    "ro": "piào"
+   },
+   {
+    "fr": "aimer",
+    "tgt": "喜欢",
+    "ro": "xǐhuan"
+   },
+   {
+    "fr": "le musée",
+    "tgt": "博物馆",
+    "ro": "bówùguǎn"
+   },
+   {
+    "fr": "le guide",
+    "tgt": "导游",
+    "ro": "dǎoyóu"
+   },
+   {
+    "fr": "un endroit",
+    "tgt": "地方",
+    "ro": "dìfang"
+   },
+   {
+    "fr": "célèbre",
+    "tgt": "有名",
+    "ro": "yǒumíng"
+   }
+  ],
+  "0-1-9": [
+   {
+    "fr": "manger",
+    "tgt": "吃",
+    "ro": "chī"
+   },
+   {
+    "fr": "le vélo",
+    "tgt": "自行车",
+    "ro": "zìxíngchē"
+   },
+   {
+    "fr": "louer",
+    "tgt": "租",
+    "ro": "zū"
+   },
+   {
+    "fr": "avoir faim",
+    "tgt": "饿",
+    "ro": "è"
+   },
+   {
+    "fr": "le dîner",
+    "tgt": "晚饭",
+    "ro": "wǎnfàn"
+   },
+   {
+    "fr": "les remparts",
+    "tgt": "城墙",
+    "ro": "chéngqiáng"
+   }
+  ],
+  "0-1-10": [
+   {
+    "fr": "le vol",
+    "tgt": "航班",
+    "ro": "hángbān"
+   },
+   {
+    "fr": "chercher",
+    "tgt": "找",
+    "ro": "zhǎo"
+   },
+   {
+    "fr": "la gare",
+    "tgt": "火车站",
+    "ro": "huǒchēzhàn"
+   },
+   {
+    "fr": "le médicament",
+    "tgt": "药",
+    "ro": "yào"
+   },
+   {
+    "fr": "les vêtements",
+    "tgt": "衣服",
+    "ro": "yīfu"
+   },
+   {
+    "fr": "s'inquiéter",
+    "tgt": "担心",
+    "ro": "dānxīn"
+   }
+  ],
+  "0-1-11": [
+   {
+    "fr": "comment y aller",
+    "tgt": "怎么走",
+    "ro": "zěnme zǒu"
+   },
+   {
+    "fr": "savoir",
+    "tgt": "知道",
+    "ro": "zhīdào"
+   },
+   {
+    "fr": "le plan",
+    "tgt": "地图",
+    "ro": "dìtú"
+   },
+   {
+    "fr": "la gauche",
+    "tgt": "左",
+    "ro": "zuǒ"
+   },
+   {
+    "fr": "le chinois",
+    "tgt": "中文",
+    "ro": "zhōngwén"
+   },
+   {
+    "fr": "le parc",
+    "tgt": "公园",
+    "ro": "gōngyuán"
+   }
+  ],
+  "0-1-12": [
+   {
+    "fr": "la pharmacie",
+    "tgt": "药店",
+    "ro": "yàodiàn"
+   },
+   {
+    "fr": "ne pas se sentir bien",
+    "tgt": "不舒服",
+    "ro": "bù shūfu"
+   },
+   {
+    "fr": "avoir de la fièvre",
+    "tgt": "发烧",
+    "ro": "fāshāo"
+   },
+   {
+    "fr": "avoir mal",
+    "tgt": "疼",
+    "ro": "téng"
+   },
+   {
+    "fr": "boire",
+    "tgt": "喝",
+    "ro": "hē"
+   },
+   {
+    "fr": "la tête",
+    "tgt": "头",
+    "ro": "tóu"
+   }
+  ],
+  "0-1-13": [
+   {
+    "fr": "pouvoir",
+    "tgt": "可以",
+    "ro": "kěyǐ"
+   },
+   {
+    "fr": "parler",
+    "tgt": "说",
+    "ro": "shuō"
+   },
+   {
+    "fr": "bien sûr",
+    "tgt": "当然",
+    "ro": "dāngrán"
+   },
+   {
+    "fr": "le numéro de téléphone",
+    "tgt": "电话号码",
+    "ro": "diànhuà hàomǎ"
+   },
+   {
+    "fr": "conduire",
+    "tgt": "开车",
+    "ro": "kāichē"
+   },
+   {
+    "fr": "les baguettes",
+    "tgt": "筷子",
+    "ro": "kuàizi"
+   }
+  ],
+  "0-1-14": [
+   {
+    "fr": "joli",
+    "tgt": "漂亮",
+    "ro": "piàoliang"
+   },
+   {
+    "fr": "chaud",
+    "tgt": "热",
+    "ro": "rè"
+   },
+   {
+    "fr": "en face",
+    "tgt": "对面",
+    "ro": "duìmiàn"
+   },
+   {
+    "fr": "vieux",
+    "tgt": "老",
+    "ro": "lǎo"
+   },
+   {
+    "fr": "le bâtiment",
+    "tgt": "建筑",
+    "ro": "jiànzhù"
+   },
+   {
+    "fr": "moderne",
+    "tgt": "现代",
+    "ro": "xiàndài"
+   }
+  ],
+  "0-1-15": [
+   {
+    "fr": "prendre un transport",
+    "tgt": "坐",
+    "ro": "zuò"
+   },
+   {
+    "fr": "le métro",
+    "tgt": "地铁",
+    "ro": "dìtiě"
+   },
+   {
+    "fr": "le bus",
+    "tgt": "公交车",
+    "ro": "gōngjiāochē"
+   },
+   {
+    "fr": "l'avion",
+    "tgt": "飞机",
+    "ro": "fēijī"
+   },
+   {
+    "fr": "la station de métro",
+    "tgt": "地铁站",
+    "ro": "dìtiězhàn"
+   },
+   {
+    "fr": "lent",
+    "tgt": "慢",
+    "ro": "màn"
+   }
+  ],
+  "0-1-16": [
+   {
+    "fr": "le café",
+    "tgt": "咖啡",
+    "ro": "kāfēi"
+   },
+   {
+    "fr": "la ville",
+    "tgt": "城市",
+    "ro": "chéngshì"
+   },
+   {
+    "fr": "haut",
+    "tgt": "高",
+    "ro": "gāo"
+   },
+   {
+    "fr": "avoir peur",
+    "tgt": "害怕",
+    "ro": "hàipà"
+   },
+   {
+    "fr": "sûr",
+    "tgt": "安全",
+    "ro": "ānquán"
+   },
+   {
+    "fr": "un café, le lieu",
+    "tgt": "咖啡馆",
+    "ro": "kāfēiguǎn"
+   }
+  ],
+  "0-1-17": [
+   {
+    "fr": "proche",
+    "tgt": "近",
+    "ro": "jìn"
+   },
+   {
+    "fr": "le thé",
+    "tgt": "茶",
+    "ro": "chá"
+   },
+   {
+    "fr": "la Chine",
+    "tgt": "中国",
+    "ro": "zhōngguó"
+   },
+   {
+    "fr": "la maison",
+    "tgt": "家",
+    "ro": "jiā"
+   },
+   {
+    "fr": "le bateau",
+    "tgt": "船",
+    "ro": "chuán"
+   },
+   {
+    "fr": "le kilomètre",
+    "tgt": "公里",
+    "ro": "gōnglǐ"
+   }
+  ],
+  "0-1-18": [
+   {
+    "fr": "maintenant",
+    "tgt": "现在",
+    "ro": "xiànzài"
+   },
+   {
+    "fr": "être en retard",
+    "tgt": "晚点",
+    "ro": "wǎndiǎn"
+   },
+   {
+    "fr": "la porte d'embarquement",
+    "tgt": "登机口",
+    "ro": "dēngjīkǒu"
+   },
+   {
+    "fr": "changer",
+    "tgt": "换",
+    "ro": "huàn"
+   },
+   {
+    "fr": "recharger",
+    "tgt": "充电",
+    "ro": "chōngdiàn"
+   },
+   {
+    "fr": "enfin",
+    "tgt": "终于",
+    "ro": "zhōngyú"
+   }
+  ],
+  "0-1-19": [
+   {
+    "fr": "le voyage",
+    "tgt": "旅行",
+    "ro": "lǚxíng"
+   },
+   {
+    "fr": "un ami",
+    "tgt": "朋友",
+    "ro": "péngyou"
+   },
+   {
+    "fr": "demander son chemin",
+    "tgt": "问路",
+    "ro": "wèn lù"
+   },
+   {
+    "fr": "avant",
+    "tgt": "以前",
+    "ro": "yǐqián"
+   },
+   {
+    "fr": "le progrès",
+    "tgt": "进步",
+    "ro": "jìnbù"
+   },
+   {
+    "fr": "le canard laqué",
+    "tgt": "烤鸭",
+    "ro": "kǎoyā"
+   }
+  ],
+  "0-2-0": [
+   {
+    "fr": "bonjour",
+    "tgt": "你好",
+    "ro": "nǐhǎo"
+   },
+   {
+    "fr": "travailler",
+    "tgt": "工作",
+    "ro": "gōngzuò"
+   },
+   {
+    "fr": "la Chine",
+    "tgt": "中国",
+    "ro": "zhōngguó"
+   },
+   {
+    "fr": "le chinois",
+    "tgt": "中文",
+    "ro": "zhōngwén"
+   },
+   {
+    "fr": "connaître",
+    "tgt": "认识",
+    "ro": "rènshi"
+   },
+   {
+    "fr": "content",
+    "tgt": "高兴",
+    "ro": "gāoxìng"
+   }
+  ],
+  "0-2-1": [
+   {
+    "fr": "s'appeler",
+    "tgt": "叫",
+    "ro": "jiào"
+   },
+   {
+    "fr": "le nom",
+    "tgt": "名字",
+    "ro": "míngzi"
+   },
+   {
+    "fr": "quoi",
+    "tgt": "什么",
+    "ro": "shénme"
+   },
+   {
+    "fr": "un ami",
+    "tgt": "朋友",
+    "ro": "péngyou"
+   },
+   {
+    "fr": "avoir pour nom de famille",
+    "tgt": "姓",
+    "ro": "xìng"
+   },
+   {
+    "fr": "monsieur",
+    "tgt": "先生",
+    "ro": "xiānsheng"
+   }
+  ],
+  "0-2-2": [
+   {
+    "fr": "aujourd'hui",
+    "tgt": "今天",
+    "ro": "jīntiān"
+   },
+   {
+    "fr": "le temps qu'il fait",
+    "tgt": "天气",
+    "ro": "tiānqì"
+   },
+   {
+    "fr": "un parc",
+    "tgt": "公园",
+    "ro": "gōngyuán"
+   },
+   {
+    "fr": "le téléphone",
+    "tgt": "电话",
+    "ro": "diànhuà"
+   },
+   {
+    "fr": "un étudiant",
+    "tgt": "学生",
+    "ro": "xuésheng"
+   },
+   {
+    "fr": "les environs",
+    "tgt": "附近",
+    "ro": "fùjìn"
+   }
+  ],
+  "0-2-3": [
+   {
+    "fr": "aimer",
+    "tgt": "喜欢",
+    "ro": "xǐhuan"
+   },
+   {
+    "fr": "boire",
+    "tgt": "喝",
+    "ro": "hē"
+   },
+   {
+    "fr": "le thé",
+    "tgt": "茶",
+    "ro": "chá"
+   },
+   {
+    "fr": "le café",
+    "tgt": "咖啡",
+    "ro": "kāfēi"
+   },
+   {
+    "fr": "se promener",
+    "tgt": "散步",
+    "ro": "sànbù"
+   },
+   {
+    "fr": "le panda",
+    "tgt": "熊猫",
+    "ro": "xióngmāo"
+   }
+  ],
+  "0-2-4": [
+   {
+    "fr": "demain",
+    "tgt": "明天",
+    "ro": "míngtiān"
+   },
+   {
+    "fr": "l'après-midi",
+    "tgt": "下午",
+    "ro": "xiàwǔ"
+   },
+   {
+    "fr": "loin",
+    "tgt": "远",
+    "ro": "yuǎn"
+   },
+   {
+    "fr": "dormir",
+    "tgt": "睡觉",
+    "ro": "shuìjiào"
+   },
+   {
+    "fr": "prendre une photo",
+    "tgt": "拍照",
+    "ro": "pāizhào"
+   },
+   {
+    "fr": "mignon",
+    "tgt": "可爱",
+    "ro": "kě'ài"
+   }
+  ],
+  "0-2-5": [
+   {
+    "fr": "la famille",
+    "tgt": "家人",
+    "ro": "jiārén"
+   },
+   {
+    "fr": "papa",
+    "tgt": "爸爸",
+    "ro": "bàba"
+   },
+   {
+    "fr": "maman",
+    "tgt": "妈妈",
+    "ro": "māma"
+   },
+   {
+    "fr": "le grand frère",
+    "tgt": "哥哥",
+    "ro": "gēge"
+   },
+   {
+    "fr": "la grande sœur",
+    "tgt": "姐姐",
+    "ro": "jiějie"
+   },
+   {
+    "fr": "le professeur",
+    "tgt": "老师",
+    "ro": "lǎoshī"
+   }
+  ],
+  "0-2-6": [
+   {
+    "fr": "aller au travail",
+    "tgt": "上班",
+    "ro": "shàngbān"
+   },
+   {
+    "fr": "une entreprise",
+    "tgt": "公司",
+    "ro": "gōngsī"
+   },
+   {
+    "fr": "le bureau",
+    "tgt": "办公室",
+    "ro": "bàngōngshì"
+   },
+   {
+    "fr": "intéressant",
+    "tgt": "有意思",
+    "ro": "yǒu yìsi"
+   },
+   {
+    "fr": "fatigué",
+    "tgt": "累",
+    "ro": "lèi"
+   },
+   {
+    "fr": "lundi",
+    "tgt": "星期一",
+    "ro": "xīngqīyī"
+   }
+  ],
+  "0-2-7": [
+   {
+    "fr": "manger",
+    "tgt": "吃饭",
+    "ro": "chīfàn"
+   },
+   {
+    "fr": "faire les courses",
+    "tgt": "买东西",
+    "ro": "mǎi dōngxi"
+   },
+   {
+    "fr": "pleuvoir",
+    "tgt": "下雨",
+    "ro": "xiàyǔ"
+   },
+   {
+    "fr": "être en train de",
+    "tgt": "正在",
+    "ro": "zhèngzài"
+   },
+   {
+    "fr": "la télévision",
+    "tgt": "电视",
+    "ro": "diànshì"
+   },
+   {
+    "fr": "la petite sœur",
+    "tgt": "妹妹",
+    "ro": "mèimei"
+   }
+  ],
+  "0-2-8": [
+   {
+    "fr": "merci",
+    "tgt": "谢谢",
+    "ro": "xièxie"
+   },
+   {
+    "fr": "combien ça coûte",
+    "tgt": "多少钱",
+    "ro": "duōshao qián"
+   },
+   {
+    "fr": "la maison de thé",
+    "tgt": "茶馆",
+    "ro": "cháguǎn"
+   },
+   {
+    "fr": "attention",
+    "tgt": "小心",
+    "ro": "xiǎoxīn"
+   },
+   {
+    "fr": "dehors",
+    "tgt": "外面",
+    "ro": "wàimian"
+   },
+   {
+    "fr": "brûlant",
+    "tgt": "烫",
+    "ro": "tàng"
+   }
+  ],
+  "0-2-9": [
+   {
+    "fr": "le métro",
+    "tgt": "地铁",
+    "ro": "dìtiě"
+   },
+   {
+    "fr": "le bus",
+    "tgt": "公交车",
+    "ro": "gōngjiāochē"
+   },
+   {
+    "fr": "hier",
+    "tgt": "昨天",
+    "ro": "zuótiān"
+   },
+   {
+    "fr": "bon marché",
+    "tgt": "便宜",
+    "ro": "piányi"
+   },
+   {
+    "fr": "difficile",
+    "tgt": "难",
+    "ro": "nán"
+   },
+   {
+    "fr": "rapide",
+    "tgt": "快",
+    "ro": "kuài"
+   }
+  ],
+  "0-2-10": [
+   {
+    "fr": "un collègue",
+    "tgt": "同事",
+    "ro": "tóngshì"
+   },
+   {
+    "fr": "bienvenue",
+    "tgt": "欢迎",
+    "ro": "huānyíng"
+   },
+   {
+    "fr": "finir le travail",
+    "tgt": "下班",
+    "ro": "xiàbān"
+   },
+   {
+    "fr": "midi",
+    "tgt": "中午",
+    "ro": "zhōngwǔ"
+   },
+   {
+    "fr": "le patron",
+    "tgt": "老板",
+    "ro": "lǎobǎn"
+   },
+   {
+    "fr": "avoir une réunion",
+    "tgt": "开会",
+    "ro": "kāihuì"
+   }
+  ],
+  "0-2-11": [
+   {
+    "fr": "pourquoi",
+    "tgt": "为什么",
+    "ro": "wèishénme"
+   },
+   {
+    "fr": "parce que",
+    "tgt": "因为",
+    "ro": "yīnwèi"
+   },
+   {
+    "fr": "donc",
+    "tgt": "所以",
+    "ro": "suǒyǐ"
+   },
+   {
+    "fr": "occupé",
+    "tgt": "忙",
+    "ro": "máng"
+   },
+   {
+    "fr": "être en retard",
+    "tgt": "迟到",
+    "ro": "chídào"
+   },
+   {
+    "fr": "les embouteillages",
+    "tgt": "堵车",
+    "ro": "dǔchē"
+   }
+  ],
+  "0-2-12": [
+   {
+    "fr": "savoir faire",
+    "tgt": "会",
+    "ro": "huì"
+   },
+   {
+    "fr": "jouer au mahjong",
+    "tgt": "打麻将",
+    "ro": "dǎ májiàng"
+   },
+   {
+    "fr": "enseigner",
+    "tgt": "教",
+    "ro": "jiāo"
+   },
+   {
+    "fr": "gagner",
+    "tgt": "赢",
+    "ro": "yíng"
+   },
+   {
+    "fr": "une personne âgée",
+    "tgt": "老人",
+    "ro": "lǎorén"
+   },
+   {
+    "fr": "la règle",
+    "tgt": "规则",
+    "ro": "guīzé"
+   }
+  ],
+  "0-2-13": [
+   {
+    "fr": "délicieux",
+    "tgt": "好吃",
+    "ro": "hǎochī"
+   },
+   {
+    "fr": "goûter",
+    "tgt": "尝",
+    "ro": "cháng"
+   },
+   {
+    "fr": "essayer",
+    "tgt": "试",
+    "ro": "shì"
+   },
+   {
+    "fr": "demander",
+    "tgt": "问",
+    "ro": "wèn"
+   },
+   {
+    "fr": "se reposer",
+    "tgt": "休息",
+    "ro": "xiūxi"
+   },
+   {
+    "fr": "une photo",
+    "tgt": "照片",
+    "ro": "zhàopiàn"
+   }
+  ],
+  "0-2-14": [
+   {
+    "fr": "le week-end",
+    "tgt": "周末",
+    "ro": "zhōumò"
+   },
+   {
+    "fr": "chanter",
+    "tgt": "唱歌",
+    "ro": "chànggē"
+   },
+   {
+    "fr": "le film",
+    "tgt": "电影",
+    "ro": "diànyǐng"
+   },
+   {
+    "fr": "faire du sport",
+    "tgt": "运动",
+    "ro": "yùndòng"
+   },
+   {
+    "fr": "le vélo",
+    "tgt": "自行车",
+    "ro": "zìxíngchē"
+   },
+   {
+    "fr": "beau",
+    "tgt": "漂亮",
+    "ro": "piàoliang"
+   }
+  ],
+  "0-2-15": [
+   {
+    "fr": "donner",
+    "tgt": "给",
+    "ro": "gěi"
+   },
+   {
+    "fr": "acheter",
+    "tgt": "买",
+    "ro": "mǎi"
+   },
+   {
+    "fr": "un cadeau",
+    "tgt": "礼物",
+    "ro": "lǐwù"
+   },
+   {
+    "fr": "offrir",
+    "tgt": "送",
+    "ro": "sòng"
+   },
+   {
+    "fr": "un livre",
+    "tgt": "书",
+    "ro": "shū"
+   },
+   {
+    "fr": "le vin rouge",
+    "tgt": "红酒",
+    "ro": "hóngjiǔ"
+   }
+  ],
+  "0-2-16": [
+   {
+    "fr": "savoir",
+    "tgt": "知道",
+    "ro": "zhīdào"
+   },
+   {
+    "fr": "pas de problème",
+    "tgt": "没问题",
+    "ro": "méi wèntí"
+   },
+   {
+    "fr": "bien sûr",
+    "tgt": "当然",
+    "ro": "dāngrán"
+   },
+   {
+    "fr": "être libre",
+    "tgt": "有空",
+    "ro": "yǒu kòng"
+   },
+   {
+    "fr": "la fondue chinoise",
+    "tgt": "火锅",
+    "ro": "huǒguō"
+   },
+   {
+    "fr": "réserver une table",
+    "tgt": "订位",
+    "ro": "dìngwèi"
+   }
+  ],
+  "0-2-17": [
+   {
+    "fr": "très",
+    "tgt": "非常",
+    "ro": "fēicháng"
+   },
+   {
+    "fr": "trop",
+    "tgt": "太",
+    "ro": "tài"
+   },
+   {
+    "fr": "épicé",
+    "tgt": "辣",
+    "ro": "là"
+   },
+   {
+    "fr": "heureux",
+    "tgt": "开心",
+    "ro": "kāixīn"
+   },
+   {
+    "fr": "célèbre",
+    "tgt": "有名",
+    "ro": "yǒumíng"
+   },
+   {
+    "fr": "le bouillon",
+    "tgt": "汤",
+    "ro": "tāng"
+   }
+  ],
+  "0-2-18": [
+   {
+    "fr": "au revoir",
+    "tgt": "再见",
+    "ro": "zàijiàn"
+   },
+   {
+    "fr": "rentrer à la maison",
+    "tgt": "回家",
+    "ro": "huíjiā"
+   },
+   {
+    "fr": "bonne nuit",
+    "tgt": "晚安",
+    "ro": "wǎn'ān"
+   },
+   {
+    "fr": "prendre un taxi",
+    "tgt": "打车",
+    "ro": "dǎchē"
+   },
+   {
+    "fr": "un message",
+    "tgt": "信息",
+    "ro": "xìnxī"
+   },
+   {
+    "fr": "inviter",
+    "tgt": "请客",
+    "ro": "qǐngkè"
+   }
+  ],
+  "0-2-19": [
+   {
+    "fr": "maintenant",
+    "tgt": "现在",
+    "ro": "xiànzài"
+   },
+   {
+    "fr": "mais",
+    "tgt": "可是",
+    "ro": "kěshì"
+   },
+   {
+    "fr": "utiliser",
+    "tgt": "用",
+    "ro": "yòng"
+   },
+   {
+    "fr": "présenter",
+    "tgt": "介绍",
+    "ro": "jièshào"
+   },
+   {
+    "fr": "continuer",
+    "tgt": "继续",
+    "ro": "jìxù"
+   },
+   {
+    "fr": "courage",
+    "tgt": "加油",
+    "ro": "jiāyóu"
+   }
+  ],
+  "1-0-0": [
+   {
+    "fr": "l'appartement",
+    "tgt": "公寓",
+    "ro": "gōngyù"
+   },
+   {
+    "fr": "le loyer",
+    "tgt": "房租",
+    "ro": "fángzū"
+   },
+   {
+    "fr": "la clé",
+    "tgt": "钥匙",
+    "ro": "yàoshi"
+   },
+   {
+    "fr": "la cuisine",
+    "tgt": "厨房",
+    "ro": "chúfáng"
+   },
+   {
+    "fr": "le propriétaire",
+    "tgt": "房东",
+    "ro": "fángdōng"
+   },
+   {
+    "fr": "la climatisation",
+    "tgt": "空调",
+    "ro": "kōngtiáo"
+   }
+  ],
+  "1-0-1": [
+   {
+    "fr": "la banque",
+    "tgt": "银行",
+    "ro": "yínháng"
+   },
+   {
+    "fr": "le compte bancaire",
+    "tgt": "账户",
+    "ro": "zhànghù"
+   },
+   {
+    "fr": "travailler",
+    "tgt": "工作",
+    "ro": "gōngzuò"
+   },
+   {
+    "fr": "l'entreprise",
+    "tgt": "公司",
+    "ro": "gōngsī"
+   },
+   {
+    "fr": "le collègue",
+    "tgt": "同事",
+    "ro": "tóngshì"
+   },
+   {
+    "fr": "le passeport",
+    "tgt": "护照",
+    "ro": "hùzhào"
+   }
+  ],
+  "1-0-2": [
+   {
+    "fr": "le téléphone portable",
+    "tgt": "手机",
+    "ro": "shǒujī"
+   },
+   {
+    "fr": "payer",
+    "tgt": "付款",
+    "ro": "fùkuǎn"
+   },
+   {
+    "fr": "les espèces",
+    "tgt": "现金",
+    "ro": "xiànjīn"
+   },
+   {
+    "fr": "la carte bancaire",
+    "tgt": "银行卡",
+    "ro": "yínhángkǎ"
+   },
+   {
+    "fr": "pratique",
+    "tgt": "方便",
+    "ro": "fāngbiàn"
+   },
+   {
+    "fr": "le portefeuille",
+    "tgt": "钱包",
+    "ro": "qiánbāo"
+   }
+  ],
+  "1-0-3": [
+   {
+    "fr": "faire la cuisine",
+    "tgt": "做饭",
+    "ro": "zuò fàn"
+   },
+   {
+    "fr": "le repas livré",
+    "tgt": "外卖",
+    "ro": "wàimài"
+   },
+   {
+    "fr": "le restaurant",
+    "tgt": "饭馆",
+    "ro": "fànguǎn"
+   },
+   {
+    "fr": "l'adresse",
+    "tgt": "地址",
+    "ro": "dìzhǐ"
+   },
+   {
+    "fr": "téléphoner",
+    "tgt": "打电话",
+    "ro": "dǎ diànhuà"
+   },
+   {
+    "fr": "les nouilles",
+    "tgt": "面条",
+    "ro": "miàntiáo"
+   }
+  ],
+  "1-0-4": [
+   {
+    "fr": "l'ordinateur",
+    "tgt": "电脑",
+    "ro": "diànnǎo"
+   },
+   {
+    "fr": "le mail",
+    "tgt": "邮件",
+    "ro": "yóujiàn"
+   },
+   {
+    "fr": "avoir une réunion",
+    "tgt": "开会",
+    "ro": "kāihuì"
+   },
+   {
+    "fr": "le patron",
+    "tgt": "老板",
+    "ro": "lǎobǎn"
+   },
+   {
+    "fr": "le client",
+    "tgt": "客户",
+    "ro": "kèhù"
+   },
+   {
+    "fr": "le rapport",
+    "tgt": "报告",
+    "ro": "bàogào"
+   }
+  ],
+  "1-0-5": [
+   {
+    "fr": "la fenêtre",
+    "tgt": "窗户",
+    "ro": "chuānghu"
+   },
+   {
+    "fr": "les ordures",
+    "tgt": "垃圾",
+    "ro": "lājī"
+   },
+   {
+    "fr": "les vêtements",
+    "tgt": "衣服",
+    "ro": "yīfu"
+   },
+   {
+    "fr": "propre",
+    "tgt": "干净",
+    "ro": "gānjìng"
+   },
+   {
+    "fr": "ranger",
+    "tgt": "收拾",
+    "ro": "shōushi"
+   },
+   {
+    "fr": "le canapé",
+    "tgt": "沙发",
+    "ro": "shāfā"
+   }
+  ],
+  "1-0-6": [
+   {
+    "fr": "ne pas se sentir bien",
+    "tgt": "不舒服",
+    "ro": "bù shūfu"
+   },
+   {
+    "fr": "le rhume",
+    "tgt": "感冒",
+    "ro": "gǎnmào"
+   },
+   {
+    "fr": "avoir de la fièvre",
+    "tgt": "发烧",
+    "ro": "fāshāo"
+   },
+   {
+    "fr": "se reposer",
+    "tgt": "休息",
+    "ro": "xiūxi"
+   },
+   {
+    "fr": "la gorge",
+    "tgt": "嗓子",
+    "ro": "sǎngzi"
+   },
+   {
+    "fr": "grave",
+    "tgt": "严重",
+    "ro": "yánzhòng"
+   }
+  ],
+  "1-0-7": [
+   {
+    "fr": "le médicament",
+    "tgt": "药",
+    "ro": "yào"
+   },
+   {
+    "fr": "tousser",
+    "tgt": "咳嗽",
+    "ro": "késou"
+   },
+   {
+    "fr": "l'ordonnance",
+    "tgt": "处方",
+    "ro": "chǔfāng"
+   },
+   {
+    "fr": "l'enfant",
+    "tgt": "小孩儿",
+    "ro": "xiǎoháir"
+   },
+   {
+    "fr": "l'adulte",
+    "tgt": "大人",
+    "ro": "dàren"
+   },
+   {
+    "fr": "le pansement",
+    "tgt": "创可贴",
+    "ro": "chuāngkětiē"
+   }
+  ],
+  "1-0-8": [
+   {
+    "fr": "le voisin",
+    "tgt": "邻居",
+    "ro": "línjū"
+   },
+   {
+    "fr": "l'ami",
+    "tgt": "朋友",
+    "ro": "péngyou"
+   },
+   {
+    "fr": "le colis",
+    "tgt": "快递",
+    "ro": "kuàidì"
+   },
+   {
+    "fr": "bruyant",
+    "tgt": "吵",
+    "ro": "chǎo"
+   },
+   {
+    "fr": "les raviolis",
+    "tgt": "饺子",
+    "ro": "jiǎozi"
+   },
+   {
+    "fr": "danser",
+    "tgt": "跳舞",
+    "ro": "tiàowǔ"
+   }
+  ],
+  "1-0-9": [
+   {
+    "fr": "combien ça coûte",
+    "tgt": "多少钱",
+    "ro": "duōshao qián"
+   },
+   {
+    "fr": "les fruits",
+    "tgt": "水果",
+    "ro": "shuǐguǒ"
+   },
+   {
+    "fr": "les légumes",
+    "tgt": "蔬菜",
+    "ro": "shūcài"
+   },
+   {
+    "fr": "l'œuf",
+    "tgt": "鸡蛋",
+    "ro": "jīdàn"
+   },
+   {
+    "fr": "le lait",
+    "tgt": "牛奶",
+    "ro": "niúnǎi"
+   },
+   {
+    "fr": "le pain",
+    "tgt": "面包",
+    "ro": "miànbāo"
+   }
+  ],
+  "1-0-10": [
+   {
+    "fr": "le week-end",
+    "tgt": "周末",
+    "ro": "zhōumò"
+   },
+   {
+    "fr": "se promener",
+    "tgt": "散步",
+    "ro": "sànbù"
+   },
+   {
+    "fr": "le film",
+    "tgt": "电影",
+    "ro": "diànyǐng"
+   },
+   {
+    "fr": "les parents",
+    "tgt": "父母",
+    "ro": "fùmǔ"
+   },
+   {
+    "fr": "dimanche",
+    "tgt": "星期天",
+    "ro": "xīngqītiān"
+   },
+   {
+    "fr": "calme",
+    "tgt": "安静",
+    "ro": "ānjìng"
+   }
+  ],
+  "1-0-11": [
+   {
+    "fr": "le chinois",
+    "tgt": "中文",
+    "ro": "zhōngwén"
+   },
+   {
+    "fr": "apprendre",
+    "tgt": "学",
+    "ro": "xué"
+   },
+   {
+    "fr": "le train à grande vitesse",
+    "tgt": "高铁",
+    "ro": "gāotiě"
+   },
+   {
+    "fr": "le vélo",
+    "tgt": "自行车",
+    "ro": "zìxíngchē"
+   },
+   {
+    "fr": "enfin",
+    "tgt": "终于",
+    "ro": "zhōngyú"
+   },
+   {
+    "fr": "jamais",
+    "tgt": "从来",
+    "ro": "cónglái"
+   }
+  ],
+  "1-0-12": [
+   {
+    "fr": "nager",
+    "tgt": "游泳",
+    "ro": "yóuyǒng"
+   },
+   {
+    "fr": "l'été",
+    "tgt": "夏天",
+    "ro": "xiàtiān"
+   },
+   {
+    "fr": "l'enfance",
+    "tgt": "小时候",
+    "ro": "xiǎoshíhou"
+   },
+   {
+    "fr": "la grand-mère",
+    "tgt": "奶奶",
+    "ro": "nǎinai"
+   },
+   {
+    "fr": "la campagne",
+    "tgt": "农村",
+    "ro": "nóngcūn"
+   },
+   {
+    "fr": "le souvenir",
+    "tgt": "回忆",
+    "ro": "huíyì"
+   }
+  ],
+  "1-0-13": [
+   {
+    "fr": "le métro",
+    "tgt": "地铁",
+    "ro": "dìtiě"
+   },
+   {
+    "fr": "aller au travail",
+    "tgt": "上班",
+    "ro": "shàngbān"
+   },
+   {
+    "fr": "pardon",
+    "tgt": "不好意思",
+    "ro": "bù hǎoyìsi"
+   },
+   {
+    "fr": "descendre du véhicule",
+    "tgt": "下车",
+    "ro": "xià chē"
+   },
+   {
+    "fr": "la minute",
+    "tgt": "分钟",
+    "ro": "fēnzhōng"
+   },
+   {
+    "fr": "changer de ligne",
+    "tgt": "换乘",
+    "ro": "huànchéng"
+   }
+  ],
+  "1-0-14": [
+   {
+    "fr": "la salle de bains",
+    "tgt": "卫生间",
+    "ro": "wèishēngjiān"
+   },
+   {
+    "fr": "fuir",
+    "tgt": "漏水",
+    "ro": "lòu shuǐ"
+   },
+   {
+    "fr": "l'après-midi",
+    "tgt": "下午",
+    "ro": "xiàwǔ"
+   },
+   {
+    "fr": "le réparateur",
+    "tgt": "修理工",
+    "ro": "xiūlǐgōng"
+   },
+   {
+    "fr": "vieux",
+    "tgt": "旧",
+    "ro": "jiù"
+   },
+   {
+    "fr": "le tuyau",
+    "tgt": "管子",
+    "ro": "guǎnzi"
+   }
+  ],
+  "1-0-15": [
+   {
+    "fr": "faire du sport",
+    "tgt": "运动",
+    "ro": "yùndòng"
+   },
+   {
+    "fr": "la salle de sport",
+    "tgt": "健身房",
+    "ro": "jiànshēnfáng"
+   },
+   {
+    "fr": "fatigué",
+    "tgt": "累",
+    "ro": "lèi"
+   },
+   {
+    "fr": "avoir faim",
+    "tgt": "饿",
+    "ro": "è"
+   },
+   {
+    "fr": "courir",
+    "tgt": "跑",
+    "ro": "pǎo"
+   },
+   {
+    "fr": "l'entraîneur",
+    "tgt": "教练",
+    "ro": "jiàoliàn"
+   }
+  ],
+  "1-0-16": [
+   {
+    "fr": "la poubelle",
+    "tgt": "垃圾桶",
+    "ro": "lājītǒng"
+   },
+   {
+    "fr": "jeter",
+    "tgt": "扔",
+    "ro": "rēng"
+   },
+   {
+    "fr": "trier",
+    "tgt": "分类",
+    "ro": "fēnlèi"
+   },
+   {
+    "fr": "le papier",
+    "tgt": "纸",
+    "ro": "zhǐ"
+   },
+   {
+    "fr": "la bouteille",
+    "tgt": "瓶子",
+    "ro": "píngzi"
+   },
+   {
+    "fr": "la pile",
+    "tgt": "电池",
+    "ro": "diànchí"
+   }
+  ],
+  "1-0-17": [
+   {
+    "fr": "manger",
+    "tgt": "吃饭",
+    "ro": "chī fàn"
+   },
+   {
+    "fr": "goûter",
+    "tgt": "尝尝",
+    "ro": "chángchang"
+   },
+   {
+    "fr": "le poisson",
+    "tgt": "鱼",
+    "ro": "yú"
+   },
+   {
+    "fr": "trinquer",
+    "tgt": "干杯",
+    "ro": "gānbēi"
+   },
+   {
+    "fr": "content",
+    "tgt": "开心",
+    "ro": "kāixīn"
+   },
+   {
+    "fr": "l'épouse",
+    "tgt": "太太",
+    "ro": "tàitai"
+   }
+  ],
+  "1-0-18": [
+   {
+    "fr": "dangereux",
+    "tgt": "危险",
+    "ro": "wēixiǎn"
+   },
+   {
+    "fr": "s'inquiéter",
+    "tgt": "担心",
+    "ro": "dānxīn"
+   },
+   {
+    "fr": "sortir",
+    "tgt": "出门",
+    "ro": "chūmén"
+   },
+   {
+    "fr": "l'école",
+    "tgt": "学校",
+    "ro": "xuéxiào"
+   },
+   {
+    "fr": "le typhon",
+    "tgt": "台风",
+    "ro": "táifēng"
+   },
+   {
+    "fr": "le balcon",
+    "tgt": "阳台",
+    "ro": "yángtái"
+   }
+  ],
+  "1-0-19": [
+   {
+    "fr": "s'entraîner",
+    "tgt": "练习",
+    "ro": "liànxí"
+   },
+   {
+    "fr": "bavarder",
+    "tgt": "聊天",
+    "ro": "liáotiān"
+   },
+   {
+    "fr": "difficile",
+    "tgt": "难",
+    "ro": "nán"
+   },
+   {
+    "fr": "le voyage",
+    "tgt": "旅行",
+    "ro": "lǚxíng"
+   },
+   {
+    "fr": "progresser",
+    "tgt": "进步",
+    "ro": "jìnbù"
+   },
+   {
+    "fr": "la pharmacie",
+    "tgt": "药店",
+    "ro": "yàodiàn"
+   }
+  ],
+  "1-1-0": [
+   {
+    "fr": "l'hôtel",
+    "tgt": "酒店",
+    "ro": "jiǔdiàn"
+   },
+   {
+    "fr": "l'aéroport",
+    "tgt": "机场",
+    "ro": "jīchǎng"
+   },
+   {
+    "fr": "le métro",
+    "tgt": "地铁",
+    "ro": "dìtiě"
+   },
+   {
+    "fr": "le centre-ville",
+    "tgt": "市中心",
+    "ro": "shì zhōngxīn"
+   },
+   {
+    "fr": "le chapeau",
+    "tgt": "帽子",
+    "ro": "màozi"
+   },
+   {
+    "fr": "célèbre",
+    "tgt": "有名",
+    "ro": "yǒumíng"
+   }
+  ],
+  "1-1-1": [
+   {
+    "fr": "le billet",
+    "tgt": "票",
+    "ro": "piào"
+   },
+   {
+    "fr": "la gare routière",
+    "tgt": "汽车站",
+    "ro": "qìchēzhàn"
+   },
+   {
+    "fr": "le guide",
+    "tgt": "导游",
+    "ro": "dǎoyóu"
+   },
+   {
+    "fr": "fatigué",
+    "tgt": "累",
+    "ro": "lèi"
+   },
+   {
+    "fr": "le kilomètre",
+    "tgt": "公里",
+    "ro": "gōnglǐ"
+   },
+   {
+    "fr": "le rocher",
+    "tgt": "石头",
+    "ro": "shítou"
+   }
+  ],
+  "1-1-2": [
+   {
+    "fr": "attendre",
+    "tgt": "等",
+    "ro": "děng"
+   },
+   {
+    "fr": "descendre du véhicule",
+    "tgt": "下车",
+    "ro": "xià chē"
+   },
+   {
+    "fr": "le car",
+    "tgt": "大巴",
+    "ro": "dàbā"
+   },
+   {
+    "fr": "la valise",
+    "tgt": "箱子",
+    "ro": "xiāngzi"
+   },
+   {
+    "fr": "la carte",
+    "tgt": "地图",
+    "ro": "dìtú"
+   },
+   {
+    "fr": "le soleil",
+    "tgt": "太阳",
+    "ro": "tàiyáng"
+   }
+  ],
+  "1-1-3": [
+   {
+    "fr": "combien ça coûte",
+    "tgt": "多少钱",
+    "ro": "duōshao qián"
+   },
+   {
+    "fr": "cher",
+    "tgt": "贵",
+    "ro": "guì"
+   },
+   {
+    "fr": "propre",
+    "tgt": "干净",
+    "ro": "gānjìng"
+   },
+   {
+    "fr": "calme",
+    "tgt": "安静",
+    "ro": "ānjìng"
+   },
+   {
+    "fr": "un café, le lieu",
+    "tgt": "咖啡馆",
+    "ro": "kāfēiguǎn"
+   },
+   {
+    "fr": "la vieille ville",
+    "tgt": "古城",
+    "ro": "gǔchéng"
+   }
+  ],
+  "1-1-4": [
+   {
+    "fr": "le téléphone portable",
+    "tgt": "手机",
+    "ro": "shǒujī"
+   },
+   {
+    "fr": "pleuvoir",
+    "tgt": "下雨",
+    "ro": "xià yǔ"
+   },
+   {
+    "fr": "le vélo",
+    "tgt": "自行车",
+    "ro": "zìxíngchē"
+   },
+   {
+    "fr": "louer",
+    "tgt": "租",
+    "ro": "zū"
+   },
+   {
+    "fr": "se reposer",
+    "tgt": "休息",
+    "ro": "xiūxi"
+   },
+   {
+    "fr": "partir",
+    "tgt": "出发",
+    "ro": "chūfā"
+   }
+  ],
+  "1-1-5": [
+   {
+    "fr": "le passeport",
+    "tgt": "护照",
+    "ro": "hùzhào"
+   },
+   {
+    "fr": "la chambre",
+    "tgt": "房间",
+    "ro": "fángjiān"
+   },
+   {
+    "fr": "désolé",
+    "tgt": "不好意思",
+    "ro": "bù hǎoyìsi"
+   },
+   {
+    "fr": "les bagages",
+    "tgt": "行李",
+    "ro": "xíngli"
+   },
+   {
+    "fr": "le petit-déjeuner",
+    "tgt": "早饭",
+    "ro": "zǎofàn"
+   },
+   {
+    "fr": "l'ascenseur",
+    "tgt": "电梯",
+    "ro": "diàntī"
+   }
+  ],
+  "1-1-6": [
+   {
+    "fr": "faire attention",
+    "tgt": "小心",
+    "ro": "xiǎoxīn"
+   },
+   {
+    "fr": "lourd",
+    "tgt": "重",
+    "ro": "zhòng"
+   },
+   {
+    "fr": "le sac à dos",
+    "tgt": "背包",
+    "ro": "bēibāo"
+   },
+   {
+    "fr": "l'auberge",
+    "tgt": "客栈",
+    "ro": "kèzhàn"
+   },
+   {
+    "fr": "le cheval",
+    "tgt": "马",
+    "ro": "mǎ"
+   },
+   {
+    "fr": "la randonnée",
+    "tgt": "徒步",
+    "ro": "túbù"
+   }
+  ],
+  "1-1-7": [
+   {
+    "fr": "la météo",
+    "tgt": "天气预报",
+    "ro": "tiānqì yùbào"
+   },
+   {
+    "fr": "froid",
+    "tgt": "冷",
+    "ro": "lěng"
+   },
+   {
+    "fr": "l'après-midi",
+    "tgt": "下午",
+    "ro": "xiàwǔ"
+   },
+   {
+    "fr": "avoir mal à la tête",
+    "tgt": "头疼",
+    "ro": "tóuténg"
+   },
+   {
+    "fr": "tout de suite",
+    "tgt": "马上",
+    "ro": "mǎshàng"
+   },
+   {
+    "fr": "la veste",
+    "tgt": "外套",
+    "ro": "wàitào"
+   }
+  ],
+  "1-1-8": [
+   {
+    "fr": "le train",
+    "tgt": "火车",
+    "ro": "huǒchē"
+   },
+   {
+    "fr": "la couchette",
+    "tgt": "卧铺",
+    "ro": "wòpù"
+   },
+   {
+    "fr": "la voiture du train",
+    "tgt": "车厢",
+    "ro": "chēxiāng"
+   },
+   {
+    "fr": "ne pas arriver à dormir",
+    "tgt": "睡不着",
+    "ro": "shuì bu zháo"
+   },
+   {
+    "fr": "les nouilles instantanées",
+    "tgt": "方便面",
+    "ro": "fāngbiànmiàn"
+   },
+   {
+    "fr": "la mandarine",
+    "tgt": "橘子",
+    "ro": "júzi"
+   }
+  ],
+  "1-1-9": [
+   {
+    "fr": "bon marché",
+    "tgt": "便宜",
+    "ro": "piányi"
+   },
+   {
+    "fr": "épicé",
+    "tgt": "辣",
+    "ro": "là"
+   },
+   {
+    "fr": "souvent",
+    "tgt": "经常",
+    "ro": "jīngcháng"
+   },
+   {
+    "fr": "l'été",
+    "tgt": "夏天",
+    "ro": "xiàtiān"
+   },
+   {
+    "fr": "le bol",
+    "tgt": "碗",
+    "ro": "wǎn"
+   },
+   {
+    "fr": "les nouilles de riz",
+    "tgt": "米粉",
+    "ro": "mǐfěn"
+   }
+  ],
+  "1-1-10": [
+   {
+    "fr": "le bateau",
+    "tgt": "船",
+    "ro": "chuán"
+   },
+   {
+    "fr": "le paysage",
+    "tgt": "风景",
+    "ro": "fēngjǐng"
+   },
+   {
+    "fr": "prendre des photos",
+    "tgt": "拍照",
+    "ro": "pāizhào"
+   },
+   {
+    "fr": "le déjeuner",
+    "tgt": "午饭",
+    "ro": "wǔfàn"
+   },
+   {
+    "fr": "vendre",
+    "tgt": "卖",
+    "ro": "mài"
+   },
+   {
+    "fr": "le vent",
+    "tgt": "风",
+    "ro": "fēng"
+   }
+  ],
+  "1-1-11": [
+   {
+    "fr": "le chinois",
+    "tgt": "中文",
+    "ro": "zhōngwén"
+   },
+   {
+    "fr": "comprendre à l'oral",
+    "tgt": "听懂",
+    "ro": "tīngdǒng"
+   },
+   {
+    "fr": "bon à manger",
+    "tgt": "好吃",
+    "ro": "hǎochī"
+   },
+   {
+    "fr": "content",
+    "tgt": "开心",
+    "ro": "kāixīn"
+   },
+   {
+    "fr": "rapide",
+    "tgt": "快",
+    "ro": "kuài"
+   },
+   {
+    "fr": "lent",
+    "tgt": "慢",
+    "ro": "màn"
+   }
+  ],
+  "1-1-12": [
+   {
+    "fr": "le printemps",
+    "tgt": "春天",
+    "ro": "chūntiān"
+   },
+   {
+    "fr": "l'automne",
+    "tgt": "秋天",
+    "ro": "qiūtiān"
+   },
+   {
+    "fr": "aider",
+    "tgt": "帮忙",
+    "ro": "bāngmáng"
+   },
+   {
+    "fr": "l'histoire",
+    "tgt": "历史",
+    "ro": "lìshǐ"
+   },
+   {
+    "fr": "les cheveux",
+    "tgt": "头发",
+    "ro": "tóufa"
+   },
+   {
+    "fr": "le village",
+    "tgt": "村子",
+    "ro": "cūnzi"
+   }
+  ],
+  "1-1-13": [
+   {
+    "fr": "l'œuf",
+    "tgt": "鸡蛋",
+    "ro": "jīdàn"
+   },
+   {
+    "fr": "le professeur",
+    "tgt": "老师",
+    "ro": "lǎoshī"
+   },
+   {
+    "fr": "le marché",
+    "tgt": "菜市场",
+    "ro": "càishìchǎng"
+   },
+   {
+    "fr": "la famille",
+    "tgt": "家人",
+    "ro": "jiārén"
+   },
+   {
+    "fr": "le sel",
+    "tgt": "盐",
+    "ro": "yán"
+   },
+   {
+    "fr": "la tomate",
+    "tgt": "番茄",
+    "ro": "fānqié"
+   }
+  ],
+  "1-1-14": [
+   {
+    "fr": "l'avion",
+    "tgt": "飞机",
+    "ro": "fēijī"
+   },
+   {
+    "fr": "prendre un taxi",
+    "tgt": "打车",
+    "ro": "dǎchē"
+   },
+   {
+    "fr": "se lever",
+    "tgt": "起床",
+    "ro": "qǐchuáng"
+   },
+   {
+    "fr": "pratique",
+    "tgt": "方便",
+    "ro": "fāngbiàn"
+   },
+   {
+    "fr": "le train à grande vitesse",
+    "tgt": "高铁",
+    "ro": "gāotiě"
+   },
+   {
+    "fr": "la place assise",
+    "tgt": "座位",
+    "ro": "zuòwèi"
+   }
+  ],
+  "1-1-15": [
+   {
+    "fr": "bien que",
+    "tgt": "虽然",
+    "ro": "suīrán"
+   },
+   {
+    "fr": "mais",
+    "tgt": "但是",
+    "ro": "dànshì"
+   },
+   {
+    "fr": "les choses",
+    "tgt": "东西",
+    "ro": "dōngxi"
+   },
+   {
+    "fr": "simple",
+    "tgt": "简单",
+    "ro": "jiǎndān"
+   },
+   {
+    "fr": "abandonner",
+    "tgt": "放弃",
+    "ro": "fàngqì"
+   },
+   {
+    "fr": "le sommet",
+    "tgt": "山顶",
+    "ro": "shāndǐng"
+   }
+  ],
+  "1-1-16": [
+   {
+    "fr": "les vêtements",
+    "tgt": "衣服",
+    "ro": "yīfu"
+   },
+   {
+    "fr": "hier",
+    "tgt": "昨天",
+    "ro": "zuótiān"
+   },
+   {
+    "fr": "oublier",
+    "tgt": "忘记",
+    "ro": "wàngjì"
+   },
+   {
+    "fr": "la chance",
+    "tgt": "运气",
+    "ro": "yùnqi"
+   },
+   {
+    "fr": "le lever du soleil",
+    "tgt": "日出",
+    "ro": "rìchū"
+   },
+   {
+    "fr": "le réveil",
+    "tgt": "闹钟",
+    "ro": "nàozhōng"
+   }
+  ],
+  "1-1-17": [
+   {
+    "fr": "aujourd'hui",
+    "tgt": "今天",
+    "ro": "jīntiān"
+   },
+   {
+    "fr": "annuler",
+    "tgt": "取消",
+    "ro": "qǔxiāo"
+   },
+   {
+    "fr": "changer son billet",
+    "tgt": "改签",
+    "ro": "gǎiqiān"
+   },
+   {
+    "fr": "se faire rembourser un billet",
+    "tgt": "退票",
+    "ro": "tuì piào"
+   },
+   {
+    "fr": "s'inquiéter",
+    "tgt": "着急",
+    "ro": "zháojí"
+   },
+   {
+    "fr": "la solution",
+    "tgt": "办法",
+    "ro": "bànfǎ"
+   }
+  ],
+  "1-1-18": [
+   {
+    "fr": "l'hôpital",
+    "tgt": "医院",
+    "ro": "yīyuàn"
+   },
+   {
+    "fr": "la pharmacie",
+    "tgt": "药店",
+    "ro": "yàodiàn"
+   },
+   {
+    "fr": "le médicament",
+    "tgt": "药",
+    "ro": "yào"
+   },
+   {
+    "fr": "avoir de la fièvre",
+    "tgt": "发烧",
+    "ro": "fāshāo"
+   },
+   {
+    "fr": "avoir mal au ventre",
+    "tgt": "肚子疼",
+    "ro": "dùzi téng"
+   },
+   {
+    "fr": "ne pas se sentir bien",
+    "tgt": "不舒服",
+    "ro": "bù shūfu"
+   }
+  ],
+  "1-1-19": [
+   {
+    "fr": "maintenant",
+    "tgt": "现在",
+    "ro": "xiànzài"
+   },
+   {
+    "fr": "le problème",
+    "tgt": "问题",
+    "ro": "wèntí"
+   },
+   {
+    "fr": "difficile",
+    "tgt": "难",
+    "ro": "nán"
+   },
+   {
+    "fr": "demander le chemin",
+    "tgt": "问路",
+    "ro": "wèn lù"
+   },
+   {
+    "fr": "stressé",
+    "tgt": "紧张",
+    "ro": "jǐnzhāng"
+   },
+   {
+    "fr": "progresser",
+    "tgt": "进步",
+    "ro": "jìnbù"
+   }
+  ],
+  "1-2-0": [
+   {
+    "fr": "le thé du matin",
+    "tgt": "早茶",
+    "ro": "zǎochá"
+   },
+   {
+    "fr": "le salon de thé",
+    "tgt": "茶楼",
+    "ro": "chálóu"
+   },
+   {
+    "fr": "le week-end",
+    "tgt": "周末",
+    "ro": "zhōumò"
+   },
+   {
+    "fr": "bon à manger",
+    "tgt": "好吃",
+    "ro": "hǎochī"
+   },
+   {
+    "fr": "inviter",
+    "tgt": "请客",
+    "ro": "qǐngkè"
+   },
+   {
+    "fr": "la place",
+    "tgt": "位子",
+    "ro": "wèizi"
+   }
+  ],
+  "1-2-1": [
+   {
+    "fr": "ça fait longtemps",
+    "tgt": "好久不见",
+    "ro": "hǎojiǔ bù jiàn"
+   },
+   {
+    "fr": "ces temps-ci",
+    "tgt": "最近",
+    "ro": "zuìjìn"
+   },
+   {
+    "fr": "s'inquiéter",
+    "tgt": "担心",
+    "ro": "dānxīn"
+   },
+   {
+    "fr": "le film",
+    "tgt": "电影",
+    "ro": "diànyǐng"
+   },
+   {
+    "fr": "à plus tard",
+    "tgt": "回头见",
+    "ro": "huítóu jiàn"
+   },
+   {
+    "fr": "le colocataire",
+    "tgt": "室友",
+    "ro": "shìyǒu"
+   }
+  ],
+  "1-2-2": [
+   {
+    "fr": "l'ami",
+    "tgt": "朋友",
+    "ro": "péngyou"
+   },
+   {
+    "fr": "pleuvoir",
+    "tgt": "下雨",
+    "ro": "xià yǔ"
+   },
+   {
+    "fr": "sortir",
+    "tgt": "出门",
+    "ro": "chūmén"
+   },
+   {
+    "fr": "se reposer",
+    "tgt": "休息",
+    "ro": "xiūxi"
+   },
+   {
+    "fr": "faire le ménage",
+    "tgt": "打扫",
+    "ro": "dǎsǎo"
+   },
+   {
+    "fr": "prendre des photos",
+    "tgt": "拍照",
+    "ro": "pāizhào"
+   }
+  ],
+  "1-2-3": [
+   {
+    "fr": "fêter le Nouvel An",
+    "tgt": "过年",
+    "ro": "guònián"
+   },
+   {
+    "fr": "la ville natale",
+    "tgt": "老家",
+    "ro": "lǎojiā"
+   },
+   {
+    "fr": "le billet de train",
+    "tgt": "车票",
+    "ro": "chēpiào"
+   },
+   {
+    "fr": "le train à grande vitesse",
+    "tgt": "高铁",
+    "ro": "gāotiě"
+   },
+   {
+    "fr": "le marché aux fleurs",
+    "tgt": "花市",
+    "ro": "huāshì"
+   },
+   {
+    "fr": "les sentences de bon augure",
+    "tgt": "春联",
+    "ro": "chūnlián"
+   }
+  ],
+  "1-2-4": [
+   {
+    "fr": "peut-être",
+    "tgt": "也许",
+    "ro": "yěxǔ"
+   },
+   {
+    "fr": "possible",
+    "tgt": "可能",
+    "ro": "kěnéng"
+   },
+   {
+    "fr": "être en retard",
+    "tgt": "迟到",
+    "ro": "chídào"
+   },
+   {
+    "fr": "le métro",
+    "tgt": "地铁",
+    "ro": "dìtiě"
+   },
+   {
+    "fr": "le restaurant",
+    "tgt": "饭馆",
+    "ro": "fànguǎn"
+   },
+   {
+    "fr": "faire des heures supplémentaires",
+    "tgt": "加班",
+    "ro": "jiābān"
+   }
+  ],
+  "1-2-5": [
+   {
+    "fr": "le dîner du réveillon",
+    "tgt": "年夜饭",
+    "ro": "niányèfàn"
+   },
+   {
+    "fr": "le réveillon du Nouvel An",
+    "tgt": "除夕",
+    "ro": "chúxī"
+   },
+   {
+    "fr": "les raviolis",
+    "tgt": "饺子",
+    "ro": "jiǎozi"
+   },
+   {
+    "fr": "se marier",
+    "tgt": "结婚",
+    "ro": "jiéhūn"
+   },
+   {
+    "fr": "important",
+    "tgt": "重要",
+    "ro": "zhòngyào"
+   },
+   {
+    "fr": "présenter ses vœux du Nouvel An",
+    "tgt": "拜年",
+    "ro": "bàinián"
+   }
+  ],
+  "1-2-6": [
+   {
+    "fr": "l'enveloppe rouge",
+    "tgt": "红包",
+    "ro": "hóngbāo"
+   },
+   {
+    "fr": "bonne année et prospérité",
+    "tgt": "恭喜发财",
+    "ro": "gōngxǐ fācái"
+   },
+   {
+    "fr": "en bonne santé",
+    "tgt": "健康",
+    "ro": "jiànkāng"
+   },
+   {
+    "fr": "l'enfant",
+    "tgt": "孩子",
+    "ro": "háizi"
+   },
+   {
+    "fr": "ouvrir",
+    "tgt": "打开",
+    "ro": "dǎkāi"
+   },
+   {
+    "fr": "que tous tes souhaits se réalisent",
+    "tgt": "万事如意",
+    "ro": "wànshì rúyì"
+   }
+  ],
+  "1-2-7": [
+   {
+    "fr": "chanter",
+    "tgt": "唱歌",
+    "ro": "chànggē"
+   },
+   {
+    "fr": "le micro",
+    "tgt": "话筒",
+    "ro": "huàtǒng"
+   },
+   {
+    "fr": "prendre une douche",
+    "tgt": "洗澡",
+    "ro": "xǐzǎo"
+   },
+   {
+    "fr": "la salle privée",
+    "tgt": "包间",
+    "ro": "bāojiān"
+   },
+   {
+    "fr": "chanter faux",
+    "tgt": "跑调",
+    "ro": "pǎodiào"
+   },
+   {
+    "fr": "chanter en duo",
+    "tgt": "合唱",
+    "ro": "héchàng"
+   }
+  ],
+  "1-2-8": [
+   {
+    "fr": "l'histoire",
+    "tgt": "故事",
+    "ro": "gùshi"
+   },
+   {
+    "fr": "dire",
+    "tgt": "告诉",
+    "ro": "gàosu"
+   },
+   {
+    "fr": "la fin",
+    "tgt": "结局",
+    "ro": "jiéjú"
+   },
+   {
+    "fr": "l'épisode",
+    "tgt": "集",
+    "ro": "jí"
+   },
+   {
+    "fr": "être accro",
+    "tgt": "上瘾",
+    "ro": "shàngyǐn"
+   },
+   {
+    "fr": "l'actrice principale",
+    "tgt": "女主角",
+    "ro": "nǚzhǔjué"
+   }
+  ],
+  "1-2-9": [
+   {
+    "fr": "aimer",
+    "tgt": "喜欢",
+    "ro": "xǐhuan"
+   },
+   {
+    "fr": "la lune",
+    "tgt": "月亮",
+    "ro": "yuèliang"
+   },
+   {
+    "fr": "le gâteau de lune",
+    "tgt": "月饼",
+    "ro": "yuèbǐng"
+   },
+   {
+    "fr": "se promener",
+    "tgt": "散步",
+    "ro": "sànbù"
+   },
+   {
+    "fr": "la lanterne",
+    "tgt": "灯笼",
+    "ro": "dēnglong"
+   },
+   {
+    "fr": "la fête de la mi-automne",
+    "tgt": "中秋节",
+    "ro": "zhōngqiūjié"
+   }
+  ],
+  "1-2-10": [
+   {
+    "fr": "l'anniversaire",
+    "tgt": "生日",
+    "ro": "shēngrì"
+   },
+   {
+    "fr": "joyeux anniversaire",
+    "tgt": "生日快乐",
+    "ro": "shēngrì kuàilè"
+   },
+   {
+    "fr": "le gâteau",
+    "tgt": "蛋糕",
+    "ro": "dàngāo"
+   },
+   {
+    "fr": "préparer",
+    "tgt": "准备",
+    "ro": "zhǔnbèi"
+   },
+   {
+    "fr": "la surprise",
+    "tgt": "惊喜",
+    "ro": "jīngxǐ"
+   },
+   {
+    "fr": "la bougie",
+    "tgt": "蜡烛",
+    "ro": "làzhú"
+   }
+  ],
+  "1-2-11": [
+   {
+    "fr": "entendre dire",
+    "tgt": "听说",
+    "ro": "tīngshuō"
+   },
+   {
+    "fr": "le collègue",
+    "tgt": "同事",
+    "ro": "tóngshì"
+   },
+   {
+    "fr": "à proximité",
+    "tgt": "附近",
+    "ro": "fùjìn"
+   },
+   {
+    "fr": "l'université",
+    "tgt": "大学",
+    "ro": "dàxué"
+   },
+   {
+    "fr": "la rumeur",
+    "tgt": "传言",
+    "ro": "chuányán"
+   },
+   {
+    "fr": "la tartelette aux œufs",
+    "tgt": "蛋挞",
+    "ro": "dàntà"
+   }
+  ],
+  "1-2-12": [
+   {
+    "fr": "penser",
+    "tgt": "觉得",
+    "ro": "juéde"
+   },
+   {
+    "fr": "être d'accord",
+    "tgt": "同意",
+    "ro": "tóngyì"
+   },
+   {
+    "fr": "en fait",
+    "tgt": "其实",
+    "ro": "qíshí"
+   },
+   {
+    "fr": "épicé",
+    "tgt": "辣",
+    "ro": "là"
+   },
+   {
+    "fr": "l'avis",
+    "tgt": "看法",
+    "ro": "kànfǎ"
+   },
+   {
+    "fr": "pour être honnête",
+    "tgt": "说实话",
+    "ro": "shuō shíhuà"
+   }
+  ],
+  "1-2-13": [
+   {
+    "fr": "bavarder",
+    "tgt": "聊天",
+    "ro": "liáotiān"
+   },
+   {
+    "fr": "le téléphone portable",
+    "tgt": "手机",
+    "ro": "shǒujī"
+   },
+   {
+    "fr": "étudier",
+    "tgt": "学习",
+    "ro": "xuéxí"
+   },
+   {
+    "fr": "la musique",
+    "tgt": "音乐",
+    "ro": "yīnyuè"
+   },
+   {
+    "fr": "la télévision",
+    "tgt": "电视",
+    "ro": "diànshì"
+   },
+   {
+    "fr": "en même temps",
+    "tgt": "同时",
+    "ro": "tóngshí"
+   }
+  ],
+  "1-2-14": [
+   {
+    "fr": "se souvenir",
+    "tgt": "记得",
+    "ro": "jìde"
+   },
+   {
+    "fr": "la vie",
+    "tgt": "生活",
+    "ro": "shēnghuó"
+   },
+   {
+    "fr": "le voisin",
+    "tgt": "邻居",
+    "ro": "línjū"
+   },
+   {
+    "fr": "simple",
+    "tgt": "简单",
+    "ro": "jiǎndān"
+   },
+   {
+    "fr": "le changement",
+    "tgt": "变化",
+    "ro": "biànhuà"
+   },
+   {
+    "fr": "l'enfance",
+    "tgt": "小时候",
+    "ro": "xiǎoshíhou"
+   }
+  ],
+  "1-2-15": [
+   {
+    "fr": "agréable",
+    "tgt": "舒服",
+    "ro": "shūfu"
+   },
+   {
+    "fr": "la couleur",
+    "tgt": "颜色",
+    "ro": "yánsè"
+   },
+   {
+    "fr": "le bateau",
+    "tgt": "船",
+    "ro": "chuán"
+   },
+   {
+    "fr": "dommage",
+    "tgt": "可惜",
+    "ro": "kěxī"
+   },
+   {
+    "fr": "la bouillie de riz",
+    "tgt": "粥",
+    "ro": "zhōu"
+   },
+   {
+    "fr": "l'en-cas de nuit",
+    "tgt": "宵夜",
+    "ro": "xiāoyè"
+   }
+  ],
+  "1-2-16": [
+   {
+    "fr": "merci",
+    "tgt": "谢谢",
+    "ro": "xièxie"
+   },
+   {
+    "fr": "asseyez-vous",
+    "tgt": "请坐",
+    "ro": "qǐng zuò"
+   },
+   {
+    "fr": "faites comme chez vous",
+    "tgt": "别客气",
+    "ro": "bié kèqi"
+   },
+   {
+    "fr": "l'heure",
+    "tgt": "小时",
+    "ro": "xiǎoshí"
+   },
+   {
+    "fr": "servir le thé",
+    "tgt": "倒茶",
+    "ro": "dào chá"
+   },
+   {
+    "fr": "changer de chaussures",
+    "tgt": "换鞋",
+    "ro": "huàn xié"
+   }
+  ],
+  "1-2-17": [
+   {
+    "fr": "excusez-moi",
+    "tgt": "请问",
+    "ro": "qǐngwèn"
+   },
+   {
+    "fr": "connaître quelqu'un",
+    "tgt": "认识",
+    "ro": "rènshi"
+   },
+   {
+    "fr": "content",
+    "tgt": "高兴",
+    "ro": "gāoxìng"
+   },
+   {
+    "fr": "les toilettes",
+    "tgt": "洗手间",
+    "ro": "xǐshǒujiān"
+   },
+   {
+    "fr": "votre nom de famille",
+    "tgt": "贵姓",
+    "ro": "guìxìng"
+   },
+   {
+    "fr": "prendre soin de soi",
+    "tgt": "保重",
+    "ro": "bǎozhòng"
+   }
+  ],
+  "1-2-18": [
+   {
+    "fr": "travailler",
+    "tgt": "工作",
+    "ro": "gōngzuò"
+   },
+   {
+    "fr": "le mois prochain",
+    "tgt": "下个月",
+    "ro": "xià ge yuè"
+   },
+   {
+    "fr": "bien sûr",
+    "tgt": "当然",
+    "ro": "dāngrán"
+   },
+   {
+    "fr": "l'occasion",
+    "tgt": "机会",
+    "ro": "jīhuì"
+   },
+   {
+    "fr": "s'occuper de",
+    "tgt": "照顾",
+    "ro": "zhàogù"
+   },
+   {
+    "fr": "bon voyage",
+    "tgt": "一路顺风",
+    "ro": "yílù shùnfēng"
+   }
+  ],
+  "1-2-19": [
+   {
+    "fr": "le chinois",
+    "tgt": "中文",
+    "ro": "zhōngwén"
+   },
+   {
+    "fr": "savoir",
+    "tgt": "知道",
+    "ro": "zhīdào"
+   },
+   {
+    "fr": "se terminer",
+    "tgt": "结束",
+    "ro": "jiéshù"
+   },
+   {
+    "fr": "naturel",
+    "tgt": "自然",
+    "ro": "zìrán"
+   },
+   {
+    "fr": "comprendre",
+    "tgt": "了解",
+    "ro": "liǎojiě"
+   },
+   {
+    "fr": "authentique",
+    "tgt": "地道",
+    "ro": "dìdao"
+   }
+  ],
+  "2-0-0": [
+   {
+    "fr": "un collègue",
+    "tgt": "同事",
+    "ro": "tóngshì"
+   },
+   {
+    "fr": "le patron",
+    "tgt": "老板",
+    "ro": "lǎobǎn"
+   },
+   {
+    "fr": "le bureau",
+    "tgt": "办公室",
+    "ro": "bàngōngshì"
+   },
+   {
+    "fr": "un fichier",
+    "tgt": "文件",
+    "ro": "wénjiàn"
+   },
+   {
+    "fr": "le client",
+    "tgt": "客户",
+    "ro": "kèhù"
+   },
+   {
+    "fr": "le projet",
+    "tgt": "项目",
+    "ro": "xiàngmù"
+   }
+  ],
+  "2-0-1": [
+   {
+    "fr": "une entreprise",
+    "tgt": "公司",
+    "ro": "gōngsī"
+   },
+   {
+    "fr": "aller au travail",
+    "tgt": "上班",
+    "ro": "shàngbān"
+   },
+   {
+    "fr": "le travail",
+    "tgt": "工作",
+    "ro": "gōngzuò"
+   },
+   {
+    "fr": "une question",
+    "tgt": "问题",
+    "ro": "wèntí"
+   },
+   {
+    "fr": "s'habituer",
+    "tgt": "适应",
+    "ro": "shìyìng"
+   },
+   {
+    "fr": "la cantine",
+    "tgt": "食堂",
+    "ro": "shítáng"
+   }
+  ],
+  "2-0-2": [
+   {
+    "fr": "une réunion",
+    "tgt": "会议",
+    "ro": "huìyì"
+   },
+   {
+    "fr": "être en réunion",
+    "tgt": "开会",
+    "ro": "kāihuì"
+   },
+   {
+    "fr": "préparer",
+    "tgt": "准备",
+    "ro": "zhǔnbèi"
+   },
+   {
+    "fr": "un rapport",
+    "tgt": "报告",
+    "ro": "bàogào"
+   },
+   {
+    "fr": "s'inquiéter",
+    "tgt": "担心",
+    "ro": "dānxīn"
+   },
+   {
+    "fr": "organiser",
+    "tgt": "组织",
+    "ro": "zǔzhī"
+   }
+  ],
+  "2-0-3": [
+   {
+    "fr": "le prix",
+    "tgt": "价格",
+    "ro": "jiàgé"
+   },
+   {
+    "fr": "le contrat",
+    "tgt": "合同",
+    "ro": "hétong"
+   },
+   {
+    "fr": "la qualité",
+    "tgt": "质量",
+    "ro": "zhìliàng"
+   },
+   {
+    "fr": "le budget",
+    "tgt": "预算",
+    "ro": "yùsuàn"
+   },
+   {
+    "fr": "discuter",
+    "tgt": "商量",
+    "ro": "shāngliang"
+   },
+   {
+    "fr": "le paiement",
+    "tgt": "付款",
+    "ro": "fùkuǎn"
+   }
+  ],
+  "2-0-4": [
+   {
+    "fr": "signer",
+    "tgt": "签字",
+    "ro": "qiānzì"
+   },
+   {
+    "fr": "le salaire",
+    "tgt": "工资",
+    "ro": "gōngzī"
+   },
+   {
+    "fr": "la période d'essai",
+    "tgt": "试用期",
+    "ro": "shìyòngqī"
+   },
+   {
+    "fr": "une prime",
+    "tgt": "奖金",
+    "ro": "jiǎngjīn"
+   },
+   {
+    "fr": "démissionner",
+    "tgt": "辞职",
+    "ro": "cízhí"
+   },
+   {
+    "fr": "un employé",
+    "tgt": "员工",
+    "ro": "yuángōng"
+   }
+  ],
+  "2-0-5": [
+   {
+    "fr": "une assurance",
+    "tgt": "保险",
+    "ro": "bǎoxiǎn"
+   },
+   {
+    "fr": "rembourser",
+    "tgt": "报销",
+    "ro": "bàoxiāo"
+   },
+   {
+    "fr": "tomber malade",
+    "tgt": "生病",
+    "ro": "shēngbìng"
+   },
+   {
+    "fr": "comparer",
+    "tgt": "比较",
+    "ro": "bǐjiào"
+   },
+   {
+    "fr": "bon marché",
+    "tgt": "便宜",
+    "ro": "piányi"
+   },
+   {
+    "fr": "une décision",
+    "tgt": "决定",
+    "ro": "juédìng"
+   }
+  ],
+  "2-0-6": [
+   {
+    "fr": "déménager",
+    "tgt": "搬家",
+    "ro": "bānjiā"
+   },
+   {
+    "fr": "le logement",
+    "tgt": "房子",
+    "ro": "fángzi"
+   },
+   {
+    "fr": "la clé",
+    "tgt": "钥匙",
+    "ro": "yàoshi"
+   },
+   {
+    "fr": "les meubles",
+    "tgt": "家具",
+    "ro": "jiājù"
+   },
+   {
+    "fr": "l'adresse",
+    "tgt": "地址",
+    "ro": "dìzhǐ"
+   },
+   {
+    "fr": "un carton",
+    "tgt": "箱子",
+    "ro": "xiāngzi"
+   }
+  ],
+  "2-0-7": [
+   {
+    "fr": "le métro",
+    "tgt": "地铁",
+    "ro": "dìtiě"
+   },
+   {
+    "fr": "le bus",
+    "tgt": "公交车",
+    "ro": "gōngjiāochē"
+   },
+   {
+    "fr": "un taxi",
+    "tgt": "出租车",
+    "ro": "chūzūchē"
+   },
+   {
+    "fr": "les embouteillages",
+    "tgt": "堵车",
+    "ro": "dǔchē"
+   },
+   {
+    "fr": "changer de ligne",
+    "tgt": "换乘",
+    "ro": "huànchéng"
+   },
+   {
+    "fr": "un vélo",
+    "tgt": "自行车",
+    "ro": "zìxíngchē"
+   }
+  ],
+  "2-0-8": [
+   {
+    "fr": "travailler de chez soi",
+    "tgt": "在家办公",
+    "ro": "zài jiā bàngōng"
+   },
+   {
+    "fr": "une visioconférence",
+    "tgt": "视频会议",
+    "ro": "shìpín huìyì"
+   },
+   {
+    "fr": "se reposer",
+    "tgt": "休息",
+    "ro": "xiūxi"
+   },
+   {
+    "fr": "la vie",
+    "tgt": "生活",
+    "ro": "shēnghuó"
+   },
+   {
+    "fr": "une tâche",
+    "tgt": "任务",
+    "ro": "rènwu"
+   },
+   {
+    "fr": "le salon",
+    "tgt": "客厅",
+    "ro": "kètīng"
+   }
+  ],
+  "2-0-9": [
+   {
+    "fr": "un compte",
+    "tgt": "账户",
+    "ro": "zhànghù"
+   },
+   {
+    "fr": "une carte bancaire",
+    "tgt": "银行卡",
+    "ro": "yínhángkǎ"
+   },
+   {
+    "fr": "un passeport",
+    "tgt": "护照",
+    "ro": "hùzhào"
+   },
+   {
+    "fr": "les formalités",
+    "tgt": "手续",
+    "ro": "shǒuxù"
+   },
+   {
+    "fr": "un téléphone portable",
+    "tgt": "手机",
+    "ro": "shǒujī"
+   },
+   {
+    "fr": "les documents",
+    "tgt": "材料",
+    "ro": "cáiliào"
+   }
+  ],
+  "2-0-10": [
+   {
+    "fr": "choisir",
+    "tgt": "选择",
+    "ro": "xuǎnzé"
+   },
+   {
+    "fr": "collaborer",
+    "tgt": "合作",
+    "ro": "hézuò"
+   },
+   {
+    "fr": "tendu",
+    "tgt": "紧张",
+    "ro": "jǐnzhāng"
+   },
+   {
+    "fr": "perdre la face",
+    "tgt": "丢面子",
+    "ro": "diū miànzi"
+   },
+   {
+    "fr": "reconnaître",
+    "tgt": "承认",
+    "ro": "chéngrèn"
+   },
+   {
+    "fr": "l'ambiance",
+    "tgt": "气氛",
+    "ro": "qìfēn"
+   }
+  ],
+  "2-0-11": [
+   {
+    "fr": "remercier",
+    "tgt": "感谢",
+    "ro": "gǎnxiè"
+   },
+   {
+    "fr": "présenter",
+    "tgt": "介绍",
+    "ro": "jièshào"
+   },
+   {
+    "fr": "une difficulté",
+    "tgt": "困难",
+    "ro": "kùnnan"
+   },
+   {
+    "fr": "le soutien",
+    "tgt": "支持",
+    "ro": "zhīchí"
+   },
+   {
+    "fr": "contacter",
+    "tgt": "联系",
+    "ro": "liánxì"
+   },
+   {
+    "fr": "les résultats",
+    "tgt": "业绩",
+    "ro": "yèjì"
+   }
+  ],
+  "2-0-12": [
+   {
+    "fr": "le médecin",
+    "tgt": "医生",
+    "ro": "yīshēng"
+   },
+   {
+    "fr": "une infirmière",
+    "tgt": "护士",
+    "ro": "hùshi"
+   },
+   {
+    "fr": "prendre rendez-vous",
+    "tgt": "挂号",
+    "ro": "guàhào"
+   },
+   {
+    "fr": "le médicament",
+    "tgt": "药",
+    "ro": "yào"
+   },
+   {
+    "fr": "le résultat",
+    "tgt": "结果",
+    "ro": "jiéguǒ"
+   },
+   {
+    "fr": "faire une prise de sang",
+    "tgt": "验血",
+    "ro": "yànxuè"
+   }
+  ],
+  "2-0-13": [
+   {
+    "fr": "commander",
+    "tgt": "点菜",
+    "ro": "diǎn cài"
+   },
+   {
+    "fr": "payer l'addition",
+    "tgt": "买单",
+    "ro": "mǎidān"
+   },
+   {
+    "fr": "trinquer",
+    "tgt": "干杯",
+    "ro": "gānbēi"
+   },
+   {
+    "fr": "délicieux",
+    "tgt": "好吃",
+    "ro": "hǎochī"
+   },
+   {
+    "fr": "poli",
+    "tgt": "礼貌",
+    "ro": "lǐmào"
+   },
+   {
+    "fr": "un invité",
+    "tgt": "客人",
+    "ro": "kèrén"
+   }
+  ],
+  "2-0-14": [
+   {
+    "fr": "le propriétaire",
+    "tgt": "房东",
+    "ro": "fángdōng"
+   },
+   {
+    "fr": "la climatisation",
+    "tgt": "空调",
+    "ro": "kōngtiáo"
+   },
+   {
+    "fr": "la caution",
+    "tgt": "押金",
+    "ro": "yājīn"
+   },
+   {
+    "fr": "l'agence immobilière",
+    "tgt": "中介",
+    "ro": "zhōngjiè"
+   },
+   {
+    "fr": "louer un logement",
+    "tgt": "租房",
+    "ro": "zūfáng"
+   },
+   {
+    "fr": "une photo",
+    "tgt": "照片",
+    "ro": "zhàopiàn"
+   }
+  ],
+  "2-0-15": [
+   {
+    "fr": "obtenir une augmentation",
+    "tgt": "加薪",
+    "ro": "jiāxīn"
+   },
+   {
+    "fr": "être responsable de",
+    "tgt": "负责",
+    "ro": "fùzé"
+   },
+   {
+    "fr": "un poste",
+    "tgt": "职位",
+    "ro": "zhíwèi"
+   },
+   {
+    "fr": "le responsable",
+    "tgt": "主管",
+    "ro": "zhǔguǎn"
+   },
+   {
+    "fr": "les congés annuels",
+    "tgt": "年假",
+    "ro": "niánjià"
+   },
+   {
+    "fr": "avoir peur",
+    "tgt": "害怕",
+    "ro": "hàipà"
+   }
+  ],
+  "2-0-16": [
+   {
+    "fr": "une usine",
+    "tgt": "工厂",
+    "ro": "gōngchǎng"
+   },
+   {
+    "fr": "le train à grande vitesse",
+    "tgt": "高铁",
+    "ro": "gāotiě"
+   },
+   {
+    "fr": "un hôtel",
+    "tgt": "酒店",
+    "ro": "jiǔdiàn"
+   },
+   {
+    "fr": "une facture",
+    "tgt": "发票",
+    "ro": "fāpiào"
+   },
+   {
+    "fr": "la gare",
+    "tgt": "车站",
+    "ro": "chēzhàn"
+   },
+   {
+    "fr": "une carte de visite",
+    "tgt": "名片",
+    "ro": "míngpiàn"
+   }
+  ],
+  "2-0-17": [
+   {
+    "fr": "téléphoner",
+    "tgt": "打电话",
+    "ro": "dǎ diànhuà"
+   },
+   {
+    "fr": "combien ça coûte",
+    "tgt": "多少钱",
+    "ro": "duōshao qián"
+   },
+   {
+    "fr": "vérifier",
+    "tgt": "检查",
+    "ro": "jiǎnchá"
+   },
+   {
+    "fr": "le voisin",
+    "tgt": "邻居",
+    "ro": "línjū"
+   },
+   {
+    "fr": "prendre une douche",
+    "tgt": "洗澡",
+    "ro": "xǐzǎo"
+   },
+   {
+    "fr": "le chauffe-eau",
+    "tgt": "热水器",
+    "ro": "rèshuǐqì"
+   }
+  ],
+  "2-0-18": [
+   {
+    "fr": "faire des heures supplémentaires",
+    "tgt": "加班",
+    "ro": "jiābān"
+   },
+   {
+    "fr": "le stress",
+    "tgt": "压力",
+    "ro": "yālì"
+   },
+   {
+    "fr": "le sport",
+    "tgt": "运动",
+    "ro": "yùndòng"
+   },
+   {
+    "fr": "le week-end",
+    "tgt": "周末",
+    "ro": "zhōumò"
+   },
+   {
+    "fr": "le dîner",
+    "tgt": "晚饭",
+    "ro": "wǎnfàn"
+   },
+   {
+    "fr": "prendre des vacances",
+    "tgt": "休假",
+    "ro": "xiūjià"
+   }
+  ],
+  "2-0-19": [
+   {
+    "fr": "le chinois",
+    "tgt": "中文",
+    "ro": "zhōngwén"
+   },
+   {
+    "fr": "progresser",
+    "tgt": "进步",
+    "ro": "jìnbù"
+   },
+   {
+    "fr": "apprendre",
+    "tgt": "学会",
+    "ro": "xuéhuì"
+   },
+   {
+    "fr": "les tons",
+    "tgt": "声调",
+    "ro": "shēngdiào"
+   },
+   {
+    "fr": "s'entraîner",
+    "tgt": "练",
+    "ro": "liàn"
+   },
+   {
+    "fr": "effrayant",
+    "tgt": "可怕",
+    "ro": "kěpà"
+   }
+  ],
+  "2-1-0": [
+   {
+    "fr": "l'hiver",
+    "tgt": "冬天",
+    "ro": "dōngtiān"
+   },
+   {
+    "fr": "l'avion",
+    "tgt": "飞机",
+    "ro": "fēijī"
+   },
+   {
+    "fr": "l'hôtel",
+    "tgt": "酒店",
+    "ro": "jiǔdiàn"
+   },
+   {
+    "fr": "le taxi",
+    "tgt": "出租车",
+    "ro": "chūzūchē"
+   },
+   {
+    "fr": "le bonnet",
+    "tgt": "帽子",
+    "ro": "màozi"
+   },
+   {
+    "fr": "les gants",
+    "tgt": "手套",
+    "ro": "shǒutào"
+   }
+  ],
+  "2-1-1": [
+   {
+    "fr": "la photo",
+    "tgt": "照片",
+    "ro": "zhàopiàn"
+   },
+   {
+    "fr": "le touriste",
+    "tgt": "游客",
+    "ro": "yóukè"
+   },
+   {
+    "fr": "conseiller",
+    "tgt": "建议",
+    "ro": "jiànyì"
+   },
+   {
+    "fr": "le château",
+    "tgt": "城堡",
+    "ro": "chéngbǎo"
+   },
+   {
+    "fr": "la sculpture",
+    "tgt": "雕塑",
+    "ro": "diāosù"
+   },
+   {
+    "fr": "le bloc de glace",
+    "tgt": "冰块",
+    "ro": "bīngkuài"
+   }
+  ],
+  "2-1-2": [
+   {
+    "fr": "l'été",
+    "tgt": "夏天",
+    "ro": "xiàtiān"
+   },
+   {
+    "fr": "calme",
+    "tgt": "安静",
+    "ro": "ānjìng"
+   },
+   {
+    "fr": "l'air",
+    "tgt": "空气",
+    "ro": "kōngqì"
+   },
+   {
+    "fr": "monter à cheval",
+    "tgt": "骑马",
+    "ro": "qí mǎ"
+   },
+   {
+    "fr": "la viande de mouton",
+    "tgt": "羊肉",
+    "ro": "yángròu"
+   },
+   {
+    "fr": "la prairie",
+    "tgt": "草原",
+    "ro": "cǎoyuán"
+   }
+  ],
+  "2-1-3": [
+   {
+    "fr": "se lever",
+    "tgt": "起床",
+    "ro": "qǐchuáng"
+   },
+   {
+    "fr": "s'habituer",
+    "tgt": "习惯",
+    "ro": "xíguàn"
+   },
+   {
+    "fr": "accueillir",
+    "tgt": "欢迎",
+    "ro": "huānyíng"
+   },
+   {
+    "fr": "le lever du soleil",
+    "tgt": "日出",
+    "ro": "rìchū"
+   },
+   {
+    "fr": "faire l'expérience de",
+    "tgt": "体验",
+    "ro": "tǐyàn"
+   },
+   {
+    "fr": "la yourte",
+    "tgt": "蒙古包",
+    "ro": "ménggǔbāo"
+   }
+  ],
+  "2-1-4": [
+   {
+    "fr": "le train",
+    "tgt": "火车",
+    "ro": "huǒchē"
+   },
+   {
+    "fr": "la gare",
+    "tgt": "车站",
+    "ro": "chēzhàn"
+   },
+   {
+    "fr": "pratique",
+    "tgt": "方便",
+    "ro": "fāngbiàn"
+   },
+   {
+    "fr": "les fruits",
+    "tgt": "水果",
+    "ro": "shuǐguǒ"
+   },
+   {
+    "fr": "la boisson",
+    "tgt": "饮料",
+    "ro": "yǐnliào"
+   },
+   {
+    "fr": "l'employé",
+    "tgt": "服务员",
+    "ro": "fúwùyuán"
+   }
+  ],
+  "2-1-5": [
+   {
+    "fr": "le guide",
+    "tgt": "导游",
+    "ro": "dǎoyóu"
+   },
+   {
+    "fr": "la couleur",
+    "tgt": "颜色",
+    "ro": "yánsè"
+   },
+   {
+    "fr": "le temps",
+    "tgt": "时间",
+    "ro": "shíjiān"
+   },
+   {
+    "fr": "le désert",
+    "tgt": "沙漠",
+    "ro": "shāmò"
+   },
+   {
+    "fr": "le chameau",
+    "tgt": "骆驼",
+    "ro": "luòtuo"
+   },
+   {
+    "fr": "la crème solaire",
+    "tgt": "防晒霜",
+    "ro": "fángshàishuāng"
+   }
+  ],
+  "2-1-6": [
+   {
+    "fr": "ne pas comprendre",
+    "tgt": "听不懂",
+    "ro": "tīng bu dǒng"
+   },
+   {
+    "fr": "l'ami",
+    "tgt": "朋友",
+    "ro": "péngyou"
+   },
+   {
+    "fr": "le français",
+    "tgt": "法语",
+    "ro": "fǎyǔ"
+   },
+   {
+    "fr": "l'accent",
+    "tgt": "口音",
+    "ro": "kǒuyīn"
+   },
+   {
+    "fr": "ne pas pouvoir acheter",
+    "tgt": "买不到",
+    "ro": "mǎi bu dào"
+   },
+   {
+    "fr": "la fresque",
+    "tgt": "壁画",
+    "ro": "bìhuà"
+   }
+  ],
+  "2-1-7": [
+   {
+    "fr": "combien ça coûte",
+    "tgt": "多少钱",
+    "ro": "duōshao qián"
+   },
+   {
+    "fr": "cher",
+    "tgt": "贵",
+    "ro": "guì"
+   },
+   {
+    "fr": "le patron",
+    "tgt": "老板",
+    "ro": "lǎobǎn"
+   },
+   {
+    "fr": "animé",
+    "tgt": "热闹",
+    "ro": "rènao"
+   },
+   {
+    "fr": "le marché de nuit",
+    "tgt": "夜市",
+    "ro": "yèshì"
+   },
+   {
+    "fr": "les nouilles au bœuf",
+    "tgt": "牛肉面",
+    "ro": "niúròumiàn"
+   }
+  ],
+  "2-1-8": [
+   {
+    "fr": "le paysage",
+    "tgt": "风景",
+    "ro": "fēngjǐng"
+   },
+   {
+    "fr": "le film",
+    "tgt": "电影",
+    "ro": "diànyǐng"
+   },
+   {
+    "fr": "midi",
+    "tgt": "中午",
+    "ro": "zhōngwǔ"
+   },
+   {
+    "fr": "l'ascenseur",
+    "tgt": "电梯",
+    "ro": "diàntī"
+   },
+   {
+    "fr": "le sommet",
+    "tgt": "山顶",
+    "ro": "shāndǐng"
+   },
+   {
+    "fr": "le singe",
+    "tgt": "猴子",
+    "ro": "hóuzi"
+   }
+  ],
+  "2-1-9": [
+   {
+    "fr": "faire la queue",
+    "tgt": "排队",
+    "ro": "páiduì"
+   },
+   {
+    "fr": "avoir peur",
+    "tgt": "害怕",
+    "ro": "hàipà"
+   },
+   {
+    "fr": "pour être honnête",
+    "tgt": "说实话",
+    "ro": "shuō shíhuà"
+   },
+   {
+    "fr": "le pont",
+    "tgt": "桥",
+    "ro": "qiáo"
+   },
+   {
+    "fr": "le verre",
+    "tgt": "玻璃",
+    "ro": "bōli"
+   },
+   {
+    "fr": "le téléphérique",
+    "tgt": "索道",
+    "ro": "suǒdào"
+   }
+  ],
+  "2-1-10": [
+   {
+    "fr": "le bord de mer",
+    "tgt": "海边",
+    "ro": "hǎibiān"
+   },
+   {
+    "fr": "se promener",
+    "tgt": "散步",
+    "ro": "sànbù"
+   },
+   {
+    "fr": "la vie",
+    "tgt": "生活",
+    "ro": "shēnghuó"
+   },
+   {
+    "fr": "le manteau",
+    "tgt": "外套",
+    "ro": "wàitào"
+   },
+   {
+    "fr": "la paille",
+    "tgt": "吸管",
+    "ro": "xīguǎn"
+   },
+   {
+    "fr": "la noix de coco",
+    "tgt": "椰子",
+    "ro": "yēzi"
+   }
+  ],
+  "2-1-11": [
+   {
+    "fr": "le passeport",
+    "tgt": "护照",
+    "ro": "hùzhào"
+   },
+   {
+    "fr": "devoir",
+    "tgt": "应该",
+    "ro": "yīnggāi"
+   },
+   {
+    "fr": "partir",
+    "tgt": "出发",
+    "ro": "chūfā"
+   },
+   {
+    "fr": "la carte",
+    "tgt": "地图",
+    "ro": "dìtú"
+   },
+   {
+    "fr": "avoir le mal de mer",
+    "tgt": "晕船",
+    "ro": "yùnchuán"
+   },
+   {
+    "fr": "le port",
+    "tgt": "码头",
+    "ro": "mǎtou"
+   }
+  ],
+  "2-1-12": [
+   {
+    "fr": "le vol",
+    "tgt": "航班",
+    "ro": "hángbān"
+   },
+   {
+    "fr": "repousser",
+    "tgt": "推迟",
+    "ro": "tuīchí"
+   },
+   {
+    "fr": "important",
+    "tgt": "重要",
+    "ro": "zhòngyào"
+   },
+   {
+    "fr": "la fenêtre",
+    "tgt": "窗户",
+    "ro": "chuānghu"
+   },
+   {
+    "fr": "être blessé",
+    "tgt": "受伤",
+    "ro": "shòushāng"
+   },
+   {
+    "fr": "le typhon",
+    "tgt": "台风",
+    "ro": "táifēng"
+   }
+  ],
+  "2-1-13": [
+   {
+    "fr": "le soleil",
+    "tgt": "太阳",
+    "ro": "tàiyáng"
+   },
+   {
+    "fr": "le poisson",
+    "tgt": "鱼",
+    "ro": "yú"
+   },
+   {
+    "fr": "les fruits de mer",
+    "tgt": "海鲜",
+    "ro": "hǎixiān"
+   },
+   {
+    "fr": "le restaurant",
+    "tgt": "饭馆",
+    "ro": "fànguǎn"
+   },
+   {
+    "fr": "respirer",
+    "tgt": "呼吸",
+    "ro": "hūxī"
+   },
+   {
+    "fr": "la plongée",
+    "tgt": "潜水",
+    "ro": "qiánshuǐ"
+   }
+  ],
+  "2-1-14": [
+   {
+    "fr": "voyager",
+    "tgt": "旅行",
+    "ro": "lǚxíng"
+   },
+   {
+    "fr": "prendre des photos",
+    "tgt": "拍照",
+    "ro": "pāizhào"
+   },
+   {
+    "fr": "protéger",
+    "tgt": "保护",
+    "ro": "bǎohù"
+   },
+   {
+    "fr": "local",
+    "tgt": "当地",
+    "ro": "dāngdì"
+   },
+   {
+    "fr": "les déchets",
+    "tgt": "垃圾",
+    "ro": "lājī"
+   },
+   {
+    "fr": "la gourde",
+    "tgt": "水壶",
+    "ro": "shuǐhú"
+   }
+  ],
+  "2-1-15": [
+   {
+    "fr": "connaître",
+    "tgt": "认识",
+    "ro": "rènshi"
+   },
+   {
+    "fr": "le déjeuner",
+    "tgt": "午饭",
+    "ro": "wǔfàn"
+   },
+   {
+    "fr": "l'histoire",
+    "tgt": "故事",
+    "ro": "gùshi"
+   },
+   {
+    "fr": "le village",
+    "tgt": "村子",
+    "ro": "cūnzi"
+   },
+   {
+    "fr": "la plante",
+    "tgt": "植物",
+    "ro": "zhíwù"
+   },
+   {
+    "fr": "la légende",
+    "tgt": "传说",
+    "ro": "chuánshuō"
+   }
+  ],
+  "2-1-16": [
+   {
+    "fr": "le médecin",
+    "tgt": "医生",
+    "ro": "yīshēng"
+   },
+   {
+    "fr": "la pharmacie",
+    "tgt": "药店",
+    "ro": "yàodiàn"
+   },
+   {
+    "fr": "avoir de la fièvre",
+    "tgt": "发烧",
+    "ro": "fāshāo"
+   },
+   {
+    "fr": "ne pas se sentir bien",
+    "tgt": "不舒服",
+    "ro": "bù shūfu"
+   },
+   {
+    "fr": "le ventre",
+    "tgt": "肚子",
+    "ro": "dùzi"
+   },
+   {
+    "fr": "le reçu",
+    "tgt": "收据",
+    "ro": "shōujù"
+   }
+  ],
+  "2-1-17": [
+   {
+    "fr": "de plus en plus",
+    "tgt": "越来越",
+    "ro": "yuè lái yuè"
+   },
+   {
+    "fr": "le téléphone portable",
+    "tgt": "手机",
+    "ro": "shǒujī"
+   },
+   {
+    "fr": "payer",
+    "tgt": "付钱",
+    "ro": "fù qián"
+   },
+   {
+    "fr": "célèbre",
+    "tgt": "有名",
+    "ro": "yǒumíng"
+   },
+   {
+    "fr": "les jeunes",
+    "tgt": "年轻人",
+    "ro": "niánqīngrén"
+   },
+   {
+    "fr": "le train à grande vitesse",
+    "tgt": "高铁",
+    "ro": "gāotiě"
+   }
+  ],
+  "2-1-18": [
+   {
+    "fr": "le cadeau",
+    "tgt": "礼物",
+    "ro": "lǐwù"
+   },
+   {
+    "fr": "le café",
+    "tgt": "咖啡",
+    "ro": "kāfēi"
+   },
+   {
+    "fr": "la valise",
+    "tgt": "箱子",
+    "ro": "xiāngzi"
+   },
+   {
+    "fr": "envoyer par la poste",
+    "tgt": "寄",
+    "ro": "jì"
+   },
+   {
+    "fr": "le colis",
+    "tgt": "包裹",
+    "ro": "bāoguǒ"
+   },
+   {
+    "fr": "l'écharpe",
+    "tgt": "围巾",
+    "ro": "wéijīn"
+   }
+  ],
+  "2-1-19": [
+   {
+    "fr": "le chinois",
+    "tgt": "中文",
+    "ro": "zhōngwén"
+   },
+   {
+    "fr": "le problème",
+    "tgt": "问题",
+    "ro": "wèntí"
+   },
+   {
+    "fr": "demander son chemin",
+    "tgt": "问路",
+    "ro": "wèn lù"
+   },
+   {
+    "fr": "marchander",
+    "tgt": "讲价",
+    "ro": "jiǎngjià"
+   },
+   {
+    "fr": "continuer",
+    "tgt": "继续",
+    "ro": "jìxù"
+   },
+   {
+    "fr": "l'inconnu",
+    "tgt": "陌生人",
+    "ro": "mòshēngrén"
+   }
+  ],
+  "2-2-0": [
+   {
+    "fr": "la vie",
+    "tgt": "生活",
+    "ro": "shēnghuó"
+   },
+   {
+    "fr": "le collègue",
+    "tgt": "同事",
+    "ro": "tóngshì"
+   },
+   {
+    "fr": "se reposer",
+    "tgt": "休息",
+    "ro": "xiūxi"
+   },
+   {
+    "fr": "le week-end",
+    "tgt": "周末",
+    "ro": "zhōumò"
+   },
+   {
+    "fr": "se détendre",
+    "tgt": "放松",
+    "ro": "fàngsōng"
+   },
+   {
+    "fr": "l'efficacité",
+    "tgt": "效率",
+    "ro": "xiàolǜ"
+   }
+  ],
+  "2-2-1": [
+   {
+    "fr": "les parents",
+    "tgt": "父母",
+    "ro": "fùmǔ"
+   },
+   {
+    "fr": "prendre sa retraite",
+    "tgt": "退休",
+    "ro": "tuìxiū"
+   },
+   {
+    "fr": "s'occuper de",
+    "tgt": "照顾",
+    "ro": "zhàogù"
+   },
+   {
+    "fr": "la tradition",
+    "tgt": "传统",
+    "ro": "chuántǒng"
+   },
+   {
+    "fr": "danser",
+    "tgt": "跳舞",
+    "ro": "tiàowǔ"
+   },
+   {
+    "fr": "seul",
+    "tgt": "孤单",
+    "ro": "gūdān"
+   }
+  ],
+  "2-2-2": [
+   {
+    "fr": "bon courage",
+    "tgt": "加油",
+    "ro": "jiāyóu"
+   },
+   {
+    "fr": "dire bonjour",
+    "tgt": "打招呼",
+    "ro": "dǎ zhāohu"
+   },
+   {
+    "fr": "l'examen",
+    "tgt": "考试",
+    "ro": "kǎoshì"
+   },
+   {
+    "fr": "tenir bon",
+    "tgt": "坚持",
+    "ro": "jiānchí"
+   },
+   {
+    "fr": "l'échange",
+    "tgt": "交流",
+    "ro": "jiāoliú"
+   },
+   {
+    "fr": "chaleureux",
+    "tgt": "温暖",
+    "ro": "wēnnuǎn"
+   }
+  ],
+  "2-2-3": [
+   {
+    "fr": "le téléphone portable",
+    "tgt": "手机",
+    "ro": "shǒujī"
+   },
+   {
+    "fr": "l'argent liquide",
+    "tgt": "现金",
+    "ro": "xiànjīn"
+   },
+   {
+    "fr": "la fête",
+    "tgt": "节日",
+    "ro": "jiérì"
+   },
+   {
+    "fr": "le progrès",
+    "tgt": "进步",
+    "ro": "jìnbù"
+   },
+   {
+    "fr": "dommage",
+    "tgt": "可惜",
+    "ro": "kěxī"
+   },
+   {
+    "fr": "la ruelle",
+    "tgt": "胡同",
+    "ro": "hútòng"
+   }
+  ],
+  "2-2-4": [
+   {
+    "fr": "la calligraphie",
+    "tgt": "书法",
+    "ro": "shūfǎ"
+   },
+   {
+    "fr": "on dirait que",
+    "tgt": "好像",
+    "ro": "hǎoxiàng"
+   },
+   {
+    "fr": "s'intéresser",
+    "tgt": "感兴趣",
+    "ro": "gǎn xìngqù"
+   },
+   {
+    "fr": "sembler",
+    "tgt": "似乎",
+    "ro": "sìhū"
+   },
+   {
+    "fr": "pleuvoir",
+    "tgt": "下雨",
+    "ro": "xiàyǔ"
+   },
+   {
+    "fr": "l'art",
+    "tgt": "艺术",
+    "ro": "yìshù"
+   }
+  ],
+  "2-2-5": [
+   {
+    "fr": "l'opéra de Pékin",
+    "tgt": "京剧",
+    "ro": "jīngjù"
+   },
+   {
+    "fr": "l'acteur",
+    "tgt": "演员",
+    "ro": "yǎnyuán"
+   },
+   {
+    "fr": "la couleur",
+    "tgt": "颜色",
+    "ro": "yánsè"
+   },
+   {
+    "fr": "l'histoire",
+    "tgt": "故事",
+    "ro": "gùshi"
+   },
+   {
+    "fr": "le loisir",
+    "tgt": "爱好",
+    "ro": "àihào"
+   },
+   {
+    "fr": "représenter",
+    "tgt": "代表",
+    "ro": "dàibiǎo"
+   }
+  ],
+  "2-2-6": [
+   {
+    "fr": "la maison de thé",
+    "tgt": "茶馆",
+    "ro": "cháguǎn"
+   },
+   {
+    "fr": "le thé vert",
+    "tgt": "绿茶",
+    "ro": "lǜchá"
+   },
+   {
+    "fr": "servir le thé",
+    "tgt": "倒茶",
+    "ro": "dào chá"
+   },
+   {
+    "fr": "l'eau chaude",
+    "tgt": "热水",
+    "ro": "rèshuǐ"
+   },
+   {
+    "fr": "les feuilles de thé",
+    "tgt": "茶叶",
+    "ro": "cháyè"
+   },
+   {
+    "fr": "remercier",
+    "tgt": "感谢",
+    "ro": "gǎnxiè"
+   }
+  ],
+  "2-2-7": [
+   {
+    "fr": "être obligé de",
+    "tgt": "不得不",
+    "ro": "bùdébù"
+   },
+   {
+    "fr": "la campagne",
+    "tgt": "农村",
+    "ro": "nóngcūn"
+   },
+   {
+    "fr": "la ville",
+    "tgt": "城市",
+    "ro": "chéngshì"
+   },
+   {
+    "fr": "le loyer",
+    "tgt": "房租",
+    "ro": "fángzū"
+   },
+   {
+    "fr": "le village natal",
+    "tgt": "老家",
+    "ro": "lǎojiā"
+   },
+   {
+    "fr": "le train",
+    "tgt": "火车",
+    "ro": "huǒchē"
+   }
+  ],
+  "2-2-8": [
+   {
+    "fr": "l'ami",
+    "tgt": "朋友",
+    "ro": "péngyou"
+   },
+   {
+    "fr": "l'amitié",
+    "tgt": "友谊",
+    "ro": "yǒuyì"
+   },
+   {
+    "fr": "payer l'addition",
+    "tgt": "买单",
+    "ro": "mǎidān"
+   },
+   {
+    "fr": "se voir",
+    "tgt": "见面",
+    "ro": "jiànmiàn"
+   },
+   {
+    "fr": "faire des manières",
+    "tgt": "客气",
+    "ro": "kèqi"
+   },
+   {
+    "fr": "le camarade de classe",
+    "tgt": "同学",
+    "ro": "tóngxué"
+   }
+  ],
+  "2-2-9": [
+   {
+    "fr": "se marier",
+    "tgt": "结婚",
+    "ro": "jiéhūn"
+   },
+   {
+    "fr": "la pression",
+    "tgt": "压力",
+    "ro": "yālì"
+   },
+   {
+    "fr": "l'inquiétude",
+    "tgt": "担心",
+    "ro": "dānxīn"
+   },
+   {
+    "fr": "comprendre",
+    "tgt": "理解",
+    "ro": "lǐjiě"
+   },
+   {
+    "fr": "important",
+    "tgt": "重要",
+    "ro": "zhòngyào"
+   },
+   {
+    "fr": "communiquer",
+    "tgt": "沟通",
+    "ro": "gōutōng"
+   }
+  ],
+  "2-2-10": [
+   {
+    "fr": "la Fête du printemps",
+    "tgt": "春节",
+    "ro": "chūnjié"
+   },
+   {
+    "fr": "bonne année",
+    "tgt": "新年快乐",
+    "ro": "xīnnián kuàilè"
+   },
+   {
+    "fr": "le ravioli",
+    "tgt": "饺子",
+    "ro": "jiǎozi"
+   },
+   {
+    "fr": "l'enveloppe rouge",
+    "tgt": "红包",
+    "ro": "hóngbāo"
+   },
+   {
+    "fr": "le feu d'artifice",
+    "tgt": "烟花",
+    "ro": "yānhuā"
+   },
+   {
+    "fr": "le réveillon du Nouvel An",
+    "tgt": "除夕",
+    "ro": "chúxī"
+   }
+  ],
+  "2-2-11": [
+   {
+    "fr": "le proverbe",
+    "tgt": "俗语",
+    "ro": "súyǔ"
+   },
+   {
+    "fr": "abandonner",
+    "tgt": "放弃",
+    "ro": "fàngqì"
+   },
+   {
+    "fr": "la solution",
+    "tgt": "办法",
+    "ro": "bànfǎ"
+   },
+   {
+    "fr": "la langue",
+    "tgt": "语言",
+    "ro": "yǔyán"
+   },
+   {
+    "fr": "la sagesse",
+    "tgt": "智慧",
+    "ro": "zhìhuì"
+   },
+   {
+    "fr": "impressionnant",
+    "tgt": "厉害",
+    "ro": "lìhai"
+   }
+  ],
+  "2-2-12": [
+   {
+    "fr": "l'invité",
+    "tgt": "客人",
+    "ro": "kèrén"
+   },
+   {
+    "fr": "l'hôte",
+    "tgt": "主人",
+    "ro": "zhǔrén"
+   },
+   {
+    "fr": "le piment",
+    "tgt": "辣椒",
+    "ro": "làjiāo"
+   },
+   {
+    "fr": "avoir assez mangé",
+    "tgt": "吃饱",
+    "ro": "chībǎo"
+   },
+   {
+    "fr": "la saveur",
+    "tgt": "口味",
+    "ro": "kǒuwèi"
+   },
+   {
+    "fr": "le plat familial",
+    "tgt": "家常菜",
+    "ro": "jiāchángcài"
+   }
+  ],
+  "2-2-13": [
+   {
+    "fr": "la santé",
+    "tgt": "健康",
+    "ro": "jiànkāng"
+   },
+   {
+    "fr": "l'habitude",
+    "tgt": "习惯",
+    "ro": "xíguàn"
+   },
+   {
+    "fr": "conseiller",
+    "tgt": "建议",
+    "ro": "jiànyì"
+   },
+   {
+    "fr": "dormir",
+    "tgt": "睡觉",
+    "ro": "shuìjiào"
+   },
+   {
+    "fr": "le parc",
+    "tgt": "公园",
+    "ro": "gōngyuán"
+   },
+   {
+    "fr": "le tai-chi",
+    "tgt": "太极拳",
+    "ro": "tàijíquán"
+   }
+  ],
+  "2-2-14": [
+   {
+    "fr": "le bonheur",
+    "tgt": "幸福",
+    "ro": "xìngfú"
+   },
+   {
+    "fr": "réussi",
+    "tgt": "成功",
+    "ro": "chénggōng"
+   },
+   {
+    "fr": "l'argent",
+    "tgt": "钱",
+    "ro": "qián"
+   },
+   {
+    "fr": "être d'accord",
+    "tgt": "同意",
+    "ro": "tóngyì"
+   },
+   {
+    "fr": "joyeux",
+    "tgt": "开心",
+    "ro": "kāixīn"
+   },
+   {
+    "fr": "la raison",
+    "tgt": "道理",
+    "ro": "dàoli"
+   }
+  ],
+  "2-2-15": [
+   {
+    "fr": "l'enfant",
+    "tgt": "孩子",
+    "ro": "háizi"
+   },
+   {
+    "fr": "les devoirs",
+    "tgt": "作业",
+    "ro": "zuòyè"
+   },
+   {
+    "fr": "l'éducation",
+    "tgt": "教育",
+    "ro": "jiàoyù"
+   },
+   {
+    "fr": "l'élève",
+    "tgt": "学生",
+    "ro": "xuésheng"
+   },
+   {
+    "fr": "les mathématiques",
+    "tgt": "数学",
+    "ro": "shùxué"
+   },
+   {
+    "fr": "l'avenir",
+    "tgt": "未来",
+    "ro": "wèilái"
+   }
+  ],
+  "2-2-16": [
+   {
+    "fr": "s'ennuyer de",
+    "tgt": "想念",
+    "ro": "xiǎngniàn"
+   },
+   {
+    "fr": "le voisin",
+    "tgt": "邻居",
+    "ro": "línjū"
+   },
+   {
+    "fr": "le pain",
+    "tgt": "面包",
+    "ro": "miànbāo"
+   },
+   {
+    "fr": "le fromage",
+    "tgt": "奶酪",
+    "ro": "nǎilào"
+   },
+   {
+    "fr": "la culture",
+    "tgt": "文化",
+    "ro": "wénhuà"
+   },
+   {
+    "fr": "l'étranger",
+    "tgt": "国外",
+    "ro": "guówài"
+   }
+  ],
+  "2-2-17": [
+   {
+    "fr": "au revoir",
+    "tgt": "再见",
+    "ro": "zàijiàn"
+   },
+   {
+    "fr": "bon voyage",
+    "tgt": "一路平安",
+    "ro": "yílù píng'ān"
+   },
+   {
+    "fr": "prendre soin de soi",
+    "tgt": "保重",
+    "ro": "bǎozhòng"
+   },
+   {
+    "fr": "rester en contact",
+    "tgt": "保持联系",
+    "ro": "bǎochí liánxì"
+   },
+   {
+    "fr": "le message",
+    "tgt": "消息",
+    "ro": "xiāoxi"
+   },
+   {
+    "fr": "promettre",
+    "tgt": "答应",
+    "ro": "dāying"
+   }
+  ],
+  "2-2-18": [
+   {
+    "fr": "le chinois",
+    "tgt": "中文",
+    "ro": "zhōngwén"
+   },
+   {
+    "fr": "le ton",
+    "tgt": "声调",
+    "ro": "shēngdiào"
+   },
+   {
+    "fr": "s'entraîner",
+    "tgt": "练习",
+    "ro": "liànxí"
+   },
+   {
+    "fr": "la confiance",
+    "tgt": "信心",
+    "ro": "xìnxīn"
+   },
+   {
+    "fr": "encourager",
+    "tgt": "鼓励",
+    "ro": "gǔlì"
+   },
+   {
+    "fr": "fier",
+    "tgt": "骄傲",
+    "ro": "jiāo'ào"
+   }
+  ],
+  "2-2-19": [
+   {
+    "fr": "continuer",
+    "tgt": "继续",
+    "ro": "jìxù"
+   },
+   {
+    "fr": "la société",
+    "tgt": "社会",
+    "ro": "shèhuì"
+   },
+   {
+    "fr": "l'expression idiomatique",
+    "tgt": "成语",
+    "ro": "chéngyǔ"
+   },
+   {
+    "fr": "féliciter",
+    "tgt": "祝贺",
+    "ro": "zhùhè"
+   },
+   {
+    "fr": "terminer",
+    "tgt": "完成",
+    "ro": "wánchéng"
+   },
+   {
+    "fr": "que tout se passe bien",
+    "tgt": "一切顺利",
+    "ro": "yíqiè shùnlì"
+   }
+  ]
+ },
+ "series": {
+  "0-0-5": {
+   "title": "Les nombres de 1 à 10",
+   "intro": "Voici les nombres de zéro à dix. Ce sont des syllabes très courtes : écoutez bien le ton de chacune. Ils serviront à tout le reste : les dates, l'heure, les prix.",
+   "chunks": [
+    [
+     {
+      "fr": "zéro",
+      "tgt": "零",
+      "ro": "líng"
+     },
+     {
+      "fr": "un",
+      "tgt": "一",
+      "ro": "yī"
+     },
+     {
+      "fr": "deux",
+      "tgt": "二",
+      "ro": "èr"
+     },
+     {
+      "fr": "trois",
+      "tgt": "三",
+      "ro": "sān"
+     }
+    ],
+    [
+     {
+      "fr": "quatre",
+      "tgt": "四",
+      "ro": "sì"
+     },
+     {
+      "fr": "cinq",
+      "tgt": "五",
+      "ro": "wǔ"
+     },
+     {
+      "fr": "six",
+      "tgt": "六",
+      "ro": "liù"
+     },
+     {
+      "fr": "sept",
+      "tgt": "七",
+      "ro": "qī"
+     }
+    ],
+    [
+     {
+      "fr": "huit",
+      "tgt": "八",
+      "ro": "bā"
+     },
+     {
+      "fr": "neuf",
+      "tgt": "九",
+      "ro": "jiǔ"
+     },
+     {
+      "fr": "dix",
+      "tgt": "十",
+      "ro": "shí"
+     }
+    ]
+   ]
+  },
+  "0-0-10": {
+   "title": "Les nombres de 11 à 99",
+   "intro": "Bonne nouvelle : en chinois, on compte comme un calcul. Onze se dit « dix-un », douze « dix-deux ». Vingt se dit « deux-dix », trente « trois-dix », et vingt et un « deux-dix-un ». Avec les dix premiers nombres, vous savez donc compter jusqu'à quatre-vingt-dix-neuf.",
+   "chunks": [
+    [
+     {
+      "fr": "onze",
+      "tgt": "十一",
+      "ro": "shíyī"
+     },
+     {
+      "fr": "douze",
+      "tgt": "十二",
+      "ro": "shí'èr"
+     },
+     {
+      "fr": "quinze",
+      "tgt": "十五",
+      "ro": "shíwǔ"
+     },
+     {
+      "fr": "dix-neuf",
+      "tgt": "十九",
+      "ro": "shíjiǔ"
+     }
+    ],
+    [
+     {
+      "fr": "vingt",
+      "tgt": "二十",
+      "ro": "èrshí"
+     },
+     {
+      "fr": "vingt et un",
+      "tgt": "二十一",
+      "ro": "èrshíyī"
+     },
+     {
+      "fr": "trente",
+      "tgt": "三十",
+      "ro": "sānshí"
+     },
+     {
+      "fr": "trente-trois",
+      "tgt": "三十三",
+      "ro": "sānshísān"
+     }
+    ],
+    [
+     {
+      "fr": "quarante-cinq",
+      "tgt": "四十五",
+      "ro": "sìshíwǔ"
+     },
+     {
+      "fr": "soixante-huit",
+      "tgt": "六十八",
+      "ro": "liùshíbā"
+     },
+     {
+      "fr": "soixante-dix-sept",
+      "tgt": "七十七",
+      "ro": "qīshíqī"
+     },
+     {
+      "fr": "quatre-vingt-dix-neuf",
+      "tgt": "九十九",
+      "ro": "jiǔshíjiǔ"
+     }
+    ]
+   ]
+  },
+  "0-0-15": {
+   "title": "Les jours de la semaine",
+   "intro": "Les jours de la semaine sont très simples : on dit « semaine », « xīngqī », puis un numéro. Lundi, c'est « semaine un », mardi « semaine deux », et ainsi de suite jusqu'à samedi. Seul dimanche est spécial : « semaine ciel », « xīngqītiān ».",
+   "chunks": [
+    [
+     {
+      "fr": "la semaine",
+      "tgt": "星期",
+      "ro": "xīngqī"
+     },
+     {
+      "fr": "lundi",
+      "tgt": "星期一",
+      "ro": "xīngqīyī"
+     },
+     {
+      "fr": "mardi",
+      "tgt": "星期二",
+      "ro": "xīngqī'èr"
+     }
+    ],
+    [
+     {
+      "fr": "mercredi",
+      "tgt": "星期三",
+      "ro": "xīngqīsān"
+     },
+     {
+      "fr": "jeudi",
+      "tgt": "星期四",
+      "ro": "xīngqīsì"
+     },
+     {
+      "fr": "vendredi",
+      "tgt": "星期五",
+      "ro": "xīngqīwǔ"
+     }
+    ],
+    [
+     {
+      "fr": "samedi",
+      "tgt": "星期六",
+      "ro": "xīngqīliù"
+     },
+     {
+      "fr": "dimanche",
+      "tgt": "星期天",
+      "ro": "xīngqītiān"
+     },
+     {
+      "fr": "le week-end",
+      "tgt": "周末",
+      "ro": "zhōumò"
+     }
+    ]
+   ]
+  },
+  "0-1-5": {
+   "title": "Dire l'heure",
+   "intro": "Pour dire l'heure, on ajoute « diǎn » après le nombre : une heure, c'est « yī diǎn ». Attention : deux heures se dit « liǎng diǎn », pas « èr diǎn ». La demie, c'est « bàn », le quart « yí kè », et « chà » veut dire « il manque ».",
+   "chunks": [
+    [
+     {
+      "fr": "une heure",
+      "tgt": "一点",
+      "ro": "yī diǎn"
+     },
+     {
+      "fr": "deux heures",
+      "tgt": "两点",
+      "ro": "liǎng diǎn"
+     },
+     {
+      "fr": "trois heures",
+      "tgt": "三点",
+      "ro": "sān diǎn"
+     }
+    ],
+    [
+     {
+      "fr": "trois heures et demie",
+      "tgt": "三点半",
+      "ro": "sān diǎn bàn"
+     },
+     {
+      "fr": "quatre heures et quart",
+      "tgt": "四点一刻",
+      "ro": "sì diǎn yí kè"
+     },
+     {
+      "fr": "cinq heures dix",
+      "tgt": "五点十分",
+      "ro": "wǔ diǎn shí fēn"
+     }
+    ],
+    [
+     {
+      "fr": "six heures moins cinq",
+      "tgt": "差五分六点",
+      "ro": "chà wǔ fēn liù diǎn"
+     },
+     {
+      "fr": "midi",
+      "tgt": "十二点",
+      "ro": "shí'èr diǎn"
+     },
+     {
+      "fr": "quelle heure est-il",
+      "tgt": "现在几点",
+      "ro": "xiànzài jǐ diǎn"
+     }
+    ]
+   ]
+  },
+  "0-1-10": {
+   "title": "Les mois",
+   "intro": "Les mois sont des numéros : on dit le nombre puis « yuè », la lune. Janvier, c'est « lune un », février « lune deux », jusqu'à décembre, « lune douze ». Pour la date, on ajoute le jour suivi de « hào » : le cinq mai, c'est « wǔ yuè wǔ hào ».",
+   "chunks": [
+    [
+     {
+      "fr": "janvier",
+      "tgt": "一月",
+      "ro": "yīyuè"
+     },
+     {
+      "fr": "février",
+      "tgt": "二月",
+      "ro": "èryuè"
+     },
+     {
+      "fr": "mars",
+      "tgt": "三月",
+      "ro": "sānyuè"
+     },
+     {
+      "fr": "avril",
+      "tgt": "四月",
+      "ro": "sìyuè"
+     }
+    ],
+    [
+     {
+      "fr": "mai",
+      "tgt": "五月",
+      "ro": "wǔyuè"
+     },
+     {
+      "fr": "juin",
+      "tgt": "六月",
+      "ro": "liùyuè"
+     },
+     {
+      "fr": "juillet",
+      "tgt": "七月",
+      "ro": "qīyuè"
+     },
+     {
+      "fr": "août",
+      "tgt": "八月",
+      "ro": "bāyuè"
+     }
+    ],
+    [
+     {
+      "fr": "septembre",
+      "tgt": "九月",
+      "ro": "jiǔyuè"
+     },
+     {
+      "fr": "octobre",
+      "tgt": "十月",
+      "ro": "shíyuè"
+     },
+     {
+      "fr": "novembre",
+      "tgt": "十一月",
+      "ro": "shíyīyuè"
+     },
+     {
+      "fr": "décembre",
+      "tgt": "十二月",
+      "ro": "shí'èryuè"
+     }
+    ]
+   ]
+  },
+  "0-1-15": {
+   "title": "Les moments de la journée",
+   "intro": "Astuce : « tiān » veut dire le jour. Hier, aujourd'hui, demain finissent tous par « tiān ». Pour les moments de la journée, « shàng » veut dire avant et « xià » après : « shàngwǔ » est le matin, avant midi, et « xiàwǔ » l'après-midi.",
+   "chunks": [
+    [
+     {
+      "fr": "avant-hier",
+      "tgt": "前天",
+      "ro": "qiántiān"
+     },
+     {
+      "fr": "hier",
+      "tgt": "昨天",
+      "ro": "zuótiān"
+     },
+     {
+      "fr": "aujourd'hui",
+      "tgt": "今天",
+      "ro": "jīntiān"
+     },
+     {
+      "fr": "demain",
+      "tgt": "明天",
+      "ro": "míngtiān"
+     },
+     {
+      "fr": "après-demain",
+      "tgt": "后天",
+      "ro": "hòutiān"
+     }
+    ],
+    [
+     {
+      "fr": "le petit matin",
+      "tgt": "早上",
+      "ro": "zǎoshang"
+     },
+     {
+      "fr": "la matinée",
+      "tgt": "上午",
+      "ro": "shàngwǔ"
+     },
+     {
+      "fr": "midi",
+      "tgt": "中午",
+      "ro": "zhōngwǔ"
+     },
+     {
+      "fr": "l'après-midi",
+      "tgt": "下午",
+      "ro": "xiàwǔ"
+     },
+     {
+      "fr": "le soir",
+      "tgt": "晚上",
+      "ro": "wǎnshang"
+     }
+    ],
+    [
+     {
+      "fr": "maintenant",
+      "tgt": "现在",
+      "ro": "xiànzài"
+     },
+     {
+      "fr": "ce matin",
+      "tgt": "今天早上",
+      "ro": "jīntiān zǎoshang"
+     },
+     {
+      "fr": "ce soir",
+      "tgt": "今天晚上",
+      "ro": "jīntiān wǎnshang"
+     }
+    ]
+   ]
+  },
+  "0-2-5": {
+   "title": "La famille",
+   "intro": "En chinois, on distingue toujours l'aîné du cadet : il n'y a pas de mot unique pour frère ou sœur. Beaucoup de mots de la famille répètent la même syllabe, comme « bàba » pour papa et « māma » pour maman.",
+   "chunks": [
+    [
+     {
+      "fr": "le papa",
+      "tgt": "爸爸",
+      "ro": "bàba"
+     },
+     {
+      "fr": "la maman",
+      "tgt": "妈妈",
+      "ro": "māma"
+     },
+     {
+      "fr": "le fils",
+      "tgt": "儿子",
+      "ro": "érzi"
+     },
+     {
+      "fr": "la fille",
+      "tgt": "女儿",
+      "ro": "nǚ'ér"
+     }
+    ],
+    [
+     {
+      "fr": "le grand frère",
+      "tgt": "哥哥",
+      "ro": "gēge"
+     },
+     {
+      "fr": "la grande sœur",
+      "tgt": "姐姐",
+      "ro": "jiějie"
+     },
+     {
+      "fr": "le petit frère",
+      "tgt": "弟弟",
+      "ro": "dìdi"
+     },
+     {
+      "fr": "la petite sœur",
+      "tgt": "妹妹",
+      "ro": "mèimei"
+     }
+    ],
+    [
+     {
+      "fr": "le grand-père paternel",
+      "tgt": "爷爷",
+      "ro": "yéye"
+     },
+     {
+      "fr": "la grand-mère paternelle",
+      "tgt": "奶奶",
+      "ro": "nǎinai"
+     },
+     {
+      "fr": "le mari",
+      "tgt": "丈夫",
+      "ro": "zhàngfu"
+     },
+     {
+      "fr": "l'épouse",
+      "tgt": "妻子",
+      "ro": "qīzi"
+     }
+    ]
+   ]
+  },
+  "0-2-10": {
+   "title": "Les couleurs",
+   "intro": "Les couleurs se terminent presque toutes par « sè », qui veut dire couleur. Il suffit donc de retenir la première syllabe : « hóng » pour rouge, « bái » pour blanc, « hēi » pour noir. Le rouge est la couleur de la chance en Chine.",
+   "chunks": [
+    [
+     {
+      "fr": "la couleur",
+      "tgt": "颜色",
+      "ro": "yánsè"
+     },
+     {
+      "fr": "le rouge",
+      "tgt": "红色",
+      "ro": "hóngsè"
+     },
+     {
+      "fr": "le blanc",
+      "tgt": "白色",
+      "ro": "báisè"
+     },
+     {
+      "fr": "le noir",
+      "tgt": "黑色",
+      "ro": "hēisè"
+     }
+    ],
+    [
+     {
+      "fr": "le bleu",
+      "tgt": "蓝色",
+      "ro": "lánsè"
+     },
+     {
+      "fr": "le vert",
+      "tgt": "绿色",
+      "ro": "lǜsè"
+     },
+     {
+      "fr": "le jaune",
+      "tgt": "黄色",
+      "ro": "huángsè"
+     },
+     {
+      "fr": "le gris",
+      "tgt": "灰色",
+      "ro": "huīsè"
+     }
+    ],
+    [
+     {
+      "fr": "le rose",
+      "tgt": "粉色",
+      "ro": "fěnsè"
+     },
+     {
+      "fr": "le violet",
+      "tgt": "紫色",
+      "ro": "zǐsè"
+     },
+     {
+      "fr": "l'orange",
+      "tgt": "橙色",
+      "ro": "chéngsè"
+     },
+     {
+      "fr": "le marron",
+      "tgt": "棕色",
+      "ro": "zōngsè"
+     }
+    ]
+   ]
+  },
+  "0-2-15": {
+   "title": "Directions et positions",
+   "intro": "Pour les positions, on prend un mot court, comme « zuǒ » gauche ou « yòu » droite, et on ajoute « biān », le côté. Gauche devient « zuǒbian », le côté gauche. C'est pareil pour devant, derrière, dessus, dessous, dedans et dehors.",
+   "chunks": [
+    [
+     {
+      "fr": "à gauche",
+      "tgt": "左边",
+      "ro": "zuǒbian"
+     },
+     {
+      "fr": "à droite",
+      "tgt": "右边",
+      "ro": "yòubian"
+     },
+     {
+      "fr": "devant",
+      "tgt": "前边",
+      "ro": "qiánbian"
+     },
+     {
+      "fr": "derrière",
+      "tgt": "后边",
+      "ro": "hòubian"
+     }
+    ],
+    [
+     {
+      "fr": "au-dessus",
+      "tgt": "上边",
+      "ro": "shàngbian"
+     },
+     {
+      "fr": "en dessous",
+      "tgt": "下边",
+      "ro": "xiàbian"
+     },
+     {
+      "fr": "à l'intérieur",
+      "tgt": "里边",
+      "ro": "lǐbian"
+     },
+     {
+      "fr": "à l'extérieur",
+      "tgt": "外边",
+      "ro": "wàibian"
+     }
+    ],
+    [
+     {
+      "fr": "à côté",
+      "tgt": "旁边",
+      "ro": "pángbiān"
+     },
+     {
+      "fr": "au milieu",
+      "tgt": "中间",
+      "ro": "zhōngjiān"
+     },
+     {
+      "fr": "en face",
+      "tgt": "对面",
+      "ro": "duìmiàn"
+     }
+    ],
+    [
+     {
+      "fr": "l'est",
+      "tgt": "东",
+      "ro": "dōng"
+     },
+     {
+      "fr": "le sud",
+      "tgt": "南",
+      "ro": "nán"
+     },
+     {
+      "fr": "l'ouest",
+      "tgt": "西",
+      "ro": "xī"
+     },
+     {
+      "fr": "le nord",
+      "tgt": "北",
+      "ro": "běi"
+     }
+    ]
+   ]
+  },
+  "1-0-5": {
+   "title": "De 100 à 10 000, et les prix",
+   "intro": "Cent se dit « bǎi », mille « qiān », et dix mille a son propre mot : « wàn ». On compte donc en dizaines de milliers : quinze mille, c'est « un wàn cinq ». Pour deux cents ou deux mille, on préfère « liǎng ». À l'oral, l'unité de prix est « kuài ».",
+   "chunks": [
+    [
+     {
+      "fr": "cent",
+      "tgt": "一百",
+      "ro": "yìbǎi"
+     },
+     {
+      "fr": "deux cents",
+      "tgt": "两百",
+      "ro": "liǎngbǎi"
+     },
+     {
+      "fr": "cinq cents",
+      "tgt": "五百",
+      "ro": "wǔbǎi"
+     }
+    ],
+    [
+     {
+      "fr": "mille",
+      "tgt": "一千",
+      "ro": "yìqiān"
+     },
+     {
+      "fr": "deux mille",
+      "tgt": "两千",
+      "ro": "liǎngqiān"
+     },
+     {
+      "fr": "cinq mille",
+      "tgt": "五千",
+      "ro": "wǔqiān"
+     }
+    ],
+    [
+     {
+      "fr": "dix mille",
+      "tgt": "一万",
+      "ro": "yíwàn"
+     },
+     {
+      "fr": "quinze mille",
+      "tgt": "一万五",
+      "ro": "yíwàn wǔ"
+     },
+     {
+      "fr": "cent mille",
+      "tgt": "十万",
+      "ro": "shíwàn"
+     }
+    ],
+    [
+     {
+      "fr": "combien ça coûte",
+      "tgt": "多少钱",
+      "ro": "duōshao qián"
+     },
+     {
+      "fr": "dix yuans",
+      "tgt": "十块",
+      "ro": "shí kuài"
+     },
+     {
+      "fr": "cinquante yuans",
+      "tgt": "五十块",
+      "ro": "wǔshí kuài"
+     },
+     {
+      "fr": "cent yuans",
+      "tgt": "一百块",
+      "ro": "yìbǎi kuài"
+     }
+    ]
+   ]
+  },
+  "1-0-10": {
+   "title": "Les parties du corps",
+   "intro": "On parcourt le corps de la tête aux pieds. Plusieurs mots finissent par « zi » ou se répètent légèrement, comme « bízi », le nez, ou « dùzi », le ventre : ce petit suffixe est très fréquent pour les objets du quotidien.",
+   "chunks": [
+    [
+     {
+      "fr": "la tête",
+      "tgt": "头",
+      "ro": "tóu"
+     },
+     {
+      "fr": "les yeux",
+      "tgt": "眼睛",
+      "ro": "yǎnjing"
+     },
+     {
+      "fr": "les oreilles",
+      "tgt": "耳朵",
+      "ro": "ěrduo"
+     },
+     {
+      "fr": "le nez",
+      "tgt": "鼻子",
+      "ro": "bízi"
+     },
+     {
+      "fr": "la bouche",
+      "tgt": "嘴",
+      "ro": "zuǐ"
+     }
+    ],
+    [
+     {
+      "fr": "le cou",
+      "tgt": "脖子",
+      "ro": "bózi"
+     },
+     {
+      "fr": "l'épaule",
+      "tgt": "肩膀",
+      "ro": "jiānbǎng"
+     },
+     {
+      "fr": "la main",
+      "tgt": "手",
+      "ro": "shǒu"
+     },
+     {
+      "fr": "le doigt",
+      "tgt": "手指",
+      "ro": "shǒuzhǐ"
+     }
+    ],
+    [
+     {
+      "fr": "le ventre",
+      "tgt": "肚子",
+      "ro": "dùzi"
+     },
+     {
+      "fr": "le dos",
+      "tgt": "背",
+      "ro": "bèi"
+     },
+     {
+      "fr": "la jambe",
+      "tgt": "腿",
+      "ro": "tuǐ"
+     },
+     {
+      "fr": "le pied",
+      "tgt": "脚",
+      "ro": "jiǎo"
+     }
+    ]
+   ]
+  },
+  "1-0-15": {
+   "title": "La maison",
+   "intro": "D'abord les pièces de la maison, puis les objets qu'on y trouve. Remarquez « fáng », la pièce, dans la cuisine, « chúfáng ». Le frigo, « bīngxiāng », est littéralement la boîte à glace.",
+   "chunks": [
+    [
+     {
+      "fr": "le salon",
+      "tgt": "客厅",
+      "ro": "kètīng"
+     },
+     {
+      "fr": "la chambre",
+      "tgt": "卧室",
+      "ro": "wòshì"
+     },
+     {
+      "fr": "la cuisine",
+      "tgt": "厨房",
+      "ro": "chúfáng"
+     },
+     {
+      "fr": "la salle de bain",
+      "tgt": "卫生间",
+      "ro": "wèishēngjiān"
+     }
+    ],
+    [
+     {
+      "fr": "la porte",
+      "tgt": "门",
+      "ro": "mén"
+     },
+     {
+      "fr": "la fenêtre",
+      "tgt": "窗户",
+      "ro": "chuānghu"
+     },
+     {
+      "fr": "la table",
+      "tgt": "桌子",
+      "ro": "zhuōzi"
+     },
+     {
+      "fr": "la chaise",
+      "tgt": "椅子",
+      "ro": "yǐzi"
+     }
+    ],
+    [
+     {
+      "fr": "le lit",
+      "tgt": "床",
+      "ro": "chuáng"
+     },
+     {
+      "fr": "le canapé",
+      "tgt": "沙发",
+      "ro": "shāfā"
+     },
+     {
+      "fr": "le frigo",
+      "tgt": "冰箱",
+      "ro": "bīngxiāng"
+     },
+     {
+      "fr": "la télévision",
+      "tgt": "电视",
+      "ro": "diànshì"
+     }
+    ]
+   ]
+  },
+  "1-1-5": {
+   "title": "Les saisons et la météo",
+   "intro": "Les quatre saisons finissent toutes par « tiān » : printemps, été, automne, hiver. Pour la pluie et la neige, on dit littéralement « il descend » : « xià yǔ », il pleut, « xià xuě », il neige.",
+   "chunks": [
+    [
+     {
+      "fr": "le printemps",
+      "tgt": "春天",
+      "ro": "chūntiān"
+     },
+     {
+      "fr": "l'été",
+      "tgt": "夏天",
+      "ro": "xiàtiān"
+     },
+     {
+      "fr": "l'automne",
+      "tgt": "秋天",
+      "ro": "qiūtiān"
+     },
+     {
+      "fr": "l'hiver",
+      "tgt": "冬天",
+      "ro": "dōngtiān"
+     }
+    ],
+    [
+     {
+      "fr": "le temps qu'il fait",
+      "tgt": "天气",
+      "ro": "tiānqì"
+     },
+     {
+      "fr": "le beau temps",
+      "tgt": "晴天",
+      "ro": "qíngtiān"
+     },
+     {
+      "fr": "le temps couvert",
+      "tgt": "阴天",
+      "ro": "yīntiān"
+     }
+    ],
+    [
+     {
+      "fr": "il pleut",
+      "tgt": "下雨",
+      "ro": "xià yǔ"
+     },
+     {
+      "fr": "il neige",
+      "tgt": "下雪",
+      "ro": "xià xuě"
+     },
+     {
+      "fr": "il y a du vent",
+      "tgt": "刮风",
+      "ro": "guā fēng"
+     }
+    ],
+    [
+     {
+      "fr": "chaud",
+      "tgt": "热",
+      "ro": "rè"
+     },
+     {
+      "fr": "doux",
+      "tgt": "暖和",
+      "ro": "nuǎnhuo"
+     },
+     {
+      "fr": "frais",
+      "tgt": "凉快",
+      "ro": "liángkuai"
+     },
+     {
+      "fr": "froid",
+      "tgt": "冷",
+      "ro": "lěng"
+     }
+    ]
+   ]
+  },
+  "1-1-10": {
+   "title": "Les transports",
+   "intro": "Beaucoup de véhicules finissent par « chē », le véhicule : la voiture, le taxi, le bus, le vélo. Le train, « huǒchē », est le véhicule à feu, et l'avion, « fēijī », la machine volante.",
+   "chunks": [
+    [
+     {
+      "fr": "la voiture",
+      "tgt": "汽车",
+      "ro": "qìchē"
+     },
+     {
+      "fr": "le taxi",
+      "tgt": "出租车",
+      "ro": "chūzūchē"
+     },
+     {
+      "fr": "le bus",
+      "tgt": "公共汽车",
+      "ro": "gōnggòng qìchē"
+     },
+     {
+      "fr": "le métro",
+      "tgt": "地铁",
+      "ro": "dìtiě"
+     }
+    ],
+    [
+     {
+      "fr": "le train",
+      "tgt": "火车",
+      "ro": "huǒchē"
+     },
+     {
+      "fr": "le train à grande vitesse",
+      "tgt": "高铁",
+      "ro": "gāotiě"
+     },
+     {
+      "fr": "l'avion",
+      "tgt": "飞机",
+      "ro": "fēijī"
+     },
+     {
+      "fr": "le bateau",
+      "tgt": "船",
+      "ro": "chuán"
+     }
+    ],
+    [
+     {
+      "fr": "le vélo",
+      "tgt": "自行车",
+      "ro": "zìxíngchē"
+     },
+     {
+      "fr": "la moto",
+      "tgt": "摩托车",
+      "ro": "mótuōchē"
+     },
+     {
+      "fr": "conduire",
+      "tgt": "开车",
+      "ro": "kāichē"
+     },
+     {
+      "fr": "marcher",
+      "tgt": "走路",
+      "ro": "zǒulù"
+     }
+    ]
+   ]
+  },
+  "1-1-15": {
+   "title": "Les aliments de base",
+   "intro": "Pour les viandes, c'est simple : on dit l'animal puis « ròu », la viande. Le porc, c'est « cochon-viande », le bœuf « vache-viande », le poulet « poule-viande ». Commençons par le riz et les nouilles, les bases du repas chinois.",
+   "chunks": [
+    [
+     {
+      "fr": "le riz cuit",
+      "tgt": "米饭",
+      "ro": "mǐfàn"
+     },
+     {
+      "fr": "les nouilles",
+      "tgt": "面条",
+      "ro": "miàntiáo"
+     },
+     {
+      "fr": "le pain",
+      "tgt": "面包",
+      "ro": "miànbāo"
+     },
+     {
+      "fr": "le pain vapeur",
+      "tgt": "馒头",
+      "ro": "mántou"
+     }
+    ],
+    [
+     {
+      "fr": "la viande",
+      "tgt": "肉",
+      "ro": "ròu"
+     },
+     {
+      "fr": "le porc",
+      "tgt": "猪肉",
+      "ro": "zhūròu"
+     },
+     {
+      "fr": "le bœuf",
+      "tgt": "牛肉",
+      "ro": "niúròu"
+     },
+     {
+      "fr": "le poulet",
+      "tgt": "鸡肉",
+      "ro": "jīròu"
+     }
+    ],
+    [
+     {
+      "fr": "le poisson",
+      "tgt": "鱼",
+      "ro": "yú"
+     },
+     {
+      "fr": "l'œuf",
+      "tgt": "鸡蛋",
+      "ro": "jīdàn"
+     },
+     {
+      "fr": "le tofu",
+      "tgt": "豆腐",
+      "ro": "dòufu"
+     }
+    ],
+    [
+     {
+      "fr": "le sel",
+      "tgt": "盐",
+      "ro": "yán"
+     },
+     {
+      "fr": "le sucre",
+      "tgt": "糖",
+      "ro": "táng"
+     },
+     {
+      "fr": "l'huile",
+      "tgt": "油",
+      "ro": "yóu"
+     }
+    ]
+   ]
+  },
+  "1-2-5": {
+   "title": "Boissons et plats",
+   "intro": "D'abord les boissons, puis quelques plats célèbres. Le vin rouge se dit « hóngjiǔ », l'alcool rouge, et la bière « píjiǔ ». Côté plats : raviolis, petits pains farcis, riz sauté, et le fameux canard laqué de Pékin.",
+   "chunks": [
+    [
+     {
+      "fr": "l'eau",
+      "tgt": "水",
+      "ro": "shuǐ"
+     },
+     {
+      "fr": "le thé",
+      "tgt": "茶",
+      "ro": "chá"
+     },
+     {
+      "fr": "le café",
+      "tgt": "咖啡",
+      "ro": "kāfēi"
+     },
+     {
+      "fr": "le lait",
+      "tgt": "牛奶",
+      "ro": "niúnǎi"
+     }
+    ],
+    [
+     {
+      "fr": "le jus de fruits",
+      "tgt": "果汁",
+      "ro": "guǒzhī"
+     },
+     {
+      "fr": "le coca",
+      "tgt": "可乐",
+      "ro": "kělè"
+     },
+     {
+      "fr": "la bière",
+      "tgt": "啤酒",
+      "ro": "píjiǔ"
+     },
+     {
+      "fr": "le vin rouge",
+      "tgt": "红酒",
+      "ro": "hóngjiǔ"
+     }
+    ],
+    [
+     {
+      "fr": "les raviolis",
+      "tgt": "饺子",
+      "ro": "jiǎozi"
+     },
+     {
+      "fr": "les brioches farcies",
+      "tgt": "包子",
+      "ro": "bāozi"
+     },
+     {
+      "fr": "le riz sauté",
+      "tgt": "炒饭",
+      "ro": "chǎofàn"
+     }
+    ],
+    [
+     {
+      "fr": "la soupe",
+      "tgt": "汤",
+      "ro": "tāng"
+     },
+     {
+      "fr": "la fondue chinoise",
+      "tgt": "火锅",
+      "ro": "huǒguō"
+     },
+     {
+      "fr": "le canard laqué",
+      "tgt": "北京烤鸭",
+      "ro": "běijīng kǎoyā"
+     }
+    ]
+   ]
+  },
+  "1-2-10": {
+   "title": "Les métiers",
+   "intro": "Beaucoup de métiers finissent par « shī », le maître ou l'expert : le professeur, l'ingénieur, l'avocat, le cuisinier. Le médecin, lui, finit par « shēng ». Et pour dire « je suis médecin », on dit simplement « wǒ shì yīshēng ».",
+   "chunks": [
+    [
+     {
+      "fr": "le professeur",
+      "tgt": "老师",
+      "ro": "lǎoshī"
+     },
+     {
+      "fr": "l'étudiant",
+      "tgt": "学生",
+      "ro": "xuésheng"
+     },
+     {
+      "fr": "le médecin",
+      "tgt": "医生",
+      "ro": "yīshēng"
+     },
+     {
+      "fr": "l'infirmière",
+      "tgt": "护士",
+      "ro": "hùshi"
+     }
+    ],
+    [
+     {
+      "fr": "l'ingénieur",
+      "tgt": "工程师",
+      "ro": "gōngchéngshī"
+     },
+     {
+      "fr": "l'avocat",
+      "tgt": "律师",
+      "ro": "lǜshī"
+     },
+     {
+      "fr": "le cuisinier",
+      "tgt": "厨师",
+      "ro": "chúshī"
+     },
+     {
+      "fr": "le policier",
+      "tgt": "警察",
+      "ro": "jǐngchá"
+     }
+    ],
+    [
+     {
+      "fr": "le chauffeur",
+      "tgt": "司机",
+      "ro": "sījī"
+     },
+     {
+      "fr": "le serveur",
+      "tgt": "服务员",
+      "ro": "fúwùyuán"
+     },
+     {
+      "fr": "le directeur",
+      "tgt": "经理",
+      "ro": "jīnglǐ"
+     },
+     {
+      "fr": "le journaliste",
+      "tgt": "记者",
+      "ro": "jìzhě"
+     }
+    ]
+   ]
+  },
+  "1-2-15": {
+   "title": "Pays et nationalités",
+   "intro": "Pour la nationalité, on prend le pays et on ajoute « rén », la personne. La Chine, c'est « zhōngguó », le pays du milieu, et un Chinois « zhōngguó rén ». La France, « fǎguó », donne « fǎguó rén », un Français.",
+   "chunks": [
+    [
+     {
+      "fr": "la Chine",
+      "tgt": "中国",
+      "ro": "zhōngguó"
+     },
+     {
+      "fr": "le Chinois",
+      "tgt": "中国人",
+      "ro": "zhōngguó rén"
+     },
+     {
+      "fr": "la France",
+      "tgt": "法国",
+      "ro": "fǎguó"
+     },
+     {
+      "fr": "le Français",
+      "tgt": "法国人",
+      "ro": "fǎguó rén"
+     }
+    ],
+    [
+     {
+      "fr": "les États-Unis",
+      "tgt": "美国",
+      "ro": "měiguó"
+     },
+     {
+      "fr": "l'Américain",
+      "tgt": "美国人",
+      "ro": "měiguó rén"
+     },
+     {
+      "fr": "l'Angleterre",
+      "tgt": "英国",
+      "ro": "yīngguó"
+     },
+     {
+      "fr": "l'Anglais",
+      "tgt": "英国人",
+      "ro": "yīngguó rén"
+     }
+    ],
+    [
+     {
+      "fr": "le Japon",
+      "tgt": "日本",
+      "ro": "rìběn"
+     },
+     {
+      "fr": "le Japonais",
+      "tgt": "日本人",
+      "ro": "rìběn rén"
+     },
+     {
+      "fr": "l'Allemagne",
+      "tgt": "德国",
+      "ro": "déguó"
+     },
+     {
+      "fr": "l'Allemand",
+      "tgt": "德国人",
+      "ro": "déguó rén"
+     }
+    ],
+    [
+     {
+      "fr": "le Canada",
+      "tgt": "加拿大",
+      "ro": "jiānádà"
+     },
+     {
+      "fr": "la Belgique",
+      "tgt": "比利时",
+      "ro": "bǐlìshí"
+     },
+     {
+      "fr": "la Suisse",
+      "tgt": "瑞士",
+      "ro": "ruìshì"
+     }
+    ]
+   ]
+  },
+  "2-0-5": {
+   "title": "Les mots interrogatifs",
+   "intro": "En chinois, le mot interrogatif reste à la place de la réponse, sans inverser la phrase. On dit « tu vas où ? » et « tu es qui ? ». Retenez aussi que « jǐ » sert pour les petites quantités, et « duōshao » pour les grandes.",
+   "chunks": [
+    [
+     {
+      "fr": "quoi",
+      "tgt": "什么",
+      "ro": "shénme"
+     },
+     {
+      "fr": "qui",
+      "tgt": "谁",
+      "ro": "shéi"
+     },
+     {
+      "fr": "où",
+      "tgt": "哪儿",
+      "ro": "nǎr"
+     },
+     {
+      "fr": "lequel",
+      "tgt": "哪个",
+      "ro": "nǎge"
+     }
+    ],
+    [
+     {
+      "fr": "quand",
+      "tgt": "什么时候",
+      "ro": "shénme shíhou"
+     },
+     {
+      "fr": "pourquoi",
+      "tgt": "为什么",
+      "ro": "wèishénme"
+     },
+     {
+      "fr": "comment",
+      "tgt": "怎么",
+      "ro": "zěnme"
+     },
+     {
+      "fr": "comment c'est",
+      "tgt": "怎么样",
+      "ro": "zěnmeyàng"
+     }
+    ],
+    [
+     {
+      "fr": "combien, pour un petit nombre",
+      "tgt": "几",
+      "ro": "jǐ"
+     },
+     {
+      "fr": "combien",
+      "tgt": "多少",
+      "ro": "duōshao"
+     },
+     {
+      "fr": "combien de temps",
+      "tgt": "多久",
+      "ro": "duōjiǔ"
+     },
+     {
+      "fr": "quel âge",
+      "tgt": "多大",
+      "ro": "duō dà"
+     }
+    ]
+   ]
+  },
+  "2-0-10": {
+   "title": "Les contraires",
+   "intro": "Huit paires de contraires, toujours dans le même ordre : le mot, puis son opposé. Beaucoup tiennent en une seule syllabe, comme « dà », grand, et « xiǎo », petit. Seul « bon marché » est plus long : « piányi ».",
+   "chunks": [
+    [
+     {
+      "fr": "grand",
+      "tgt": "大",
+      "ro": "dà"
+     },
+     {
+      "fr": "petit",
+      "tgt": "小",
+      "ro": "xiǎo"
+     },
+     {
+      "fr": "nombreux",
+      "tgt": "多",
+      "ro": "duō"
+     },
+     {
+      "fr": "peu nombreux",
+      "tgt": "少",
+      "ro": "shǎo"
+     }
+    ],
+    [
+     {
+      "fr": "long",
+      "tgt": "长",
+      "ro": "cháng"
+     },
+     {
+      "fr": "court",
+      "tgt": "短",
+      "ro": "duǎn"
+     },
+     {
+      "fr": "haut",
+      "tgt": "高",
+      "ro": "gāo"
+     },
+     {
+      "fr": "de petite taille",
+      "tgt": "矮",
+      "ro": "ǎi"
+     }
+    ],
+    [
+     {
+      "fr": "rapide",
+      "tgt": "快",
+      "ro": "kuài"
+     },
+     {
+      "fr": "lent",
+      "tgt": "慢",
+      "ro": "màn"
+     },
+     {
+      "fr": "neuf",
+      "tgt": "新",
+      "ro": "xīn"
+     },
+     {
+      "fr": "vieux",
+      "tgt": "旧",
+      "ro": "jiù"
+     }
+    ],
+    [
+     {
+      "fr": "cher",
+      "tgt": "贵",
+      "ro": "guì"
+     },
+     {
+      "fr": "bon marché",
+      "tgt": "便宜",
+      "ro": "piányi"
+     },
+     {
+      "fr": "facile",
+      "tgt": "容易",
+      "ro": "róngyì"
+     },
+     {
+      "fr": "difficile",
+      "tgt": "难",
+      "ro": "nán"
+     }
+    ]
+   ]
+  },
+  "2-0-15": {
+   "title": "La fréquence",
+   "intro": "On va du plus fréquent au plus rare : toujours, souvent, parfois, rarement, jamais. Ensuite, « měi » veut dire chaque : chaque jour, chaque semaine, chaque mois. Enfin « cì » compte les fois : une fois, deux fois.",
+   "chunks": [
+    [
+     {
+      "fr": "toujours",
+      "tgt": "总是",
+      "ro": "zǒngshì"
+     },
+     {
+      "fr": "souvent",
+      "tgt": "经常",
+      "ro": "jīngcháng"
+     },
+     {
+      "fr": "parfois",
+      "tgt": "有时候",
+      "ro": "yǒushíhou"
+     },
+     {
+      "fr": "de temps en temps",
+      "tgt": "偶尔",
+      "ro": "ǒu'ěr"
+     }
+    ],
+    [
+     {
+      "fr": "rarement",
+      "tgt": "很少",
+      "ro": "hěn shǎo"
+     },
+     {
+      "fr": "jamais, par habitude",
+      "tgt": "从来不",
+      "ro": "cónglái bù"
+     },
+     {
+      "fr": "jamais encore",
+      "tgt": "从来没有",
+      "ro": "cónglái méiyǒu"
+     }
+    ],
+    [
+     {
+      "fr": "chaque jour",
+      "tgt": "每天",
+      "ro": "měitiān"
+     },
+     {
+      "fr": "chaque semaine",
+      "tgt": "每个星期",
+      "ro": "měi ge xīngqī"
+     },
+     {
+      "fr": "chaque mois",
+      "tgt": "每个月",
+      "ro": "měi ge yuè"
+     },
+     {
+      "fr": "chaque année",
+      "tgt": "每年",
+      "ro": "měinián"
+     }
+    ],
+    [
+     {
+      "fr": "une fois",
+      "tgt": "一次",
+      "ro": "yí cì"
+     },
+     {
+      "fr": "deux fois",
+      "tgt": "两次",
+      "ro": "liǎng cì"
+     },
+     {
+      "fr": "beaucoup de fois",
+      "tgt": "很多次",
+      "ro": "hěn duō cì"
+     }
+    ]
+   ]
+  },
+  "2-1-5": {
+   "title": "Les émotions",
+   "intro": "Plusieurs émotions contiennent « xīn », le cœur : « kāixīn », le cœur ouvert, c'est être joyeux, « shāngxīn », le cœur blessé, c'est être triste, et « dānxīn », porter le cœur, c'est s'inquiéter. On va des émotions positives aux plus difficiles.",
+   "chunks": [
+    [
+     {
+      "fr": "content",
+      "tgt": "高兴",
+      "ro": "gāoxìng"
+     },
+     {
+      "fr": "joyeux",
+      "tgt": "开心",
+      "ro": "kāixīn"
+     },
+     {
+      "fr": "excité",
+      "tgt": "兴奋",
+      "ro": "xīngfèn"
+     },
+     {
+      "fr": "satisfait",
+      "tgt": "满意",
+      "ro": "mǎnyì"
+     }
+    ],
+    [
+     {
+      "fr": "peiné",
+      "tgt": "难过",
+      "ro": "nánguò"
+     },
+     {
+      "fr": "triste",
+      "tgt": "伤心",
+      "ro": "shāngxīn"
+     },
+     {
+      "fr": "déçu",
+      "tgt": "失望",
+      "ro": "shīwàng"
+     },
+     {
+      "fr": "en colère",
+      "tgt": "生气",
+      "ro": "shēngqì"
+     }
+    ],
+    [
+     {
+      "fr": "avoir peur",
+      "tgt": "害怕",
+      "ro": "hàipà"
+     },
+     {
+      "fr": "inquiet",
+      "tgt": "担心",
+      "ro": "dānxīn"
+     },
+     {
+      "fr": "nerveux",
+      "tgt": "紧张",
+      "ro": "jǐnzhāng"
+     },
+     {
+      "fr": "pressé",
+      "tgt": "着急",
+      "ro": "zháojí"
+     }
+    ],
+    [
+     {
+      "fr": "fatigué",
+      "tgt": "累",
+      "ro": "lèi"
+     },
+     {
+      "fr": "s'ennuyer",
+      "tgt": "无聊",
+      "ro": "wúliáo"
+     },
+     {
+      "fr": "surpris",
+      "tgt": "惊讶",
+      "ro": "jīngyà"
+     },
+     {
+      "fr": "ému",
+      "tgt": "感动",
+      "ro": "gǎndòng"
+     }
+    ]
+   ]
+  },
+  "2-1-10": {
+   "title": "Les verbes du quotidien",
+   "intro": "Une journée ordinaire en seize verbes, du lever au coucher. Bonne nouvelle : un verbe chinois ne se conjugue jamais. « Chī » veut dire manger, que ce soit je mange, tu as mangé ou nous mangerons.",
+   "chunks": [
+    [
+     {
+      "fr": "se lever",
+      "tgt": "起床",
+      "ro": "qǐchuáng"
+     },
+     {
+      "fr": "se doucher",
+      "tgt": "洗澡",
+      "ro": "xǐzǎo"
+     },
+     {
+      "fr": "s'habiller",
+      "tgt": "穿衣服",
+      "ro": "chuān yīfu"
+     },
+     {
+      "fr": "sortir",
+      "tgt": "出门",
+      "ro": "chūmén"
+     }
+    ],
+    [
+     {
+      "fr": "aller",
+      "tgt": "去",
+      "ro": "qù"
+     },
+     {
+      "fr": "travailler",
+      "tgt": "工作",
+      "ro": "gōngzuò"
+     },
+     {
+      "fr": "acheter",
+      "tgt": "买",
+      "ro": "mǎi"
+     },
+     {
+      "fr": "rentrer à la maison",
+      "tgt": "回家",
+      "ro": "huíjiā"
+     }
+    ],
+    [
+     {
+      "fr": "regarder",
+      "tgt": "看",
+      "ro": "kàn"
+     },
+     {
+      "fr": "écouter",
+      "tgt": "听",
+      "ro": "tīng"
+     },
+     {
+      "fr": "parler",
+      "tgt": "说",
+      "ro": "shuō"
+     },
+     {
+      "fr": "écrire",
+      "tgt": "写",
+      "ro": "xiě"
+     }
+    ],
+    [
+     {
+      "fr": "cuisiner",
+      "tgt": "做饭",
+      "ro": "zuòfàn"
+     },
+     {
+      "fr": "manger",
+      "tgt": "吃",
+      "ro": "chī"
+     },
+     {
+      "fr": "boire",
+      "tgt": "喝",
+      "ro": "hē"
+     },
+     {
+      "fr": "dormir",
+      "tgt": "睡觉",
+      "ro": "shuìjiào"
+     }
+    ]
+   ]
+  },
+  "2-1-15": {
+   "title": "Les animaux",
+   "intro": "Des animaux domestiques aux animaux sauvages. Plusieurs noms d'animaux se retrouvent dans la cuisine : « zhū », le cochon, donne le porc, et « niú », la vache, donne le bœuf et le lait. Et le panda, « xióngmāo », est littéralement l'ours-chat.",
+   "chunks": [
+    [
+     {
+      "fr": "le chien",
+      "tgt": "狗",
+      "ro": "gǒu"
+     },
+     {
+      "fr": "le chat",
+      "tgt": "猫",
+      "ro": "māo"
+     },
+     {
+      "fr": "l'oiseau",
+      "tgt": "鸟",
+      "ro": "niǎo"
+     },
+     {
+      "fr": "le cheval",
+      "tgt": "马",
+      "ro": "mǎ"
+     }
+    ],
+    [
+     {
+      "fr": "la vache",
+      "tgt": "牛",
+      "ro": "niú"
+     },
+     {
+      "fr": "le cochon",
+      "tgt": "猪",
+      "ro": "zhū"
+     },
+     {
+      "fr": "le mouton",
+      "tgt": "羊",
+      "ro": "yáng"
+     },
+     {
+      "fr": "la poule",
+      "tgt": "鸡",
+      "ro": "jī"
+     }
+    ],
+    [
+     {
+      "fr": "le tigre",
+      "tgt": "老虎",
+      "ro": "lǎohǔ"
+     },
+     {
+      "fr": "le panda",
+      "tgt": "熊猫",
+      "ro": "xióngmāo"
+     },
+     {
+      "fr": "le singe",
+      "tgt": "猴子",
+      "ro": "hóuzi"
+     },
+     {
+      "fr": "l'éléphant",
+      "tgt": "大象",
+      "ro": "dàxiàng"
+     }
+    ],
+    [
+     {
+      "fr": "le lapin",
+      "tgt": "兔子",
+      "ro": "tùzi"
+     },
+     {
+      "fr": "la souris",
+      "tgt": "老鼠",
+      "ro": "lǎoshǔ"
+     },
+     {
+      "fr": "le serpent",
+      "tgt": "蛇",
+      "ro": "shé"
+     }
+    ]
+   ]
+  },
+  "2-2-5": {
+   "title": "Les classificateurs",
+   "intro": "En chinois, entre le nombre et le nom, il faut un classificateur. « Ge » est le plus courant, « běn » sert pour les livres, « zhāng » pour les objets plats, « liàng » pour les véhicules, « zhī » pour beaucoup d'animaux, « jiàn » pour les vêtements, « wèi » pour les personnes, avec politesse.",
+   "chunks": [
+    [
+     {
+      "fr": "une personne",
+      "tgt": "一个人",
+      "ro": "yí ge rén"
+     },
+     {
+      "fr": "un livre",
+      "tgt": "一本书",
+      "ro": "yì běn shū"
+     },
+     {
+      "fr": "une feuille de papier",
+      "tgt": "一张纸",
+      "ro": "yì zhāng zhǐ"
+     },
+     {
+      "fr": "un verre d'eau",
+      "tgt": "一杯水",
+      "ro": "yì bēi shuǐ"
+     }
+    ],
+    [
+     {
+      "fr": "une voiture",
+      "tgt": "一辆车",
+      "ro": "yí liàng chē"
+     },
+     {
+      "fr": "un chat",
+      "tgt": "一只猫",
+      "ro": "yì zhī māo"
+     },
+     {
+      "fr": "un vêtement",
+      "tgt": "一件衣服",
+      "ro": "yí jiàn yīfu"
+     },
+     {
+      "fr": "un professeur",
+      "tgt": "一位老师",
+      "ro": "yí wèi lǎoshī"
+     }
+    ],
+    [
+     {
+      "fr": "un poisson",
+      "tgt": "一条鱼",
+      "ro": "yì tiáo yú"
+     },
+     {
+      "fr": "une paire de chaussures",
+      "tgt": "一双鞋",
+      "ro": "yì shuāng xié"
+     },
+     {
+      "fr": "une bouteille de bière",
+      "tgt": "一瓶啤酒",
+      "ro": "yì píng píjiǔ"
+     },
+     {
+      "fr": "une chaise",
+      "tgt": "一把椅子",
+      "ro": "yì bǎ yǐzi"
+     }
+    ]
+   ]
+  },
+  "2-2-10": {
+   "title": "Fruits et légumes",
+   "intro": "Certains noms racontent une histoire : la pastèque, « xīguā », est le melon de l'Ouest, la tomate, « xīhóngshì », le kaki rouge de l'Ouest, et la pomme de terre, « tǔdòu », le haricot de terre. D'abord les fruits, puis les légumes.",
+   "chunks": [
+    [
+     {
+      "fr": "la pomme",
+      "tgt": "苹果",
+      "ro": "píngguǒ"
+     },
+     {
+      "fr": "la banane",
+      "tgt": "香蕉",
+      "ro": "xiāngjiāo"
+     },
+     {
+      "fr": "l'orange",
+      "tgt": "橙子",
+      "ro": "chéngzi"
+     },
+     {
+      "fr": "le raisin",
+      "tgt": "葡萄",
+      "ro": "pútao"
+     }
+    ],
+    [
+     {
+      "fr": "la pastèque",
+      "tgt": "西瓜",
+      "ro": "xīguā"
+     },
+     {
+      "fr": "la fraise",
+      "tgt": "草莓",
+      "ro": "cǎoméi"
+     },
+     {
+      "fr": "la poire",
+      "tgt": "梨",
+      "ro": "lí"
+     },
+     {
+      "fr": "la pêche",
+      "tgt": "桃子",
+      "ro": "táozi"
+     }
+    ],
+    [
+     {
+      "fr": "la pomme de terre",
+      "tgt": "土豆",
+      "ro": "tǔdòu"
+     },
+     {
+      "fr": "la tomate",
+      "tgt": "西红柿",
+      "ro": "xīhóngshì"
+     },
+     {
+      "fr": "la carotte",
+      "tgt": "胡萝卜",
+      "ro": "húluóbo"
+     },
+     {
+      "fr": "le concombre",
+      "tgt": "黄瓜",
+      "ro": "huánggua"
+     }
+    ],
+    [
+     {
+      "fr": "le chou chinois",
+      "tgt": "白菜",
+      "ro": "báicài"
+     },
+     {
+      "fr": "l'oignon",
+      "tgt": "洋葱",
+      "ro": "yángcōng"
+     },
+     {
+      "fr": "le champignon",
+      "tgt": "蘑菇",
+      "ro": "mógu"
+     }
+    ]
+   ]
+  },
+  "2-2-15": {
+   "title": "Les formules de politesse",
+   "intro": "Les formules de politesse, de l'accueil jusqu'au départ. « Nín » est la forme polie de « nǐ », un peu comme vous et tu. Et « bù hǎoyìsi » est très pratique : il sert à la fois à s'excuser et à attirer l'attention.",
+   "chunks": [
+    [
+     {
+      "fr": "bonjour",
+      "tgt": "你好",
+      "ro": "nǐ hǎo"
+     },
+     {
+      "fr": "bonjour, poli",
+      "tgt": "您好",
+      "ro": "nín hǎo"
+     },
+     {
+      "fr": "bonjour, le matin",
+      "tgt": "早上好",
+      "ro": "zǎoshang hǎo"
+     },
+     {
+      "fr": "bonsoir",
+      "tgt": "晚上好",
+      "ro": "wǎnshang hǎo"
+     }
+    ],
+    [
+     {
+      "fr": "s'il vous plaît",
+      "tgt": "请",
+      "ro": "qǐng"
+     },
+     {
+      "fr": "excusez-moi, une question",
+      "tgt": "请问",
+      "ro": "qǐngwèn"
+     },
+     {
+      "fr": "désolé de vous déranger",
+      "tgt": "麻烦你",
+      "ro": "máfan nǐ"
+     },
+     {
+      "fr": "pardon",
+      "tgt": "不好意思",
+      "ro": "bù hǎoyìsi"
+     }
+    ],
+    [
+     {
+      "fr": "merci",
+      "tgt": "谢谢",
+      "ro": "xièxie"
+     },
+     {
+      "fr": "de rien",
+      "tgt": "不客气",
+      "ro": "bú kèqi"
+     },
+     {
+      "fr": "je suis désolé",
+      "tgt": "对不起",
+      "ro": "duìbuqǐ"
+     },
+     {
+      "fr": "ce n'est pas grave",
+      "tgt": "没关系",
+      "ro": "méi guānxi"
+     }
+    ],
+    [
+     {
+      "fr": "au revoir",
+      "tgt": "再见",
+      "ro": "zàijiàn"
+     },
+     {
+      "fr": "à demain",
+      "tgt": "明天见",
+      "ro": "míngtiān jiàn"
+     },
+     {
+      "fr": "rentrez bien",
+      "tgt": "慢走",
+      "ro": "màn zǒu"
+     },
+     {
+      "fr": "bonne nuit",
+      "tgt": "晚安",
+      "ro": "wǎn'ān"
+     }
+    ]
+   ]
+  }
+ }
+}

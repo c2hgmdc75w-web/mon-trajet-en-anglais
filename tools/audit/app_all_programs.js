@@ -56,7 +56,7 @@ const installMock = require('./mock.js');
           const txt = document.getElementById('home').innerText;
           if (/undefined|NaN|\[object|null/.test(txt)) r.dom.push(`accueil niv${lv} mod${mi} : ${(txt.match(/.{0,30}(undefined|NaN|\[object|null).{0,30}/) || [''])[0]}`);
           const rows = document.querySelectorAll('#lessonList .lesson-row').length;
-          const expectRows = MODULES[mi].lessons.filter(l => l.tip).length + 20 + Object.keys(EVAL_NUMBERS).filter(k => k.startsWith(mi + '-')).length + (lv === 0 && mi === 0 ? 1 : 0);
+          const expectRows = MODULES[mi].lessons.filter(l => l.tip).length + MODULES[mi].lessons.filter(l => l.series).length + 20 + Object.keys(EVAL_NUMBERS).filter(k => k.startsWith(mi + '-')).length + (lv === 0 && mi === 0 ? 1 : 0);
           if (rows !== expectRows) r.dom.push(`accueil niv${lv} mod${mi} : ${rows} lignes au lieu de ${expectRows}`);
           for (let li = 0; li < MODULES[mi].lessonsCount; li++) {
             const where = `L${lv + 1}M${mi + 1}l${li + 1}`;
@@ -64,6 +64,8 @@ const installMock = require('./mock.js');
             r.lessonMin.push(check(segs, where) / 60000);
             const lesson = MODULES[mi].lessons[li];
             if (lesson.tip) { try { r.tipSec.push(check(buildTipSegments(lesson.tip, TIP_NUMBERS[mi + '-' + li] || ''), where + '.tip') / 1000); } catch (e) { P(where + '.tip EXCEPTION ' + e.message); } if (!TIP_NUMBERS[mi + '-' + li]) P(where + ' numéro de point de grammaire manquant'); }
+            if (lesson.series) { try { check(buildSeriesSegments(mi, li), where + '.série'); } catch (e) { P(where + '.série EXCEPTION ' + e.message); } }
+            if (lesson.vocab) { (lesson.vocab || []).forEach((w, k) => { if (!w.fr || !w.tgt) P(where + '.vocab[' + k + '] incomplet'); }); }
             const ev = EVAL_NUMBERS[mi + '-' + li];
             if (ev) { try { r.evalMin.push(check(buildEvalSegments(mi, li, ev.isFinal, ev.isFinal ? 'Évaluation finale' : 'Évaluation ' + ev.num), where + '.eval') / 60000); } catch (e) { P(where + '.eval EXCEPTION ' + e.message); } }
           }
