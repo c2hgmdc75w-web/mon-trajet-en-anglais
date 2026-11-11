@@ -1,0 +1,191 @@
+[
+ {
+  "id": "0-0-5",
+  "level": 1,
+  "after_lesson": 6,
+  "theme": "Les nombres de 1 à 10",
+  "allowRepeat": false
+ },
+ {
+  "id": "0-0-10",
+  "level": 1,
+  "after_lesson": 11,
+  "theme": "Les nombres de 11 à 99 : la règle",
+  "allowRepeat": false
+ },
+ {
+  "id": "0-0-15",
+  "level": 1,
+  "after_lesson": 16,
+  "theme": "Les jours de la semaine",
+  "allowRepeat": false
+ },
+ {
+  "id": "0-1-5",
+  "level": 1,
+  "after_lesson": 6,
+  "theme": "Dire l'heure",
+  "allowRepeat": false
+ },
+ {
+  "id": "0-1-10",
+  "level": 1,
+  "after_lesson": 11,
+  "theme": "Les mois et les dates",
+  "allowRepeat": false
+ },
+ {
+  "id": "0-1-15",
+  "level": 1,
+  "after_lesson": 16,
+  "theme": "Les moments : hier, aujourd'hui, demain, ce matin…",
+  "allowRepeat": false
+ },
+ {
+  "id": "0-2-5",
+  "level": 1,
+  "after_lesson": 6,
+  "theme": "La famille",
+  "allowRepeat": false
+ },
+ {
+  "id": "0-2-10",
+  "level": 1,
+  "after_lesson": 11,
+  "theme": "Les couleurs",
+  "allowRepeat": false
+ },
+ {
+  "id": "0-2-15",
+  "level": 1,
+  "after_lesson": 16,
+  "theme": "Les directions et les positions",
+  "allowRepeat": false
+ },
+ {
+  "id": "1-0-5",
+  "level": 2,
+  "after_lesson": 6,
+  "theme": "De 100 à 10 000, et les prix",
+  "allowRepeat": false
+ },
+ {
+  "id": "1-0-10",
+  "level": 2,
+  "after_lesson": 11,
+  "theme": "Les parties du corps",
+  "allowRepeat": false
+ },
+ {
+  "id": "1-0-15",
+  "level": 2,
+  "after_lesson": 16,
+  "theme": "Les pièces et les objets de la maison",
+  "allowRepeat": false
+ },
+ {
+  "id": "1-1-5",
+  "level": 2,
+  "after_lesson": 6,
+  "theme": "Les saisons et la météo",
+  "allowRepeat": false
+ },
+ {
+  "id": "1-1-10",
+  "level": 2,
+  "after_lesson": 11,
+  "theme": "Les transports",
+  "allowRepeat": false
+ },
+ {
+  "id": "1-1-15",
+  "level": 2,
+  "after_lesson": 16,
+  "theme": "Les aliments de base",
+  "allowRepeat": false
+ },
+ {
+  "id": "1-2-5",
+  "level": 2,
+  "after_lesson": 6,
+  "theme": "Les boissons et les plats",
+  "allowRepeat": false
+ },
+ {
+  "id": "1-2-10",
+  "level": 2,
+  "after_lesson": 11,
+  "theme": "Les métiers",
+  "allowRepeat": false
+ },
+ {
+  "id": "1-2-15",
+  "level": 2,
+  "after_lesson": 16,
+  "theme": "Les pays et les nationalités",
+  "allowRepeat": false
+ },
+ {
+  "id": "2-0-5",
+  "level": 3,
+  "after_lesson": 6,
+  "theme": "Les mots interrogatifs",
+  "allowRepeat": false
+ },
+ {
+  "id": "2-0-10",
+  "level": 3,
+  "after_lesson": 11,
+  "theme": "Les contraires",
+  "allowRepeat": false
+ },
+ {
+  "id": "2-0-15",
+  "level": 3,
+  "after_lesson": 16,
+  "theme": "La fréquence : toujours, souvent, parfois, jamais",
+  "allowRepeat": false
+ },
+ {
+  "id": "2-1-5",
+  "level": 3,
+  "after_lesson": 6,
+  "theme": "Les émotions",
+  "allowRepeat": false
+ },
+ {
+  "id": "2-1-10",
+  "level": 3,
+  "after_lesson": 11,
+  "theme": "Les verbes de tous les jours",
+  "allowRepeat": false
+ },
+ {
+  "id": "2-1-15",
+  "level": 3,
+  "after_lesson": 16,
+  "theme": "Les animaux",
+  "allowRepeat": false
+ },
+ {
+  "id": "2-2-5",
+  "level": 3,
+  "after_lesson": 6,
+  "theme": "Les classificateurs les plus courants",
+  "allowRepeat": false
+ },
+ {
+  "id": "2-2-10",
+  "level": 3,
+  "after_lesson": 11,
+  "theme": "Les fruits et les légumes",
+  "allowRepeat": false
+ },
+ {
+  "id": "2-2-15",
+  "level": 3,
+  "after_lesson": 16,
+  "theme": "Les formules de politesse",
+  "allowRepeat": false
+ }
+]

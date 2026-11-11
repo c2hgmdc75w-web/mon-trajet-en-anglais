@@ -1,0 +1,16 @@
+Mission : application audio « Mon Trajet » (chinois mandarin pour francophones, écoute en voiture, sans écran). Écris 27 « séries fermées » : de courtes listes de mots qui vont naturellement ensemble (nombres, jours, couleurs…), apprises par groupes de 3 à 5.
+
+Déroulé audio d'une série (pour que tu écrives en conséquence) : la voix française lit l'intro ; puis pour chaque groupe, elle dit les mots français du groupe (« un, deux, trois »), la voix chinoise dit les mots chinois du groupe, l'élève répète ; puis la série entière d'un bloc ; puis un test dans le désordre (mot français → silence → mot chinois).
+
+Plan imposé : /home/claude/zhv2/series_plan.json (id, niveau, thème). Le niveau 1 vise des débutants complets, le niveau 3 des élèves avancés : adapte le vocabulaire.
+
+Sortie : écris avec l'outil Write /home/claude/zhv2/series.json :
+{ "<id>": { "title": "<thème, court>", "intro": "<1 à 3 phrases en français>", "chunks": [ [ {"fr": "...", "tgt": "...", "ro": "..."}, ... 3 à 5 ], ... 2 à 5 groupes ] }, ... }
+Règles :
+- 8 à 16 éléments par série en tout ; groupes de 3 à 5, dans un ordre logique (lundi→dimanche, 1→10, des couleurs les plus courantes aux moins courantes…).
+- "tgt" en caractères simplifiés uniquement (pas de ponctuation), "ro" en pinyin avec tons, minuscules, "fr" sans ponctuation finale, avec l'article pour les noms.
+- "intro" : lue par la voix FRANÇAISE, donc AUCUN caractère chinois ; elle donne l'astuce qui rend la série facile quand il y en a une (ex. nombres : « dix-un » = 11, « deux-dix » = 20 ; jours : « semaine » + 1, 2, 3… ; mois : 1 + « lune »… ; directions : 左 gauche / 右 droite…). Si tu cites un mot chinois dans l'intro, écris-le en pinyin entre guillemets « ».
+- Série « nombres de 11 à 99 » : choisis des exemples qui montrent la règle (11, 12, 15, 20, 21, 30, 45, 99…). Série « de 100 à 10 000 » : 100, 200, 1 000, 2 000, 10 000 (万), 15 000… et quelques prix en 块.
+- « Dire l'heure » : 一点, 两点 (attention, deux heures = 两点), 三点半, 差五分… ; « les mois » : 一月 à 十二月 (12 éléments) ; « classificateurs » : 个, 本, 张, 杯, 辆, 只, 件, 位… avec un nom chacun (ex. « un livre » = 一本书).
+- Pas deux fois le même "tgt" dans les 27 séries (le script vérifie).
+Puis lance `cd /home/claude/zhv2 && node check_series.js` et corrige jusqu'à « OK ». Réponds « OK séries ».

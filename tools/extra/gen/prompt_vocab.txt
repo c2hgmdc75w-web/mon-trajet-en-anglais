@@ -1,0 +1,15 @@
+Mission : application audio « Mon Trajet » (cours de chinois mandarin pour francophones, écoute en voiture). Pour chaque leçon d'un module, choisis les 6 MOTS DE VOCABULAIRE les plus utiles qui apparaissent dans ses phrases. Ils seront lus dans des évaluations audio : la voix dit le mot en français, l'élève a 2,5 secondes pour le dire en chinois, puis la voix chinoise donne la réponse.
+
+Entrée : /home/claude/zhv2/in___MOD__.json (20 leçons : id, title, phrases {fr, tgt (caractères simplifiés), ro (pinyin), lit (mot à mot, niveau 1 seulement)}).
+Sortie : écris avec l'outil Write /home/claude/zhv2/vocab___MOD__.json :
+{ "<id leçon>": [ {"fr": "...", "tgt": "...", "ro": "..."}, ... 6 mots ], ... } pour les 20 leçons.
+
+Règles :
+- "tgt" = le mot en caractères simplifiés, EXACTEMENT tel qu'il apparaît dans une phrase de la leçon (sous-chaîne d'une phrase). 1 à 4 caractères. Pas de ponctuation.
+- "ro" = pinyin avec les tons (marques sur les voyelles, ex. « zhōngguó », « kāfēi »), en minuscules, syllabes d'un même mot attachées (« péngyou », « bù hǎoyìsi » si deux mots). Prononciation hors contexte (ex. 一 = « yī », 不 = « bù »).
+- "fr" = traduction française courte et naturelle, sans ponctuation finale, avec l'article quand c'est un nom (« le thé », « une gare »), à l'infinitif pour un verbe (« acheter »), au masculin pour un adjectif (« cher »). Si le mot a plusieurs sens, donne celui de la leçon.
+- Choisis des mots PLEINS et réutilisables : noms, verbes, adjectifs, expressions courantes (« 谢谢 », « 多少钱 »). Évite les particules seules (的, 了, 吗, 呢, 吧), les pronoms 我/你/他 sauf dans la toute première leçon, et les noms propres de personnes.
+- Pas deux fois le même mot dans tout le module (le script le vérifie) : si un mot clé est déjà pris dans une leçon précédente, choisis-en un autre.
+- Ordre : du plus utile au moins utile.
+
+Puis lance `cd /home/claude/zhv2 && node check_vocab.js __MOD__` et corrige jusqu'à « OK ». Réponds « OK vocab __MOD__ ».
