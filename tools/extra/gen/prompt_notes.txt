@@ -1,0 +1,18 @@
+Mission : application audio « Mon Trajet » (chinois mandarin pour francophones complets débutants, écoute en voiture, sans écran). Dans chaque leçon du niveau 1, chaque phrase va désormais être présentée ainsi :
+1. la phrase en français ; 2. la phrase en chinois ; 3. le MOT À MOT lu à voix haute en français (ex. « je, aller, Pékin ») ; 4. une EXPLICATION de une ou deux phrases ; 5. la phrase chinoise une dernière fois.
+Tu écris les points 3 et 4 pour les 20 leçons d'un module.
+
+Entrée : /home/claude/zhv2/in___MOD__.json (leçons : id, title, tip = titre du point de grammaire de la leçon s'il y en a un, phrases {fr, tgt, ro, lit}). Liste de tous les points de grammaire du niveau : /home/claude/zhv2/tips_n1.txt.
+Sortie : écris avec l'outil Write /home/claude/zhv2/notes___MOD__.json :
+{ "<id leçon>": [ { "lit": "...", "note": "...", "say": { "<pinyin cité>": "<caractères>" } }, ... une entrée par phrase, dans l'ordre ] }
+
+"lit" = le mot à mot, lisible à voix haute : reprends le champ lit de la phrase, remplace les « · » par des virgules, et remplace les marqueurs entre crochets par une petite formule parlée (ex. « [question] » → « petit mot de question » ; « [accompli] » → « petit mot de l'action accomplie »). Pas de crochets, pas de caractères chinois.
+
+"note" = 1 ou 2 phrases courtes en français (40 à 260 caractères), lues par la voix française, qui expliquent CE QU'ON APPREND dans cette phrase : un pronom (wǒ = je, nǐ = tu, tā = il ou elle, -men = pluriel), une construction (« zài » + lieu, « qù » + lieu sans préposition, « cóng » = depuis, « ma » à la fin = question, pas de conjugaison, l'ordre des mots…), un mot clé. Objectif : que l'élève comprenne comment la phrase est fabriquée pour pouvoir en fabriquer d'autres. Ton chaleureux, simple, oral, pour un débutant complet. Exemple pour « Nous allons à Pékin » : « « wǒmen », c'est « wǒ », je, plus « men », qui met au pluriel : nous. Et après « qù », aller, on met le lieu directement, sans « à ». »
+- Progressif : n'explique pas deux fois la même chose ; si un point a déjà été vu plus tôt dans le module, fais un rappel très court ou explique un autre élément de la phrase.
+- Ne répète pas tout le point de grammaire de la leçon (il est lu à part après la leçon) : donne juste ce qu'il faut pour comprendre la phrase.
+- Parle de PRONONCIATION ou de SENS, jamais d'écriture ni de caractères.
+- Les mots chinois cités dans la note : en pinyin avec tons, entre « », et CHAQUE passage entre « » doit avoir son entrée dans "say" (pinyin → caractères simplifiés), pour être lu par la voix chinoise. Les mots français ne se mettent PAS entre « » (écris « wǒ », je — sans guillemets autour de je).
+- Pas de caractères chinois dans "note" ni dans "lit".
+
+Puis lance `cd /home/claude/zhv2 && node check_notes.js __MOD__` et corrige jusqu'à « OK ». Réponds « OK notes __MOD__ ».
