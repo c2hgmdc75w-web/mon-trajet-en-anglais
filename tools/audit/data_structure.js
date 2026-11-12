@@ -30,7 +30,7 @@ for (const [c, levels] of Object.entries(D)) {
             if (/<[^>]+>/.test(v)) add(c, 'html', `${pid} ${k}: ${v}`);
             if (/\bundefined\b|\bnull\b|\bNaN\b|\[object/.test(v)) add(c, 'undefined', `${pid} ${k}: ${v}`);
           }
-          for (const k of Object.keys(p)) if (!['fr', 'tgt', 'ro', 'lit'].includes(k)) add(c, 'struct', `${pid} champ inattendu ${k}`);
+          for (const k of Object.keys(p)) if (!['fr', 'tgt', 'ro', 'lit', 'note'].includes(k)) add(c, 'struct', `${pid} champ inattendu ${k}`);
           if (p.fr === p.tgt) add(c, 'identique', `${pid} fr==tgt: ${p.fr}`);
           const nl = NONLATIN[c];
           if (nl) {

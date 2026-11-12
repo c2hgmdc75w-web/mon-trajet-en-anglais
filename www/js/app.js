@@ -861,6 +861,22 @@ function buildEvalSegments(mi, anchor, isFinal, evalLabel){
   return segs;
 }
 
+// Explication d'une phrase : français par la voix française, mots cités « … » par la voix native.
+function noteSpeech(p, ex){
+  const map = p.note.say || {}, CTX = 'var(--context)', out = [];
+  const text = p.note.text;
+  const re = /«\s*([^»]+?)\s*»/g; let last = 0, m, buf = '';
+  const flush = ()=>{ const t = buf.replace(/\s+/g,' ').trim(); if(/[A-Za-zÀ-ÿ0-9]/.test(t)) out.push(S(t,'fr',1,'Explication',CTX,'headphones',false,p.fr,p.tgt,ex)); buf=''; };
+  while((m = re.exec(text))){
+    const nat = map[m[1]]; if(!nat) continue;
+    buf += text.slice(last, m.index); flush();
+    out.push(S(nat,'tgt',0.85,'Explication','var(--target)','speaker',false,p.fr,p.tgt,ex));
+    last = re.lastIndex;
+  }
+  buf += text.slice(last); flush();
+  return out;
+}
+
 function buildLessonSegments(mi, li){
   const m = MODULES[mi];
   const lesson = m.lessons[li];
@@ -874,10 +890,11 @@ function buildLessonSegments(mi, li){
   // 2. Aperçu de toutes les phrases françaises
   segs.push(S("Voici les phrases que l'on va apprendre.", 'fr', 1, 'Aperçu des phrases', CTX, 'headphones', false, '', ''));
   segs.push(W(500, 'Aperçu des phrases', CTX, 'headphones', false, '', ''));
+  const withNotes = lesson.phrases.some(p=>p.note); // leçon « expliquée » (essai : chinois, niveau 1)
   lesson.phrases.forEach((p,i)=>{
     const ex = {idx:i, total: lesson.phrases.length};
     segs.push(S(p.fr, 'fr', 1, 'Aperçu des phrases', CTX, 'headphones', false, p.fr, '', ex));
-    segs.push(W(350, 'Aperçu des phrases', CTX, 'headphones', false, p.fr, '', ex));
+    segs.push(W(withNotes ? 200 : 350, 'Aperçu des phrases', CTX, 'headphones', false, p.fr, '', ex));
   });
   segs.push(W(1800, 'Aperçu des phrases', CTX, 'headphones', false, '', ''));
   segs.push(S("C'est parti.", 'fr', 1, 'On y va', TGT, 'speaker', false, '', ''));
@@ -891,6 +908,16 @@ function buildLessonSegments(mi, li){
     segs.push(W(300, 'Écoute en français', CTX, 'headphones', false, p.fr, '', ex));
     segs.push(S(p.tgt, 'tgt', 0.85, `Écoute ${L.inLang}`, TGT, 'speaker', false, p.fr, p.tgt, ex));
     segs.push(W(repeatMs, 'À toi de répéter', SPK, 'repeat', true, p.fr, p.tgt, ex));
+    if(p.note){
+      // Leçon expliquée : mot à mot, puis explication courte, puis la phrase une dernière fois.
+      segs.push(S('Mot à mot : ' + p.note.lit + '.', 'fr', 1, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
+      segs.push(W(400, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
+      segs.push(...noteSpeech(p, ex));
+      segs.push(W(400, 'Explication', CTX, 'headphones', false, p.fr, p.tgt, ex));
+      segs.push(S(p.tgt, 'tgt', 0.85, 'Encore une fois', TGT, 'speaker', false, p.fr, p.tgt, ex));
+      segs.push(W(repeatMs, 'À toi de répéter', SPK, 'repeat', true, p.fr, p.tgt, ex));
+      return;
+    }
     segs.push(S(p.tgt, 'tgt', 0.85, 'Encore une fois', TGT, 'speaker', false, p.fr, p.tgt, ex));
     segs.push(W(repeatMs, 'À toi de répéter', SPK, 'repeat', true, p.fr, p.tgt, ex));
   });

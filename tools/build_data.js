@@ -12,7 +12,8 @@
 //   tools/tips_fix/<code>.json    { "<niv>-<mod>-<leçon>": { title?, body?, example?, exampleRo?, lit? } }
 //   tools/tips_say/<code>.json    { "<niv>-<mod>-<leçon>": { "<passage entre « »>": "<texte lu par la voix native>" } }
 //   tools/extra/<code>.json       { vocab: { "<niv>-<mod>-<leçon>": [ {fr, tgt, ro?}, … ] },        mots de vocabulaire (évaluations mixtes)
-//                                   series: { "<niv>-<mod>-<leçon>": { title, intro, chunks: [[{fr, tgt, ro?}, …], …] } } }   séries fermées
+//                                   series: { "<niv>-<mod>-<leçon>": { title, intro, chunks: [[{fr, tgt, ro?}, …], …] } },   séries fermées
+//                                   notes: { "<niv>-<mod>-<leçon>": [ { lit, note, say }, … une par phrase ] } }   mot à mot parlé + explication par phrase
 //
 // Usage :
 //   node tools/build_data.js                 toutes les langues
@@ -57,8 +58,8 @@ function importClassic(code, file, key) {
 
 function build(code, levels) {
   const PFIX = readJson('phrase_fix', code), FIX = readJson('tips_fix', code), SAY = readJson('tips_say', code);
-  const EXTRA = readJson('extra', code), VOC = EXTRA.vocab || {}, SER = EXTRA.series || {};
-  const used = { PFIX: new Set(), FIX: new Set(), SAY: new Set(), VOC: new Set(), SER: new Set() };
+  const EXTRA = readJson('extra', code), VOC = EXTRA.vocab || {}, SER = EXTRA.series || {}, NOTES = EXTRA.notes || {};
+  const used = { PFIX: new Set(), FIX: new Set(), SAY: new Set(), VOC: new Set(), SER: new Set(), NOTES: new Set() };
   let vocabN = 0, seriesN = 0;
   let phrases = 0, tips = 0, says = 0;
   levels.forEach((lv, a) => lv.modules.forEach((m, b) => m.lessons.forEach((l, c) => {
@@ -67,7 +68,10 @@ function build(code, levels) {
     const lf = PFIX[id]; if (lf) { used.PFIX.add(id); if (lf.title) l.title = lf.title; }
     if (VOC[id]) { used.VOC.add(id); l.vocab = VOC[id]; vocabN += VOC[id].length; } else delete l.vocab;
     if (SER[id]) { used.SER.add(id); l.series = SER[id]; seriesN++; } else delete l.series;
+    const nt = NOTES[id];
+    if (nt) { used.NOTES.add(id); if (nt.length !== l.phrases.length) throw new Error(`${code} ${id} : ${nt.length} notes pour ${l.phrases.length} phrases`); }
     l.phrases.forEach((p, i) => {
+      if (nt) p.note = { lit: nt[i].lit, text: nt[i].note, say: nt[i].say || {} }; else delete p.note;
       phrases++;
       const pf = PFIX[`${id}#${i}`]; if (!pf) return; used.PFIX.add(`${id}#${i}`);
       for (const k of ['fr', 'tgt', 'ro', 'lit']) if (k in pf) { if (pf[k] === null || pf[k] === '') delete p[k]; else p[k] = pf[k]; }
@@ -84,7 +88,7 @@ function build(code, levels) {
     const orphan = Object.keys(obj).filter(k => !set.has(k) && !(name === 'tips_say' && !Object.keys(obj[k]).length));
     if (orphan.length) throw new Error(`${code} : ${name} contient des clés qui ne correspondent à rien : ${orphan.slice(0, 8).join(', ')}`);
   }
-  for (const [name, obj, set] of [['extra.vocab', VOC, used.VOC], ['extra.series', SER, used.SER]]) {
+  for (const [name, obj, set] of [['extra.vocab', VOC, used.VOC], ['extra.series', SER, used.SER], ['extra.notes', NOTES, used.NOTES]]) {
     const orphan = Object.keys(obj).filter(k => !set.has(k));
     if (orphan.length) throw new Error(`${code} : ${name} contient des clés qui ne correspondent à rien : ${orphan.slice(0, 8).join(', ')}`);
   }
