@@ -70,6 +70,14 @@ workflows:
           /usr/libexec/PlistBuddy -c "Add :UIBackgroundModes array" "$PLIST"
           /usr/libexec/PlistBuddy -c "Add :UIBackgroundModes:0 string audio" "$PLIST"
           plutil -lint "$PLIST"
+      - name: Minimum iOS 15 (exigé par Apple à partir d'avril 2027)
+        script: |
+          # Capacitor génère un projet visant iOS 14 ; Apple exige iOS 15 minimum.
+          sed -i '' "s/IPHONEOS_DEPLOYMENT_TARGET = [0-9.]*;/IPHONEOS_DEPLOYMENT_TARGET = 15.0;/g" ios/App/App.xcodeproj/project.pbxproj
+          sed -i '' "s/^platform :ios, *'[0-9.]*'/platform :ios, '15.0'/" ios/App/Podfile
+          grep -n "IPHONEOS_DEPLOYMENT_TARGET" ios/App/App.xcodeproj/project.pbxproj
+          grep -n "platform :ios" ios/App/Podfile || true
+          grep -q "IPHONEOS_DEPLOYMENT_TARGET = 15.0;" ios/App/App.xcodeproj/project.pbxproj || { echo "CIBLE iOS 15 NON APPLIQUEE"; exit 1; }
       - name: Install CocoaPods dependencies
         script: |
           cd ios/App && pod install
