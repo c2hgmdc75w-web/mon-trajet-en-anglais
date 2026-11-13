@@ -873,6 +873,7 @@ function noteSpeech(p, ex){
     const nat = map[m[1]]; if(!nat) continue;
     buf += text.slice(last, m.index); flush();
     out.push(S(nat,'tgt',0.85,'Explication','var(--target)','speaker',false,p.fr,p.tgt,ex));
+    out.push(W(700,'Explication',CTX,'headphones',false,p.fr,p.tgt,ex)); // un peu plus de temps après le mot chinois
     last = re.lastIndex;
   }
   buf += text.slice(last); flush();
@@ -920,7 +921,9 @@ function buildLessonSegments(mi, li){
       segs.push(S('Traduction mot à mot.', 'fr', 1, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
       segs.push(W(350, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
       words.forEach(w=>{
-        segs.push(S(w[0].replace(/\s*\(=[^)]*\)/g, ''), 'fr', 1, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
+        // « je » ou « ce » isolés sonnent coupés avec la voix de l'iPhone : on fait entendre le son « eu ».
+        const frw = w[0].replace(/\s*\(=[^)]*\)/g, '').replace(/^je$/i, 'jeu').replace(/^ce$/i, 'ceux');
+        segs.push(S(frw, 'fr', 1, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
         segs.push(W(GAP, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
       });
       segs.push(W(350, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
