@@ -554,6 +554,8 @@ function estimateSpeechMs(text, lang, rate){
   return Math.round(Math.max(500, (text.length / cps) * 1000) + 250);
 }
 function S(text, lang, rate, label, ringColor, ringIcon, pulse, frDisplay, enDisplay, extra){
+  // La voix française de l'iPhone ne fait pas la liaison : on écrit « mo ta mo » pour l'oreille.
+  if(lang === 'fr') text = text.replace(/mots? à mots?/gi, 'mo ta mo');
   return Object.assign({
     type:'speak', text, lang, rate: rate||1, label,
     ringColor, ringIcon, pulse: !!pulse,
@@ -908,18 +910,28 @@ function buildLessonSegments(mi, li){
     segs.push(W(300, 'Écoute en français', CTX, 'headphones', false, p.fr, '', ex));
     segs.push(S(p.tgt, 'tgt', 0.85, `Écoute ${L.inLang}`, TGT, 'speaker', false, p.fr, p.tgt, ex));
     segs.push(W(repeatMs, 'À toi de répéter', SPK, 'repeat', true, p.fr, p.tgt, ex));
-    if(p.note){
-      // Leçon expliquée : mot à mot, puis explication courte, puis la phrase une dernière fois.
-      segs.push(S('Mot à mot : ' + p.note.lit + '.', 'fr', 1, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
-      segs.push(W(400, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
-      segs.push(...noteSpeech(p, ex));
-      segs.push(W(400, 'Explication', CTX, 'headphones', false, p.fr, p.tgt, ex));
-      segs.push(S(p.tgt, 'tgt', 0.85, 'Encore une fois', TGT, 'speaker', false, p.fr, p.tgt, ex));
-      segs.push(W(repeatMs, 'À toi de répéter', SPK, 'repeat', true, p.fr, p.tgt, ex));
-      return;
-    }
     segs.push(S(p.tgt, 'tgt', 0.85, 'Encore une fois', TGT, 'speaker', false, p.fr, p.tgt, ex));
     segs.push(W(repeatMs, 'À toi de répéter', SPK, 'repeat', true, p.fr, p.tgt, ex));
+    if(p.note){
+      // Leçon expliquée (essai : chinois, niveau 1) : après la phrase dite deux fois,
+      // traduction mot à mot (chaque mot français, un petit temps entre chacun), puis les
+      // mêmes mots dans la langue apprise au même rythme, puis la règle en une ou deux phrases.
+      const GAP = 350, words = p.note.words || [];
+      segs.push(S('Traduction mot à mot.', 'fr', 1, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
+      segs.push(W(350, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
+      words.forEach(w=>{
+        segs.push(S(w[0].replace(/\s*\(=[^)]*\)/g, ''), 'fr', 1, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
+        segs.push(W(GAP, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
+      });
+      segs.push(W(350, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
+      words.forEach(w=>{
+        segs.push(S(w[1], 'tgt', 0.85, `Mot à mot ${L.inLang}`, TGT, 'speaker', false, p.fr, p.tgt, ex));
+        segs.push(W(GAP, `Mot à mot ${L.inLang}`, TGT, 'speaker', false, p.fr, p.tgt, ex));
+      });
+      segs.push(W(350, 'Explication', CTX, 'headphones', false, p.fr, p.tgt, ex));
+      segs.push(...noteSpeech(p, ex));
+      segs.push(W(900, 'Explication', CTX, 'headphones', false, p.fr, p.tgt, ex));
+    }
   });
 
   // 4. Test 1 : ordre mélangé — pause de réflexion, puis réponse x2
