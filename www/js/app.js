@@ -934,6 +934,23 @@ function buildLessonSegments(mi, li){
     }
   });
 
+  // 3 bis. Leçon expliquée : on reprend toutes les phrases (FR une fois, cible deux fois),
+  //         sans mot à mot ni règle, avant de passer aux phrases dans le désordre.
+  if(withNotes){
+    segs.push(S("On reprend toutes les phrases.", 'fr', 1, 'Répétition', TGT, 'speaker', false, '', ''));
+    segs.push(W(500, 'Répétition', TGT, 'speaker', false, '', ''));
+    lesson.phrases.forEach((p,i)=>{
+      const repeatMs = Math.max(2200, (p.ro||p.tgt).length*80) + 3000;
+      const ex = {idx:i, total: lesson.phrases.length};
+      segs.push(S(p.fr, 'fr', 1, 'Écoute en français', CTX, 'headphones', false, p.fr, '', ex));
+      segs.push(W(300, 'Écoute en français', CTX, 'headphones', false, p.fr, '', ex));
+      segs.push(S(p.tgt, 'tgt', 0.85, `Écoute ${L.inLang}`, TGT, 'speaker', false, p.fr, p.tgt, ex));
+      segs.push(W(repeatMs, 'À toi de répéter', SPK, 'repeat', true, p.fr, p.tgt, ex));
+      segs.push(S(p.tgt, 'tgt', 0.85, 'Encore une fois', TGT, 'speaker', false, p.fr, p.tgt, ex));
+      segs.push(W(repeatMs, 'À toi de répéter', SPK, 'repeat', true, p.fr, p.tgt, ex));
+    });
+  }
+
   // 4. Test 1 : ordre mélangé — pause de réflexion, puis réponse x2
   //    (+3s entre les deux répétitions de la réponse, comme demandé)
   segs.push(S("Tu vas tenter de répéter les phrases. Je te les donne dans un ordre différent.", 'fr', 1, 'Phase de test 1', SPK, 'repeat', false, '', ''));
