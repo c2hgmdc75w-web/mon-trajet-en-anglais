@@ -9,7 +9,7 @@ const installMock = require('./mock.js');
   await pg.goto('file://' + require('path').join(__dirname, '..', '..', 'www', 'index.html'));
   await pg.waitForTimeout(800);
   const res = await pg.evaluate(async () => {
-    const NONLATIN = { ar:/[؀-ۿ]/, fa:/[؀-ۿ]/, he:/[֐-׿]/, hi:/[ऀ-ॿ]/, bn:/[ঀ-৿]/, ta:/[஀-௿]/, th:/[฀-๿]/, ja:/[぀-ヿ一-鿿]/, zh:/[一-鿿]/, yue:/[一-鿿]/, ko:/[가-힯ᄀ-ᇿ]/, ru:/[Ѐ-ӿ]/ };
+    const NONLATIN = { ar:/[؀-ۿ]/, fa:/[؀-ۿ]/, he:/[֐-׿]/, hi:/[ऀ-ॿ]/, bn:/[ঀ-৿]/, ta:/[஀-௿]/, th:/[฀-๿]/, ja:/[぀-ヿ\p{Script=Han}]/u, zh:/\p{Script=Han}/u, yue:/\p{Script=Han}/u, ko:/[가-힯ᄀ-ᇿ]/, ru:/[Ѐ-ӿ]/ };
     const ANY = /[Ѐ-ӿ֐-ۿऀ-෿฀-๿぀-ヿ一-鿿가-힯]/;
     const out = {};
     for (const code of LANG_ORDER) {

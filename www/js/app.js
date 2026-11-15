@@ -571,6 +571,10 @@ function frIsolated(word){
     .replace(/(^|[\s'-])(qu|[bcdfghjklmnpqrstvwxzç])e$/i, '$1$2eu')
     .replace(/([bcdfghjklmnpqrstvwxzç])e$/i, '$1eu');
 }
+/* Voix native : un mot dit seul peut être mal lu. Japonais : les particules は et へ
+   se lisent « wa » et « e » dans une phrase, mais « ha » et « he » seules. */
+const TGT_ISOLATED = { ja: { 'は':'わ', 'へ':'え' } };
+function tgtIsolated(word){ const m = TGT_ISOLATED[currentLang]; return (m && m[word]) || word; }
 function S(text, lang, rate, label, ringColor, ringIcon, pulse, frDisplay, enDisplay, extra){
   if(lang === 'fr') text = frVoice(text);
   return Object.assign({
@@ -950,7 +954,7 @@ function buildLessonSegments(mi, li){
       });
       segs.push(W(350, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
       words.forEach(w=>{
-        segs.push(S(w[1], 'tgt', 0.85, `Mot à mot ${L.inLang}`, TGT, 'speaker', false, p.fr, p.tgt, ex));
+        segs.push(S(tgtIsolated(w[1]), 'tgt', 0.85, `Mot à mot ${L.inLang}`, TGT, 'speaker', false, p.fr, p.tgt, ex));
         segs.push(W(GAP, `Mot à mot ${L.inLang}`, TGT, 'speaker', false, p.fr, p.tgt, ex));
       });
       segs.push(W(350, 'Explication', CTX, 'headphones', false, p.fr, p.tgt, ex));
