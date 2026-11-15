@@ -1,0 +1,4830 @@
+{
+ "0-2-0": [
+  {
+   "words": [
+    [
+     "bonjour",
+     "வணக்கம்"
+    ],
+    [
+     "mon",
+     "என்"
+    ],
+    [
+     "nom",
+     "பெயர்"
+    ],
+    [
+     "Lucas",
+     "லூக்காஸ்"
+    ]
+   ],
+   "note": "Le soir aussi, on salue avec « vaṇakkam ». C'est le même mot à toute heure.",
+   "say": {
+    "vaṇakkam": "வணக்கம்"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "நான்"
+    ],
+    [
+     "Meena",
+     "மீனா"
+    ],
+    [
+     "joie",
+     "மகிழ்ச்சி"
+    ]
+   ],
+   "note": "Pour dire enchantée, un seul mot suffit. Joie se dit « Magiḻcchi ».",
+   "say": {
+    "Magiḻcchi": "மகிழ்ச்சி"
+   }
+  },
+  {
+   "words": [
+    [
+     "toi",
+     "நீ"
+    ],
+    [
+     "avec Ravi",
+     "ரவியுடன்"
+    ],
+    [
+     "travail",
+     "வேலை"
+    ],
+    [
+     "faire",
+     "செய்கிறாயா"
+    ]
+   ],
+   "note": "Entre amis, on se tutoie. Tu se dit « nī ».",
+   "say": {
+    "nī": "நீ"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "ஆமாம்"
+    ],
+    [
+     "moi et",
+     "நானும்"
+    ],
+    [
+     "Ravi et",
+     "ரவியும்"
+    ],
+    [
+     "ensemble",
+     "ஒன்றாக"
+    ],
+    [
+     "travail",
+     "வேலை"
+    ],
+    [
+     "faire",
+     "செய்கிறோம்"
+    ]
+   ],
+   "note": "Ensemble se dit « oṉṛāga ». Ravi et moi, c'est moi et, Ravi et.",
+   "say": {
+    "oṉṛāga": "ஒன்றாக"
+   }
+  },
+  {
+   "words": [
+    [
+     "toi",
+     "நீ"
+    ],
+    [
+     "de Ravi",
+     "ரவியின்"
+    ],
+    [
+     "petite sœur",
+     "தங்கையா"
+    ]
+   ],
+   "note": "La petite sœur a son propre mot. Petite sœur se dit « tangai ».",
+   "say": {
+    "tangai": "தங்கை"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "ஆமாம்"
+    ],
+    [
+     "lui",
+     "அவன்"
+    ],
+    [
+     "mon",
+     "என்"
+    ],
+    [
+     "grand frère",
+     "அண்ணன்"
+    ]
+   ],
+   "note": "Grand frère se dit « aṇṇaṉ ». On l'emploie aussi pour un homme un peu plus âgé.",
+   "say": {
+    "aṇṇaṉ": "அண்ணன்"
+   }
+  },
+  {
+   "words": [
+    [
+     "toi",
+     "நீ"
+    ],
+    [
+     "quel",
+     "எந்த"
+    ],
+    [
+     "ville",
+     "ஊர்"
+    ]
+   ],
+   "note": "Pour demander d'où vient quelqu'un, on demande quelle ville. Ville se dit « ūr ».",
+   "say": {
+    "ūr": "ஊர்"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma",
+     "என்"
+    ],
+    [
+     "ville",
+     "ஊர்"
+    ],
+    [
+     "Lyon",
+     "லியோன்"
+    ],
+    [
+     "en France",
+     "பிரான்ஸில்"
+    ]
+   ],
+   "note": "En France se dit « Pirāṉsil ». Le pays vient après la ville, comme en français.",
+   "say": {
+    "Pirāṉsil": "பிரான்ஸில்"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "நான்"
+    ],
+    [
+     "fille de Madurai",
+     "மதுரைக்காரி"
+    ]
+   ],
+   "note": "Une femme de Madurai se dit « Maduraikkāri ». La fin du mot dit d'où l'on vient.",
+   "say": {
+    "Maduraikkāri": "மதுரைக்காரி"
+   }
+  },
+  {
+   "words": [
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "joie",
+     "மகிழ்ச்சி"
+    ],
+    [
+     "Meena",
+     "மீனா"
+    ]
+   ],
+   "note": "Très heureux se dit « romba magiḻcchi ». C'est littéralement très grande joie.",
+   "say": {
+    "romba magiḻcchi": "ரொம்ப மகிழ்ச்சி"
+   }
+  }
+ ],
+ "0-2-1": [
+  {
+   "words": [
+    [
+     "ceci",
+     "இது"
+    ],
+    [
+     "ma",
+     "என்"
+    ],
+    [
+     "maison",
+     "வீடு"
+    ],
+    [
+     "dedans",
+     "உள்ளே"
+    ],
+    [
+     "venir",
+     "வா"
+    ]
+   ],
+   "note": "Entre, c'est viens dedans. Viens se dit « vā ». Entre amis, l'ordre est très court.",
+   "say": {
+    "vā": "வா"
+   }
+  },
+  {
+   "words": [
+    [
+     "ta",
+     "உன்"
+    ],
+    [
+     "maison",
+     "வீடு"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "beau",
+     "அழகு"
+    ]
+   ],
+   "note": "Ton ou ta se dit « uṉ ». C'est la forme pour un ami qu'on tutoie.",
+   "say": {
+    "uṉ": "உன்"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "இது"
+    ],
+    [
+     "de Ravi",
+     "ரவியுடைய"
+    ],
+    [
+     "scooter",
+     "வண்டியா"
+    ]
+   ],
+   "note": "Pour dire de quelqu'un, on ajoute une fin au nom. De Ravi se dit « Raviyuḍaiya ».",
+   "say": {
+    "Raviyuḍaiya": "ரவியுடைய"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "இல்லை"
+    ],
+    [
+     "ceci",
+     "இது"
+    ],
+    [
+     "mon",
+     "என்"
+    ],
+    [
+     "du père",
+     "அப்பாவுடைய"
+    ],
+    [
+     "scooter",
+     "வண்டி"
+    ]
+   ],
+   "note": "Scooter se dit « vaṇḍi ». Ce mot veut dire véhicule, de la charrette au scooter.",
+   "say": {
+    "vaṇḍi": "வண்டி"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "இது"
+    ],
+    [
+     "ma",
+     "என்"
+    ],
+    [
+     "chambre",
+     "அறை"
+    ]
+   ],
+   "note": "Ma ou mon se dit « eṉ ». Il ne change pas, homme ou femme.",
+   "say": {
+    "eṉ": "என்"
+   }
+  },
+  {
+   "words": [
+    [
+     "votre",
+     "உங்கள்"
+    ],
+    [
+     "maison",
+     "வீடு"
+    ],
+    [
+     "grand",
+     "பெரியது"
+    ],
+    [
+     "monsieur",
+     "ஐயா"
+    ]
+   ],
+   "note": "Votre se dit « ungaḷ ». On l'emploie pour un aîné, par respect.",
+   "say": {
+    "ungaḷ": "உங்கள்"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "என்"
+    ],
+    [
+     "téléphone",
+     "போன்"
+    ],
+    [
+     "où",
+     "எங்கே"
+    ]
+   ],
+   "note": "Téléphone se dit « pōṉ ». On utilise souvent ce mot venu de l'anglais.",
+   "say": {
+    "pōṉ": "போன்"
+   }
+  },
+  {
+   "words": [
+    [
+     "ton",
+     "உன்"
+    ],
+    [
+     "téléphone",
+     "போன்"
+    ],
+    [
+     "table",
+     "மேஜை"
+    ],
+    [
+     "sur",
+     "மேல்"
+    ],
+    [
+     "se trouver",
+     "இருக்கிறது"
+    ]
+   ],
+   "note": "Sur se dit « mēl ». Il se place après la table.",
+   "say": {
+    "mēl": "மேல்"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "இது"
+    ],
+    [
+     "de Meena",
+     "மீனாவுடைய"
+    ],
+    [
+     "chat",
+     "பூனை"
+    ]
+   ],
+   "note": "Chat se dit « pūṉai ». On dit simplement ceci, de Meena, chat.",
+   "say": {
+    "pūṉai": "பூனை"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma",
+     "என்"
+    ],
+    [
+     "maison",
+     "வீடு"
+    ],
+    [
+     "ici",
+     "இங்கே"
+    ],
+    [
+     "à côté",
+     "பக்கத்தில்"
+    ]
+   ],
+   "note": "Ici, à côté, sans verbe. À côté se dit « pakkattil ».",
+   "say": {
+    "pakkattil": "பக்கத்தில்"
+   }
+  }
+ ],
+ "0-2-2": [
+  {
+   "words": [
+    [
+     "toi",
+     "நீ"
+    ],
+    [
+     "quel",
+     "எந்த"
+    ],
+    [
+     "depuis le pays",
+     "நாட்டிலிருந்து"
+    ],
+    [
+     "venir",
+     "வருகிறாய்"
+    ]
+   ],
+   "note": "Pays se dit « nāḍu ». Ici, on entend la fin qui veut dire depuis.",
+   "say": {
+    "nāḍu": "நாடு"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "நான்"
+    ],
+    [
+     "depuis la France",
+     "பிரான்ஸிலிருந்து"
+    ],
+    [
+     "venir",
+     "வருகிறேன்"
+    ],
+    [
+     "Lyon",
+     "லியோன்"
+    ],
+    [
+     "côté",
+     "பக்கம்"
+    ]
+   ],
+   "note": "Du côté de Lyon, c'est Lyon, côté. Côté se dit « pakkam ».",
+   "say": {
+    "pakkam": "பக்கம்"
+   }
+  },
+  {
+   "words": [
+    [
+     "maintenant",
+     "இப்போது"
+    ],
+    [
+     "à Madurai",
+     "மதுரையில்"
+    ],
+    [
+     "être",
+     "இருக்கிறாயா"
+    ]
+   ],
+   "note": "Tu es, en question, se dit « irukkiṛāyā ». Avec tu, le verbe a une fin plus courte qu'avec vous.",
+   "say": {
+    "irukkiṛāyā": "இருக்கிறாயா"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "ஆமாம்"
+    ],
+    [
+     "marché aux fleurs",
+     "பூச்சந்தை"
+    ],
+    [
+     "à côté",
+     "பக்கத்தில்"
+    ],
+    [
+     "être",
+     "இருக்கிறேன்"
+    ]
+   ],
+   "note": "Marché aux fleurs se dit « pūcchandai ». C'est littéralement fleur, marché.",
+   "say": {
+    "pūcchandai": "பூச்சந்தை"
+   }
+  },
+  {
+   "words": [
+    [
+     "ta",
+     "உன்"
+    ],
+    [
+     "famille",
+     "குடும்பம்"
+    ],
+    [
+     "en France",
+     "பிரான்ஸிலா"
+    ]
+   ],
+   "note": "La question peut porter sur un lieu, sans verbe. En France, en question, se dit « Pirāṉsilā ».",
+   "say": {
+    "Pirāṉsilā": "பிரான்ஸிலா"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "ஆமாம்"
+    ],
+    [
+     "mon",
+     "என்"
+    ],
+    [
+     "père",
+     "அப்பா"
+    ],
+    [
+     "mère",
+     "அம்மா"
+    ],
+    [
+     "à Lyon",
+     "லியோனில்"
+    ],
+    [
+     "être",
+     "இருக்கிறார்கள்"
+    ]
+   ],
+   "note": "Les parents, c'est simplement papa, maman. Papa se dit « appā ».",
+   "say": {
+    "appā": "அப்பா"
+   }
+  },
+  {
+   "words": [
+    [
+     "toi",
+     "நீ"
+    ],
+    [
+     "un peu",
+     "கொஞ்சம்"
+    ],
+    [
+     "tamoul",
+     "தமிழ்"
+    ],
+    [
+     "parler",
+     "பேசுகிறாயா"
+    ]
+   ],
+   "note": "Tu parles, en question, se dit « pēchugiṛāyā ». C'est une question qu'on entend souvent.",
+   "say": {
+    "pēchugiṛāyā": "பேசுகிறாயா"
+   }
+  },
+  {
+   "words": [
+    [
+     "un peu",
+     "கொஞ்சம்"
+    ],
+    [
+     "je",
+     "நான்"
+    ],
+    [
+     "encore",
+     "இன்னும்"
+    ],
+    [
+     "apprendre",
+     "கற்றுக்கொள்கிறேன்"
+    ]
+   ],
+   "note": "J'apprends se dit « kaṛṛukkoḷgiṛēṉ ». C'est un long verbe, à dire tranquillement.",
+   "say": {
+    "kaṛṛukkoḷgiṛēṉ": "கற்றுக்கொள்கிறேன்"
+   }
+  },
+  {
+   "words": [
+    [
+     "ton",
+     "உன்"
+    ],
+    [
+     "tamoul",
+     "தமிழ்"
+    ],
+    [
+     "bien",
+     "நன்றாக"
+    ],
+    [
+     "être",
+     "இருக்கிறது"
+    ]
+   ],
+   "note": "Bon se dit ici bien. Bien se dit « naṉṛāga ».",
+   "say": {
+    "naṉṛāga": "நன்றாக"
+   }
+  },
+  {
+   "words": [
+    [
+     "Madurai",
+     "மதுரை"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "vieux",
+     "பழைய"
+    ],
+    [
+     "ville",
+     "ஊர்"
+    ]
+   ],
+   "note": "Madurai est l'une des plus vieilles villes de l'Inde. Vieux se dit « paḻaiya ».",
+   "say": {
+    "paḻaiya": "பழைய"
+   }
+  }
+ ],
+ "0-2-3": [
+  {
+   "words": [
+    [
+     "à toi",
+     "உனக்கு"
+    ],
+    [
+     "dosa",
+     "தோசை"
+    ],
+    [
+     "plaire",
+     "பிடிக்குமா"
+    ]
+   ],
+   "note": "Tu aimes, c'est à toi, ça plaît. À toi se dit « uṉakku ».",
+   "say": {
+    "uṉakku": "உனக்கு"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "ஆமாம்"
+    ],
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "croustillant",
+     "மொறுமொறு"
+    ],
+    [
+     "dosa",
+     "தோசை"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "plaire",
+     "பிடிக்கும்"
+    ]
+   ],
+   "note": "Croustillant se dit « moṛumoṛu ». Le mot imite le bruit du croquant.",
+   "say": {
+    "moṛumoṛu": "மொறுமொறு"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "trop",
+     "ரொம்ப"
+    ],
+    [
+     "piquant",
+     "காரம்"
+    ],
+    [
+     "ne pas plaire",
+     "பிடிக்காது"
+    ]
+   ],
+   "note": "Je n'aime pas se dit « piḍikkādu ». C'est la forme négative de ça plaît.",
+   "say": {
+    "piḍikkādu": "பிடிக்காது"
+   }
+  },
+  {
+   "words": [
+    [
+     "à toi",
+     "உனக்கு"
+    ],
+    [
+     "noix de coco",
+     "தேங்காய்"
+    ],
+    [
+     "chutney",
+     "சட்னி"
+    ],
+    [
+     "plaire",
+     "பிடிக்குமா"
+    ]
+   ],
+   "note": "Noix de coco se dit « tēngāy ». Le chutney de coco accompagne presque tous les dosas.",
+   "say": {
+    "tēngāy": "தேங்காய்"
+   }
+  },
+  {
+   "words": [
+    [
+     "à Meena",
+     "மீனாவுக்கு"
+    ],
+    [
+     "sambar",
+     "சாம்பார்"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "plaire",
+     "பிடிக்கும்"
+    ]
+   ],
+   "note": "Pour dire que quelqu'un aime, il prend la fin à. À Meena se dit « Mīṉāvukku ».",
+   "say": {
+    "Mīṉāvukku": "மீனாவுக்கு"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "இந்த"
+    ],
+    [
+     "dosa",
+     "தோசையை"
+    ],
+    [
+     "en partageant",
+     "பகிர்ந்து"
+    ],
+    [
+     "pouvoir manger",
+     "சாப்பிடலாமா"
+    ]
+   ],
+   "note": "En partageant se dit « pagirndu ». On peut manger, en question, termine la phrase.",
+   "say": {
+    "pagirndu": "பகிர்ந்து"
+   }
+  },
+  {
+   "words": [
+    [
+     "bien sûr",
+     "கண்டிப்பாக"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "savoureux",
+     "ருசியாக"
+    ],
+    [
+     "être",
+     "இருக்கிறது"
+    ]
+   ],
+   "note": "Bien sûr se dit « kaṇḍippāga ». C'est un oui très ferme.",
+   "say": {
+    "kaṇḍippāga": "கண்டிப்பாக"
+   }
+  },
+  {
+   "words": [
+    [
+     "café",
+     "காபி"
+    ],
+    [
+     "à toi",
+     "உனக்கு"
+    ],
+    [
+     "plaire",
+     "பிடிக்குமா"
+    ]
+   ],
+   "note": "L'ordre est libre, le café peut venir en premier. Ça te plaît, en question, se dit « piḍikkumā ».",
+   "say": {
+    "piḍikkumā": "பிடிக்குமா"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "இல்லை"
+    ],
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "thé",
+     "டீ"
+    ],
+    [
+     "plaire",
+     "பிடிக்கும்"
+    ]
+   ],
+   "note": "Thé se dit « ṭī ». Le thé est aussi populaire que le café.",
+   "say": {
+    "ṭī": "டீ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "இங்கே"
+    ],
+    [
+     "à tous",
+     "எல்லோருக்கும்"
+    ],
+    [
+     "dosa",
+     "தோசை"
+    ],
+    [
+     "plaire",
+     "பிடிக்கும்"
+    ]
+   ],
+   "note": "Tout le monde se dit « ellōrukkum ». Ici, il prend la fin à.",
+   "say": {
+    "ellōrukkum": "எல்லோருக்கும்"
+   }
+  }
+ ],
+ "0-2-4": [
+  {
+   "words": [
+    [
+     "toi",
+     "நீ"
+    ],
+    [
+     "quel",
+     "என்ன"
+    ],
+    [
+     "travail",
+     "வேலை"
+    ],
+    [
+     "faire",
+     "செய்கிறாய்"
+    ]
+   ],
+   "note": "Pour demander le métier, on dit tu fais quel travail. Travail se dit « vēlai ».",
+   "say": {
+    "vēlai": "வேலை"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "நான்"
+    ],
+    [
+     "une",
+     "ஒரு"
+    ],
+    [
+     "dans l'école",
+     "பள்ளியில்"
+    ],
+    [
+     "français",
+     "பிரெஞ்சு"
+    ],
+    [
+     "enseigner",
+     "கற்பிக்கிறேன்"
+    ]
+   ],
+   "note": "École se dit « paḷḷi ». Ici, il porte la fin dans.",
+   "say": {
+    "paḷḷi": "பள்ளி"
+   }
+  },
+  {
+   "words": [
+    [
+     "Ravi",
+     "ரவி"
+    ],
+    [
+     "une",
+     "ஒரு"
+    ],
+    [
+     "dans la banque",
+     "வங்கியில்"
+    ],
+    [
+     "travail",
+     "வேலை"
+    ],
+    [
+     "faire",
+     "செய்கிறார்"
+    ]
+   ],
+   "note": "Il travaille, avec respect, se dit « cheygiṛār ». On parle ainsi d'un adulte qu'on respecte.",
+   "say": {
+    "cheygiṛār": "செய்கிறார்"
+   }
+  },
+  {
+   "words": [
+    [
+     "Meena",
+     "மீனா"
+    ],
+    [
+     "médecine",
+     "மருத்துவ"
+    ],
+    [
+     "étudiante",
+     "மாணவி"
+    ]
+   ],
+   "note": "Médecine se dit « maruttuva ». On le met devant étudiante, comme un adjectif.",
+   "say": {
+    "maruttuva": "மருத்துவ"
+   }
+  },
+  {
+   "words": [
+    [
+     "à toi",
+     "உனக்கு"
+    ],
+    [
+     "ton",
+     "உன்"
+    ],
+    [
+     "travail",
+     "வேலை"
+    ],
+    [
+     "plaire",
+     "பிடிக்குமா"
+    ]
+   ],
+   "note": "Ton se dit « uṉ ». C'est la forme simple, entre amis.",
+   "say": {
+    "uṉ": "உன்"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "ஆமாம்"
+    ],
+    [
+     "mais",
+     "ஆனால்"
+    ],
+    [
+     "un peu",
+     "கொஞ்சம்"
+    ],
+    [
+     "fatigue",
+     "களைப்பு"
+    ]
+   ],
+   "note": "Mais se dit « āṉāl ». Il ouvre une petite réserve.",
+   "say": {
+    "āṉāl": "ஆனால்"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "என்"
+    ],
+    [
+     "bureau",
+     "அலுவலகம்"
+    ],
+    [
+     "train",
+     "ரயில்"
+    ],
+    [
+     "gare",
+     "நிலையம்"
+    ],
+    [
+     "à côté",
+     "பக்கத்தில்"
+    ]
+   ],
+   "note": "Près de la gare se dit « nilaiyam pakkattil ». Pas besoin de verbe être.",
+   "say": {
+    "nilaiyam pakkattil": "நிலையம் பக்கத்தில்"
+   }
+  },
+  {
+   "words": [
+    [
+     "le matin",
+     "காலையில்"
+    ],
+    [
+     "combien",
+     "எத்தனை"
+    ],
+    [
+     "à l'heure",
+     "மணிக்கு"
+    ],
+    [
+     "travail",
+     "வேலை"
+    ]
+   ],
+   "note": "Pour demander l'heure du début, on dit à quelle heure, travail. Travail se dit « vēlai ».",
+   "say": {
+    "vēlai": "வேலை"
+   }
+  },
+  {
+   "words": [
+    [
+     "neuf",
+     "ஒன்பது"
+    ],
+    [
+     "à l'heure",
+     "மணிக்கு"
+    ],
+    [
+     "début",
+     "ஆரம்பம்"
+    ],
+    [
+     "cinq",
+     "ஐந்து"
+    ],
+    [
+     "à l'heure",
+     "மணிக்கு"
+    ],
+    [
+     "fin",
+     "முடிவு"
+    ]
+   ],
+   "note": "Début se dit « ārambam ». Pour finir, on dit simplement fin.",
+   "say": {
+    "ārambam": "ஆரம்பம்"
+   }
+  },
+  {
+   "words": [
+    [
+     "samedi",
+     "சனிக்கிழமை"
+    ],
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "travail",
+     "வேலை"
+    ],
+    [
+     "ne pas",
+     "இல்லை"
+    ]
+   ],
+   "note": "Samedi se dit « chaṉikkiḻamai ». Les jours de la semaine finissent tous par le même mot.",
+   "say": {
+    "chaṉikkiḻamai": "சனிக்கிழமை"
+   }
+  }
+ ],
+ "0-2-5": [
+  {
+   "words": [
+    [
+     "ceux-ci",
+     "இவர்கள்"
+    ],
+    [
+     "mon",
+     "என்"
+    ],
+    [
+     "père",
+     "அப்பா"
+    ],
+    [
+     "mère",
+     "அம்மா"
+    ]
+   ],
+   "note": "Pour présenter plusieurs personnes, on dit ceux-ci. Ceux-ci se dit « ivargaḷ ».",
+   "say": {
+    "ivargaḷ": "இவர்கள்"
+   }
+  },
+  {
+   "words": [
+    [
+     "bonjour",
+     "வணக்கம்"
+    ],
+    [
+     "monsieur",
+     "ஐயா"
+    ],
+    [
+     "bonjour",
+     "வணக்கம்"
+    ],
+    [
+     "madame",
+     "அம்மா"
+    ]
+   ],
+   "note": "Pour saluer les parents d'un ami, on dit monsieur et madame. Monsieur se dit « aiyā ».",
+   "say": {
+    "aiyā": "ஐயா"
+   }
+  },
+  {
+   "words": [
+    [
+     "celui-ci",
+     "இவர்"
+    ],
+    [
+     "mon",
+     "என்"
+    ],
+    [
+     "grand frère",
+     "அண்ணன்"
+    ],
+    [
+     "Arun",
+     "அருண்"
+    ]
+   ],
+   "note": "Pour présenter quelqu'un avec respect, on dit « ivar ». Ça veut dire celui-ci.",
+   "say": {
+    "ivar": "இவர்"
+   }
+  },
+  {
+   "words": [
+    [
+     "celle-ci",
+     "இவர்"
+    ],
+    [
+     "ma",
+     "என்"
+    ],
+    [
+     "grande sœur",
+     "அக்கா"
+    ],
+    [
+     "Kavitha",
+     "கவிதா"
+    ]
+   ],
+   "note": "Grande sœur se dit « akkā ». Le mot pour celle-ci est le même que pour celui-ci.",
+   "say": {
+    "akkā": "அக்கா"
+   }
+  },
+  {
+   "words": [
+    [
+     "à toi",
+     "உனக்கு"
+    ],
+    [
+     "grand frère",
+     "அண்ணன்"
+    ],
+    [
+     "grande sœur",
+     "அக்கா"
+    ],
+    [
+     "y avoir",
+     "இருக்கிறார்களா"
+    ]
+   ],
+   "note": "Pour la famille, on dit à toi, il y a. Il y a, pour des personnes, se dit « irukkiṛārgaḷā ».",
+   "say": {
+    "irukkiṛārgaḷā": "இருக்கிறார்களா"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "en France",
+     "பிரான்ஸில்"
+    ],
+    [
+     "une",
+     "ஒரு"
+    ],
+    [
+     "grande sœur",
+     "அக்கா"
+    ],
+    [
+     "y avoir",
+     "இருக்கிறார்"
+    ]
+   ],
+   "note": "Pour une grande sœur, le verbe prend la fin du respect. Il y a se dit alors « irukkiṛār ».",
+   "say": {
+    "irukkiṛār": "இருக்கிறார்"
+   }
+  },
+  {
+   "words": [
+    [
+     "ta",
+     "உன்"
+    ],
+    [
+     "mère",
+     "அம்மா"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "bien",
+     "நன்றாக"
+    ],
+    [
+     "cuisiner",
+     "சமைக்கிறார்"
+    ],
+    [
+     "Ravi",
+     "ரவி"
+    ]
+   ],
+   "note": "Elle cuisine, avec respect, se dit « chamaikkiṛār ». On parle toujours d'une mère avec respect.",
+   "say": {
+    "chamaikkiṛār": "சமைக்கிறார்"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "என்"
+    ],
+    [
+     "au grand frère",
+     "அண்ணனுக்கு"
+    ],
+    [
+     "cricket",
+     "கிரிக்கெட்"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "plaire",
+     "பிடிக்கும்"
+    ]
+   ],
+   "note": "Cricket se dit « kirikkeṭ ». C'est le sport roi en Inde.",
+   "say": {
+    "kirikkeṭ": "கிரிக்கெட்"
+   }
+  },
+  {
+   "words": [
+    [
+     "papa",
+     "அப்பா"
+    ],
+    [
+     "celui-ci",
+     "இவர்"
+    ],
+    [
+     "mon",
+     "என்"
+    ],
+    [
+     "ami",
+     "நண்பர்"
+    ],
+    [
+     "Lucas",
+     "லூக்காஸ்"
+    ]
+   ],
+   "note": "Papa se dit « appā ». On l'appelle ainsi même adulte.",
+   "say": {
+    "appā": "அப்பா"
+   }
+  },
+  {
+   "words": [
+    [
+     "ta",
+     "உன்"
+    ],
+    [
+     "famille",
+     "குடும்பம்"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "affectueux",
+     "அன்பானது"
+    ]
+   ],
+   "note": "Famille se dit « kuḍumbam ». Pour une chose, affectueux prend une fin neutre.",
+   "say": {
+    "kuḍumbam": "குடும்பம்"
+   }
+  }
+ ],
+ "0-2-6": [
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "இன்று"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "soleil",
+     "வெயில்"
+    ]
+   ],
+   "note": "Soleil se dit « veyil ». Ce mot désigne surtout la chaleur du soleil.",
+   "say": {
+    "veyil": "வெயில்"
+   }
+  },
+  {
+   "words": [
+    [
+     "à Madurai",
+     "மதுரையில்"
+    ],
+    [
+     "toujours",
+     "எப்போதும்"
+    ],
+    [
+     "soleil",
+     "வெயில்"
+    ]
+   ],
+   "note": "Toujours se dit « eppōdum ». Pas besoin de verbe pour parler du temps.",
+   "say": {
+    "eppōdum": "எப்போதும்"
+   }
+  },
+  {
+   "words": [
+    [
+     "un",
+     "ஒரு"
+    ],
+    [
+     "café",
+     "காபி"
+    ],
+    [
+     "pouvoir boire",
+     "குடிக்கலாமா"
+    ]
+   ],
+   "note": "On boit, en question, se dit « kuḍikkalāmā ». C'est la façon douce de proposer.",
+   "say": {
+    "kuḍikkalāmā": "குடிக்கலாமா"
+   }
+  },
+  {
+   "words": [
+    [
+     "d'accord",
+     "சரி"
+    ],
+    [
+     "sucre",
+     "சர்க்கரை"
+    ],
+    [
+     "un peu",
+     "கொஞ்சம்"
+    ],
+    [
+     "suffire",
+     "போதும்"
+    ]
+   ],
+   "note": "Ça suffit se dit « pōdum ». Très utile pour arrêter quelqu'un qui sert.",
+   "say": {
+    "pōdum": "போதும்"
+   }
+  },
+  {
+   "words": [
+    [
+     "le soir",
+     "மாலையில்"
+    ],
+    [
+     "un peu",
+     "கொஞ்சம்"
+    ],
+    [
+     "vent",
+     "காற்று"
+    ],
+    [
+     "venir",
+     "வரும்"
+    ]
+   ],
+   "note": "Vent se dit « kāṛṛu ». En tamoul, on dit que le vent vient.",
+   "say": {
+    "kāṛṛu": "காற்று"
+   }
+  },
+  {
+   "words": [
+    [
+     "à toi",
+     "உனக்கு"
+    ],
+    [
+     "pluie",
+     "மழை"
+    ],
+    [
+     "plaire",
+     "பிடிக்குமா"
+    ]
+   ],
+   "note": "Pluie se dit « maḻai ». On y entend le son typique entre r et l.",
+   "say": {
+    "maḻai": "மழை"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "ஆமாம்"
+    ],
+    [
+     "ici",
+     "இங்கே"
+    ],
+    [
+     "pluie",
+     "மழை"
+    ],
+    [
+     "un",
+     "ஒரு"
+    ],
+    [
+     "bonheur",
+     "சந்தோஷம்"
+    ]
+   ],
+   "note": "Bonheur se dit « chandōsham ». C'est aussi la joie de tous les jours.",
+   "say": {
+    "chandōsham": "சந்தோஷம்"
+   }
+  },
+  {
+   "words": [
+    [
+     "en France",
+     "பிரான்ஸில்"
+    ],
+    [
+     "froid",
+     "குளிர்"
+    ],
+    [
+     "à la saison",
+     "காலத்தில்"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "froid",
+     "குளிர்"
+    ]
+   ],
+   "note": "L'hiver, c'est la saison froide. Froid se dit « kuḷir ».",
+   "say": {
+    "kuḷir": "குளிர்"
+   }
+  },
+  {
+   "words": [
+    [
+     "à Lyon",
+     "லியோனில்"
+    ],
+    [
+     "neige",
+     "பனி"
+    ],
+    [
+     "tomber",
+     "பெய்யுமா"
+    ]
+   ],
+   "note": "Neige se dit « paṉi ». Pour la neige comme pour la pluie, on dit qu'elle tombe.",
+   "say": {
+    "paṉi": "பனி"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "ஆமாம்"
+    ],
+    [
+     "en janvier",
+     "ஜனவரியில்"
+    ],
+    [
+     "un peu",
+     "கொஞ்சம்"
+    ]
+   ],
+   "note": "Les mois viennent de l'anglais. Janvier se dit « jaṉavari ».",
+   "say": {
+    "jaṉavari": "ஜனவரி"
+   }
+  }
+ ],
+ "0-2-7": [
+  {
+   "words": [
+    [
+     "toi",
+     "நீ"
+    ],
+    [
+     "comment",
+     "எப்படி"
+    ],
+    [
+     "être",
+     "இருக்கிறாய்"
+    ],
+    [
+     "Arun",
+     "அருண்"
+    ]
+   ],
+   "note": "Avec tu, le verbe finit plus court. Tu es se dit « irukkiṛāy ».",
+   "say": {
+    "irukkiṛāy": "இருக்கிறாய்"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "நீங்கள்"
+    ],
+    [
+     "comment",
+     "எப்படி"
+    ],
+    [
+     "être",
+     "இருக்கிறீர்கள்"
+    ],
+    [
+     "monsieur",
+     "ஐயா"
+    ]
+   ],
+   "note": "Avec un aîné, on vouvoie. Vous se dit « nīngaḷ ».",
+   "say": {
+    "nīngaḷ": "நீங்கள்"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "என்னை"
+    ],
+    [
+     "tu",
+     "நீ"
+    ],
+    [
+     "en disant",
+     "என்று"
+    ],
+    [
+     "pouvoir appeler",
+     "கூப்பிடலாம்"
+    ],
+    [
+     "Lucas",
+     "லூக்காஸ்"
+    ]
+   ],
+   "note": "Pour proposer le tutoiement, on dit appelle-moi tu. On peut appeler se dit « kūppiḍalām ».",
+   "say": {
+    "kūppiḍalām": "கூப்பிடலாம்"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "இன்று"
+    ],
+    [
+     "nuit",
+     "இரவு"
+    ],
+    [
+     "toi",
+     "நீ"
+    ],
+    [
+     "venir",
+     "வருகிறாயா"
+    ]
+   ],
+   "note": "Ce soir, tard, c'est aujourd'hui nuit. Nuit se dit « iravu ».",
+   "say": {
+    "iravu": "இரவு"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous aussi",
+     "நீங்களும்"
+    ],
+    [
+     "venir",
+     "வருகிறீர்களா"
+    ],
+    [
+     "madame",
+     "அம்மா"
+    ]
+   ],
+   "note": "Vous aussi se dit « nīngaḷum ». Avec madame, on garde le vous.",
+   "say": {
+    "nīngaḷum": "நீங்களும்"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "நாளை"
+    ],
+    [
+     "à toi",
+     "உனக்கு"
+    ],
+    [
+     "temps",
+     "நேரம்"
+    ],
+    [
+     "y avoir",
+     "இருக்கிறதா"
+    ]
+   ],
+   "note": "Avoir un moment, c'est à toi, il y a du temps. À toi se dit « uṉakku ».",
+   "say": {
+    "uṉakku": "உனக்கு"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "நீங்கள்"
+    ],
+    [
+     "homme de Madurai",
+     "மதுரைக்காரரா"
+    ],
+    [
+     "monsieur",
+     "ஐயா"
+    ]
+   ],
+   "note": "Un homme de Madurai se dit « Maduraikkārar ». Ici, il porte le a de question.",
+   "say": {
+    "Maduraikkārar": "மதுரைக்காரர்"
+   }
+  },
+  {
+   "words": [
+    [
+     "à toi",
+     "உனக்கு"
+    ],
+    [
+     "avoir faim",
+     "பசிக்கிறதா"
+    ]
+   ],
+   "note": "Tu as faim, en question, se dit « pachikkiṛadā ». On dit à toi, ça a faim.",
+   "say": {
+    "pachikkiṛadā": "பசிக்கிறதா"
+   }
+  },
+  {
+   "words": [
+    [
+     "à vous",
+     "உங்களுக்கு"
+    ],
+    [
+     "avoir faim",
+     "பசிக்கிறதா"
+    ],
+    [
+     "madame",
+     "அம்மா"
+    ]
+   ],
+   "note": "Avec vous, seul le premier mot change. À vous se dit « ungaḷukku ».",
+   "say": {
+    "ungaḷukku": "உங்களுக்கு"
+   }
+  },
+  {
+   "words": [
+    [
+     "maintenant",
+     "இப்போது"
+    ],
+    [
+     "toi et",
+     "நீயும்"
+    ],
+    [
+     "moi et",
+     "நானும்"
+    ],
+    [
+     "amis",
+     "நண்பர்கள்"
+    ]
+   ],
+   "note": "Amis se dit « naṇbargaḷ ». Toi et moi, c'est toi et, moi et.",
+   "say": {
+    "naṇbargaḷ": "நண்பர்கள்"
+   }
+  }
+ ],
+ "0-2-8": [
+  {
+   "words": [
+    [
+     "marché aux fleurs",
+     "பூச்சந்தை"
+    ],
+    [
+     "à l'aube",
+     "அதிகாலையில்"
+    ],
+    [
+     "ouvrir",
+     "திறக்கும்"
+    ]
+   ],
+   "note": "L'aube se dit « adigālai ». C'est littéralement le grand matin.",
+   "say": {
+    "adigālai": "அதிகாலை"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "இந்த"
+    ],
+    [
+     "jasmin",
+     "மல்லிகைப்பூ"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "beau",
+     "அழகு"
+    ]
+   ],
+   "note": "Jasmin se dit « malligaippū ». Les femmes le portent tressé dans les cheveux.",
+   "say": {
+    "malligaippū": "மல்லிகைப்பூ"
+   }
+  },
+  {
+   "words": [
+    [
+     "Madurai",
+     "மதுரை"
+    ],
+    [
+     "jasmin",
+     "மல்லி"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "célèbre",
+     "பிரபலம்"
+    ]
+   ],
+   "note": "Célèbre se dit « pirapalam ». Le jasmin de Madurai est connu dans toute l'Inde.",
+   "say": {
+    "pirapalam": "பிரபலம்"
+   }
+  },
+  {
+   "words": [
+    [
+     "une",
+     "ஒரு"
+    ],
+    [
+     "coudée",
+     "முழம்"
+    ],
+    [
+     "combien",
+     "எவ்வளவு"
+    ]
+   ],
+   "note": "Le jasmin se vend à la coudée, du coude au bout des doigts. Coudée se dit « muḻam ».",
+   "say": {
+    "muḻam": "முழம்"
+   }
+  },
+  {
+   "words": [
+    [
+     "une",
+     "ஒரு"
+    ],
+    [
+     "coudée",
+     "முழம்"
+    ],
+    [
+     "trente",
+     "முப்பது"
+    ],
+    [
+     "roupie",
+     "ரூபாய்"
+    ]
+   ],
+   "note": "Trente se dit « muppadu ». Le prix vient après la quantité.",
+   "say": {
+    "muppadu": "முப்பது"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "இது"
+    ],
+    [
+     "de Ravi",
+     "ரவியுடைய"
+    ],
+    [
+     "pour la mère",
+     "அம்மாவுக்கு"
+    ]
+   ],
+   "note": "Pour sa mère se dit « ammāvukku ». On ajoute la fin pour à mère.",
+   "say": {
+    "ammāvukku": "அம்மாவுக்கு"
+   }
+  },
+  {
+   "words": [
+    [
+     "à elle",
+     "அவருக்கு"
+    ],
+    [
+     "fleur",
+     "பூ"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "plaire",
+     "பிடிக்கும்"
+    ]
+   ],
+   "note": "Fleur se dit « pū ». Un mot très court, à retenir.",
+   "say": {
+    "pū": "பூ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "இந்த"
+    ],
+    [
+     "rouge",
+     "சிவப்பு"
+    ],
+    [
+     "rose",
+     "ரோஜா"
+    ],
+    [
+     "combien",
+     "எவ்வளவு"
+    ]
+   ],
+   "note": "Rouge se dit « chivappu ». La couleur se place avant le nom.",
+   "say": {
+    "chivappu": "சிவப்பு"
+   }
+  },
+  {
+   "words": [
+    [
+     "un",
+     "ஒன்று"
+    ],
+    [
+     "dix",
+     "பத்து"
+    ],
+    [
+     "roupie",
+     "ரூபாய்"
+    ]
+   ],
+   "note": "La rose, c'est une, dix roupies. Un, tout seul, se dit « oṉṛu ».",
+   "say": {
+    "oṉṛu": "ஒன்று"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "இன்று"
+    ],
+    [
+     "matin",
+     "காலை"
+    ],
+    [
+     "beaucoup",
+     "நிறைய"
+    ],
+    [
+     "foule",
+     "கூட்டம்"
+    ]
+   ],
+   "note": "Quelle foule, c'est beaucoup de foule. Foule se dit « kūṭṭam ».",
+   "say": {
+    "kūṭṭam": "கூட்டம்"
+   }
+  }
+ ],
+ "0-2-9": [
+  {
+   "words": [
+    [
+     "que Madurai",
+     "மதுரையை"
+    ],
+    [
+     "que",
+     "விட"
+    ],
+    [
+     "Chennai",
+     "சென்னை"
+    ],
+    [
+     "grand",
+     "பெரியது"
+    ]
+   ],
+   "note": "Pour comparer, on met d'abord l'autre ville, puis plus que. Plus que se dit « viḍa ».",
+   "say": {
+    "viḍa": "விட"
+   }
+  },
+  {
+   "words": [
+    [
+     "mais",
+     "ஆனால்"
+    ],
+    [
+     "que Chennai",
+     "சென்னையை"
+    ],
+    [
+     "que",
+     "விட"
+    ],
+    [
+     "Madurai",
+     "மதுரை"
+    ],
+    [
+     "calme",
+     "அமைதியானது"
+    ]
+   ],
+   "note": "Calme se dit « amaidiyāṉadu ». L'adjectif vient tout à la fin.",
+   "say": {
+    "amaidiyāṉadu": "அமைதியானது"
+   }
+  },
+  {
+   "words": [
+    [
+     "que le café",
+     "காபியை"
+    ],
+    [
+     "que",
+     "விட"
+    ],
+    [
+     "jigarthanda",
+     "ஜிகர்தண்டா"
+    ],
+    [
+     "bon",
+     "நல்லது"
+    ]
+   ],
+   "note": "Le jigarthanda est une boisson fraîche, spécialité de Madurai. Meilleur se dit simplement « nalladu ».",
+   "say": {
+    "nalladu": "நல்லது"
+   }
+  },
+  {
+   "words": [
+    [
+     "que toi",
+     "உன்னை"
+    ],
+    [
+     "que",
+     "விட"
+    ],
+    [
+     "ton",
+     "உன்"
+    ],
+    [
+     "grand frère",
+     "அண்ணன்"
+    ],
+    [
+     "grand",
+     "உயரமா"
+    ]
+   ],
+   "note": "On met d'abord la personne à qui l'on compare. Plus que toi se dit « uṉṉai viḍa ».",
+   "say": {
+    "uṉṉai viḍa": "உன்னை விட"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "ஆமாம்"
+    ],
+    [
+     "lui",
+     "அவன்"
+    ],
+    [
+     "que moi",
+     "என்னை"
+    ],
+    [
+     "que",
+     "விட"
+    ],
+    [
+     "grand",
+     "உயரம்"
+    ]
+   ],
+   "note": "Grand, pour la taille, se dit « uyaram ». C'est un autre mot que grand pour une chose.",
+   "say": {
+    "uyaram": "உயரம்"
+   }
+  },
+  {
+   "words": [
+    [
+     "que la France",
+     "பிரான்ஸை"
+    ],
+    [
+     "que",
+     "விட"
+    ],
+    [
+     "ici",
+     "இங்கே"
+    ],
+    [
+     "dosa",
+     "தோசை"
+    ],
+    [
+     "saveur",
+     "ருசி"
+    ]
+   ],
+   "note": "Meilleur, ici, c'est simplement saveur. Saveur se dit « ruchi ».",
+   "say": {
+    "ruchi": "ருசி"
+   }
+  },
+  {
+   "words": [
+    [
+     "que le taxi",
+     "டாக்ஸியை"
+    ],
+    [
+     "que",
+     "விட"
+    ],
+    [
+     "train",
+     "ரயில்"
+    ],
+    [
+     "bon marché",
+     "மலிவு"
+    ]
+   ],
+   "note": "Bon marché se dit « malivu ». C'est le contraire de cher.",
+   "say": {
+    "malivu": "மலிவு"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "que la télé",
+     "டிவியை"
+    ],
+    [
+     "que",
+     "விட"
+    ],
+    [
+     "cinéma",
+     "சினிமா"
+    ],
+    [
+     "plaire",
+     "பிடிக்கும்"
+    ]
+   ],
+   "note": "Pour je préfère, on combine plus que et ça plaît. Cinéma se dit « chiṉimā ».",
+   "say": {
+    "chiṉimā": "சினிமா"
+   }
+  },
+  {
+   "words": [
+    [
+     "ta",
+     "உன்"
+    ],
+    [
+     "petite sœur",
+     "தங்கை"
+    ],
+    [
+     "que toi",
+     "உன்னை"
+    ],
+    [
+     "que",
+     "விட"
+    ],
+    [
+     "petit",
+     "சின்னவளா"
+    ]
+   ],
+   "note": "Plus jeune, c'est plus petite. Plus petite, en question, se dit « chiṉṉavaḷā ».",
+   "say": {
+    "chiṉṉavaḷā": "சின்னவளா"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "ஆமாம்"
+    ],
+    [
+     "deux",
+     "இரண்டு"
+    ],
+    [
+     "âge",
+     "வயது"
+    ],
+    [
+     "petit",
+     "சின்னவள்"
+    ]
+   ],
+   "note": "Âge se dit « vayadu ». Deux ans de moins, c'est deux ans plus petite.",
+   "say": {
+    "vayadu": "வயது"
+   }
+  }
+ ],
+ "0-2-10": [
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "இன்று"
+    ],
+    [
+     "nuit",
+     "இரவு"
+    ],
+    [
+     "au cinéma",
+     "சினிமாவுக்கு"
+    ],
+    [
+     "pouvoir aller",
+     "போகலாமா"
+    ]
+   ],
+   "note": "Cinéma se dit « chiṉimā ». Le cinéma tamoul est une vraie passion.",
+   "say": {
+    "chiṉimā": "சினிமா"
+   }
+  },
+  {
+   "words": [
+    [
+     "un",
+     "ஒரு"
+    ],
+    [
+     "nouveau",
+     "புதிய"
+    ],
+    [
+     "tamoul",
+     "தமிழ்"
+    ],
+    [
+     "film",
+     "படம்"
+    ],
+    [
+     "y avoir",
+     "இருக்கிறது"
+    ]
+   ],
+   "note": "Film se dit « paḍam ». Le même mot veut dire aussi image.",
+   "say": {
+    "paḍam": "படம்"
+   }
+  },
+  {
+   "words": [
+    [
+     "film",
+     "படம்"
+    ],
+    [
+     "neuf",
+     "ஒன்பது"
+    ],
+    [
+     "à l'heure",
+     "மணிக்கு"
+    ],
+    [
+     "début",
+     "ஆரம்பம்"
+    ]
+   ],
+   "note": "Le film commence, c'est film, début. Début se dit « ārambam ».",
+   "say": {
+    "ārambam": "ஆரம்பம்"
+   }
+  },
+  {
+   "words": [
+    [
+     "billet",
+     "டிக்கெட்"
+    ],
+    [
+     "combien",
+     "எவ்வளவு"
+    ]
+   ],
+   "note": "Combien se dit « evvaḷavu ». On ne met pas de verbe.",
+   "say": {
+    "evvaḷavu": "எவ்வளவு"
+   }
+  },
+  {
+   "words": [
+    [
+     "pour une personne",
+     "ஒருவருக்கு"
+    ],
+    [
+     "cent cinquante",
+     "நூற்றைம்பது"
+    ],
+    [
+     "roupie",
+     "ரூபாய்"
+    ]
+   ],
+   "note": "Par personne se dit « oruvarukku ». C'est littéralement pour une personne.",
+   "say": {
+    "oruvarukku": "ஒருவருக்கு"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "action",
+     "ஆக்ஷன்"
+    ],
+    [
+     "films",
+     "படங்கள்"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "plaire",
+     "பிடிக்கும்"
+    ]
+   ],
+   "note": "Films se dit « paḍangaḷ ». On entend la marque du pluriel à la fin.",
+   "say": {
+    "paḍangaḷ": "படங்கள்"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "comédie",
+     "காமெடி"
+    ],
+    [
+     "film",
+     "படம்"
+    ],
+    [
+     "plaire",
+     "பிடிக்கும்"
+    ]
+   ],
+   "note": "Comédie se dit « kāmeḍi ». Encore un mot venu de l'anglais.",
+   "say": {
+    "kāmeḍi": "காமெடி"
+   }
+  },
+  {
+   "words": [
+    [
+     "pop-corn",
+     "பாப்கார்ன்"
+    ],
+    [
+     "pouvoir acheter",
+     "வாங்கலாமா"
+    ]
+   ],
+   "note": "On achète, en question, se dit « vāngalāmā ». C'est la façon de proposer.",
+   "say": {
+    "vāngalāmā": "வாங்கலாமா"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "இந்த"
+    ],
+    [
+     "dans le film",
+     "படத்தில்"
+    ],
+    [
+     "héros",
+     "ஹீரோ"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "bien",
+     "நன்றாக"
+    ],
+    [
+     "chanter",
+     "பாடுகிறார்"
+    ]
+   ],
+   "note": "Chante se dit « pāḍugiṛār ». Dans les films tamouls, les héros chantent presque toujours.",
+   "say": {
+    "pāḍugiṛār": "பாடுகிறார்"
+   }
+  },
+  {
+   "words": [
+    [
+     "chansons",
+     "பாடல்கள்"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "beau",
+     "அழகு"
+    ]
+   ],
+   "note": "Chansons se dit « pāḍalgaḷ ». Les chansons de film passent partout à la radio.",
+   "say": {
+    "pāḍalgaḷ": "பாடல்கள்"
+   }
+  }
+ ],
+ "0-2-11": [
+  {
+   "words": [
+    [
+     "toi",
+     "நீ"
+    ],
+    [
+     "pourquoi",
+     "ஏன்"
+    ],
+    [
+     "à la maison",
+     "வீட்டில்"
+    ],
+    [
+     "être",
+     "இருக்கிறாய்"
+    ]
+   ],
+   "note": "Pourquoi se dit « ēṉ ». Il se place juste après le sujet.",
+   "say": {
+    "ēṉ": "ஏன்"
+   }
+  },
+  {
+   "words": [
+    [
+     "parce que",
+     "ஏனென்றால்"
+    ],
+    [
+     "demain",
+     "நாளை"
+    ],
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "travail",
+     "வேலை"
+    ],
+    [
+     "y avoir",
+     "இருக்கிறது"
+    ]
+   ],
+   "note": "Parce que se dit « ēṉeṉṛāl ». Il ouvre la phrase de réponse.",
+   "say": {
+    "ēṉeṉṛāl": "ஏனென்றால்"
+   }
+  },
+  {
+   "words": [
+    [
+     "à toi",
+     "உனக்கு"
+    ],
+    [
+     "pourquoi",
+     "ஏன்"
+    ],
+    [
+     "Madurai",
+     "மதுரை"
+    ],
+    [
+     "plaire",
+     "பிடிக்கும்"
+    ]
+   ],
+   "note": "La question pourquoi marche aussi avec ça plaît. Ça plaît se dit « piḍikkum ».",
+   "say": {
+    "piḍikkum": "பிடிக்கும்"
+   }
+  },
+  {
+   "words": [
+    [
+     "parce que",
+     "ஏனென்றால்"
+    ],
+    [
+     "ici",
+     "இங்கே"
+    ],
+    [
+     "gens",
+     "மக்கள்"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "affectueux",
+     "அன்பானவர்கள்"
+    ]
+   ],
+   "note": "Les gens se dit « romba ». Chaleureux, c'est ici affectueux.",
+   "say": {
+    "romba": "ரொம்ப"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "நான்"
+    ],
+    [
+     "fatigué",
+     "களைப்பாக"
+    ],
+    [
+     "être",
+     "இருக்கிறேன்"
+    ],
+    [
+     "parce que",
+     "ஏனென்றால்"
+    ],
+    [
+     "trop",
+     "ரொம்ப"
+    ],
+    [
+     "soleil",
+     "வெயில்"
+    ]
+   ],
+   "note": "Parce que peut aussi venir au milieu, après une pause. Je suis se dit « irukkiṛēṉ ».",
+   "say": {
+    "irukkiṛēṉ": "இருக்கிறேன்"
+   }
+  },
+  {
+   "words": [
+    [
+     "Meena",
+     "மீனா"
+    ],
+    [
+     "pourquoi",
+     "ஏன்"
+    ],
+    [
+     "ici",
+     "இங்கே"
+    ],
+    [
+     "ne pas",
+     "இல்லை"
+    ]
+   ],
+   "note": "N'est pas là, c'est ici, pas. Pas se dit « illai ».",
+   "say": {
+    "illai": "இல்லை"
+   }
+  },
+  {
+   "words": [
+    [
+     "parce que",
+     "ஏனென்றால்"
+    ],
+    [
+     "demain",
+     "நாளை"
+    ],
+    [
+     "à elle",
+     "அவளுக்கு"
+    ],
+    [
+     "examen",
+     "பரீட்சை"
+    ]
+   ],
+   "note": "Examen se dit « parīṭchai ». On dit à elle, examen.",
+   "say": {
+    "parīṭchai": "பரீட்சை"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "நான்"
+    ],
+    [
+     "tamoul",
+     "தமிழ்"
+    ],
+    [
+     "apprendre",
+     "கற்றுக்கொள்கிறேன்"
+    ],
+    [
+     "parce que",
+     "ஏனென்றால்"
+    ],
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "tamoul",
+     "தமிழ்"
+    ],
+    [
+     "plaire",
+     "பிடிக்கும்"
+    ]
+   ],
+   "note": "Ça plaît se dit « piḍikkum ». La raison vient après parce que, au milieu de la phrase.",
+   "say": {
+    "piḍikkum": "பிடிக்கும்"
+   }
+  },
+  {
+   "words": [
+    [
+     "toi",
+     "நீ"
+    ],
+    [
+     "pourquoi",
+     "ஏன்"
+    ],
+    [
+     "rire",
+     "சிரிக்கிறாய்"
+    ]
+   ],
+   "note": "Tu ris se dit « chirikkiṛāy ». Le verbe finit court, car on tutoie.",
+   "say": {
+    "chirikkiṛāy": "சிரிக்கிறாய்"
+   }
+  },
+  {
+   "words": [
+    [
+     "parce que",
+     "ஏனென்றால்"
+    ],
+    [
+     "ton",
+     "உன்"
+    ],
+    [
+     "histoire",
+     "கதை"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "amusant",
+     "வேடிக்கை"
+    ]
+   ],
+   "note": "Histoire se dit « kadai ». Drôle, c'est ici amusant.",
+   "say": {
+    "kadai": "கதை"
+   }
+  }
+ ],
+ "0-2-12": [
+  {
+   "words": [
+    [
+     "semaine",
+     "வார"
+    ],
+    [
+     "à la fin",
+     "இறுதியில்"
+    ],
+    [
+     "toi",
+     "நீ"
+    ],
+    [
+     "quoi",
+     "என்ன"
+    ],
+    [
+     "faire",
+     "செய்கிறாய்"
+    ]
+   ],
+   "note": "Le week-end, c'est la fin de la semaine. Semaine se dit « vāra ».",
+   "say": {
+    "vāra": "வார"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "நான்"
+    ],
+    [
+     "livre",
+     "புத்தகம்"
+    ],
+    [
+     "lire",
+     "படிக்கிறேன்"
+    ],
+    [
+     "image",
+     "படம்"
+    ],
+    [
+     "dessiner",
+     "வரைகிறேன்"
+    ]
+   ],
+   "note": "Je dessine se dit « varaigiṛēṉ ». Deux actions se suivent, sans et.",
+   "say": {
+    "varaigiṛēṉ": "வரைகிறேன்"
+   }
+  },
+  {
+   "words": [
+    [
+     "toi",
+     "நீ"
+    ],
+    [
+     "quelque",
+     "ஏதாவது"
+    ],
+    [
+     "instrument",
+     "இசைக்கருவி"
+    ],
+    [
+     "jouer",
+     "வாசிக்கிறாயா"
+    ]
+   ],
+   "note": "Jouer d'un instrument a un verbe à part. Tu joues, en question, se dit « vāchikkiṛāyā ».",
+   "say": {
+    "vāchikkiṛāyā": "வாசிக்கிறாயா"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "ஆமாம்"
+    ],
+    [
+     "je",
+     "நான்"
+    ],
+    [
+     "un peu",
+     "கொஞ்சம்"
+    ],
+    [
+     "violon",
+     "வயலின்"
+    ],
+    [
+     "jouer",
+     "வாசிக்கிறேன்"
+    ]
+   ],
+   "note": "Violon se dit « vayaliṉ ». Le violon est très présent dans la musique classique du Sud de l'Inde.",
+   "say": {
+    "vayaliṉ": "வயலின்"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma",
+     "என்"
+    ],
+    [
+     "petite sœur",
+     "தங்கை"
+    ],
+    [
+     "danse",
+     "நடனம்"
+    ],
+    [
+     "apprendre",
+     "கற்றுக்கொள்கிறாள்"
+    ]
+   ],
+   "note": "Danse se dit « naḍaṉam ». La danse classique tamoule est célèbre dans le monde entier.",
+   "say": {
+    "naḍaṉam": "நடனம்"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "le soir",
+     "மாலையில்"
+    ],
+    [
+     "marcher",
+     "நடக்க"
+    ],
+    [
+     "plaire",
+     "பிடிக்கும்"
+    ]
+   ],
+   "note": "Pour aimer faire, on met le verbe avant ça plaît. Marcher se dit « naḍakka ».",
+   "say": {
+    "naḍakka": "நடக்க"
+   }
+  },
+  {
+   "words": [
+    [
+     "à toi",
+     "உனக்கு"
+    ],
+    [
+     "cuisiner",
+     "சமைக்க"
+    ],
+    [
+     "plaire",
+     "பிடிக்குமா"
+    ]
+   ],
+   "note": "Cuisiner se dit « chamaikka ». Ça te plaît, en question, termine la phrase.",
+   "say": {
+    "chamaikka": "சமைக்க"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "நான்"
+    ],
+    [
+     "surtout",
+     "பெரும்பாலும்"
+    ],
+    [
+     "français",
+     "பிரெஞ்சு"
+    ],
+    [
+     "repas",
+     "சாப்பாடு"
+    ],
+    [
+     "cuisiner",
+     "சமைக்கிறேன்"
+    ]
+   ],
+   "note": "Surtout se dit « perumbālum ». Il veut dire la plupart du temps.",
+   "say": {
+    "perumbālum": "பெரும்பாலும்"
+   }
+  },
+  {
+   "words": [
+    [
+     "semaine",
+     "வார"
+    ],
+    [
+     "à la fin",
+     "இறுதியில்"
+    ],
+    [
+     "je",
+     "நான்"
+    ],
+    [
+     "beaucoup",
+     "நிறைய"
+    ],
+    [
+     "dormir",
+     "தூங்குகிறேன்"
+    ]
+   ],
+   "note": "Je dors se dit « tūngugiṛēṉ ». Beaucoup se place juste avant.",
+   "say": {
+    "tūngugiṛēṉ": "தூங்குகிறேன்"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "நான்"
+    ],
+    [
+     "avec les amis",
+     "நண்பர்களுடன்"
+    ],
+    [
+     "vélo",
+     "சைக்கிள்"
+    ],
+    [
+     "conduire",
+     "ஓட்டுகிறேன்"
+    ]
+   ],
+   "note": "Avec mes amis se dit « naṇbargaḷuḍaṉ ». Faire du vélo, c'est conduire un vélo.",
+   "say": {
+    "naṇbargaḷuḍaṉ": "நண்பர்களுடன்"
+   }
+  }
+ ],
+ "0-2-13": [
+  {
+   "words": [
+    [
+     "à toi",
+     "உனக்கு"
+    ],
+    [
+     "nager",
+     "நீந்த"
+    ],
+    [
+     "savoir",
+     "தெரியுமா"
+    ]
+   ],
+   "note": "Savoir se construit avec à toi, comme ça plaît. Tu sais, en question, se dit « teriyumā ».",
+   "say": {
+    "teriyumā": "தெரியுமா"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "ஆமாம்"
+    ],
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "bien",
+     "நன்றாக"
+    ],
+    [
+     "nager",
+     "நீந்த"
+    ],
+    [
+     "savoir",
+     "தெரியும்"
+    ]
+   ],
+   "note": "Nager se dit « nīnda ». Je sais nager, c'est à moi, nager, c'est connu.",
+   "say": {
+    "nīnda": "நீந்த"
+   }
+  },
+  {
+   "words": [
+    [
+     "à toi",
+     "உனக்கு"
+    ],
+    [
+     "ce",
+     "இந்த"
+    ],
+    [
+     "restaurant",
+     "உணவகம்"
+    ],
+    [
+     "savoir",
+     "தெரியுமா"
+    ]
+   ],
+   "note": "Le même verbe veut dire aussi connaître. Restaurant se dit « uṇavagam ».",
+   "say": {
+    "uṇavagam": "உணவகம்"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "ஆமாம்"
+    ],
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "son",
+     "அதன்"
+    ],
+    [
+     "patron",
+     "முதலாளியை"
+    ],
+    [
+     "bien",
+     "நன்றாக"
+    ],
+    [
+     "savoir",
+     "தெரியும்"
+    ]
+   ],
+   "note": "Patron se dit « mudalāḷi ». Ici, il prend la fin de l'objet.",
+   "say": {
+    "mudalāḷi": "முதலாளி"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "scooter",
+     "வண்டி"
+    ],
+    [
+     "conduire",
+     "ஓட்ட"
+    ],
+    [
+     "ne pas savoir",
+     "தெரியாது"
+    ]
+   ],
+   "note": "Je ne sais pas se dit « teriyādu ». C'est la forme négative de savoir.",
+   "say": {
+    "teriyādu": "தெரியாது"
+   }
+  },
+  {
+   "words": [
+    [
+     "à Ravi",
+     "ரவிக்கு"
+    ],
+    [
+     "un peu",
+     "கொஞ்சம்"
+    ],
+    [
+     "français",
+     "பிரெஞ்சு"
+    ],
+    [
+     "savoir",
+     "தெரியும்"
+    ]
+   ],
+   "note": "Parler une langue, c'est la connaître. Connaît se dit « teriyum ».",
+   "say": {
+    "teriyum": "தெரியும்"
+   }
+  },
+  {
+   "words": [
+    [
+     "à toi",
+     "உனக்கு"
+    ],
+    [
+     "Kodaikanal",
+     "கொடைக்கானல்"
+    ],
+    [
+     "savoir",
+     "தெரியுமா"
+    ]
+   ],
+   "note": "Kodaikanal est une ville de montagne, au frais. Tu connais, en question, se dit « teriyumā ».",
+   "say": {
+    "teriyumā": "தெரியுமா"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "இல்லை"
+    ],
+    [
+     "ici",
+     "இங்கே"
+    ],
+    [
+     "montagnes",
+     "மலைகள்"
+    ],
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "encore",
+     "இன்னும்"
+    ],
+    [
+     "ne pas savoir",
+     "தெரியாது"
+    ]
+   ],
+   "note": "Montagnes se dit « malaigaḷ ». Pas encore, c'est encore, plus la négation.",
+   "say": {
+    "malaigaḷ": "மலைகள்"
+   }
+  },
+  {
+   "words": [
+    [
+     "à toi",
+     "உனக்கு"
+    ],
+    [
+     "dosa",
+     "தோசை"
+    ],
+    [
+     "cuire",
+     "சுட"
+    ],
+    [
+     "savoir",
+     "தெரியுமா"
+    ]
+   ],
+   "note": "Faire un dosa, c'est le cuire. Cuire se dit « chuḍa ».",
+   "say": {
+    "chuḍa": "சுட"
+   }
+  },
+  {
+   "words": [
+    [
+     "encore",
+     "இன்னும்"
+    ],
+    [
+     "ne pas savoir",
+     "தெரியாது"
+    ]
+   ],
+   "note": "Pas encore se dit « iṉṉum teriyādu ». Ça veut dire je ne sais pas encore.",
+   "say": {
+    "iṉṉum teriyādu": "இன்னும் தெரியாது"
+   }
+  }
+ ],
+ "0-2-14": [
+  {
+   "words": [
+    [
+     "d'à côté",
+     "பக்கத்து"
+    ],
+    [
+     "voisins",
+     "வீட்டுக்காரர்கள்"
+    ],
+    [
+     "dans la rue",
+     "தெருவில்"
+    ],
+    [
+     "cricket",
+     "கிரிக்கெட்"
+    ],
+    [
+     "jouer",
+     "விளையாடுகிறார்கள்"
+    ]
+   ],
+   "note": "Jouer se dit « viḷaiyāḍugiṛārgaḷ ». Le cricket se joue partout, même dans la rue.",
+   "say": {
+    "viḷaiyāḍugiṛārgaḷ": "விளையாடுகிறார்கள்"
+   }
+  },
+  {
+   "words": [
+    [
+     "avec nous",
+     "எங்களுடன்"
+    ],
+    [
+     "jouer",
+     "விளையாட"
+    ],
+    [
+     "venir",
+     "வருகிறாயா"
+    ]
+   ],
+   "note": "Avec nous se dit « engaḷuḍaṉ ». Cette fin veut aussi dire avec.",
+   "say": {
+    "engaḷuḍaṉ": "எங்களுடன்"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "règles",
+     "விதிகள்"
+    ],
+    [
+     "correctement",
+     "சரியாக"
+    ],
+    [
+     "ne pas savoir",
+     "தெரியாது"
+    ]
+   ],
+   "note": "Règles se dit « vidigaḷ ». Correctement se place juste avant le verbe.",
+   "say": {
+    "vidigaḷ": "விதிகள்"
+   }
+  },
+  {
+   "words": [
+    [
+     "pas grave",
+     "பரவாயில்லை"
+    ],
+    [
+     "ceci",
+     "இது"
+    ],
+    [
+     "facile",
+     "சுலபம்"
+    ]
+   ],
+   "note": "Facile se dit « chulapam ». C'est le mot pour rassurer.",
+   "say": {
+    "chulapam": "சுலபம்"
+   }
+  },
+  {
+   "words": [
+    [
+     "tiens",
+     "இந்தா"
+    ],
+    [
+     "la batte",
+     "பேட்டை"
+    ],
+    [
+     "prendre",
+     "பிடி"
+    ]
+   ],
+   "note": "Tiens se dit « indā ». On le dit en tendant quelque chose à un ami.",
+   "say": {
+    "indā": "இந்தா"
+   }
+  },
+  {
+   "words": [
+    [
+     "la balle",
+     "பந்தை"
+    ],
+    [
+     "doucement",
+     "மெதுவாக"
+    ],
+    [
+     "lancer",
+     "போடு"
+    ]
+   ],
+   "note": "Entre amis, l'ordre est très court. Lance se dit « pōḍu ».",
+   "say": {
+    "pōḍu": "போடு"
+   }
+  },
+  {
+   "words": [
+    [
+     "superbe",
+     "அருமை"
+    ],
+    [
+     "quatre",
+     "நான்கு"
+    ],
+    [
+     "point",
+     "ரன்"
+    ]
+   ],
+   "note": "Bravo se dit « arumai ». Il veut dire superbe.",
+   "say": {
+    "arumai": "அருமை"
+   }
+  },
+  {
+   "words": [
+    [
+     "fenêtre",
+     "ஜன்னல்"
+    ],
+    [
+     "attention",
+     "ஜாக்கிரதை"
+    ]
+   ],
+   "note": "Attention se dit « jākkiradai ». On le crie pour prévenir.",
+   "say": {
+    "jākkiradai": "ஜாக்கிரதை"
+   }
+  },
+  {
+   "words": [
+    [
+     "notre",
+     "நம்"
+    ],
+    [
+     "équipe",
+     "அணி"
+    ],
+    [
+     "gagner",
+     "ஜெயிக்கிறது"
+    ]
+   ],
+   "note": "Notre se dit « nam ». C'est le notre qui inclut tout le monde.",
+   "say": {
+    "nam": "நம்"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "நாளை"
+    ],
+    [
+     "soir",
+     "மாலை"
+    ],
+    [
+     "de nouveau",
+     "மறுபடியும்"
+    ],
+    [
+     "pouvoir jouer",
+     "விளையாடலாமா"
+    ]
+   ],
+   "note": "De nouveau se dit « maṛupaḍiyum ». On peut jouer, en question, termine la phrase.",
+   "say": {
+    "maṛupaḍiyum": "மறுபடியும்"
+   }
+  }
+ ],
+ "0-2-15": [
+  {
+   "words": [
+    [
+     "votre",
+     "உங்கள்"
+    ],
+    [
+     "sari",
+     "புடவை"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "beau",
+     "அழகு"
+    ],
+    [
+     "Kavitha",
+     "கவிதா"
+    ]
+   ],
+   "note": "Très se dit « romba ». C'est le mot familier, qu'on entend partout.",
+   "say": {
+    "romba": "ரொம்ப"
+   }
+  },
+  {
+   "words": [
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "merci",
+     "நன்றி"
+    ],
+    [
+     "Lucas",
+     "லூக்காஸ்"
+    ]
+   ],
+   "note": "Merci beaucoup, c'est très merci. Merci beaucoup se dit « romba naṉṛi ».",
+   "say": {
+    "romba naṉṛi": "ரொம்ப நன்றி"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "இந்த"
+    ],
+    [
+     "repas",
+     "சாப்பாடு"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "saveur",
+     "ருசி"
+    ]
+   ],
+   "note": "Délicieux, c'est très savoureux. Saveur se dit « ruchi ».",
+   "say": {
+    "ruchi": "ருசி"
+   }
+  },
+  {
+   "words": [
+    [
+     "Ravi",
+     "ரவி"
+    ],
+    [
+     "toi",
+     "நீ"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "bien",
+     "நன்றாக"
+    ],
+    [
+     "français",
+     "பிரெஞ்சு"
+    ],
+    [
+     "parler",
+     "பேசுகிறாய்"
+    ]
+   ],
+   "note": "Très bien se dit « romba naṉṛāga ». Très se place devant bien.",
+   "say": {
+    "romba naṉṛāga": "ரொம்ப நன்றாக"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "இந்த"
+    ],
+    [
+     "quartier",
+     "பகுதி"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "animé",
+     "கலகலப்பாக"
+    ],
+    [
+     "être",
+     "இருக்கிறது"
+    ]
+   ],
+   "note": "Animé se dit « kalagalappāga ». Le mot imite le bruit joyeux de la foule.",
+   "say": {
+    "kalagalappāga": "கலகலப்பாக"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "இங்கே"
+    ],
+    [
+     "être",
+     "இருப்பதில்"
+    ],
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "bonheur",
+     "சந்தோஷம்"
+    ]
+   ],
+   "note": "D'être ici se dit « ingē iruppadil ». La fin dans se colle au verbe être.",
+   "say": {
+    "ingē iruppadil": "இங்கே இருப்பதில்"
+   }
+  },
+  {
+   "words": [
+    [
+     "ta",
+     "உன்"
+    ],
+    [
+     "mère",
+     "அம்மா"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "affectueux",
+     "அன்பானவர்"
+    ]
+   ],
+   "note": "Pour une mère, l'adjectif prend la fin du respect. Affectueuse se dit « aṉbāṉavar ».",
+   "say": {
+    "aṉbāṉavar": "அன்பானவர்"
+   }
+  },
+  {
+   "words": [
+    [
+     "toi",
+     "நீ"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "bien",
+     "நன்றாக"
+    ],
+    [
+     "chanter",
+     "பாடுகிறாய்"
+    ]
+   ],
+   "note": "Tu chantes se dit « pāḍugiṛāy ». Avec tu, le verbe finit court.",
+   "say": {
+    "pāḍugiṛāy": "பாடுகிறாய்"
+   }
+  },
+  {
+   "words": [
+    [
+     "tant",
+     "அவ்வளவு"
+    ],
+    [
+     "ne pas",
+     "இல்லை"
+    ],
+    [
+     "merci",
+     "நன்றி"
+    ]
+   ],
+   "note": "Pas tant que ça, c'est tant, pas. Tant se dit « avvaḷavu ».",
+   "say": {
+    "avvaḷavu": "அவ்வளவு"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "Madurai",
+     "மதுரை"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "plaire",
+     "பிடிக்கும்"
+    ]
+   ],
+   "note": "Pour dire énormément, on répète très deux fois. Très très se dit « romba romba ».",
+   "say": {
+    "romba romba": "ரொம்ப ரொம்ப"
+   }
+  }
+ ],
+ "0-2-16": [
+  {
+   "words": [
+    [
+     "à toi",
+     "உனக்கு"
+    ],
+    [
+     "ici",
+     "இங்கே"
+    ],
+    [
+     "téléphone",
+     "போன்"
+    ],
+    [
+     "numéro",
+     "நம்பர்"
+    ],
+    [
+     "y avoir",
+     "இருக்கிறதா"
+    ]
+   ],
+   "note": "Numéro se dit « nambar ». Encore un mot venu de l'anglais.",
+   "say": {
+    "nambar": "நம்பர்"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "ஆமாம்"
+    ],
+    [
+     "tout de suite",
+     "இப்போதே"
+    ],
+    [
+     "en écrivant",
+     "எழுதி"
+    ],
+    [
+     "donner",
+     "தருகிறேன்"
+    ]
+   ],
+   "note": "Tout de suite se dit « ippōdē ». C'est maintenant avec une petite fin d'insistance.",
+   "say": {
+    "ippōdē": "இப்போதே"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "இன்று"
+    ],
+    [
+     "nuit",
+     "இரவு"
+    ],
+    [
+     "à toi",
+     "உனக்கு"
+    ],
+    [
+     "message",
+     "குறுஞ்செய்தி"
+    ],
+    [
+     "envoyer",
+     "அனுப்புகிறேன்"
+    ]
+   ],
+   "note": "Message se dit « kuṛunjeydi ». C'est littéralement un message court.",
+   "say": {
+    "kuṛunjeydi": "குறுஞ்செய்தி"
+   }
+  },
+  {
+   "words": [
+    [
+     "quand",
+     "எப்போது"
+    ],
+    [
+     "quand tu veux",
+     "வேண்டுமானாலும்"
+    ],
+    [
+     "appeler",
+     "கூப்பிடு"
+    ]
+   ],
+   "note": "Appelle se dit « kūppiḍu ». Entre amis, l'ordre se dit sans fin polie.",
+   "say": {
+    "kūppiḍu": "கூப்பிடு"
+   }
+  },
+  {
+   "words": [
+    [
+     "samedi",
+     "சனிக்கிழமை"
+    ],
+    [
+     "pouvoir se rencontrer",
+     "சந்திக்கலாமா"
+    ]
+   ],
+   "note": "On se retrouve, en question, se dit « chandikkalāmā ». Samedi vient en premier.",
+   "say": {
+    "chandikkalāmā": "சந்திக்கலாமா"
+   }
+  },
+  {
+   "words": [
+    [
+     "pardon",
+     "மன்னிக்கவும்"
+    ],
+    [
+     "samedi",
+     "சனிக்கிழமை"
+    ],
+    [
+     "je",
+     "நான்"
+    ],
+    [
+     "à Ooty",
+     "ஊட்டியில்"
+    ],
+    [
+     "être",
+     "இருக்கிறேன்"
+    ]
+   ],
+   "note": "Ooty est une ville de montagne, très fraîche. Je suis se dit « irukkiṛēṉ ».",
+   "say": {
+    "irukkiṛēṉ": "இருக்கிறேன்"
+   }
+  },
+  {
+   "words": [
+    [
+     "dans ce cas",
+     "அப்படியானால்"
+    ],
+    [
+     "lundi",
+     "திங்கள்"
+    ],
+    [
+     "soir",
+     "மாலை"
+    ],
+    [
+     "d'accord",
+     "சரியா"
+    ]
+   ],
+   "note": "Lundi se dit « tingaḷ ». On ajoute d'accord en question à la fin.",
+   "say": {
+    "tingaḷ": "திங்கள்"
+   }
+  },
+  {
+   "words": [
+    [
+     "d'accord",
+     "சரி"
+    ],
+    [
+     "lundi",
+     "திங்கள்"
+    ],
+    [
+     "soir",
+     "மாலை"
+    ]
+   ],
+   "note": "Lundi soir se dit « tingaḷ mālai ». Pas besoin de à.",
+   "say": {
+    "tingaḷ mālai": "திங்கள் மாலை"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "என்"
+    ],
+    [
+     "numéro",
+     "நம்பர்"
+    ],
+    [
+     "par neuf",
+     "ஒன்பதில்"
+    ],
+    [
+     "commencer",
+     "ஆரம்பிக்கிறது"
+    ]
+   ],
+   "note": "Commence se dit « ārambikkiṛadu ». Le chiffre prend la fin dans.",
+   "say": {
+    "ārambikkiṛadu": "ஆரம்பிக்கிறது"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "நாளை"
+    ],
+    [
+     "matin",
+     "காலை"
+    ],
+    [
+     "toi",
+     "உன்னை"
+    ],
+    [
+     "appeler",
+     "கூப்பிடுகிறேன்"
+    ]
+   ],
+   "note": "Toi, comme objet, se dit « uṉṉai ». J'appelle vient tout à la fin.",
+   "say": {
+    "uṉṉai": "உன்னை"
+   }
+  }
+ ],
+ "0-2-17": [
+  {
+   "words": [
+    [
+     "ceux-ci",
+     "இவர்கள்"
+    ],
+    [
+     "mes",
+     "என்"
+    ],
+    [
+     "université",
+     "கல்லூரி"
+    ],
+    [
+     "amis",
+     "நண்பர்கள்"
+    ]
+   ],
+   "note": "Le pluriel se fait avec une fin collée au nom. Amis se dit « naṇbargaḷ ».",
+   "say": {
+    "naṇbargaḷ": "நண்பர்கள்"
+   }
+  },
+  {
+   "words": [
+    [
+     "enfants",
+     "குழந்தைகள்"
+    ],
+    [
+     "dehors",
+     "வெளியே"
+    ],
+    [
+     "jouer",
+     "விளையாடுகிறார்கள்"
+    ]
+   ],
+   "note": "Dehors se dit « veḷiyē ». Le verbe aussi montre qu'ils sont plusieurs.",
+   "say": {
+    "veḷiyē": "வெளியே"
+   }
+  },
+  {
+   "words": [
+    [
+     "ces",
+     "இந்த"
+    ],
+    [
+     "fleurs",
+     "பூக்கள்"
+    ],
+    [
+     "pour toi",
+     "உனக்கு"
+    ]
+   ],
+   "note": "Fleurs se dit « pūkkaḷ ». Au pluriel, le son k est doublé.",
+   "say": {
+    "pūkkaḷ": "பூக்கள்"
+   }
+  },
+  {
+   "words": [
+    [
+     "chez toi",
+     "உன்னிடம்"
+    ],
+    [
+     "beaucoup",
+     "நிறைய"
+    ],
+    [
+     "livres",
+     "புத்தகங்கள்"
+    ]
+   ],
+   "note": "Livres se dit « puttagangaḷ ». Même après beaucoup, on garde le pluriel.",
+   "say": {
+    "puttagangaḷ": "புத்தகங்கள்"
+   }
+  },
+  {
+   "words": [
+    [
+     "mes",
+     "என்"
+    ],
+    [
+     "d'à côté",
+     "பக்கத்து"
+    ],
+    [
+     "voisins",
+     "வீட்டுக்காரர்கள்"
+    ],
+    [
+     "très",
+     "ரொம்ப"
+    ],
+    [
+     "gentil",
+     "நல்லவர்கள்"
+    ]
+   ],
+   "note": "Gentils se dit « nallavargaḷ ». L'adjectif aussi prend le pluriel.",
+   "say": {
+    "nallavargaḷ": "நல்லவர்கள்"
+   }
+  },
+  {
+   "words": [
+    [
+     "Madurai",
+     "மதுரை"
+    ],
+    [
+     "rues",
+     "தெருக்கள்"
+    ],
+    [
+     "le soir",
+     "மாலையில்"
+    ],
+    [
+     "animé",
+     "கலகலப்பாக"
+    ],
+    [
+     "être",
+     "இருக்கும்"
+    ]
+   ],
+   "note": "Rues se dit « terukkaḷ ». Le verbe décrit ce qui arrive chaque soir.",
+   "say": {
+    "terukkaḷ": "தெருக்கள்"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "tamoul",
+     "தமிழ்"
+    ],
+    [
+     "films",
+     "படங்கள்"
+    ],
+    [
+     "plaire",
+     "பிடிக்கும்"
+    ]
+   ],
+   "note": "Films se dit « paḍangaḷ ». Le verbe plaire, lui, ne change pas.",
+   "say": {
+    "paḍangaḷ": "படங்கள்"
+   }
+  },
+  {
+   "words": [
+    [
+     "étudiants",
+     "மாணவர்கள்"
+    ],
+    [
+     "huit",
+     "எட்டு"
+    ],
+    [
+     "à l'heure",
+     "மணிக்கு"
+    ],
+    [
+     "venir",
+     "வருகிறார்கள்"
+    ]
+   ],
+   "note": "Étudiants se dit « māṇavargaḷ ». Au pluriel, le verbe change aussi.",
+   "say": {
+    "māṇavargaḷ": "மாணவர்கள்"
+   }
+  },
+  {
+   "words": [
+    [
+     "ces",
+     "இந்த"
+    ],
+    [
+     "bananes",
+     "வாழைப்பழங்கள்"
+    ],
+    [
+     "combien",
+     "எவ்வளவு"
+    ]
+   ],
+   "note": "Ces se dit « inda ». Le même mot sert pour ce et ces.",
+   "say": {
+    "inda": "இந்த"
+   }
+  },
+  {
+   "words": [
+    [
+     "maintenant",
+     "இப்போது"
+    ],
+    [
+     "nous",
+     "நாம்"
+    ],
+    [
+     "tous",
+     "எல்லோரும்"
+    ],
+    [
+     "amis",
+     "நண்பர்கள்"
+    ]
+   ],
+   "note": "Tous se dit « ellōrum ». Nous tous, c'est nous, tous.",
+   "say": {
+    "ellōrum": "எல்லோரும்"
+   }
+  }
+ ],
+ "0-2-18": [
+  {
+   "words": [
+    [
+     "temps",
+     "நேரம்"
+    ],
+    [
+     "devenir",
+     "ஆகிறது"
+    ],
+    [
+     "je",
+     "நான்"
+    ],
+    [
+     "à la maison",
+     "வீட்டுக்கு"
+    ],
+    [
+     "aller",
+     "போக"
+    ],
+    [
+     "falloir",
+     "வேண்டும்"
+    ]
+   ],
+   "note": "Je dois aller, c'est aller, il faut. Il faut se dit « vēṇḍum ».",
+   "say": {
+    "vēṇḍum": "வேண்டும்"
+   }
+  },
+  {
+   "words": [
+    [
+     "merveilleux",
+     "அருமையான"
+    ],
+    [
+     "pour le repas",
+     "சாப்பாட்டுக்கு"
+    ],
+    [
+     "merci",
+     "நன்றி"
+    ]
+   ],
+   "note": "Merveilleux se dit « arumaiyāṉa ». On remercie pour, avec la fin à.",
+   "say": {
+    "arumaiyāṉa": "அருமையான"
+   }
+  },
+  {
+   "words": [
+    [
+     "de nouveau",
+     "மறுபடியும்"
+    ],
+    [
+     "vite",
+     "சீக்கிரம்"
+    ],
+    [
+     "venir",
+     "வா"
+    ]
+   ],
+   "note": "Viens se dit « vā ». C'est le mot le plus court pour inviter.",
+   "say": {
+    "vā": "வா"
+   }
+  },
+  {
+   "words": [
+    [
+     "bien sûr",
+     "கண்டிப்பாக"
+    ],
+    [
+     "venir",
+     "வருகிறேன்"
+    ]
+   ],
+   "note": "Je reviendrai, c'est simplement je viens. Je viens se dit « varugiṛēṉ ».",
+   "say": {
+    "varugiṛēṉ": "வருகிறேன்"
+   }
+  },
+  {
+   "words": [
+    [
+     "bon",
+     "சரி"
+    ],
+    [
+     "après être parti",
+     "போய்விட்டு"
+    ],
+    [
+     "revenir",
+     "வருகிறேன்"
+    ]
+   ],
+   "note": "Pour prendre congé, on dit je pars et je reviens. Ça se dit « pōyviṭṭu varugiṛēṉ ».",
+   "say": {
+    "pōyviṭṭu varugiṛēṉ": "போய்விட்டு வருகிறேன்"
+   }
+  },
+  {
+   "words": [
+    [
+     "prudemment",
+     "பத்திரமாக"
+    ],
+    [
+     "aller",
+     "போ"
+    ]
+   ],
+   "note": "Prudemment se dit « pattiramāga ». Va prudemment, c'est la formule pour dire rentre bien.",
+   "say": {
+    "pattiramāga": "பத்திரமாக"
+   }
+  },
+  {
+   "words": [
+    [
+     "dans la rue",
+     "தெருவில்"
+    ],
+    [
+     "rickshaw",
+     "ஆட்டோ"
+    ],
+    [
+     "se trouver",
+     "இருக்கிறது"
+    ]
+   ],
+   "note": "Rickshaw se dit « āṭṭō ». On dit simplement auto.",
+   "say": {
+    "āṭṭō": "ஆட்டோ"
+   }
+  },
+  {
+   "words": [
+    [
+     "à la maison",
+     "வீட்டுக்கு"
+    ],
+    [
+     "dès arrivé",
+     "போனதும்"
+    ],
+    [
+     "message",
+     "குறுஞ்செய்தி"
+    ],
+    [
+     "envoyer",
+     "அனுப்பு"
+    ]
+   ],
+   "note": "Dès que tu es arrivé se dit « pōṉadum ». Envoie, sans fin polie, termine la phrase.",
+   "say": {
+    "pōṉadum": "போனதும்"
+   }
+  },
+  {
+   "words": [
+    [
+     "pour tout",
+     "எல்லாவற்றுக்கும்"
+    ],
+    [
+     "merci",
+     "நன்றி"
+    ],
+    [
+     "Ravi",
+     "ரவி"
+    ]
+   ],
+   "note": "Pour tout se dit « ellāvaṛṛukkum ». On l'entend souvent avec merci.",
+   "say": {
+    "ellāvaṛṛukkum": "எல்லாவற்றுக்கும்"
+   }
+  },
+  {
+   "words": [
+    [
+     "de nouveau",
+     "மீண்டும்"
+    ],
+    [
+     "se rencontrer",
+     "சந்திப்போம்"
+    ],
+    [
+     "ami",
+     "நண்பா"
+    ]
+   ],
+   "note": "Pour appeler un ami, la fin du mot change. Mon ami se dit alors « naṇbā ».",
+   "say": {
+    "naṇbā": "நண்பா"
+   }
+  }
+ ],
+ "0-2-19": [
+  {
+   "words": [
+    [
+     "ceci",
+     "இது"
+    ],
+    [
+     "ce",
+     "இந்த"
+    ],
+    [
+     "de la leçon",
+     "பாடத்தின்"
+    ],
+    [
+     "fin",
+     "முடிவு"
+    ]
+   ],
+   "note": "Fin se dit « muḍivu ». On dit ceci, de cette leçon, fin.",
+   "say": {
+    "muḍivu": "முடிவு"
+   }
+  },
+  {
+   "words": [
+    [
+     "maintenant",
+     "இப்போது"
+    ],
+    [
+     "à moi",
+     "எனக்கு"
+    ],
+    [
+     "un peu",
+     "கொஞ்சம்"
+    ],
+    [
+     "tamoul",
+     "தமிழ்"
+    ],
+    [
+     "parler",
+     "பேச"
+    ],
+    [
+     "savoir",
+     "தெரியும்"
+    ]
+   ],
+   "note": "Je sais parler, c'est à moi, parler, connu. Parler se dit « pēcha ».",
+   "say": {
+    "pēcha": "பேச"
+   }
+  },
+  {
+   "words": [
+    [
+     "tamoul justement",
+     "தமிழ்தான்"
+    ],
+    [
+     "beau",
+     "அழகான"
+    ],
+    [
+     "langue",
+     "மொழி"
+    ]
+   ],
+   "note": "Pour insister sur un mot, on lui ajoute une petite fin. Le tamoul, justement, se dit « tamiḻtāṉ ».",
+   "say": {
+    "tamiḻtāṉ": "தமிழ்தான்"
+   }
+  },
+  {
+   "words": [
+    [
+     "amis justement",
+     "நண்பர்கள்தான்"
+    ],
+    [
+     "important",
+     "முக்கியம்"
+    ]
+   ],
+   "note": "Important se dit « mukkiyam ». Les amis sont mis en avant par la petite fin.",
+   "say": {
+    "mukkiyam": "முக்கியம்"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "நான்"
+    ],
+    [
+     "chaque jour",
+     "தினமும்"
+    ],
+    [
+     "tamoul",
+     "தமிழ்"
+    ],
+    [
+     "parler",
+     "பேசுகிறேன்"
+    ]
+   ],
+   "note": "Tous les jours se dit « tiṉamum ». C'est le bon rythme pour progresser.",
+   "say": {
+    "tiṉamum": "தினமும்"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma",
+     "என்"
+    ],
+    [
+     "famille",
+     "குடும்பம்"
+    ],
+    [
+     "mes",
+     "என்"
+    ],
+    [
+     "loisirs",
+     "பொழுதுபோக்குகள்"
+    ],
+    [
+     "au sujet de",
+     "பற்றி"
+    ],
+    [
+     "parler",
+     "பேச"
+    ],
+    [
+     "pouvoir",
+     "முடியும்"
+    ]
+   ],
+   "note": "Au sujet de se dit « paṛṛi ». Il se place après ce dont on parle.",
+   "say": {
+    "paṛṛi": "பற்றி"
+   }
+  },
+  {
+   "words": [
+    [
+     "Madurai justement",
+     "மதுரைதான்"
+    ],
+    [
+     "ma",
+     "என்"
+    ],
+    [
+     "deuxième",
+     "இரண்டாவது"
+    ],
+    [
+     "maison",
+     "வீடு"
+    ]
+   ],
+   "note": "Deuxième se dit « iraṇḍāvadu ». La petite fin sur Madurai insiste.",
+   "say": {
+    "iraṇḍāvadu": "இரண்டாவது"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui même",
+     "இன்றே"
+    ],
+    [
+     "Ravi",
+     "ரவியை"
+    ],
+    [
+     "appeler",
+     "கூப்பிடுகிறேன்"
+    ]
+   ],
+   "note": "Aujourd'hui même se dit « iṉṛē ». Un simple é final ajoute même.",
+   "say": {
+    "iṉṛē": "இன்றே"
+   }
+  },
+  {
+   "words": [
+    [
+     "prochain",
+     "அடுத்த"
+    ],
+    [
+     "fois",
+     "முறை"
+    ],
+    [
+     "moi justement",
+     "நான்தான்"
+    ],
+    [
+     "tous",
+     "எல்லோரையும்"
+    ],
+    [
+     "inviter",
+     "அழைக்கிறேன்"
+    ]
+   ],
+   "note": "C'est moi qui se dit « nāṉtāṉ ». La petite fin met le moi en avant.",
+   "say": {
+    "nāṉtāṉ": "நான்தான்"
+   }
+  },
+  {
+   "words": [
+    [
+     "félicitations",
+     "வாழ்த்துக்கள்"
+    ],
+    [
+     "prochain",
+     "அடுத்த"
+    ],
+    [
+     "dans la leçon",
+     "பாடத்தில்"
+    ],
+    [
+     "se rencontrer",
+     "சந்திப்போம்"
+    ]
+   ],
+   "note": "Félicitations se dit « vāḻttukkaḷ ». On l'entend aux mariages et aux fêtes.",
+   "say": {
+    "vāḻttukkaḷ": "வாழ்த்துக்கள்"
+   }
+  }
+ ]
+}
