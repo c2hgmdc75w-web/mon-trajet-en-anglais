@@ -39,9 +39,9 @@
      "மகிழ்ச்சி"
     ]
    ],
-   "note": "Pour dire enchantée, un seul mot suffit. Joie se dit « Magiḻcchi ».",
+   "note": "Pour dire enchantée, un seul mot suffit. Joie se dit « magiḻcchi ».",
    "say": {
-    "Magiḻcchi": "மகிழ்ச்சி"
+    "magiḻcchi": "மகிழ்ச்சி"
    }
   },
   {
@@ -2749,9 +2749,9 @@
      "அன்பானவர்கள்"
     ]
    ],
-   "note": "Les gens se dit « romba ». Chaleureux, c'est ici affectueux.",
+   "note": "Les gens se dit « makkaḷ ». Chaleureux, c'est ici affectueux.",
    "say": {
-    "romba": "ரொம்ப"
+    "makkaḷ": "மக்கள்"
    }
   },
   {
@@ -3447,7 +3447,7 @@
      "விளையாடுகிறார்கள்"
     ]
    ],
-   "note": "Jouer se dit « viḷaiyāḍugiṛārgaḷ ». Le cricket se joue partout, même dans la rue.",
+   "note": "Ils jouent se dit « viḷaiyāḍugiṛārgaḷ ». Le cricket se joue partout, même dans la rue.",
    "say": {
     "viḷaiyāḍugiṛārgaḷ": "விளையாடுகிறார்கள்"
    }

@@ -1371,7 +1371,7 @@
      "வேண்டும்"
     ]
    ],
-   "note": "Changer de l'argent se dit « mārra ». Avec il faut, on exprime son besoin.",
+   "note": "Changer se dit « mārra ». Avec il faut, on exprime son besoin.",
    "say": {
     "mārra": "மாற்ற"
    }
@@ -1851,9 +1851,9 @@
      "இருக்கின்றன"
     ]
    ],
-   "note": "Partout, c'est dans tous les endroits. Fleurs se dit « irukkiṉraṉa ».",
+   "note": "Partout, c'est dans tous les endroits. Fleurs se dit « pūkkaḷ ».",
    "say": {
-    "irukkiṉraṉa": "இருக்கின்றன"
+    "pūkkaḷ": "பூக்கள்"
    }
   },
   {
@@ -3517,9 +3517,9 @@
      "படிக்கிறேன்"
     ]
    ],
-   "note": "Livre se dit « paḍikkirēṉ ». Lire se dit avec le même verbe qu'étudier.",
+   "note": "Livre se dit « puttakam ». Lire se dit avec le même verbe qu'étudier.",
    "say": {
-    "paḍikkirēṉ": "படிக்கிறேன்"
+    "puttakam": "புத்தகம்"
    }
   },
   {
@@ -3941,9 +3941,9 @@
      "இருக்கிறதா"
     ]
    ],
-   "note": "Près d'ici, c'est ici, à côté. À côté se dit « pakkattil ».",
+   "note": "Petit se dit « chiṉṉa ». C'est le mot courant, qu'on entend partout.",
    "say": {
-    "pakkattil": "பக்கத்தில்"
+    "chiṉṉa": "சின்ன"
    }
   },
   {
