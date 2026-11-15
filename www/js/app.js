@@ -927,8 +927,12 @@ function buildLessonSegments(mi, li){
       segs.push(S('Traduction mot à mot.', 'fr', 1, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
       segs.push(W(350, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
       words.forEach(w=>{
-        // « je » ou « ce » isolés sonnent coupés avec la voix de l'iPhone : on fait entendre le son « eu ».
-        const frw = w[0].replace(/\s*\(=[^)]*\)/g, '').replace(/^je$/i, 'jeu').replace(/^ce$/i, 'ceux');
+        // Un mot dit seul qui finit par « e » sonne coupé avec la voix de l'iPhone :
+        // on écrit « eu » pour faire entendre le son (je → jeu, être → êtreu, parce que → parce queu).
+        const frw = w[0].replace(/\s*\(=[^)]*\)/g, '').trim()
+          .replace(/(^|[\s'-])ce$/i, '$1ceux')
+          .replace(/(^|[\s'-])(qu|[bcdfghjklmnpqrstvwxzç])e$/i, '$1$2eu')
+          .replace(/([bcdfghjklmnpqrstvwxzç])e$/i, '$1eu');
         segs.push(S(frw, 'fr', 1, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
         segs.push(W(GAP, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
       });
