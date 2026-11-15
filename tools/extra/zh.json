@@ -7897,70 +7897,70 @@
   "0-0-0": [
    {
     "lit": "je, depuis, Paris, venir",
-    "note": "En chinois, on dit d'où l'on vient avant le verbe. Depuis se dit « cóng », et venir arrive tout à la fin.",
+    "note": "En chinois, on dit d'où l'on vient avant le verbe. Depuis se dit « cóng ». Le verbe venir se place tout à la fin.",
     "say": {
      "cóng": "从"
     }
    },
    {
     "lit": "nous, aller, Pékin",
-    "note": "Le verbe aller ne se conjugue jamais : il se dit toujours « qù », quelle que soit la personne.",
+    "note": "Le verbe aller ne se conjugue jamais. Quelle que soit la personne, il se dit toujours « qù ».",
     "say": {
      "qù": "去"
     }
    },
    {
     "lit": "je, épouse, avec, moi, ensemble, venir",
-    "note": "Avec, se dit « gēn », et il se place avant le verbe, jamais après.",
+    "note": "Avec se dit « gēn ». Il se place avant le verbe, jamais après.",
     "say": {
      "gēn": "跟"
     }
    },
    {
     "lit": "il, habiter, à, Pékin",
-    "note": "Pour dire où l'on habite, on met « zài » juste avant le lieu : c'est notre à.",
+    "note": "Pour dire où l'on habite, on met un petit mot juste avant le lieu. Ce petit mot, c'est « zài ». C'est notre à.",
     "say": {
      "zài": "在"
     }
    },
    {
     "lit": "je, habiter, à, Lyon",
-    "note": "Le verbe habiter ne change jamais : je, tu, il, c'est toujours « zhù ».",
+    "note": "Le verbe habiter ne change jamais. Je, tu ou il, c'est toujours « zhù ».",
     "say": {
      "zhù": "住"
     }
    },
    {
     "lit": "vous, aussi, aller, hôtel, petit mot de question ?",
-    "note": "Pour poser une question, on garde la phrase telle quelle et on ajoute « ma » à la fin.",
+    "note": "Pour poser une question, on garde la phrase telle quelle. On ajoute simplement à la fin « ma ».",
     "say": {
      "ma": "吗"
     }
    },
    {
     "lit": "je, s'asseoir, taxi",
-    "note": "Pour prendre un taxi, les Chinois disent s'asseoir dans le taxi : « zuò ».",
+    "note": "Les Chinois ne prennent pas un taxi, ils s'assoient dedans. S'asseoir se dit « zuò ».",
     "say": {
      "zuò": "坐"
     }
    },
    {
     "lit": "elle, s'asseoir, métro",
-    "note": "Il et elle se prononcent pareil : « tā ». Seule l'écriture change.",
+    "note": "Il et elle s'écrivent différemment. Mais ils se prononcent pareil : « tā ».",
     "say": {
      "tā": "她"
     }
    },
    {
     "lit": "je, ami, attendre, nous",
-    "note": "Mon ami, c'est simplement je ami : pas besoin de petit mot pour mon devant un proche, « wǒ péngyou ».",
+    "note": "Devant un proche, pas besoin de petit mot pour dire mon. Mon ami se dit simplement « wǒ péngyou ».",
     "say": {
      "wǒ péngyou": "我朋友"
     }
    },
    {
     "lit": "Pékin, nous, venir, petit mot de l'action accomplie !",
-    "note": "Le petit mot « le », à la fin, dit que c'est fait : nous voilà arrivés.",
+    "note": "À la fin de la phrase, un petit mot dit que c'est fait. Ce petit mot, c'est « le ».",
     "say": {
      "le": "了"
     }
@@ -7969,56 +7969,56 @@
   "0-0-1": [
    {
     "lit": "je, vouloir, un, tasse, thé",
-    "note": "Pour commander, on dit simplement je veux : « yào ». C'est poli et naturel.",
+    "note": "Pour commander, on dit simplement je veux. C'est poli et naturel. Vouloir se dit « yào ».",
     "say": {
      "yào": "要"
     }
    },
    {
     "lit": "s'il vous plaît, donner, moi, thé vert",
-    "note": "Pour demander poliment, on commence la phrase par « qǐng », s'il vous plaît.",
+    "note": "Pour demander poliment, on commence la phrase par s'il vous plaît. S'il vous plaît se dit « qǐng ».",
     "say": {
      "qǐng": "请"
     }
    },
    {
     "lit": "ce, petit mot de comptage, thé, très, parfumé",
-    "note": "Devant un adjectif, on met presque toujours très, « hěn », même quand on ne veut pas insister.",
+    "note": "Devant un adjectif, on met presque toujours très, même sans insister. Très se dit « hěn ».",
     "say": {
      "hěn": "很"
     }
    },
    {
     "lit": "vous, vendre, thé, petit mot de question ?",
-    "note": "Le verbe vendre se dit « mài ». Attention, acheter se dit presque pareil, avec un autre ton.",
+    "note": "Vendre se dit « mài ». Attention, acheter se dit presque pareil, avec un autre ton.",
     "say": {
      "mài": "卖"
     }
    },
    {
     "lit": "je, vouloir, acheter, thé",
-    "note": "Pour dire j'ai envie de, on emploie « xiǎng », plus doux que je veux.",
+    "note": "Pour dire j'ai envie de, on emploie un verbe plus doux que vouloir. Ce verbe, c'est « xiǎng ».",
     "say": {
      "xiǎng": "想"
     }
    },
    {
     "lit": "ce, boîte, combien, argent ?",
-    "note": "Pour demander un prix, on dit combien d'argent : « duōshao qián ».",
+    "note": "Pour demander un prix, on dit combien d'argent. Combien d'argent se dit « duōshao qián ».",
     "say": {
      "duōshao qián": "多少钱"
     }
    },
    {
     "lit": "trois, dix, kuai",
-    "note": "Trente, c'est trois dix. Les nombres chinois se construisent comme un calcul : « sānshí ».",
+    "note": "Les nombres chinois se construisent comme un calcul. Trente, c'est trois dix. Trente se dit « sānshí ».",
     "say": {
      "sānshí": "三十"
     }
    },
    {
     "lit": "un peu, cher",
-    "note": "Pour dire un peu, devant un défaut, on emploie « yǒudiǎnr ».",
+    "note": "Pour dire un peu devant un défaut, on emploie une expression spéciale. Cette expression, c'est « yǒudiǎnr ».",
     "say": {
      "yǒudiǎnr": "有点儿"
     }
@@ -8032,7 +8032,7 @@
    },
    {
     "lit": "patron, très, aimable",
-    "note": "Le verbe être disparaît devant un adjectif : on dit juste le patron très aimable, « hěn kèqi ».",
+    "note": "Devant un adjectif, le verbe être disparaît. Le patron est très aimable se dit le patron « hěn kèqi ».",
     "say": {
      "hěn kèqi": "很客气"
     }
@@ -8041,63 +8041,63 @@
   "0-0-2": [
    {
     "lit": "ceci, être, Cité interdite",
-    "note": "Être se dit « shì », mais seulement devant un nom : voici la Cité interdite.",
+    "note": "Le verbe être ne s'emploie que devant un nom. Être se dit « shì ».",
     "say": {
      "shì": "是"
     }
    },
    {
     "lit": "je, être, touriste",
-    "note": "Je suis touriste : je, être, touriste. Le verbe « shì » ne change jamais.",
+    "note": "Je suis touriste, c'est je être touriste. Le verbe être ne change jamais : « shì ».",
     "say": {
      "shì": "是"
     }
    },
    {
     "lit": "il, être, nous, petit mot du possessif, guide",
-    "note": "Le petit mot « de » relie le possesseur à l'objet : nous de guide, notre guide.",
+    "note": "Pour dire notre, on relie le possesseur à l'objet avec un petit mot. Ce petit mot, c'est « de ».",
     "say": {
      "de": "的"
     }
    },
    {
     "lit": "elle, être, étudiant",
-    "note": "Il n'y a pas de masculin ni de féminin pour les noms : étudiant ou étudiante, c'est « xuésheng ».",
+    "note": "Il n'y a pas de masculin ni de féminin pour les noms. Étudiant ou étudiante, c'est « xuésheng ».",
     "say": {
      "xuésheng": "学生"
     }
    },
    {
     "lit": "ceci, être, nous, petit mot du possessif, billet",
-    "note": "Nos billets, c'est nous de billet. Le pluriel ne se marque pas sur « piào ».",
+    "note": "Le pluriel ne se marque pas sur le nom. Un billet ou des billets, c'est « piào ».",
     "say": {
      "piào": "票"
     }
    },
    {
     "lit": "ceci, être, sud, porte",
-    "note": "Les mots chinois s'assemblent comme des briques : sud plus porte, cela donne « nánmén ».",
+    "note": "Les mots chinois s'assemblent comme des briques. Sud plus porte, cela donne « nánmén ».",
     "say": {
      "nánmén": "南门"
     }
    },
    {
     "lit": "Cité interdite, très, grand",
-    "note": "Pas de verbe être devant un adjectif : le palais très grand, « hěn dà ».",
+    "note": "Pas de verbe être devant un adjectif. Le palais est grand se dit le palais « hěn dà ».",
     "say": {
      "hěn dà": "很大"
     }
    },
    {
     "lit": "personne, très, nombreux",
-    "note": "Beaucoup de monde se dit les gens très nombreux : « rén hěn duō ».",
+    "note": "Pour dire beaucoup de monde, on dit les gens sont nombreux. Cela donne « rén hěn duō ».",
     "say": {
      "rén hěn duō": "人很多"
     }
    },
    {
     "lit": "vous (poli), être, Paris-personne, petit mot de question ?",
-    "note": "Pour le vous de politesse, on dit « nín », à employer avec les inconnus et les aînés.",
+    "note": "Pour le vous de politesse, il existe un mot spécial : « nín ». On l'emploie avec les inconnus et les aînés.",
     "say": {
      "nín": "您"
     }
@@ -8113,70 +8113,70 @@
   "0-0-3": [
    {
     "lit": "toi, fatigué, petit mot de question ?",
-    "note": "Tu es fatigué se dit toi fatigué, sans verbe être : « nǐ lèi ».",
+    "note": "Tu es fatigué se dit toi fatigué, sans verbe être. Cela donne « nǐ lèi ».",
     "say": {
      "nǐ lèi": "你累"
     }
    },
    {
     "lit": "avoir, un peu",
-    "note": "Il n'y a pas de mot unique pour oui : on reprend le verbe de la question. Ici, avoir, « yǒu ».",
+    "note": "Il n'y a pas de mot unique pour oui. On reprend le verbe de la question. Ici, avoir : « yǒu ».",
     "say": {
      "yǒu": "有"
     }
    },
    {
     "lit": "ceci, être, Jingshan, parc, petit mot de question ?",
-    "note": "Pour vérifier une information, on ajoute « ma » à la fin d'une phrase affirmative.",
+    "note": "Pour vérifier une information, on part d'une phrase affirmative. On ajoute simplement à la fin « ma ».",
     "say": {
      "ma": "吗"
     }
    },
    {
     "lit": "ici, avoir, toilettes, petit mot de question ?",
-    "note": "Il y a se dit simplement avoir : « yǒu ». Ici avoir toilettes.",
+    "note": "Il y a se dit simplement avoir. Avoir se dit « yǒu ».",
     "say": {
      "yǒu": "有"
     }
    },
    {
     "lit": "vous (poli), avoir, parc, carte, petit mot de question ?",
-    "note": "Le complément se colle devant le nom : parc carte, c'est le plan du parc, « gōngyuán dìtú ».",
+    "note": "Le complément se colle devant le nom. Le plan du parc, c'est parc carte : « gōngyuán dìtú ».",
     "say": {
      "gōngyuán dìtú": "公园地图"
     }
    },
    {
     "lit": "paysage, beau à voir, petit mot de question ?",
-    "note": "Joli à regarder se dit bon à voir : « hǎokàn ».",
+    "note": "Joli à regarder se dit bon à voir. Bon à voir se dit « hǎokàn ».",
     "say": {
      "hǎokàn": "好看"
     }
    },
    {
     "lit": "extrêmement, beau !",
-    "note": "Pour dire extrêmement, plus fort que très, on dit « fēicháng ».",
+    "note": "Pour dire plus fort que très, on dit extrêmement. Extrêmement se dit « fēicháng ».",
     "say": {
      "fēicháng": "非常"
     }
    },
    {
     "lit": "toi, affamé, petit mot de question ?",
-    "note": "J'ai faim se dit simplement je affamé : avoir faim, c'est « è ».",
+    "note": "Avoir faim, c'est un adjectif : affamé. Affamé se dit « è ».",
     "say": {
      "è": "饿"
     }
    },
    {
     "lit": "toi, vouloir, eau, petit mot de question ?",
-    "note": "Pour proposer quelque chose, on demande toi vouloir : « nǐ yào ».",
+    "note": "Pour proposer quelque chose, on demande toi vouloir. Toi vouloir se dit « nǐ yào ».",
     "say": {
      "nǐ yào": "你要"
     }
    },
    {
     "lit": "vouloir, merci",
-    "note": "Pour répondre oui, on répète le verbe de la question : je veux, « yào ».",
+    "note": "Pour répondre oui, on répète le verbe de la question. Ici, vouloir : « yào ».",
     "say": {
      "yào": "要"
     }
@@ -8185,70 +8185,70 @@
   "0-0-4": [
    {
     "lit": "je, ne pas, manger, piquant",
-    "note": "La négation, c'est « bù », juste devant le verbe : je ne mange pas.",
+    "note": "La négation se place juste devant le verbe. Ne pas se dit « bù ».",
     "say": {
      "bù": "不"
     }
    },
    {
     "lit": "ce, petit mot de comptage, canard laqué, ne pas, cher",
-    "note": "Pour un canard, le petit mot de comptage est « zhī », celui des animaux.",
+    "note": "Chaque nom a son petit mot de comptage. Pour les animaux, c'est « zhī ».",
     "say": {
      "zhī": "只"
     }
    },
    {
     "lit": "ce, petit mot de comptage, plat, ne pas, être, nous, petit mot du possessif",
-    "note": "Pour dire c'est à nous, on dit nous de : « wǒmen de », sans nom après.",
+    "note": "Pour dire c'est à nous, on dit nous de, sans nom après. Cela donne « wǒmen de ».",
     "say": {
      "wǒmen de": "我们的"
     }
    },
    {
     "lit": "merci, je, ne pas, boire, alcool",
-    "note": "Ne pas reste toujours devant le verbe : je ne bois pas, « bù hē ».",
+    "note": "La négation reste toujours devant le verbe. Je ne bois pas se dit je « bù hē ».",
     "say": {
      "bù hē": "不喝"
     }
    },
    {
     "lit": "je, ne pas, vouloir, riz",
-    "note": "Devant un quatrième ton, ne pas change de ton : je ne veux pas, « bú yào ».",
+    "note": "Devant un quatrième ton, la négation change de ton. Je ne veux pas se dit « bú yào ».",
     "say": {
      "bú yào": "不要"
     }
    },
    {
     "lit": "sauce, ne pas, trop, sucré",
-    "note": "Pas trop, c'est ne pas trop : « bú tài ». Une façon polie d'atténuer.",
+    "note": "Pas trop est une façon polie d'atténuer. Pas trop se dit « bú tài ».",
     "say": {
      "bú tài": "不太"
     }
    },
    {
     "lit": "peau, très, croustillant",
-    "note": "Croustillant se dit « cuì » : un mot très utile au restaurant.",
+    "note": "Un mot très utile au restaurant : croustillant. Croustillant se dit « cuì ».",
     "say": {
      "cuì": "脆"
     }
    },
    {
     "lit": "canard laqué, très, bon à manger",
-    "note": "Délicieux se dit bon à manger : « hǎochī ».",
+    "note": "Délicieux se dit bon à manger. Bon à manger se dit « hǎochī ».",
     "say": {
      "hǎochī": "好吃"
     }
    },
    {
     "lit": "toi, ne pas, affamé, petit mot de question ?",
-    "note": "Une question négative se forme pareil : on met « ma » au bout de la phrase.",
+    "note": "Une question négative se forme comme une autre. On met à la fin « ma ».",
     "say": {
      "ma": "吗"
     }
    },
    {
     "lit": "je, ne pas, pressé",
-    "note": "Un adjectif nié n'a pas besoin de très : je ne suis pas pressé, « bù jí ».",
+    "note": "Avec la négation, pas besoin de très devant l'adjectif. Je ne suis pas pressé se dit je « bù jí ».",
     "say": {
      "bù jí": "不急"
     }
@@ -8257,70 +8257,70 @@
   "0-0-5": [
    {
     "lit": "nous, chercher, logement",
-    "note": "Chercher se dit « zhǎo », et le verbe ne change jamais.",
+    "note": "Le verbe ne change jamais, quelle que soit la personne. Chercher se dit « zhǎo ».",
     "say": {
      "zhǎo": "找"
     }
    },
    {
     "lit": "elle, être, propriétaire",
-    "note": "La propriétaire, c'est maison maître : « fángdōng ».",
+    "note": "La propriétaire, c'est la maîtresse de maison. Propriétaire se dit « fángdōng ».",
     "say": {
      "fángdōng": "房东"
     }
    },
    {
     "lit": "ils, habiter, à, étage-dessus",
-    "note": "Pour mettre il au pluriel, on ajoute « men » : ils, c'est tāmen.",
+    "note": "Pour mettre une personne au pluriel, on ajoute un petit mot. Ce petit mot, c'est « men ». Il devient ils.",
     "say": {
      "men": "们"
     }
    },
    {
     "lit": "vous, combien, petit mot de comptage, personne ?",
-    "note": "Pour demander un petit nombre, on emploie « jǐ », combien, toujours suivi d'un petit mot de comptage.",
+    "note": "Pour demander un petit nombre, on dit combien, suivi d'un petit mot de comptage. Combien se dit « jǐ ».",
     "say": {
      "jǐ": "几"
     }
    },
    {
     "lit": "nous, deux, petit mot de comptage, personne",
-    "note": "Deux, devant un petit mot de comptage, ne se dit pas èr mais « liǎng ».",
+    "note": "Devant un petit mot de comptage, deux ne se dit pas èr. Il se dit « liǎng ».",
     "say": {
      "liǎng": "两"
     }
    },
    {
     "lit": "toi, aimer, ce, petit mot de comptage, logement, petit mot de question ?",
-    "note": "Aimer, au sens de plaire, se dit « xǐhuan ».",
+    "note": "Aimer, au sens de plaire, se dit « xǐhuan ». Le verbe ne change jamais.",
     "say": {
      "xǐhuan": "喜欢"
     }
    },
    {
     "lit": "je, très, aimer",
-    "note": "Pour dire beaucoup avec un verbe d'émotion, on met très devant : « hěn xǐhuan ».",
+    "note": "Pour dire beaucoup avec aimer, on met très devant. J'aime beaucoup se dit je « hěn xǐhuan ».",
     "say": {
      "hěn xǐhuan": "很喜欢"
     }
    },
    {
     "lit": "elle, ne pas, aimer, cuisine",
-    "note": "Ne pas aimer, c'est simplement ne pas devant aimer : « bù xǐhuan ».",
+    "note": "Ne pas aimer, c'est simplement ne pas devant aimer. Cela donne « bù xǐhuan ».",
     "say": {
      "bù xǐhuan": "不喜欢"
     }
    },
    {
     "lit": "nous, louer, ce, petit mot de comptage",
-    "note": "Pour un appartement, le petit mot de comptage est « tào » : ce logement-ci.",
+    "note": "Chaque nom a son petit mot de comptage. Pour un appartement, c'est « tào ».",
     "say": {
      "tào": "套"
     }
    },
    {
     "lit": "s'il vous plaît, vous (poli), à, ici, signer",
-    "note": "Le lieu de l'action se place avant le verbe : à ici signer. « zài zhèr » vient avant signer.",
+    "note": "Le lieu de l'action se place avant le verbe. Ici, on dit d'abord à ici : « zài zhèr ». Puis vient signer.",
     "say": {
      "zài zhèr": "在这儿"
     }
@@ -8329,28 +8329,28 @@
   "0-0-6": [
    {
     "lit": "ceci, être, je, petit mot du possessif, chambre",
-    "note": "Ma chambre, c'est je de chambre : « wǒ de ».",
+    "note": "Pour dire ma, on dit je de. Je de se dit « wǒ de ».",
     "say": {
      "wǒ de": "我的"
     }
    },
    {
     "lit": "ceci, être, toi, petit mot du possessif, valise, petit mot de question ?",
-    "note": "Ta, c'est toi de : « nǐ de ». Le même petit mot sert à tous les possessifs.",
+    "note": "Pour dire ta, on dit toi de. Toi de se dit « nǐ de ».",
     "say": {
      "nǐ de": "你的"
     }
    },
    {
     "lit": "ne pas, être, être, je, épouse, petit mot du possessif",
-    "note": "Pour répondre non à une question avec être, on dit ne pas être : « bú shì ».",
+    "note": "Pour répondre non à une question avec être, on nie le verbe être. Ne pas être se dit « bú shì ».",
     "say": {
      "bú shì": "不是"
     }
    },
    {
     "lit": "nous, petit mot du possessif, salon, très, petit",
-    "note": "Notre se dit nous de : « wǒmen de ».",
+    "note": "Pour dire notre, on dit nous de. Nous de se dit « wǒmen de ».",
     "say": {
      "wǒmen de": "我们的"
     }
@@ -8364,35 +8364,35 @@
    },
    {
     "lit": "toi, petit mot du possessif, clé, petit mot pour dire et alors ?",
-    "note": "Le petit mot « ne », à la fin, veut dire : et ça, alors ?",
+    "note": "Pour dire et ça, alors ?, on ajoute un petit mot à la fin. Ce petit mot, c'est « ne ».",
     "say": {
      "ne": "呢"
     }
    },
    {
     "lit": "porte, petit mot du possessif, code, être, combien ?",
-    "note": "Pour demander un code ou un numéro, on dit combien : « duōshao ».",
+    "note": "Pour demander un code ou un numéro, on demande combien. Combien se dit « duōshao ».",
     "say": {
      "duōshao": "多少"
     }
    },
    {
     "lit": "cuisine, petit mot du possessif, fenêtre, abîmé, petit mot de l'action accomplie",
-    "note": "Le petit mot « le » après un adjectif dit que l'état a changé : elle est cassée maintenant.",
+    "note": "Après un adjectif, un petit mot dit que l'état a changé. Ce petit mot, c'est « le ». La fenêtre est cassée maintenant.",
     "say": {
      "le": "了"
     }
    },
    {
     "lit": "je, petit mot du possessif, ami, aujourd'hui, soir, venir",
-    "note": "Le moment se place avant le verbe : ce soir, « jīntiān wǎnshang », puis venir.",
+    "note": "Le moment se place avant le verbe. Ce soir se dit « jīntiān wǎnshang ». Puis vient venir.",
     "say": {
      "jīntiān wǎnshang": "今天晚上"
     }
    },
    {
     "lit": "je, maman, très, content",
-    "note": "Pour la famille proche, on supprime le petit mot du possessif : ma mère, « wǒ māma ».",
+    "note": "Pour la famille proche, on supprime le petit mot du possessif. Ma mère se dit simplement « wǒ māma ».",
     "say": {
      "wǒ māma": "我妈妈"
     }
@@ -8401,70 +8401,70 @@
   "0-0-7": [
    {
     "lit": "aujourd'hui, très, chaud",
-    "note": "Pour la météo, pas besoin de il fait : aujourd'hui très chaud, « hěn rè ».",
+    "note": "Pour la météo, pas besoin de il fait. Il fait très chaud se dit « hěn rè ».",
     "say": {
      "hěn rè": "很热"
     }
    },
    {
     "lit": "ciel, très, bleu",
-    "note": "Le ciel se dit simplement « tiān ».",
+    "note": "Le ciel se dit simplement « tiān ». On retrouve ce mot dans aujourd'hui et demain.",
     "say": {
      "tiān": "天"
     }
    },
    {
     "lit": "vent, très, grand",
-    "note": "Pour le vent, on dit qu'il est grand : « fēng hěn dà ».",
+    "note": "Pour le vent, on dit qu'il est grand. Le vent souffle fort se dit « fēng hěn dà ».",
     "say": {
      "fēng hěn dà": "风很大"
     }
    },
    {
     "lit": "air, très, sec",
-    "note": "Sec se dit « gān ».",
+    "note": "Pas de verbe être devant un adjectif. Sec se dit « gān ».",
     "say": {
      "gān": "干"
     }
    },
    {
     "lit": "demain, très, froid",
-    "note": "Il n'y a pas de futur : le mot demain, « míngtiān », suffit à situer dans le temps.",
+    "note": "Il n'y a pas de futur en chinois. Le mot demain suffit : « míngtiān ».",
     "say": {
      "míngtiān": "明天"
     }
    },
    {
     "lit": "tomber, pluie, petit mot de l'action accomplie",
-    "note": "Il pleut se dit tomber pluie : « xià yǔ ».",
+    "note": "Il pleut se dit la pluie tombe. Cela donne « xià yǔ ».",
     "say": {
      "xià yǔ": "下雨"
     }
    },
    {
     "lit": "aujourd'hui, matin, ne pas, froid",
-    "note": "Ce matin, c'est aujourd'hui matin : « jīntiān zǎoshang ».",
+    "note": "Ce matin se dit aujourd'hui matin. Cela donne « jīntiān zǎoshang ».",
     "say": {
      "jīntiān zǎoshang": "今天早上"
     }
    },
    {
     "lit": "Pékin, petit mot du possessif, été, très, chaud",
-    "note": "L'été se dit « xiàtiān ». Toutes les saisons finissent par tiān.",
+    "note": "Toutes les saisons finissent par le même mot. L'été se dit « xiàtiān ».",
     "say": {
      "xiàtiān": "夏天"
     }
    },
    {
     "lit": "automne, très, confortable",
-    "note": "Le mot confortable, « shūfu », sert aussi pour un temps agréable.",
+    "note": "Le mot confortable sert aussi pour un temps agréable. Confortable se dit « shūfu ».",
     "say": {
      "shūfu": "舒服"
     }
    },
    {
     "lit": "dehors, temps, bon, petit mot de question ?",
-    "note": "Le temps qu'il fait se dit « tiānqì ».",
+    "note": "Le temps qu'il fait se dit « tiānqì ». Bon temps se dit temps bon.",
     "say": {
      "tiānqì": "天气"
     }
@@ -8473,70 +8473,70 @@
   "0-0-8": [
    {
     "lit": "ce, petit mot de comptage, combien, argent ?",
-    "note": "Ça, devant un prix, c'est ce plus le petit mot de comptage : « zhège ».",
+    "note": "Pour dire ça, on dit ce, suivi du petit mot de comptage. Cela donne « zhège ».",
     "say": {
      "zhège": "这个"
     }
    },
    {
     "lit": "ce-là, petit mot de comptage, petit mot pour dire et alors ?",
-    "note": "Celui-là se dit « nàge » : là-bas plus le petit mot de comptage.",
+    "note": "Pour dire celui-là, on dit là-bas plus le petit mot de comptage. Cela donne « nàge ».",
     "say": {
      "nàge": "那个"
     }
    },
    {
     "lit": "ces, pomme, très, frais",
-    "note": "Pour ces, au pluriel, on dit « zhèxiē ».",
+    "note": "Pour dire ces, au pluriel, on emploie un mot spécial. Ces se dit « zhèxiē ».",
     "say": {
      "zhèxiē": "这些"
     }
    },
    {
     "lit": "ces-là, fraise, très, beau à voir",
-    "note": "Ces-là, au pluriel et à distance, se dit « nàxiē ».",
+    "note": "Pour dire ces-là, à distance, on emploie un autre mot. Ces-là se dit « nàxiē ».",
     "say": {
      "nàxiē": "那些"
     }
    },
    {
     "lit": "je, vouloir, ce, petit mot de comptage",
-    "note": "Pour dire je prends, dans un magasin, on dit je veux : « wǒ yào ».",
+    "note": "Dans un magasin, je prends se dit je veux. Je veux se dit « wǒ yào ».",
     "say": {
      "wǒ yào": "我要"
     }
    },
    {
     "lit": "ne pas, être, ce-là, petit mot de comptage",
-    "note": "Pour dire non, pas celui-là, on nie le verbe être : « bú shì ».",
+    "note": "Pour dire non, pas celui-là, on nie le verbe être. Ne pas être se dit « bú shì ».",
     "say": {
      "bú shì": "不是"
     }
    },
    {
     "lit": "ceci, être, quel, fruit ?",
-    "note": "Quel, devant un nom, se dit « shénme ».",
+    "note": "Pour dire quel devant un nom, on emploie le mot quoi. Quoi se dit « shénme ».",
     "say": {
      "shénme": "什么"
     }
    },
    {
     "lit": "ceci, être, litchi",
-    "note": "Pour présenter une chose, on dit ceci être : « zhè shì ».",
+    "note": "Pour présenter une chose, on dit ceci être. Ceci être se dit « zhè shì ».",
     "say": {
      "zhè shì": "这是"
     }
    },
    {
     "lit": "ce, petit mot de comptage, marché, très, animé",
-    "note": "Animé, plein de vie et de bruit, se dit « rènao ».",
+    "note": "Un marché plein de vie et de bruit, c'est un marché animé. Animé se dit « rènao ».",
     "say": {
      "rènao": "热闹"
     }
    },
    {
     "lit": "ce-là, petit mot de comptage, patron, très, bien",
-    "note": "Le marchand se dit « lǎobǎn », le patron.",
+    "note": "Le marchand, c'est le patron de l'échoppe. Patron se dit « lǎobǎn ».",
     "say": {
      "lǎobǎn": "老板"
     }
@@ -8545,70 +8545,70 @@
   "0-0-9": [
    {
     "lit": "je, chaque jour, s'asseoir, métro",
-    "note": "Le moment se place avant le verbe : chaque jour, « měitiān », puis prendre le métro.",
+    "note": "Le moment se place avant le verbe. Chaque jour se dit « měitiān ». Puis vient prendre le métro.",
     "say": {
      "měitiān": "每天"
     }
    },
    {
     "lit": "je, demain, aller, Cité interdite",
-    "note": "Demain se place avant le verbe, jamais à la fin : « míngtiān », puis aller.",
+    "note": "Le moment se place avant le verbe, jamais à la fin. Demain se dit « míngtiān ».",
     "say": {
      "míngtiān": "明天"
     }
    },
    {
     "lit": "je, à, Xidan, changer, véhicule",
-    "note": "Le lieu de l'action se place avant le verbe, avec « zài » : à Xidan, changer.",
+    "note": "Le lieu de l'action se place avant le verbe. Il commence par « zài ». Ici, à Xidan, puis changer.",
     "say": {
      "zài": "在"
     }
    },
    {
     "lit": "elle, à, guichet, acheter, billet",
-    "note": "Le guichet se dit fenêtre bouche : « chuāngkǒu ».",
+    "note": "Le guichet, c'est la fenêtre où l'on parle. Guichet se dit « chuāngkǒu ».",
     "say": {
      "chuāngkǒu": "窗口"
     }
    },
    {
     "lit": "nous, aujourd'hui, soir, à, dehors, manger, repas",
-    "note": "Manger un repas, au sens de prendre son repas, se dit « chī fàn ».",
+    "note": "Prendre son repas se dit manger le repas. Cela donne « chī fàn ».",
     "say": {
      "chī fàn": "吃饭"
     }
    },
    {
     "lit": "je, suivant, un, station, descendre, véhicule",
-    "note": "Descendre d'un véhicule se dit descendre véhicule : « xià chē ».",
+    "note": "Pour descendre d'un véhicule, on dit descendre véhicule. Cela donne « xià chē ».",
     "say": {
      "xià chē": "下车"
     }
    },
    {
     "lit": "matin, métro, personne, très, nombreux",
-    "note": "Bondé, c'est les gens très nombreux : « rén hěn duō ».",
+    "note": "Pour dire bondé, on dit les gens sont nombreux. Cela donne « rén hěn duō ».",
     "say": {
      "rén hěn duō": "人很多"
     }
    },
    {
     "lit": "il, à, métro, dessus, lire, livre",
-    "note": "Dans le métro se dit métro dessus : « dìtiě shang ».",
+    "note": "Dans le métro se dit métro dessus. Cela donne « dìtiě shang ».",
     "say": {
      "dìtiě shang": "地铁上"
     }
    },
    {
     "lit": "je, à, sortie, attendre, toi",
-    "note": "Attendre se dit « děng », et la personne attendue vient juste après.",
+    "note": "La personne attendue vient juste après le verbe. Attendre se dit « děng ».",
     "say": {
      "děng": "等"
     }
    },
    {
     "lit": "Pékin, petit mot du possessif, métro, très, pratique",
-    "note": "Pratique se dit « fāngbiàn ».",
+    "note": "Pas de verbe être devant un adjectif. Pratique se dit « fāngbiàn ».",
     "say": {
      "fāngbiàn": "方便"
     }
@@ -8617,70 +8617,70 @@
   "0-0-10": [
    {
     "lit": "un, deux, trois, quatre, cinq !",
-    "note": "Les chiffres de un à cinq : « yī, èr, sān, sì, wǔ ».",
+    "note": "Voici les chiffres de un à cinq. Écoute-les bien : « yī, èr, sān, sì, wǔ ».",
     "say": {
      "yī, èr, sān, sì, wǔ": "一，二，三，四，五"
     }
    },
    {
     "lit": "je, trois-dix, an d'âge",
-    "note": "Pour l'âge, pas de verbe : je trente ans, « sānshí suì ».",
+    "note": "Pour dire son âge, pas de verbe. J'ai trente ans se dit je « sānshí suì ».",
     "say": {
      "sānshí suì": "三十岁"
     }
    },
    {
     "lit": "je, maison, être à, huit, étage",
-    "note": "L'étage se dit « lóu », placé après le chiffre : huit étage.",
+    "note": "Pour l'étage, le mot étage se place après le chiffre. Étage se dit « lóu ».",
     "say": {
      "lóu": "楼"
     }
    },
    {
     "lit": "dix-cinq, kuai",
-    "note": "Quinze, c'est dix cinq : « shíwǔ ».",
+    "note": "Quinze, c'est dix cinq. Quinze se dit « shíwǔ ».",
     "say": {
      "shíwǔ": "十五"
     }
    },
    {
     "lit": "un, cent, kuai",
-    "note": "Cent se dit « yìbǎi », un cent.",
+    "note": "Cent, c'est un cent. Cent se dit « yìbǎi ».",
     "say": {
      "yìbǎi": "一百"
     }
    },
    {
     "lit": "je, s'asseoir, dix, numéro, ligne",
-    "note": "Pour une ligne de métro, on dit numéro ligne : « hào xiàn ».",
+    "note": "Pour une ligne de métro, on dit numéro ligne. Cela donne « hào xiàn ».",
     "say": {
      "hào xiàn": "号线"
     }
    },
    {
     "lit": "nous, dix-un, petit mot de comptage, personne",
-    "note": "Onze, c'est dix un : « shíyī ».",
+    "note": "Onze, c'est dix un. Onze se dit « shíyī ».",
     "say": {
      "shíyī": "十一"
     }
    },
    {
     "lit": "je, petit mot du possessif, chambre, être, deux, zéro, un",
-    "note": "Dans les numéros de chambre ou de téléphone, le chiffre un se dit « yāo ».",
+    "note": "Dans un numéro de chambre ou de téléphone, le chiffre un change. Il se dit « yāo ».",
     "say": {
      "yāo": "幺"
     }
    },
    {
     "lit": "je, vouloir, deux, petit mot de comptage, billet",
-    "note": "Pour les billets, le petit mot de comptage est « zhāng », celui des choses plates.",
+    "note": "Chaque nom a son petit mot de comptage. Pour un billet, comme pour tout ce qui est plat, c'est « zhāng ».",
     "say": {
      "zhāng": "张"
     }
    },
    {
     "lit": "je, fils, six, an d'âge",
-    "note": "Mon fils, c'est je fils, sans petit mot du possessif : « wǒ érzi ».",
+    "note": "Pour la famille proche, pas de petit mot du possessif. Mon fils se dit « wǒ érzi ».",
     "say": {
      "wǒ érzi": "我儿子"
     }
@@ -8689,70 +8689,70 @@
   "0-0-11": [
    {
     "lit": "je, vouloir, deux, petit mot de comptage, baozi",
-    "note": "Le petit mot de comptage le plus courant est « ge » : il marche presque partout.",
+    "note": "Le petit mot de comptage le plus courant marche presque partout. C'est « ge ».",
     "say": {
      "ge": "个"
     }
    },
    {
     "lit": "venir, un, assiette, jiaozi",
-    "note": "Pour commander, on dit souvent venir : « lái », comme qu'il vienne une assiette.",
+    "note": "Pour commander, on dit souvent : qu'il vienne une assiette. Venir se dit « lái ».",
     "say": {
      "lái": "来"
     }
    },
    {
     "lit": "encore, venir, un, bol, soupe",
-    "note": "Encore une fois, pour une nouvelle commande, se dit « zài ».",
+    "note": "Pour une nouvelle commande, on dit encore une fois. Encore se dit « zài ».",
     "say": {
      "zài": "再"
     }
    },
    {
     "lit": "un, assiette, avoir, combien, petit mot de comptage, jiaozi ?",
-    "note": "Combien, pour un grand nombre, se dit « duōshao ».",
+    "note": "Pour un nombre qui peut être grand, on emploie un autre combien. Ce combien, c'est « duōshao ».",
     "say": {
      "duōshao": "多少"
     }
    },
    {
     "lit": "deux-dix, petit mot de comptage",
-    "note": "Vingt, c'est deux dix : « èrshí ».",
+    "note": "Vingt, c'est deux dix. Vingt se dit « èrshí ».",
     "say": {
      "èrshí": "二十"
     }
    },
    {
     "lit": "encore, vouloir, trois, bouteille, eau",
-    "note": "En plus, aussi, se dit « hái » devant vouloir.",
+    "note": "Pour dire en plus, on met aussi devant vouloir. Aussi se dit ici « hái ».",
     "say": {
      "hái": "还"
     }
    },
    {
     "lit": "avoir, un, petit mot de comptage, libre, table, petit mot de question ?",
-    "note": "Une table se compte avec « zhāng », comme tout ce qui est plat.",
+    "note": "Une table se compte comme tout ce qui est plat. Son petit mot, c'est « zhāng ».",
     "say": {
      "zhāng": "张"
     }
    },
    {
     "lit": "ces, baozi, être, viande, petit mot du possessif, petit mot de question ?",
-    "note": "À la viande se dit viande de : « ròu de ».",
+    "note": "Pour dire à la viande, on dit viande de. Cela donne « ròu de ».",
     "say": {
      "ròu de": "肉的"
     }
    },
    {
     "lit": "s'il vous plaît, donner, moi, un, paire, baguettes",
-    "note": "Une paire se dit « shuāng ».",
+    "note": "Les baguettes vont toujours par deux. Une paire se dit « shuāng ».",
     "say": {
      "shuāng": "双"
     }
    },
    {
     "lit": "ce, petit mot de comptage, petit, restaurant, vraiment, pas mal",
-    "note": "Pour un restaurant ou un magasin, le petit mot de comptage est « jiā ».",
+    "note": "Chaque nom a son petit mot de comptage. Pour un restaurant ou un magasin, c'est « jiā ».",
     "say": {
      "jiā": "家"
     }
@@ -8761,70 +8761,70 @@
   "0-0-12": [
    {
     "lit": "vous, avoir, œuf de poule, petit mot de question ?",
-    "note": "Pour dire avoir, c'est « yǒu », et il ne change jamais.",
+    "note": "Le verbe avoir ne change jamais. Avoir se dit « yǒu ».",
     "say": {
      "yǒu": "有"
     }
    },
    {
     "lit": "ne pas, avoir, petit mot de l'action accomplie",
-    "note": "Avoir a sa propre négation : ne pas avoir se dit « méiyǒu ».",
+    "note": "Avoir a sa propre négation. Ne pas avoir se dit « méiyǒu ».",
     "say": {
      "méiyǒu": "没有"
     }
    },
    {
     "lit": "avoir, tofu, petit mot de question ?",
-    "note": "Il y a, c'est simplement avoir : « yǒu ».",
+    "note": "Il y a se dit simplement avoir. Avoir se dit « yǒu ».",
     "say": {
      "yǒu": "有"
     }
    },
    {
     "lit": "je, ne pas, avoir, sac",
-    "note": "Avec avoir, on ne dit jamais bù : je n'ai pas se dit « méiyǒu ».",
+    "note": "Avec avoir, on ne dit jamais bù. Je n'ai pas se dit je « méiyǒu ».",
     "say": {
      "méiyǒu": "没有"
     }
    },
    {
     "lit": "je, avoir, petite monnaie",
-    "note": "La petite monnaie se dit « língqián », l'argent en morceaux.",
+    "note": "La petite monnaie, c'est l'argent en morceaux. Petite monnaie se dit « língqián ».",
     "say": {
      "língqián": "零钱"
     }
    },
    {
     "lit": "vous, ne pas, avoir, lait, petit mot de question ?",
-    "note": "Une question négative : vous n'avez pas, « méiyǒu », puis ma à la fin.",
+    "note": "Une question négative avec avoir commence par ne pas avoir. Ne pas avoir se dit « méiyǒu ». Puis on ajoute ma à la fin.",
     "say": {
      "méiyǒu": "没有"
     }
    },
    {
     "lit": "ici, avoir, très, nombreux, légume",
-    "note": "Beaucoup de, devant un nom, se dit très nombreux : « hěn duō ».",
+    "note": "Beaucoup de, devant un nom, se dit très nombreux. Cela donne « hěn duō ».",
     "say": {
      "hěn duō": "很多"
     }
    },
    {
     "lit": "je, ne pas, avoir, espèces",
-    "note": "Les espèces se disent « xiànjīn ».",
+    "note": "Pour payer en liquide, il faut des espèces. Espèces se dit « xiànjīn ».",
     "say": {
      "xiànjīn": "现金"
     }
    },
    {
     "lit": "pouvoir, utiliser, téléphone, payer, argent, petit mot de question ?",
-    "note": "Pour dire on peut, avec permission, on emploie « kěyǐ ».",
+    "note": "Pour demander la permission, on emploie pouvoir. Pouvoir se dit « kěyǐ ».",
     "say": {
      "kěyǐ": "可以"
     }
    },
    {
     "lit": "ne pas, problème, monsieur",
-    "note": "Pas de problème se dit « méi wèntí ».",
+    "note": "Pas de problème est une réponse très courante. Elle se dit « méi wèntí ».",
     "say": {
      "méi wèntí": "没问题"
     }
@@ -8833,70 +8833,70 @@
   "0-0-13": [
    {
     "lit": "toi, être à, où ?",
-    "note": "Être à un endroit se dit « zài ». Ce n'est pas le même être que shì.",
+    "note": "Pour dire être à un endroit, on n'emploie pas shì. On emploie « zài ».",
     "say": {
      "zài": "在"
     }
    },
    {
     "lit": "je, être à, hutong, dedans",
-    "note": "Dans se place après le lieu : hutong dedans, « li ».",
+    "note": "En chinois, dans se place après le lieu. Dedans se dit « li ».",
     "say": {
      "li": "里"
     }
    },
    {
     "lit": "public, toilettes, être à, où ?",
-    "note": "Où se place à la fin, là où serait la réponse : « nǎr ».",
+    "note": "Le mot où se place à la fin, là où serait la réponse. Où se dit « nǎr ».",
     "say": {
      "nǎr": "哪儿"
     }
    },
    {
     "lit": "être à, gauche-côté",
-    "note": "À gauche se dit côté gauche : « zuǒbian ».",
+    "note": "À gauche se dit côté gauche. Cela donne « zuǒbian ».",
     "say": {
      "zuǒbian": "左边"
     }
    },
    {
     "lit": "café, justement, être à, en face",
-    "note": "Juste, pour insister sur la proximité, se dit « jiù ».",
+    "note": "Pour insister sur la proximité, on dit juste. Juste se dit « jiù ».",
     "say": {
      "jiù": "就"
     }
    },
    {
     "lit": "je, maison, justement, être à, alentours",
-    "note": "Tout près se dit les alentours : « fùjìn ».",
+    "note": "Tout près se dit dans les alentours. Alentours se dit « fùjìn ».",
     "say": {
      "fùjìn": "附近"
     }
    },
    {
     "lit": "parc, ne pas, loin",
-    "note": "Loin se dit « yuǎn », et sans verbe être.",
+    "note": "Pas de verbe être devant un adjectif. Loin se dit « yuǎn ».",
     "say": {
      "yuǎn": "远"
     }
    },
    {
     "lit": "tour du Tambour, être à, nord-côté",
-    "note": "Au nord se dit côté nord : « běibian ».",
+    "note": "Au nord se dit côté nord. Cela donne « běibian ».",
     "say": {
      "běibian": "北边"
     }
    },
    {
     "lit": "toi, petit mot du possessif, vélo, être à, dehors",
-    "note": "Dehors se dit « wàimiàn ».",
+    "note": "Le lieu vient après être à. Dehors se dit « wàimiàn ».",
     "say": {
      "wàimiàn": "外面"
     }
    },
    {
     "lit": "je, ne pas, être à, maison",
-    "note": "Pour dire je ne suis pas à la maison, la négation est « bú zài ».",
+    "note": "Pour dire ne pas être à un endroit, on nie zài. Cela donne « bú zài ».",
     "say": {
      "bú zài": "不在"
     }
@@ -8905,70 +8905,70 @@
   "0-0-14": [
    {
     "lit": "je, sept, heure, se lever",
-    "note": "L'heure se place avant le verbe : sept heures, se lever. Heure se dit « diǎn ».",
+    "note": "L'heure se place avant le verbe. Heure se dit « diǎn ».",
     "say": {
      "diǎn": "点"
     }
    },
    {
     "lit": "maintenant, combien, heure ?",
-    "note": "Pour demander l'heure, on dit combien heure : « jǐ diǎn ».",
+    "note": "Pour demander l'heure, on dit combien heure. Cela donne « jǐ diǎn ».",
     "say": {
      "jǐ diǎn": "几点"
     }
    },
    {
     "lit": "huit, heure, demi",
-    "note": "Et demie se dit « bàn », juste après l'heure.",
+    "note": "Et demie se place juste après l'heure. Demie se dit « bàn ».",
     "say": {
      "bàn": "半"
     }
    },
    {
     "lit": "je, sept, heure, un, quart, manger, petit-déjeuner",
-    "note": "Et quart se dit un quart : « yí kè ».",
+    "note": "Et quart se dit un quart. Cela donne « yí kè ».",
     "say": {
      "yí kè": "一刻"
     }
    },
    {
     "lit": "neuf, heure, dix, minute",
-    "note": "Les minutes se disent « fēn », après le chiffre.",
+    "note": "Les minutes viennent après le chiffre. Minute se dit « fēn ».",
     "say": {
      "fēn": "分"
     }
    },
    {
     "lit": "je, petit mot du possessif, métro, huit, heure, zéro, cinq, minute, arriver",
-    "note": "Arriver se dit « dào », et il se met tout à la fin.",
+    "note": "Le verbe arriver se met tout à la fin. Arriver se dit « dào ».",
     "say": {
      "dào": "到"
     }
    },
    {
     "lit": "je, neuf, heure, aller au travail",
-    "note": "Commencer le travail se dit monter au travail : « shàngbān ».",
+    "note": "Commencer le travail se dit monter au travail. Cela donne « shàngbān ».",
     "say": {
      "shàngbān": "上班"
     }
    },
    {
     "lit": "je, matin, boire, jasmin-thé",
-    "note": "Le thé au jasmin se dit « mòlìhuāchá ».",
+    "note": "Le thé préféré des Pékinois est le thé au jasmin. Il se dit « mòlìhuāchá ».",
     "say": {
      "mòlìhuāchá": "茉莉花茶"
     }
    },
    {
     "lit": "manquer, cinq, minute, deux, heure",
-    "note": "Moins, pour l'heure, se dit manquer : « chà », placé au début.",
+    "note": "Pour l'heure, moins se dit manquer. Il se place au début : « chà ».",
     "say": {
      "chà": "差"
     }
    },
    {
     "lit": "fichu, petit mot de l'action accomplie, je, arriver en retard, petit mot de l'action accomplie !",
-    "note": "Être en retard se dit « chídào ».",
+    "note": "Être en retard, c'est un seul verbe. Il se dit « chídào ».",
     "say": {
      "chídào": "迟到"
     }
@@ -8977,70 +8977,70 @@
   "0-0-15": [
    {
     "lit": "allô, toi, être, qui ?",
-    "note": "Au téléphone, allô se dit « wéi ».",
+    "note": "Au téléphone, on ne dit pas nǐ hǎo. Allô se dit « wéi ».",
     "say": {
      "wéi": "喂"
     }
    },
    {
     "lit": "être, moi, Paul",
-    "note": "Pour dire c'est moi, on dit être moi : « shì wǒ ».",
+    "note": "Pour dire c'est moi, on dit être moi. Cela donne « shì wǒ ».",
     "say": {
      "shì wǒ": "是我"
     }
    },
    {
     "lit": "toi, maintenant, être à, où ?",
-    "note": "Maintenant se place avant le verbe : « xiànzài ».",
+    "note": "Le moment se place avant le verbe. Maintenant se dit « xiànzài ».",
     "say": {
      "xiànzài": "现在"
     }
    },
    {
     "lit": "toi, aujourd'hui, soir, faire, quoi ?",
-    "note": "Quoi se met à la place de la réponse, en fin de phrase : « shénme ».",
+    "note": "Le mot quoi se met à la place de la réponse, en fin de phrase. Quoi se dit « shénme ».",
     "say": {
      "shénme": "什么"
     }
    },
    {
     "lit": "toi, combien, heure, rentrer, maison ?",
-    "note": "Rentrer à la maison se dit retourner maison : « huí jiā ».",
+    "note": "Rentrer à la maison se dit retourner maison. Cela donne « huí jiā ».",
     "say": {
      "huí jiā": "回家"
     }
    },
    {
     "lit": "toi, petit mot du possessif, téléphone, numéro, être, combien ?",
-    "note": "Le numéro de téléphone se dit « diànhuà hàomǎ ».",
+    "note": "Le numéro de téléphone se dit téléphone numéro. Cela donne « diànhuà hàomǎ ».",
     "say": {
      "diànhuà hàomǎ": "电话号码"
     }
    },
    {
     "lit": "toi, avec, qui, ensemble, venir ?",
-    "note": "Qui se met à la place de la personne dans la phrase : « shéi ».",
+    "note": "Le mot qui se met à la place de la personne dans la phrase. Qui se dit « shéi ».",
     "say": {
      "shéi": "谁"
     }
    },
    {
     "lit": "toi, vouloir, manger, quoi ?",
-    "note": "Avoir envie de manger se dit « xiǎng chī ».",
+    "note": "Avoir envie de manger se dit vouloir manger. Cela donne « xiǎng chī ».",
     "say": {
      "xiǎng chī": "想吃"
     }
    },
    {
     "lit": "combien, petit mot de comptage, personne, venir ?",
-    "note": "Combien de personnes se dit « jǐ ge rén ».",
+    "note": "Pour compter les personnes, on emploie le petit mot de comptage. Combien de personnes se dit « jǐ ge rén ».",
     "say": {
      "jǐ ge rén": "几个人"
     }
    },
    {
     "lit": "je, attendre, un moment, à nouveau, appeler, donner, toi",
-    "note": "Plus tard, dans un instant, se dit attendre un peu : « děng yíxià ».",
+    "note": "Plus tard, dans un instant, se dit attendre un peu. Cela donne « děng yíxià ».",
     "say": {
      "děng yíxià": "等一下"
     }
@@ -9049,70 +9049,70 @@
   "0-0-16": [
    {
     "lit": "nous, tous, enfourcher, partagé, vélo",
-    "note": "Tous se dit « dōu », et il se place toujours avant le verbe.",
+    "note": "Le mot tous se place toujours avant le verbe. Tous se dit « dōu ».",
     "say": {
      "dōu": "都"
     }
    },
    {
     "lit": "je, aussi, enfourcher, vélo",
-    "note": "Aussi se dit « yě », et il se place lui aussi avant le verbe.",
+    "note": "Le mot aussi se place lui aussi avant le verbe. Aussi se dit « yě ».",
     "say": {
      "yě": "也"
     }
    },
    {
     "lit": "elle, aussi, venir",
-    "note": "Elle vient aussi : « yě » vient juste avant le verbe venir.",
+    "note": "Elle vient aussi : le mot aussi vient juste avant venir. Aussi se dit « yě ».",
     "say": {
      "yě": "也"
     }
    },
    {
     "lit": "ces, vélo, tous, être, jaune, petit mot du possessif",
-    "note": "Pour une couleur, on ajoute « de » à la fin : jaune de.",
+    "note": "Pour une couleur, on ajoute un petit mot à la fin. Ce petit mot, c'est « de ».",
     "say": {
      "de": "的"
     }
    },
    {
     "lit": "nous, aussi, tous, très, content",
-    "note": "Quand aussi et tous se suivent, l'ordre est fixe : « yě dōu ».",
+    "note": "Quand aussi et tous se suivent, l'ordre est fixe. Aussi tous se dit « yě dōu ».",
     "say": {
      "yě dōu": "也都"
     }
    },
    {
     "lit": "ici, petit mot du possessif, route, tous, très, plat",
-    "note": "Plat se dit « píng ».",
+    "note": "Pas de verbe être devant un adjectif. Plat se dit « píng ».",
     "say": {
      "píng": "平"
     }
    },
    {
     "lit": "je, petit mot du possessif, ami, tous, enfourcher, vélo",
-    "note": "Faire du vélo se dit enfourcher le vélo : « qí chē ».",
+    "note": "Faire du vélo se dit enfourcher le vélo. Cela donne « qí chē ».",
     "say": {
      "qí chē": "骑车"
     }
    },
    {
     "lit": "enfourcher, vélo, très, pratique, aussi, très, bon marché",
-    "note": "Bon marché se dit « piányi ».",
+    "note": "Pas cher se dit bon marché. Bon marché se dit « piányi ».",
     "say": {
      "piányi": "便宜"
     }
    },
    {
     "lit": "toi, ne pas, avoir peur, petit mot de question ?",
-    "note": "Avoir peur, c'est un seul verbe : « pà ».",
+    "note": "Avoir peur, c'est un seul verbe. Il se dit « pà ».",
     "say": {
      "pà": "怕"
     }
    },
    {
     "lit": "je, aussi, ne pas, avoir peur",
-    "note": "Moi non plus, c'est aussi ne pas : « yě bù ».",
+    "note": "Moi non plus, c'est aussi ne pas. Cela donne « yě bù ».",
     "say": {
      "yě bù": "也不"
     }
@@ -9121,70 +9121,70 @@
   "0-0-17": [
    {
     "lit": "je, vouloir, acheter, un, petit mot de comptage, veste",
-    "note": "Pour un vêtement du haut, le petit mot de comptage est « jiàn ».",
+    "note": "Chaque nom a son petit mot de comptage. Pour un vêtement du haut, c'est « jiàn ».",
     "say": {
      "jiàn": "件"
     }
    },
    {
     "lit": "je, vouloir, essayer, ce, petit mot de comptage, pull",
-    "note": "Pour dire essayer un peu, on double le verbe : « shìshi ».",
+    "note": "Pour dire essayer un peu, on double le verbe. Essayer un peu se dit « shìshi ».",
     "say": {
      "shìshi": "试试"
     }
    },
    {
     "lit": "vous (poli), vouloir, combien, grand, taille, petit mot du possessif ?",
-    "note": "La taille d'un vêtement se dit « hào », numéro.",
+    "note": "La taille d'un vêtement, c'est un numéro. Numéro se dit « hào ».",
     "say": {
      "hào": "号"
     }
    },
    {
     "lit": "s'il vous plaît, donner, moi, grand, un, taille, petit mot du possessif",
-    "note": "Une taille au-dessus, c'est grand d'un numéro : « dà yí hào ».",
+    "note": "Une taille au-dessus se dit grand d'un numéro. Cela donne « dà yí hào ».",
     "say": {
      "dà yí hào": "大一号"
     }
    },
    {
     "lit": "je, vouloir, rouge, petit mot du possessif",
-    "note": "La rouge, c'est rouge de : « hóngsè de », sans répéter le nom.",
+    "note": "Pour dire la rouge, sans répéter le nom, on dit rouge de. Cela donne « hóngsè de ».",
     "say": {
      "hóngsè de": "红色的"
     }
    },
    {
     "lit": "elle, vouloir, acheter, jupe",
-    "note": "Une jupe se dit « qúnzi ».",
+    "note": "Un vêtement de plus à connaître. Une jupe se dit « qúnzi ».",
     "say": {
      "qúnzi": "裙子"
     }
    },
    {
     "lit": "je, ne pas, vouloir, sac, merci",
-    "note": "Je ne veux pas se dit « bú yào ». C'est aussi la façon de refuser poliment.",
+    "note": "Pour refuser poliment, on dit je ne veux pas. Ne pas vouloir se dit « bú yào ».",
     "say": {
      "bú yào": "不要"
     }
    },
    {
     "lit": "toi, vouloir, aller, marché, petit mot de question ?",
-    "note": "Aller au marché : le lieu vient directement après « qù », sans préposition.",
+    "note": "Après aller, le lieu vient directement, sans préposition. Aller se dit « qù ».",
     "say": {
      "qù": "去"
     }
    },
    {
     "lit": "ce, petit mot de comptage, manteau, trop, cher, petit mot d'exclamation",
-    "note": "Trop, pour un défaut, se dit « tài », souvent avec le à la fin.",
+    "note": "Pour un défaut, trop se dit « tài ». On ajoute souvent le petit mot le à la fin.",
     "say": {
      "tài": "太"
     }
    },
    {
     "lit": "bien, je, vouloir, ce-là, petit mot de comptage",
-    "note": "Pour accepter, on dit simplement bien : « hǎo ».",
+    "note": "Pour accepter, on dit simplement bien. Bien se dit « hǎo ».",
     "say": {
      "hǎo": "好"
     }
@@ -9193,70 +9193,70 @@
   "0-0-18": [
    {
     "lit": "nous, aller, Jingshan, parc, petit mot de suggestion !",
-    "note": "Le petit mot « ba », à la fin, transforme la phrase en proposition : allons-y.",
+    "note": "Un petit mot à la fin transforme la phrase en proposition. Ce petit mot, c'est « ba ».",
     "say": {
      "ba": "吧"
     }
    },
    {
     "lit": "nous, grimper, arriver, sommet, petit mot de suggestion",
-    "note": "Jusqu'à, après un verbe de mouvement, se dit « dào ».",
+    "note": "Après un verbe de mouvement, jusqu'à se dit « dào ». Monter jusqu'au sommet, c'est grimper arriver sommet.",
     "say": {
      "dào": "到"
     }
    },
    {
     "lit": "se reposer, un moment, petit mot de suggestion",
-    "note": "Un peu, un moment, après un verbe, se dit « yíxià ».",
+    "note": "Après un verbe, un peu ou un moment se dit « yíxià ». Cela adoucit la proposition.",
     "say": {
      "yíxià": "一下"
     }
    },
    {
     "lit": "prendre, petit mot de comptage, photo, petit mot de suggestion !",
-    "note": "Prendre une photo se dit « pāi zhàopiàn ».",
+    "note": "Prendre une photo se dit prendre une image. Cela donne « pāi zhàopiàn ».",
     "say": {
      "pāi zhàopiàn": "拍照片"
     }
    },
    {
     "lit": "d'accord, partir, petit mot de suggestion !",
-    "note": "D'accord se dit « hǎo de ».",
+    "note": "Pour dire d'accord, on dit bien, avec un petit mot. Cela donne « hǎo de ».",
     "say": {
      "hǎo de": "好的"
     }
    },
    {
     "lit": "toi, regarder, Cité interdite, être à, dessous",
-    "note": "En bas, en dessous, se dit « xiàmiàn ».",
+    "note": "En bas, en dessous, se dit « xiàmiàn ». La Cité interdite est en bas.",
     "say": {
      "xiàmiàn": "下面"
     }
    },
    {
     "lit": "nous, s'asseoir, ici, petit mot de suggestion",
-    "note": "Asseyons-nous ici : avec s'asseoir, le lieu vient après le verbe, « zuò zhèr ».",
+    "note": "Avec s'asseoir, le lieu vient après le verbe. Asseyons-nous ici se dit « zuò zhèr ».",
     "say": {
      "zuò zhèr": "坐这儿"
     }
    },
    {
     "lit": "toi, fatigué, petit mot de l'action accomplie, petit mot de suggestion ?",
-    "note": "Ici, « ba » à la fin veut dire : n'est-ce pas ?",
+    "note": "Le même petit mot sert aussi à dire n'est-ce pas. Ce petit mot, c'est « ba ».",
     "say": {
      "ba": "吧"
     }
    },
    {
     "lit": "nous, s'asseoir, métro, retourner, petit mot de suggestion",
-    "note": "Rentrer, revenir d'où l'on vient, se dit « huíqu ».",
+    "note": "Rentrer, revenir d'où l'on vient, se dit « huíqu ». On rentre en métro.",
     "say": {
      "huíqu": "回去"
     }
    },
    {
     "lit": "ce, petit mot de comptage, idée, pas mal !",
-    "note": "Pas mal, au sens de très bien, se dit « búcuò ».",
+    "note": "Pour dire très bien, les Chinois disent pas mal. Pas mal se dit « búcuò ».",
     "say": {
      "búcuò": "不错"
     }
@@ -9265,70 +9265,70 @@
   "0-0-19": [
    {
     "lit": "tout le monde, bien !",
-    "note": "Bonjour à tous se dit tout le monde bien : « dàjiā hǎo ».",
+    "note": "Bonjour à tous se dit tout le monde bien. Cela donne « dàjiā hǎo ».",
     "say": {
      "dàjiā hǎo": "大家好"
     }
    },
    {
     "lit": "merci, professeur !",
-    "note": "Merci se dit « xièxie ».",
+    "note": "Pour remercier son professeur, on dit d'abord merci. Merci se dit « xièxie ».",
     "say": {
      "xièxie": "谢谢"
     }
    },
    {
     "lit": "pardon, je, petit mot du possessif, chinois, encore, ne pas, trop, bien",
-    "note": "Encore, au sens de pas encore, se dit « hái ».",
+    "note": "Pour dire pas encore très bon, on emploie encore. Encore se dit « hái ».",
     "say": {
      "hái": "还"
     }
    },
    {
     "lit": "ne pas, lien !",
-    "note": "Ça ne fait rien se dit pas de lien : « méi guānxi ».",
+    "note": "Ça ne fait rien se dit pas de lien. Cela donne « méi guānxi ».",
     "say": {
      "méi guānxi": "没关系"
     }
    },
    {
     "lit": "chinois, ne pas, trop, difficile",
-    "note": "Pas si difficile, c'est pas trop difficile : « bú tài nán ».",
+    "note": "Pas si difficile se dit pas trop difficile. Cela donne « bú tài nán ».",
     "say": {
      "bú tài nán": "不太难"
     }
    },
    {
     "lit": "je, savoir, parler, un peu, chinois",
-    "note": "Savoir faire quelque chose, comme parler une langue, se dit « huì ».",
+    "note": "Savoir parler une langue est un savoir appris. Ce savoir se dit « huì ».",
     "say": {
      "huì": "会"
     }
    },
    {
     "lit": "je, très, aimer, Pékin",
-    "note": "J'aime beaucoup se dit je très aimer : « hěn xǐhuan ».",
+    "note": "J'aime beaucoup se dit je très aimer. Cela donne « hěn xǐhuan ».",
     "say": {
      "hěn xǐhuan": "很喜欢"
     }
    },
    {
     "lit": "je, déjà, savoir, quatre, petit mot de comptage, ton, petit mot de l'action accomplie",
-    "note": "Déjà se dit « yǐjīng », placé avant le verbe.",
+    "note": "Le mot déjà se place avant le verbe. Déjà se dit « yǐjīng ».",
     "say": {
      "yǐjīng": "已经"
     }
    },
    {
     "lit": "je, savoir, compter, arriver, un, cent",
-    "note": "Compter se dit « shǔ ».",
+    "note": "Savoir compter, c'est savoir plus compter. Compter se dit « shǔ ».",
     "say": {
      "shǔ": "数"
     }
    },
    {
     "lit": "à nouveau, voir, tourner la tête, voir !",
-    "note": "Au revoir se dit à nouveau voir : « zàijiàn ».",
+    "note": "Au revoir se dit à nouveau voir. Cela donne « zàijiàn ».",
     "say": {
      "zàijiàn": "再见"
     }
@@ -9337,70 +9337,70 @@
   "0-1-0": [
    {
     "lit": "bienvenue, venir, Pékin !",
-    "note": "Bienvenue se dit « huānyíng », suivi de venir et du lieu.",
+    "note": "Pour souhaiter la bienvenue, on dit bienvenue venir, puis le lieu. Bienvenue se dit « huānyíng ».",
     "say": {
      "huānyíng": "欢迎"
     }
    },
    {
     "lit": "ceci, être, moi, petit mot du possessif, passeport",
-    "note": "Le passeport se dit « hùzhào ».",
+    "note": "À la douane, on montre son passeport. Passeport se dit « hùzhào ».",
     "say": {
      "hùzhào": "护照"
     }
    },
    {
     "lit": "vous, être, quel, pays, personne ?",
-    "note": "Pour la nationalité, on demande quel pays personne : « nǎ guó rén ».",
+    "note": "Pour la nationalité, on demande de quel pays est la personne. Cela donne « nǎ guó rén ».",
     "say": {
      "nǎ guó rén": "哪国人"
     }
    },
    {
     "lit": "je, être, France-personne, je, venir, voyager",
-    "note": "Pour dire français, on ajoute personne au nom du pays : « fǎguórén ».",
+    "note": "Pour dire sa nationalité, on ajoute personne au nom du pays. Français se dit « fǎguórén ».",
     "say": {
      "fǎguórén": "法国人"
     }
    },
    {
     "lit": "bagages, se trouver, où ?",
-    "note": "Les bagages se disent « xíngli ».",
+    "note": "Pour les bagages, il y a un mot unique. Bagages se dit « xíngli ».",
     "say": {
      "xíngli": "行李"
     }
    },
    {
     "lit": "je, seulement, avoir, un, petit mot pour compter, valise",
-    "note": "Seulement se dit « zhǐ », placé juste avant le verbe.",
+    "note": "Le mot seulement se place juste avant le verbe. Seulement se dit « zhǐ ».",
     "say": {
      "zhǐ": "只"
     }
    },
    {
     "lit": "ici, avoir, taxi, petit mot de question ?",
-    "note": "Un taxi se dit « chūzūchē », la voiture à louer.",
+    "note": "Le taxi, c'est la voiture à louer. Taxi se dit « chūzūchē ».",
     "say": {
      "chūzūchē": "出租车"
     }
    },
    {
     "lit": "taxi, se trouver, dehors",
-    "note": "Pour dire où se trouve une chose, on met « zài » entre la chose et le lieu.",
+    "note": "Pour dire où se trouve une chose, on met un petit mot entre la chose et le lieu. Ce petit mot, c'est « zài ».",
     "say": {
      "zài": "在"
     }
    },
    {
     "lit": "je, aller, ce, petit mot pour compter, hôtel",
-    "note": "Après aller, le lieu vient tout de suite, sans à : « qù », puis cet hôtel.",
+    "note": "Après aller, le lieu vient tout de suite, sans à. Aller se dit « qù ».",
     "say": {
      "qù": "去"
     }
    },
    {
     "lit": "Pékin, vraiment, grand !",
-    "note": "Pour s'exclamer, on remplace très par vraiment : « zhēn ».",
+    "note": "Pour s'exclamer, on remplace très par vraiment. Vraiment se dit « zhēn ».",
     "say": {
      "zhēn": "真"
     }
@@ -9409,70 +9409,70 @@
   "0-1-1": [
    {
     "lit": "aujourd'hui, nous, se trouver, Pékin",
-    "note": "Le moment se met en tête de phrase ou juste après le sujet : aujourd'hui, « jīntiān ».",
+    "note": "Le moment se met en tête de phrase ou juste après le sujet. Aujourd'hui se dit « jīntiān ».",
     "say": {
      "jīntiān": "今天"
     }
    },
    {
     "lit": "demain, nous, aller, Grande Muraille",
-    "note": "La Grande Muraille se dit le long mur : « Chángchéng ».",
+    "note": "La Grande Muraille, c'est le long mur. Elle se dit « Chángchéng ».",
     "say": {
      "Chángchéng": "长城"
     }
    },
    {
     "lit": "hier, je, encore, se trouver, Paris",
-    "note": "Il n'y a pas de passé : hier, « zuótiān », suffit pour situer l'action.",
+    "note": "Il n'y a pas de passé en chinois. Le mot hier suffit pour situer l'action : « zuótiān ».",
     "say": {
      "zuótiān": "昨天"
     }
    },
    {
     "lit": "aujourd'hui, temps, très, bon",
-    "note": "Il fait beau se dit le temps est bon : « tiānqì hěn hǎo ».",
+    "note": "Il fait beau se dit le temps est bon. Cela donne « tiānqì hěn hǎo ».",
     "say": {
      "tiānqì hěn hǎo": "天气很好"
     }
    },
    {
     "lit": "demain, froid, petit mot de question ?",
-    "note": "Pas de futur : demain froid, et « ma » à la fin pour la question.",
+    "note": "Pas de futur : demain froid suffit. Pour la question, on ajoute à la fin « ma ».",
     "say": {
      "ma": "吗"
     }
    },
    {
     "lit": "aujourd'hui, semaine, combien ?",
-    "note": "Pour demander le jour, on dit semaine combien : « xīngqī jǐ ».",
+    "note": "Pour demander le jour, on dit semaine combien. Cela donne « xīngqī jǐ ».",
     "say": {
      "xīngqī jǐ": "星期几"
     }
    },
    {
     "lit": "aujourd'hui, semaine-six",
-    "note": "Les jours sont numérotés : samedi, c'est semaine six, « xīngqīliù ».",
+    "note": "Les jours de la semaine sont numérotés. Samedi, c'est semaine six : « xīngqīliù ».",
     "say": {
      "xīngqīliù": "星期六"
     }
    },
    {
     "lit": "demain, matin, huit, heure, partir",
-    "note": "Partir, se mettre en route, se dit « chūfā ».",
+    "note": "Le moment vient d'abord, le verbe à la fin. Partir, se mettre en route, se dit « chūfā ».",
     "say": {
      "chūfā": "出发"
     }
    },
    {
     "lit": "après-demain, nous, aller, Xi'an",
-    "note": "Après-demain se dit « hòutiān ».",
+    "note": "Après demain vient après-demain. Après-demain se dit « hòutiān ».",
     "say": {
      "hòutiān": "后天"
     }
    },
    {
     "lit": "toi, aujourd'hui, soir, avoir, temps libre, petit mot de question ?",
-    "note": "Être libre se dit avoir du temps libre : « yǒu kòng ».",
+    "note": "Être libre se dit avoir du temps libre. Cela donne « yǒu kòng ».",
     "say": {
      "yǒu kòng": "有空"
     }
@@ -9481,70 +9481,70 @@
   "0-1-2": [
    {
     "lit": "vous, bien, nous, avoir, réservation",
-    "note": "Bonjour, poliment, se dit « nín hǎo ».",
+    "note": "Pour saluer poliment, on remplace toi par vous. Bonjour se dit alors « nín hǎo ».",
     "say": {
      "nín hǎo": "您好"
     }
    },
    {
     "lit": "vous, s'appeler, quoi, nom ?",
-    "note": "S'appeler se dit « jiào ».",
+    "note": "Pour demander le nom, on emploie le verbe s'appeler. S'appeler se dit « jiào ».",
     "say": {
      "jiào": "叫"
     }
    },
    {
     "lit": "je, s'appeler, Martin",
-    "note": "Je m'appelle se dit simplement je s'appeler : « wǒ jiào ».",
+    "note": "Je m'appelle se dit simplement je s'appeler. Cela donne « wǒ jiào ».",
     "say": {
      "wǒ jiào": "我叫"
     }
    },
    {
     "lit": "vous, petit mot du possessif, chambre, se trouver, huit, étage",
-    "note": "Votre, poliment, c'est « nín de ».",
+    "note": "Pour dire votre, poliment, on dit vous de. Cela donne « nín de ».",
     "say": {
      "nín de": "您的"
     }
    },
    {
     "lit": "ceci, être, vous, petit mot du possessif, carte-chambre",
-    "note": "La carte de la chambre se dit chambre carte : « fángkǎ ».",
+    "note": "La carte de la chambre se dit chambre carte. Cela donne « fángkǎ ».",
     "say": {
      "fángkǎ": "房卡"
     }
    },
    {
     "lit": "petit-déjeuner, combien, heure ?",
-    "note": "Pour demander à quelle heure, on dit combien heure : « jǐ diǎn ».",
+    "note": "Pour demander à quelle heure, on dit combien heure. Cela donne « jǐ diǎn ».",
     "say": {
      "jǐ diǎn": "几点"
     }
    },
    {
     "lit": "petit-déjeuner, sept, heure, commencer",
-    "note": "Commencer se dit « kāishǐ », placé après l'heure.",
+    "note": "L'heure vient d'abord, le verbe ensuite. Commencer se dit « kāishǐ ».",
     "say": {
      "kāishǐ": "开始"
     }
    },
    {
     "lit": "chambre, dedans, avoir, réseau, petit mot de question ?",
-    "note": "Dans la chambre se dit chambre dedans : « fángjiān li ».",
+    "note": "Dans la chambre se dit chambre dedans. Cela donne « fángjiān li ».",
     "say": {
      "fángjiān li": "房间里"
     }
    },
    {
     "lit": "avoir, mot de passe, se trouver, carte, dessus",
-    "note": "Sur se place après le nom : carte dessus, « kǎ shang ».",
+    "note": "Le mot sur se place après le nom. Sur la carte se dit « kǎ shang ».",
     "say": {
      "kǎ shang": "卡上"
     }
    },
    {
     "lit": "ascenseur, se trouver, où ?",
-    "note": "L'ascenseur se dit « diàntī », l'échelle électrique.",
+    "note": "L'ascenseur, c'est l'échelle électrique. Il se dit « diàntī ».",
     "say": {
      "diàntī": "电梯"
     }
@@ -9553,70 +9553,70 @@
   "0-1-3": [
    {
     "lit": "veuillez, un peu, attendre",
-    "note": "Un instant, poliment, se dit « shāo děng ».",
+    "note": "Pour faire patienter poliment, on dit attendre un peu. Cela donne « shāo děng ».",
     "say": {
      "shāo děng": "稍等"
     }
    },
    {
     "lit": "veuillez, entrer",
-    "note": "Avec « qǐng » devant un verbe, on invite poliment : entrez, je vous prie.",
+    "note": "Pour inviter poliment, on met s'il vous plaît devant le verbe. S'il vous plaît se dit « qǐng ».",
     "say": {
      "qǐng": "请"
     }
    },
    {
     "lit": "veuillez, s'asseoir",
-    "note": "Asseyez-vous se dit veuillez s'asseoir : « qǐng zuò ».",
+    "note": "Asseyez-vous se dit veuillez s'asseoir. Cela donne « qǐng zuò ».",
     "say": {
      "qǐng zuò": "请坐"
     }
    },
    {
     "lit": "veuillez, six, heure, appeler-réveiller, moi",
-    "note": "Réveiller quelqu'un se dit « jiàoxǐng », appeler jusqu'à réveiller.",
+    "note": "Réveiller quelqu'un, c'est l'appeler jusqu'à ce qu'il se réveille. Cela donne « jiàoxǐng ».",
     "say": {
      "jiàoxǐng": "叫醒"
     }
    },
    {
     "lit": "salle de bain, ne pas, avoir, chaud-eau",
-    "note": "L'eau chaude se dit chaud eau : « rèshuǐ ».",
+    "note": "L'eau chaude se dit chaud eau. Cela donne « rèshuǐ ».",
     "say": {
      "rèshuǐ": "热水"
     }
    },
    {
     "lit": "je, encore, vouloir, un, petit mot pour compter, serviette",
-    "note": "Une serviette se compte avec « tiáo », comme tout ce qui est long et souple.",
+    "note": "Ce qui est long et souple se compte avec le même petit mot. Pour une serviette, c'est « tiáo ».",
     "say": {
      "tiáo": "条"
     }
    },
    {
     "lit": "veuillez, aider, moi, appeler, un, petit mot pour compter, taxi",
-    "note": "Pour une voiture, le petit mot de comptage est « liàng ».",
+    "note": "Chaque nom a son petit mot de comptage. Pour une voiture, c'est « liàng ».",
     "say": {
      "liàng": "辆"
     }
    },
    {
     "lit": "veuillez, parler, lent, un peu",
-    "note": "Plus lentement se dit lent un peu : « màn yìdiǎnr », après le verbe.",
+    "note": "Plus lentement se place après le verbe. Lent un peu se dit « màn yìdiǎnr ».",
     "say": {
      "màn yìdiǎnr": "慢一点儿"
     }
    },
    {
     "lit": "extrêmement, remercier !",
-    "note": "Merci infiniment se dit « fēicháng gǎnxiè ».",
+    "note": "Pour remercier très fort, on dit extrêmement remercier. Cela donne « fēicháng gǎnxiè ».",
     "say": {
      "fēicháng gǎnxiè": "非常感谢"
     }
    },
    {
     "lit": "ne pas, cérémonieux",
-    "note": "Il n'y a pas de quoi se dit ne soyez pas cérémonieux : « bú kèqi ».",
+    "note": "Il n'y a pas de quoi se dit ne soyez pas cérémonieux. Cela donne « bú kèqi ».",
     "say": {
      "bú kèqi": "不客气"
     }
@@ -9625,70 +9625,70 @@
   "0-1-4": [
    {
     "lit": "je, vouloir, acheter, un, petit mot pour compter, train-billet",
-    "note": "Un billet de train se dit train billet : « huǒchēpiào ».",
+    "note": "Un billet de train se dit train billet. Cela donne « huǒchēpiào ».",
     "say": {
      "huǒchēpiào": "火车票"
     }
    },
    {
     "lit": "aller, Xi'an, demain, matinée",
-    "note": "La matinée se dit « shàngwǔ ».",
+    "note": "La journée se coupe en deux. La matinée se dit « shàngwǔ ».",
     "say": {
      "shàngwǔ": "上午"
     }
    },
    {
     "lit": "vous, vouloir, grande vitesse, billet, petit mot de question ?",
-    "note": "Le train à grande vitesse se dit « gāotiě ».",
+    "note": "En Chine, on voyage beaucoup en train à grande vitesse. Il se dit « gāotiě ».",
     "say": {
      "gāotiě": "高铁"
     }
    },
    {
     "lit": "exact, veuillez, donner, moi, deux, petit mot pour compter",
-    "note": "Quand le nom est connu, on le laisse tomber : deux, avec son petit mot, « liǎng zhāng ».",
+    "note": "Quand le nom est connu, on le laisse tomber. Deux, avec son petit mot, se dit « liǎng zhāng ».",
     "say": {
      "liǎng zhāng": "两张"
     }
    },
    {
     "lit": "veuillez, donner, moi, vous, petit mot du possessif, passeport",
-    "note": "Donner se dit « gěi » : veuillez donner moi.",
+    "note": "La personne vient après le verbe donner. Donner se dit « gěi ».",
     "say": {
      "gěi": "给"
     }
    },
    {
     "lit": "encore, avoir, place, petit mot de question ?",
-    "note": "Il reste se dit encore avoir : « hái yǒu ».",
+    "note": "Il reste se dit encore avoir. Cela donne « hái yǒu ».",
     "say": {
      "hái yǒu": "还有"
     }
    },
    {
     "lit": "encore, avoir, deux, petit mot pour compter, contre, fenêtre, petit mot du possessif, place",
-    "note": "Côté fenêtre se dit contre fenêtre : « kào chuāng ».",
+    "note": "Côté fenêtre se dit contre la fenêtre. Cela donne « kào chuāng ».",
     "say": {
      "kào chuāng": "靠窗"
     }
    },
    {
     "lit": "train, combien, heure, démarrer ?",
-    "note": "Pour un train qui part, on dit démarrer : « kāi ».",
+    "note": "Pour un train qui part, on dit démarrer. Démarrer se dit « kāi ».",
     "say": {
      "kāi": "开"
     }
    },
    {
     "lit": "neuf, heure, demi, démarrer",
-    "note": "L'heure se place avant le verbe : neuf heures et demie, « jiǔ diǎn bàn », puis partir.",
+    "note": "L'heure se place avant le verbe. Neuf heures et demie se dit « jiǔ diǎn bàn ».",
     "say": {
      "jiǔ diǎn bàn": "九点半"
     }
    },
    {
     "lit": "attendre-train-salle, se trouver, où ?",
-    "note": "La salle d'attente se dit « hòuchēshì ».",
+    "note": "La salle d'attente, c'est la salle où l'on attend le train. Elle se dit « hòuchēshì ».",
     "say": {
      "hòuchēshì": "候车室"
     }
@@ -9697,70 +9697,70 @@
   "0-1-5": [
    {
     "lit": "ce, petit mot pour compter, chapeau, combien, argent ?",
-    "note": "Un chapeau se dit « màozi ».",
+    "note": "Au marché, on achète un chapeau. Chapeau se dit « màozi ».",
     "say": {
      "màozi": "帽子"
     }
    },
    {
     "lit": "cinquante, kuai",
-    "note": "Cinquante, c'est cinq dix : « wǔshí ».",
+    "note": "Cinquante, c'est cinq dix. Cinquante se dit « wǔshí ».",
     "say": {
      "wǔshí": "五十"
     }
    },
    {
     "lit": "trop, cher, petit mot d'exclamation !",
-    "note": "C'est trop cher se dit « tài guì le ». Le à la fin renforce.",
+    "note": "Pour dire c'est trop cher, on ajoute un petit mot à la fin qui renforce. Cela donne « tài guì le ».",
     "say": {
      "tài guì le": "太贵了"
     }
    },
    {
     "lit": "trente, kuai, ça va, petit mot de question ?",
-    "note": "Ça vous va se dit « xíng ma ».",
+    "note": "Pour demander si un prix convient, on dit ça va ? Cela donne « xíng ma ».",
     "say": {
      "xíng ma": "行吗"
     }
    },
    {
     "lit": "quarante, petit mot de suggestion",
-    "note": "Pour proposer un prix, on ajoute « ba » à la fin : disons quarante.",
+    "note": "Pour proposer un prix, on ajoute un petit mot de suggestion à la fin. Ce petit mot, c'est « ba ».",
     "say": {
      "ba": "吧"
     }
    },
    {
     "lit": "ce, petit mot pour compter, carte postale, combien, argent ?",
-    "note": "Une carte postale se dit « míngxìnpiàn ».",
+    "note": "Une carte postale est une carte plate. Elle se dit « míngxìnpiàn ».",
     "say": {
      "míngxìnpiàn": "明信片"
     }
    },
    {
     "lit": "trois, kuai, un, petit mot pour compter",
-    "note": "Pièce, à l'unité, se dit un petit mot : trois kuai un, « yì zhāng ».",
+    "note": "Pour dire pièce, le prix vient d'abord, puis une unité. Une unité se dit « yì zhāng ».",
     "say": {
      "yì zhāng": "一张"
     }
    },
    {
     "lit": "je, vouloir, cinq, petit mot pour compter",
-    "note": "J'en prends cinq : pas besoin de répéter le nom, « wǔ zhāng » suffit.",
+    "note": "Pas besoin de répéter le nom. J'en prends cinq se dit je veux « wǔ zhāng ».",
     "say": {
      "wǔ zhāng": "五张"
     }
    },
    {
     "lit": "au total, combien, argent ?",
-    "note": "Au total se dit « yígòng ».",
+    "note": "Pour faire le compte, on dit au total. Au total se dit « yígòng ».",
     "say": {
      "yígòng": "一共"
     }
    },
    {
     "lit": "je, utiliser, téléphone, payer, argent",
-    "note": "Avec, au sens d'utiliser, se dit « yòng », placé avant le verbe principal.",
+    "note": "Payer avec son téléphone, c'est utiliser le téléphone pour payer. Utiliser se dit « yòng ».",
     "say": {
      "yòng": "用"
     }
@@ -9769,70 +9769,70 @@
   "0-1-6": [
    {
     "lit": "ceci, justement, être, Grande Muraille !",
-    "note": "C'est bien ça, justement : « jiù shì ».",
+    "note": "Pour dire c'est bien ça, on ajoute justement devant être. Cela donne « jiù shì ».",
     "say": {
      "jiù shì": "就是"
     }
    },
    {
     "lit": "Mutianyu, très, beau",
-    "note": "Magnifique se dit « měi », beau.",
+    "note": "Pas de verbe être devant un adjectif. Magnifique se dit beau : « měi ».",
     "say": {
      "měi": "美"
     }
    },
    {
     "lit": "marches, très, nombreux",
-    "note": "Les marches d'un escalier se disent « táijiē ».",
+    "note": "Sur la Muraille, il y a des marches partout. Marches se dit « táijiē ».",
     "say": {
      "táijiē": "台阶"
     }
    },
    {
     "lit": "je, très, fatigué",
-    "note": "Épuisé se dit très fatigué : « hěn lèi ».",
+    "note": "Pas de verbe être devant un adjectif. Épuisé se dit très fatigué : « hěn lèi ».",
     "say": {
      "hěn lèi": "很累"
     }
    },
    {
     "lit": "nous, se reposer, un coup, petit mot de suggestion",
-    "note": "Faire une pause se dit se reposer un peu : « xiūxi yíxià ».",
+    "note": "Faire une pause se dit se reposer un peu. Cela donne « xiūxi yíxià ».",
     "say": {
      "xiūxi yíxià": "休息一下"
     }
    },
    {
     "lit": "ici, petit mot du possessif, paysage, vraiment, beau",
-    "note": "Le paysage se dit « fēngjǐng », le vent et la vue.",
+    "note": "Le paysage, c'est le vent et la vue. Il se dit « fēngjǐng ».",
     "say": {
      "fēngjǐng": "风景"
     }
    },
    {
     "lit": "veuillez, aider, moi, prendre, petit mot pour compter, photo",
-    "note": "Aider se dit « bāng » : veuillez aider moi.",
+    "note": "Pour demander de l'aide, on dit veuillez aider moi. Aider se dit « bāng ».",
     "say": {
      "bāng": "帮"
     }
    },
    {
     "lit": "en haut, vent, très, grand",
-    "note": "Là-haut se dit « shàngmiàn ».",
+    "note": "Le lieu vient en tête de phrase. Là-haut se dit « shàngmiàn ».",
     "say": {
      "shàngmiàn": "上面"
     }
    },
    {
     "lit": "toi, avoir, eau, petit mot de question ?",
-    "note": "Tu as de l'eau se dit toi avoir eau, puis « ma ».",
+    "note": "Tu as de l'eau se dit toi avoir eau. Pour la question, on ajoute à la fin « ma ».",
     "say": {
      "ma": "吗"
     }
    },
    {
     "lit": "Grande Muraille, vraiment, long !",
-    "note": "Long se dit « cháng », le même caractère que dans Grande Muraille.",
+    "note": "Long s'écrit comme dans Grande Muraille. Long se dit « cháng ».",
     "say": {
      "cháng": "长"
     }
@@ -9841,70 +9841,70 @@
   "0-1-7": [
    {
     "lit": "ce, petit mot pour compter, train, depuis, Pékin, jusqu'à, Xi'an",
-    "note": "De Pékin à Xi'an se dit depuis Pékin jusqu'à Xi'an. Depuis, c'est « cóng ».",
+    "note": "De Pékin à Xi'an se dit depuis Pékin jusqu'à Xi'an. Depuis se dit « cóng ».",
     "say": {
      "cóng": "从"
     }
    },
    {
     "lit": "depuis, Pékin, jusqu'à, Xi'an, falloir, combien, petit mot pour compter, heure ?",
-    "note": "Une heure de durée se dit « xiǎoshí ». Diǎn, c'est l'heure de la montre.",
+    "note": "La durée et l'heure de la montre sont deux mots différents. Une heure de durée se dit « xiǎoshí ».",
     "say": {
      "xiǎoshí": "小时"
     }
    },
    {
     "lit": "environ, quatre, petit mot pour compter, demi, heure",
-    "note": "Environ se dit « dàgài ».",
+    "note": "Pour une durée approximative, on commence par environ. Environ se dit « dàgài ».",
     "say": {
      "dàgài": "大概"
     }
    },
    {
     "lit": "grande vitesse, très, rapide",
-    "note": "Rapide se dit « kuài ».",
+    "note": "Pas de verbe être devant un adjectif. Rapide se dit « kuài ».",
     "say": {
      "kuài": "快"
     }
    },
    {
     "lit": "cinq, numéro, voiture, se trouver, où ?",
-    "note": "La voiture d'un train se dit « chēxiāng ».",
+    "note": "Le train est fait de voitures numérotées. La voiture se dit « chēxiāng ».",
     "say": {
      "chēxiāng": "车厢"
     }
    },
    {
     "lit": "moi, petit mot du possessif, place, contre, fenêtre",
-    "note": "Mon siège est contre la fenêtre : « kào chuāng », sans verbe être.",
+    "note": "Pas de verbe être : mon siège contre la fenêtre. Contre la fenêtre se dit « kào chuāng ».",
     "say": {
      "kào chuāng": "靠窗"
     }
    },
    {
     "lit": "depuis, lundi, jusqu'à, vendredi, gens, tous, très, nombreux",
-    "note": "Du lundi au vendredi : depuis lundi, « cóng xīngqīyī », jusqu'à vendredi.",
+    "note": "Du lundi au vendredi se dit depuis lundi jusqu'à vendredi. Depuis lundi se dit « cóng xīngqīyī ».",
     "say": {
      "cóng xīngqīyī": "从星期一"
     }
    },
    {
     "lit": "train, deux, heure, arriver, Xi'an",
-    "note": "Arriver se dit « dào », et le lieu vient juste après.",
+    "note": "Le lieu vient juste après le verbe arriver. Arriver se dit « dào ».",
     "say": {
      "dào": "到"
     }
    },
    {
     "lit": "depuis, Paris, jusqu'à, Pékin, très, loin",
-    "note": "C'est loin se dit très loin : « hěn yuǎn ».",
+    "note": "Pas de verbe être devant un adjectif. C'est loin se dit « hěn yuǎn ».",
     "say": {
      "hěn yuǎn": "很远"
     }
    },
    {
     "lit": "je, regarder, fenêtre, dehors, petit mot du possessif, paysage",
-    "note": "Ce qui décrit se place devant le nom avec de : fenêtre dehors de paysage. Regarder, c'est « kàn ».",
+    "note": "Ce qui décrit se place devant le nom. Le paysage dehors se dit fenêtre dehors de paysage. Regarder se dit « kàn ».",
     "say": {
      "kàn": "看"
     }
@@ -9913,70 +9913,70 @@
   "0-1-8": [
    {
     "lit": "guerriers de terre cuite, se trouver, Xi'an",
-    "note": "Les guerriers de terre cuite se disent « bīngmǎyǒng ».",
+    "note": "Les célèbres guerriers de Xi'an ont un nom à eux. Ils se disent « bīngmǎyǒng ».",
     "say": {
      "bīngmǎyǒng": "兵马俑"
     }
    },
    {
     "lit": "veuillez, donner, moi, deux, petit mot pour compter, billet",
-    "note": "Une entrée, c'est un billet : « piào ».",
+    "note": "Une entrée, c'est un billet. Billet se dit « piào ».",
     "say": {
      "piào": "票"
     }
    },
    {
     "lit": "un, petit mot pour compter, billet, combien, argent ?",
-    "note": "Combien coûte un billet : un billet, combien d'argent, « duōshao qián ».",
+    "note": "Combien coûte se dit combien d'argent. Cela donne « duōshao qián ».",
     "say": {
      "duōshao qián": "多少钱"
     }
    },
    {
     "lit": "avoir, français, guide, petit mot de question ?",
-    "note": "La langue française se dit « Fǎyǔ ».",
+    "note": "La langue française a son propre mot. Le français se dit « Fǎyǔ ».",
     "say": {
      "Fǎyǔ": "法语"
     }
    },
    {
     "lit": "très, nombreux, guerriers de terre cuite, petit mot d'exclamation !",
-    "note": "Pour s'exclamer, tellement se dit « hǎo duō ».",
+    "note": "Pour s'exclamer, tellement se dit très nombreux. Cela donne « hǎo duō ».",
     "say": {
      "hǎo duō": "好多"
     }
    },
    {
     "lit": "chaque, petit mot pour compter, visage, tous, ne pas, pareil",
-    "note": "Chaque se dit « měi », toujours accompagné de dōu devant le verbe.",
+    "note": "Chaque va toujours avec tous devant le verbe. Chaque se dit « měi ».",
     "say": {
      "měi": "每"
     }
    },
    {
     "lit": "eux, très, ancien",
-    "note": "Pour des objets ou des animaux, ils s'écrit autrement mais se dit toujours « tāmen ».",
+    "note": "Pour des objets ou des animaux, ils s'écrit autrement. Mais il se dit toujours « tāmen ».",
     "say": {
      "tāmen": "它们"
     }
    },
    {
     "lit": "ceci, être, Xi'an, le plus, célèbre, petit mot du possessif, musée",
-    "note": "Le plus se dit « zuì », juste devant l'adjectif.",
+    "note": "Pour dire le plus, on met un mot juste devant l'adjectif. Le plus se dit « zuì ».",
     "say": {
      "zuì": "最"
     }
    },
    {
     "lit": "nous, petit mot du possessif, guide, très, chaleureux",
-    "note": "Chaleureux se dit « rèqíng ».",
+    "note": "Pas de verbe être devant un adjectif. Chaleureux se dit « rèqíng ».",
     "say": {
      "rèqíng": "热情"
     }
    },
    {
     "lit": "je, très, aimer, ce, petit mot pour compter, endroit",
-    "note": "Un endroit se dit « dìfang ».",
+    "note": "Cet endroit, c'est ce lieu. Endroit se dit « dìfang ».",
     "say": {
      "dìfang": "地方"
     }
@@ -9985,70 +9985,70 @@
   "0-1-9": [
    {
     "lit": "nous, arriver, remparts, petit mot de l'action accomplie",
-    "note": "Nous voici, c'est nous arriver, avec « le » à la fin : c'est fait.",
+    "note": "Nous voici se dit nous arriver, avec un petit mot à la fin. Ce petit mot, c'est « le ». Il dit que c'est fait.",
     "say": {
      "le": "了"
     }
    },
    {
     "lit": "je, louer, petit mot de l'action accomplie, un, petit mot pour compter, vélo",
-    "note": "« le » juste après le verbe dit que l'action est accomplie : j'ai loué.",
+    "note": "Un petit mot juste après le verbe dit que l'action est accomplie. Ce petit mot, c'est « le ».",
     "say": {
      "le": "了"
     }
    },
    {
     "lit": "toi, acheter, eau, petit mot de l'action accomplie, petit mot de question ?",
-    "note": "Pour demander si c'est fait, on met « le ma » à la fin.",
+    "note": "Pour demander si c'est fait, on met deux petits mots à la fin. Cela donne « le ma ».",
     "say": {
      "le ma": "了吗"
     }
    },
    {
     "lit": "acheter, petit mot de l'action accomplie, acheter, petit mot de l'action accomplie, deux, petit mot pour compter",
-    "note": "Pour répondre oui, on répète le verbe avec le : « mǎi le ».",
+    "note": "Pour répondre oui, on répète le verbe avec le petit mot. J'ai acheté se dit « mǎi le ».",
     "say": {
      "mǎi le": "买了"
     }
    },
    {
     "lit": "remparts, très, long",
-    "note": "Les remparts se disent « chéngqiáng », le mur de la ville.",
+    "note": "Les remparts, c'est le mur de la ville. Ils se disent « chéngqiáng ».",
     "say": {
      "chéngqiáng": "城墙"
     }
    },
    {
     "lit": "nous, pédaler, petit mot de l'action accomplie, un, tour",
-    "note": "Un tour se dit « quān », un cercle.",
+    "note": "Faire le tour, c'est faire un cercle. Tour se dit « quān ».",
     "say": {
      "quān": "圈"
     }
    },
    {
     "lit": "je, photographier, petit mot de l'action accomplie, très, nombreux, photo",
-    "note": "J'ai pris des photos : prendre, « le », puis beaucoup de photos.",
+    "note": "J'ai pris des photos : prendre, puis le petit mot. Ce petit mot, c'est « le ». Puis beaucoup de photos.",
     "say": {
      "le": "了"
     }
    },
    {
     "lit": "déjà, six, heure, petit mot de l'action accomplie",
-    "note": "Déjà se dit « yǐjīng », et la phrase finit par le.",
+    "note": "La phrase finit par le petit mot le. Déjà se dit « yǐjīng ».",
     "say": {
      "yǐjīng": "已经"
     }
    },
    {
     "lit": "toi, manger, dîner, petit mot de l'action accomplie, petit mot de question ?",
-    "note": "Le dîner se dit le repas du soir : « wǎnfàn ».",
+    "note": "Le dîner, c'est le repas du soir. Il se dit « wǎnfàn ».",
     "say": {
      "wǎnfàn": "晚饭"
     }
    },
    {
     "lit": "encore, ne pas avoir, je, très, affamé",
-    "note": "Pas encore se dit « hái méiyǒu ».",
+    "note": "Pour une action pas encore faite, on dit encore ne pas avoir. Cela donne « hái méiyǒu ».",
     "say": {
      "hái méiyǒu": "还没有"
     }
@@ -10057,70 +10057,70 @@
   "0-1-10": [
    {
     "lit": "moi, petit mot du possessif, valise, encore, ne pas, arriver",
-    "note": "Une action qui n'a pas eu lieu se nie avec « méi », jamais avec bù.",
+    "note": "Une action qui n'a pas eu lieu ne se nie jamais avec bù. Elle se nie avec « méi ».",
     "say": {
      "méi": "没"
     }
    },
    {
     "lit": "vous, petit mot du possessif, vol, numéro, être, combien ?",
-    "note": "Un vol d'avion se dit « hángbān ».",
+    "note": "Un vol d'avion a son propre mot. Vol se dit « hángbān ».",
     "say": {
      "hángbān": "航班"
     }
    },
    {
     "lit": "je, depuis, Paris, venir",
-    "note": "Venir de, c'est depuis Paris venir : le verbe « lái » reste à la fin.",
+    "note": "Venir de, c'est depuis Paris venir. Le verbe venir reste à la fin : « lái ».",
     "say": {
      "lái": "来"
     }
    },
    {
     "lit": "être, un, petit mot pour compter, rouge, petit mot du possessif, grand, valise",
-    "note": "Plusieurs adjectifs se placent devant le nom : rouge de grande valise. Rouge, c'est « hóngsè ».",
+    "note": "Plusieurs adjectifs se placent devant le nom. Rouge se dit « hóngsè ».",
     "say": {
      "hóngsè": "红色"
     }
    },
    {
     "lit": "dedans, avoir, quoi ?",
-    "note": "Dedans se dit « lǐmiàn ».",
+    "note": "Ce qu'il y a dedans, c'est l'intérieur. Dedans se dit « lǐmiàn ».",
     "say": {
      "lǐmiàn": "里面"
     }
    },
    {
     "lit": "vêtements, et, médicament",
-    "note": "Et, entre deux noms, se dit « hé ».",
+    "note": "Entre deux noms, et se dit « hé ». On ne l'emploie pas entre deux phrases.",
     "say": {
      "hé": "和"
     }
    },
    {
     "lit": "vous, ne pas, s'inquiéter",
-    "note": "Ne pas, pour un conseil ou une interdiction, se dit « bié ».",
+    "note": "Pour un conseil ou une interdiction, ne pas a son propre mot. Il se dit « bié ».",
     "say": {
      "bié": "别"
     }
    },
    {
     "lit": "nous, aider, vous, chercher",
-    "note": "Pour vous, on dit aider vous : « bāng nín », avant le verbe.",
+    "note": "Pour vous se place avant le verbe. Aider vous se dit « bāng nín ».",
     "say": {
      "bāng nín": "帮您"
     }
    },
    {
     "lit": "ceci, être, moi, petit mot du possessif, téléphone, numéro",
-    "note": "Mon numéro de téléphone : je de téléphone numéro, « diànhuà hàomǎ ».",
+    "note": "Mon numéro se dit je de téléphone numéro. Téléphone numéro se dit « diànhuà hàomǎ ».",
     "say": {
      "diànhuà hàomǎ": "电话号码"
     }
    },
    {
     "lit": "je, loger, à, gare, à côté, petit mot du possessif, hôtel",
-    "note": "Près de se dit à côté, placé après le lieu : « pángbiān ».",
+    "note": "Près de se place après le lieu. À côté se dit « pángbiān ».",
     "say": {
      "pángbiān": "旁边"
     }
@@ -10129,70 +10129,70 @@
   "0-1-11": [
    {
     "lit": "veuillez-demander, gare, comment, marcher ?",
-    "note": "Pour aborder poliment quelqu'un, on dit « qǐngwèn », puis-je demander.",
+    "note": "Pour aborder poliment quelqu'un, on dit puis-je demander. Cela donne « qǐngwèn ».",
     "say": {
      "qǐngwèn": "请问"
     }
    },
    {
     "lit": "tout droit, marcher",
-    "note": "Tout droit se dit « yìzhí ».",
+    "note": "Le chemin se dit avant le verbe marcher. Tout droit se dit « yìzhí ».",
     "say": {
      "yìzhí": "一直"
     }
    },
    {
     "lit": "ensuite, vers, gauche, tourner",
-    "note": "Vers se dit « wǎng » : vers la gauche, tourner.",
+    "note": "La direction se place avant le verbe. Vers se dit « wǎng ».",
     "say": {
      "wǎng": "往"
     }
    },
    {
     "lit": "aller, musée, comment, marcher ?",
-    "note": "Pour demander le chemin, on dit comment marcher : « zěnme zǒu ».",
+    "note": "Pour demander le chemin, on dit comment marcher. Cela donne « zěnme zǒu ».",
     "say": {
      "zěnme zǒu": "怎么走"
     }
    },
    {
     "lit": "ce, petit mot pour compter, utiliser, chinois, comment, dire ?",
-    "note": "En chinois se dit utiliser le chinois : « yòng Zhōngwén ».",
+    "note": "En chinois se dit utiliser le chinois. Cela donne « yòng Zhōngwén ».",
     "say": {
      "yòng Zhōngwén": "用中文"
     }
    },
    {
     "lit": "veuillez, à, plan, dessus, montrer, à, moi, voir",
-    "note": "Montrer se dit pointer du doigt : « zhǐ ».",
+    "note": "Montrer sur le plan, c'est pointer du doigt. Pointer se dit « zhǐ ».",
     "say": {
      "zhǐ": "指"
     }
    },
    {
     "lit": "se trouver, ici, parc, à côté",
-    "note": "À côté de se place après le lieu : parc à côté, « gōngyuán pángbiān ».",
+    "note": "À côté de se place après le lieu. À côté du parc se dit « gōngyuán pángbiān ».",
     "say": {
      "gōngyuán pángbiān": "公园旁边"
     }
    },
    {
     "lit": "je, ne pas, savoir, comment, aller",
-    "note": "Savoir une information se dit « zhīdào ».",
+    "note": "Savoir une information est différent de savoir faire. Savoir une information se dit « zhīdào ».",
     "say": {
      "zhīdào": "知道"
     }
    },
    {
     "lit": "marcher, loin, petit mot de question ?",
-    "note": "À pied se dit marcher : « zǒulù ».",
+    "note": "À pied se dit simplement marcher. Marcher se dit « zǒulù ».",
     "say": {
      "zǒulù": "走路"
     }
    },
    {
     "lit": "ne pas, loin, marcher, cinq, minute",
-    "note": "Pour une durée en minutes, on dit « fēnzhōng ».",
+    "note": "Pour une durée, minute a un mot à elle. Minutes de durée se dit « fēnzhōng ».",
     "say": {
      "fēnzhōng": "分钟"
     }
@@ -10201,70 +10201,70 @@
   "0-1-12": [
    {
     "lit": "où, avoir, pharmacie ?",
-    "note": "Où y a-t-il : où, puis avoir, « nǎr yǒu ».",
+    "note": "Pour demander où trouver quelque chose, on dit où avoir. Cela donne « nǎr yǒu ».",
     "say": {
      "nǎr yǒu": "哪儿有"
     }
    },
    {
     "lit": "je, ne pas, confortable",
-    "note": "Je ne me sens pas bien se dit pas confortable : « bù shūfu ».",
+    "note": "Je ne me sens pas bien se dit pas confortable. Cela donne « bù shūfu ».",
     "say": {
      "bù shūfu": "不舒服"
     }
    },
    {
     "lit": "je, tête, douloureux",
-    "note": "J'ai mal se dit douloureux : « téng ».",
+    "note": "J'ai mal à la tête se dit je tête douloureuse. Douloureux se dit « téng ».",
     "say": {
      "téng": "疼"
     }
    },
    {
     "lit": "je, un peu, avoir de la fièvre",
-    "note": "Avoir de la fièvre se dit « fāshāo ».",
+    "note": "Avoir de la fièvre, c'est un seul verbe. Il se dit « fāshāo ».",
     "say": {
      "fāshāo": "发烧"
     }
    },
    {
     "lit": "je, ventre, aussi, douloureux",
-    "note": "Le ventre se dit « dùzi ».",
+    "note": "J'ai mal au ventre se dit je ventre douloureux. Ventre se dit « dùzi ».",
     "say": {
      "dùzi": "肚子"
     }
    },
    {
     "lit": "vous, manger, ce, petit mot pour compter, médicament, petit mot de suggestion",
-    "note": "Prendre un médicament se dit le manger : « chī yào ».",
+    "note": "En chinois, un médicament se mange. Prendre un médicament se dit « chī yào ».",
     "say": {
      "chī yào": "吃药"
     }
    },
    {
     "lit": "un, jour, deux, fois",
-    "note": "Deux fois se dit « liǎng cì ».",
+    "note": "Le nombre de fois se place après la période. Deux fois se dit « liǎng cì ».",
     "say": {
      "liǎng cì": "两次"
     }
    },
    {
     "lit": "repas, après, manger",
-    "note": "Après le repas se dit repas après : « fàn hòu ».",
+    "note": "Le mot après se place après le moment. Après le repas se dit « fàn hòu ».",
     "say": {
      "fàn hòu": "饭后"
     }
    },
    {
     "lit": "beaucoup, boire, eau",
-    "note": "Boire beaucoup se dit beaucoup boire : « duō hē », l'adverbe avant le verbe.",
+    "note": "L'adverbe se place avant le verbe. Boire beaucoup se dit « duō hē ».",
     "say": {
      "duō hē": "多喝"
     }
    },
    {
     "lit": "bien-bien, se reposer",
-    "note": "En doublant bien, « hǎohǎo », on dit bien comme il faut.",
+    "note": "En doublant bien, on dit comme il faut. Cela donne « hǎohǎo ».",
     "say": {
      "hǎohǎo": "好好"
     }
@@ -10273,70 +10273,70 @@
   "0-1-13": [
    {
     "lit": "je, pouvoir, s'asseoir, ici, petit mot de question ?",
-    "note": "Pour demander la permission, on emploie « kěyǐ ».",
+    "note": "Pour demander la permission, on emploie pouvoir. Pouvoir se dit « kěyǐ ».",
     "say": {
      "kěyǐ": "可以"
     }
    },
    {
     "lit": "bien sûr, pouvoir, veuillez, s'asseoir",
-    "note": "Bien sûr se dit « dāngrán ».",
+    "note": "Pour accepter avec chaleur, on dit bien sûr. Bien sûr se dit « dāngrán ».",
     "say": {
      "dāngrán": "当然"
     }
    },
    {
     "lit": "vous, savoir, parler, chinois, petit mot de question ?",
-    "note": "Savoir parler une langue, c'est un savoir appris : « huì ».",
+    "note": "Parler une langue est un savoir appris. Ce savoir se dit « huì ».",
     "say": {
      "huì": "会"
     }
    },
    {
     "lit": "je, savoir, parler, un peu",
-    "note": "Un peu, après le verbe, se dit « yìdiǎnr ».",
+    "note": "Un peu se place après le verbe. Un peu se dit « yìdiǎnr ».",
     "say": {
      "yìdiǎnr": "一点儿"
     }
    },
    {
     "lit": "vous, pouvoir, parler, lent, un peu, petit mot de question ?",
-    "note": "Pouvoir, être capable de, se dit « néng ».",
+    "note": "Pouvoir, au sens d'être capable, a un autre mot. Il se dit « néng ».",
     "say": {
      "néng": "能"
     }
    },
    {
     "lit": "toi, savoir, utiliser, baguettes, petit mot de question ?",
-    "note": "Se servir de se dit utiliser : « yòng ».",
+    "note": "Se servir des baguettes, c'est les utiliser. Utiliser se dit « yòng ».",
     "say": {
      "yòng": "用"
     }
    },
    {
     "lit": "je, pouvoir, regarder-regarder, vous, petit mot du possessif, plan, petit mot de question ?",
-    "note": "Regarder un peu se dit en doublant le verbe : « kànkan ».",
+    "note": "Pour dire regarder un peu, on double le verbe. Cela donne « kànkan ».",
     "say": {
      "kànkan": "看看"
     }
    },
    {
     "lit": "ici, ne pas, pouvoir, fumer",
-    "note": "Ne pas avoir le droit se dit ne pas pouvoir : « bù néng ».",
+    "note": "Ne pas avoir le droit se dit ne pas pouvoir. Cela donne « bù néng ».",
     "say": {
      "bù néng": "不能"
     }
    },
    {
     "lit": "je, ne pas, savoir, conduire",
-    "note": "Ne pas savoir faire se dit « bú huì ».",
+    "note": "Ne pas savoir faire se dit ne pas savoir. Cela donne « bú huì ».",
     "say": {
      "bú huì": "不会"
     }
    },
    {
     "lit": "nous, pouvoir, échanger, téléphone, numéro, petit mot de question ?",
-    "note": "Échanger se dit « jiāohuàn ».",
+    "note": "Échanger nos numéros se dit échanger téléphone numéro. Échanger se dit « jiāohuàn ».",
     "say": {
      "jiāohuàn": "交换"
     }
@@ -10345,70 +10345,70 @@
   "0-1-14": [
    {
     "lit": "nous, arriver, Shanghai, petit mot de l'action accomplie !",
-    "note": "Arriver se dit « dào », et le dit que c'est fait.",
+    "note": "Le petit mot le, à la fin, dit que c'est fait. Arriver se dit « dào ».",
     "say": {
      "dào": "到"
     }
    },
    {
     "lit": "aujourd'hui, soir, nous, aller, Bund",
-    "note": "Le Bund se dit « Wàitān », la rive extérieure.",
+    "note": "Le Bund, c'est la rive extérieure. Il se dit « Wàitān ».",
     "say": {
      "Wàitān": "外滩"
     }
    },
    {
     "lit": "Bund, se trouver, fleuve, bord",
-    "note": "Au bord de se dit après le lieu : fleuve bord, « jiāng biān ».",
+    "note": "Au bord de se place après le lieu. Au bord du fleuve se dit « jiāng biān ».",
     "say": {
      "jiāng biān": "江边"
     }
    },
    {
     "lit": "ce soir, gens, très, nombreux",
-    "note": "Ce soir se dit aussi « jīnwǎn », en un seul mot.",
+    "note": "Ce soir peut se dire en un seul mot. Ce soir se dit « jīnwǎn ».",
     "say": {
      "jīnwǎn": "今晚"
     }
    },
    {
     "lit": "ces, vieux, bâtiment, très, beau",
-    "note": "Superbe, joli à voir, se dit « piàoliang ».",
+    "note": "Pas de verbe être devant un adjectif. Superbe, joli à voir, se dit « piàoliang ».",
     "say": {
      "piàoliang": "漂亮"
     }
    },
    {
     "lit": "en face, être, Pudong",
-    "note": "En face se dit « duìmiàn ».",
+    "note": "Ce qui est de l'autre côté est en face. En face se dit « duìmiàn ».",
     "say": {
      "duìmiàn": "对面"
     }
    },
    {
     "lit": "lumière, vraiment, beau",
-    "note": "Les lumières se disent « dēngguāng ».",
+    "note": "Le soir, Shanghai s'illumine. Les lumières se disent « dēngguāng ».",
     "say": {
      "dēngguāng": "灯光"
     }
    },
    {
     "lit": "nous, se promener un peu, petit mot de suggestion",
-    "note": "Faire une petite promenade se dit en doublant : « sànsan bù ».",
+    "note": "Pour dire faire une petite promenade, on double le verbe. Cela donne « sànsan bù ».",
     "say": {
      "sànsan bù": "散散步"
     }
    },
    {
     "lit": "un peu, chaud",
-    "note": "Un peu, pour quelque chose de désagréable, se dit « yǒudiǎnr ».",
+    "note": "Pour quelque chose de désagréable, un peu a son propre mot. Il se dit « yǒudiǎnr ».",
     "say": {
      "yǒudiǎnr": "有点儿"
     }
    },
    {
     "lit": "Shanghai, vraiment, moderne",
-    "note": "Moderne se dit « xiàndài ».",
+    "note": "Pas de verbe être devant un adjectif. Moderne se dit « xiàndài ».",
     "say": {
      "xiàndài": "现代"
     }
@@ -10417,70 +10417,70 @@
   "0-1-15": [
    {
     "lit": "nous, prendre, métro, petit mot de suggestion",
-    "note": "Prendre un transport se dit s'asseoir : « zuò ».",
+    "note": "Prendre un transport, c'est s'y asseoir. S'asseoir se dit « zuò ».",
     "say": {
      "zuò": "坐"
     }
    },
    {
     "lit": "je, prendre, métro, aller, Pudong",
-    "note": "Le moyen de transport vient avant le lieu : prendre le métro, puis aller à Pudong. « zuò dìtiě ».",
+    "note": "Le moyen de transport vient avant le lieu. Prendre le métro se dit « zuò dìtiě ». Puis aller à Pudong.",
     "say": {
      "zuò dìtiě": "坐地铁"
     }
    },
    {
     "lit": "prendre, combien, numéro, ligne ?",
-    "note": "Quelle ligne se dit combien numéro ligne : « jǐ hào xiàn ».",
+    "note": "Quelle ligne se dit combien numéro ligne. Cela donne « jǐ hào xiàn ».",
     "say": {
      "jǐ hào xiàn": "几号线"
     }
    },
    {
     "lit": "prendre, deux, numéro, ligne",
-    "note": "La ligne deux se dit « èr hào xiàn ». Ici, deux se dit èr, car c'est un numéro.",
+    "note": "Pour un numéro, deux se dit èr, et non liǎng. La ligne deux se dit « èr hào xiàn ».",
     "say": {
      "èr hào xiàn": "二号线"
     }
    },
    {
     "lit": "aussi, pouvoir, prendre, bus",
-    "note": "Le bus se dit « gōngjiāochē ».",
+    "note": "Le bus, c'est le véhicule des transports publics. Il se dit « gōngjiāochē ».",
     "say": {
      "gōngjiāochē": "公交车"
     }
    },
    {
     "lit": "bus, très, lent",
-    "note": "Lent se dit « màn ».",
+    "note": "Pas de verbe être devant un adjectif. Lent se dit « màn ».",
     "say": {
      "màn": "慢"
     }
    },
    {
     "lit": "demain, je, prendre, train, aller, Hangzhou",
-    "note": "Le train se dit « huǒchē », le véhicule de feu.",
+    "note": "Le train, c'est le véhicule de feu. Il se dit « huǒchē ».",
     "say": {
      "huǒchē": "火车"
     }
    },
    {
     "lit": "prendre, taxi, plus, rapide",
-    "note": "Plus, pour comparer, se dit « gèng ».",
+    "note": "Pour comparer, plus se dit « gèng ». Il se place devant l'adjectif.",
     "say": {
      "gèng": "更"
     }
    },
    {
     "lit": "je, après-demain, prendre, avion",
-    "note": "L'avion se dit « fēijī », la machine qui vole.",
+    "note": "L'avion, c'est la machine qui vole. Il se dit « fēijī ».",
     "say": {
      "fēijī": "飞机"
     }
    },
    {
     "lit": "métro-station, se trouver, où ?",
-    "note": "La station de métro se dit « dìtiězhàn ».",
+    "note": "La station de métro se dit métro station. Cela donne « dìtiězhàn ».",
     "say": {
      "dìtiězhàn": "地铁站"
     }
@@ -10489,70 +10489,70 @@
   "0-1-16": [
    {
     "lit": "ce, petit mot pour compter, bâtiment, très, haut",
-    "note": "Pour un bâtiment, le petit mot de comptage est « zuò ».",
+    "note": "Chaque nom a son petit mot de comptage. Pour un bâtiment, c'est « zuò ».",
     "say": {
      "zuò": "座"
     }
    },
    {
     "lit": "nous, monter, regarder-regarder, petit mot de suggestion",
-    "note": "Monter là-haut se dit « shàngqu ».",
+    "note": "Monter là-haut, c'est monter en s'éloignant. Cela donne « shàngqu ».",
     "say": {
      "shàngqu": "上去"
     }
    },
    {
     "lit": "ascenseur, très, rapide",
-    "note": "Rapide se dit « kuài », sans verbe être.",
+    "note": "Pas de verbe être devant un adjectif. Rapide se dit « kuài ».",
     "say": {
      "kuài": "快"
     }
    },
    {
     "lit": "pouvoir, voir, entier, ville",
-    "note": "Voir, au sens de réussir à voir, se dit « kàndào ».",
+    "note": "Voir, au sens de réussir à voir, se dit regarder arriver. Cela donne « kàndào ».",
     "say": {
      "kàndào": "看到"
     }
    },
    {
     "lit": "toi, regarder, là-bas, être, Bund !",
-    "note": "Là-bas se dit « nàbiān ».",
+    "note": "Pour montrer un endroit éloigné, on dit là-bas. Là-bas se dit « nàbiān ».",
     "say": {
      "nàbiān": "那边"
     }
    },
    {
     "lit": "Huangpu, fleuve, très, beau",
-    "note": "Le fleuve se dit « jiāng », placé après son nom.",
+    "note": "Le mot fleuve se place après le nom du fleuve. Fleuve se dit « jiāng ».",
     "say": {
      "jiāng": "江"
     }
    },
    {
     "lit": "je, un peu, avoir peur",
-    "note": "Avoir peur se dit aussi « hàipà ».",
+    "note": "Avoir peur a aussi un mot plus long. Il se dit « hàipà ».",
     "say": {
      "hàipà": "害怕"
     }
    },
    {
     "lit": "ne pas, avoir peur, très, sûr",
-    "note": "N'aie pas peur : « bié » devant le verbe, pour dire ne fais pas.",
+    "note": "Pour dire ne fais pas, on met un mot spécial devant le verbe. Ce mot, c'est « bié ».",
     "say": {
      "bié": "别"
     }
    },
    {
     "lit": "en haut, avoir, un, petit mot pour compter, café",
-    "note": "Un café, le lieu, se dit « kāfēiguǎn ».",
+    "note": "Le café où l'on s'assoit, c'est la maison du café. Il se dit « kāfēiguǎn ».",
     "say": {
      "kāfēiguǎn": "咖啡馆"
     }
    },
    {
     "lit": "je, vouloir, un, petit mot pour compter, chaud, café",
-    "note": "Une tasse se dit « bēi », petit mot de comptage des boissons.",
+    "note": "Les boissons se comptent avec un petit mot à elles. Une tasse se dit « bēi ».",
     "say": {
      "bēi": "杯"
     }
@@ -10561,70 +10561,70 @@
   "0-1-17": [
    {
     "lit": "lac de l'Ouest, se trouver, Hangzhou",
-    "note": "Le lac de l'Ouest se dit « Xīhú ».",
+    "note": "Le célèbre lac de Hangzhou est le lac de l'Ouest. Il se dit « Xīhú ».",
     "say": {
      "Xīhú": "西湖"
     }
    },
    {
     "lit": "Hangzhou, distant de, Shanghai, très, proche",
-    "note": "Être à distance de se dit « lí ».",
+    "note": "Pour parler de distance, on emploie un mot spécial. Être à distance de se dit « lí ».",
     "say": {
      "lí": "离"
     }
    },
    {
     "lit": "hôtel, distant de, lac de l'Ouest, loin, petit mot de question ?",
-    "note": "Loin de : l'hôtel, « lí », le lac, puis loin.",
+    "note": "Loin du lac se dit hôtel distant du lac loin. Distant de se dit « lí ».",
     "say": {
      "lí": "离"
     }
    },
    {
     "lit": "ne pas, loin, très, proche",
-    "note": "Proche se dit « jìn ».",
+    "note": "Le contraire de loin, c'est proche. Proche se dit « jìn ».",
     "say": {
      "jìn": "近"
     }
    },
    {
     "lit": "distant de, ici, loin, petit mot de question ?",
-    "note": "Loin d'ici se dit distant d'ici : « lí zhèr ».",
+    "note": "Loin d'ici se dit distant d'ici. Cela donne « lí zhèr ».",
     "say": {
      "lí zhèr": "离这儿"
     }
    },
    {
     "lit": "gare, distant de, ici, deux, kilomètre",
-    "note": "Le kilomètre se dit « gōnglǐ ».",
+    "note": "Les distances se comptent en kilomètres. Kilomètre se dit « gōnglǐ ».",
     "say": {
      "gōnglǐ": "公里"
     }
    },
    {
     "lit": "nous, louer, un, petit mot pour compter, bateau, petit mot de suggestion",
-    "note": "Un bateau se dit « chuán ».",
+    "note": "Sur le lac, on loue une barque. Bateau se dit « chuán ».",
     "say": {
      "chuán": "船"
     }
    },
    {
     "lit": "lac-surface, très, calme",
-    "note": "Calme, pour l'eau, se dit « píngjìng ».",
+    "note": "Pour l'eau, calme a son propre mot. Il se dit « píngjìng ».",
     "say": {
      "píngjìng": "平静"
     }
    },
    {
     "lit": "je, maison, distant de, Chine, très, loin",
-    "note": "La Chine se dit le pays du milieu : « Zhōngguó ».",
+    "note": "La Chine, c'est le pays du milieu. Elle se dit « Zhōngguó ».",
     "say": {
      "Zhōngguó": "中国"
     }
    },
    {
     "lit": "Longjing, thé, être, ici, petit mot du possessif",
-    "note": "Venir d'ici se dit être d'ici : « shì zhèr de ».",
+    "note": "Venir d'ici se dit être d'ici. Cela donne « shì zhèr de ».",
     "say": {
      "shì zhèr de": "是这儿的"
     }
@@ -10633,70 +10633,70 @@
   "0-1-18": [
    {
     "lit": "moi, petit mot du possessif, vol, en retard, petit mot de l'action accomplie",
-    "note": "Être en retard, pour un vol ou un train, se dit « wǎndiǎn ».",
+    "note": "Pour un vol ou un train, être en retard a son propre mot. Il se dit « wǎndiǎn ».",
     "say": {
      "wǎndiǎn": "晚点"
     }
    },
    {
     "lit": "falloir, en retard, combien, longtemps ?",
-    "note": "Combien de temps se dit combien longtemps : « duō jiǔ ».",
+    "note": "Combien de temps se dit combien longtemps. Cela donne « duō jiǔ ».",
     "say": {
      "duō jiǔ": "多久"
     }
    },
    {
     "lit": "environ, deux, petit mot pour compter, heure",
-    "note": "Deux heures de durée : « liǎng ge xiǎoshí ».",
+    "note": "Pour une durée, on compte les heures avec un petit mot. Deux heures se dit « liǎng ge xiǎoshí ».",
     "say": {
      "liǎng ge xiǎoshí": "两个小时"
     }
    },
    {
     "lit": "vraiment, malchanceux !",
-    "note": "Pas de chance se dit « dǎoméi ».",
+    "note": "Pour râler gentiment, on dit vraiment pas de chance. Pas de chance se dit « dǎoméi ».",
     "say": {
      "dǎoméi": "倒霉"
     }
    },
    {
     "lit": "embarquer-porte, changer, petit mot de l'action accomplie",
-    "note": "La porte d'embarquement se dit « dēngjīkǒu ».",
+    "note": "La porte d'embarquement, c'est la bouche où l'on monte dans l'avion. Elle se dit « dēngjīkǒu ».",
     "say": {
      "dēngjīkǒu": "登机口"
     }
    },
    {
     "lit": "maintenant, être, vingt, numéro, porte d'embarquement",
-    "note": "La porte vingt : vingt numéro, « èrshí hào ».",
+    "note": "Le numéro vient avant le nom. La porte vingt se dit « èrshí hào ».",
     "say": {
      "èrshí hào": "二十号"
     }
    },
    {
     "lit": "où, pouvoir, pour, téléphone, charger-électricité ?",
-    "note": "Recharger se dit « chōngdiàn », remplir d'électricité.",
+    "note": "Recharger, c'est remplir d'électricité. Cela donne « chōngdiàn ».",
     "say": {
      "chōngdiàn": "充电"
     }
    },
    {
     "lit": "je, affamé, petit mot de l'action accomplie, nous, aller, manger, un peu, chose, petit mot de suggestion",
-    "note": "Quelque chose se dit « dōngxi », l'est et l'ouest.",
+    "note": "Quelque chose, c'est l'est et l'ouest. Cela donne « dōngxi ».",
     "say": {
      "dōngxi": "东西"
     }
    },
    {
     "lit": "commencer, embarquer, petit mot de l'action accomplie",
-    "note": "Embarquer se dit « dēngjī ».",
+    "note": "Monter dans l'avion se dit embarquer. Embarquer se dit « dēngjī ».",
     "say": {
      "dēngjī": "登机"
     }
    },
    {
     "lit": "enfin, partir, petit mot de l'action accomplie !",
-    "note": "Enfin se dit « zhōngyú ».",
+    "note": "Le petit mot le dit que c'est fait. Enfin se dit « zhōngyú ».",
     "say": {
      "zhōngyú": "终于"
     }
@@ -10705,70 +10705,70 @@
   "0-1-19": [
    {
     "lit": "je, à, Chine, aller, petit mot de l'expérience vécue, très, nombreux, endroit",
-    "note": "Le petit mot « guo » après le verbe dit qu'on l'a déjà vécu.",
+    "note": "Pour dire qu'on a déjà vécu quelque chose, on ajoute un petit mot après le verbe. Ce petit mot, c'est « guo ».",
     "say": {
      "guo": "过"
     }
    },
    {
     "lit": "je, aller, petit mot de l'expérience vécue, Grande Muraille",
-    "note": "Je suis déjà allé : aller, puis « guo ».",
+    "note": "Je suis déjà allé se dit aller, puis le petit mot de l'expérience. Ce petit mot, c'est « guo ».",
     "say": {
      "guo": "过"
     }
    },
    {
     "lit": "toi, aller, petit mot de l'expérience vécue, Hangzhou, petit mot de question ?",
-    "note": "Tu es déjà allé : « qù guo », puis ma à la fin.",
+    "note": "Tu es déjà allé se dit toi aller, plus le petit mot de l'expérience. Cela donne « qù guo ». Puis ma à la fin.",
     "say": {
      "qù guo": "去过"
     }
    },
    {
     "lit": "je, avant, ne pas, manger, petit mot de l'expérience vécue, canard rôti",
-    "note": "Ne jamais avoir fait se dit « méi », plus le verbe et guo.",
+    "note": "Ne jamais avoir fait se dit avec le même petit mot de l'expérience. Mais la négation, c'est « méi ».",
     "say": {
      "méi": "没"
     }
    },
    {
     "lit": "maintenant, je, savoir, utiliser, chinois, demander, chemin, petit mot de l'action accomplie",
-    "note": "Demander son chemin se dit demander la route : « wèn lù ».",
+    "note": "Demander son chemin se dit demander la route. Cela donne « wèn lù ».",
     "say": {
      "wèn lù": "问路"
     }
    },
    {
     "lit": "je, aussi, savoir, acheter, billet, petit mot de l'action accomplie",
-    "note": "Je sais aussi : « yě huì », aussi avant savoir.",
+    "note": "Aussi se place avant savoir. Je sais aussi se dit je « yě huì ».",
     "say": {
      "yě huì": "也会"
     }
    },
    {
     "lit": "ce, fois, voyage, trop, génial, petit mot d'exclamation !",
-    "note": "Génial se dit « bàng ».",
+    "note": "Pour dire génial, on emploie un mot très courant. Génial se dit « bàng ».",
     "say": {
      "bàng": "棒"
     }
    },
    {
     "lit": "prochain, un, petit mot pour compter, unité, parler de, se faire, amis",
-    "note": "Prochain se dit « xià », dessous, comme la page suivante.",
+    "note": "Prochain se dit dessous, comme la page suivante. Prochain se dit « xià ».",
     "say": {
      "xià": "下"
     }
    },
    {
     "lit": "toi, progrès, très, grand !",
-    "note": "Le progrès se dit « jìnbù ».",
+    "note": "Pas de verbe être : toi progrès très grand. Progrès se dit « jìnbù ».",
     "say": {
      "jìnbù": "进步"
     }
    },
    {
     "lit": "prochain, fois, se voir !",
-    "note": "À la prochaine fois se dit prochaine fois se voir : « xià cì jiàn ».",
+    "note": "À la prochaine fois se dit prochaine fois se voir. Cela donne « xià cì jiàn ».",
     "say": {
      "xià cì jiàn": "下次见"
     }
@@ -10777,70 +10777,70 @@
   "0-2-0": [
    {
     "lit": "toi, bien, je, être, Paul",
-    "note": "Bonjour se dit toi bien : « nǐ hǎo ».",
+    "note": "Pour saluer, on dit toi bien. Bonjour se dit « nǐ hǎo ».",
     "say": {
      "nǐ hǎo": "你好"
     }
    },
    {
     "lit": "je, être, France, Lyon, personne",
-    "note": "Pour dire d'où l'on est, on met la ville avant personne : « Lǐ'áng rén ».",
+    "note": "Pour dire d'où l'on est, on met la ville avant personne. Lyonnais se dit « Lǐ'áng rén ».",
     "say": {
      "Lǐ'áng rén": "里昂人"
     }
    },
    {
     "lit": "je, à, Chengdu, travailler",
-    "note": "Travailler se dit « gōngzuò », et le lieu se place avant le verbe.",
+    "note": "Le lieu se place avant le verbe. Travailler se dit « gōngzuò ».",
     "say": {
      "gōngzuò": "工作"
     }
    },
    {
     "lit": "toi, petit mot pour renvoyer la question ? toi, être, où, personne ?",
-    "note": "Et toi ? se dit simplement toi, plus un petit mot : « nǐ ne ».",
+    "note": "Pour renvoyer la question, on dit simplement toi, plus un petit mot. Et toi se dit « nǐ ne ».",
     "say": {
      "nǐ ne": "你呢"
     }
    },
    {
     "lit": "je, être, Chengdu, personne",
-    "note": "Être de Chengdu se dit être Chengdu personne : « Chéngdū rén ».",
+    "note": "Être de Chengdu se dit être Chengdu personne. Cela donne « Chéngdū rén ».",
     "say": {
      "Chéngdū rén": "成都人"
     }
    },
    {
     "lit": "très, content, connaître, toi",
-    "note": "Rencontrer, au sens de faire connaissance, se dit « rènshi ».",
+    "note": "Rencontrer, au sens de faire connaissance, a son propre verbe. Il se dit « rènshi ».",
     "say": {
      "rènshi": "认识"
     }
    },
    {
     "lit": "toi, petit mot du possessif, chinois, très, bien !",
-    "note": "Le chinois, la langue, se dit « Zhōngwén ».",
+    "note": "La langue chinoise a son propre mot. Le chinois se dit « Zhōngwén ».",
     "say": {
      "Zhōngwén": "中文"
     }
    },
    {
     "lit": "où (= mais non), je, seulement, savoir, parler, un peu",
-    "note": "Pour répondre modestement à un compliment, on dit « nǎlǐ », littéralement où ça ?",
+    "note": "Pour répondre modestement à un compliment, on dit littéralement où ça ? Cela donne « nǎlǐ ».",
     "say": {
      "nǎlǐ": "哪里"
     }
    },
    {
     "lit": "toi, venir, Chine, très, longtemps, petit mot de l'action accomplie, petit mot de question ?",
-    "note": "Longtemps se dit « jiǔ ».",
+    "note": "Depuis longtemps se dit très longtemps. Longtemps se dit « jiǔ ».",
     "say": {
      "jiǔ": "久"
     }
    },
    {
     "lit": "non, je, juste, venir, un, petit mot pour compter, mois",
-    "note": "Venir juste de se dit « gāng », placé avant le verbe.",
+    "note": "Pour dire venir juste de, on met un mot avant le verbe. Ce mot, c'est « gāng ».",
     "say": {
      "gāng": "刚"
     }
@@ -10849,70 +10849,70 @@
   "0-2-1": [
    {
     "lit": "vous, bien, vous, précieux, nom de famille ?",
-    "note": "Pour demander poliment le nom de famille, on dit « guìxìng », votre précieux nom.",
+    "note": "Pour demander poliment le nom de famille, on dit votre précieux nom. Cela donne « guìxìng ».",
     "say": {
      "guìxìng": "贵姓"
     }
    },
    {
     "lit": "je, avoir pour nom de famille, Wang",
-    "note": "Avoir pour nom de famille, c'est un verbe : « xìng ».",
+    "note": "Avoir pour nom de famille, c'est un verbe à part. Il se dit « xìng ».",
     "say": {
      "xìng": "姓"
     }
    },
    {
     "lit": "je, s'appeler, Wang, Lei",
-    "note": "En chinois, le nom de famille vient toujours en premier : « Wáng Lěi ».",
+    "note": "En chinois, le nom de famille vient toujours en premier. Wang Lei se dit « Wáng Lěi ».",
     "say": {
      "Wáng Lěi": "王磊"
     }
    },
    {
     "lit": "toi, s'appeler, quel, nom ?",
-    "note": "Le nom se dit « míngzi ».",
+    "note": "Pour demander le nom, on dit s'appeler quel nom. Nom se dit « míngzi ».",
     "say": {
      "míngzi": "名字"
     }
    },
    {
     "lit": "je, s'appeler, Marie",
-    "note": "Les noms français sont adaptés aux sons chinois : Marie devient « Mǎlì ».",
+    "note": "Les noms français sont adaptés aux sons chinois. Marie devient « Mǎlì ».",
     "say": {
      "Mǎlì": "玛丽"
     }
    },
    {
     "lit": "je, petit mot du possessif, chinois, nom, s'appeler, Ma, Li",
-    "note": "Un nom chinois se dit Chine langue nom : « Zhōngwén míngzi ».",
+    "note": "Un nom chinois se dit chinois nom. Cela donne « Zhōngwén míngzi ».",
     "say": {
      "Zhōngwén míngzi": "中文名字"
     }
    },
    {
     "lit": "toi, avoir pour nom de famille, Ma, petit mot de question ?",
-    "note": "Pour vérifier le nom de famille, on dit toi avoir pour nom Ma, puis « ma ».",
+    "note": "Pour vérifier le nom de famille, on dit toi avoir pour nom Ma. On ajoute à la fin « ma ».",
     "say": {
      "ma": "吗"
     }
    },
    {
     "lit": "Wang, monsieur, connaître, vous, très, content",
-    "note": "Monsieur se dit « xiānsheng », placé après le nom de famille.",
+    "note": "Le titre se place après le nom de famille. Monsieur se dit « xiānsheng ».",
     "say": {
      "xiānsheng": "先生"
     }
    },
    {
     "lit": "toi, ami, s'appeler, quoi ?",
-    "note": "Pour demander comment s'appelle quelqu'un, on dit s'appeler quoi : « jiào shénme ».",
+    "note": "Pour demander le nom de quelqu'un, on dit s'appeler quoi. Cela donne « jiào shénme ».",
     "say": {
      "jiào shénme": "叫什么"
     }
    },
    {
     "lit": "il, s'appeler, Zhang, Wei",
-    "note": "Il s'appelle : « tā jiào », sans aucun changement de verbe.",
+    "note": "Le verbe ne change pas, quelle que soit la personne. Il s'appelle se dit « tā jiào ».",
     "say": {
      "tā jiào": "他叫"
     }
@@ -10921,70 +10921,70 @@
   "0-2-2": [
    {
     "lit": "aujourd'hui, temps, vraiment, bien !",
-    "note": "Quel beau temps se dit le temps vraiment bon : « zhēn hǎo ».",
+    "note": "Pour s'exclamer, on dit vraiment bien. Cela donne « zhēn hǎo ».",
     "say": {
      "zhēn hǎo": "真好"
     }
    },
    {
     "lit": "toi, souvent, venir, ce, petit mot pour compter, parc, petit mot de question ?",
-    "note": "Souvent se dit « cháng », placé avant le verbe.",
+    "note": "Le mot souvent se place avant le verbe. Souvent se dit « cháng ».",
     "say": {
      "cháng": "常"
     }
    },
    {
     "lit": "oui, je, chaque jour, matin, tous, venir",
-    "note": "Tous les matins : chaque jour matin, puis « dōu » avant venir.",
+    "note": "Tous les matins se dit chaque jour matin, puis tous avant le verbe. Tous se dit « dōu ».",
     "say": {
      "dōu": "都"
     }
    },
    {
     "lit": "peuple, parc, très, grand",
-    "note": "Le peuple se dit « rénmín ».",
+    "note": "Le parc du Peuple porte un nom très courant en Chine. Peuple se dit « rénmín ».",
     "say": {
      "rénmín": "人民"
     }
    },
    {
     "lit": "ici, très, nombreux, gens, danser",
-    "note": "Danser se dit « tiàowǔ ».",
+    "note": "Le matin, dans les parcs, beaucoup de gens dansent. Danser se dit « tiàowǔ ».",
     "say": {
      "tiàowǔ": "跳舞"
     }
    },
    {
     "lit": "toi, être, étudiant, petit mot de question ?",
-    "note": "Un étudiant se dit « xuésheng ».",
+    "note": "Pour demander une profession, on dit toi être étudiant. Étudiant se dit « xuésheng ».",
     "say": {
      "xuésheng": "学生"
     }
    },
    {
     "lit": "ne pas, être, je, déjà, travailler, petit mot de l'action accomplie",
-    "note": "Je travaille déjà : déjà, travailler, et « le » à la fin, le changement est fait.",
+    "note": "Je travaille déjà se termine par un petit mot. Il dit que la situation a changé : « le ».",
     "say": {
      "le": "了"
     }
    },
    {
     "lit": "toi, habiter, à, ici, environs, petit mot de question ?",
-    "note": "Près d'ici se dit ici les environs : « zhè fùjìn ».",
+    "note": "Près d'ici se dit ici les environs. Cela donne « zhè fùjìn ».",
     "say": {
      "zhè fùjìn": "这附近"
     }
    },
    {
     "lit": "oui, marcher, cinq, minute",
-    "note": "Oui, c'est exact, se dit « duì ».",
+    "note": "Pour dire oui, c'est exact, on répond simplement « duì ».",
     "say": {
      "duì": "对"
     }
    },
    {
     "lit": "nous, laisser, petit mot pour compter, téléphone, petit mot de suggestion ?",
-    "note": "Laisser son numéro se dit « liú ».",
+    "note": "Échanger nos numéros se dit laisser un numéro. Laisser se dit « liú ».",
     "say": {
      "liú": "留"
     }
@@ -10993,70 +10993,70 @@
   "0-2-3": [
    {
     "lit": "je, très, aimer, Chengdu",
-    "note": "J'aime beaucoup : très aimer, « hěn xǐhuan ».",
+    "note": "Pour dire j'aime beaucoup, on dit je très aimer. Cela donne « hěn xǐhuan ».",
     "say": {
      "hěn xǐhuan": "很喜欢"
     }
    },
    {
     "lit": "toi, aimer, Sichuan-plat, petit mot de question ?",
-    "note": "La cuisine du Sichuan se dit « chuāncài ».",
+    "note": "La cuisine du Sichuan est célèbre pour ses piments. Elle se dit « chuāncài ».",
     "say": {
      "chuāncài": "川菜"
     }
    },
    {
     "lit": "oui, je, particulièrement, aimer, manger, épicé, petit mot qui en fait une chose",
-    "note": "Particulièrement, pour dire adorer, se dit « tèbié ».",
+    "note": "Pour dire adorer, on dit particulièrement aimer. Particulièrement se dit « tèbié ».",
     "say": {
      "tèbié": "特别"
     }
    },
    {
     "lit": "je, ne pas, aimer, boire, café",
-    "note": "Je n'aime pas : « bù » devant aimer.",
+    "note": "La négation se place juste devant aimer. Ne pas se dit « bù ».",
     "say": {
      "bù": "不"
     }
    },
    {
     "lit": "je, aimer, boire, thé",
-    "note": "Aimer faire quelque chose : aimer, puis le verbe. Aimer boire du thé, « xǐhuan hē chá ».",
+    "note": "Aimer faire quelque chose se dit aimer, puis le verbe. Aimer boire du thé se dit « xǐhuan hē chá ».",
     "say": {
      "xǐhuan hē chá": "喜欢喝茶"
     }
    },
    {
     "lit": "toi, aimer, faire, quoi ?",
-    "note": "Qu'est-ce que tu aimes faire se dit aimer faire quoi : « zuò shénme ».",
+    "note": "Le mot quoi se met à la place de la réponse. Faire quoi se dit « zuò shénme ».",
     "say": {
      "zuò shénme": "做什么"
     }
    },
    {
     "lit": "je, aimer, à, parc, se promener",
-    "note": "Se promener se dit « sànbù ».",
+    "note": "Le lieu se place avant le verbe. Se promener se dit « sànbù ».",
     "say": {
      "sànbù": "散步"
     }
    },
    {
     "lit": "je, épouse, aimer, panda",
-    "note": "Le panda se dit « xióngmāo », l'ours chat.",
+    "note": "Le panda, c'est l'ours chat. Il se dit « xióngmāo ».",
     "say": {
      "xióngmāo": "熊猫"
     }
    },
    {
     "lit": "qui, ne pas, aimer, panda, petit mot de question ?",
-    "note": "Qui se dit « shéi », placé là où serait la personne.",
+    "note": "Le mot qui se met à la place de la personne. Qui se dit « shéi ».",
     "say": {
      "shéi": "谁"
     }
    },
    {
     "lit": "toi, aimer, jouer, mahjong, petit mot de question ?",
-    "note": "Jouer au mahjong se dit frapper le mahjong : « dǎ májiàng ».",
+    "note": "Jouer au mahjong se dit frapper le mahjong. Cela donne « dǎ májiàng ».",
     "say": {
      "dǎ májiàng": "打麻将"
     }
@@ -11065,70 +11065,70 @@
   "0-2-4": [
    {
     "lit": "demain, nous, aller, voir, panda, petit mot de suggestion ?",
-    "note": "Aller voir se dit aller regarder : « qù kàn ».",
+    "note": "Aller voir se dit aller regarder. Cela donne « qù kàn ».",
     "say": {
      "qù kàn": "去看"
     }
    },
    {
     "lit": "panda, base, loin, petit mot de question ?",
-    "note": "La base, le centre des pandas, se dit « jīdì ».",
+    "note": "Les pandas vivent dans une base, un centre d'élevage. Base se dit « jīdì ».",
     "say": {
      "jīdì": "基地"
     }
    },
    {
     "lit": "ne pas, loin, conduire, un, petit mot pour compter, heure",
-    "note": "En voiture se dit conduire : « kāichē », placé avant la durée.",
+    "note": "En voiture se dit conduire, placé avant la durée. Conduire se dit « kāichē ».",
     "say": {
      "kāichē": "开车"
     }
    },
    {
     "lit": "le mieux, matin, aller",
-    "note": "Le mieux se dit « zuìhǎo », en tête de phrase.",
+    "note": "Pour un conseil, on commence par le mieux. Le mieux se dit « zuìhǎo ».",
     "say": {
      "zuìhǎo": "最好"
     }
    },
    {
     "lit": "matin, panda, manger, chose",
-    "note": "Manger quelque chose se dit manger des choses : « chī dōngxi ».",
+    "note": "Manger quelque chose se dit manger des choses. Cela donne « chī dōngxi ».",
     "say": {
      "chī dōngxi": "吃东西"
     }
    },
    {
     "lit": "après-midi, eux (animaux), dormir",
-    "note": "Dormir se dit « shuìjiào ».",
+    "note": "Le moment vient en tête de phrase. Dormir se dit « shuìjiào ».",
     "say": {
      "shuìjiào": "睡觉"
     }
    },
    {
     "lit": "toi, regarder, panda, bébé !",
-    "note": "Un bébé se dit « bǎobao », placé après l'animal.",
+    "note": "Le mot bébé se place après l'animal. Bébé se dit « bǎobao ».",
     "say": {
      "bǎobao": "宝宝"
     }
    },
    {
     "lit": "vraiment, mignon !",
-    "note": "Mignon se dit « kě'ài ».",
+    "note": "Pour s'exclamer, on dit vraiment mignon. Mignon se dit « kě'ài ».",
     "say": {
      "kě'ài": "可爱"
     }
    },
    {
     "lit": "je, pouvoir, prendre photo, petit mot de question ?",
-    "note": "Prendre une photo se dit « pāizhào ».",
+    "note": "Pour demander la permission, on emploie pouvoir. Prendre une photo se dit « pāizhào ».",
     "say": {
      "pāizhào": "拍照"
     }
    },
    {
     "lit": "ici, avoir, combien, petit mot pour compter, panda ?",
-    "note": "Pour un panda, le petit mot de comptage est « zhī », celui des animaux.",
+    "note": "Chaque nom a son petit mot de comptage. Pour un panda, comme pour les animaux, c'est « zhī ».",
     "say": {
      "zhī": "只"
     }
@@ -11137,70 +11137,70 @@
   "0-2-5": [
    {
     "lit": "toi, famille, avoir, combien, petit mot pour compter, personne ?",
-    "note": "Pour compter les membres d'une famille, le petit mot est « kǒu », la bouche.",
+    "note": "Pour compter les membres d'une famille, le petit mot est la bouche. Il se dit « kǒu ».",
     "say": {
      "kǒu": "口"
     }
    },
    {
     "lit": "je, famille, avoir, quatre, petit mot pour compter, personne",
-    "note": "Chez moi se dit je famille : « wǒ jiā ».",
+    "note": "Chez moi se dit je famille. Cela donne « wǒ jiā ».",
     "say": {
      "wǒ jiā": "我家"
     }
    },
    {
     "lit": "papa, maman, grande sœur, et, moi",
-    "note": "La grande sœur se dit « jiějie ».",
+    "note": "En chinois, on précise si la sœur est plus âgée. La grande sœur se dit « jiějie ».",
     "say": {
      "jiějie": "姐姐"
     }
    },
    {
     "lit": "je, grand frère, habiter, à, Pékin",
-    "note": "Le grand frère se dit « gēge ».",
+    "note": "Pour la famille proche, pas de petit mot du possessif. Le grand frère se dit « gēge ».",
     "say": {
      "gēge": "哥哥"
     }
    },
    {
     "lit": "toi, grande sœur, faire, quel, travail ?",
-    "note": "Quel travail se dit quoi travail : « shénme gōngzuò ».",
+    "note": "Pour demander un métier, on dit faire quel travail. Quel travail se dit « shénme gōngzuò ».",
     "say": {
      "shénme gōngzuò": "什么工作"
     }
    },
    {
     "lit": "elle, être, lycée, professeur",
-    "note": "Le professeur se dit « lǎoshī ».",
+    "note": "Pour dire un métier, on emploie le verbe être. Professeur se dit « lǎoshī ».",
     "say": {
      "lǎoshī": "老师"
     }
    },
    {
     "lit": "je, papa, aimer, jouer, mahjong",
-    "note": "Papa se dit « bàba ».",
+    "note": "Pour la famille proche, pas de petit mot du possessif. Papa se dit « bàba ».",
     "say": {
      "bàba": "爸爸"
     }
    },
    {
     "lit": "je, maman, faire, repas, très, bon",
-    "note": "Cuisiner se dit faire le repas : « zuò fàn ».",
+    "note": "Cuisiner se dit faire le repas. Cela donne « zuò fàn ».",
     "say": {
      "zuò fàn": "做饭"
     }
    },
    {
     "lit": "toi, avoir, famille, petit mot du possessif, photo, petit mot de question ?",
-    "note": "La famille, ses membres, se dit « jiārén ».",
+    "note": "Les membres de la famille ont un mot à eux. Ils se disent « jiārén ».",
     "say": {
      "jiārén": "家人"
     }
    },
    {
     "lit": "ceci, être, je, grand frère, et, belle-sœur",
-    "note": "La belle-sœur, femme du grand frère, se dit « sǎozi ».",
+    "note": "La femme du grand frère a un nom précis. La belle-sœur se dit « sǎozi ».",
     "say": {
      "sǎozi": "嫂子"
     }
@@ -11209,70 +11209,70 @@
   "0-2-6": [
    {
     "lit": "toi, faire, quel, travail ?",
-    "note": "Ton travail, tu fais quoi : « zuò shénme gōngzuò ».",
+    "note": "Pour demander un métier, on dit faire quel travail. Cela donne « zuò shénme gōngzuò ».",
     "say": {
      "zuò shénme gōngzuò": "做什么工作"
     }
    },
    {
     "lit": "je, être, ingénieur",
-    "note": "Un ingénieur se dit « gōngchéngshī ».",
+    "note": "Pour dire un métier, on emploie le verbe être. Ingénieur se dit « gōngchéngshī ».",
     "say": {
      "gōngchéngshī": "工程师"
     }
    },
    {
     "lit": "je, à, un, petit mot pour compter, France, entreprise, travailler",
-    "note": "Pour une entreprise, le petit mot de comptage est « jiā ».",
+    "note": "Chaque nom a son petit mot de comptage. Pour une entreprise, c'est « jiā ».",
     "say": {
      "jiā": "家"
     }
    },
    {
     "lit": "toi, petit mot du possessif, bureau, se trouver, où ?",
-    "note": "Le bureau se dit « bàngōngshì ».",
+    "note": "Le mot où se place à la fin. Bureau se dit « bàngōngshì ».",
     "say": {
      "bàngōngshì": "办公室"
     }
    },
    {
     "lit": "se trouver, Chunxi, rue, environs",
-    "note": "La rue se dit « lù », la route, placée après son nom.",
+    "note": "Le mot rue se place après son nom. Rue se dit « lù ».",
     "say": {
      "lù": "路"
     }
    },
    {
     "lit": "toi, chaque jour, tous, aller au travail, petit mot de question ?",
-    "note": "Tous les jours : chaque jour, puis « dōu » avant le verbe.",
+    "note": "Tous les jours se dit chaque jour, puis tous avant le verbe. Tous se dit « dōu ».",
     "say": {
      "dōu": "都"
     }
    },
    {
     "lit": "lundi, jusqu'à, vendredi",
-    "note": "Du lundi au vendredi : lundi, « dào », vendredi.",
+    "note": "Du lundi au vendredi se dit lundi jusqu'à vendredi. Jusqu'à se dit « dào ».",
     "say": {
      "dào": "到"
     }
    },
    {
     "lit": "je, neuf, heure, aller au travail",
-    "note": "Commencer le travail se dit « shàngbān ».",
+    "note": "L'heure se place avant le verbe. Commencer le travail se dit « shàngbān ».",
     "say": {
      "shàngbān": "上班"
     }
    },
    {
     "lit": "toi, petit mot du possessif, travail, avoir, intérêt, petit mot de question ?",
-    "note": "Intéressant se dit avoir du sens : « yǒu yìsi ».",
+    "note": "Intéressant se dit avoir du sens. Cela donne « yǒu yìsi ».",
     "say": {
      "yǒu yìsi": "有意思"
     }
    },
    {
     "lit": "avoir, intérêt, mais, un peu, fatigué",
-    "note": "Mais se dit « kěshì ».",
+    "note": "Pour opposer deux idées, on emploie mais. Mais se dit « kěshì ».",
     "say": {
      "kěshì": "可是"
     }
@@ -11281,70 +11281,70 @@
   "0-2-7": [
    {
     "lit": "allô, toi, petit mot de l'action en cours, faire, quoi ?",
-    "note": "« zài » devant un verbe veut dire être en train de.",
+    "note": "Pour dire être en train de, on met un petit mot devant le verbe. Ce petit mot, c'est « zài ».",
     "say": {
      "zài": "在"
     }
    },
    {
     "lit": "je, petit mot de l'action en cours, manger (repas)",
-    "note": "En train de se dit aussi « zhèngzài », juste devant le verbe.",
+    "note": "En train de peut aussi se dire en deux syllabes. Cela donne « zhèngzài ».",
     "say": {
      "zhèngzài": "正在"
     }
    },
    {
     "lit": "je, petit mot de l'action en cours, maison de thé, boire, thé",
-    "note": "La maison de thé se dit « cháguǎn ».",
+    "note": "La maison de thé est un lieu de vie à Chengdu. Elle se dit « cháguǎn ».",
     "say": {
      "cháguǎn": "茶馆"
     }
    },
    {
     "lit": "je, papa, petit mot de l'action en cours, jouer, mahjong",
-    "note": "Le verbe ne change pas : c'est « zhèngzài » qui dit que ça se passe maintenant.",
+    "note": "Le verbe ne change pas. C'est le petit mot qui dit que ça se passe maintenant : « zhèngzài ».",
     "say": {
      "zhèngzài": "正在"
     }
    },
    {
     "lit": "toi, petit mot de l'action en cours, travailler, petit mot de question ?",
-    "note": "Pour demander si c'est en cours : en train de, travailler, puis « ma ».",
+    "note": "Pour demander si c'est en cours, on garde la phrase. On ajoute à la fin « ma ».",
     "say": {
      "ma": "吗"
     }
    },
    {
     "lit": "non, je, petit mot de l'action en cours, acheter, chose",
-    "note": "Pour répondre non à une action en cours, on dit « méiyǒu ».",
+    "note": "Pour répondre non à une action en cours, on dit ne pas avoir. Cela donne « méiyǒu ».",
     "say": {
      "méiyǒu": "没有"
     }
    },
    {
     "lit": "Chengdu, petit mot de l'action en cours, tomber, pluie, petit mot de question ?",
-    "note": "Il pleut se dit tomber pluie : « xià yǔ ».",
+    "note": "Il pleut se dit la pluie tombe. Cela donne « xià yǔ ».",
     "say": {
      "xià yǔ": "下雨"
     }
    },
    {
     "lit": "je, petite sœur, petit mot de l'action en cours, regarder, télévision",
-    "note": "La petite sœur se dit « mèimei ».",
+    "note": "En chinois, on précise si la sœur est plus jeune. La petite sœur se dit « mèimei ».",
     "say": {
      "mèimei": "妹妹"
     }
    },
    {
     "lit": "je, un moment, de nouveau, appeler",
-    "note": "Dans un moment se dit « yíhuìr ».",
+    "note": "Le moment se place avant le verbe. Dans un moment se dit « yíhuìr ».",
     "say": {
      "yíhuìr": "一会儿"
     }
    },
    {
     "lit": "bien, petit mot d'accord, un moment, se voir !",
-    "note": "À tout à l'heure se dit un moment se voir : « yíhuìr jiàn ».",
+    "note": "À tout à l'heure se dit un moment se voir. Cela donne « yíhuìr jiàn ».",
     "say": {
      "yíhuìr jiàn": "一会儿见"
     }
@@ -11353,70 +11353,70 @@
   "0-2-8": [
    {
     "lit": "nous, aller, maison de thé, petit mot de suggestion !",
-    "note": "Allons-y : la phrase se termine par « ba ».",
+    "note": "Pour dire allons-y, la phrase se termine par un petit mot. Ce petit mot, c'est « ba ».",
     "say": {
      "ba": "吧"
     }
    },
    {
     "lit": "ce, petit mot pour compter, maison de thé, très, vieux",
-    "note": "Ancien, pour un lieu, se dit vieux : « lǎo ».",
+    "note": "Pour un lieu, ancien se dit vieux. Vieux se dit « lǎo ».",
     "say": {
      "lǎo": "老"
     }
    },
    {
     "lit": "nous, s'asseoir, dehors, petit mot de suggestion ?",
-    "note": "Avec s'asseoir, le lieu vient après le verbe : « zuò wàimian ».",
+    "note": "Avec s'asseoir, le lieu vient après le verbe. S'asseoir dehors se dit « zuò wàimian ».",
     "say": {
      "zuò wàimian": "坐外面"
     }
    },
    {
     "lit": "toi, boire, quel, thé ?",
-    "note": "Quel thé se dit quoi thé : « shénme chá ».",
+    "note": "Quel thé se dit quoi thé. Cela donne « shénme chá ».",
     "say": {
      "shénme chá": "什么茶"
     }
    },
    {
     "lit": "un, tasse, thé au jasmin, merci",
-    "note": "Le jasmin se dit « mòlìhuā ».",
+    "note": "Le thé au jasmin est le plus courant. Jasmin se dit « mòlìhuā ».",
     "say": {
      "mòlìhuā": "茉莉花"
     }
    },
    {
     "lit": "Chengdu, gens, très, aimer, tremper, maison de thé",
-    "note": "Passer du temps à la maison de thé se dit tremper : « pào cháguǎn ».",
+    "note": "Passer du temps à la maison de thé se dit tremper. Cela donne « pào cháguǎn ».",
     "say": {
      "pào cháguǎn": "泡茶馆"
     }
    },
    {
     "lit": "attention, thé, très, brûlant",
-    "note": "Brûlant se dit « tàng ».",
+    "note": "Pour une boisson, brûlant a son propre mot. Il se dit « tàng ».",
     "say": {
      "tàng": "烫"
     }
    },
    {
     "lit": "ici, aussi, pouvoir, curer, oreille",
-    "note": "Même, en plus, se dit « hái », placé avant le verbe.",
+    "note": "Même, en plus, se place avant le verbe. Ici, il se dit « hái ».",
     "say": {
      "hái": "还"
     }
    },
    {
     "lit": "ce, petit mot pour compter, thé, combien, argent ?",
-    "note": "Combien d'argent : « duōshao qián ».",
+    "note": "Pour demander un prix, on dit combien d'argent. Cela donne « duōshao qián ».",
     "say": {
      "duōshao qián": "多少钱"
     }
    },
    {
     "lit": "vingt, kuai, un, tasse",
-    "note": "Vingt kuai une tasse : le prix vient en premier, puis l'unité, « yì bēi ».",
+    "note": "Le prix vient en premier, puis l'unité. Une tasse se dit « yì bēi ».",
     "say": {
      "yì bēi": "一杯"
     }
@@ -11425,70 +11425,70 @@
   "0-2-9": [
    {
     "lit": "Chengdu, comparé à, Lyon, grand",
-    "note": "Pour comparer, on met « bǐ » entre les deux : Chengdu, bǐ, Lyon, grand.",
+    "note": "Pour comparer, on met un petit mot entre les deux. Ce petit mot, c'est « bǐ ». Puis vient l'adjectif.",
     "say": {
      "bǐ": "比"
     }
    },
    {
     "lit": "je, trouver, thé, comparé à, café, bon à boire",
-    "note": "Trouver, penser que, se dit « juéde ».",
+    "note": "Pour donner son avis, on dit je trouve. Trouver se dit « juéde ».",
     "say": {
      "juéde": "觉得"
     }
    },
    {
     "lit": "je, grand frère, comparé à, moi, grand (taille)",
-    "note": "Grand de taille se dit « gāo ».",
+    "note": "Pour une personne, grand de taille a son propre mot. Il se dit « gāo ».",
     "say": {
      "gāo": "高"
     }
    },
    {
     "lit": "aujourd'hui, comparé à, hier, chaud",
-    "note": "Avec « bǐ », jamais de très devant l'adjectif : plus chaud, juste chaud.",
+    "note": "Dans une comparaison, jamais de très devant l'adjectif. Plus chaud se dit simplement chaud : « rè ».",
     "say": {
-     "bǐ": "比"
+     "rè": "热"
     }
    },
    {
     "lit": "ici, métro, comparé à, bus, rapide",
-    "note": "Plus vite : métro, bǐ, bus, rapide. Rapide se dit « kuài ».",
+    "note": "Le métro comparé au bus, rapide. Rapide se dit « kuài ».",
     "say": {
      "kuài": "快"
     }
    },
    {
     "lit": "ce, petit mot pour compter, comparé à, ce-là, petit mot pour compter, bon marché",
-    "note": "Moins cher se dit plus bon marché : « piányi ».",
+    "note": "Moins cher se dit plus bon marché. Bon marché se dit « piányi ».",
     "say": {
      "piányi": "便宜"
     }
    },
    {
     "lit": "toi, comparé à, moi, petit, petit mot de question ?",
-    "note": "Plus jeune se dit plus petit : « xiǎo ».",
+    "note": "Plus jeune se dit plus petit. Petit se dit « xiǎo ».",
     "say": {
      "xiǎo": "小"
     }
    },
    {
     "lit": "oui, je, comparé à, toi, petit, deux, an",
-    "note": "L'écart se place à la fin : plus petit de deux ans, « liǎng suì ».",
+    "note": "Dans une comparaison, l'écart se place à la fin. De deux ans se dit « liǎng suì ».",
     "say": {
      "liǎng suì": "两岁"
     }
    },
    {
     "lit": "chinois, comparé à, français, difficile, petit mot de question ?",
-    "note": "Difficile se dit « nán ».",
+    "note": "Dans une comparaison, l'adjectif vient à la fin. Difficile se dit « nán ».",
     "say": {
      "nán": "难"
     }
    },
    {
     "lit": "non, français, comparé à, chinois, difficile !",
-    "note": "Pour inverser, on échange les deux : français, « bǐ », chinois, difficile.",
+    "note": "Pour inverser la comparaison, on échange les deux. Le mot du milieu reste « bǐ ».",
     "say": {
      "bǐ": "比"
     }
@@ -11497,70 +11497,70 @@
   "0-2-10": [
    {
     "lit": "ceci, être, je, petit mot du possessif, nouveau, collègue",
-    "note": "Un collègue se dit « tóngshì ».",
+    "note": "Le nouveau se place devant le nom. Collègue se dit « tóngshì ».",
     "say": {
      "tóngshì": "同事"
     }
    },
    {
     "lit": "elle, être, Shanghai, personne",
-    "note": "Être de Shanghai : « Shànghǎi rén ».",
+    "note": "Être de Shanghai se dit être Shanghai personne. Cela donne « Shànghǎi rén ».",
     "say": {
      "Shànghǎi rén": "上海人"
     }
    },
    {
     "lit": "bienvenue, toi, venir, nous, entreprise !",
-    "note": "L'entreprise se dit « gōngsī ».",
+    "note": "Pour dire notre entreprise, pas besoin du petit mot du possessif. Entreprise se dit « gōngsī ».",
     "say": {
      "gōngsī": "公司"
     }
    },
    {
     "lit": "midi, ensemble, manger, petit mot de suggestion ?",
-    "note": "Ensemble se dit « yìqǐ », avant le verbe.",
+    "note": "Le mot ensemble se place avant le verbe. Ensemble se dit « yìqǐ ».",
     "say": {
      "yìqǐ": "一起"
     }
    },
    {
     "lit": "en bas, avoir, un, petit mot pour compter, très, bien, petit mot du possessif, cantine",
-    "note": "En bas de l'immeuble se dit « lóuxià ».",
+    "note": "En bas de l'immeuble se dit immeuble dessous. Cela donne « lóuxià ».",
     "say": {
      "lóuxià": "楼下"
     }
    },
    {
     "lit": "je, petit mot du possessif, patron, personne, très, bien",
-    "note": "Quelqu'un de bien : comme personne, très bien, « rén hěn hǎo ».",
+    "note": "Pour dire quelqu'un de bien, on dit comme personne, très bien. Cela donne « rén hěn hǎo ».",
     "say": {
      "rén hěn hǎo": "人很好"
     }
    },
    {
     "lit": "toi, aujourd'hui, après-midi, tenir réunion, petit mot de question ?",
-    "note": "Avoir une réunion se dit « kāihuì ».",
+    "note": "Avoir une réunion, c'est un seul verbe. Il se dit « kāihuì ».",
     "say": {
      "kāihuì": "开会"
     }
    },
    {
     "lit": "oui, trois, heure, tenir réunion",
-    "note": "L'heure vient avant le verbe : trois heures, « sān diǎn », puis réunion.",
+    "note": "L'heure vient avant le verbe. Trois heures se dit « sān diǎn ».",
     "say": {
      "sān diǎn": "三点"
     }
    },
    {
     "lit": "quitter le travail, après, toi, directement, rentrer, maison, petit mot de question ?",
-    "note": "Après se dit « yǐhòu », placé après l'action.",
+    "note": "Après une action se dit l'action, puis après. Après se dit « yǐhòu ».",
     "say": {
      "yǐhòu": "以后"
     }
    },
    {
     "lit": "non, je, aller, salle de sport",
-    "note": "La salle de sport se dit « jiànshēnfáng ».",
+    "note": "Après aller, le lieu vient tout de suite. La salle de sport se dit « jiànshēnfáng ».",
     "say": {
      "jiànshēnfáng": "健身房"
     }
@@ -11569,70 +11569,70 @@
   "0-2-11": [
    {
     "lit": "toi, pourquoi, apprendre, chinois ?",
-    "note": "Pourquoi se dit « wèishénme », juste avant le verbe.",
+    "note": "Le mot pourquoi se place juste avant le verbe. Pourquoi se dit « wèishénme ».",
     "say": {
      "wèishénme": "为什么"
     }
    },
    {
     "lit": "parce que, je, à, Chine, travailler",
-    "note": "Parce que se dit « yīnwèi », en tête de phrase.",
+    "note": "Pour donner une raison, on commence par parce que. Parce que se dit « yīnwèi ».",
     "say": {
      "yīnwèi": "因为"
     }
    },
    {
     "lit": "parce que, je, aimer, Chengdu, donc, je, apprendre, chinois",
-    "note": "Donc se dit « suǒyǐ ».",
+    "note": "Parce que et donc vont souvent ensemble. Donc se dit « suǒyǐ ».",
     "say": {
      "suǒyǐ": "所以"
     }
    },
    {
     "lit": "parce que, tomber, pluie, donc, nous, rester, à, maison de thé",
-    "note": "Rester quelque part se dit « dāi ».",
+    "note": "Parce que il pleut, donc on reste. Rester quelque part se dit « dāi ».",
     "say": {
      "dāi": "待"
     }
    },
    {
     "lit": "parce que, travail, très, occupé, donc, je, très, fatigué",
-    "note": "Occupé se dit « máng ».",
+    "note": "Parce que le travail est chargé, donc je suis fatigué. Occupé se dit « máng ».",
     "say": {
      "máng": "忙"
     }
    },
    {
     "lit": "toi, aujourd'hui, soir, pourquoi, ne pas, venir ?",
-    "note": "Pourquoi tu ne viens pas : « wèishénme », puis bù lái.",
+    "note": "Le mot pourquoi se place avant la négation. Pourquoi se dit « wèishénme ».",
     "say": {
      "wèishénme": "为什么"
     }
    },
    {
     "lit": "parce que, je, fils, malade, petit mot de l'action accomplie",
-    "note": "Être malade se dit « bìng le ».",
+    "note": "Être malade se dit maladie, avec le petit mot du changement. Cela donne « bìng le ».",
     "say": {
      "bìng le": "病了"
     }
    },
    {
     "lit": "parce que, je, craindre, piquant, donc, je, manger, légèrement épicé",
-    "note": "Peu épicé se dit légèrement piquant : « wēilà ».",
+    "note": "Au restaurant, on choisit son niveau de piment. Peu épicé se dit « wēilà ».",
     "say": {
      "wēilà": "微辣"
     }
    },
    {
     "lit": "parce que, embouteillage, donc, il, arriver en retard, petit mot de l'action accomplie",
-    "note": "Les bouchons se disent « dǔchē », la circulation bouchée.",
+    "note": "Les bouchons, c'est la circulation bouchée. Cela donne « dǔchē ».",
     "say": {
      "dǔchē": "堵车"
     }
    },
    {
     "lit": "parce que, ici, ami, très, nombreux, donc, je, très, heureux",
-    "note": "Heureux se dit le cœur ouvert : « kāixīn ».",
+    "note": "Heureux, c'est avoir le cœur ouvert. Cela donne « kāixīn ».",
     "say": {
      "kāixīn": "开心"
     }
@@ -11641,70 +11641,70 @@
   "0-2-12": [
    {
     "lit": "très, nombreux, personne âgée, à, parc, jouer, mahjong",
-    "note": "Les personnes âgées se disent « lǎorén ».",
+    "note": "Dans les parcs, les personnes âgées jouent au mahjong. Personnes âgées se dit « lǎorén ».",
     "say": {
      "lǎorén": "老人"
     }
    },
    {
     "lit": "toi, savoir, jouer, mahjong, petit mot de question ?",
-    "note": "Savoir jouer : savoir appris, « huì ».",
+    "note": "Savoir jouer est un savoir appris. Ce savoir se dit « huì ».",
     "say": {
      "huì": "会"
     }
    },
    {
     "lit": "ne pas, savoir, je, encore, ne pas, savoir",
-    "note": "Pas encore : encore, puis ne pas savoir, « hái bú huì ».",
+    "note": "Pas encore se dit encore ne pas savoir. Cela donne « hái bú huì ».",
     "say": {
      "hái bú huì": "还不会"
     }
    },
    {
     "lit": "ne pas, difficile, je, enseigner, toi",
-    "note": "Enseigner se dit « jiāo ».",
+    "note": "La personne vient juste après le verbe. Enseigner se dit « jiāo ».",
     "say": {
      "jiāo": "教"
     }
    },
    {
     "lit": "falloir, quatre, petit mot pour compter, personne",
-    "note": "Il faut se dit « yào ».",
+    "note": "Pour dire il faut, on emploie vouloir. Vouloir se dit « yào ».",
     "say": {
      "yào": "要"
     }
    },
    {
     "lit": "être le tour de, toi, petit mot du changement !",
-    "note": "C'est ton tour se dit « gāi nǐ le ».",
+    "note": "Pour dire à toi de jouer, on dit c'est ton tour. Cela donne « gāi nǐ le ».",
     "say": {
      "gāi nǐ le": "该你了"
     }
    },
    {
     "lit": "je, gagner, petit mot de l'action accomplie !",
-    "note": "Gagner se dit « yíng ».",
+    "note": "Le petit mot le dit que c'est fait. Gagner se dit « yíng ».",
     "say": {
      "yíng": "赢"
     }
    },
    {
     "lit": "encore, jouer, un, petit mot pour compter les parties, petit mot de suggestion ?",
-    "note": "Une partie de jeu se compte avec « jú ».",
+    "note": "Une partie de jeu a son propre petit mot de comptage. Il se dit « jú ».",
     "say": {
      "jú": "局"
     }
    },
    {
     "lit": "Chengdu, mahjong, petit mot du possessif, règle, très, spécial",
-    "note": "Les règles se disent « guīzé ».",
+    "note": "Le mahjong de Chengdu a ses règles. Règles se dit « guīzé ».",
     "say": {
      "guīzé": "规则"
     }
    },
    {
     "lit": "jouer, mahjong, très, amusant !",
-    "note": "Amusant se dit « hǎowánr », bon à jouer.",
+    "note": "Amusant se dit bon à jouer. Cela donne « hǎowánr ».",
     "say": {
      "hǎowánr": "好玩儿"
     }
@@ -11713,70 +11713,70 @@
   "0-2-13": [
    {
     "lit": "toi, goûter-goûter, ce, petit mot pour compter, thé",
-    "note": "Doubler un verbe le rend léger : goûter un peu, « chángchang ».",
+    "note": "Doubler un verbe le rend plus léger. Goûter un peu se dit « chángchang ».",
     "say": {
      "chángchang": "尝尝"
     }
    },
    {
     "lit": "je, pouvoir, essayer-essayer, petit mot de question ?",
-    "note": "Essayer un peu : « shìshi ».",
+    "note": "Doubler un verbe le rend plus léger. Essayer un peu se dit « shìshi ».",
     "say": {
      "shìshi": "试试"
     }
    },
    {
     "lit": "toi, regarder-regarder, ce, petit mot pour compter, photo",
-    "note": "Regarder un peu : « kànkan ».",
+    "note": "Doubler un verbe le rend plus léger. Regarder un peu se dit « kànkan ».",
     "say": {
      "kànkan": "看看"
     }
    },
    {
     "lit": "laisser, je, penser-penser",
-    "note": "Laisser, permettre, se dit « ràng ».",
+    "note": "Laisse-moi se dit permettre moi. Permettre se dit « ràng ».",
     "say": {
      "ràng": "让"
     }
    },
    {
     "lit": "nous, aller, parc, marcher-marcher, petit mot de suggestion ?",
-    "note": "Se balader un peu : marcher doublé, « zǒuzou ».",
+    "note": "Se balader un peu, c'est marcher doublé. Cela donne « zǒuzou ».",
     "say": {
      "zǒuzou": "走走"
     }
    },
    {
     "lit": "je, demander-demander, je, petit mot du possessif, collègue",
-    "note": "Demander un peu : « wènwen ».",
+    "note": "Voir avec quelqu'un, c'est lui demander un peu. Cela donne « wènwen ».",
     "say": {
      "wènwen": "问问"
     }
    },
    {
     "lit": "toi, se reposer-se reposer, petit mot de suggestion",
-    "note": "Pour un verbe de deux syllabes, on double tout le mot : « xiūxi xiūxi ».",
+    "note": "Pour un verbe de deux syllabes, on double tout le mot. Se reposer un peu se dit « xiūxi xiūxi ».",
     "say": {
      "xiūxi xiūxi": "休息休息"
     }
    },
    {
     "lit": "toi, vouloir, goûter-goûter, mapo, tofu, petit mot de question ?",
-    "note": "Le tofu se dit « dòufu ».",
+    "note": "Le tofu mapo est un plat célèbre du Sichuan. Tofu se dit « dòufu ».",
     "say": {
      "dòufu": "豆腐"
     }
    },
    {
     "lit": "toi, écouter-écouter, ce, petit mot pour compter, chanson",
-    "note": "Pour une chanson, le petit mot de comptage est « shǒu ».",
+    "note": "Chaque nom a son petit mot de comptage. Pour une chanson, c'est « shǒu ».",
     "say": {
      "shǒu": "首"
     }
    },
    {
     "lit": "très, bon, toi, aussi, essayer-essayer !",
-    "note": "Toi aussi : « yě » avant le verbe.",
+    "note": "Le mot aussi se place avant le verbe. Aussi se dit « yě ».",
     "say": {
      "yě": "也"
     }
@@ -11785,70 +11785,70 @@
   "0-2-14": [
    {
     "lit": "toi, week-end, en général, faire, quoi ?",
-    "note": "Le week-end se dit « zhōumò ».",
+    "note": "Le moment se place avant le verbe. Le week-end se dit « zhōumò ».",
     "say": {
      "zhōumò": "周末"
     }
    },
    {
     "lit": "je, à, rivière, bord, monter, vélo",
-    "note": "Au bord de la rivière se dit rivière bord : « hé biān ».",
+    "note": "Au bord de se place après le lieu. Au bord de la rivière se dit « hé biān ».",
     "say": {
      "hé biān": "河边"
     }
    },
    {
     "lit": "avoir, moment, je, aller, grimper, montagne",
-    "note": "Parfois se dit il y a des moments : « yǒu shíhou ».",
+    "note": "Parfois se dit il y a des moments. Cela donne « yǒu shíhou ».",
     "say": {
      "yǒu shíhou": "有时候"
     }
    },
    {
     "lit": "Qingcheng, montagne, très, beau",
-    "note": "La montagne se dit « shān », placée après son nom.",
+    "note": "Le mot montagne se place après son nom. Montagne se dit « shān ».",
     "say": {
      "shān": "山"
     }
    },
    {
     "lit": "toi, aimer, chanter, chanson, petit mot de question ?",
-    "note": "Chanter se dit chanter une chanson : « chàng gē ».",
+    "note": "Chanter se dit chanter une chanson. Cela donne « chàng gē ».",
     "say": {
      "chàng gē": "唱歌"
     }
    },
    {
     "lit": "ce soir, nous, aller, chanter, chanson",
-    "note": "Aller faire quelque chose : aller, puis le verbe, « qù chàng gē ».",
+    "note": "Aller faire quelque chose se dit aller, puis le verbe. Aller chanter se dit « qù chàng gē ».",
     "say": {
      "qù chàng gē": "去唱歌"
     }
    },
    {
     "lit": "je, souvent, aller, voir, film",
-    "note": "Aller au cinéma se dit aller voir un film : « kàn diànyǐng ».",
+    "note": "Aller au cinéma se dit aller voir un film. Cela donne « kàn diànyǐng ».",
     "say": {
      "kàn diànyǐng": "看电影"
     }
    },
    {
     "lit": "dimanche, je, dormir, paresseux-sommeil",
-    "note": "La grasse matinée se dit dormir le sommeil paresseux : « shuì lǎnjiào ».",
+    "note": "La grasse matinée, c'est le sommeil paresseux. Cela donne « shuì lǎnjiào ».",
     "say": {
      "shuì lǎnjiào": "睡懒觉"
     }
    },
    {
     "lit": "toi, d'habitude, faire du sport, petit mot de question ?",
-    "note": "Faire du sport se dit « yùndòng ».",
+    "note": "Faire du sport, c'est un seul verbe. Il se dit « yùndòng ».",
     "say": {
      "yùndòng": "运动"
     }
    },
    {
     "lit": "oui, je, jouer, badminton",
-    "note": "Le badminton se dit « yǔmáoqiú », la balle à plumes.",
+    "note": "Le badminton, c'est la balle à plumes. Il se dit « yǔmáoqiú ».",
     "say": {
      "yǔmáoqiú": "羽毛球"
     }
@@ -11857,70 +11857,70 @@
   "0-2-15": [
    {
     "lit": "ceci, être, donner, toi, petit mot du possessif, cadeau",
-    "note": "Pour toi : « gěi nǐ de », ce qui est donné à toi.",
+    "note": "Un cadeau pour toi, c'est ce qui est donné à toi. Cela donne « gěi nǐ de ».",
     "say": {
      "gěi nǐ de": "给你的"
     }
    },
    {
     "lit": "je, donner, toi, ce, petit mot pour compter, livre",
-    "note": "Donner à quelqu'un : « gěi », puis la personne, puis la chose.",
+    "note": "Pour offrir, on dit donner, puis la personne, puis la chose. Donner se dit « gěi ».",
     "say": {
      "gěi": "给"
     }
    },
    {
     "lit": "merci, toi, vraiment, bien !",
-    "note": "C'est gentil se dit tu es vraiment bien : « nǐ zhēn hǎo ».",
+    "note": "Pour dire c'est gentil, on dit tu es vraiment bien. Cela donne « nǐ zhēn hǎo ».",
     "say": {
      "nǐ zhēn hǎo": "你真好"
     }
    },
    {
     "lit": "je, pour, maman, acheter, thé",
-    "note": "Pour quelqu'un se dit aussi « gěi », placé avant le verbe.",
+    "note": "Pour quelqu'un se place avant le verbe. Pour se dit aussi « gěi ».",
     "say": {
      "gěi": "给"
     }
    },
    {
     "lit": "s'il te plaît, donner, moi, toi, petit mot du possessif, téléphone, numéro",
-    "note": "Donne-moi : veuillez, « gěi wǒ », puis la chose.",
+    "note": "Donne-moi se dit veuillez donner moi. Donner moi se dit « gěi wǒ ».",
     "say": {
      "gěi wǒ": "给我"
     }
    },
    {
     "lit": "je, aujourd'hui, soir, pour, toi, frapper, téléphone",
-    "note": "Appeler quelqu'un se dit frapper le téléphone : « dǎ diànhuà ».",
+    "note": "Appeler quelqu'un se dit frapper le téléphone. Cela donne « dǎ diànhuà ».",
     "say": {
      "dǎ diànhuà": "打电话"
     }
    },
    {
     "lit": "elle, pour, ami, faire, fondue",
-    "note": "La fondue chinoise se dit « huǒguō », la marmite de feu.",
+    "note": "La fondue chinoise, c'est la marmite de feu. Elle se dit « huǒguō ».",
     "say": {
      "huǒguō": "火锅"
     }
    },
    {
     "lit": "offrir, Chine, ami, quel, cadeau, bien ?",
-    "note": "Offrir un cadeau se dit « sòng ».",
+    "note": "Offrir un cadeau a son propre verbe. Offrir se dit « sòng ».",
     "say": {
      "sòng": "送"
     }
    },
    {
     "lit": "France, vin rouge, très, bien",
-    "note": "Le vin rouge se dit « hóngjiǔ ».",
+    "note": "Le vin rouge, c'est l'alcool rouge. Il se dit « hóngjiǔ ».",
     "say": {
      "hóngjiǔ": "红酒"
     }
    },
    {
     "lit": "je, donner, fille, un, petit mot pour compter, panda, jouet",
-    "note": "Ma fille se dit « nǚ'ér ».",
+    "note": "Pour la famille proche, pas de petit mot du possessif. Ma fille se dit « nǚ'ér ».",
     "say": {
      "nǚ'ér": "女儿"
     }
@@ -11929,70 +11929,70 @@
   "0-2-16": [
    {
     "lit": "toi, samedi, soir, avoir, temps libre, petit mot de question ?",
-    "note": "Samedi se dit semaine six : « xīngqīliù ».",
+    "note": "Les jours de la semaine sont numérotés. Samedi se dit semaine six : « xīngqīliù ».",
     "say": {
      "xīngqīliù": "星期六"
     }
    },
    {
     "lit": "je, inviter, toi, manger, fondue",
-    "note": "Inviter se dit « qǐng », le même mot que s'il vous plaît.",
+    "note": "Inviter se dit avec le même mot que s'il vous plaît. Ce mot, c'est « qǐng ».",
     "say": {
      "qǐng": "请"
     }
    },
    {
     "lit": "bien, petit mot d'accord, ne pas avoir, problème !",
-    "note": "D'accord se dit « hǎo de ».",
+    "note": "Pour accepter, on dit bien, avec un petit mot. D'accord se dit « hǎo de ».",
     "say": {
      "hǎo de": "好的"
     }
    },
    {
     "lit": "toi, savoir, bon, petit mot du possessif, fondue, restaurant, petit mot de question ?",
-    "note": "Un restaurant, pour la fondue, se dit simplement « diàn », la boutique.",
+    "note": "Un bon restaurant de fondue se dit délicieux de fondue boutique. Restaurant se dit « diàn ».",
     "say": {
      "diàn": "店"
     }
    },
    {
     "lit": "je, maison, environs, avoir, un, petit mot pour compter",
-    "note": "Pour un restaurant, le petit mot de comptage est « jiā ».",
+    "note": "Pas besoin de répéter le nom. Pour un restaurant, le petit mot de comptage est « jiā ».",
     "say": {
      "jiā": "家"
     }
    },
    {
     "lit": "nous, sept, heure, se voir, petit mot de suggestion ?",
-    "note": "Se retrouver se dit se voir : « jiàn ».",
+    "note": "L'heure vient avant le verbe. Se retrouver se dit se voir : « jiàn ».",
     "say": {
      "jiàn": "见"
     }
    },
    {
     "lit": "je, pouvoir, amener, je, mari, venir, petit mot de question ?",
-    "note": "Venir avec quelqu'un se dit amener : « dài ».",
+    "note": "Venir avec quelqu'un se dit amener cette personne. Amener se dit « dài ».",
     "say": {
      "dài": "带"
     }
    },
    {
     "lit": "bien sûr, gens, nombreux, animé !",
-    "note": "Plus on est nombreux, plus c'est animé : « rén duō rènao ».",
+    "note": "Plus on est nombreux, plus c'est animé, en quatre mots. Cela donne « rén duō rènao ».",
     "say": {
      "rén duō rènao": "人多热闹"
     }
    },
    {
     "lit": "falloir, réserver place, petit mot de question ?",
-    "note": "Réserver une table se dit « dìngwèi ».",
+    "note": "Réserver une table, c'est réserver une place. Cela donne « dìngwèi ».",
     "say": {
      "dìngwèi": "订位"
     }
    },
    {
     "lit": "falloir, samedi, gens, très, nombreux",
-    "note": "Pour répondre oui, il faut, on reprend le verbe : « yào ».",
+    "note": "Pour répondre oui, on reprend le verbe de la question. Ici, falloir : « yào ».",
     "say": {
      "yào": "要"
     }
@@ -12001,70 +12001,70 @@
   "0-2-17": [
    {
     "lit": "ce, petit mot pour compter, fondue, trop, épicé, petit mot d'exclamation !",
-    "note": "Trop épicé se dit « tài là le ».",
+    "note": "Pour se plaindre, on dit trop, avec le petit mot le à la fin. Trop épicé se dit « tài là le ».",
     "say": {
      "tài là le": "太辣了"
     }
    },
    {
     "lit": "extrêmement, bon",
-    "note": "Très bon, extrêmement délicieux : « fēicháng hǎochī ».",
+    "note": "Pour un très grand compliment, on dit extrêmement délicieux. Cela donne « fēicháng hǎochī ».",
     "say": {
      "fēicháng hǎochī": "非常好吃"
     }
    },
    {
     "lit": "bouillon, extrêmement, parfumé",
-    "note": "Sentir bon se dit « xiāng ».",
+    "note": "Sentir bon, c'est un adjectif : parfumé. Parfumé se dit « xiāng ».",
     "say": {
      "xiāng": "香"
     }
    },
    {
     "lit": "je, trop, chaud, petit mot d'exclamation !",
-    "note": "Pour se plaindre, on dit trop, et le à la fin : « tài rè le ».",
+    "note": "Pour se plaindre, on dit trop, avec le petit mot le à la fin. Trop chaud se dit « tài rè le ».",
     "say": {
      "tài rè le": "太热了"
     }
    },
    {
     "lit": "poivre du Sichuan, très, engourdissant",
-    "note": "La sensation qui fait fourmiller la langue se dit « má ».",
+    "note": "Le poivre du Sichuan fait fourmiller la langue. Cette sensation se dit « má ».",
     "say": {
      "má": "麻"
     }
    },
    {
     "lit": "boire, un peu, lait de soja, petit mot de suggestion",
-    "note": "Le lait de soja se dit « dòunǎi ».",
+    "note": "Contre le piment, on boit du lait de soja. Lait de soja se dit « dòunǎi ».",
     "say": {
      "dòunǎi": "豆奶"
     }
    },
    {
     "lit": "ce, petit mot pour compter, restaurant, extrêmement, célèbre",
-    "note": "Connu, célèbre, se dit « yǒumíng ».",
+    "note": "Pas de verbe être devant un adjectif. Célèbre se dit « yǒumíng ».",
     "say": {
      "yǒumíng": "有名"
     }
    },
    {
     "lit": "aujourd'hui, soir, gens, trop, nombreux, petit mot d'exclamation",
-    "note": "Trop de monde se dit les gens trop nombreux : « tài duō le ».",
+    "note": "Trop de monde se dit les gens trop nombreux. Cela donne « tài duō le ».",
     "say": {
      "tài duō le": "太多了"
     }
    },
    {
     "lit": "toi, trop, poli, petit mot d'exclamation !",
-    "note": "Pour remercier d'un geste, on dit tu es trop poli : « tài kèqi le ».",
+    "note": "Pour remercier d'un geste, on dit tu es trop poli. Cela donne « tài kèqi le ».",
     "say": {
      "tài kèqi le": "太客气了"
     }
    },
    {
     "lit": "aujourd'hui, soir, je, extrêmement, heureux",
-    "note": "Extrêmement heureux : « fēicháng kāixīn ».",
+    "note": "Pour dire très heureux, on dit extrêmement heureux. Cela donne « fēicháng kāixīn ».",
     "say": {
      "fēicháng kāixīn": "非常开心"
     }
@@ -12073,70 +12073,70 @@
   "0-2-18": [
    {
     "lit": "très, tard, petit mot du changement, je, devoir, rentrer, maison, petit mot du changement",
-    "note": "Devoir se dit « děi ».",
+    "note": "Pour dire je dois, on met un mot avant le verbe. Devoir se dit « děi ».",
     "say": {
      "děi": "得"
     }
    },
    {
     "lit": "merci, toi, aujourd'hui, soir, petit mot du possessif, accueil",
-    "note": "L'accueil, l'hospitalité, se dit « zhāodài ».",
+    "note": "Pour remercier de l'accueil, on dit merci toi de accueil. Accueil se dit « zhāodài ».",
     "say": {
      "zhāodài": "招待"
     }
    },
    {
     "lit": "aujourd'hui, s'amuser, petit mot de la manière, très, content",
-    "note": "Le petit mot « de », après le verbe, introduit comment on l'a fait.",
+    "note": "Pour dire comment s'est passée une action, on ajoute un petit mot après le verbe. Ce petit mot, c'est « de ».",
     "say": {
      "de": "得"
     }
    },
    {
     "lit": "route-sur, attention !",
-    "note": "Fais attention se dit « xiǎoxīn ».",
+    "note": "Pour dire au revoir à quelqu'un qui part, on dit sur la route, attention. Attention se dit « xiǎoxīn ».",
     "say": {
      "xiǎoxīn": "小心"
     }
    },
    {
     "lit": "toi, prendre un taxi, rentrer, petit mot de question ?",
-    "note": "Prendre un taxi se dit aussi « dǎchē ».",
+    "note": "Prendre un taxi a aussi une forme courte. Elle se dit « dǎchē ».",
     "say": {
      "dǎchē": "打车"
     }
    },
    {
     "lit": "non, je, s'asseoir (prendre), métro",
-    "note": "Prendre le métro : s'asseoir métro, « zuò dìtiě ».",
+    "note": "Prendre le métro, c'est s'asseoir dans le métro. Cela donne « zuò dìtiě ».",
     "say": {
      "zuò dìtiě": "坐地铁"
     }
    },
    {
     "lit": "arriver, maison, pour, moi, envoyer, petit mot pour compter, message",
-    "note": "Envoyer un message se dit « fā xìnxī ».",
+    "note": "Envoyer un message se dit envoyer une information. Cela donne « fā xìnxī ».",
     "say": {
      "fā xìnxī": "发信息"
     }
    },
    {
     "lit": "un autre jour, de nouveau, se réunir, petit mot de suggestion !",
-    "note": "Un autre jour se dit « gǎitiān ».",
+    "note": "Un autre jour se dit changer de jour. Cela donne « gǎitiān ».",
     "say": {
      "gǎitiān": "改天"
     }
    },
    {
     "lit": "prochaine, fois, je, inviter",
-    "note": "Inviter à manger, payer pour tous, se dit « qǐngkè ».",
+    "note": "Inviter à manger et payer pour tous, c'est un seul verbe. Il se dit « qǐngkè ».",
     "say": {
      "qǐngkè": "请客"
     }
    },
    {
     "lit": "à nouveau, se voir, soir, paix !",
-    "note": "Bonne nuit se dit soir paix : « wǎn'ān ».",
+    "note": "Bonne nuit se dit soir paix. Cela donne « wǎn'ān ».",
     "say": {
      "wǎn'ān": "晚安"
     }
@@ -12145,70 +12145,70 @@
   "0-2-19": [
    {
     "lit": "toi, maintenant, chinois, parler, petit mot de la manière, très, bien, petit mot d'exclamation !",
-    "note": "Pour dire comment on parle, on met « de » après le verbe : parler bien.",
+    "note": "Pour dire comment on parle, on met un petit mot après le verbe. Ce petit mot, c'est « de ». Puis vient très bien.",
     "say": {
      "de": "得"
     }
    },
    {
     "lit": "ce, petit mot pour compter, module, étudier, fini, petit mot de l'action accomplie, petit mot pour dire n'est-ce pas ?",
-    "note": "Finir d'étudier se dit étudier fini : « xué wán ».",
+    "note": "Finir d'étudier se dit étudier fini. Cela donne « xué wán ».",
     "say": {
      "xué wán": "学完"
     }
    },
    {
     "lit": "je, savoir, utiliser, chinois, présenter, soi-même",
-    "note": "Se présenter se dit présenter soi-même : « jièshào zìjǐ ».",
+    "note": "Se présenter se dit présenter soi-même. Cela donne « jièshào zìjǐ ».",
     "say": {
      "jièshào zìjǐ": "介绍自己"
     }
    },
    {
     "lit": "je, pouvoir, parler-parler, je, petit mot du possessif, famille",
-    "note": "Parler un peu : « shuōshuo ».",
+    "note": "Doubler un verbe le rend plus léger. Parler un peu se dit « shuōshuo ».",
     "say": {
      "shuōshuo": "说说"
     }
    },
    {
     "lit": "toi, petit mot pour renvoyer la question ? toi, le plus, aimer, quoi ?",
-    "note": "Le plus se dit « zuì », juste devant aimer.",
+    "note": "Pour dire le plus, on met un mot juste devant aimer. Ce mot, c'est « zuì ».",
     "say": {
      "zuì": "最"
     }
    },
    {
     "lit": "bien sûr, être, fondue, petit mot d'exclamation !",
-    "note": "Bien sûr se dit « dāngrán ».",
+    "note": "Pour répondre avec enthousiasme, on dit bien sûr. Bien sûr se dit « dāngrán ».",
     "say": {
      "dāngrán": "当然"
     }
    },
    {
     "lit": "toi, petit mot du possessif, collègue, Ma, Li, petit mot pour renvoyer la question ?",
-    "note": "Où est-elle ? Avec un nom seul, « ne » à la fin suffit pour demander.",
+    "note": "Avec un nom seul, un petit mot à la fin suffit pour demander où il est. Ce petit mot, c'est « ne ».",
     "say": {
      "ne": "呢"
     }
    },
    {
     "lit": "nous, continuer, étudier, suivant, un, petit mot pour compter, module, petit mot de suggestion !",
-    "note": "Continuer se dit « jìxù ».",
+    "note": "Pour dire on continue, on emploie un verbe à part. Continuer se dit « jìxù ».",
     "say": {
      "jìxù": "继续"
     }
    },
    {
     "lit": "chinois, très, difficile, mais, très, avoir, intérêt, petit mot d'exclamation",
-    "note": "Passionnant se dit très intéressant : « hěn yǒu yìsi ».",
+    "note": "Passionnant se dit très intéressant. Cela donne « hěn yǒu yìsi ».",
     "say": {
      "hěn yǒu yìsi": "很有意思"
     }
    },
    {
     "lit": "toi, vraiment, super, faire le plein, petit mot de suggestion !",
-    "note": "Courage, vas-y, se dit faire le plein : « jiāyóu ».",
+    "note": "Pour encourager quelqu'un, on dit faire le plein. Cela donne « jiāyóu ».",
     "say": {
      "jiāyóu": "加油"
     }

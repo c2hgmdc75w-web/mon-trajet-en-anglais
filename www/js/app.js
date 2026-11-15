@@ -865,18 +865,24 @@ function buildEvalSegments(mi, anchor, isFinal, evalLabel){
 
 // Explication d'une phrase : français par la voix française, mots cités « … » par la voix native.
 function noteSpeech(p, ex){
+  // L'explication est dite phrase par phrase : la voix française de l'iPhone ne fait
+  // retomber l'intonation qu'en fin de phrase. Un petit temps entre deux phrases ;
+  // le mot chinois termine sa phrase et il est suivi d'un temps un peu plus long.
   const map = p.note.say || {}, CTX = 'var(--context)', out = [];
-  const text = p.note.text;
-  const re = /«\s*([^»]+?)\s*»/g; let last = 0, m, buf = '';
-  const flush = ()=>{ const t = buf.replace(/\s+/g,' ').trim(); if(/[A-Za-zÀ-ÿ0-9]/.test(t)) out.push(S(t,'fr',1,'Explication',CTX,'headphones',false,p.fr,p.tgt,ex)); buf=''; };
-  while((m = re.exec(text))){
-    const nat = map[m[1]]; if(!nat) continue;
-    buf += text.slice(last, m.index); flush();
-    out.push(S(nat,'tgt',0.85,'Explication','var(--target)','speaker',false,p.fr,p.tgt,ex));
-    out.push(W(700,'Explication',CTX,'headphones',false,p.fr,p.tgt,ex)); // un peu plus de temps après le mot chinois
-    last = re.lastIndex;
-  }
-  buf += text.slice(last); flush();
+  const fr = t => { t = t.replace(/\s+/g,' ').trim(); if(/[A-Za-zÀ-ÿ0-9]/.test(t)) out.push(S(t,'fr',1,'Explication',CTX,'headphones',false,p.fr,p.tgt,ex)); };
+  const sentences = p.note.text.replace(/\s+:\s+/g, '. ').split(/(?<=[.!?»])\s+(?=[A-ZÀ-Ý«])/);
+  sentences.forEach((sent, k)=>{
+    if(k) out.push(W(450,'Explication',CTX,'headphones',false,p.fr,p.tgt,ex));
+    const re = /«\s*([^»]+?)\s*»/g; let last = 0, m;
+    while((m = re.exec(sent))){
+      const nat = map[m[1]]; if(!nat) continue;
+      fr(sent.slice(last, m.index));
+      out.push(S(nat,'tgt',0.85,'Explication','var(--target)','speaker',false,p.fr,p.tgt,ex));
+      out.push(W(700,'Explication',CTX,'headphones',false,p.fr,p.tgt,ex)); // un peu plus de temps après le mot chinois
+      last = re.lastIndex;
+    }
+    fr(sent.slice(last));
+  });
   return out;
 }
 
