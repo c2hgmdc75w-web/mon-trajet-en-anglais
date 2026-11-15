@@ -1,0 +1,3954 @@
+{
+ "0-2-0": [
+  {
+   "words": [
+    [
+     "bonjour",
+     "안녕하세요"
+    ],
+    [
+     "ici",
+     "여기는"
+    ],
+    [
+     "être Jeonju",
+     "전주예요"
+    ]
+   ],
+   "note": "Jeonju finit par une voyelle, donc être prend sa forme courte. C'est Jeonju se dit « Jeonjuyeyo ».",
+   "say": {
+    "Jeonjuyeyo": "전주예요"
+   }
+  },
+  {
+   "words": [
+    [
+     "Jeonju",
+     "전주는"
+    ],
+    [
+     "être joli",
+     "예뻐요"
+    ]
+   ],
+   "note": "Pour présenter une ville, on la met en thème. Jeonju, comme thème, se dit « Jeonjuneun ».",
+   "say": {
+    "Jeonjuneun": "전주는"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "저는"
+    ],
+    [
+     "un ami",
+     "친구를"
+    ],
+    [
+     "rencontrer",
+     "만나요"
+    ]
+   ],
+   "note": "Retrouver quelqu'un se dit le rencontrer. Un ami, comme complément, se dit « chingureul ».",
+   "say": {
+    "chingureul": "친구를"
+   }
+  },
+  {
+   "words": [
+    [
+     "ami",
+     "친구"
+    ],
+    [
+     "nom",
+     "이름은"
+    ],
+    [
+     "être Minsu",
+     "민수예요"
+    ]
+   ],
+   "note": "Il s'appelle se dit son nom est. Le nom, comme thème, se dit « ireumeun ».",
+   "say": {
+    "ireumeun": "이름은"
+   }
+  },
+  {
+   "words": [
+    [
+     "Minsu",
+     "민수"
+    ],
+    [
+     "monsieur",
+     "씨는"
+    ],
+    [
+     "Jeonju",
+     "전주"
+    ],
+    [
+     "être personne",
+     "사람이에요"
+    ]
+   ],
+   "note": "Être originaire d'une ville se dit être une personne de cette ville. Personne se dit « saram ».",
+   "say": {
+    "saram": "사람"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "여기가"
+    ],
+    [
+     "maison traditionnelle",
+     "한옥"
+    ],
+    [
+     "être village",
+     "마을이에요"
+    ]
+   ],
+   "note": "La maison traditionnelle coréenne a son propre nom. Elle se dit « hanok ».",
+   "say": {
+    "hanok": "한옥"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "네"
+    ],
+    [
+     "être juste",
+     "맞아요"
+    ]
+   ],
+   "note": "C'est bien ça se dit c'est juste. On répond « majayo ».",
+   "say": {
+    "majayo": "맞아요"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "오늘"
+    ],
+    [
+     "Jeonju",
+     "전주는"
+    ],
+    [
+     "temps",
+     "날씨가"
+    ],
+    [
+     "être bon",
+     "좋아요"
+    ]
+   ],
+   "note": "La ville est le thème, et le temps est le sujet. Il fait beau se dit « nalssiga joayo ».",
+   "say": {
+    "nalssiga joayo": "날씨가 좋아요"
+   }
+  },
+  {
+   "words": [
+    [
+     "sac",
+     "가방이"
+    ],
+    [
+     "être lourd",
+     "무거워요"
+    ]
+   ],
+   "note": "Peser lourd se dit simplement être lourd. Lourd se dit « mugeowoyo ».",
+   "say": {
+    "mugeowoyo": "무거워요"
+   }
+  },
+  {
+   "words": [
+    [
+     "hébergement",
+     "숙소가"
+    ],
+    [
+     "où être",
+     "어디예요"
+    ]
+   ],
+   "note": "L'hébergement, hôtel ou chambre, se dit d'un seul mot. Il se dit « sukso ».",
+   "say": {
+    "sukso": "숙소"
+   }
+  }
+ ],
+ "0-2-1": [
+  {
+   "words": [
+    [
+     "nom",
+     "이름이"
+    ],
+    [
+     "quoi être",
+     "뭐예요"
+    ]
+   ],
+   "note": "Pour demander le nom, on dit le nom est quoi. Le nom prend le petit mot du sujet, « ireumi ».",
+   "say": {
+    "ireumi": "이름이"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "제"
+    ],
+    [
+     "nom",
+     "이름은"
+    ],
+    [
+     "être Sophie",
+     "소피예요"
+    ]
+   ],
+   "note": "Mon, poli, se dit d'un mot court qui sonne comme notre je. Il se dit « je ».",
+   "say": {
+    "je": "제"
+   }
+  },
+  {
+   "words": [
+    [
+     "en se rencontrant",
+     "만나서"
+    ],
+    [
+     "être content",
+     "반가워요"
+    ]
+   ],
+   "note": "Enchanté se dit content de vous rencontrer. On dit « mannaseo bangawoyo ».",
+   "say": {
+    "mannaseo bangawoyo": "만나서 반가워요"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi aussi",
+     "저도"
+    ],
+    [
+     "en se rencontrant",
+     "만나서"
+    ],
+    [
+     "être content",
+     "반가워요"
+    ]
+   ],
+   "note": "Pour répondre, on ajoute simplement moi aussi au début. Moi aussi se dit « jeodo ».",
+   "say": {
+    "jeodo": "저도"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "저는"
+    ],
+    [
+     "être Jieun",
+     "지은이에요"
+    ]
+   ],
+   "note": "Jieun finit par une consonne, donc être garde sa forme longue. Je suis Jieun se dit « Jieunieyo ».",
+   "say": {
+    "Jieunieyo": "지은이에요"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "제"
+    ],
+    [
+     "ami",
+     "친구"
+    ],
+    [
+     "nom",
+     "이름이"
+    ],
+    [
+     "être Junho",
+     "준호예요"
+    ]
+   ],
+   "note": "Le nom de mon ami se dit mon ami nom, sans petit mot entre les deux. Ami se dit « chingu ».",
+   "say": {
+    "chingu": "친구"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "저는"
+    ],
+    [
+     "Lyon",
+     "리옹"
+    ],
+    [
+     "être personne",
+     "사람이에요"
+    ]
+   ],
+   "note": "Je suis de Lyon se dit je suis une personne de Lyon. Lyon se dit « Riong ».",
+   "say": {
+    "Riong": "리옹"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "저는"
+    ],
+    [
+     "maintenant",
+     "지금"
+    ],
+    [
+     "être étudiant",
+     "학생이에요"
+    ]
+   ],
+   "note": "En ce moment se dit simplement maintenant. Il se dit « jigeum ».",
+   "say": {
+    "jigeum": "지금"
+   }
+  },
+  {
+   "words": [
+    [
+     "cette personne",
+     "이분은"
+    ],
+    [
+     "mon",
+     "제"
+    ],
+    [
+     "être amie",
+     "친구예요"
+    ]
+   ],
+   "note": "Pour présenter quelqu'un, on dit cette personne, poliment. Ce mot respectueux se dit « ibun ».",
+   "say": {
+    "ibun": "이분"
+   }
+  },
+  {
+   "words": [
+    [
+     "la prochaine fois",
+     "다음에"
+    ],
+    [
+     "encore",
+     "또"
+    ],
+    [
+     "se voir",
+     "만나요"
+    ]
+   ],
+   "note": "Pour se quitter, on dit on se revoit la prochaine fois. La prochaine fois se dit « daeume ».",
+   "say": {
+    "daeume": "다음에"
+   }
+  }
+ ],
+ "0-2-2": [
+  {
+   "words": [
+    [
+     "maisons traditionnelles",
+     "한옥이"
+    ],
+    [
+     "être joli",
+     "예뻐요"
+    ]
+   ],
+   "note": "Le nom prend le petit mot du sujet avant l'adjectif. Maison traditionnelle, comme sujet, se dit « hanogi ».",
+   "say": {
+    "hanogi": "한옥이"
+   }
+  },
+  {
+   "words": [
+    [
+     "cette",
+     "이"
+    ],
+    [
+     "maison",
+     "집은"
+    ],
+    [
+     "être grand",
+     "커요"
+    ]
+   ],
+   "note": "Ce se place devant le nom, sans changer. Cette maison se dit « i jip ».",
+   "say": {
+    "i jip": "이 집"
+   }
+  },
+  {
+   "words": [
+    [
+     "toit",
+     "지붕이"
+    ],
+    [
+     "avoir de l'allure",
+     "멋있어요"
+    ]
+   ],
+   "note": "Les toits courbés font le charme de ces maisons. Le toit se dit « jibung ».",
+   "say": {
+    "jibung": "지붕"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "여기서"
+    ],
+    [
+     "photo",
+     "사진"
+    ],
+    [
+     "prendre",
+     "찍어요"
+    ]
+   ],
+   "note": "À l'oral, on oublie souvent le petit mot du complément. On dit juste photo, prendre, « sajin jjigeoyo ».",
+   "say": {
+    "sajin jjigeoyo": "사진 찍어요"
+   }
+  },
+  {
+   "words": [
+    [
+     "photo",
+     "사진"
+    ],
+    [
+     "prendre",
+     "찍어"
+    ],
+    [
+     "donner",
+     "주세요"
+    ]
+   ],
+   "note": "Pour un service, pas besoin de dire me. La formule suffit, « sajin jjigeo juseyo ».",
+   "say": {
+    "sajin jjigeo juseyo": "사진 찍어 주세요"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "오늘은"
+    ],
+    [
+     "hanbok",
+     "한복을"
+    ],
+    [
+     "porter",
+     "입어요"
+    ]
+   ],
+   "note": "Porter un vêtement se dit avec un verbe à part. Il se dit « ibeoyo ».",
+   "say": {
+    "ibeoyo": "입어요"
+   }
+  },
+  {
+   "words": [
+    [
+     "hanbok",
+     "한복이"
+    ],
+    [
+     "bien",
+     "잘"
+    ],
+    [
+     "aller",
+     "어울려요"
+    ]
+   ],
+   "note": "Ça vous va bien se dit ça s'accorde bien. Bien se dit « jal ».",
+   "say": {
+    "jal": "잘"
+   }
+  },
+  {
+   "words": [
+    [
+     "cette là-bas",
+     "저"
+    ],
+    [
+     "ruelle",
+     "골목이"
+    ],
+    [
+     "être calme",
+     "조용해요"
+    ]
+   ],
+   "note": "Calme se conjugue comme un verbe en faire. Il se dit « joyonghaeyo ».",
+   "say": {
+    "joyonghaeyo": "조용해요"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "오늘은"
+    ],
+    [
+     "gens",
+     "사람이"
+    ],
+    [
+     "être nombreux",
+     "많아요"
+    ]
+   ],
+   "note": "Il y a foule se dit les gens sont nombreux. Les gens, comme sujet, se dit « sarami ».",
+   "say": {
+    "sarami": "사람이"
+   }
+  },
+  {
+   "words": [
+    [
+     "ensemble",
+     "같이"
+    ],
+    [
+     "marcher",
+     "걸어요"
+    ]
+   ],
+   "note": "Pour proposer, on dit simplement ensemble, marcher. Le ton fait la proposition, « gachi georeoyo ».",
+   "say": {
+    "gachi georeoyo": "같이 걸어요"
+   }
+  }
+ ],
+ "0-2-3": [
+  {
+   "words": [
+    [
+     "moi",
+     "저는"
+    ],
+    [
+     "les maisons traditionnelles",
+     "한옥을"
+    ],
+    [
+     "aimer",
+     "좋아해요"
+    ]
+   ],
+   "note": "Avec ce verbe aimer, la chose aimée prend le petit mot du complément. Aimer se dit « joahaeyo ».",
+   "say": {
+    "joahaeyo": "좋아해요"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "저는"
+    ],
+    [
+     "le bibimbap",
+     "비빔밥을"
+    ],
+    [
+     "aimer",
+     "좋아해요"
+    ]
+   ],
+   "note": "Le nom de ce plat veut dire riz mélangé. Il se dit « bibimbap ».",
+   "say": {
+    "bibimbap": "비빔밥"
+   }
+  },
+  {
+   "words": [
+    [
+     "quoi",
+     "뭐"
+    ],
+    [
+     "aimer",
+     "좋아해요"
+    ]
+   ],
+   "note": "Qu'est-ce que vous aimez se dit quoi, aimer. Quoi se dit « mwo ».",
+   "say": {
+    "mwo": "뭐"
+   }
+  },
+  {
+   "words": [
+    [
+     "la musique",
+     "음악을"
+    ],
+    [
+     "aimer",
+     "좋아해요"
+    ]
+   ],
+   "note": "La musique, comme complément, prend un petit mot. Musique se dit « eumak ».",
+   "say": {
+    "eumak": "음악"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "저는"
+    ],
+    [
+     "la promenade",
+     "산책을"
+    ],
+    [
+     "aimer",
+     "좋아해요"
+    ]
+   ],
+   "note": "Faire des balades se dit simplement la promenade. Promenade se dit « sanchaek ».",
+   "say": {
+    "sanchaek": "산책"
+   }
+  },
+  {
+   "words": [
+    [
+     "épicé",
+     "매운"
+    ],
+    [
+     "cuisine",
+     "음식"
+    ],
+    [
+     "aimer",
+     "좋아해요"
+    ]
+   ],
+   "note": "Épicé, devant un nom, change de forme. Il se dit « maeun ».",
+   "say": {
+    "maeun": "매운"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "네"
+    ],
+    [
+     "aimer",
+     "좋아해요"
+    ]
+   ],
+   "note": "Pour répondre, on reprend juste le verbe. Pas besoin de répéter la chose, « joahaeyo ».",
+   "say": {
+    "joahaeyo": "좋아해요"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "저는"
+    ],
+    [
+     "horreur",
+     "공포"
+    ],
+    [
+     "film",
+     "영화를"
+    ],
+    [
+     "ne pas",
+     "안"
+    ],
+    [
+     "aimer",
+     "좋아해요"
+    ]
+   ],
+   "note": "Je n'aime pas se dit ne pas aimer, avec la négation devant. Film se dit « yeonghwa ».",
+   "say": {
+    "yeonghwa": "영화"
+   }
+  },
+  {
+   "words": [
+    [
+     "Minsu",
+     "민수"
+    ],
+    [
+     "monsieur",
+     "씨는"
+    ],
+    [
+     "le foot",
+     "축구를"
+    ],
+    [
+     "aimer",
+     "좋아해요"
+    ]
+   ],
+   "note": "Le football est très populaire en Corée. Il se dit « chukgu ».",
+   "say": {
+    "chukgu": "축구"
+   }
+  },
+  {
+   "words": [
+    [
+     "cette",
+     "이"
+    ],
+    [
+     "chanson",
+     "노래"
+    ],
+    [
+     "être bien",
+     "좋아요"
+    ]
+   ],
+   "note": "Me plaît se dit c'est bien, avec l'autre mot. La chanson se dit « norae ».",
+   "say": {
+    "norae": "노래"
+   }
+  }
+ ],
+ "0-2-4": [
+  {
+   "words": [
+    [
+     "ensemble",
+     "같이"
+    ],
+    [
+     "bibimbap",
+     "비빔밥"
+    ],
+    [
+     "manger",
+     "먹어요"
+    ]
+   ],
+   "note": "Mangeons se dit simplement on mange ensemble, au présent poli. On dit « gachi meogeoyo ».",
+   "say": {
+    "gachi meogeoyo": "같이 먹어요"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "여기"
+    ],
+    [
+     "bibimbap",
+     "비빔밥이"
+    ],
+    [
+     "être célèbre",
+     "유명해요"
+    ]
+   ],
+   "note": "Jeonju est la ville du bibimbap. Célèbre se dit « yumyeonghaeyo ».",
+   "say": {
+    "yumyeonghaeyo": "유명해요"
+   }
+  },
+  {
+   "words": [
+    [
+     "bibimbap",
+     "비빔밥"
+    ],
+    [
+     "deux",
+     "두"
+    ],
+    [
+     "pièces",
+     "개"
+    ],
+    [
+     "donner",
+     "주세요"
+    ]
+   ],
+   "note": "Pour les plats, on compte souvent avec le mot pièce. Deux pièces se dit « du gae ».",
+   "say": {
+    "du gae": "두 개"
+   }
+  },
+  {
+   "words": [
+    [
+     "la pâte de piment",
+     "고추장을"
+    ],
+    [
+     "mettre",
+     "넣어요"
+    ]
+   ],
+   "note": "La pâte de piment rouge est partout dans la cuisine coréenne. Elle se dit « gochujang ».",
+   "say": {
+    "gochujang": "고추장"
+   }
+  },
+  {
+   "words": [
+    [
+     "bien",
+     "잘"
+    ],
+    [
+     "mélanger",
+     "비벼요"
+    ]
+   ],
+   "note": "C'est le même mot qu'on entend dans le nom du plat. Mélanger se dit « bibyeoyo ».",
+   "say": {
+    "bibyeoyo": "비벼요"
+   }
+  },
+  {
+   "words": [
+    [
+     "accompagnements",
+     "반찬이"
+    ],
+    [
+     "être nombreux",
+     "많아요"
+    ]
+   ],
+   "note": "Les petits plats d'accompagnement sont offerts avec le repas. Ils se disent « banchan ».",
+   "say": {
+    "banchan": "반찬"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "이거"
+    ],
+    [
+     "être bon",
+     "맛있어요"
+    ]
+   ],
+   "note": "Pour une chose qu'on montre, on dit ceci, sans petit mot. C'est bon se dit « igeo masisseoyo ».",
+   "say": {
+    "igeo masisseoyo": "이거 맛있어요"
+   }
+  },
+  {
+   "words": [
+    [
+     "kimchi",
+     "김치"
+    ],
+    [
+     "un peu",
+     "좀"
+    ],
+    [
+     "plus",
+     "더"
+    ],
+    [
+     "donner",
+     "주세요"
+    ]
+   ],
+   "note": "Un peu plus se dit un peu, plus. Cela donne « jom deo ».",
+   "say": {
+    "jom deo": "좀 더"
+   }
+  },
+  {
+   "words": [
+    [
+     "là-bas",
+     "저기"
+    ],
+    [
+     "eau",
+     "물"
+    ],
+    [
+     "il y a",
+     "있어요"
+    ]
+   ],
+   "note": "Il y a de l'eau là-bas se dit là-bas, eau, il y a. On dit « jeogi mul isseoyo ».",
+   "say": {
+    "jeogi mul isseoyo": "저기 물 있어요"
+   }
+  },
+  {
+   "words": [
+    [
+     "ensemble",
+     "같이"
+    ],
+    [
+     "partager",
+     "나눠"
+    ],
+    [
+     "manger",
+     "먹어요"
+    ]
+   ],
+   "note": "Partager un plat se dit partager et manger. Partager se dit « nanwo ».",
+   "say": {
+    "nanwo": "나눠"
+   }
+  }
+ ],
+ "0-2-5": [
+  {
+   "words": [
+    [
+     "notre",
+     "저희"
+    ],
+    [
+     "famille",
+     "가족은"
+    ],
+    [
+     "quatre",
+     "네"
+    ],
+    [
+     "être personnes",
+     "명이에요"
+    ]
+   ],
+   "note": "Notre, très modeste, se dit d'un mot à part. Il se dit « jeohui ».",
+   "say": {
+    "jeohui": "저희"
+   }
+  },
+  {
+   "words": [
+    [
+     "papa",
+     "아빠는"
+    ],
+    [
+     "être cuisinier",
+     "요리사예요"
+    ]
+   ],
+   "note": "Les enfants comme les adultes disent papa. Papa se dit « appa ».",
+   "say": {
+    "appa": "아빠"
+   }
+  },
+  {
+   "words": [
+    [
+     "maman",
+     "엄마는"
+    ],
+    [
+     "être professeur",
+     "선생님이에요"
+    ]
+   ],
+   "note": "Maman se dit avec un son doux, comme en français. Maman se dit « eomma ».",
+   "say": {
+    "eomma": "엄마"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "저는"
+    ],
+    [
+     "grand frère",
+     "오빠가"
+    ],
+    [
+     "avoir",
+     "있어요"
+    ]
+   ],
+   "note": "Le mot change selon qu'on est une fille ou un garçon. Pour une fille, grand frère se dit « oppa ».",
+   "say": {
+    "oppa": "오빠"
+   }
+  },
+  {
+   "words": [
+    [
+     "Minsu",
+     "민수"
+    ],
+    [
+     "monsieur",
+     "씨는"
+    ],
+    [
+     "grande sœur",
+     "누나가"
+    ],
+    [
+     "avoir",
+     "있어요"
+    ]
+   ],
+   "note": "Minsu est un garçon. Pour un garçon, grande sœur se dit « nuna ».",
+   "say": {
+    "nuna": "누나"
+   }
+  },
+  {
+   "words": [
+    [
+     "notre",
+     "우리"
+    ],
+    [
+     "grand frère",
+     "형은"
+    ],
+    [
+     "à Séoul",
+     "서울에"
+    ],
+    [
+     "habiter",
+     "살아요"
+    ]
+   ],
+   "note": "Mon grand frère se dit notre grand frère. Pour un garçon, grand frère se dit « hyeong ».",
+   "say": {
+    "hyeong": "형"
+   }
+  },
+  {
+   "words": [
+    [
+     "grande sœur",
+     "언니는"
+    ],
+    [
+     "à Busan",
+     "부산에"
+    ],
+    [
+     "être",
+     "있어요"
+    ]
+   ],
+   "note": "Ici, c'est une fille qui parle. Pour une fille, grande sœur se dit « eonni ».",
+   "say": {
+    "eonni": "언니"
+   }
+  },
+  {
+   "words": [
+    [
+     "cadet",
+     "동생이"
+    ],
+    [
+     "avoir",
+     "있어요"
+    ]
+   ],
+   "note": "Frère ou sœur plus jeune, c'est le même mot. Il se dit « dongsaeng ».",
+   "say": {
+    "dongsaeng": "동생"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "아니요"
+    ],
+    [
+     "cadet",
+     "동생은"
+    ],
+    [
+     "ne pas avoir",
+     "없어요"
+    ]
+   ],
+   "note": "Dans une phrase négative, le nom prend souvent le petit mot du thème. Cadet, comme thème, se dit « dongsaengeun ».",
+   "say": {
+    "dongsaengeun": "동생은"
+   }
+  },
+  {
+   "words": [
+    [
+     "maman",
+     "엄마"
+    ],
+    [
+     "papa",
+     "아빠"
+    ],
+    [
+     "être photo",
+     "사진이에요"
+    ]
+   ],
+   "note": "On dit maman, papa, photo, sans petit mot. Photo se dit « sajin ».",
+   "say": {
+    "sajin": "사진"
+   }
+  }
+ ],
+ "0-2-6": [
+  {
+   "words": [
+    [
+     "ceci",
+     "이거"
+    ],
+    [
+     "notre",
+     "우리"
+    ],
+    [
+     "famille",
+     "가족"
+    ],
+    [
+     "être photo",
+     "사진이에요"
+    ]
+   ],
+   "note": "Ma famille se dit notre famille. Famille se dit « gajok ».",
+   "say": {
+    "gajok": "가족"
+   }
+  },
+  {
+   "words": [
+    [
+     "cette",
+     "이"
+    ],
+    [
+     "personne",
+     "사람이"
+    ],
+    [
+     "qui être",
+     "누구예요"
+    ]
+   ],
+   "note": "Qui est-ce se dit qui, puis être. Qui est se dit « nuguyeyo ».",
+   "say": {
+    "nuguyeyo": "누구예요"
+   }
+  },
+  {
+   "words": [
+    [
+     "notre",
+     "우리"
+    ],
+    [
+     "être grande sœur",
+     "언니예요"
+    ]
+   ],
+   "note": "On dit notre grande sœur, même pour la sienne. Notre se dit « uri ».",
+   "say": {
+    "uri": "우리"
+   }
+  },
+  {
+   "words": [
+    [
+     "grande sœur",
+     "언니가"
+    ],
+    [
+     "taille",
+     "키가"
+    ],
+    [
+     "être grand",
+     "커요"
+    ]
+   ],
+   "note": "Être grand de taille se dit la taille est grande. Taille se dit « ki ».",
+   "say": {
+    "ki": "키"
+   }
+  },
+  {
+   "words": [
+    [
+     "cet",
+     "이"
+    ],
+    [
+     "enfant",
+     "아이는"
+    ],
+    [
+     "mon",
+     "제"
+    ],
+    [
+     "être neveu",
+     "조카예요"
+    ]
+   ],
+   "note": "Neveu ou nièce, c'est le même mot. Il se dit « joka ».",
+   "say": {
+    "joka": "조카"
+   }
+  },
+  {
+   "words": [
+    [
+     "neveu",
+     "조카가"
+    ],
+    [
+     "être mignon",
+     "귀여워요"
+    ]
+   ],
+   "note": "Mignon est un mot qu'on entend partout. Il se dit « gwiyeowoyo ».",
+   "say": {
+    "gwiyeowoyo": "귀여워요"
+   }
+  },
+  {
+   "words": [
+    [
+     "notre",
+     "우리"
+    ],
+    [
+     "à la maison",
+     "집에"
+    ],
+    [
+     "chiot",
+     "강아지가"
+    ],
+    [
+     "il y a",
+     "있어요"
+    ]
+   ],
+   "note": "Un petit chien se dit d'un mot tendre. Il se dit « gangaji ».",
+   "say": {
+    "gangaji": "강아지"
+   }
+  },
+  {
+   "words": [
+    [
+     "chiot",
+     "강아지"
+    ],
+    [
+     "nom",
+     "이름은"
+    ],
+    [
+     "être Kongi",
+     "콩이예요"
+    ]
+   ],
+   "note": "Ce petit nom vient du mot haricot. Haricot se dit « kong ».",
+   "say": {
+    "kong": "콩"
+   }
+  },
+  {
+   "words": [
+    [
+     "famille",
+     "가족이"
+    ],
+    [
+     "être nombreux",
+     "많아요"
+    ]
+   ],
+   "note": "Une grande famille se dit la famille est nombreuse. Nombreux se dit « manayo ».",
+   "say": {
+    "manayo": "많아요"
+   }
+  },
+  {
+   "words": [
+    [
+     "photo",
+     "사진이"
+    ],
+    [
+     "être joli",
+     "예뻐요"
+    ]
+   ],
+   "note": "Une photo réussie se dit une jolie photo. Photo, comme sujet, se dit « sajini ».",
+   "say": {
+    "sajini": "사진이"
+   }
+  }
+ ],
+ "0-2-7": [
+  {
+   "words": [
+    [
+     "salut",
+     "안녕"
+    ],
+    [
+     "Minsu",
+     "민수야"
+    ]
+   ],
+   "note": "Entre amis, on ajoute un petit son après le prénom pour appeler. Après une voyelle, c'est « ya ».",
+   "say": {
+    "ya": "야"
+   }
+  },
+  {
+   "words": [
+    [
+     "quoi",
+     "뭐"
+    ],
+    [
+     "faire",
+     "해"
+    ]
+   ],
+   "note": "Entre amis, on enlève la fin polie. Tu fais quoi se dit « mwo hae ».",
+   "say": {
+    "mwo hae": "뭐 해"
+   }
+  },
+  {
+   "words": [
+    [
+     "avoir faim",
+     "배고파"
+    ]
+   ],
+   "note": "Avoir faim se dit le ventre a faim. Tu as faim se dit « baegopa ».",
+   "say": {
+    "baegopa": "배고파"
+   }
+  },
+  {
+   "words": [
+    [
+     "ouais",
+     "응"
+    ],
+    [
+     "avoir faim",
+     "배고파"
+    ]
+   ],
+   "note": "Ouais, entre amis, se dit d'un petit son. Il se dit « eung ».",
+   "say": {
+    "eung": "응"
+   }
+  },
+  {
+   "words": [
+    [
+     "ensemble",
+     "같이"
+    ],
+    [
+     "aller",
+     "가자"
+    ]
+   ],
+   "note": "Pour dire allons-y entre amis, on change la fin du verbe. On y va se dit « gaja ».",
+   "say": {
+    "gaja": "가자"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "이거"
+    ],
+    [
+     "être bon",
+     "맛있어"
+    ]
+   ],
+   "note": "Entre amis, on enlève simplement le petit son poli à la fin. C'est bon devient « masisseo ».",
+   "say": {
+    "masisseo": "맛있어"
+   }
+  },
+  {
+   "words": [
+    [
+     "merci",
+     "고마워"
+    ],
+    [
+     "ami",
+     "친구야"
+    ]
+   ],
+   "note": "Merci, entre amis, est plus court et plus doux. Il se dit « gomawo ».",
+   "say": {
+    "gomawo": "고마워"
+   }
+  },
+  {
+   "words": [
+    [
+     "ça va",
+     "괜찮아"
+    ]
+   ],
+   "note": "Pas de souci se dit ça va. Entre amis, on dit « gwaenchana ».",
+   "say": {
+    "gwaenchana": "괜찮아"
+   }
+  },
+  {
+   "words": [
+    [
+     "Jieun",
+     "지은아"
+    ],
+    [
+     "où être",
+     "어디야"
+    ]
+   ],
+   "note": "Après une consonne, le petit son d'appel change. Pour appeler Jieun, on dit « Jieuna ».",
+   "say": {
+    "Jieuna": "지은아"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "나"
+    ],
+    [
+     "maintenant",
+     "지금"
+    ],
+    [
+     "aller",
+     "가"
+    ]
+   ],
+   "note": "Moi, entre amis, se dit d'un mot à part. Il se dit « na ».",
+   "say": {
+    "na": "나"
+   }
+  }
+ ],
+ "0-2-8": [
+  {
+   "words": [
+    [
+     "quel",
+     "무슨"
+    ],
+    [
+     "travail",
+     "일"
+    ],
+    [
+     "faire",
+     "해요"
+    ]
+   ],
+   "note": "Que faites-vous dans la vie se dit quel travail faites-vous. Quel, pour le genre de chose, se dit « museun ».",
+   "say": {
+    "museun": "무슨"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "저는"
+    ],
+    [
+     "être employée de bureau",
+     "회사원이에요"
+    ]
+   ],
+   "note": "Employé de bureau se dit personne de l'entreprise. Ce mot se dit « hoesawon ».",
+   "say": {
+    "hoesawon": "회사원"
+   }
+  },
+  {
+   "words": [
+    [
+     "Minsu",
+     "민수"
+    ],
+    [
+     "monsieur",
+     "씨는"
+    ],
+    [
+     "être étudiant",
+     "대학생이에요"
+    ]
+   ],
+   "note": "Étudiant à l'université se dit en un seul mot. Il se dit « daehaksaeng ».",
+   "say": {
+    "daehaksaeng": "대학생"
+   }
+  },
+  {
+   "words": [
+    [
+     "le coréen",
+     "한국어를"
+    ],
+    [
+     "étudier",
+     "공부해요"
+    ]
+   ],
+   "note": "Étudier se forme avec étude et faire. Il se dit « gongbuhaeyo ».",
+   "say": {
+    "gongbuhaeyo": "공부해요"
+   }
+  },
+  {
+   "words": [
+    [
+     "Jieun",
+     "지은"
+    ],
+    [
+     "madame",
+     "씨는"
+    ],
+    [
+     "être infirmière",
+     "간호사예요"
+    ]
+   ],
+   "note": "Le petit mot de politesse après le prénom sert pour tout le monde. Infirmière se dit « ganhosa ».",
+   "say": {
+    "ganhosa": "간호사"
+   }
+  },
+  {
+   "words": [
+    [
+     "à l'hôpital",
+     "병원에서"
+    ],
+    [
+     "travailler",
+     "일해요"
+    ]
+   ],
+   "note": "Le lieu du travail prend le petit mot de l'action. L'hôpital se dit « byeongwon ».",
+   "say": {
+    "byeongwon": "병원"
+   }
+  },
+  {
+   "words": [
+    [
+     "travail",
+     "일이"
+    ],
+    [
+     "être occupé",
+     "바빠요"
+    ]
+   ],
+   "note": "Avoir beaucoup de travail se dit le travail est occupé. Être occupé se dit « bappayo ».",
+   "say": {
+    "bappayo": "바빠요"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "네"
+    ],
+    [
+     "ces jours-ci",
+     "요즘"
+    ],
+    [
+     "être occupé",
+     "바빠요"
+    ]
+   ],
+   "note": "En ce moment se dit ces jours-ci. Il se dit « yojeum ».",
+   "say": {
+    "yojeum": "요즘"
+   }
+  },
+  {
+   "words": [
+    [
+     "entreprise",
+     "회사가"
+    ],
+    [
+     "à Séoul",
+     "서울에"
+    ],
+    [
+     "se trouver",
+     "있어요"
+    ]
+   ],
+   "note": "Se trouver se dit il y a, avec le lieu en premier. On dit « Seoure isseoyo ».",
+   "say": {
+    "Seoure isseoyo": "서울에 있어요"
+   }
+  },
+  {
+   "words": [
+    [
+     "le week-end",
+     "주말에는"
+    ],
+    [
+     "se reposer",
+     "쉬어요"
+    ]
+   ],
+   "note": "Le week-end se dit la fin de semaine. Il se dit « jumal ».",
+   "say": {
+    "jumal": "주말"
+   }
+  }
+ ],
+ "0-2-9": [
+  {
+   "words": [
+    [
+     "moi aussi",
+     "저도"
+    ],
+    [
+     "bibimbap",
+     "비빔밥"
+    ],
+    [
+     "aimer",
+     "좋아해요"
+    ]
+   ],
+   "note": "Aussi se colle au mot qu'il concerne. Moi aussi se dit « jeodo ».",
+   "say": {
+    "jeodo": "저도"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi aussi",
+     "저도요"
+    ]
+   ],
+   "note": "Pareil pour moi se dit moi aussi, avec le petit son poli. On répond « jeodoyo ».",
+   "say": {
+    "jeodoyo": "저도요"
+   }
+  },
+  {
+   "words": [
+    [
+     "kimchi aussi",
+     "김치도"
+    ],
+    [
+     "être bon",
+     "맛있어요"
+    ]
+   ],
+   "note": "Aussi remplace le petit mot du sujet. Le kimchi aussi se dit « gimchido ».",
+   "say": {
+    "gimchido": "김치도"
+   }
+  },
+  {
+   "words": [
+    [
+     "grande sœur aussi",
+     "언니도"
+    ],
+    [
+     "à Jeonju",
+     "전주에"
+    ],
+    [
+     "venir",
+     "와요"
+    ]
+   ],
+   "note": "Aussi se place juste après la personne. Ma grande sœur aussi se dit « eonnido ».",
+   "say": {
+    "eonnido": "언니도"
+   }
+  },
+  {
+   "words": [
+    [
+     "café aussi",
+     "커피도"
+    ],
+    [
+     "boire",
+     "마셔요"
+    ]
+   ],
+   "note": "Aussi remplace également le petit mot du complément. Du café aussi se dit « keopido ».",
+   "say": {
+    "keopido": "커피도"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "저는"
+    ],
+    [
+     "chats aussi",
+     "고양이도"
+    ],
+    [
+     "aimer",
+     "좋아해요"
+    ]
+   ],
+   "note": "Le chat se dit d'un mot qui finit en douceur. Il se dit « goyangi ».",
+   "say": {
+    "goyangi": "고양이"
+   }
+  },
+  {
+   "words": [
+    [
+     "Minsu",
+     "민수"
+    ],
+    [
+     "monsieur aussi",
+     "씨도"
+    ],
+    [
+     "ensemble",
+     "같이"
+    ],
+    [
+     "aller",
+     "가요"
+    ]
+   ],
+   "note": "Aussi se colle après le petit mot de politesse. Monsieur Minsu aussi se dit « Minsu ssido ».",
+   "say": {
+    "Minsu ssido": "민수 씨도"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi aussi",
+     "저도"
+    ],
+    [
+     "être étudiant",
+     "학생이에요"
+    ]
+   ],
+   "note": "Étudiant, avec le verbe être, garde sa forme longue. Étudiant se dit « haksaeng ».",
+   "say": {
+    "haksaeng": "학생"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui aussi",
+     "오늘도"
+    ],
+    [
+     "temps",
+     "날씨가"
+    ],
+    [
+     "être bon",
+     "좋아요"
+    ]
+   ],
+   "note": "Aussi marche aussi avec le temps. Aujourd'hui aussi se dit « oneuldo ».",
+   "say": {
+    "oneuldo": "오늘도"
+   }
+  },
+  {
+   "words": [
+    [
+     "photos aussi",
+     "사진도"
+    ],
+    [
+     "prendre",
+     "찍어요"
+    ]
+   ],
+   "note": "Aussi se colle au nom, même sans autre petit mot. Des photos aussi se dit « sajindo ».",
+   "say": {
+    "sajindo": "사진도"
+   }
+  }
+ ],
+ "0-2-10": [
+  {
+   "words": [
+    [
+     "passe-temps",
+     "취미가"
+    ],
+    [
+     "quoi être",
+     "뭐예요"
+    ]
+   ],
+   "note": "Quel est votre passe-temps se dit le passe-temps est quoi. Passe-temps se dit « chwimi ».",
+   "say": {
+    "chwimi": "취미"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "제"
+    ],
+    [
+     "passe-temps",
+     "취미는"
+    ],
+    [
+     "être randonnée",
+     "등산이에요"
+    ]
+   ],
+   "note": "La randonnée en montagne est un loisir national. Elle se dit « deungsan ».",
+   "say": {
+    "deungsan": "등산"
+   }
+  },
+  {
+   "words": [
+    [
+     "le week-end",
+     "주말에"
+    ],
+    [
+     "à la montagne",
+     "산에"
+    ],
+    [
+     "aller",
+     "가요"
+    ]
+   ],
+   "note": "La montagne se dit d'un mot très court. Il se dit « san ».",
+   "say": {
+    "san": "산"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "저는"
+    ],
+    [
+     "des films",
+     "영화를"
+    ],
+    [
+     "souvent",
+     "자주"
+    ],
+    [
+     "regarder",
+     "봐요"
+    ]
+   ],
+   "note": "Souvent se place juste avant le verbe. Il se dit « jaju ».",
+   "say": {
+    "jaju": "자주"
+   }
+  },
+  {
+   "words": [
+    [
+     "Jieun",
+     "지은"
+    ],
+    [
+     "madame",
+     "씨는"
+    ],
+    [
+     "des livres",
+     "책을"
+    ],
+    [
+     "lire",
+     "읽어요"
+    ]
+   ],
+   "note": "Le livre, comme complément, prend un petit mot. Livre se dit « chaek ».",
+   "say": {
+    "chaek": "책"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "저는"
+    ],
+    [
+     "la cuisine",
+     "요리를"
+    ],
+    [
+     "faire",
+     "해요"
+    ]
+   ],
+   "note": "Faire la cuisine se dit cuisine, faire. Cuisine se dit « yori ».",
+   "say": {
+    "yori": "요리"
+   }
+  },
+  {
+   "words": [
+    [
+     "chanson",
+     "노래를"
+    ],
+    [
+     "bien faire",
+     "잘해요"
+    ]
+   ],
+   "note": "Bien chanter se dit bien faire la chanson. Bien faire se dit « jalhaeyo ».",
+   "say": {
+    "jalhaeyo": "잘해요"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "아니요"
+    ],
+    [
+     "juste",
+     "그냥"
+    ],
+    [
+     "aimer",
+     "좋아해요"
+    ]
+   ],
+   "note": "Juste, au sens de simplement, se place avant le verbe. Il se dit « geunyang ».",
+   "say": {
+    "geunyang": "그냥"
+   }
+  },
+  {
+   "words": [
+    [
+     "ces jours-ci",
+     "요즘"
+    ],
+    [
+     "la guitare",
+     "기타를"
+    ],
+    [
+     "apprendre",
+     "배워요"
+    ]
+   ],
+   "note": "Apprendre change un peu à la forme polie. Il se dit « baewoyo ».",
+   "say": {
+    "baewoyo": "배워요"
+   }
+  },
+  {
+   "words": [
+    [
+     "ensemble",
+     "같이"
+    ],
+    [
+     "randonnée",
+     "등산"
+    ],
+    [
+     "aller",
+     "가요"
+    ]
+   ],
+   "note": "Faire une randonnée se dit aller en randonnée. On dit « deungsan gayo ».",
+   "say": {
+    "deungsan gayo": "등산 가요"
+   }
+  }
+ ],
+ "0-2-11": [
+  {
+   "words": [
+    [
+     "le bibimbap",
+     "비빔밥을"
+    ],
+    [
+     "beaucoup",
+     "많이"
+    ],
+    [
+     "manger",
+     "먹어요"
+    ]
+   ],
+   "note": "Beaucoup se place avant le verbe, pas après le nom. Il se dit « mani ».",
+   "say": {
+    "mani": "많이"
+   }
+  },
+  {
+   "words": [
+    [
+     "Jeonju",
+     "전주는"
+    ],
+    [
+     "vraiment",
+     "정말"
+    ],
+    [
+     "être joli",
+     "예뻐요"
+    ]
+   ],
+   "note": "Vraiment se place devant l'adjectif. Il se dit « jeongmal ».",
+   "say": {
+    "jeongmal": "정말"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "이거"
+    ],
+    [
+     "vraiment",
+     "정말"
+    ],
+    [
+     "être bon",
+     "맛있어요"
+    ]
+   ],
+   "note": "Vraiment délicieux se dit vraiment, il y a du goût. On s'exclame « jeongmal masisseoyo ».",
+   "say": {
+    "jeongmal masisseoyo": "정말 맛있어요"
+   }
+  },
+  {
+   "words": [
+    [
+     "beaucoup",
+     "많이"
+    ],
+    [
+     "manger",
+     "드세요"
+    ]
+   ],
+   "note": "Pour inviter à manger, on dit mangez beaucoup. C'est la formule de l'hôte, « mani deuseyo ».",
+   "say": {
+    "mani deuseyo": "많이 드세요"
+   }
+  },
+  {
+   "words": [
+    [
+     "des photos",
+     "사진을"
+    ],
+    [
+     "beaucoup",
+     "많이"
+    ],
+    [
+     "prendre",
+     "찍어요"
+    ]
+   ],
+   "note": "Le complément vient en premier, puis beaucoup, puis le verbe. Les photos, comme complément, se dit « sajineul ».",
+   "say": {
+    "sajineul": "사진을"
+   }
+  },
+  {
+   "words": [
+    [
+     "être vrai",
+     "정말이에요"
+    ]
+   ],
+   "note": "Vraiment peut aussi devenir une question. Sérieusement se dit c'est vrai, « jeongmarieyo ».",
+   "say": {
+    "jeongmarieyo": "정말이에요"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "네"
+    ],
+    [
+     "être vrai",
+     "정말이에요"
+    ]
+   ],
+   "note": "Pour confirmer, on reprend la même phrase en descendant la voix. Je vous assure se dit « ne, jeongmarieyo ».",
+   "say": {
+    "ne, jeongmarieyo": "네, 정말이에요"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "오늘"
+    ],
+    [
+     "beaucoup",
+     "많이"
+    ],
+    [
+     "marcher",
+     "걸어요"
+    ]
+   ],
+   "note": "Beaucoup se place juste avant marcher. Marcher se dit « georeoyo ».",
+   "say": {
+    "georeoyo": "걸어요"
+   }
+  },
+  {
+   "words": [
+    [
+     "le coréen",
+     "한국어를"
+    ],
+    [
+     "beaucoup",
+     "많이"
+    ],
+    [
+     "étudier",
+     "공부해요"
+    ]
+   ],
+   "note": "Avec les verbes en faire, beaucoup reste devant tout le verbe. Étudier se dit « gongbuhaeyo ».",
+   "say": {
+    "gongbuhaeyo": "공부해요"
+   }
+  },
+  {
+   "words": [
+    [
+     "vraiment",
+     "정말"
+    ],
+    [
+     "remercier",
+     "고마워요"
+    ]
+   ],
+   "note": "Merci, gentil et poli, se dit d'une autre façon. Il se dit « gomawoyo ».",
+   "say": {
+    "gomawoyo": "고마워요"
+   }
+  }
+ ],
+ "0-2-12": [
+  {
+   "words": [
+    [
+     "ce",
+     "이"
+    ],
+    [
+     "café",
+     "카페는"
+    ],
+    [
+     "être maison traditionnelle",
+     "한옥이에요"
+    ]
+   ],
+   "note": "Pour dire installé dans une maison traditionnelle, on dit simplement c'est une maison traditionnelle. On dit « hanogieyo ».",
+   "say": {
+    "hanogieyo": "한옥이에요"
+   }
+  },
+  {
+   "words": [
+    [
+     "quoi",
+     "뭐"
+    ],
+    [
+     "boire",
+     "마셔요"
+    ]
+   ],
+   "note": "Qu'est-ce que vous buvez se dit quoi, boire. Boire se dit « masyeoyo ».",
+   "say": {
+    "masyeoyo": "마셔요"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "저는"
+    ],
+    [
+     "boisson au riz",
+     "식혜를"
+    ],
+    [
+     "boire",
+     "마셔요"
+    ]
+   ],
+   "note": "Cette boisson sucrée au riz se boit fraîche. Elle se dit « sikhye ».",
+   "say": {
+    "sikhye": "식혜"
+   }
+  },
+  {
+   "words": [
+    [
+     "thé au yuzu",
+     "유자차"
+    ],
+    [
+     "une",
+     "한"
+    ],
+    [
+     "tasse",
+     "잔"
+    ],
+    [
+     "donner",
+     "주세요"
+    ]
+   ],
+   "note": "Le thé au yuzu est très populaire en hiver. Il se dit « yujacha ».",
+   "say": {
+    "yujacha": "유자차"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "여기"
+    ],
+    [
+     "être calme",
+     "조용해요"
+    ]
+   ],
+   "note": "Au calme se dit simplement ici, calme. On dit « yeogi joyonghaeyo ».",
+   "say": {
+    "yeogi joyonghaeyo": "여기 조용해요"
+   }
+  },
+  {
+   "words": [
+    [
+     "cour",
+     "마당이"
+    ],
+    [
+     "être spacieux",
+     "넓어요"
+    ]
+   ],
+   "note": "La cour de la maison traditionnelle a son propre mot. Elle se dit « madang ».",
+   "say": {
+    "madang": "마당"
+   }
+  },
+  {
+   "words": [
+    [
+     "gâteau aussi",
+     "케이크도"
+    ],
+    [
+     "il y a",
+     "있어요"
+    ]
+   ],
+   "note": "Gâteau vient de l'anglais. Il se dit « keikeu ».",
+   "say": {
+    "keikeu": "케이크"
+   }
+  },
+  {
+   "words": [
+    [
+     "gâteau de riz",
+     "떡이"
+    ],
+    [
+     "être sucré",
+     "달아요"
+    ]
+   ],
+   "note": "Sucré se place à la fin, comme un verbe. Il se dit « darayo ».",
+   "say": {
+    "darayo": "달아요"
+   }
+  },
+  {
+   "words": [
+    [
+     "thé",
+     "차가"
+    ],
+    [
+     "être brûlant",
+     "뜨거워요"
+    ]
+   ],
+   "note": "Attention, le thé et la voiture se disent pareil. Le thé, comme sujet, se dit « chaga ».",
+   "say": {
+    "chaga": "차가"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "여기"
+    ],
+    [
+     "souvent",
+     "자주"
+    ],
+    [
+     "venir",
+     "와요"
+    ]
+   ],
+   "note": "Vous venez souvent se dit ici, souvent, venir. Venir se dit « wayo ».",
+   "say": {
+    "wayo": "와요"
+   }
+  }
+ ],
+ "0-2-13": [
+  {
+   "words": [
+    [
+     "le bibimbap",
+     "비빔밥을"
+    ],
+    [
+     "manger",
+     "먹어요"
+    ],
+    [
+     "et puis",
+     "그리고"
+    ],
+    [
+     "du café",
+     "커피를"
+    ],
+    [
+     "boire",
+     "마셔요"
+    ]
+   ],
+   "note": "Et puis relie deux phrases, au début de la seconde. Il se dit « geurigo ».",
+   "say": {
+    "geurigo": "그리고"
+   }
+  },
+  {
+   "words": [
+    [
+     "maisons traditionnelles",
+     "한옥은"
+    ],
+    [
+     "être joli",
+     "예뻐요"
+    ],
+    [
+     "mais",
+     "근데"
+    ],
+    [
+     "un peu",
+     "좀"
+    ],
+    [
+     "faire froid",
+     "추워요"
+    ]
+   ],
+   "note": "Mais, à l'oral, se met au début de la seconde phrase. Il se dit « geunde ».",
+   "say": {
+    "geunde": "근데"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "저는"
+    ],
+    [
+     "grande sœur",
+     "언니가"
+    ],
+    [
+     "avoir",
+     "있어요"
+    ],
+    [
+     "et puis",
+     "그리고"
+    ],
+    [
+     "petit frère aussi",
+     "남동생도"
+    ],
+    [
+     "avoir",
+     "있어요"
+    ]
+   ],
+   "note": "Aussi se colle au petit frère. Petit frère aussi se dit « namdongsaengdo ».",
+   "say": {
+    "namdongsaengdo": "남동생도"
+   }
+  },
+  {
+   "words": [
+    [
+     "le kimchi",
+     "김치는"
+    ],
+    [
+     "être bon",
+     "맛있어요"
+    ],
+    [
+     "mais",
+     "근데"
+    ],
+    [
+     "un peu",
+     "좀"
+    ],
+    [
+     "être épicé",
+     "매워요"
+    ]
+   ],
+   "note": "Avant un mais, le nom prend souvent le petit mot du thème. Le kimchi, comme thème, se dit « gimchineun ».",
+   "say": {
+    "gimchineun": "김치는"
+   }
+  },
+  {
+   "words": [
+    [
+     "au fait",
+     "근데"
+    ],
+    [
+     "nom",
+     "이름이"
+    ],
+    [
+     "quoi être",
+     "뭐예요"
+    ]
+   ],
+   "note": "Le même mot sert à changer de sujet. Au fait se dit aussi « geunde ».",
+   "say": {
+    "geunde": "근데"
+   }
+  },
+  {
+   "words": [
+    [
+     "au karaoké",
+     "노래방에"
+    ],
+    [
+     "aller",
+     "가요"
+    ],
+    [
+     "et puis",
+     "그리고"
+    ],
+    [
+     "ensemble",
+     "같이"
+    ],
+    [
+     "chanter",
+     "노래해요"
+    ]
+   ],
+   "note": "Chanter se dit faire une chanson. Il se dit « noraehaeyo ».",
+   "say": {
+    "noraehaeyo": "노래해요"
+   }
+  },
+  {
+   "words": [
+    [
+     "la randonnée",
+     "등산을"
+    ],
+    [
+     "aimer",
+     "좋아해요"
+    ],
+    [
+     "mais",
+     "근데"
+    ],
+    [
+     "aujourd'hui",
+     "오늘은"
+    ],
+    [
+     "être fatigué",
+     "피곤해요"
+    ]
+   ],
+   "note": "Fatigué se conjugue comme un verbe en faire. Il se dit « pigonhaeyo ».",
+   "say": {
+    "pigonhaeyo": "피곤해요"
+   }
+  },
+  {
+   "words": [
+    [
+     "Jieun",
+     "지은"
+    ],
+    [
+     "madame",
+     "씨는"
+    ],
+    [
+     "être gentil",
+     "친절해요"
+    ],
+    [
+     "et puis",
+     "그리고"
+    ],
+    [
+     "être drôle",
+     "재미있어요"
+    ]
+   ],
+   "note": "Drôle se dit il y a de l'amusement. Il se dit « jaemiisseoyo ».",
+   "say": {
+    "jaemiisseoyo": "재미있어요"
+   }
+  },
+  {
+   "words": [
+    [
+     "au fait",
+     "근데"
+    ],
+    [
+     "maintenant",
+     "지금"
+    ],
+    [
+     "combien",
+     "몇"
+    ],
+    [
+     "être heure",
+     "시예요"
+    ]
+   ],
+   "note": "Il est quelle heure se dit maintenant, combien d'heures. Maintenant se dit « jigeum ».",
+   "say": {
+    "jigeum": "지금"
+   }
+  },
+  {
+   "words": [
+    [
+     "café",
+     "커피"
+    ],
+    [
+     "boire",
+     "마셔요"
+    ],
+    [
+     "mais",
+     "근데"
+    ],
+    [
+     "le sucre",
+     "설탕은"
+    ],
+    [
+     "ne pas",
+     "안"
+    ],
+    [
+     "mettre",
+     "넣어요"
+    ]
+   ],
+   "note": "Mettre dans quelque chose se dit d'un verbe à part. Il se dit « neoeoyo ».",
+   "say": {
+    "neoeoyo": "넣어요"
+   }
+  }
+ ],
+ "0-2-14": [
+  {
+   "words": [
+    [
+     "Nambu",
+     "남부"
+    ],
+    [
+     "au marché",
+     "시장에"
+    ],
+    [
+     "aller",
+     "가요"
+    ]
+   ],
+   "note": "Le nom du marché vient avant le mot marché. Marché se dit « sijang ».",
+   "say": {
+    "sijang": "시장"
+   }
+  },
+  {
+   "words": [
+    [
+     "marché",
+     "시장이"
+    ],
+    [
+     "être grand",
+     "커요"
+    ]
+   ],
+   "note": "Il est grand, ce marché, se dit le marché est grand. Grand se dit « keoyo ».",
+   "say": {
+    "keoyo": "커요"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "이"
+    ],
+    [
+     "gâteau de riz",
+     "떡은"
+    ],
+    [
+     "c'est combien",
+     "얼마예요"
+    ]
+   ],
+   "note": "Pour un prix, on montre la chose et on demande combien. Combien ça coûte se dit « eolmayeyo ».",
+   "say": {
+    "eolmayeyo": "얼마예요"
+   }
+  },
+  {
+   "words": [
+    [
+     "cinq mille",
+     "오천"
+    ],
+    [
+     "être wons",
+     "원이에요"
+    ]
+   ],
+   "note": "Cinq mille se dit cinq, puis mille. Cela donne « ocheon ».",
+   "say": {
+    "ocheon": "오천"
+   }
+  },
+  {
+   "words": [
+    [
+     "pousses de soja",
+     "콩나물"
+    ],
+    [
+     "soupe de riz",
+     "국밥이"
+    ],
+    [
+     "être célèbre",
+     "유명해요"
+    ]
+   ],
+   "note": "La soupe de riz se dit soupe et riz, en un mot. Elle se dit « gukbap ».",
+   "say": {
+    "gukbap": "국밥"
+   }
+  },
+  {
+   "words": [
+    [
+     "le matin",
+     "아침에"
+    ],
+    [
+     "soupe de riz",
+     "국밥을"
+    ],
+    [
+     "manger",
+     "먹어요"
+    ]
+   ],
+   "note": "Le matin prend le petit mot du moment. Le matin se dit « achime ».",
+   "say": {
+    "achime": "아침에"
+   }
+  },
+  {
+   "words": [
+    [
+     "les gens",
+     "사람들이"
+    ],
+    [
+     "être gentil",
+     "친절해요"
+    ]
+   ],
+   "note": "Gentil se conjugue comme un verbe en faire. Il se dit « chinjeolhaeyo ».",
+   "say": {
+    "chinjeolhaeyo": "친절해요"
+   }
+  },
+  {
+   "words": [
+    [
+     "fruits",
+     "과일이"
+    ],
+    [
+     "être bon marché",
+     "싸요"
+    ]
+   ],
+   "note": "Pas cher se dit aussi bon marché, d'un mot court. Il se dit « ssayo ».",
+   "say": {
+    "ssayo": "싸요"
+   }
+  },
+  {
+   "words": [
+    [
+     "pomme",
+     "사과"
+    ],
+    [
+     "cinq",
+     "다섯"
+    ],
+    [
+     "pièces",
+     "개"
+    ],
+    [
+     "donner",
+     "주세요"
+    ]
+   ],
+   "note": "Pour commander, on dit le nom, le nombre, puis la pièce. Cinq pièces se dit « daseot gae ».",
+   "say": {
+    "daseot gae": "다섯 개"
+   }
+  },
+  {
+   "words": [
+    [
+     "sac",
+     "봉투"
+    ],
+    [
+     "avoir",
+     "있어요"
+    ]
+   ],
+   "note": "Vous auriez se dit simplement il y a, en question. Sac se dit « bongtu ».",
+   "say": {
+    "bongtu": "봉투"
+   }
+  }
+ ],
+ "0-2-15": [
+  {
+   "words": [
+    [
+     "cette",
+     "이"
+    ],
+    [
+     "soupe de riz",
+     "국밥은"
+    ],
+    [
+     "trop",
+     "너무"
+    ],
+    [
+     "être brûlant",
+     "뜨거워요"
+    ]
+   ],
+   "note": "Trop se place juste avant l'adjectif. Il se dit « neomu ».",
+   "say": {
+    "neomu": "너무"
+   }
+  },
+  {
+   "words": [
+    [
+     "maisons traditionnelles",
+     "한옥"
+    ],
+    [
+     "village",
+     "마을이"
+    ],
+    [
+     "très",
+     "아주"
+    ],
+    [
+     "être joli",
+     "예뻐요"
+    ]
+   ],
+   "note": "Très, neutre, se place aussi avant l'adjectif. Il se dit « aju ».",
+   "say": {
+    "aju": "아주"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "이"
+    ],
+    [
+     "sac",
+     "가방은"
+    ],
+    [
+     "trop",
+     "너무"
+    ],
+    [
+     "être cher",
+     "비싸요"
+    ]
+   ],
+   "note": "Trop marque un vrai excès. Trop cher se dit « neomu bissayo ».",
+   "say": {
+    "neomu bissayo": "너무 비싸요"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "오늘은"
+    ],
+    [
+     "trop",
+     "너무"
+    ],
+    [
+     "faire chaud",
+     "더워요"
+    ]
+   ],
+   "note": "Chaud, pour la météo, a son propre mot. Il fait chaud se dit « deowoyo ».",
+   "say": {
+    "deowoyo": "더워요"
+   }
+  },
+  {
+   "words": [
+    [
+     "tellement",
+     "너무"
+    ],
+    [
+     "être bon",
+     "맛있어요"
+    ]
+   ],
+   "note": "À l'oral, trop veut aussi dire tellement, en positif. C'est tellement bon se dit « neomu masisseoyo ».",
+   "say": {
+    "neomu masisseoyo": "너무 맛있어요"
+   }
+  },
+  {
+   "words": [
+    [
+     "Jieun",
+     "지은"
+    ],
+    [
+     "madame",
+     "씨는"
+    ],
+    [
+     "très",
+     "아주"
+    ],
+    [
+     "être gentil",
+     "친절해요"
+    ]
+   ],
+   "note": "Très gentil se dit très, puis gentil. On dit « aju chinjeolhaeyo ».",
+   "say": {
+    "aju chinjeolhaeyo": "아주 친절해요"
+   }
+  },
+  {
+   "words": [
+    [
+     "kimchi",
+     "김치가"
+    ],
+    [
+     "trop",
+     "너무"
+    ],
+    [
+     "être épicé",
+     "매워요"
+    ]
+   ],
+   "note": "Ici, trop marque un vrai excès. Trop épicé se dit « neomu maewoyo ».",
+   "say": {
+    "neomu maewoyo": "너무 매워요"
+   }
+  },
+  {
+   "words": [
+    [
+     "cette",
+     "이"
+    ],
+    [
+     "chanson",
+     "노래"
+    ],
+    [
+     "très",
+     "아주"
+    ],
+    [
+     "être bien",
+     "좋아요"
+    ]
+   ],
+   "note": "Très bien se dit très, puis bien. On dit « aju joayo ».",
+   "say": {
+    "aju joayo": "아주 좋아요"
+   }
+  },
+  {
+   "words": [
+    [
+     "maintenant",
+     "지금"
+    ],
+    [
+     "trop",
+     "너무"
+    ],
+    [
+     "être fatigué",
+     "피곤해요"
+    ]
+   ],
+   "note": "Épuisé se dit trop fatigué. On dit « neomu pigonhaeyo ».",
+   "say": {
+    "neomu pigonhaeyo": "너무 피곤해요"
+   }
+  },
+  {
+   "words": [
+    [
+     "chambre",
+     "방이"
+    ],
+    [
+     "très",
+     "아주"
+    ],
+    [
+     "être spacieux",
+     "넓어요"
+    ]
+   ],
+   "note": "Spacieux se dit large, comme un adjectif. Il se dit « neolbeoyo ».",
+   "say": {
+    "neolbeoyo": "넓어요"
+   }
+  }
+ ],
+ "0-2-16": [
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "오늘"
+    ],
+    [
+     "ce soir",
+     "저녁에"
+    ],
+    [
+     "temps",
+     "시간"
+    ],
+    [
+     "avoir",
+     "있어요"
+    ]
+   ],
+   "note": "Vous êtes libre se dit vous avez du temps. On demande « sigan isseoyo ».",
+   "say": {
+    "sigan isseoyo": "시간 있어요"
+   }
+  },
+  {
+   "words": [
+    [
+     "au karaoké",
+     "노래방에"
+    ],
+    [
+     "ensemble",
+     "같이"
+    ],
+    [
+     "aller",
+     "가요"
+    ]
+   ],
+   "note": "Allons-y ensemble se dit simplement on va ensemble. Au karaoké se dit « noraebange ».",
+   "say": {
+    "noraebange": "노래방에"
+   }
+  },
+  {
+   "words": [
+    [
+     "être bien",
+     "좋아요"
+    ],
+    [
+     "aller",
+     "가요"
+    ]
+   ],
+   "note": "Super se dit c'est bien. On accepte avec « joayo ».",
+   "say": {
+    "joayo": "좋아요"
+   }
+  },
+  {
+   "words": [
+    [
+     "combien",
+     "몇"
+    ],
+    [
+     "à heures",
+     "시에"
+    ],
+    [
+     "se voir",
+     "만나요"
+    ]
+   ],
+   "note": "À quelle heure se dit à combien d'heures. On dit « myeot sie ».",
+   "say": {
+    "myeot sie": "몇 시에"
+   }
+  },
+  {
+   "words": [
+    [
+     "huit",
+     "여덟"
+    ],
+    [
+     "à heures",
+     "시에"
+    ],
+    [
+     "se voir",
+     "만나요"
+    ]
+   ],
+   "note": "Huit heures se dit avec le nombre coréen huit. Il se dit « yeodeol ».",
+   "say": {
+    "yeodeol": "여덟"
+   }
+  },
+  {
+   "words": [
+    [
+     "karaoké",
+     "노래방이"
+    ],
+    [
+     "où",
+     "어디에"
+    ],
+    [
+     "se trouver",
+     "있어요"
+    ]
+   ],
+   "note": "Où se trouve se dit où, il y a. Cela donne « eodie isseoyo ».",
+   "say": {
+    "eodie isseoyo": "어디에 있어요"
+   }
+  },
+  {
+   "words": [
+    [
+     "gare",
+     "역"
+    ],
+    [
+     "devant",
+     "앞에"
+    ],
+    [
+     "se trouver",
+     "있어요"
+    ]
+   ],
+   "note": "Devant la gare se dit gare, devant. Devant se dit « ape ».",
+   "say": {
+    "ape": "앞에"
+   }
+  },
+  {
+   "words": [
+    [
+     "les amis aussi",
+     "친구들도"
+    ],
+    [
+     "venir",
+     "와요"
+    ]
+   ],
+   "note": "Le pluriel et aussi se collent l'un après l'autre. Les amis aussi se dit « chingudeuldo ».",
+   "say": {
+    "chingudeuldo": "친구들도"
+   }
+  },
+  {
+   "words": [
+    [
+     "désolé",
+     "미안해요"
+    ],
+    [
+     "aujourd'hui",
+     "오늘은"
+    ],
+    [
+     "ne pas",
+     "안"
+    ],
+    [
+     "être possible",
+     "돼요"
+    ]
+   ],
+   "note": "Ce n'est pas possible se dit ça ne marche pas. On dit « an dwaeyo ».",
+   "say": {
+    "an dwaeyo": "안 돼요"
+   }
+  },
+  {
+   "words": [
+    [
+     "alors",
+     "그럼"
+    ],
+    [
+     "demain",
+     "내일"
+    ],
+    [
+     "aller",
+     "가요"
+    ]
+   ],
+   "note": "Alors, pour proposer autre chose, se met en tête. Il se dit « geureom ».",
+   "say": {
+    "geureom": "그럼"
+   }
+  }
+ ],
+ "0-2-17": [
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "오늘은"
+    ],
+    [
+     "mai",
+     "오월"
+    ],
+    [
+     "être le cinq",
+     "오일이에요"
+    ]
+   ],
+   "note": "Les dates se disent avec les nombres chinois. Mai se dit cinquième mois, « owol ».",
+   "say": {
+    "owol": "오월"
+   }
+  },
+  {
+   "words": [
+    [
+     "anniversaire",
+     "생일이"
+    ],
+    [
+     "quand être",
+     "언제예요"
+    ]
+   ],
+   "note": "L'anniversaire se dit le jour de naissance. Il se dit « saengil ».",
+   "say": {
+    "saengil": "생일"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "제"
+    ],
+    [
+     "anniversaire",
+     "생일은"
+    ],
+    [
+     "octobre",
+     "시월"
+    ],
+    [
+     "être le trois",
+     "삼일이에요"
+    ]
+   ],
+   "note": "Octobre se dit dixième mois, mais un son tombe. On dit « siwol ».",
+   "say": {
+    "siwol": "시월"
+   }
+  },
+  {
+   "words": [
+    [
+     "Minsu",
+     "민수"
+    ],
+    [
+     "monsieur",
+     "씨"
+    ],
+    [
+     "anniversaire",
+     "생일은"
+    ],
+    [
+     "être juin",
+     "유월이에요"
+    ]
+   ],
+   "note": "Juin se dit sixième mois, avec un son qui change. On dit « yuwol ».",
+   "say": {
+    "yuwol": "유월"
+   }
+  },
+  {
+   "words": [
+    [
+     "en avril",
+     "사월에"
+    ],
+    [
+     "à Jeonju",
+     "전주에"
+    ],
+    [
+     "venir",
+     "와요"
+    ]
+   ],
+   "note": "En avril se dit avril, avec le petit mot du moment. On dit « sawore ».",
+   "say": {
+    "sawore": "사월에"
+   }
+  },
+  {
+   "words": [
+    [
+     "le festival",
+     "축제는"
+    ],
+    [
+     "être mai",
+     "오월이에요"
+    ]
+   ],
+   "note": "Le festival a son propre mot. Il se dit « chukje ».",
+   "say": {
+    "chukje": "축제"
+   }
+  },
+  {
+   "words": [
+    [
+     "septembre",
+     "구월"
+    ],
+    [
+     "au vingt",
+     "이십일에"
+    ],
+    [
+     "se voir",
+     "만나요"
+    ]
+   ],
+   "note": "Le jour se dit le nombre, plus le mot jour. Le vingt se dit « isibil ».",
+   "say": {
+    "isibil": "이십일"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "오늘이"
+    ],
+    [
+     "combien",
+     "몇"
+    ],
+    [
+     "mois",
+     "월"
+    ],
+    [
+     "être quel jour",
+     "며칠이에요"
+    ]
+   ],
+   "note": "Quel jour du mois se dit d'un mot à part. Il se dit « myeochil ».",
+   "say": {
+    "myeochil": "며칠"
+   }
+  },
+  {
+   "words": [
+    [
+     "décembre",
+     "십이월은"
+    ],
+    [
+     "faire froid",
+     "추워요"
+    ]
+   ],
+   "note": "Décembre se dit douzième mois. On dit « sibiwol ».",
+   "say": {
+    "sibiwol": "십이월"
+   }
+  },
+  {
+   "words": [
+    [
+     "en mars",
+     "삼월에"
+    ],
+    [
+     "coréen",
+     "한국어"
+    ],
+    [
+     "cours",
+     "수업이"
+    ],
+    [
+     "il y a",
+     "있어요"
+    ]
+   ],
+   "note": "Mars se dit troisième mois. On dit « samwol ».",
+   "say": {
+    "samwol": "삼월"
+   }
+  }
+ ],
+ "0-2-18": [
+  {
+   "words": [
+    [
+     "quelle",
+     "무슨"
+    ],
+    [
+     "chanson",
+     "노래"
+    ],
+    [
+     "chanter",
+     "불러요"
+    ]
+   ],
+   "note": "Chanter une chanson se dit appeler une chanson. Ce verbe se dit « bulleoyo ».",
+   "say": {
+    "bulleoyo": "불러요"
+   }
+  },
+  {
+   "words": [
+    [
+     "cette",
+     "이"
+    ],
+    [
+     "chanson",
+     "노래"
+    ],
+    [
+     "connaître",
+     "알아요"
+    ]
+   ],
+   "note": "Savoir et connaître, c'est le même verbe. Il se dit « arayo ».",
+   "say": {
+    "arayo": "알아요"
+   }
+  },
+  {
+   "words": [
+    [
+     "micro",
+     "마이크"
+    ],
+    [
+     "donner",
+     "주세요"
+    ]
+   ],
+   "note": "Micro vient de l'anglais. Il se dit « maikeu ».",
+   "say": {
+    "maikeu": "마이크"
+   }
+  },
+  {
+   "words": [
+    [
+     "Minsu",
+     "민수야"
+    ],
+    [
+     "chanson",
+     "노래"
+    ],
+    [
+     "bien faire",
+     "잘해"
+    ]
+   ],
+   "note": "Entre amis, on enlève la fin polie. Tu chantes bien se dit « norae jalhae ».",
+   "say": {
+    "norae jalhae": "노래 잘해"
+   }
+  },
+  {
+   "words": [
+    [
+     "ensemble",
+     "같이"
+    ],
+    [
+     "chanter",
+     "불러요"
+    ]
+   ],
+   "note": "Chantons ensemble se dit simplement ensemble, chanter. On s'écrie « gachi bulleoyo ».",
+   "say": {
+    "gachi bulleoyo": "같이 불러요"
+   }
+  },
+  {
+   "words": [
+    [
+     "la suite",
+     "다음은"
+    ],
+    [
+     "Jieun",
+     "지은"
+    ],
+    [
+     "madame",
+     "씨"
+    ],
+    [
+     "être tour",
+     "차례예요"
+    ]
+   ],
+   "note": "Le tour de quelqu'un se dit avec un mot à part. Il se dit « charye ».",
+   "say": {
+    "charye": "차례"
+   }
+  },
+  {
+   "words": [
+    [
+     "gorge",
+     "목이"
+    ],
+    [
+     "avoir mal",
+     "아파요"
+    ]
+   ],
+   "note": "J'ai mal à la gorge se dit la gorge a mal. Avoir mal se dit « apayo ».",
+   "say": {
+    "apayo": "아파요"
+   }
+  },
+  {
+   "words": [
+    [
+     "une",
+     "한"
+    ],
+    [
+     "chanson",
+     "곡"
+    ],
+    [
+     "plus",
+     "더"
+    ],
+    [
+     "faire",
+     "해요"
+    ]
+   ],
+   "note": "Les chansons se comptent avec un mot à part. Une chanson se dit « han gok ».",
+   "say": {
+    "han gok": "한 곡"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "오늘"
+    ],
+    [
+     "vraiment",
+     "진짜"
+    ],
+    [
+     "être amusant",
+     "재미있어"
+    ]
+   ],
+   "note": "Vraiment, entre amis, se dit souvent d'un autre mot. Il se dit « jinjja ».",
+   "say": {
+    "jinjja": "진짜"
+   }
+  },
+  {
+   "words": [
+    [
+     "bien",
+     "잘"
+    ],
+    [
+     "aller",
+     "가"
+    ],
+    [
+     "demain",
+     "내일"
+    ],
+    [
+     "se voir",
+     "봐"
+    ]
+   ],
+   "note": "Au revoir, entre amis, se dit va bien. On dit « jal ga ».",
+   "say": {
+    "jal ga": "잘 가"
+   }
+  }
+ ],
+ "0-2-19": [
+  {
+   "words": [
+    [
+     "coréen",
+     "한국어"
+    ],
+    [
+     "être amusant n'est-ce pas",
+     "재미있지요"
+    ]
+   ],
+   "note": "Pour chercher l'accord, on change la fin du verbe. N'est-ce pas se dit « jiyo ».",
+   "say": {
+    "jiyo": "지요"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "저는"
+    ],
+    [
+     "en coréen",
+     "한국어로"
+    ],
+    [
+     "saluer",
+     "인사해요"
+    ]
+   ],
+   "note": "En coréen se dit avec le petit mot du moyen. Cela donne « Hangugeoro ».",
+   "say": {
+    "Hangugeoro": "한국어로"
+   }
+  },
+  {
+   "words": [
+    [
+     "en coréen",
+     "한국어로"
+    ],
+    [
+     "famille",
+     "가족"
+    ],
+    [
+     "histoire",
+     "이야기를"
+    ],
+    [
+     "faire",
+     "해요"
+    ]
+   ],
+   "note": "Parler de se dit faire l'histoire de. Histoire se dit « iyagi ».",
+   "say": {
+    "iyagi": "이야기"
+   }
+  },
+  {
+   "words": [
+    [
+     "à un ami",
+     "친구한테"
+    ],
+    [
+     "langage familier",
+     "반말을"
+    ],
+    [
+     "faire",
+     "해요"
+    ]
+   ],
+   "note": "Le langage familier a un nom, la demi-parole. Il se dit « banmal ».",
+   "say": {
+    "banmal": "반말"
+   }
+  },
+  {
+   "words": [
+    [
+     "Jeonju",
+     "전주"
+    ],
+    [
+     "être bien hein",
+     "좋지요"
+    ]
+   ],
+   "note": "Avec être bien, la fin prend un son doux. C'est sympa, hein, se dit « jochiyo ».",
+   "say": {
+    "jochiyo": "좋지요"
+   }
+  },
+  {
+   "words": [
+    [
+     "bibimbap",
+     "비빔밥"
+    ],
+    [
+     "être bon n'est-ce pas",
+     "맛있지요"
+    ]
+   ],
+   "note": "Avec bon, la fin se colle au verbe. C'est bon, n'est-ce pas, se dit « masitjiyo ».",
+   "say": {
+    "masitjiyo": "맛있지요"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "네"
+    ],
+    [
+     "vraiment",
+     "정말"
+    ],
+    [
+     "être bon",
+     "맛있어요"
+    ]
+   ],
+   "note": "Pour répondre, on reprend la forme polie normale. On confirme avec « jeongmal masisseoyo ».",
+   "say": {
+    "jeongmal masisseoyo": "정말 맛있어요"
+   }
+  },
+  {
+   "words": [
+    [
+     "coréen",
+     "한국어"
+    ],
+    [
+     "prononciation",
+     "발음이"
+    ],
+    [
+     "être difficile hein",
+     "어렵지요"
+    ]
+   ],
+   "note": "La prononciation a son propre mot. Elle se dit « bareum ».",
+   "say": {
+    "bareum": "발음"
+   }
+  },
+  {
+   "words": [
+    [
+     "un peu",
+     "조금"
+    ],
+    [
+     "être difficile",
+     "어려워요"
+    ],
+    [
+     "mais",
+     "근데"
+    ],
+    [
+     "être amusant",
+     "재미있어요"
+    ]
+   ],
+   "note": "Difficile change un peu à la forme polie. Il se dit « eoryeowoyo ».",
+   "say": {
+    "eoryeowoyo": "어려워요"
+   }
+  },
+  {
+   "words": [
+    [
+     "la prochaine fois",
+     "다음에"
+    ],
+    [
+     "encore",
+     "또"
+    ],
+    [
+     "étudier",
+     "공부해요"
+    ]
+   ],
+   "note": "On continue se dit simplement on étudie encore. Encore se dit « tto ».",
+   "say": {
+    "tto": "또"
+   }
+  }
+ ]
+}

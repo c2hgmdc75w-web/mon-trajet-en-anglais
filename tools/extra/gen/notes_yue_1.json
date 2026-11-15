@@ -1,0 +1,5922 @@
+{
+ "0-1-0": [
+  {
+   "words": [
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "bien",
+     "好"
+    ],
+    [
+     "je",
+     "我"
+    ],
+    [
+     "avoir",
+     "有"
+    ],
+    [
+     "réserver",
+     "訂"
+    ],
+    [
+     "chambre",
+     "房"
+    ]
+   ],
+   "note": "Pour dire j'ai réservé, on dit simplement j'ai une réservation. Réserver se dit « deng6 ».",
+   "say": {
+    "deng6": "訂"
+   }
+  },
+  {
+   "words": [
+    [
+     "s'il vous plaît",
+     "請"
+    ],
+    [
+     "donner",
+     "俾"
+    ],
+    [
+     "passeport",
+     "護照"
+    ],
+    [
+     "moi",
+     "我"
+    ],
+    [
+     "regarder",
+     "睇"
+    ],
+    [
+     "petit mot d'un instant",
+     "吓"
+    ]
+   ],
+   "note": "Après donner, on dit l'objet, puis la personne. Passeport se dit « wu6 ziu3 ».",
+   "say": {
+    "wu6 ziu3": "護照"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "呢"
+    ],
+    [
+     "petit mot de comptage",
+     "本"
+    ],
+    [
+     "être",
+     "係"
+    ],
+    [
+     "je",
+     "我"
+    ],
+    [
+     "petit mot du possessif",
+     "嘅"
+    ],
+    [
+     "passeport",
+     "護照"
+    ]
+   ],
+   "note": "Le passeport se compte comme un livre. On le désigne donc par « ni1 bun2 ».",
+   "say": {
+    "ni1 bun2": "呢本"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "petit mot de comptage",
+     "間"
+    ],
+    [
+     "chambre",
+     "房"
+    ],
+    [
+     "se trouver",
+     "喺"
+    ],
+    [
+     "dix",
+     "十"
+    ],
+    [
+     "deux",
+     "二"
+    ],
+    [
+     "étage",
+     "樓"
+    ]
+   ],
+   "note": "Pour dire ta chambre, on met le mot de comptage entre toi et chambre. Ta chambre se dit « nei5 gaan1 fong2 ».",
+   "say": {
+    "nei5 gaan1 fong2": "你間房"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit-déjeuner",
+     "早餐"
+    ],
+    [
+     "combien",
+     "幾"
+    ],
+    [
+     "heure",
+     "點"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Petit-déjeuner se dit littéralement repas tôt. On dit « zou2 caan1 ».",
+   "say": {
+    "zou2 caan1": "早餐"
+   }
+  },
+  {
+   "words": [
+    [
+     "sept",
+     "七"
+    ],
+    [
+     "heure",
+     "點"
+    ],
+    [
+     "jusqu'à",
+     "到"
+    ],
+    [
+     "dix",
+     "十"
+    ],
+    [
+     "heure",
+     "點"
+    ]
+   ],
+   "note": "Pour dire de telle heure à telle heure, on met arriver entre les deux. Jusqu'à se dit « dou3 ».",
+   "say": {
+    "dou3": "到"
+   }
+  },
+  {
+   "words": [
+    [
+     "ascenseur",
+     "電梯"
+    ],
+    [
+     "se trouver",
+     "喺"
+    ],
+    [
+     "où",
+     "邊度"
+    ]
+   ],
+   "note": "Où se trouve se dit simplement se trouver quel endroit. On dit « hai2 bin1 dou6 ».",
+   "say": {
+    "hai2 bin1 dou6": "喺邊度"
+   }
+  },
+  {
+   "words": [
+    [
+     "justement",
+     "就"
+    ],
+    [
+     "se trouver",
+     "喺"
+    ],
+    [
+     "réception",
+     "前台"
+    ],
+    [
+     "à côté",
+     "隔籬"
+    ]
+   ],
+   "note": "Pour dire juste là, on ajoute un petit mot devant se trouver. Ce mot, c'est « zau6 ».",
+   "say": {
+    "zau6": "就"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de comptage",
+     "間"
+    ],
+    [
+     "chambre",
+     "房"
+    ],
+    [
+     "avoir",
+     "有"
+    ],
+    [
+     "ne pas avoir",
+     "冇"
+    ],
+    [
+     "possibilité",
+     "得"
+    ],
+    [
+     "aller sur internet",
+     "上網"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Pour demander si c'est possible, on dit avoir possibilité, ne pas avoir. Aller sur internet se dit « soeng5 mong5 ».",
+   "say": {
+    "soeng5 mong5": "上網"
+   }
+  },
+  {
+   "words": [
+    [
+     "avoir",
+     "有"
+    ],
+    [
+     "gratuit",
+     "免費"
+    ],
+    [
+     "petit mot d'explication",
+     "㗎"
+    ]
+   ],
+   "note": "Pour répondre oui, on reprend simplement le verbe avoir. Gratuit se dit « min5 fai3 ».",
+   "say": {
+    "min5 fai3": "免費"
+   }
+  }
+ ],
+ "0-1-1": [
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "今日"
+    ],
+    [
+     "nous",
+     "我哋"
+    ],
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "sommet",
+     "山頂"
+    ]
+   ],
+   "note": "Le moment peut aussi venir en tout début de phrase. Le Peak se dit simplement le sommet, « saan1 deng2 ».",
+   "say": {
+    "saan1 deng2": "山頂"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "聽日"
+    ],
+    [
+     "nous",
+     "我哋"
+    ],
+    [
+     "s'asseoir",
+     "坐"
+    ],
+    [
+     "Star Ferry",
+     "天星小輪"
+    ]
+   ],
+   "note": "Pour prendre un bateau, on dit souvent s'asseoir. S'asseoir se dit « co5 ».",
+   "say": {
+    "co5": "坐"
+   }
+  },
+  {
+   "words": [
+    [
+     "hier",
+     "琴日"
+    ],
+    [
+     "je",
+     "我"
+    ],
+    [
+     "arriver",
+     "到"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "咗"
+    ],
+    [
+     "Hong Kong",
+     "香港"
+    ]
+   ],
+   "note": "Pour une action terminée, on ajoute un petit mot juste après le verbe. Ce petit mot, c'est « zo2 ».",
+   "say": {
+    "zo2": "咗"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "今日"
+    ],
+    [
+     "temps",
+     "天氣"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "bien",
+     "好"
+    ]
+   ],
+   "note": "Le temps qu'il fait se dit littéralement l'air du ciel. On dit « tin1 hei3 ».",
+   "say": {
+    "tin1 hei3": "天氣"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "聽日"
+    ],
+    [
+     "peut-être",
+     "可能"
+    ],
+    [
+     "petit mot du futur",
+     "會"
+    ],
+    [
+     "tomber",
+     "落"
+    ],
+    [
+     "pluie",
+     "雨"
+    ]
+   ],
+   "note": "Pleuvoir se dit littéralement tomber la pluie. On dit « lok6 jyu5 ».",
+   "say": {
+    "lok6 jyu5": "落雨"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "聽日"
+    ],
+    [
+     "faire",
+     "做"
+    ],
+    [
+     "quoi",
+     "咩"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Faire se dit « zou6 ». Ici, pas besoin de dire nous, on le comprend.",
+   "say": {
+    "zou6": "做"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain matin",
+     "聽朝"
+    ],
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "Central",
+     "中環"
+    ],
+    [
+     "se promener",
+     "行"
+    ],
+    [
+     "petit mot d'un instant",
+     "吓"
+    ]
+   ],
+   "note": "Demain matin se dit en un seul mot, « ting1 ziu1 ». C'est le début de demain, suivi de matin.",
+   "say": {
+    "ting1 ziu1": "聽朝"
+   }
+  },
+  {
+   "words": [
+    [
+     "hier soir",
+     "琴晚"
+    ],
+    [
+     "nous",
+     "我哋"
+    ],
+    [
+     "à",
+     "喺"
+    ],
+    [
+     "Wan Chai",
+     "灣仔"
+    ],
+    [
+     "manger",
+     "食"
+    ],
+    [
+     "riz",
+     "飯"
+    ]
+   ],
+   "note": "Hier soir se forme avec le début de hier, suivi de soir. On dit « kam4 maan5 ».",
+   "say": {
+    "kam4 maan5": "琴晚"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "今日"
+    ],
+    [
+     "semaine",
+     "星期"
+    ],
+    [
+     "combien",
+     "幾"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Pour demander le jour, on dit semaine combien. Quel jour se dit « sing1 kei4 gei2 ».",
+   "say": {
+    "sing1 kei4 gei2": "星期幾"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "今日"
+    ],
+    [
+     "semaine",
+     "星期"
+    ],
+    [
+     "six",
+     "六"
+    ]
+   ],
+   "note": "Samedi, c'est semaine six, sans verbe être. On dit « sing1 kei4 luk6 ».",
+   "say": {
+    "sing1 kei4 luk6": "星期六"
+   }
+  }
+ ],
+ "0-1-2": [
+  {
+   "words": [
+    [
+     "métro",
+     "地鐵"
+    ],
+    [
+     "station",
+     "站"
+    ],
+    [
+     "se trouver",
+     "喺"
+    ],
+    [
+     "où",
+     "邊度"
+    ]
+   ],
+   "note": "Le métro se dit littéralement fer sous la terre. On dit « dei6 tit3 ».",
+   "say": {
+    "dei6 tit3": "地鐵"
+   }
+  },
+  {
+   "words": [
+    [
+     "Central",
+     "中環"
+    ],
+    [
+     "station",
+     "站"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "proche",
+     "近"
+    ]
+   ],
+   "note": "Proche se dit « kan5 ». Comme toujours, très remplace le verbe être.",
+   "say": {
+    "kan5": "近"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "avoir envie",
+     "想"
+    ],
+    [
+     "acheter",
+     "買"
+    ],
+    [
+     "un",
+     "一"
+    ],
+    [
+     "petit mot de comptage",
+     "張"
+    ],
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "Admiralty",
+     "金鐘"
+    ],
+    [
+     "petit mot de liaison",
+     "嘅"
+    ],
+    [
+     "billet",
+     "飛"
+    ]
+   ],
+   "note": "La précision se place avant le nom, reliée par un petit mot. Ce petit mot de liaison, c'est « ge3 ».",
+   "say": {
+    "ge3": "嘅"
+   }
+  },
+  {
+   "words": [
+    [
+     "métro",
+     "地鐵"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "propre",
+     "乾淨"
+    ]
+   ],
+   "note": "Propre se dit « gon1 zeng6 ». Littéralement, c'est sec et net.",
+   "say": {
+    "gon1 zeng6": "乾淨"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "呢"
+    ],
+    [
+     "petit mot de comptage",
+     "個"
+    ],
+    [
+     "moment",
+     "時間"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "beaucoup",
+     "多"
+    ],
+    [
+     "personne",
+     "人"
+    ]
+   ],
+   "note": "Le mot temps sert aussi pour un moment de la journée. On dit « si4 gaan3 ».",
+   "say": {
+    "si4 gaan3": "時間"
+   }
+  },
+  {
+   "words": [
+    [
+     "falloir",
+     "要"
+    ],
+    [
+     "prendre",
+     "搭"
+    ],
+    [
+     "quel",
+     "邊"
+    ],
+    [
+     "petit mot de comptage",
+     "條"
+    ],
+    [
+     "ligne",
+     "綫"
+    ]
+   ],
+   "note": "Quel se dit « bin1 ». Il est toujours suivi d'un mot de comptage.",
+   "say": {
+    "bin1": "邊"
+   }
+  },
+  {
+   "words": [
+    [
+     "rouge",
+     "紅色"
+    ],
+    [
+     "celui-là",
+     "嗰"
+    ],
+    [
+     "petit mot de comptage",
+     "條"
+    ]
+   ],
+   "note": "Rouge se dit « hung4 sik1 ». Le deuxième mot veut dire couleur.",
+   "say": {
+    "hung4 sik1": "紅色"
+   }
+  },
+  {
+   "words": [
+    [
+     "à",
+     "喺"
+    ],
+    [
+     "Admiralty",
+     "金鐘"
+    ],
+    [
+     "changer",
+     "轉"
+    ],
+    [
+     "véhicule",
+     "車"
+    ]
+   ],
+   "note": "Changer de ligne se dit tourner de véhicule. On dit « zyun3 ce1 ».",
+   "say": {
+    "zyun3 ce1": "轉車"
+   }
+  },
+  {
+   "words": [
+    [
+     "prochain",
+     "下"
+    ],
+    [
+     "un",
+     "一"
+    ],
+    [
+     "petit mot de comptage",
+     "班"
+    ],
+    [
+     "train",
+     "車"
+    ],
+    [
+     "deux",
+     "兩"
+    ],
+    [
+     "minute",
+     "分鐘"
+    ],
+    [
+     "aussitôt",
+     "就"
+    ],
+    [
+     "arriver",
+     "到"
+    ]
+   ],
+   "note": "Pour un train ou un bus régulier, on compte avec « baan1 ». Il désigne un passage à heure fixe.",
+   "say": {
+    "baan1": "班"
+   }
+  },
+  {
+   "words": [
+    [
+     "attention",
+     "小心"
+    ],
+    [
+     "quai",
+     "月台"
+    ],
+    [
+     "espace",
+     "空隙"
+    ]
+   ],
+   "note": "Attention se dit « siu2 sam1 ». Littéralement, c'est petit cœur.",
+   "say": {
+    "siu2 sam1": "小心"
+   }
+  }
+ ],
+ "0-1-3": [
+  {
+   "words": [
+    [
+     "excusez-moi",
+     "唔該"
+    ],
+    [
+     "pouvoir",
+     "可"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "pouvoir",
+     "可以"
+    ],
+    [
+     "aider",
+     "幫"
+    ],
+    [
+     "moi",
+     "我"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Pour demander si on peut, on dit pouvoir, ne pas pouvoir. Cela donne « ho2 m4 ho2 ji5 ».",
+   "say": {
+    "ho2 m4 ho2 ji5": "可唔可以"
+   }
+  },
+  {
+   "words": [
+    [
+     "s'il vous plaît",
+     "唔該"
+    ],
+    [
+     "donner",
+     "俾"
+    ],
+    [
+     "en plus",
+     "多"
+    ],
+    [
+     "petit mot de comptage",
+     "條"
+    ],
+    [
+     "serviette",
+     "毛巾"
+    ],
+    [
+     "moi",
+     "我"
+    ]
+   ],
+   "note": "Pour une chose en plus, on met plus juste après donner. En plus se dit « do1 ».",
+   "say": {
+    "do1": "多"
+   }
+  },
+  {
+   "words": [
+    [
+     "merci",
+     "唔該"
+    ],
+    [
+     "tout",
+     "晒"
+    ],
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "bonne personne",
+     "好人"
+    ]
+   ],
+   "note": "Pour remercier d'un service, on reprend la formule de s'il vous plaît. Avec un petit mot en plus, c'est merci beaucoup, « m4 goi1 saai3 ».",
+   "say": {
+    "m4 goi1 saai3": "唔該晒"
+   }
+  },
+  {
+   "words": [
+    [
+     "s'il vous plaît",
+     "唔該"
+    ],
+    [
+     "aider",
+     "幫"
+    ],
+    [
+     "moi",
+     "我"
+    ],
+    [
+     "appeler",
+     "叫"
+    ],
+    [
+     "petit mot de comptage",
+     "架"
+    ],
+    [
+     "taxi",
+     "的士"
+    ]
+   ],
+   "note": "Taxi se dit « dik1 si2 ». Il se compte comme tous les véhicules.",
+   "say": {
+    "dik1 si2": "的士"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas avoir",
+     "冇"
+    ],
+    [
+     "problème",
+     "問題"
+    ],
+    [
+     "cinq",
+     "五"
+    ],
+    [
+     "minute",
+     "分鐘"
+    ],
+    [
+     "aussitôt",
+     "就"
+    ],
+    [
+     "arriver",
+     "到"
+    ]
+   ],
+   "note": "Pas de problème se dit « mou5 man6 tai4 ». On l'entend à chaque coin de rue.",
+   "say": {
+    "mou5 man6 tai4": "冇問題"
+   }
+  },
+  {
+   "words": [
+    [
+     "s'il vous plaît",
+     "唔該"
+    ],
+    [
+     "je",
+     "我"
+    ],
+    [
+     "avoir envie",
+     "想"
+    ],
+    [
+     "déposer",
+     "寄存"
+    ],
+    [
+     "bagages",
+     "行李"
+    ]
+   ],
+   "note": "Bagages se dit « hang4 lei5 ». Laisser en dépôt se dit avec un verbe à part, juste devant.",
+   "say": {
+    "hang4 lei5": "行李"
+   }
+  },
+  {
+   "words": [
+    [
+     "merci",
+     "唔該"
+    ],
+    [
+     "tout",
+     "晒"
+    ],
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "aider",
+     "幫手"
+    ]
+   ],
+   "note": "Aider se dit souvent donner un coup de main. On dit « bong1 sau2 ».",
+   "say": {
+    "bong1 sau2": "幫手"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "falloir",
+     "使"
+    ],
+    [
+     "politesse",
+     "客氣"
+    ]
+   ],
+   "note": "Pour répondre à merci, on dit pas besoin de politesse. Je vous en prie se dit « m4 sai2 haak3 hei3 ».",
+   "say": {
+    "m4 sai2 haak3 hei3": "唔使客氣"
+   }
+  },
+  {
+   "words": [
+    [
+     "excusez-moi",
+     "唔該"
+    ],
+    [
+     "toilettes",
+     "洗手間"
+    ],
+    [
+     "se trouver",
+     "喺"
+    ],
+    [
+     "où",
+     "邊度"
+    ]
+   ],
+   "note": "Ici, la formule de politesse sert à attirer l'attention d'un inconnu. C'est notre pardon, « m4 goi1 ».",
+   "say": {
+    "m4 goi1": "唔該"
+   }
+  },
+  {
+   "words": [
+    [
+     "merci",
+     "多謝"
+    ],
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "petit mot du possessif",
+     "嘅"
+    ],
+    [
+     "cadeau",
+     "禮物"
+    ]
+   ],
+   "note": "Pour un cadeau, on remercie avec « do1 ze6 ». Pour un service rendu, on emploie plutôt l'autre formule.",
+   "say": {
+    "do1 ze6": "多謝"
+   }
+  }
+ ],
+ "0-1-4": [
+  {
+   "words": [
+    [
+     "Star Ferry",
+     "天星小輪"
+    ],
+    [
+     "être",
+     "係"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "être",
+     "係"
+    ],
+    [
+     "se trouver",
+     "喺"
+    ],
+    [
+     "ici",
+     "呢度"
+    ],
+    [
+     "partir",
+     "開"
+    ],
+    [
+     "petit mot d'explication",
+     "㗎"
+    ]
+   ],
+   "note": "Partir, pour un bateau ou un bus, se dit « hoi1 ». C'est le même mot qu'ouvrir.",
+   "say": {
+    "hoi1": "開"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "係"
+    ],
+    [
+     "embarcadère",
+     "碼頭"
+    ],
+    [
+     "justement",
+     "就"
+    ],
+    [
+     "se trouver",
+     "喺"
+    ],
+    [
+     "devant",
+     "前面"
+    ]
+   ],
+   "note": "Devant se dit « cin4 min6 ». On dit le lieu d'abord, puis la position.",
+   "say": {
+    "cin4 min6": "前面"
+   }
+  },
+  {
+   "words": [
+    [
+     "dix",
+     "十"
+    ],
+    [
+     "minute",
+     "分鐘"
+    ],
+    [
+     "aussitôt",
+     "就"
+    ],
+    [
+     "arriver",
+     "到"
+    ],
+    [
+     "en face",
+     "對面"
+    ]
+   ],
+   "note": "Ce petit mot devant le verbe veut dire tout de suite ou déjà. Il se dit « zau6 ».",
+   "say": {
+    "zau6": "就"
+   }
+  },
+  {
+   "words": [
+    [
+     "les",
+     "啲"
+    ],
+    [
+     "billet",
+     "飛"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "bon marché",
+     "平"
+    ]
+   ],
+   "note": "Pour parler des billets en général, on met les devant, sans nombre. Les se dit « di1 ».",
+   "say": {
+    "di1": "啲"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "avoir envie",
+     "想"
+    ],
+    [
+     "s'asseoir",
+     "坐"
+    ],
+    [
+     "fenêtre",
+     "窗口"
+    ],
+    [
+     "place",
+     "位"
+    ]
+   ],
+   "note": "Une place côté fenêtre se dit place fenêtre. On dit « coeng1 hau2 wai2 ».",
+   "say": {
+    "coeng1 hau2 wai2": "窗口位"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "regarder",
+     "睇"
+    ],
+    [
+     "en face",
+     "對面"
+    ],
+    [
+     "être",
+     "係"
+    ],
+    [
+     "Tsim Sha Tsui",
+     "尖沙咀"
+    ]
+   ],
+   "note": "Pour attirer l'attention, on dit simplement toi regarde. Regarder se dit « tai2 ».",
+   "say": {
+    "tai2": "睇"
+   }
+  },
+  {
+   "words": [
+    [
+     "le soir",
+     "晚黑"
+    ],
+    [
+     "petit mot de comptage",
+     "個"
+    ],
+    [
+     "port",
+     "海港"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "beau",
+     "靚"
+    ]
+   ],
+   "note": "Le soir se dit aussi « maan5 hak1 ». Littéralement, c'est tard et noir.",
+   "say": {
+    "maan5 hak1": "晚黑"
+   }
+  },
+  {
+   "words": [
+    [
+     "bateau",
+     "船"
+    ],
+    [
+     "dessus",
+     "上面"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "grand",
+     "大"
+    ],
+    [
+     "vent",
+     "風"
+    ]
+   ],
+   "note": "Pour dire qu'il y a du vent, on dit très grand vent. On dit « hou2 daai6 fung1 ».",
+   "say": {
+    "hou2 daai6 fung1": "好大風"
+   }
+  },
+  {
+   "words": [
+    [
+     "ensemble",
+     "一齊"
+    ],
+    [
+     "prendre",
+     "影"
+    ],
+    [
+     "petit mot de comptage",
+     "張"
+    ],
+    [
+     "photo",
+     "相"
+    ],
+    [
+     "petit mot de proposition",
+     "吖"
+    ]
+   ],
+   "note": "Prendre une photo se dit « jing2 soeng2 ». La photo se compte comme une chose plate.",
+   "say": {
+    "jing2 soeng2": "影相"
+   }
+  },
+  {
+   "words": [
+    [
+     "Star Ferry",
+     "天星小輪"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "avoir",
+     "有"
+    ],
+    [
+     "histoire",
+     "歷史"
+    ]
+   ],
+   "note": "Pour dire qu'il a une longue histoire, on dit très avoir histoire. Histoire se dit « lik6 si2 ».",
+   "say": {
+    "lik6 si2": "歷史"
+   }
+  }
+ ],
+ "0-1-5": [
+  {
+   "words": [
+    [
+     "un",
+     "一"
+    ],
+    [
+     "petit mot de comptage",
+     "張"
+    ],
+    [
+     "bateau",
+     "船"
+    ],
+    [
+     "billet",
+     "飛"
+    ],
+    [
+     "combien",
+     "幾多"
+    ],
+    [
+     "argent",
+     "錢"
+    ]
+   ],
+   "note": "Un billet de bateau se dit bateau billet, sans petit mot. On dit « syun4 fei1 ».",
+   "say": {
+    "syun4 fei1": "船飛"
+   }
+  },
+  {
+   "words": [
+    [
+     "cinq",
+     "五"
+    ],
+    [
+     "dollar",
+     "蚊"
+    ]
+   ],
+   "note": "Pour un prix rond, le nombre suffit, suivi de dollar. Cinq dollars se dit « ng5 man1 ».",
+   "say": {
+    "ng5 man1": "五蚊"
+   }
+  },
+  {
+   "words": [
+    [
+     "enfant",
+     "小朋友"
+    ],
+    [
+     "petit mot de question",
+     "呢"
+    ]
+   ],
+   "note": "Pour dire et lui, on ajoute un petit mot de question après le nom. Ce petit mot, c'est « ne1 ».",
+   "say": {
+    "ne1": "呢"
+   }
+  },
+  {
+   "words": [
+    [
+     "enfant",
+     "小朋友"
+    ],
+    [
+     "moitié",
+     "半"
+    ],
+    [
+     "prix",
+     "價"
+    ]
+   ],
+   "note": "Moitié prix se dit « bun3 gaa3 ». On met demi devant le mot prix.",
+   "say": {
+    "bun3 gaa3": "半價"
+   }
+  },
+  {
+   "words": [
+    [
+     "deux",
+     "兩"
+    ],
+    [
+     "petit mot de comptage",
+     "張"
+    ],
+    [
+     "sommet",
+     "山頂"
+    ],
+    [
+     "funiculaire",
+     "纜車"
+    ],
+    [
+     "billet",
+     "飛"
+    ],
+    [
+     "combien",
+     "幾多"
+    ],
+    [
+     "argent",
+     "錢"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Funiculaire se dit littéralement voiture à câble. On dit « laam6 ce1 ».",
+   "say": {
+    "laam6 ce1": "纜車"
+   }
+  },
+  {
+   "words": [
+    [
+     "un",
+     "一"
+    ],
+    [
+     "cent",
+     "百"
+    ],
+    [
+     "six",
+     "六"
+    ],
+    [
+     "dix",
+     "十"
+    ],
+    [
+     "dollar",
+     "蚊"
+    ]
+   ],
+   "note": "Cent soixante se dit un cent six dix. On dit « jat1 baak3 luk6 sap6 ».",
+   "say": {
+    "jat1 baak3 luk6 sap6": "一百六十"
+   }
+  },
+  {
+   "words": [
+    [
+     "avoir",
+     "有"
+    ],
+    [
+     "un peu",
+     "啲"
+    ],
+    [
+     "cher",
+     "貴"
+    ]
+   ],
+   "note": "Un peu, devant un adjectif, se dit littéralement avoir un peu. On dit « jau5 di1 ».",
+   "say": {
+    "jau5 di1": "有啲"
+   }
+  },
+  {
+   "words": [
+    [
+     "venir",
+     "來"
+    ],
+    [
+     "retourner",
+     "回"
+    ],
+    [
+     "combien",
+     "幾多"
+    ],
+    [
+     "argent",
+     "錢"
+    ]
+   ],
+   "note": "L'aller-retour se dit venir et retourner. On dit « loi4 wui4 ».",
+   "say": {
+    "loi4 wui4": "來回"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "donner",
+     "俾"
+    ],
+    [
+     "espèces",
+     "現金"
+    ]
+   ],
+   "note": "Payer se dit simplement donner. Donner se dit « bei2 ».",
+   "say": {
+    "bei2": "俾"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "呢度"
+    ],
+    [
+     "un",
+     "一"
+    ],
+    [
+     "cent",
+     "百"
+    ],
+    [
+     "dollar",
+     "蚊"
+    ]
+   ],
+   "note": "En tendant l'argent, on dit ici, puis la somme. Tenez se dit donc « ni1 dou6 ».",
+   "say": {
+    "ni1 dou6": "呢度"
+   }
+  }
+ ],
+ "0-1-6": [
+  {
+   "words": [
+    [
+     "où",
+     "邊度"
+    ],
+    [
+     "pouvoir",
+     "可以"
+    ],
+    [
+     "changer",
+     "換"
+    ],
+    [
+     "argent",
+     "錢"
+    ]
+   ],
+   "note": "Pouvoir se dit « ho2 ji5 ». Il se place juste avant le verbe.",
+   "say": {
+    "ho2 ji5": "可以"
+   }
+  },
+  {
+   "words": [
+    [
+     "à côté",
+     "隔籬"
+    ],
+    [
+     "avoir",
+     "有"
+    ],
+    [
+     "change",
+     "找換"
+    ],
+    [
+     "boutique",
+     "店"
+    ]
+   ],
+   "note": "Boutique se dit « dim3 ». On le met après ce qu'on y fait ou ce qu'on y vend.",
+   "say": {
+    "dim3": "店"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "avoir envie",
+     "想"
+    ],
+    [
+     "changer",
+     "換"
+    ],
+    [
+     "euro",
+     "歐元"
+    ]
+   ],
+   "note": "L'euro se dit « au1 jyun4 ». Le premier mot désigne l'Europe.",
+   "say": {
+    "au1 jyun4": "歐元"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "avoir envie",
+     "想"
+    ],
+    [
+     "changer",
+     "換"
+    ],
+    [
+     "combien",
+     "幾多"
+    ]
+   ],
+   "note": "Combien peut finir la phrase, sans nom après. On dit « gei2 do1 ».",
+   "say": {
+    "gei2 do1": "幾多"
+   }
+  },
+  {
+   "words": [
+    [
+     "s'il vous plaît",
+     "唔該"
+    ],
+    [
+     "deux",
+     "兩"
+    ],
+    [
+     "cent",
+     "百"
+    ],
+    [
+     "euro",
+     "歐元"
+    ]
+   ],
+   "note": "Devant cent, deux se dit comme devant un objet. Deux cents se dit « loeng5 baak3 ».",
+   "say": {
+    "loeng5 baak3": "兩百"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "今日"
+    ],
+    [
+     "petit mot de comptage",
+     "個"
+    ],
+    [
+     "prix",
+     "價"
+    ],
+    [
+     "bien",
+     "好"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "bien",
+     "好"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Le prix, ou le taux, se dit « gaa3 ». Devant, le mot de comptage joue le rôle de le.",
+   "say": {
+    "gaa3": "價"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "mauvais",
+     "錯"
+    ],
+    [
+     "bien",
+     "好"
+    ],
+    [
+     "dépasser",
+     "過"
+    ],
+    [
+     "hier",
+     "琴日"
+    ]
+   ],
+   "note": "Pour comparer, on dit bon dépasser hier. Meilleur que se dit « hou2 gwo3 ».",
+   "say": {
+    "hou2 gwo3": "好過"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "呢"
+    ],
+    [
+     "petit mot du pluriel",
+     "啲"
+    ],
+    [
+     "être",
+     "係"
+    ],
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "petit mot du possessif",
+     "嘅"
+    ],
+    [
+     "billets de Hong Kong",
+     "港紙"
+    ]
+   ],
+   "note": "Les billets de Hong Kong se disent « gong2 zi2 ». Littéralement, c'est le papier de Hong Kong.",
+   "say": {
+    "gong2 zi2": "港紙"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "aussi",
+     "都"
+    ],
+    [
+     "avoir envie",
+     "想"
+    ],
+    [
+     "vouloir",
+     "要"
+    ],
+    [
+     "un peu",
+     "啲"
+    ],
+    [
+     "petite monnaie",
+     "散紙"
+    ]
+   ],
+   "note": "La petite monnaie se dit « saan2 zi2 ». Littéralement, c'est du papier dispersé.",
+   "say": {
+    "saan2 zi2": "散紙"
+   }
+  },
+  {
+   "words": [
+    [
+     "s'il vous plaît",
+     "唔該"
+    ],
+    [
+     "compter",
+     "點"
+    ],
+    [
+     "clairement",
+     "清楚"
+    ],
+    [
+     "les",
+     "啲"
+    ],
+    [
+     "argent",
+     "錢"
+    ]
+   ],
+   "note": "Clair ou net se dit « cing1 co2 ». Ici, il vient juste après le verbe compter.",
+   "say": {
+    "cing1 co2": "清楚"
+   }
+  }
+ ],
+ "0-1-7": [
+  {
+   "words": [
+    [
+     "ce",
+     "呢"
+    ],
+    [
+     "petit mot de comptage",
+     "架"
+    ],
+    [
+     "tram",
+     "電車"
+    ],
+    [
+     "depuis",
+     "由"
+    ],
+    [
+     "Central",
+     "中環"
+    ],
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "Causeway Bay",
+     "銅鑼灣"
+    ]
+   ],
+   "note": "Pour dire de, on met depuis avant le point de départ. Depuis se dit « jau4 ».",
+   "say": {
+    "jau4": "由"
+   }
+  },
+  {
+   "words": [
+    [
+     "depuis",
+     "由"
+    ],
+    [
+     "arrière",
+     "後"
+    ],
+    [
+     "porte",
+     "門"
+    ],
+    [
+     "monter",
+     "上"
+    ],
+    [
+     "véhicule",
+     "車"
+    ]
+   ],
+   "note": "Monter dans un véhicule se dit « soeng5 ce1 ». Par où, on le dit avant le verbe.",
+   "say": {
+    "soeng5 ce1": "上車"
+   }
+  },
+  {
+   "words": [
+    [
+     "descendre",
+     "落"
+    ],
+    [
+     "véhicule",
+     "車"
+    ],
+    [
+     "ce moment",
+     "嗰陣"
+    ],
+    [
+     "à",
+     "喺"
+    ],
+    [
+     "devant",
+     "前面"
+    ],
+    [
+     "donner",
+     "俾"
+    ],
+    [
+     "argent",
+     "錢"
+    ]
+   ],
+   "note": "Pour dire au moment où, on ajoute ce moment-là après l'action. On dit « go2 zan6 ».",
+   "say": {
+    "go2 zan6": "嗰陣"
+   }
+  },
+  {
+   "words": [
+    [
+     "depuis",
+     "由"
+    ],
+    [
+     "Central",
+     "中環"
+    ],
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "Wan Chai",
+     "灣仔"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "rapide",
+     "快"
+    ]
+   ],
+   "note": "Rapide se dit « faai3 ». Il qualifie ici tout le trajet.",
+   "say": {
+    "faai3": "快"
+   }
+  },
+  {
+   "words": [
+    [
+     "tram",
+     "電車"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "lent",
+     "慢"
+    ],
+    [
+     "mais",
+     "不過"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "beau à voir",
+     "好睇"
+    ]
+   ],
+   "note": "Lent se dit « maan6 ». C'est le contraire de rapide.",
+   "say": {
+    "maan6": "慢"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "我哋"
+    ],
+    [
+     "monter",
+     "上"
+    ],
+    [
+     "étage du haut",
+     "上層"
+    ],
+    [
+     "petit mot d'invitation",
+     "啦"
+    ]
+   ],
+   "note": "Le même mot veut dire monter et en haut, avec deux tons différents. Monter se dit « soeng5 ».",
+   "say": {
+    "soeng5": "上"
+   }
+  },
+  {
+   "words": [
+    [
+     "à",
+     "喺"
+    ],
+    [
+     "en haut",
+     "上面"
+    ],
+    [
+     "regarder",
+     "睇"
+    ],
+    [
+     "réussir",
+     "到"
+    ],
+    [
+     "entier",
+     "成"
+    ],
+    [
+     "petit mot de comptage",
+     "條"
+    ],
+    [
+     "rue",
+     "街"
+    ]
+   ],
+   "note": "Après regarder, on ajoute un petit mot pour dire qu'on arrive à voir. On dit « tai2 dou2 ».",
+   "say": {
+    "tai2 dou2": "睇到"
+   }
+  },
+  {
+   "words": [
+    [
+     "depuis",
+     "由"
+    ],
+    [
+     "Central",
+     "中環"
+    ],
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "Causeway Bay",
+     "銅鑼灣"
+    ],
+    [
+     "falloir",
+     "要"
+    ],
+    [
+     "combien",
+     "幾"
+    ],
+    [
+     "longtemps",
+     "耐"
+    ]
+   ],
+   "note": "Combien de temps se dit « gei2 noi6 ». Littéralement, c'est combien longtemps.",
+   "say": {
+    "gei2 noi6": "幾耐"
+   }
+  },
+  {
+   "words": [
+    [
+     "environ",
+     "大概"
+    ],
+    [
+     "demi",
+     "半"
+    ],
+    [
+     "petit mot de comptage",
+     "個"
+    ],
+    [
+     "heure",
+     "鐘"
+    ]
+   ],
+   "note": "Environ se dit « daai6 koi3 ». Pour une durée, heure se dit avec un autre mot que l'heure de l'horloge.",
+   "say": {
+    "daai6 koi3": "大概"
+   }
+  },
+  {
+   "words": [
+    [
+     "s'asseoir",
+     "坐"
+    ],
+    [
+     "tram",
+     "電車"
+    ],
+    [
+     "environ",
+     "大概"
+    ],
+    [
+     "trois",
+     "三"
+    ],
+    [
+     "dollar",
+     "蚊"
+    ]
+   ],
+   "note": "Tram se dit « din6 ce1 ». Littéralement, c'est une voiture électrique.",
+   "say": {
+    "din6 ce1": "電車"
+   }
+  }
+ ],
+ "0-1-8": [
+  {
+   "words": [
+    [
+     "nous",
+     "我哋"
+    ],
+    [
+     "s'asseoir",
+     "坐"
+    ],
+    [
+     "funiculaire",
+     "纜車"
+    ],
+    [
+     "monter",
+     "上"
+    ],
+    [
+     "sommet",
+     "山頂"
+    ]
+   ],
+   "note": "Plusieurs verbes s'enchaînent sans petit mot. On dit prendre le funiculaire, monter au sommet, « soeng5 saan1 deng2 ».",
+   "say": {
+    "soeng5 saan1 deng2": "上山頂"
+   }
+  },
+  {
+   "words": [
+    [
+     "faire la queue",
+     "排隊"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "beaucoup",
+     "多"
+    ],
+    [
+     "personne",
+     "人"
+    ]
+   ],
+   "note": "Faire la queue se dit « paai4 deoi2 ». À Hong Kong, on le fait partout.",
+   "say": {
+    "paai4 deoi2": "排隊"
+   }
+  },
+  {
+   "words": [
+    [
+     "très",
+     "好"
+    ],
+    [
+     "en pente",
+     "斜"
+    ],
+    [
+     "petit mot d'exclamation",
+     "呀"
+    ]
+   ],
+   "note": "En pente ou raide se dit « ce3 ». Avec le petit mot final, on s'exclame.",
+   "say": {
+    "ce3": "斜"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "呢度"
+    ],
+    [
+     "petit mot de comptage",
+     "個"
+    ],
+    [
+     "vue",
+     "景"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "beau",
+     "靚"
+    ]
+   ],
+   "note": "La vue ou le paysage se dit « ging2 ». Le mot de comptage devant joue le rôle de la.",
+   "say": {
+    "ging2": "景"
+   }
+  },
+  {
+   "words": [
+    [
+     "regarder",
+     "睇"
+    ],
+    [
+     "réussir",
+     "到"
+    ],
+    [
+     "entier",
+     "成"
+    ],
+    [
+     "petit mot de comptage",
+     "個"
+    ],
+    [
+     "port de Victoria",
+     "維港"
+    ]
+   ],
+   "note": "Tout entier se dit « seng4 ». On le met devant le mot de comptage.",
+   "say": {
+    "seng4": "成"
+   }
+  },
+  {
+   "words": [
+    [
+     "le soir",
+     "夜晚"
+    ],
+    [
+     "petit mot de liaison",
+     "嘅"
+    ],
+    [
+     "vue de nuit",
+     "夜景"
+    ],
+    [
+     "encore plus",
+     "更加"
+    ],
+    [
+     "beau",
+     "靚"
+    ]
+   ],
+   "note": "Pour dire encore plus, on met « gang3 gaa1 ». Il se place devant l'adjectif.",
+   "say": {
+    "gang3 gaa1": "更加"
+   }
+  },
+  {
+   "words": [
+    [
+     "sommet",
+     "山頂"
+    ],
+    [
+     "frais",
+     "涼爽"
+    ],
+    [
+     "un peu plus",
+     "啲"
+    ]
+   ],
+   "note": "Pour comparer, on ajoute un petit mot après l'adjectif. Plus frais se dit « loeng4 song2 di1 ».",
+   "say": {
+    "loeng4 song2 di1": "涼爽啲"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "avoir envie",
+     "想"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "avoir envie",
+     "想"
+    ],
+    [
+     "boire",
+     "飲"
+    ],
+    [
+     "tasse",
+     "杯"
+    ],
+    [
+     "thé au lait",
+     "奶茶"
+    ]
+   ],
+   "note": "Tu veux se dit avoir envie, pas avoir envie. On dit « soeng2 m4 soeng2 ».",
+   "say": {
+    "soeng2 m4 soeng2": "想唔想"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "我哋"
+    ],
+    [
+     "marcher",
+     "行"
+    ],
+    [
+     "descendre",
+     "落"
+    ],
+    [
+     "montagne",
+     "山"
+    ],
+    [
+     "bien",
+     "好"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "bien",
+     "好"
+    ]
+   ],
+   "note": "Descendre à pied se dit marcher descendre. Descendre se dit « lok6 ».",
+   "say": {
+    "lok6": "落"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "bien",
+     "好"
+    ],
+    [
+     "petit mot du changement",
+     "喇"
+    ],
+    [
+     "je",
+     "我"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "fatigué",
+     "攰"
+    ]
+   ],
+   "note": "Pour refuser gentiment, on dit simplement pas bien. On dit « m4 hou2 ».",
+   "say": {
+    "m4 hou2": "唔好"
+   }
+  }
+ ],
+ "0-1-9": [
+  {
+   "words": [
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "ce soir",
+     "今晚"
+    ],
+    [
+     "venir",
+     "嚟"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "venir",
+     "嚟"
+    ],
+    [
+     "restaurant",
+     "餐廳"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Venir se dit « lai4 ». On l'emploie quand on se rapproche de celui qui parle.",
+   "say": {
+    "lai4": "嚟"
+   }
+  },
+  {
+   "words": [
+    [
+     "venir",
+     "嚟"
+    ],
+    [
+     "je",
+     "我"
+    ],
+    [
+     "sept",
+     "七"
+    ],
+    [
+     "heure",
+     "點"
+    ],
+    [
+     "venir",
+     "嚟"
+    ]
+   ],
+   "note": "Pour répondre oui, on répète le verbe de la question. Ici, on répond simplement venir, « lai4 ».",
+   "say": {
+    "lai4": "嚟"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "maintenant",
+     "而家"
+    ],
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "Causeway Bay",
+     "銅鑼灣"
+    ]
+   ],
+   "note": "Aller, quand on s'éloigne, se dit « heoi3 ». Après lui, on dit directement le lieu, sans petit mot.",
+   "say": {
+    "heoi3": "去"
+   }
+  },
+  {
+   "words": [
+    [
+     "vite",
+     "快"
+    ],
+    [
+     "un peu",
+     "啲"
+    ],
+    [
+     "venir",
+     "嚟"
+    ],
+    [
+     "ici",
+     "呢度"
+    ]
+   ],
+   "note": "Pour dire vite, on dit un peu plus vite. On dit « faai3 di1 ».",
+   "say": {
+    "faai3 di1": "快啲"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "ami",
+     "朋友"
+    ],
+    [
+     "être",
+     "係"
+    ],
+    [
+     "France",
+     "法國"
+    ],
+    [
+     "venir",
+     "嚟"
+    ],
+    [
+     "petit mot d'affirmation",
+     "嘅"
+    ]
+   ],
+   "note": "Pour dire d'où vient quelqu'un, on encadre le pays avec être et venir. Cela donne « hai6 faat3 gwok3 lai4 ge3 ».",
+   "say": {
+    "hai6 faat3 gwok3 lai4 ge3": "係法國嚟嘅"
+   }
+  },
+  {
+   "words": [
+    [
+     "il",
+     "佢"
+    ],
+    [
+     "petit mot de l'ordre",
+     "第"
+    ],
+    [
+     "un",
+     "一"
+    ],
+    [
+     "fois",
+     "次"
+    ],
+    [
+     "venir",
+     "嚟"
+    ],
+    [
+     "Hong Kong",
+     "香港"
+    ]
+   ],
+   "note": "Pour les numéros d'ordre, on met un petit mot devant le nombre. Premier se dit « dai6 jat1 ».",
+   "say": {
+    "dai6 jat1": "第一"
+   }
+  },
+  {
+   "words": [
+    [
+     "après",
+     "之後"
+    ],
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "où",
+     "邊度"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Après ou ensuite se dit « zi1 hau6 ». Il se place en tête de phrase.",
+   "say": {
+    "zi1 hau6": "之後"
+   }
+  },
+  {
+   "words": [
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "Lan Kwai Fong",
+     "蘭桂坊"
+    ],
+    [
+     "boire",
+     "飲"
+    ],
+    [
+     "chose",
+     "嘢"
+    ],
+    [
+     "petit mot d'invitation",
+     "啦"
+    ]
+   ],
+   "note": "Boire un verre se dit boire une chose. On dit « jam2 je5 ».",
+   "say": {
+    "jam2 je5": "飲嘢"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "venir",
+     "嚟"
+    ],
+    [
+     "petit mot du changement",
+     "喇"
+    ],
+    [
+     "je",
+     "我"
+    ],
+    [
+     "rentrer",
+     "返"
+    ],
+    [
+     "hôtel",
+     "酒店"
+    ]
+   ],
+   "note": "Hôtel se dit « zau2 dim3 ». Littéralement, c'est la boutique du vin.",
+   "say": {
+    "zau2 dim3": "酒店"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "聽日"
+    ],
+    [
+     "de nouveau",
+     "再"
+    ],
+    [
+     "venir",
+     "嚟"
+    ],
+    [
+     "chercher",
+     "搵"
+    ],
+    [
+     "nous",
+     "我哋"
+    ],
+    [
+     "petit mot d'invitation",
+     "啦"
+    ]
+   ],
+   "note": "Aller voir quelqu'un se dit venir le chercher. Chercher se dit « wan2 ».",
+   "say": {
+    "wan2": "搵"
+   }
+  }
+ ],
+ "0-1-10": [
+  {
+   "words": [
+    [
+     "s'il vous plaît",
+     "唔該"
+    ],
+    [
+     "trois",
+     "三"
+    ],
+    [
+     "petit mot de politesse",
+     "位"
+    ]
+   ],
+   "note": "Pour les personnes, on compte poliment avec « wai2 ». Au restaurant, on donne juste le nombre et ce mot.",
+   "say": {
+    "wai2": "位"
+   }
+  },
+  {
+   "words": [
+    [
+     "falloir",
+     "要"
+    ],
+    [
+     "attendre",
+     "等"
+    ],
+    [
+     "dix",
+     "十"
+    ],
+    [
+     "minute",
+     "分鐘"
+    ]
+   ],
+   "note": "Attendre se dit « dang2 ». Il faut se dit avec le verbe vouloir, juste devant.",
+   "say": {
+    "dang2": "等"
+   }
+  },
+  {
+   "words": [
+    [
+     "avoir",
+     "有"
+    ],
+    [
+     "ne pas avoir",
+     "冇"
+    ],
+    [
+     "français",
+     "法文"
+    ],
+    [
+     "menu",
+     "餐牌"
+    ]
+   ],
+   "note": "Le menu se dit « caan1 paai2 ». Littéralement, c'est le panneau des repas.",
+   "say": {
+    "caan1 paai2": "餐牌"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "bon",
+     "好"
+    ],
+    [
+     "sens",
+     "意思"
+    ],
+    [
+     "ne pas avoir",
+     "冇"
+    ],
+    [
+     "mais",
+     "不過"
+    ],
+    [
+     "avoir",
+     "有"
+    ],
+    [
+     "photo",
+     "相"
+    ]
+   ],
+   "note": "Pour répondre non à avoir, on dit simplement ne pas avoir. On dit « mou5 ».",
+   "say": {
+    "mou5": "冇"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "avoir",
+     "有"
+    ],
+    [
+     "quoi",
+     "咩"
+    ],
+    [
+     "recommander",
+     "介紹"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Pour demander un conseil, on dit qu'avez-vous à recommander. Recommander se dit « gaai3 siu6 ».",
+   "say": {
+    "gaai3 siu6": "介紹"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "呢度"
+    ],
+    [
+     "petit mot de liaison",
+     "嘅"
+    ],
+    [
+     "riz sauté",
+     "炒飯"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "bon à manger",
+     "好食"
+    ]
+   ],
+   "note": "Riz sauté se dit « caau2 faan6 ». Le premier mot veut dire faire sauter au wok.",
+   "say": {
+    "caau2 faan6": "炒飯"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "manger",
+     "食"
+    ],
+    [
+     "piquant",
+     "辣"
+    ]
+   ],
+   "note": "Pour dire qu'on ne mange jamais quelque chose, la négation simple suffit. Ne pas manger se dit « m4 sik6 ».",
+   "say": {
+    "m4 sik6": "唔食"
+   }
+  },
+  {
+   "words": [
+    [
+     "s'il vous plaît",
+     "唔該"
+    ],
+    [
+     "un",
+     "一"
+    ],
+    [
+     "petit mot de comptage",
+     "支"
+    ],
+    [
+     "froid",
+     "凍"
+    ],
+    [
+     "bière",
+     "啤酒"
+    ]
+   ],
+   "note": "Bière se dit « be1 zau2 ». La bouteille se compte avec le mot des objets longs.",
+   "say": {
+    "be1 zau2": "啤酒"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "呢"
+    ],
+    [
+     "petit mot de comptage",
+     "味"
+    ],
+    [
+     "plat",
+     "餸"
+    ],
+    [
+     "vraiment",
+     "真係"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "bon à manger",
+     "好食"
+    ]
+   ],
+   "note": "Les plats se comptent avec « mei6 ». Ce mot veut aussi dire goût.",
+   "say": {
+    "mei6": "味"
+   }
+  },
+  {
+   "words": [
+    [
+     "s'il vous plaît",
+     "唔該"
+    ],
+    [
+     "fermer",
+     "埋"
+    ],
+    [
+     "addition",
+     "單"
+    ]
+   ],
+   "note": "Pour l'addition, on dit « maai4 daan1 ». Avec la formule de politesse devant, c'est poli et naturel.",
+   "say": {
+    "maai4 daan1": "埋單"
+   }
+  }
+ ],
+ "0-1-11": [
+  {
+   "words": [
+    [
+     "s'il vous plaît",
+     "唔該"
+    ],
+    [
+     "métro",
+     "地鐵"
+    ],
+    [
+     "station",
+     "站"
+    ],
+    [
+     "comment",
+     "點"
+    ],
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Comment se dit « dim2 ». Pour demander le chemin, on dit le lieu, puis comment aller.",
+   "say": {
+    "dim2": "點"
+   }
+  },
+  {
+   "words": [
+    [
+     "Star Ferry",
+     "天星"
+    ],
+    [
+     "embarcadère",
+     "碼頭"
+    ],
+    [
+     "comment",
+     "點"
+    ],
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Comment y aller se dit « dim2 heoi3 ». Le lieu vient en premier, en tête de phrase.",
+   "say": {
+    "dim2 heoi3": "點去"
+   }
+  },
+  {
+   "words": [
+    [
+     "tout droit",
+     "直"
+    ],
+    [
+     "marcher",
+     "行"
+    ],
+    [
+     "ensuite",
+     "然後"
+    ],
+    [
+     "tourner",
+     "轉"
+    ],
+    [
+     "gauche",
+     "左"
+    ]
+   ],
+   "note": "Tout droit se dit « zik6 haang4 ». Littéralement, c'est marcher droit.",
+   "say": {
+    "zik6 haang4": "直行"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de l'ordre",
+     "第"
+    ],
+    [
+     "deux",
+     "二"
+    ],
+    [
+     "petit mot de comptage",
+     "個"
+    ],
+    [
+     "feu",
+     "交通燈"
+    ],
+    [
+     "justement",
+     "就"
+    ],
+    [
+     "être",
+     "係"
+    ]
+   ],
+   "note": "Feu de circulation se dit « gaau1 tung1 dang1 ». Littéralement, c'est la lampe de la circulation.",
+   "say": {
+    "gaau1 tung1 dang1": "交通燈"
+   }
+  },
+  {
+   "words": [
+    [
+     "depuis",
+     "由"
+    ],
+    [
+     "ici",
+     "呢度"
+    ],
+    [
+     "comment",
+     "點"
+    ],
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "sommet",
+     "山頂"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Pour donner le point de départ, on met depuis avant ici. D'ici se dit « jau4 ni1 dou6 ».",
+   "say": {
+    "jau4 ni1 dou6": "由呢度"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "pouvoir",
+     "可以"
+    ],
+    [
+     "prendre",
+     "搭"
+    ],
+    [
+     "dix",
+     "十"
+    ],
+    [
+     "cinq",
+     "五"
+    ],
+    [
+     "numéro",
+     "號"
+    ],
+    [
+     "bus",
+     "巴士"
+    ]
+   ],
+   "note": "Le bus se dit « baa1 si2 ». Le numéro vient avant, suivi du mot numéro.",
+   "say": {
+    "baa1 si2": "巴士"
+   }
+  },
+  {
+   "words": [
+    [
+     "marcher",
+     "行"
+    ],
+    [
+     "route",
+     "路"
+    ],
+    [
+     "comment",
+     "點"
+    ],
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "À pied se dit marcher la route. On dit « haang4 lou6 ».",
+   "say": {
+    "haang4 lou6": "行路"
+   }
+  },
+  {
+   "words": [
+    [
+     "traverser",
+     "過"
+    ],
+    [
+     "rue",
+     "馬路"
+    ],
+    [
+     "ensuite",
+     "然後"
+    ],
+    [
+     "tourner",
+     "轉"
+    ],
+    [
+     "droite",
+     "右"
+    ]
+   ],
+   "note": "Traverser la rue se dit « gwo3 maa5 lou6 ». Littéralement, c'est passer la route des chevaux.",
+   "say": {
+    "gwo3 maa5 lou6": "過馬路"
+   }
+  },
+  {
+   "words": [
+    [
+     "pouvoir",
+     "可"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "pouvoir",
+     "可以"
+    ],
+    [
+     "à",
+     "喺"
+    ],
+    [
+     "plan",
+     "地圖"
+    ],
+    [
+     "pointer",
+     "指"
+    ],
+    [
+     "donner",
+     "俾"
+    ],
+    [
+     "moi",
+     "我"
+    ],
+    [
+     "regarder",
+     "睇"
+    ]
+   ],
+   "note": "Montrer se dit littéralement pointer pour que je regarde. Pointer du doigt se dit « zi2 ».",
+   "say": {
+    "zi2": "指"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "vraiment",
+     "真係"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "savoir",
+     "知"
+    ],
+    [
+     "comment",
+     "點"
+    ],
+    [
+     "aller",
+     "去"
+    ]
+   ],
+   "note": "Savoir une information se dit « zi1 ». Je ne sais pas se dit simplement ne pas savoir.",
+   "say": {
+    "zi1": "知"
+   }
+  }
+ ],
+ "0-1-12": [
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "sembler",
+     "好似"
+    ],
+    [
+     "errer",
+     "蕩"
+    ],
+    [
+     "perdre",
+     "失"
+    ],
+    [
+     "chemin",
+     "路"
+    ]
+   ],
+   "note": "Se perdre se dit « dong6 sat1 lou6 ». Littéralement, c'est errer et perdre la route.",
+   "say": {
+    "dong6 sat1 lou6": "蕩失路"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "我哋"
+    ],
+    [
+     "à",
+     "喺"
+    ],
+    [
+     "plan",
+     "地圖"
+    ],
+    [
+     "où",
+     "邊度"
+    ]
+   ],
+   "note": "Plan ou carte se dit « dei6 tou4 ». Littéralement, c'est l'image de la terre.",
+   "say": {
+    "dei6 tou4": "地圖"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "呢度"
+    ],
+    [
+     "être",
+     "係"
+    ],
+    [
+     "Sheung Wan",
+     "上環"
+    ]
+   ],
+   "note": "Pour présenter un lieu, on dit ici est. Ici c'est se dit « ni1 dou6 hai6 ».",
+   "say": {
+    "ni1 dou6 hai6": "呢度係"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "呢"
+    ],
+    [
+     "petit mot de comptage",
+     "條"
+    ],
+    [
+     "rue",
+     "街"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "étroit",
+     "窄"
+    ]
+   ],
+   "note": "Étroit se dit « zaak3 ». La rue se compte avec le mot des choses longues.",
+   "say": {
+    "zaak3": "窄"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "呢度"
+    ],
+    [
+     "avoir",
+     "有"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "beaucoup",
+     "多"
+    ],
+    [
+     "produits de la mer séchés",
+     "海味"
+    ],
+    [
+     "boutique",
+     "舖"
+    ]
+   ],
+   "note": "Les produits de la mer séchés se disent « hoi2 mei6 ». Littéralement, ce sont les saveurs de la mer.",
+   "say": {
+    "hoi2 mei6": "海味"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "bon",
+     "好"
+    ],
+    [
+     "sens",
+     "意思"
+    ],
+    [
+     "je",
+     "我"
+    ],
+    [
+     "chercher",
+     "搵"
+    ],
+    [
+     "petit mot de l'action en cours",
+     "緊"
+    ],
+    [
+     "je",
+     "我"
+    ],
+    [
+     "petit mot de comptage",
+     "間"
+    ],
+    [
+     "hôtel",
+     "酒店"
+    ]
+   ],
+   "note": "Pour une action en cours, on ajoute un petit mot juste après le verbe. Ce petit mot, c'est « gan2 ».",
+   "say": {
+    "gan2": "緊"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "petit mot de comptage",
+     "間"
+    ],
+    [
+     "hôtel",
+     "酒店"
+    ],
+    [
+     "s'appeler",
+     "叫"
+    ],
+    [
+     "quel",
+     "咩"
+    ],
+    [
+     "nom",
+     "名"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "S'appeler se dit « giu3 ». Le nom vient après, comme un complément.",
+   "say": {
+    "giu3": "叫"
+   }
+  },
+  {
+   "words": [
+    [
+     "justement",
+     "就"
+    ],
+    [
+     "se trouver",
+     "喺"
+    ],
+    [
+     "celui-là",
+     "嗰"
+    ],
+    [
+     "petit mot de comptage",
+     "棟"
+    ],
+    [
+     "immeuble",
+     "大廈"
+    ],
+    [
+     "derrière",
+     "後面"
+    ]
+   ],
+   "note": "Les immeubles se comptent avec « dung6 ». Derrière se dit après le nom, comme dessus ou dedans.",
+   "say": {
+    "dung6": "棟"
+   }
+  },
+  {
+   "words": [
+    [
+     "ah",
+     "啊"
+    ],
+    [
+     "je",
+     "我"
+    ],
+    [
+     "comprendre",
+     "明"
+    ],
+    [
+     "petit mot du changement",
+     "喇"
+    ],
+    [
+     "merci",
+     "唔該"
+    ],
+    [
+     "tout",
+     "晒"
+    ]
+   ],
+   "note": "J'ai compris se dit comprendre, suivi du petit mot du changement. On dit « ming4 laa3 ».",
+   "say": {
+    "ming4 laa3": "明喇"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "falloir",
+     "使"
+    ],
+    [
+     "merci",
+     "唔該"
+    ],
+    [
+     "s'amuser",
+     "玩"
+    ],
+    [
+     "petit mot de manière",
+     "得"
+    ],
+    [
+     "joyeux",
+     "開心"
+    ],
+    [
+     "un peu",
+     "啲"
+    ]
+   ],
+   "note": "Pour répondre à un merci, on dit pas besoin de merci. On dit « m4 sai2 m4 goi1 ».",
+   "say": {
+    "m4 sai2 m4 goi1": "唔使唔該"
+   }
+  }
+ ],
+ "0-1-13": [
+  {
+   "words": [
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "savoir",
+     "識"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "savoir",
+     "識"
+    ],
+    [
+     "parler",
+     "講"
+    ],
+    [
+     "français",
+     "法文"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Savoir faire, comme parler une langue, se dit « sik1 ». On le place devant le verbe parler.",
+   "say": {
+    "sik1": "識"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "savoir",
+     "識"
+    ],
+    [
+     "parler",
+     "講"
+    ],
+    [
+     "un peu",
+     "少少"
+    ],
+    [
+     "cantonais",
+     "廣東話"
+    ]
+   ],
+   "note": "Un peu se dit en doublant le mot peu. On dit « siu2 siu2 ».",
+   "say": {
+    "siu2 siu2": "少少"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "pouvoir",
+     "可"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "pouvoir",
+     "可以"
+    ],
+    [
+     "parler",
+     "講"
+    ],
+    [
+     "lent",
+     "慢"
+    ],
+    [
+     "un peu plus",
+     "啲"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Plus lentement se dit lent, un peu plus. On dit « maan6 di1 ».",
+   "say": {
+    "maan6 di1": "慢啲"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "呢度"
+    ],
+    [
+     "pouvoir",
+     "可"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "pouvoir",
+     "可以"
+    ],
+    [
+     "prendre",
+     "影"
+    ],
+    [
+     "photo",
+     "相"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Pouvoir, au sens d'avoir le droit, se dit « ho2 ji5 ». Pour la question, on dit pouvoir, ne pas pouvoir.",
+   "say": {
+    "ho2 ji5": "可以"
+   }
+  },
+  {
+   "words": [
+    [
+     "pouvoir",
+     "可以"
+    ],
+    [
+     "mais",
+     "不過"
+    ],
+    [
+     "ne pas",
+     "唔好"
+    ],
+    [
+     "utiliser",
+     "用"
+    ],
+    [
+     "flash",
+     "閃光燈"
+    ]
+   ],
+   "note": "Pour dire ne fais pas, on place pas bien devant le verbe. On dit « m4 hou2 ».",
+   "say": {
+    "m4 hou2": "唔好"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "savoir",
+     "識"
+    ],
+    [
+     "nager",
+     "游"
+    ],
+    [
+     "eau",
+     "水"
+    ]
+   ],
+   "note": "Nager se dit littéralement nager dans l'eau. On dit « jau4 seoi2 ».",
+   "say": {
+    "jau4 seoi2": "游水"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce soir",
+     "今晚"
+    ],
+    [
+     "petit mot du futur",
+     "會"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "petit mot du futur",
+     "會"
+    ],
+    [
+     "tomber",
+     "落"
+    ],
+    [
+     "pluie",
+     "雨"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Pour ce qui va probablement arriver, on met « wui5 ». Il se place devant le verbe.",
+   "say": {
+    "wui5": "會"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "penser",
+     "諗"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "petit mot du futur",
+     "會"
+    ]
+   ],
+   "note": "Penser se dit « nam2 ». Je ne pense pas se dit je pense que non.",
+   "say": {
+    "nam2": "諗"
+   }
+  },
+  {
+   "words": [
+    [
+     "pouvoir",
+     "可"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "pouvoir",
+     "可以"
+    ],
+    [
+     "glisser",
+     "碌"
+    ],
+    [
+     "carte",
+     "卡"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Payer par carte se dit glisser la carte. On dit « luk1 kaat1 ».",
+   "say": {
+    "luk1 kaat1": "碌卡"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "savoir",
+     "識"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "savoir",
+     "識"
+    ],
+    [
+     "regarder",
+     "睇"
+    ],
+    [
+     "ce",
+     "呢"
+    ],
+    [
+     "petit mot de comptage",
+     "張"
+    ],
+    [
+     "plan",
+     "地圖"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Savoir lire un plan se dit savoir regarder le plan. Le plan se compte avec « zoeng1 ».",
+   "say": {
+    "zoeng1": "張"
+   }
+  }
+ ],
+ "0-1-14": [
+  {
+   "words": [
+    [
+     "Causeway Bay",
+     "銅鑼灣"
+    ],
+    [
+     "être",
+     "係"
+    ],
+    [
+     "acheter",
+     "買"
+    ],
+    [
+     "chose",
+     "嘢"
+    ],
+    [
+     "petit mot de liaison",
+     "嘅"
+    ],
+    [
+     "bon",
+     "好"
+    ],
+    [
+     "endroit",
+     "地方"
+    ]
+   ],
+   "note": "Faire du shopping se dit simplement acheter des choses. On dit « maai5 je5 ».",
+   "say": {
+    "maai5 je5": "買嘢"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "avoir envie",
+     "想"
+    ],
+    [
+     "acheter",
+     "買"
+    ],
+    [
+     "petit mot de comptage",
+     "份"
+    ],
+    [
+     "cadeau",
+     "禮物"
+    ],
+    [
+     "donner",
+     "俾"
+    ],
+    [
+     "je",
+     "我"
+    ],
+    [
+     "maman",
+     "媽媽"
+    ]
+   ],
+   "note": "Pour dire pour quelqu'un, on met donner après l'objet. On dit « bei2 ngo5 maa4 maa1 ».",
+   "say": {
+    "bei2 ngo5 maa4 maa1": "俾我媽媽"
+   }
+  },
+  {
+   "words": [
+    [
+     "pouvoir",
+     "可"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "pouvoir",
+     "可以"
+    ],
+    [
+     "essayer",
+     "試"
+    ],
+    [
+     "petit mot d'un instant",
+     "吓"
+    ]
+   ],
+   "note": "Après un verbe, ce petit mot veut dire un petit coup. Essayer un peu se dit « si3 haa5 ».",
+   "say": {
+    "si3 haa5": "試吓"
+   }
+  },
+  {
+   "words": [
+    [
+     "avoir",
+     "有"
+    ],
+    [
+     "ne pas avoir",
+     "冇"
+    ],
+    [
+     "grand",
+     "大"
+    ],
+    [
+     "un peu plus",
+     "啲"
+    ],
+    [
+     "petit mot de liaison",
+     "嘅"
+    ]
+   ],
+   "note": "Plus grand se dit grand, un peu plus. On dit « daai6 di1 ».",
+   "say": {
+    "daai6 di1": "大啲"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "呢"
+    ],
+    [
+     "petit mot de comptage",
+     "個"
+    ],
+    [
+     "couleur",
+     "顏色"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "aller bien",
+     "襯"
+    ],
+    [
+     "tu",
+     "你"
+    ]
+   ],
+   "note": "Aller bien à quelqu'un se dit « can3 ». On dit simplement la couleur va bien toi.",
+   "say": {
+    "can3": "襯"
+   }
+  },
+  {
+   "words": [
+    [
+     "pouvoir",
+     "可"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "pouvoir",
+     "可以"
+    ],
+    [
+     "bon marché",
+     "平"
+    ],
+    [
+     "un peu plus",
+     "啲"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Pour marchander, on demande simplement moins cher. On dit « peng4 di1 ».",
+   "say": {
+    "peng4 di1": "平啲"
+   }
+  },
+  {
+   "words": [
+    [
+     "compter",
+     "算"
+    ],
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "deux",
+     "兩"
+    ],
+    [
+     "cent",
+     "百"
+    ],
+    [
+     "dollar",
+     "蚊"
+    ],
+    [
+     "petit mot final",
+     "啦"
+    ]
+   ],
+   "note": "Le vendeur dit je te compte, pour faire un prix. Compter se dit « syun3 ».",
+   "say": {
+    "syun3": "算"
+   }
+  },
+  {
+   "words": [
+    [
+     "bien",
+     "好"
+    ],
+    [
+     "je",
+     "我"
+    ],
+    [
+     "vouloir",
+     "要"
+    ],
+    [
+     "ce",
+     "呢"
+    ],
+    [
+     "petit mot de comptage",
+     "個"
+    ]
+   ],
+   "note": "Pour dire d'accord, on dit simplement bien. On dit « hou2 ».",
+   "say": {
+    "hou2": "好"
+   }
+  },
+  {
+   "words": [
+    [
+     "s'il vous plaît",
+     "唔該"
+    ],
+    [
+     "donner",
+     "俾"
+    ],
+    [
+     "petit mot de comptage",
+     "個"
+    ],
+    [
+     "sac",
+     "袋"
+    ],
+    [
+     "moi",
+     "我"
+    ]
+   ],
+   "note": "Sac se dit « doi2 ». On le demande avec donner, sac, moi.",
+   "say": {
+    "doi2": "袋"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "porter",
+     "拎"
+    ],
+    [
+     "petit mot de l'état",
+     "住"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "beaucoup",
+     "多"
+    ],
+    [
+     "sac",
+     "袋"
+    ],
+    [
+     "petit mot d'exclamation",
+     "呀"
+    ]
+   ],
+   "note": "Pour un état qui dure, on ajoute un petit mot après le verbe. Ce petit mot, c'est « zyu6 ».",
+   "say": {
+    "zyu6": "住"
+   }
+  }
+ ],
+ "0-1-15": [
+  {
+   "words": [
+    [
+     "nous",
+     "我哋"
+    ],
+    [
+     "prendre",
+     "搭"
+    ],
+    [
+     "bus",
+     "巴士"
+    ],
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "Stanley",
+     "赤柱"
+    ],
+    [
+     "bien",
+     "好"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "bien",
+     "好"
+    ]
+   ],
+   "note": "Prendre un transport se dit « daap3 ». Ensuite, on dit aller et la destination.",
+   "say": {
+    "daap3": "搭"
+   }
+  },
+  {
+   "words": [
+    [
+     "bus",
+     "巴士"
+    ],
+    [
+     "à",
+     "喺"
+    ],
+    [
+     "Central",
+     "中環"
+    ],
+    [
+     "partir",
+     "開"
+    ]
+   ],
+   "note": "Le lieu de départ se dit avec à, avant le verbe partir. On dit « hai2 zung1 waan4 ».",
+   "say": {
+    "hai2 zung1 waan4": "喺中環"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "avoir envie",
+     "想"
+    ],
+    [
+     "prendre",
+     "搭"
+    ],
+    [
+     "minibus",
+     "小巴"
+    ]
+   ],
+   "note": "Le minibus se dit « siu2 baa1 ». Littéralement, c'est le petit bus.",
+   "say": {
+    "siu2 baa1": "小巴"
+   }
+  },
+  {
+   "words": [
+    [
+     "minibus",
+     "小巴"
+    ],
+    [
+     "rapide",
+     "快"
+    ],
+    [
+     "un peu plus",
+     "啲"
+    ]
+   ],
+   "note": "Pour comparer, pas besoin de plus devant. On ajoute un petit mot après, « faai3 di1 ».",
+   "say": {
+    "faai3 di1": "快啲"
+   }
+  },
+  {
+   "words": [
+    [
+     "prendre",
+     "搭"
+    ],
+    [
+     "minibus",
+     "小巴"
+    ],
+    [
+     "falloir",
+     "要"
+    ],
+    [
+     "soi-même",
+     "自己"
+    ],
+    [
+     "crier",
+     "叫"
+    ],
+    [
+     "descendre",
+     "落"
+    ],
+    [
+     "véhicule",
+     "車"
+    ]
+   ],
+   "note": "Soi-même se dit « zi6 gei2 ». En minibus, c'est à chacun de crier son arrêt.",
+   "say": {
+    "zi6 gei2": "自己"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "有"
+    ],
+    [
+     "descendre",
+     "落"
+    ],
+    [
+     "s'il vous plaît",
+     "唔該"
+    ]
+   ],
+   "note": "Descendre se dit « lok6 ». Le contraire, monter, se dit avec un autre mot.",
+   "say": {
+    "lok6": "落"
+   }
+  },
+  {
+   "words": [
+    [
+     "aussi",
+     "都"
+    ],
+    [
+     "pouvoir",
+     "可以"
+    ],
+    [
+     "prendre",
+     "搭"
+    ],
+    [
+     "taxi",
+     "的士"
+    ]
+   ],
+   "note": "On peut aussi se dit aussi pouvoir. On dit « dou1 ho2 ji5 ».",
+   "say": {
+    "dou1 ho2 ji5": "都可以"
+   }
+  },
+  {
+   "words": [
+    [
+     "rouge",
+     "紅色"
+    ],
+    [
+     "taxi",
+     "的士"
+    ],
+    [
+     "entier",
+     "成"
+    ],
+    [
+     "petit mot de comptage",
+     "個"
+    ],
+    [
+     "île de Hong Kong",
+     "港島"
+    ],
+    [
+     "tous",
+     "都"
+    ],
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "possible",
+     "得"
+    ]
+   ],
+   "note": "Après un verbe, ce petit mot veut dire c'est possible. Pouvoir y aller se dit « heoi3 dak1 ».",
+   "say": {
+    "heoi3 dak1": "去得"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "prendre",
+     "搭"
+    ],
+    [
+     "petit mot de l'expérience",
+     "過"
+    ],
+    [
+     "bateau",
+     "船"
+    ],
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "Lantau",
+     "大嶼山"
+    ],
+    [
+     "pas encore",
+     "未"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Pour dire qu'on l'a déjà fait une fois, on ajoute un petit mot après le verbe. Ce petit mot, c'est « gwo3 ».",
+   "say": {
+    "gwo3": "過"
+   }
+  },
+  {
+   "words": [
+    [
+     "pas encore",
+     "未"
+    ],
+    [
+     "petit mot final",
+     "呀"
+    ],
+    [
+     "demain",
+     "聽日"
+    ],
+    [
+     "prendre",
+     "搭"
+    ]
+   ],
+   "note": "Pas encore se dit « mei6 ». C'est la réponse quand on ne l'a pas encore fait.",
+   "say": {
+    "mei6": "未"
+   }
+  }
+ ],
+ "0-1-16": [
+  {
+   "words": [
+    [
+     "Repulse Bay",
+     "淺水灣"
+    ],
+    [
+     "petit mot de comptage",
+     "個"
+    ],
+    [
+     "plage",
+     "沙灘"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "beau",
+     "靚"
+    ]
+   ],
+   "note": "La plage se dit « saa1 taan1 ». Littéralement, c'est la rive de sable.",
+   "say": {
+    "saa1 taan1": "沙灘"
+   }
+  },
+  {
+   "words": [
+    [
+     "les",
+     "啲"
+    ],
+    [
+     "eau",
+     "水"
+    ],
+    [
+     "avoir",
+     "有"
+    ],
+    [
+     "un peu",
+     "啲"
+    ],
+    [
+     "froid",
+     "凍"
+    ]
+   ],
+   "note": "Froid, au toucher, se dit « dung3 ». C'est le même mot que glacé pour les boissons.",
+   "say": {
+    "dung3": "凍"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "avoir",
+     "有"
+    ],
+    [
+     "ne pas avoir",
+     "冇"
+    ],
+    [
+     "apporter",
+     "帶"
+    ],
+    [
+     "crème solaire",
+     "防曬"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Pour demander si on a fait quelque chose, on met avoir, ne pas avoir, devant le verbe. Apporter se dit « daai3 ».",
+   "say": {
+    "daai3": "帶"
+   }
+  },
+  {
+   "words": [
+    [
+     "temps",
+     "天氣"
+    ],
+    [
+     "à la fois",
+     "又"
+    ],
+    [
+     "chaud",
+     "熱"
+    ],
+    [
+     "à la fois",
+     "又"
+    ],
+    [
+     "humide",
+     "濕"
+    ]
+   ],
+   "note": "Pour dire à la fois ceci et cela, on répète un petit mot. On dit « jau6 jit6 jau6 sap1 ».",
+   "say": {
+    "jau6 jit6 jau6 sap1": "又熱又濕"
+   }
+  },
+  {
+   "words": [
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "nager",
+     "游"
+    ],
+    [
+     "eau",
+     "水"
+    ],
+    [
+     "petit mot d'invitation",
+     "啦"
+    ]
+   ],
+   "note": "Pour proposer, on met le petit mot d'invitation à la fin. On dit « laa1 ».",
+   "say": {
+    "laa1": "啦"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "s'asseoir",
+     "坐"
+    ],
+    [
+     "à",
+     "喺"
+    ],
+    [
+     "arbre",
+     "樹"
+    ],
+    [
+     "dessous",
+     "底下"
+    ]
+   ],
+   "note": "Arbre se dit « syu6 ». Dessous se dit après le nom.",
+   "say": {
+    "syu6": "樹"
+   }
+  },
+  {
+   "words": [
+    [
+     "acheter",
+     "買"
+    ],
+    [
+     "deux",
+     "兩"
+    ],
+    [
+     "petit mot de comptage",
+     "支"
+    ],
+    [
+     "froid",
+     "凍"
+    ],
+    [
+     "boisson",
+     "飲"
+    ],
+    [
+     "bien",
+     "好"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "bien",
+     "好"
+    ]
+   ],
+   "note": "Une boisson fraîche se dit simplement froid boire. On dit « dung3 jam2 ».",
+   "say": {
+    "dung3 jam2": "凍飲"
+   }
+  },
+  {
+   "words": [
+    [
+     "plage",
+     "沙灘"
+    ],
+    [
+     "avoir",
+     "有"
+    ],
+    [
+     "ne pas avoir",
+     "冇"
+    ],
+    [
+     "rincer",
+     "沖"
+    ],
+    [
+     "corps",
+     "身"
+    ],
+    [
+     "pièce",
+     "房"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "La douche de plage se dit la pièce pour rincer le corps. On dit « cung1 san1 fong2 ».",
+   "say": {
+    "cung1 san1 fong2": "沖身房"
+   }
+  },
+  {
+   "words": [
+    [
+     "soleil",
+     "日"
+    ],
+    [
+     "tomber",
+     "落"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "beau",
+     "靚"
+    ]
+   ],
+   "note": "Coucher de soleil se dit soleil qui tombe. On dit « jat6 lok6 ».",
+   "say": {
+    "jat6 lok6": "日落"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "今日"
+    ],
+    [
+     "vraiment",
+     "真係"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "content",
+     "開心"
+    ]
+   ],
+   "note": "Content ou joyeux se dit « hoi1 sam1 ». Littéralement, c'est cœur ouvert.",
+   "say": {
+    "hoi1 sam1": "開心"
+   }
+  }
+ ],
+ "0-1-17": [
+  {
+   "words": [
+    [
+     "marché",
+     "街市"
+    ],
+    [
+     "loin de",
+     "離"
+    ],
+    [
+     "ici",
+     "呢度"
+    ],
+    [
+     "loin",
+     "遠"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "loin",
+     "遠"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Pour parler de distance, on utilise un petit mot qui veut dire éloigné de. Il se dit « lei4 ».",
+   "say": {
+    "lei4": "離"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "loin",
+     "遠"
+    ],
+    [
+     "loin de",
+     "離"
+    ],
+    [
+     "ici",
+     "呢度"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "proche",
+     "近"
+    ]
+   ],
+   "note": "Proche se dit « kan5 ». On dit d'abord par rapport à quoi, puis proche ou loin.",
+   "say": {
+    "kan5": "近"
+   }
+  },
+  {
+   "words": [
+    [
+     "hôtel",
+     "酒店"
+    ],
+    [
+     "loin de",
+     "離"
+    ],
+    [
+     "métro",
+     "地鐵"
+    ],
+    [
+     "station",
+     "站"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "loin",
+     "遠"
+    ]
+   ],
+   "note": "Loin se dit « jyun5 ». On dit l'hôtel, éloigné du métro, très loin.",
+   "say": {
+    "jyun5": "遠"
+   }
+  },
+  {
+   "words": [
+    [
+     "Wan Chai",
+     "灣仔"
+    ],
+    [
+     "loin de",
+     "離"
+    ],
+    [
+     "Causeway Bay",
+     "銅鑼灣"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "proche",
+     "近"
+    ]
+   ],
+   "note": "Wan Chai se dit « waan1 zai2 ». Le mot de distance se place entre les deux lieux.",
+   "say": {
+    "waan1 zai2": "灣仔"
+   }
+  },
+  {
+   "words": [
+    [
+     "marcher",
+     "行"
+    ],
+    [
+     "route",
+     "路"
+    ],
+    [
+     "dix",
+     "十"
+    ],
+    [
+     "minute",
+     "分鐘"
+    ]
+   ],
+   "note": "Dix minutes se dit « sap6 fan1 zung1 ». Pour une durée, minute se dit en deux syllabes.",
+   "say": {
+    "sap6 fan1 zung1": "十分鐘"
+   }
+  },
+  {
+   "words": [
+    [
+     "aéroport",
+     "機場"
+    ],
+    [
+     "loin de",
+     "離"
+    ],
+    [
+     "Central",
+     "中環"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "loin",
+     "遠"
+    ]
+   ],
+   "note": "Aéroport se dit « gei1 coeng4 ». Littéralement, c'est le terrain des avions.",
+   "say": {
+    "gei1 coeng4": "機場"
+   }
+  },
+  {
+   "words": [
+    [
+     "falloir",
+     "要"
+    ],
+    [
+     "prendre",
+     "搭"
+    ],
+    [
+     "aéroport",
+     "機場"
+    ],
+    [
+     "rapide",
+     "快"
+    ],
+    [
+     "ligne",
+     "綫"
+    ]
+   ],
+   "note": "Ligne se dit « sin3 ». La ligne express, c'est simplement la ligne rapide.",
+   "say": {
+    "sin3": "綫"
+   }
+  },
+  {
+   "words": [
+    [
+     "trop",
+     "太"
+    ],
+    [
+     "loin",
+     "遠"
+    ],
+    [
+     "petit mot du changement",
+     "喇"
+    ],
+    [
+     "marcher",
+     "行"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "arriver",
+     "到"
+    ]
+   ],
+   "note": "Pour dire qu'on n'y arrive pas, on met ne pas entre le verbe et arriver. On dit « haang4 m4 dou3 ».",
+   "say": {
+    "haang4 m4 dou3": "行唔到"
+   }
+  },
+  {
+   "words": [
+    [
+     "Wan Chai",
+     "灣仔"
+    ],
+    [
+     "marché",
+     "街市"
+    ],
+    [
+     "quoi",
+     "乜"
+    ],
+    [
+     "tous",
+     "都"
+    ],
+    [
+     "avoir",
+     "有"
+    ],
+    [
+     "possibilité",
+     "得"
+    ],
+    [
+     "vendre",
+     "賣"
+    ]
+   ],
+   "note": "Pour dire de tout, on dit quoi suivi de tous. On dit « mat1 dou1 ».",
+   "say": {
+    "mat1 dou1": "乜都"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "聽日"
+    ],
+    [
+     "de nouveau",
+     "再"
+    ],
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "bien",
+     "好"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "bien",
+     "好"
+    ]
+   ],
+   "note": "De nouveau se dit « zoi3 ». Il se place juste avant le verbe.",
+   "say": {
+    "zoi3": "再"
+   }
+  }
+ ],
+ "0-1-18": [
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "avoir envie",
+     "想"
+    ],
+    [
+     "rendre",
+     "退"
+    ],
+    [
+     "chambre",
+     "房"
+    ]
+   ],
+   "note": "Libérer la chambre se dit rendre la chambre. On dit « teoi3 fong2 ».",
+   "say": {
+    "teoi3 fong2": "退房"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "呢"
+    ],
+    [
+     "petit mot de comptage",
+     "張"
+    ],
+    [
+     "être",
+     "係"
+    ],
+    [
+     "chambre",
+     "房"
+    ],
+    [
+     "carte",
+     "卡"
+    ]
+   ],
+   "note": "La carte se compte comme une chose plate, avec « zoeng1 ». Ce mot sert aussi pour les billets et les photos.",
+   "say": {
+    "zoeng1": "張"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "avoir",
+     "有"
+    ],
+    [
+     "ne pas avoir",
+     "冇"
+    ],
+    [
+     "boire",
+     "飲"
+    ],
+    [
+     "frigo",
+     "雪櫃"
+    ],
+    [
+     "les",
+     "啲"
+    ],
+    [
+     "chose",
+     "嘢"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Quelque chose se dit simplement chose. On dit « je5 ».",
+   "say": {
+    "je5": "嘢"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas avoir",
+     "冇"
+    ],
+    [
+     "quoi",
+     "乜"
+    ],
+    [
+     "tous",
+     "都"
+    ],
+    [
+     "ne pas avoir",
+     "冇"
+    ],
+    [
+     "boire",
+     "飲"
+    ]
+   ],
+   "note": "Pour nier une action passée, on met ne pas avoir devant le verbe. Je n'ai pas bu se dit « mou5 jam2 ».",
+   "say": {
+    "mou5 jam2": "冇飲"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "你"
+    ],
+    [
+     "loger",
+     "住"
+    ],
+    [
+     "petit mot de manière",
+     "得"
+    ],
+    [
+     "content",
+     "開"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "content",
+     "開心"
+    ],
+    [
+     "petit mot de question",
+     "呀"
+    ]
+   ],
+   "note": "Pour dire comment s'est passé quelque chose, on ajoute un petit mot après le verbe. Ce petit mot, c'est « dak1 ».",
+   "say": {
+    "dak1": "得"
+   }
+  },
+  {
+   "words": [
+    [
+     "content",
+     "開心"
+    ],
+    [
+     "petit mot de comptage",
+     "間"
+    ],
+    [
+     "chambre",
+     "房"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "confortable",
+     "舒服"
+    ]
+   ],
+   "note": "Confortable se dit « syu1 fuk6 ». On l'utilise aussi pour dire qu'on se sent bien.",
+   "say": {
+    "syu1 fuk6": "舒服"
+   }
+  },
+  {
+   "words": [
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "aéroport",
+     "機場"
+    ],
+    [
+     "petit mot de liaison",
+     "嘅"
+    ],
+    [
+     "navette",
+     "穿梭"
+    ],
+    [
+     "bus",
+     "巴士"
+    ],
+    [
+     "combien",
+     "幾"
+    ],
+    [
+     "heure",
+     "點"
+    ],
+    [
+     "partir",
+     "開"
+    ]
+   ],
+   "note": "Une navette se dit un bus qui fait la navette. On dit « cyun1 so1 baa1 si2 ».",
+   "say": {
+    "cyun1 so1 baa1 si2": "穿梭巴士"
+   }
+  },
+  {
+   "words": [
+    [
+     "chaque",
+     "每"
+    ],
+    [
+     "demi",
+     "半"
+    ],
+    [
+     "petit mot de comptage",
+     "個"
+    ],
+    [
+     "heure",
+     "鐘"
+    ],
+    [
+     "un",
+     "一"
+    ],
+    [
+     "petit mot de comptage",
+     "班"
+    ],
+    [
+     "à",
+     "喺"
+    ],
+    [
+     "hôtel",
+     "酒店"
+    ],
+    [
+     "entrée",
+     "門口"
+    ]
+   ],
+   "note": "Chaque se dit « mui5 ». Il se place devant la durée.",
+   "say": {
+    "mui5": "每"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "petit mot de comptage",
+     "個"
+    ],
+    [
+     "valise",
+     "篋"
+    ],
+    [
+     "pouvoir",
+     "可"
+    ],
+    [
+     "ne pas",
+     "唔"
+    ],
+    [
+     "pouvoir",
+     "可以"
+    ],
+    [
+     "poser",
+     "放"
+    ],
+    [
+     "jusqu'à",
+     "到"
+    ],
+    [
+     "dix",
+     "十"
+    ],
+    [
+     "deux",
+     "二"
+    ],
+    [
+     "heure",
+     "點"
+    ]
+   ],
+   "note": "Valise se dit « gip1 ». Jusqu'à se dit arriver, juste après le verbe.",
+   "say": {
+    "gip1": "篋"
+   }
+  },
+  {
+   "words": [
+    [
+     "au revoir",
+     "拜拜"
+    ],
+    [
+     "prochain",
+     "下"
+    ],
+    [
+     "fois",
+     "次"
+    ],
+    [
+     "voir",
+     "見"
+    ]
+   ],
+   "note": "Au revoir se dit souvent comme en anglais. On dit « baai1 baai3 ».",
+   "say": {
+    "baai1 baai3": "拜拜"
+   }
+  }
+ ],
+ "0-1-19": [
+  {
+   "words": [
+    [
+     "d'abord",
+     "先"
+    ],
+    [
+     "aller",
+     "去"
+    ],
+    [
+     "sommet",
+     "山頂"
+    ],
+    [
+     "ensuite",
+     "再"
+    ],
+    [
+     "s'asseoir",
+     "坐"
+    ],
+    [
+     "Star Ferry",
+     "天星小輪"
+    ]
+   ],
+   "note": "D'abord se dit « sin1 ». Ensuite, on enchaîne avec un autre petit mot, devant le deuxième verbe.",
+   "say": {
+    "sin1": "先"
+   }
+  },
+  {
+   "words": [
+    [
+     "maintenant",
+     "而家"
+    ],
+    [
+     "je",
+     "我"
+    ],
+    [
+     "savoir",
+     "識"
+    ],
+    [
+     "utiliser",
+     "用"
+    ],
+    [
+     "cantonais",
+     "廣東話"
+    ],
+    [
+     "demander",
+     "問"
+    ],
+    [
+     "chemin",
+     "路"
+    ]
+   ],
+   "note": "Demander son chemin se dit demander la route. On dit « man6 lou6 ».",
+   "say": {
+    "man6 lou6": "問路"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "aussi",
+     "都"
+    ],
+    [
+     "savoir",
+     "識"
+    ],
+    [
+     "demander",
+     "問"
+    ],
+    [
+     "prix",
+     "價錢"
+    ]
+   ],
+   "note": "Le prix se dit « gaa3 cin4 ». Littéralement, c'est prix et argent.",
+   "say": {
+    "gaa3 cin4": "價錢"
+   }
+  },
+  {
+   "words": [
+    [
+     "d'abord",
+     "先"
+    ],
+    [
+     "écouter",
+     "聽"
+    ],
+    [
+     "ensuite",
+     "再"
+    ],
+    [
+     "parler",
+     "講"
+    ]
+   ],
+   "note": "Ensuite se dit « zoi3 ». Il vient juste avant le deuxième verbe.",
+   "say": {
+    "zoi3": "再"
+   }
+  },
+  {
+   "words": [
+    [
+     "cantonais",
+     "廣東話"
+    ],
+    [
+     "avoir",
+     "有"
+    ],
+    [
+     "six",
+     "六"
+    ],
+    [
+     "petit mot de comptage",
+     "個"
+    ],
+    [
+     "ton",
+     "聲調"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "difficile",
+     "難"
+    ]
+   ],
+   "note": "Le ton se dit « sing1 diu6 ». On compte six tons principaux en cantonais.",
+   "say": {
+    "sing1 diu6": "聲調"
+   }
+  },
+  {
+   "words": [
+    [
+     "mais",
+     "不過"
+    ],
+    [
+     "je",
+     "我"
+    ],
+    [
+     "chaque",
+     "每"
+    ],
+    [
+     "jour",
+     "日"
+    ],
+    [
+     "tous",
+     "都"
+    ],
+    [
+     "progresser",
+     "進步"
+    ]
+   ],
+   "note": "Chaque jour se dit « mui5 jat6 ». On ajoute ensuite le petit mot qui veut dire tous.",
+   "say": {
+    "mui5 jat6": "每日"
+   }
+  },
+  {
+   "words": [
+    [
+     "maintenant",
+     "而家"
+    ],
+    [
+     "prendre",
+     "搭"
+    ],
+    [
+     "tram",
+     "電車"
+    ],
+    [
+     "très",
+     "好"
+    ],
+    [
+     "facile",
+     "容易"
+    ]
+   ],
+   "note": "Facile se dit « jung4 ji6 ». C'est le contraire de difficile.",
+   "say": {
+    "jung4 ji6": "容易"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "sûrement",
+     "一定"
+    ],
+    [
+     "petit mot du futur",
+     "會"
+    ],
+    [
+     "de nouveau",
+     "再"
+    ],
+    [
+     "venir",
+     "嚟"
+    ],
+    [
+     "Hong Kong",
+     "香港"
+    ]
+   ],
+   "note": "Sûrement se dit « jat1 ding6 ». Il se place avant le petit mot du futur.",
+   "say": {
+    "jat1 ding6": "一定"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "我"
+    ],
+    [
+     "d'abord",
+     "先"
+    ],
+    [
+     "se reposer",
+     "休息"
+    ],
+    [
+     "ensuite",
+     "再"
+    ],
+    [
+     "réviser",
+     "溫習"
+    ]
+   ],
+   "note": "Se reposer se dit « jau1 sik1 ». Réviser se dit littéralement réchauffer ce qu'on a appris.",
+   "say": {
+    "jau1 sik1": "休息"
+   }
+  },
+  {
+   "words": [
+    [
+     "bien",
+     "好"
+    ],
+    [
+     "chose",
+     "嘢"
+    ],
+    [
+     "voyage",
+     "旅行"
+    ],
+    [
+     "ce",
+     "呢"
+    ],
+    [
+     "leçon",
+     "課"
+    ],
+    [
+     "terminer",
+     "完成"
+    ],
+    [
+     "petit mot du changement",
+     "喇"
+    ]
+   ],
+   "note": "Pour se réjouir, on dit bonne chose. Bravo se dit « hou2 je5 ».",
+   "say": {
+    "hou2 je5": "好嘢"
+   }
+  }
+ ]
+}
