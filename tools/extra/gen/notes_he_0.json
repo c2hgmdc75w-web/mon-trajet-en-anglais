@@ -1,0 +1,4154 @@
+{
+ "0-0-0": [
+  {
+   "words": [
+    [
+     "béni",
+     "ברוך"
+    ],
+    [
+     "l'arrivant",
+     "הבא"
+    ],
+    [
+     "à Tel Aviv",
+     "לתל אביב"
+    ]
+   ],
+   "note": "Pour accueillir quelqu'un, on dit littéralement béni celui qui vient. Bienvenue se dit « barukh ha-ba ».",
+   "say": {
+    "barukh ha-ba": "ברוך הבא"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "étudiant",
+     "סטודנט"
+    ],
+    [
+     "à Tel Aviv",
+     "בתל אביב"
+    ]
+   ],
+   "note": "En hébreu, le verbe être disparaît au présent. On dit simplement moi étudiant. Je se dit « ani ».",
+   "say": {
+    "ani": "אני"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "français",
+     "צרפתי"
+    ]
+   ],
+   "note": "Pour dire sa nationalité, on place juste l'adjectif après je. Pas de verbe être au milieu. Français se dit « tsarfati ».",
+   "say": {
+    "tsarfati": "צרפתי"
+   }
+  },
+  {
+   "words": [
+    [
+     "David",
+     "דוד"
+    ],
+    [
+     "touriste",
+     "תייר"
+    ]
+   ],
+   "note": "Ici aussi, aucun verbe être entre le prénom et le mot touriste. On dit simplement David touriste. Touriste se dit « tayar ».",
+   "say": {
+    "tayar": "תייר"
+   }
+  },
+  {
+   "words": [
+    [
+     "l'hôtel",
+     "המלון"
+    ],
+    [
+     "près de",
+     "ליד"
+    ],
+    [
+     "la mer",
+     "הים"
+    ]
+   ],
+   "note": "Le petit son ha devant un nom veut dire le ou la. Il se colle au mot. La mer se dit « ha-yam ».",
+   "say": {
+    "ha-yam": "הים"
+   }
+  },
+  {
+   "words": [
+    [
+     "le passeport",
+     "הדרכון"
+    ],
+    [
+     "dans le sac",
+     "בתיק"
+    ]
+   ],
+   "note": "Dans se dit avec un petit son b collé au mot. Avec l'article, il devient ba. Dans le sac se dit « ba-tik ».",
+   "say": {
+    "ba-tik": "בתיק"
+   }
+  },
+  {
+   "words": [
+    [
+     "toi",
+     "אתה"
+    ],
+    [
+     "fatigué",
+     "עייף"
+    ],
+    [
+     "après",
+     "אחרי"
+    ],
+    [
+     "le vol",
+     "הטיסה"
+    ]
+   ],
+   "note": "Pour poser une question, on garde la phrase telle quelle. Seule la voix monte à la fin. Fatigué se dit « ayef ».",
+   "say": {
+    "ayef": "עייף"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "כן"
+    ],
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "très",
+     "מאוד"
+    ],
+    [
+     "fatigué",
+     "עייף"
+    ]
+   ],
+   "note": "Le mot très peut se placer avant ou après l'adjectif. Très se dit « me'od ».",
+   "say": {
+    "me'od": "מאוד"
+   }
+  },
+  {
+   "words": [
+    [
+     "le taxi",
+     "המונית"
+    ],
+    [
+     "ici",
+     "פה"
+    ]
+   ],
+   "note": "Pas de verbe être, donc on dit juste le taxi ici. Ici se dit « po ».",
+   "say": {
+    "po": "פה"
+   }
+  },
+  {
+   "words": [
+    [
+     "Tel Aviv",
+     "תל אביב"
+    ],
+    [
+     "belle",
+     "יפה"
+    ],
+    [
+     "très",
+     "מאוד"
+    ]
+   ],
+   "note": "Les villes sont féminines en hébreu. L'adjectif prend donc la forme féminine. Belle se dit « yafa ».",
+   "say": {
+    "yafa": "יפה"
+   }
+  }
+ ],
+ "0-0-1": [
+  {
+   "words": [
+    [
+     "matin",
+     "בוקר"
+    ],
+    [
+     "bon",
+     "טוב"
+    ],
+    [
+     "Yoni",
+     "יוני"
+    ]
+   ],
+   "note": "Le matin, on se salue en disant matin bon. L'adjectif se place après le nom. Bonjour se dit « boker tov ».",
+   "say": {
+    "boker tov": "בוקר טוב"
+   }
+  },
+  {
+   "words": [
+    [
+     "café",
+     "קפה"
+    ],
+    [
+     "un",
+     "אחד"
+    ],
+    [
+     "pour moi",
+     "בשבילי"
+    ],
+    [
+     "s'il te plaît",
+     "בבקשה"
+    ]
+   ],
+   "note": "Pour demander poliment, on ajoute un mot à la fin. Il veut dire à la fois s'il te plaît et s'il vous plaît. On dit « bevakasha ».",
+   "say": {
+    "bevakasha": "בבקשה"
+   }
+  },
+  {
+   "words": [
+    [
+     "avec",
+     "עם"
+    ],
+    [
+     "lait",
+     "חלב"
+    ]
+   ],
+   "note": "Avec se dit en un seul petit mot. On le place devant le nom, comme en français. Avec se dit « im ».",
+   "say": {
+    "im": "עם"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "כן"
+    ],
+    [
+     "avec",
+     "עם"
+    ],
+    [
+     "un peu",
+     "קצת"
+    ],
+    [
+     "lait",
+     "חלב"
+    ]
+   ],
+   "note": "Pour un peu de lait, pas besoin de petit mot de. On dit juste un peu lait. Un peu se dit « ktsat ».",
+   "say": {
+    "ktsat": "קצת"
+   }
+  },
+  {
+   "words": [
+    [
+     "le café",
+     "הקפה"
+    ],
+    [
+     "chaud",
+     "חם"
+    ]
+   ],
+   "note": "En hébreu, on appuie souvent sur la dernière syllabe. Écoute bien le café, qui se dit « ha-kafe ».",
+   "say": {
+    "ha-kafe": "הקפה"
+   }
+  },
+  {
+   "words": [
+    [
+     "le boulevard",
+     "השדרה"
+    ],
+    [
+     "joli",
+     "יפה"
+    ],
+    [
+     "très",
+     "מאוד"
+    ]
+   ],
+   "note": "Le boulevard est un mot féminin en hébreu. L'adjectif joli prend donc la forme féminine. Joli se dit ici « yafa ».",
+   "say": {
+    "yafa": "יפה"
+   }
+  },
+  {
+   "words": [
+    [
+     "les arbres",
+     "העצים"
+    ],
+    [
+     "grands",
+     "גדולים"
+    ]
+   ],
+   "note": "Au pluriel masculin, les mots finissent souvent par im. L'adjectif suit le nom et prend aussi im. Grands se dit « gdolim ».",
+   "say": {
+    "gdolim": "גדולים"
+   }
+  },
+  {
+   "words": [
+    [
+     "le gâteau",
+     "העוגה"
+    ],
+    [
+     "délicieux",
+     "טעימה"
+    ]
+   ],
+   "note": "Gâteau est féminin en hébreu. Délicieux prend donc un a final. On dit « te'ima ».",
+   "say": {
+    "te'ima": "טעימה"
+   }
+  },
+  {
+   "words": [
+    [
+     "merci",
+     "תודה"
+    ],
+    [
+     "ça",
+     "זה"
+    ],
+    [
+     "parfait",
+     "מושלם"
+    ]
+   ],
+   "note": "Pour dire c'est, on utilise un petit mot qui veut dire ça. Ensuite vient l'adjectif, sans verbe. Parfait se dit « mushlam ».",
+   "say": {
+    "mushlam": "מושלם"
+   }
+  },
+  {
+   "words": [
+    [
+     "jour",
+     "יום"
+    ],
+    [
+     "bon",
+     "טוב"
+    ],
+    [
+     "Dana",
+     "דנה"
+    ]
+   ],
+   "note": "Comme pour le matin, on souhaite un jour bon. L'adjectif vient après le nom. Bonne journée se dit « yom tov ».",
+   "say": {
+    "yom tov": "יום טוב"
+   }
+  }
+ ],
+ "0-0-2": [
+  {
+   "words": [
+    [
+     "la mer",
+     "הים"
+    ],
+    [
+     "bleue",
+     "כחול"
+    ]
+   ],
+   "note": "L'article le ou la se dit ha, collé au nom. Il ne change ni au masculin ni au féminin. La mer se dit « ha-yam ».",
+   "say": {
+    "ha-yam": "הים"
+   }
+  },
+  {
+   "words": [
+    [
+     "le soleil",
+     "השמש"
+    ],
+    [
+     "fort",
+     "חזקה"
+    ],
+    [
+     "aujourd'hui",
+     "היום"
+    ]
+   ],
+   "note": "Aujourd'hui se dit littéralement le jour. C'est encore l'article ha, collé au mot jour. Aujourd'hui se dit « ha-yom ».",
+   "say": {
+    "ha-yom": "היום"
+   }
+  },
+  {
+   "words": [
+    [
+     "quelle",
+     "איזה"
+    ],
+    [
+     "chaleur",
+     "חום"
+    ],
+    [
+     "aujourd'hui",
+     "היום"
+    ]
+   ],
+   "note": "Pour s'exclamer, on commence par un petit mot. Quelle se dit « eize ». Ensuite vient le nom, sans article.",
+   "say": {
+    "eize": "איזה"
+   }
+  },
+  {
+   "words": [
+    [
+     "le sable",
+     "החול"
+    ],
+    [
+     "brûlant",
+     "לוהט"
+    ]
+   ],
+   "note": "Le sable est masculin, donc brûlant reste au masculin. Brûlant se dit « lohet ».",
+   "say": {
+    "lohet": "לוהט"
+   }
+  },
+  {
+   "words": [
+    [
+     "les eaux",
+     "המים"
+    ],
+    [
+     "froides",
+     "קרים"
+    ]
+   ],
+   "note": "L'eau est toujours au pluriel en hébreu. On dit donc les eaux froides. Froides se dit « karim ».",
+   "say": {
+    "karim": "קרים"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "לא"
+    ],
+    [
+     "les eaux",
+     "המים"
+    ],
+    [
+     "agréables",
+     "נעימים"
+    ]
+   ],
+   "note": "Le même petit mot sert à dire non et ne pas. Non se dit « lo ».",
+   "say": {
+    "lo": "לא"
+   }
+  },
+  {
+   "words": [
+    [
+     "la serviette",
+     "המגבת"
+    ],
+    [
+     "sur",
+     "על"
+    ],
+    [
+     "le sable",
+     "החול"
+    ]
+   ],
+   "note": "Sur se place devant le nom, comme en français. Sur le sable se dit « al ha-khol ».",
+   "say": {
+    "al ha-khol": "על החול"
+   }
+  },
+  {
+   "words": [
+    [
+     "le parasol",
+     "השמשייה"
+    ],
+    [
+     "grand",
+     "גדולה"
+    ]
+   ],
+   "note": "Parasol vient du mot soleil en hébreu. C'est un mot féminin. Grand devient donc « gdola ».",
+   "say": {
+    "gdola": "גדולה"
+   }
+  },
+  {
+   "words": [
+    [
+     "les cieux",
+     "השמיים"
+    ],
+    [
+     "clairs",
+     "בהירים"
+    ]
+   ],
+   "note": "Le ciel est toujours au pluriel en hébreu, comme l'eau. L'adjectif prend donc la marque du pluriel. Clairs se dit « behirim ».",
+   "say": {
+    "behirim": "בהירים"
+   }
+  },
+  {
+   "words": [
+    [
+     "la plage",
+     "החוף"
+    ],
+    [
+     "pleine",
+     "מלא"
+    ],
+    [
+     "gens",
+     "אנשים"
+    ]
+   ],
+   "note": "Pour dire plein de monde, on dit plein gens. Il n'y a pas de petit mot de entre les deux. Gens se dit « anashim ».",
+   "say": {
+    "anashim": "אנשים"
+   }
+  }
+ ],
+ "0-0-3": [
+  {
+   "words": [
+    [
+     "le marché",
+     "השוק"
+    ],
+    [
+     "immense",
+     "ענק"
+    ]
+   ],
+   "note": "Le marché est masculin en hébreu. Immense se dit « anak ». C'est aussi le mot pour géant.",
+   "say": {
+    "anak": "ענק"
+   }
+  },
+  {
+   "words": [
+    [
+     "la boutique",
+     "החנות"
+    ],
+    [
+     "petite",
+     "קטנה"
+    ]
+   ],
+   "note": "La boutique est féminine, alors petit prend un a à la fin. Petite se dit « ktana ».",
+   "say": {
+    "ktana": "קטנה"
+   }
+  },
+  {
+   "words": [
+    [
+     "la tomate",
+     "העגבנייה"
+    ],
+    [
+     "rouge",
+     "אדומה"
+    ]
+   ],
+   "note": "Au féminin, l'adjectif finit souvent par a. Rouge au féminin se dit « aduma ».",
+   "say": {
+    "aduma": "אדומה"
+   }
+  },
+  {
+   "words": [
+    [
+     "le poivron",
+     "הפלפל"
+    ],
+    [
+     "rouge",
+     "אדום"
+    ]
+   ],
+   "note": "Le poivron est masculin, donc rouge garde sa forme de base. Rouge au masculin se dit « adom ».",
+   "say": {
+    "adom": "אדום"
+   }
+  },
+  {
+   "words": [
+    [
+     "la pastèque",
+     "האבטיח"
+    ],
+    [
+     "sucrée",
+     "מתוק"
+    ]
+   ],
+   "note": "Pastèque est masculin en hébreu, même si c'est féminin en français. Sucré reste donc au masculin. On dit « matok ».",
+   "say": {
+    "matok": "מתוק"
+   }
+  },
+  {
+   "words": [
+    [
+     "la figue",
+     "התאנה"
+    ],
+    [
+     "sucrée",
+     "מתוקה"
+    ]
+   ],
+   "note": "Figue est féminin en hébreu aussi. Sucrée se dit alors « metuka ».",
+   "say": {
+    "metuka": "מתוקה"
+   }
+  },
+  {
+   "words": [
+    [
+     "le vendeur",
+     "המוכר"
+    ],
+    [
+     "sympathique",
+     "נחמד"
+    ]
+   ],
+   "note": "Sympathique est un mot très courant pour parler des gens. Au masculin, on dit « nekhmad ».",
+   "say": {
+    "nekhmad": "נחמד"
+   }
+  },
+  {
+   "words": [
+    [
+     "la vendeuse",
+     "המוכרת"
+    ],
+    [
+     "sympathique",
+     "נחמדה"
+    ],
+    [
+     "très",
+     "מאוד"
+    ]
+   ],
+   "note": "Au féminin, beaucoup de noms de métier finissent par et. Vendeuse se dit « ha-mokheret ».",
+   "say": {
+    "ha-mokheret": "המוכרת"
+   }
+  },
+  {
+   "words": [
+    [
+     "les épices",
+     "התבלינים"
+    ],
+    [
+     "fraîches",
+     "טריים"
+    ]
+   ],
+   "note": "Épices est masculin pluriel en hébreu, avec la finale im. L'adjectif suit avec la même finale. Fraîches se dit « triyim ».",
+   "say": {
+    "triyim": "טריים"
+   }
+  },
+  {
+   "words": [
+    [
+     "les olives",
+     "הזיתים"
+    ],
+    [
+     "délicieuses",
+     "טעימים"
+    ]
+   ],
+   "note": "Olive est masculin en hébreu. Au pluriel, on ajoute im. Les olives se dit « ha-zeitim ».",
+   "say": {
+    "ha-zeitim": "הזיתים"
+   }
+  }
+ ],
+ "0-0-4": [
+  {
+   "words": [
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "le voisin",
+     "השכן"
+    ],
+    [
+     "le nouveau",
+     "החדש"
+    ]
+   ],
+   "note": "Nouveau suit le nom et prend lui aussi l'article. On dit le voisin le nouveau. Le nouveau se dit « he-khadash ».",
+   "say": {
+    "he-khadash": "החדש"
+   }
+  },
+  {
+   "words": [
+    [
+     "toi",
+     "אתה"
+    ],
+    [
+     "d'ici",
+     "מפה"
+    ]
+   ],
+   "note": "Le petit son mi collé devant un mot veut dire de. D'ici se dit « mi-po ».",
+   "say": {
+    "mi-po": "מפה"
+   }
+  },
+  {
+   "words": [
+    [
+     "et toi",
+     "ואת"
+    ],
+    [
+     "Noa",
+     "נועה"
+    ],
+    [
+     "toi",
+     "את"
+    ],
+    [
+     "d'ici",
+     "מפה"
+    ]
+   ],
+   "note": "Pour parler à une femme, tu se dit « at ». À un homme, on emploie un autre mot.",
+   "say": {
+    "at": "את"
+   }
+  },
+  {
+   "words": [
+    [
+     "lui",
+     "הוא"
+    ],
+    [
+     "musicien",
+     "מוזיקאי"
+    ]
+   ],
+   "note": "Il se dit en une syllabe, sans verbe être derrière. Il se dit « hu ».",
+   "say": {
+    "hu": "הוא"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "היא"
+    ],
+    [
+     "médecin",
+     "רופאה"
+    ]
+   ],
+   "note": "Elle se dit simplement « hi ». Ensuite, le métier suit directement.",
+   "say": {
+    "hi": "היא"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "היא"
+    ],
+    [
+     "à l'étage",
+     "בקומה"
+    ],
+    [
+     "troisième",
+     "השלישית"
+    ]
+   ],
+   "note": "Les nombres d'ordre suivent le nom avec l'article. On dit l'étage le troisième. Troisième se dit « ha-shlishit ».",
+   "say": {
+    "ha-shlishit": "השלישית"
+   }
+  },
+  {
+   "words": [
+    [
+     "toi",
+     "את"
+    ],
+    [
+     "étudiante",
+     "סטודנטית"
+    ],
+    [
+     "Maya",
+     "מאיה"
+    ]
+   ],
+   "note": "Pour une étudiante, on ajoute it à la fin du mot. Étudiante se dit « studentit ».",
+   "say": {
+    "studentit": "סטודנטית"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "לא"
+    ],
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "professeure",
+     "מורה"
+    ],
+    [
+     "de yoga",
+     "ליוגה"
+    ]
+   ],
+   "note": "Pour une femme qui enseigne, on dit « mora ». Le petit le devant yoga veut dire de ou pour.",
+   "say": {
+    "mora": "מורה"
+   }
+  },
+  {
+   "words": [
+    [
+     "lui",
+     "הוא"
+    ],
+    [
+     "de Haïfa",
+     "מחיפה"
+    ]
+   ],
+   "note": "Pour dire d'où l'on vient, on colle mi devant la ville. De Haïfa se dit « mi-Kheifa ».",
+   "say": {
+    "mi-Kheifa": "מחיפה"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "היא"
+    ],
+    [
+     "de Paris",
+     "מפריז"
+    ]
+   ],
+   "note": "Toujours sans verbe être, on dit elle de Paris. De Paris se dit « mi-Pariz ».",
+   "say": {
+    "mi-Pariz": "מפריז"
+   }
+  }
+ ],
+ "0-0-5": [
+  {
+   "words": [
+    [
+     "toi",
+     "אתה"
+    ],
+    [
+     "affamé",
+     "רעב"
+    ]
+   ],
+   "note": "Avoir faim se dit avec un adjectif, comme être affamé. Affamé se dit « ra'ev ».",
+   "say": {
+    "ra'ev": "רעב"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "כן"
+    ],
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "affamé",
+     "רעב"
+    ],
+    [
+     "très",
+     "מאוד"
+    ]
+   ],
+   "note": "Ici, très se place après l'adjectif. Les deux ordres existent en hébreu. Très se dit « me'od ».",
+   "say": {
+    "me'od": "מאוד"
+   }
+  },
+  {
+   "words": [
+    [
+     "le falafel",
+     "הפלאפל"
+    ],
+    [
+     "chaud",
+     "חם"
+    ]
+   ],
+   "note": "Une question peut garder l'ordre exact d'une phrase normale. Seule l'intonation monte à la fin. Chaud se dit « kham ».",
+   "say": {
+    "kham": "חם"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "האם"
+    ],
+    [
+     "la pita",
+     "הפיתה"
+    ],
+    [
+     "fraîche",
+     "טרייה"
+    ]
+   ],
+   "note": "On peut aussi commencer une question par un petit mot. Il joue le rôle de est-ce que. On dit « ha'im ».",
+   "say": {
+    "ha'im": "האם"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "האם"
+    ],
+    [
+     "ça",
+     "זה"
+    ],
+    [
+     "piquant",
+     "חריף"
+    ]
+   ],
+   "note": "Pour un plat épicé, on dit piquant. Piquant se dit « kharif ».",
+   "say": {
+    "kharif": "חריף"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "כן"
+    ],
+    [
+     "ça",
+     "זה"
+    ],
+    [
+     "un peu",
+     "קצת"
+    ],
+    [
+     "piquant",
+     "חריף"
+    ]
+   ],
+   "note": "C'est se dit avec le mot ça, sans verbe. Ça se dit « ze ».",
+   "say": {
+    "ze": "זה"
+   }
+  },
+  {
+   "words": [
+    [
+     "avec",
+     "עם"
+    ],
+    [
+     "tahina",
+     "טחינה"
+    ]
+   ],
+   "note": "Le mot tahina vient de l'hébreu et de l'arabe. Il se prononce avec un son kh au début. On dit « tkhina ».",
+   "say": {
+    "tkhina": "טחינה"
+   }
+  },
+  {
+   "words": [
+    [
+     "avec",
+     "עם"
+    ],
+    [
+     "frites",
+     "צ'יפס"
+    ]
+   ],
+   "note": "Les frites portent le même nom que les chips anglaises. Frites se dit « chips ».",
+   "say": {
+    "chips": "צ'יפס"
+   }
+  },
+  {
+   "words": [
+    [
+     "ça",
+     "זה"
+    ],
+    [
+     "tout",
+     "הכול"
+    ]
+   ],
+   "note": "C'est tout se dit littéralement ça le tout. Le tout se dit « ha-kol ».",
+   "say": {
+    "ha-kol": "הכול"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "האם"
+    ],
+    [
+     "le stand",
+     "הדוכן"
+    ],
+    [
+     "ouvert",
+     "פתוח"
+    ],
+    [
+     "ce soir",
+     "הערב"
+    ]
+   ],
+   "note": "Ce soir se dit littéralement le soir. Ce soir se dit « ha-erev ».",
+   "say": {
+    "ha-erev": "הערב"
+   }
+  }
+ ],
+ "0-0-6": [
+  {
+   "words": [
+    [
+     "le bus",
+     "האוטובוס"
+    ],
+    [
+     "pas",
+     "לא"
+    ],
+    [
+     "ici",
+     "פה"
+    ]
+   ],
+   "note": "Pour la négation, on place un petit mot avant ce qu'on nie. Ne pas se dit « lo ».",
+   "say": {
+    "lo": "לא"
+   }
+  },
+  {
+   "words": [
+    [
+     "le bus",
+     "האוטובוס"
+    ],
+    [
+     "pas",
+     "לא"
+    ],
+    [
+     "cher",
+     "יקר"
+    ]
+   ],
+   "note": "La négation se met juste avant l'adjectif. Cher se dit « yakar ».",
+   "say": {
+    "yakar": "יקר"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "pas",
+     "לא"
+    ],
+    [
+     "pressé",
+     "ממהר"
+    ]
+   ],
+   "note": "Pressé est en fait un verbe au présent, qui veut dire se dépêcher. Pressé se dit « memaher ».",
+   "say": {
+    "memaher": "ממהר"
+   }
+  },
+  {
+   "words": [
+    [
+     "le vélo",
+     "האופניים"
+    ],
+    [
+     "pas",
+     "לא"
+    ],
+    [
+     "lourd",
+     "כבדים"
+    ]
+   ],
+   "note": "Vélo est toujours au pluriel en hébreu, comme une paire de roues. Lourd prend donc le pluriel. On dit « kvedim ».",
+   "say": {
+    "kvedim": "כבדים"
+   }
+  },
+  {
+   "words": [
+    [
+     "chemin",
+     "שביל"
+    ],
+    [
+     "le vélo",
+     "האופניים"
+    ],
+    [
+     "large",
+     "רחב"
+    ]
+   ],
+   "note": "Pour dire la piste de vélo, on met deux noms côte à côte. Seul le second prend l'article. Chemin se dit « shvil ».",
+   "say": {
+    "shvil": "שביל"
+   }
+  },
+  {
+   "words": [
+    [
+     "la station",
+     "התחנה"
+    ],
+    [
+     "pas",
+     "לא"
+    ],
+    [
+     "loin",
+     "רחוקה"
+    ]
+   ],
+   "note": "Station est féminin, donc loin prend la finale a. Loin se dit « rekhoka ».",
+   "say": {
+    "rekhoka": "רחוקה"
+   }
+  },
+  {
+   "words": [
+    [
+     "pardon",
+     "סליחה"
+    ],
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "pas",
+     "לא"
+    ],
+    [
+     "d'ici",
+     "מפה"
+    ]
+   ],
+   "note": "Pour s'excuser ou interpeller quelqu'un, on dit pardon. Pardon se dit « slikha ».",
+   "say": {
+    "slikha": "סליחה"
+   }
+  },
+  {
+   "words": [
+    [
+     "le chauffeur",
+     "הנהג"
+    ],
+    [
+     "pas",
+     "לא"
+    ],
+    [
+     "content",
+     "מרוצה"
+    ]
+   ],
+   "note": "Content, au sens de satisfait, se dit « merutse ». On l'utilise beaucoup pour un client ou un service.",
+   "say": {
+    "merutse": "מרוצה"
+   }
+  },
+  {
+   "words": [
+    [
+     "pas",
+     "לא"
+    ],
+    [
+     "froid",
+     "קר"
+    ],
+    [
+     "aujourd'hui",
+     "היום"
+    ]
+   ],
+   "note": "Pour la météo, pas besoin de sujet comme il. On dit juste pas froid aujourd'hui. Froid se dit « kar ».",
+   "say": {
+    "kar": "קר"
+   }
+  },
+  {
+   "words": [
+    [
+     "le vélo",
+     "האופניים"
+    ],
+    [
+     "l'électrique",
+     "החשמליים"
+    ],
+    [
+     "rapide",
+     "מהירים"
+    ]
+   ],
+   "note": "Électrique suit le nom et prend l'article, comme lui. Comme vélo est pluriel, il prend aussi im. On dit « ha-khashmaliyim ».",
+   "say": {
+    "ha-khashmaliyim": "החשמליים"
+   }
+  }
+ ],
+ "0-0-7": [
+  {
+   "words": [
+    [
+     "c'est",
+     "זאת"
+    ],
+    [
+     "l'appartement",
+     "הדירה"
+    ],
+    [
+     "de moi",
+     "שלי"
+    ]
+   ],
+   "note": "Pour le possessif, on dit l'appartement de moi. De moi se dit « sheli ».",
+   "say": {
+    "sheli": "שלי"
+   }
+  },
+  {
+   "words": [
+    [
+     "la cuisine",
+     "המטבח"
+    ],
+    [
+     "petite",
+     "קטן"
+    ]
+   ],
+   "note": "Cuisine est masculin en hébreu. Petit reste donc au masculin. On dit « katan ».",
+   "say": {
+    "katan": "קטן"
+   }
+  },
+  {
+   "words": [
+    [
+     "le balcon",
+     "המרפסת"
+    ],
+    [
+     "de",
+     "של"
+    ],
+    [
+     "Dana",
+     "דנה"
+    ],
+    [
+     "grand",
+     "גדולה"
+    ]
+   ],
+   "note": "Pour dire le balcon de Dana, on place un petit mot entre les deux. De se dit « shel ».",
+   "say": {
+    "shel": "של"
+   }
+  },
+  {
+   "words": [
+    [
+     "la chambre",
+     "החדר"
+    ],
+    [
+     "de toi",
+     "שלך"
+    ],
+    [
+     "jolie",
+     "יפה"
+    ]
+   ],
+   "note": "À un homme, ta chambre se dit la chambre de toi. De toi se dit « shelkha ».",
+   "say": {
+    "shelkha": "שלך"
+   }
+  },
+  {
+   "words": [
+    [
+     "où",
+     "איפה"
+    ],
+    [
+     "la clé",
+     "המפתח"
+    ],
+    [
+     "de moi",
+     "שלי"
+    ]
+   ],
+   "note": "Où se dit avec un mot de deux syllabes, placé en tête. Où se dit « eifo ».",
+   "say": {
+    "eifo": "איפה"
+   }
+  },
+  {
+   "words": [
+    [
+     "la clé",
+     "המפתח"
+    ],
+    [
+     "sur",
+     "על"
+    ],
+    [
+     "la table",
+     "השולחן"
+    ]
+   ],
+   "note": "Sur se place devant le nom, comme en français. Sur la table se dit « al ha-shulkhan ».",
+   "say": {
+    "al ha-shulkhan": "על השולחן"
+   }
+  },
+  {
+   "words": [
+    [
+     "propriétaire",
+     "בעל"
+    ],
+    [
+     "l'appartement",
+     "הדירה"
+    ],
+    [
+     "sympathique",
+     "נחמד"
+    ]
+   ],
+   "note": "Le propriétaire se dit le maître de l'appartement. Maître se dit « ba'al ».",
+   "say": {
+    "ba'al": "בעל"
+   }
+  },
+  {
+   "words": [
+    [
+     "l'appartement",
+     "הדירה"
+    ],
+    [
+     "de lui",
+     "שלו"
+    ],
+    [
+     "près de",
+     "ליד"
+    ],
+    [
+     "la mer",
+     "הים"
+    ]
+   ],
+   "note": "Son, pour un homme, se dit de lui. De lui se dit « shelo ».",
+   "say": {
+    "shelo": "שלו"
+   }
+  },
+  {
+   "words": [
+    [
+     "le canapé",
+     "הספה"
+    ],
+    [
+     "de",
+     "של"
+    ],
+    [
+     "Yoni",
+     "יוני"
+    ],
+    [
+     "confortable",
+     "נוחה"
+    ]
+   ],
+   "note": "Canapé est féminin en hébreu. Confortable prend donc la forme féminine. On dit « nokha ».",
+   "say": {
+    "nokha": "נוחה"
+   }
+  },
+  {
+   "words": [
+    [
+     "loyer",
+     "שכר"
+    ],
+    [
+     "l'appartement",
+     "הדירה"
+    ],
+    [
+     "cher",
+     "יקר"
+    ]
+   ],
+   "note": "Le loyer se dit littéralement la paie de l'appartement. Paie se dit « skhar ».",
+   "say": {
+    "skhar": "שכר"
+   }
+  }
+ ],
+ "0-0-8": [
+  {
+   "words": [
+    [
+     "c'est",
+     "זה"
+    ],
+    [
+     "houmous",
+     "חומוס"
+    ],
+    [
+     "frais",
+     "טרי"
+    ]
+   ],
+   "note": "Devant un mot masculin, c'est se dit « ze ». Pas besoin d'article du ou de la.",
+   "say": {
+    "ze": "זה"
+   }
+  },
+  {
+   "words": [
+    [
+     "et ça",
+     "וזה"
+    ],
+    [
+     "quoi",
+     "מה"
+    ],
+    [
+     "ça",
+     "זה"
+    ]
+   ],
+   "note": "Qu'est-ce que c'est se dit simplement quoi ça. Quoi se dit « ma ».",
+   "say": {
+    "ma": "מה"
+   }
+  },
+  {
+   "words": [
+    [
+     "c'est",
+     "זאת"
+    ],
+    [
+     "tahina",
+     "טחינה"
+    ]
+   ],
+   "note": "Devant un mot féminin, c'est se dit « zot ». Tahina est en effet féminin.",
+   "say": {
+    "zot": "זאת"
+   }
+  },
+  {
+   "words": [
+    [
+     "l'assiette",
+     "הצלחת"
+    ],
+    [
+     "celle-ci",
+     "הזאת"
+    ],
+    [
+     "énorme",
+     "ענקית"
+    ]
+   ],
+   "note": "Pour dire cette assiette, on dit l'assiette celle-ci. Celle-ci se dit « ha-zot ».",
+   "say": {
+    "ha-zot": "הזאת"
+   }
+  },
+  {
+   "words": [
+    [
+     "le restaurant",
+     "המסעדה"
+    ],
+    [
+     "celui-ci",
+     "הזאת"
+    ],
+    [
+     "célèbre",
+     "מפורסמת"
+    ]
+   ],
+   "note": "Restaurant est féminin en hébreu. Célèbre prend donc la forme féminine. On dit « mefursemet ».",
+   "say": {
+    "mefursemet": "מפורסמת"
+   }
+  },
+  {
+   "words": [
+    [
+     "le houmous",
+     "החומוס"
+    ],
+    [
+     "celui-ci",
+     "הזה"
+    ],
+    [
+     "délicieux",
+     "טעים"
+    ]
+   ],
+   "note": "Pour un nom masculin, on dit le houmous celui-ci. Celui-ci se dit « ha-ze ».",
+   "say": {
+    "ha-ze": "הזה"
+   }
+  },
+  {
+   "words": [
+    [
+     "c'est",
+     "זה"
+    ],
+    [
+     "pour toi",
+     "בשבילך"
+    ]
+   ],
+   "note": "Pour toi se dit en un seul mot. À un homme, on dit « bishvilkha ».",
+   "say": {
+    "bishvilkha": "בשבילך"
+   }
+  },
+  {
+   "words": [
+    [
+     "c'est",
+     "זה"
+    ],
+    [
+     "oignon",
+     "בצל"
+    ]
+   ],
+   "note": "Il n'y a pas d'article un en hébreu. On dit juste ça oignon. Oignon se dit « batsal ».",
+   "say": {
+    "batsal": "בצל"
+   }
+  },
+  {
+   "words": [
+    [
+     "la table",
+     "השולחן"
+    ],
+    [
+     "celle-ci",
+     "הזה"
+    ],
+    [
+     "libre",
+     "פנוי"
+    ]
+   ],
+   "note": "Pour une table ou une place, libre se dit « panui ». On l'entend souvent au café.",
+   "say": {
+    "panui": "פנוי"
+   }
+  },
+  {
+   "words": [
+    [
+     "la sauce",
+     "הרוטב"
+    ],
+    [
+     "celle-ci",
+     "הזה"
+    ],
+    [
+     "piquante",
+     "חריף"
+    ]
+   ],
+   "note": "Sauce est masculin en hébreu. Piquant reste donc au masculin. On dit « kharif ».",
+   "say": {
+    "kharif": "חריף"
+   }
+  }
+ ],
+ "0-0-9": [
+  {
+   "words": [
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "boire",
+     "שותה"
+    ],
+    [
+     "café",
+     "קפה"
+    ],
+    [
+     "le matin",
+     "בבוקר"
+    ]
+   ],
+   "note": "Au présent, le verbe change selon le genre et le nombre. Pour un homme, boire se dit « shote ».",
+   "say": {
+    "shote": "שותה"
+   }
+  },
+  {
+   "words": [
+    [
+     "Dana",
+     "דנה"
+    ],
+    [
+     "boire",
+     "שותה"
+    ],
+    [
+     "thé",
+     "תה"
+    ]
+   ],
+   "note": "Pour une femme, le verbe prend un a à la fin. Elle boit se dit « shota ».",
+   "say": {
+    "shota": "שותה"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "אנחנו"
+    ],
+    [
+     "manger",
+     "אוכלים"
+    ],
+    [
+     "dans la maison",
+     "בבית"
+    ]
+   ],
+   "note": "Au pluriel masculin, le verbe finit par im. Nous mangeons se dit « okhlim ».",
+   "say": {
+    "okhlim": "אוכלים"
+   }
+  },
+  {
+   "words": [
+    [
+     "les filles",
+     "הבנות"
+    ],
+    [
+     "courir",
+     "רצות"
+    ],
+    [
+     "sur la plage",
+     "בחוף"
+    ]
+   ],
+   "note": "Au pluriel féminin, le verbe finit par ot. Elles courent se dit « ratsot ».",
+   "say": {
+    "ratsot": "רצות"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "courir",
+     "רץ"
+    ],
+    [
+     "sur la promenade",
+     "בטיילת"
+    ]
+   ],
+   "note": "Pour un homme, courir au présent se dit « rats ». C'est très court, une seule syllabe.",
+   "say": {
+    "rats": "רץ"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "היא"
+    ],
+    [
+     "courir",
+     "רצה"
+    ],
+    [
+     "avec",
+     "עם"
+    ],
+    [
+     "le chien",
+     "הכלב"
+    ]
+   ],
+   "note": "Au féminin, courir devient « ratsa ». Le pronom elle reste devant le verbe.",
+   "say": {
+    "ratsa": "רצה"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "travailler",
+     "עובד"
+    ],
+    [
+     "de la maison",
+     "מהבית"
+    ]
+   ],
+   "note": "Pour un homme, je travaille se dit « oved ». Au présent, le pronom je reste obligatoire.",
+   "say": {
+    "oved": "עובד"
+   }
+  },
+  {
+   "words": [
+    [
+     "Maya",
+     "מאיה"
+    ],
+    [
+     "travailler",
+     "עובדת"
+    ],
+    [
+     "à Jaffa",
+     "ביפו"
+    ]
+   ],
+   "note": "Au féminin, travailler prend la finale et. Elle travaille se dit « ovedet ».",
+   "say": {
+    "ovedet": "עובדת"
+   }
+  },
+  {
+   "words": [
+    [
+     "les enfants",
+     "הילדים"
+    ],
+    [
+     "encore",
+     "עדיין"
+    ],
+    [
+     "dormir",
+     "ישנים"
+    ]
+   ],
+   "note": "Encore se place avant le verbe. Encore se dit « adayin ».",
+   "say": {
+    "adayin": "עדיין"
+   }
+  },
+  {
+   "words": [
+    [
+     "les voisines",
+     "השכנות"
+    ],
+    [
+     "écouter",
+     "שומעות"
+    ],
+    [
+     "musique",
+     "מוזיקה"
+    ]
+   ],
+   "note": "Écouter de la musique se dit avec le verbe entendre. Au féminin pluriel, il se dit « shom'ot ».",
+   "say": {
+    "shom'ot": "שומעות"
+   }
+  }
+ ],
+ "0-0-10": [
+  {
+   "words": [
+    [
+     "compter",
+     "סופרים"
+    ],
+    [
+     "un",
+     "אחת"
+    ],
+    [
+     "deux",
+     "שתיים"
+    ],
+    [
+     "trois",
+     "שלוש"
+    ]
+   ],
+   "note": "Pour compter à voix haute, on utilise la forme féminine des nombres. Un se dit « akhat ».",
+   "say": {
+    "akhat": "אחת"
+   }
+  },
+  {
+   "words": [
+    [
+     "pita",
+     "פיתה"
+    ],
+    [
+     "une",
+     "אחת"
+    ],
+    [
+     "s'il te plaît",
+     "בבקשה"
+    ]
+   ],
+   "note": "Le nombre un se place après le nom, comme un adjectif. Une pita se dit « pita akhat ».",
+   "say": {
+    "pita akhat": "פיתה אחת"
+   }
+  },
+  {
+   "words": [
+    [
+     "trois",
+     "שלוש"
+    ],
+    [
+     "tomates",
+     "עגבניות"
+    ],
+    [
+     "s'il te plaît",
+     "בבקשה"
+    ]
+   ],
+   "note": "Les autres nombres se placent avant le nom. Tomates est féminin pluriel, avec la finale ot. Trois se dit « shalosh ».",
+   "say": {
+    "shalosh": "שלוש"
+   }
+  },
+  {
+   "words": [
+    [
+     "ça",
+     "זה"
+    ],
+    [
+     "coûter",
+     "עולה"
+    ],
+    [
+     "cinq",
+     "חמישה"
+    ],
+    [
+     "shekels",
+     "שקלים"
+    ]
+   ],
+   "note": "Coûter se dit avec le verbe monter. Ça coûte se dit « ze ole ».",
+   "say": {
+    "ze ole": "זה עולה"
+   }
+  },
+  {
+   "words": [
+    [
+     "deux",
+     "שני"
+    ],
+    [
+     "citrons",
+     "לימונים"
+    ],
+    [
+     "ça",
+     "זה"
+    ],
+    [
+     "tout",
+     "הכול"
+    ]
+   ],
+   "note": "Devant un nom masculin, deux se dit « shnei ». Citrons est masculin.",
+   "say": {
+    "shnei": "שני"
+   }
+  },
+  {
+   "words": [
+    [
+     "quatre",
+     "ארבע"
+    ],
+    [
+     "pitas",
+     "פיתות"
+    ],
+    [
+     "à dix",
+     "בעשרה"
+    ],
+    [
+     "shekels",
+     "שקלים"
+    ]
+   ],
+   "note": "Pour un prix, on dit à dix shekels avec le petit mot be. À dix se dit « be-asara ».",
+   "say": {
+    "be-asara": "בעשרה"
+   }
+  },
+  {
+   "words": [
+    [
+     "la pastèque",
+     "האבטיח"
+    ],
+    [
+     "coûter",
+     "עולה"
+    ],
+    [
+     "huit",
+     "שמונה"
+    ],
+    [
+     "shekels",
+     "שקלים"
+    ]
+   ],
+   "note": "Shekel est un mot masculin. Huit se dit alors « shmona ».",
+   "say": {
+    "shmona": "שמונה"
+   }
+  },
+  {
+   "words": [
+    [
+     "six",
+     "שש"
+    ],
+    [
+     "œufs",
+     "ביצים"
+    ],
+    [
+     "s'il te plaît",
+     "בבקשה"
+    ]
+   ],
+   "note": "Œufs est féminin en hébreu, malgré la finale im. Six se dit alors « shesh ».",
+   "say": {
+    "shesh": "שש"
+   }
+  },
+  {
+   "words": [
+    [
+     "neuf",
+     "תשעה"
+    ],
+    [
+     "shekels",
+     "שקלים"
+    ],
+    [
+     "au total",
+     "בסך"
+    ],
+    [
+     "tout",
+     "הכול"
+    ]
+   ],
+   "note": "En tout se dit « be-sakh ha-kol ». C'est une formule figée à retenir telle quelle.",
+   "say": {
+    "be-sakh ha-kol": "בסך הכול"
+   }
+  },
+  {
+   "words": [
+    [
+     "voici",
+     "הנה"
+    ],
+    [
+     "dix",
+     "עשרה"
+    ],
+    [
+     "shekels",
+     "שקלים"
+    ]
+   ],
+   "note": "Pour tendre quelque chose, on dit voici. Voici se dit « hine ».",
+   "say": {
+    "hine": "הנה"
+   }
+  }
+ ],
+ "0-0-11": [
+  {
+   "words": [
+    [
+     "il y a",
+     "יש"
+    ],
+    [
+     "maison",
+     "בית"
+    ],
+    [
+     "café",
+     "קפה"
+    ],
+    [
+     "près de",
+     "ליד"
+    ],
+    [
+     "l'appartement",
+     "הדירה"
+    ]
+   ],
+   "note": "Il y a se dit en un seul mot. Il y a se dit « yesh ». Le lieu café se dit maison de café.",
+   "say": {
+    "yesh": "יש"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "יש"
+    ],
+    [
+     "ici",
+     "פה"
+    ],
+    [
+     "épicerie",
+     "מכולת"
+    ]
+   ],
+   "note": "Une épicerie de quartier, c'est la petite boutique du coin. On dit « makolet ».",
+   "say": {
+    "makolet": "מכולת"
+   }
+  },
+  {
+   "words": [
+    [
+     "il n'y a pas",
+     "אין"
+    ],
+    [
+     "parking",
+     "חניה"
+    ],
+    [
+     "dans la rue",
+     "ברחוב"
+    ]
+   ],
+   "note": "Il n'y a pas se dit aussi en un seul mot. Il n'y a pas se dit « ein ».",
+   "say": {
+    "ein": "אין"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "יש"
+    ],
+    [
+     "beaucoup",
+     "הרבה"
+    ],
+    [
+     "vélos",
+     "אופניים"
+    ]
+   ],
+   "note": "Beaucoup se place avant le nom, sans petit mot de. Beaucoup se dit « harbe ».",
+   "say": {
+    "harbe": "הרבה"
+   }
+  },
+  {
+   "words": [
+    [
+     "il n'y a pas",
+     "אין"
+    ],
+    [
+     "bruit",
+     "רעש"
+    ],
+    [
+     "le soir",
+     "בערב"
+    ]
+   ],
+   "note": "Le soir se dit dans le soir. Le soir se dit « ba-erev ».",
+   "say": {
+    "ba-erev": "בערב"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "יש"
+    ],
+    [
+     "jardin",
+     "גינה"
+    ],
+    [
+     "proche",
+     "קרובה"
+    ]
+   ],
+   "note": "Jardin est féminin en hébreu. Proche prend donc la forme féminine. On dit « krova ».",
+   "say": {
+    "krova": "קרובה"
+   }
+  },
+  {
+   "words": [
+    [
+     "il n'y a pas",
+     "אין"
+    ],
+    [
+     "ascenseur",
+     "מעלית"
+    ],
+    [
+     "dans l'immeuble",
+     "בבניין"
+    ]
+   ],
+   "note": "Ascenseur vient du verbe monter en hébreu. Ascenseur se dit « ma'alit ».",
+   "say": {
+    "ma'alit": "מעלית"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "יש"
+    ],
+    [
+     "vent",
+     "רוח"
+    ],
+    [
+     "aujourd'hui",
+     "היום"
+    ]
+   ],
+   "note": "Pour la météo, on utilise aussi il y a. Vent se dit « ru'akh ».",
+   "say": {
+    "ru'akh": "רוח"
+   }
+  },
+  {
+   "words": [
+    [
+     "il n'y a pas",
+     "אין"
+    ],
+    [
+     "nuages",
+     "עננים"
+    ],
+    [
+     "ce matin",
+     "הבוקר"
+    ]
+   ],
+   "note": "Ce matin se dit littéralement le matin. Ce matin se dit « ha-boker ».",
+   "say": {
+    "ha-boker": "הבוקר"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "יש"
+    ],
+    [
+     "boulangerie",
+     "מאפייה"
+    ],
+    [
+     "dans le quartier",
+     "בשכונה"
+    ]
+   ],
+   "note": "Il y a sert aussi pour une question, avec la voix qui monte. Boulangerie se dit « ma'afiya ».",
+   "say": {
+    "ma'afiya": "מאפייה"
+   }
+  }
+ ],
+ "0-0-12": [
+  {
+   "words": [
+    [
+     "il y a",
+     "יש"
+    ],
+    [
+     "à moi",
+     "לי"
+    ],
+    [
+     "téléphone",
+     "טלפון"
+    ],
+    [
+     "nouveau",
+     "חדש"
+    ]
+   ],
+   "note": "Il n'y a pas de verbe avoir en hébreu. On dit il y a à moi. J'ai se dit « yesh li ».",
+   "say": {
+    "yesh li": "יש לי"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "יש"
+    ],
+    [
+     "à toi",
+     "לך"
+    ],
+    [
+     "chargeur",
+     "מטען"
+    ],
+    [
+     "pour moi",
+     "בשבילי"
+    ]
+   ],
+   "note": "Pour un homme, tu as se dit il y a à toi. Tu as se dit « yesh lekha ».",
+   "say": {
+    "yesh lekha": "יש לך"
+   }
+  },
+  {
+   "words": [
+    [
+     "il n'y a pas",
+     "אין"
+    ],
+    [
+     "à moi",
+     "לי"
+    ],
+    [
+     "batterie",
+     "בטרייה"
+    ]
+   ],
+   "note": "Je n'ai pas se dit il n'y a pas à moi. Je n'ai pas se dit « ein li ».",
+   "say": {
+    "ein li": "אין לי"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "יש"
+    ],
+    [
+     "à toi",
+     "לך"
+    ],
+    [
+     "petit mot du complément",
+     "את"
+    ],
+    [
+     "le numéro",
+     "המספר"
+    ],
+    [
+     "de",
+     "של"
+    ],
+    [
+     "Dana",
+     "דנה"
+    ]
+   ],
+   "note": "Devant un objet précis, avec l'article, on ajoute un petit mot. Il marque simplement le complément. On dit « et ».",
+   "say": {
+    "et": "את"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "כן"
+    ],
+    [
+     "il y a",
+     "יש"
+    ],
+    [
+     "à moi",
+     "לי"
+    ],
+    [
+     "petit mot du complément",
+     "את"
+    ],
+    [
+     "le numéro",
+     "המספר"
+    ],
+    [
+     "de elle",
+     "שלה"
+    ]
+   ],
+   "note": "Son, pour une femme, se dit de elle. De elle se dit « shela ».",
+   "say": {
+    "shela": "שלה"
+   }
+  },
+  {
+   "words": [
+    [
+     "il n'y a pas",
+     "אין"
+    ],
+    [
+     "à moi",
+     "לי"
+    ],
+    [
+     "réseau",
+     "קליטה"
+    ],
+    [
+     "ici",
+     "פה"
+    ]
+   ],
+   "note": "Le réseau du téléphone se dit littéralement la réception. Réseau se dit « klita ».",
+   "say": {
+    "klita": "קליטה"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "יש"
+    ],
+    [
+     "à elle",
+     "לה"
+    ],
+    [
+     "message",
+     "הודעה"
+    ],
+    [
+     "pour toi",
+     "בשבילך"
+    ]
+   ],
+   "note": "Elle a se dit il y a à elle. Elle a se dit « yesh la ».",
+   "say": {
+    "yesh la": "יש לה"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "יש"
+    ],
+    [
+     "à toi",
+     "לך"
+    ],
+    [
+     "temps",
+     "זמן"
+    ],
+    [
+     "ce soir",
+     "הערב"
+    ]
+   ],
+   "note": "Temps, au sens de durée, se dit « zman ». On dit il y a à toi temps.",
+   "say": {
+    "zman": "זמן"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "לא"
+    ],
+    [
+     "ce soir",
+     "הערב"
+    ],
+    [
+     "il n'y a pas",
+     "אין"
+    ],
+    [
+     "à moi",
+     "לי"
+    ],
+    [
+     "temps",
+     "זמן"
+    ]
+   ],
+   "note": "Ici, ce soir se met en tête de phrase. Ensuite vient la négation. Il n'y a pas se dit « ein ».",
+   "say": {
+    "ein": "אין"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "יש"
+    ],
+    [
+     "à lui",
+     "לו"
+    ],
+    [
+     "application",
+     "אפליקציה"
+    ],
+    [
+     "pour le bus",
+     "לאוטובוס"
+    ]
+   ],
+   "note": "Il a se dit il y a à lui. Il a se dit « yesh lo ».",
+   "say": {
+    "yesh lo": "יש לו"
+   }
+  }
+ ],
+ "0-0-13": [
+  {
+   "words": [
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "aller",
+     "הולך"
+    ],
+    [
+     "vers la promenade",
+     "לטיילת"
+    ]
+   ],
+   "note": "Le petit son le collé devant un lieu veut dire vers. Avec l'article, il devient la. Vers la promenade se dit « la-tayelet ».",
+   "say": {
+    "la-tayelet": "לטיילת"
+   }
+  },
+  {
+   "words": [
+    [
+     "de Tel Aviv",
+     "מתל אביב"
+    ],
+    [
+     "à Jaffa",
+     "ליפו"
+    ],
+    [
+     "à pied",
+     "ברגל"
+    ]
+   ],
+   "note": "À pied se dit littéralement dans le pied. À pied se dit « ba-regel ».",
+   "say": {
+    "ba-regel": "ברגל"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "de Marseille",
+     "ממרסיי"
+    ]
+   ],
+   "note": "Mi collé devant une ville veut dire de. De Marseille se dit « mi-Marsei ».",
+   "say": {
+    "mi-Marsei": "ממרסיי"
+   }
+  },
+  {
+   "words": [
+    [
+     "le kiosque",
+     "הקיוסק"
+    ],
+    [
+     "sur la plage",
+     "בחוף"
+    ]
+   ],
+   "note": "Be veut dire dans ou sur. Avec l'article, il devient ba. Sur la plage se dit « ba-khof ».",
+   "say": {
+    "ba-khof": "בחוף"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "aller",
+     "נוסע"
+    ],
+    [
+     "à Jaffa",
+     "ליפו"
+    ],
+    [
+     "à vélo",
+     "באופניים"
+    ]
+   ],
+   "note": "Pour aller en véhicule, on utilise un autre verbe que pour marcher. Aller en véhicule se dit « nose'a ».",
+   "say": {
+    "nose'a": "נוסע"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "היא"
+    ],
+    [
+     "rentrer",
+     "חוזרת"
+    ],
+    [
+     "du travail",
+     "מהעבודה"
+    ]
+   ],
+   "note": "Mi suivi de l'article devient me-ha. Du travail se dit « me-ha-avoda ».",
+   "say": {
+    "me-ha-avoda": "מהעבודה"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "יש"
+    ],
+    [
+     "banc",
+     "ספסל"
+    ],
+    [
+     "à l'ombre",
+     "בצל"
+    ]
+   ],
+   "note": "Ombre se dit en une seule syllabe. À l'ombre se dit « ba-tsel ».",
+   "say": {
+    "ba-tsel": "בצל"
+   }
+  },
+  {
+   "words": [
+    [
+     "les enfants",
+     "הילדים"
+    ],
+    [
+     "aller",
+     "הולכים"
+    ],
+    [
+     "vers la mer",
+     "לים"
+    ]
+   ],
+   "note": "Aller à pied se dit avec le verbe marcher. Au pluriel, on dit « holkhim ».",
+   "say": {
+    "holkhim": "הולכים"
+   }
+  },
+  {
+   "words": [
+    [
+     "le vent",
+     "הרוח"
+    ],
+    [
+     "venir",
+     "באה"
+    ],
+    [
+     "de la mer",
+     "מהים"
+    ]
+   ],
+   "note": "Le vent est féminin en hébreu. Venir prend donc la forme féminine. On dit « ba'a ».",
+   "say": {
+    "ba'a": "באה"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "אנחנו"
+    ],
+    [
+     "boire",
+     "שותים"
+    ],
+    [
+     "jus",
+     "מיץ"
+    ],
+    [
+     "au kiosque",
+     "בקיוסק"
+    ]
+   ],
+   "note": "Avec nous, le verbe prend la finale du pluriel. Nous buvons se dit « shotim ».",
+   "say": {
+    "shotim": "שותים"
+   }
+  }
+ ],
+ "0-0-14": [
+  {
+   "words": [
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "chercher",
+     "מחפש"
+    ],
+    [
+     "chemise",
+     "חולצה"
+    ],
+    [
+     "blanche",
+     "לבנה"
+    ]
+   ],
+   "note": "L'adjectif se place toujours après le nom. Il s'accorde au féminin, comme chemise. Blanche se dit « levana ».",
+   "say": {
+    "levana": "לבנה"
+   }
+  },
+  {
+   "words": [
+    [
+     "le pantalon",
+     "המכנסיים"
+    ],
+    [
+     "le noir",
+     "השחורים"
+    ],
+    [
+     "cher",
+     "יקרים"
+    ]
+   ],
+   "note": "Pantalon est toujours pluriel en hébreu. L'adjectif noir prend l'article et le pluriel. Noir se dit « ha-shkhorim ».",
+   "say": {
+    "ha-shkhorim": "השחורים"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "aimer",
+     "אוהב"
+    ],
+    [
+     "petit mot du complément",
+     "את"
+    ],
+    [
+     "la robe",
+     "השמלה"
+    ],
+    [
+     "la rouge",
+     "האדומה"
+    ]
+   ],
+   "note": "Avec l'article devant le nom, l'adjectif prend aussi l'article. On dit la robe la rouge. La rouge se dit « ha-aduma ».",
+   "say": {
+    "ha-aduma": "האדומה"
+   }
+  },
+  {
+   "words": [
+    [
+     "chapeau",
+     "כובע"
+    ],
+    [
+     "grand",
+     "גדול"
+    ],
+    [
+     "pour la plage",
+     "לחוף"
+    ]
+   ],
+   "note": "Sans article, l'adjectif suit simplement le nom. Un grand chapeau se dit « kova gadol ».",
+   "say": {
+    "kova gadol": "כובע גדול"
+   }
+  },
+  {
+   "words": [
+    [
+     "sandales",
+     "סנדלים"
+    ],
+    [
+     "confortables",
+     "נוחים"
+    ],
+    [
+     "s'il te plaît",
+     "בבקשה"
+    ]
+   ],
+   "note": "Confortables prend la finale im, comme sandales. Confortables se dit « nokhim ».",
+   "say": {
+    "nokhim": "נוחים"
+   }
+  },
+  {
+   "words": [
+    [
+     "c'est",
+     "זאת"
+    ],
+    [
+     "tee-shirt",
+     "חולצה"
+    ],
+    [
+     "léger",
+     "קלה"
+    ]
+   ],
+   "note": "Léger se dit avec le même mot que facile. Au féminin, on dit « kala ».",
+   "say": {
+    "kala": "קלה"
+   }
+  },
+  {
+   "words": [
+    [
+     "habit",
+     "בגד"
+    ],
+    [
+     "la mer",
+     "הים"
+    ],
+    [
+     "le vert",
+     "הירוק"
+    ],
+    [
+     "petit",
+     "קטן"
+    ],
+    [
+     "trop",
+     "מדי"
+    ]
+   ],
+   "note": "Trop se place après l'adjectif. Trop se dit « midai ».",
+   "say": {
+    "midai": "מדי"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "יש"
+    ],
+    [
+     "à toi",
+     "לך"
+    ],
+    [
+     "taille",
+     "מידה"
+    ],
+    [
+     "moyenne",
+     "בינונית"
+    ]
+   ],
+   "note": "Taille, pour les vêtements, se dit « mida ». Moyenne suit le nom, au féminin.",
+   "say": {
+    "mida": "מידה"
+   }
+  },
+  {
+   "words": [
+    [
+     "les chaussures",
+     "הנעליים"
+    ],
+    [
+     "les neuves",
+     "החדשות"
+    ],
+    [
+     "belles",
+     "יפות"
+    ]
+   ],
+   "note": "Chaussures est féminin pluriel en hébreu. Neuves prend donc la finale ot. Les neuves se dit « ha-khadashot ».",
+   "say": {
+    "ha-khadashot": "החדשות"
+   }
+  },
+  {
+   "words": [
+    [
+     "pull",
+     "סוודר"
+    ],
+    [
+     "chaud",
+     "חם"
+    ],
+    [
+     "pas",
+     "לא"
+    ],
+    [
+     "à Tel Aviv",
+     "בתל אביב"
+    ]
+   ],
+   "note": "Pull est un mot emprunté à l'anglais. Pull se dit « sveder ».",
+   "say": {
+    "sveder": "סוודר"
+   }
+  }
+ ],
+ "0-0-15": [
+  {
+   "words": [
+    [
+     "où",
+     "איפה"
+    ],
+    [
+     "marché",
+     "שוק"
+    ],
+    [
+     "le Carmel",
+     "הכרמל"
+    ]
+   ],
+   "note": "Le marché du Carmel se dit marché le Carmel, sans de. Marché se dit « shuk ».",
+   "say": {
+    "shuk": "שוק"
+   }
+  },
+  {
+   "words": [
+    [
+     "combien",
+     "כמה"
+    ],
+    [
+     "minutes",
+     "דקות"
+    ],
+    [
+     "à pied",
+     "ברגל"
+    ]
+   ],
+   "note": "Combien se place en tête de question. Combien se dit « kama ».",
+   "say": {
+    "kama": "כמה"
+   }
+  },
+  {
+   "words": [
+    [
+     "environ",
+     "בערך"
+    ],
+    [
+     "dix",
+     "עשר"
+    ],
+    [
+     "minutes",
+     "דקות"
+    ]
+   ],
+   "note": "Environ se dit en un mot placé avant le nombre. Environ se dit « be-erekh ».",
+   "say": {
+    "be-erekh": "בערך"
+   }
+  },
+  {
+   "words": [
+    [
+     "quand",
+     "מתי"
+    ],
+    [
+     "le bus",
+     "האוטובוס"
+    ],
+    [
+     "partir",
+     "יוצא"
+    ]
+   ],
+   "note": "Quand se dit « matai ». Pour un bus qui part, on dit qu'il sort.",
+   "say": {
+    "matai": "מתי"
+   }
+  },
+  {
+   "words": [
+    [
+     "qui",
+     "מי"
+    ],
+    [
+     "l'homme",
+     "האיש"
+    ],
+    [
+     "celui-ci",
+     "הזה"
+    ]
+   ],
+   "note": "Qui se dit « mi ». Ce monsieur se dit l'homme celui-ci.",
+   "say": {
+    "mi": "מי"
+   }
+  },
+  {
+   "words": [
+    [
+     "quoi",
+     "מה"
+    ],
+    [
+     "toi",
+     "אתה"
+    ],
+    [
+     "chercher",
+     "מחפש"
+    ]
+   ],
+   "note": "Le mot interrogatif se met en tête, puis le sujet et le verbe. Quoi se dit « ma ».",
+   "say": {
+    "ma": "מה"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "chercher",
+     "מחפש"
+    ],
+    [
+     "petit mot du complément",
+     "את"
+    ],
+    [
+     "boulevard",
+     "שדרות"
+    ],
+    [
+     "Rothschild",
+     "רוטשילד"
+    ]
+   ],
+   "note": "Boulevard se dit avec un pluriel, comme des allées. Boulevard se dit « sderot ».",
+   "say": {
+    "sderot": "שדרות"
+   }
+  },
+  {
+   "words": [
+    [
+     "où",
+     "איפה"
+    ],
+    [
+     "station",
+     "תחנת"
+    ],
+    [
+     "le vélo",
+     "האופניים"
+    ]
+   ],
+   "note": "Station de vélos se dit station le vélo. Station, devant un autre nom, devient « takhanat ».",
+   "say": {
+    "takhanat": "תחנת"
+   }
+  },
+  {
+   "words": [
+    [
+     "combien",
+     "כמה"
+    ],
+    [
+     "coûter",
+     "עולה"
+    ],
+    [
+     "ticket",
+     "כרטיס"
+    ],
+    [
+     "pour le bus",
+     "לאוטובוס"
+    ]
+   ],
+   "note": "Ticket et billet se disent avec le même mot. Billet se dit « kartis ».",
+   "say": {
+    "kartis": "כרטיס"
+   }
+  },
+  {
+   "words": [
+    [
+     "quand",
+     "מתי"
+    ],
+    [
+     "nous",
+     "אנחנו"
+    ],
+    [
+     "arriver",
+     "מגיעים"
+    ]
+   ],
+   "note": "Arriver se dit avec un verbe au présent pluriel. Nous arrivons se dit « magi'im ».",
+   "say": {
+    "magi'im": "מגיעים"
+   }
+  }
+ ],
+ "0-0-16": [
+  {
+   "words": [
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "prendre",
+     "לוקח"
+    ],
+    [
+     "shakshuka",
+     "שקשוקה"
+    ]
+   ],
+   "note": "Prendre, au masculin, se dit « lokeakh ». On l'utilise pour commander au café.",
+   "say": {
+    "lokeakh": "לוקח"
+   }
+  },
+  {
+   "words": [
+    [
+     "aussi",
+     "גם"
+    ],
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "shakshuka",
+     "שקשוקה"
+    ]
+   ],
+   "note": "Aussi se place avant le mot qu'il concerne. Moi aussi se dit « gam ani ».",
+   "say": {
+    "gam ani": "גם אני"
+   }
+  },
+  {
+   "words": [
+    [
+     "aussi",
+     "גם"
+    ],
+    [
+     "pain",
+     "לחם"
+    ],
+    [
+     "s'il te plaît",
+     "בבקשה"
+    ]
+   ],
+   "note": "Pour ajouter quelque chose, on met aussi en tête. Pain se dit « lekhem ».",
+   "say": {
+    "lekhem": "לחם"
+   }
+  },
+  {
+   "words": [
+    [
+     "aussi",
+     "גם"
+    ],
+    [
+     "la salade",
+     "הסלט"
+    ],
+    [
+     "fraîche",
+     "טרי"
+    ]
+   ],
+   "note": "La salade aussi se dit aussi la salade. Aussi se dit « gam ».",
+   "say": {
+    "gam": "גם"
+   }
+  },
+  {
+   "words": [
+    [
+     "la shakshuka",
+     "השקשוקה"
+    ],
+    [
+     "piquante",
+     "חריפה"
+    ]
+   ],
+   "note": "Shakshuka est féminin, donc piquant prend un a. Piquante se dit « kharifa ».",
+   "say": {
+    "kharifa": "חריפה"
+   }
+  },
+  {
+   "words": [
+    [
+     "aussi",
+     "גם"
+    ],
+    [
+     "le café",
+     "הקפה"
+    ],
+    [
+     "fort",
+     "חזק"
+    ]
+   ],
+   "note": "Pour un café, fort se dit « khazak ». Et aussi se met devant le café.",
+   "say": {
+    "khazak": "חזק"
+   }
+  },
+  {
+   "words": [
+    [
+     "aussi",
+     "גם"
+    ],
+    [
+     "Dana",
+     "דנה"
+    ],
+    [
+     "aimer",
+     "אוהבת"
+    ],
+    [
+     "shakshuka",
+     "שקשוקה"
+    ]
+   ],
+   "note": "Avec Dana, le verbe aimer est au féminin. Elle aime se dit « ohevet ».",
+   "say": {
+    "ohevet": "אוהבת"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "יש"
+    ],
+    [
+     "aussi",
+     "גם"
+    ],
+    [
+     "fromage",
+     "גבינה"
+    ],
+    [
+     "blanc",
+     "לבנה"
+    ]
+   ],
+   "note": "Le fromage blanc se dit fromage blanc, comme en français. Fromage se dit « gvina ».",
+   "say": {
+    "gvina": "גבינה"
+   }
+  },
+  {
+   "words": [
+    [
+     "repas",
+     "ארוחת"
+    ],
+    [
+     "le matin",
+     "הבוקר"
+    ],
+    [
+     "l'israélien",
+     "הישראלית"
+    ],
+    [
+     "énorme",
+     "ענקית"
+    ]
+   ],
+   "note": "Le petit-déjeuner se dit le repas du matin. Repas, devant un autre nom, se dit « arukhat ».",
+   "say": {
+    "arukhat": "ארוחת"
+   }
+  },
+  {
+   "words": [
+    [
+     "ça",
+     "זה"
+    ],
+    [
+     "bon",
+     "טעים"
+    ],
+    [
+     "et aussi",
+     "וגם"
+    ],
+    [
+     "pas",
+     "לא"
+    ],
+    [
+     "cher",
+     "יקר"
+    ]
+   ],
+   "note": "Et se dit avec un petit son ve collé au mot suivant. Et aussi se dit « ve-gam ».",
+   "say": {
+    "ve-gam": "וגם"
+   }
+  }
+ ],
+ "0-0-17": [
+  {
+   "words": [
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "vouloir",
+     "רוצה"
+    ],
+    [
+     "aller",
+     "ללכת"
+    ],
+    [
+     "vers la mer",
+     "לים"
+    ]
+   ],
+   "note": "Après vouloir, le second verbe est à l'infinitif, qui commence par l. Aller se dit « lalekhet ».",
+   "say": {
+    "lalekhet": "ללכת"
+   }
+  },
+  {
+   "words": [
+    [
+     "toi",
+     "אתה"
+    ],
+    [
+     "vouloir",
+     "רוצה"
+    ],
+    [
+     "verre",
+     "כוס"
+    ],
+    [
+     "vin",
+     "יין"
+    ]
+   ],
+   "note": "Pour un homme, vouloir se dit « rotse ». Un verre de vin se dit verre vin, sans de.",
+   "say": {
+    "rotse": "רוצה"
+   }
+  },
+  {
+   "words": [
+    [
+     "Noa",
+     "נועה"
+    ],
+    [
+     "vouloir",
+     "רוצה"
+    ],
+    [
+     "danser",
+     "לרקוד"
+    ]
+   ],
+   "note": "Pour une femme, vouloir devient « rotsa ». Noa est un prénom féminin.",
+   "say": {
+    "rotsa": "רוצה"
+   }
+  },
+  {
+   "words": [
+    [
+     "quoi",
+     "מה"
+    ],
+    [
+     "toi",
+     "אתה"
+    ],
+    [
+     "vouloir",
+     "רוצה"
+    ],
+    [
+     "manger",
+     "לאכול"
+    ],
+    [
+     "ce soir",
+     "הערב"
+    ]
+   ],
+   "note": "Manger à l'infinitif commence aussi par le son l. Manger se dit « le'ekhol ».",
+   "say": {
+    "le'ekhol": "לאכול"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "vouloir",
+     "רוצה"
+    ],
+    [
+     "falafel",
+     "פלאפל"
+    ]
+   ],
+   "note": "Vouloir peut être suivi directement d'un nom. Pas besoin d'article un. Je veux se dit « ani rotse ».",
+   "say": {
+    "ani rotse": "אני רוצה"
+   }
+  },
+  {
+   "words": [
+    [
+     "Dana",
+     "דנה"
+    ],
+    [
+     "toi",
+     "את"
+    ],
+    [
+     "vouloir",
+     "רוצה"
+    ],
+    [
+     "venir",
+     "לבוא"
+    ],
+    [
+     "avec nous",
+     "איתנו"
+    ]
+   ],
+   "note": "Venir, à l'infinitif, se dit « lavo ». Avec nous se dit en un seul mot.",
+   "say": {
+    "lavo": "לבוא"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "כן"
+    ],
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "vouloir",
+     "רוצה"
+    ],
+    [
+     "venir",
+     "לבוא"
+    ]
+   ],
+   "note": "Une femme dit je veux avec la forme féminine. On dit « ani rotsa ».",
+   "say": {
+    "ani rotsa": "אני רוצה"
+   }
+  },
+  {
+   "words": [
+    [
+     "eux",
+     "הם"
+    ],
+    [
+     "vouloir",
+     "רוצים"
+    ],
+    [
+     "voir",
+     "לראות"
+    ],
+    [
+     "petit mot du complément",
+     "את"
+    ],
+    [
+     "le coucher de soleil",
+     "השקיעה"
+    ]
+   ],
+   "note": "Au pluriel, vouloir prend la finale im. Ils veulent se dit « rotsim ».",
+   "say": {
+    "rotsim": "רוצים"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "אנחנו"
+    ],
+    [
+     "vouloir",
+     "רוצים"
+    ],
+    [
+     "table",
+     "שולחן"
+    ],
+    [
+     "dehors",
+     "בחוץ"
+    ]
+   ],
+   "note": "Dehors se dit littéralement dans l'extérieur. Dehors se dit « ba-khuts ».",
+   "say": {
+    "ba-khuts": "בחוץ"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "pas",
+     "לא"
+    ],
+    [
+     "vouloir",
+     "רוצה"
+    ],
+    [
+     "rentrer",
+     "לחזור"
+    ],
+    [
+     "tôt",
+     "מוקדם"
+    ]
+   ],
+   "note": "Rentrer se dit revenir en hébreu. À l'infinitif, on dit « lakhzor ».",
+   "say": {
+    "lakhzor": "לחזור"
+   }
+  }
+ ],
+ "0-0-18": [
+  {
+   "words": [
+    [
+     "pardon",
+     "סליחה"
+    ],
+    [
+     "quoi",
+     "מה"
+    ],
+    [
+     "l'heure",
+     "השעה"
+    ]
+   ],
+   "note": "Quelle heure est-il se dit quoi l'heure. L'heure se dit « ha-sha'a ».",
+   "say": {
+    "ha-sha'a": "השעה"
+   }
+  },
+  {
+   "words": [
+    [
+     "l'heure",
+     "השעה"
+    ],
+    [
+     "huit",
+     "שמונה"
+    ],
+    [
+     "exactement",
+     "בדיוק"
+    ]
+   ],
+   "note": "Pile se dit exactement. Exactement se dit « bediyuk ».",
+   "say": {
+    "bediyuk": "בדיוק"
+   }
+  },
+  {
+   "words": [
+    [
+     "l'heure",
+     "השעה"
+    ],
+    [
+     "neuf",
+     "תשע"
+    ],
+    [
+     "et demie",
+     "וחצי"
+    ]
+   ],
+   "note": "Et demie se dit avec et collé au mot demi. Et demie se dit « va-khetsi ».",
+   "say": {
+    "va-khetsi": "וחצי"
+   }
+  },
+  {
+   "words": [
+    [
+     "le bus",
+     "האוטובוס"
+    ],
+    [
+     "arriver",
+     "מגיע"
+    ],
+    [
+     "à dix",
+     "בעשר"
+    ]
+   ],
+   "note": "À dix heures se dit simplement à dix, sans le mot heure. À dix se dit « be-eser ».",
+   "say": {
+    "be-eser": "בעשר"
+   }
+  },
+  {
+   "words": [
+    [
+     "le marché",
+     "השוק"
+    ],
+    [
+     "s'ouvrir",
+     "נפתח"
+    ],
+    [
+     "à sept",
+     "בשבע"
+    ]
+   ],
+   "note": "Pour l'heure, les nombres sont au féminin. À sept se dit « be-sheva ».",
+   "say": {
+    "be-sheva": "בשבע"
+   }
+  },
+  {
+   "words": [
+    [
+     "se retrouver",
+     "נפגשים"
+    ],
+    [
+     "à six",
+     "בשש"
+    ]
+   ],
+   "note": "Se retrouver se dit en un seul verbe au pluriel. On se retrouve se dit « nifgashim ».",
+   "say": {
+    "nifgashim": "נפגשים"
+   }
+  },
+  {
+   "words": [
+    [
+     "à quelle",
+     "באיזו"
+    ],
+    [
+     "heure",
+     "שעה"
+    ],
+    [
+     "toi",
+     "אתה"
+    ],
+    [
+     "finir",
+     "מסיים"
+    ],
+    [
+     "travailler",
+     "לעבוד"
+    ]
+   ],
+   "note": "À quelle heure se dit dans quelle heure. À quelle se dit « be-eizo ».",
+   "say": {
+    "be-eizo": "באיזו"
+   }
+  },
+  {
+   "words": [
+    [
+     "à cinq",
+     "בחמש"
+    ],
+    [
+     "et quart",
+     "ורבע"
+    ]
+   ],
+   "note": "Et quart se dit et quart, collé. Et quart se dit « va-reva ».",
+   "say": {
+    "va-reva": "ורבע"
+   }
+  },
+  {
+   "words": [
+    [
+     "déjà",
+     "כבר"
+    ],
+    [
+     "midi",
+     "צהריים"
+    ]
+   ],
+   "note": "Déjà se place en tête de phrase. Midi se dit « tsohorayim ».",
+   "say": {
+    "tsohorayim": "צהריים"
+   }
+  },
+  {
+   "words": [
+    [
+     "oh",
+     "אוי"
+    ],
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "en retard",
+     "מאחר"
+    ]
+   ],
+   "note": "Être en retard se dit avec un seul verbe au présent. Pour un homme, on dit « me'akher ».",
+   "say": {
+    "me'akher": "מאחר"
+   }
+  }
+ ],
+ "0-0-19": [
+  {
+   "words": [
+    [
+     "paix",
+     "שלום"
+    ],
+    [
+     "à tous",
+     "לכולם"
+    ]
+   ],
+   "note": "Le mot paix sert à la fois de bonjour et d'au revoir. Paix se dit « shalom ».",
+   "say": {
+    "shalom": "שלום"
+   }
+  },
+  {
+   "words": [
+    [
+     "merci",
+     "תודה"
+    ],
+    [
+     "sur",
+     "על"
+    ],
+    [
+     "tout",
+     "הכול"
+    ]
+   ],
+   "note": "Merci pour se dit merci sur. Merci se dit « toda ».",
+   "say": {
+    "toda": "תודה"
+   }
+  },
+  {
+   "words": [
+    [
+     "pardon",
+     "סליחה"
+    ],
+    [
+     "encore",
+     "עוד"
+    ],
+    [
+     "fois",
+     "פעם"
+    ],
+    [
+     "s'il te plaît",
+     "בבקשה"
+    ]
+   ],
+   "note": "Encore une fois se dit encore fois. Encore se dit « od ».",
+   "say": {
+    "od": "עוד"
+   }
+  },
+  {
+   "words": [
+    [
+     "la vie",
+     "החיים"
+    ],
+    [
+     "à Tel Aviv",
+     "בתל אביב"
+    ],
+    [
+     "faciles",
+     "קלים"
+    ],
+    [
+     "maintenant",
+     "עכשיו"
+    ]
+   ],
+   "note": "La vie est toujours au pluriel en hébreu. Faciles prend donc im. La vie se dit « ha-khayim ».",
+   "say": {
+    "ha-khayim": "החיים"
+   }
+  },
+  {
+   "words": [
+    [
+     "hébreu",
+     "עברית"
+    ],
+    [
+     "elle",
+     "היא"
+    ],
+    [
+     "langue",
+     "שפה"
+    ],
+    [
+     "belle",
+     "יפה"
+    ]
+   ],
+   "note": "Les langues sont féminines en hébreu. Langue se dit « safa ».",
+   "say": {
+    "safa": "שפה"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "אני"
+    ],
+    [
+     "parler",
+     "מדבר"
+    ],
+    [
+     "un peu",
+     "קצת"
+    ],
+    [
+     "hébreu",
+     "עברית"
+    ]
+   ],
+   "note": "Le nom d'une langue se dit sans article après parler. Hébreu se dit « ivrit ».",
+   "say": {
+    "ivrit": "עברית"
+   }
+  },
+  {
+   "words": [
+    [
+     "maintenant",
+     "עכשיו"
+    ],
+    [
+     "voyager",
+     "טיולים"
+    ]
+   ],
+   "note": "Maintenant se place souvent en tête. Maintenant se dit « akhshav ».",
+   "say": {
+    "akhshav": "עכשיו"
+   }
+  },
+  {
+   "words": [
+    [
+     "tout",
+     "כל"
+    ],
+    [
+     "l'honneur",
+     "הכבוד"
+    ],
+    [
+     "et merci",
+     "ותודה"
+    ],
+    [
+     "beaucoup",
+     "רבה"
+    ]
+   ],
+   "note": "Bravo se dit tout l'honneur. Bravo se dit « kol ha-kavod ».",
+   "say": {
+    "kol ha-kavod": "כל הכבוד"
+   }
+  },
+  {
+   "words": [
+    [
+     "je t'en prie",
+     "בבקשה"
+    ],
+    [
+     "avec plaisir",
+     "בכיף"
+    ]
+   ],
+   "note": "Le mot s'il te plaît sert aussi à dire de rien. Avec plaisir se dit « be-kef ».",
+   "say": {
+    "be-kef": "בכיף"
+   }
+  },
+  {
+   "words": [
+    [
+     "on se reverra",
+     "נתראה"
+    ],
+    [
+     "bientôt",
+     "בקרוב"
+    ],
+    [
+     "paix",
+     "שלום"
+    ]
+   ],
+   "note": "À bientôt se dit on se reverra bientôt. On se reverra se dit « nitra'e ».",
+   "say": {
+    "nitra'e": "נתראה"
+   }
+  }
+ ]
+}

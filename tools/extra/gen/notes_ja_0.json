@@ -1,0 +1,5034 @@
+{
+ "0-0-0": [
+  {
+   "words": [
+    [
+     "bonjour",
+     "こんにちは"
+    ]
+   ],
+   "note": "Bonjour se dit « konnichiwa ». On l'utilise surtout dans la journée. Le matin, on emploie un autre mot.",
+   "say": {
+    "konnichiwa": "こんにちは"
+   }
+  },
+  {
+   "words": [
+    [
+     "enchanté",
+     "はじめまして"
+    ]
+   ],
+   "note": "Quand on rencontre quelqu'un pour la première fois, on dit « hajimemashite ». Mot à mot, cela veut dire pour la première fois. C'est la toute première phrase d'une présentation.",
+   "say": {
+    "hajimemashite": "はじめまして"
+   }
+  },
+  {
+   "words": [
+    [
+     "Léa",
+     "レア"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "En japonais, on n'a pas besoin de dire je. Pour se présenter, on donne son nom suivi de « desu ». Ce petit mot poli veut dire c'est, ou je suis.",
+   "say": {
+    "desu": "です"
+   }
+  },
+  {
+   "words": [
+    [
+     "Français",
+     "フランス人"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Après le nom du pays, on ajoute un petit mot qui veut dire personne. Ce mot se dit « jin ». Un Français, c'est donc une personne de France.",
+   "say": {
+    "jin": "人"
+   }
+  },
+  {
+   "words": [
+    [
+     "bien",
+     "よろしく"
+    ],
+    [
+     "je vous le demande",
+     "お願いします"
+    ]
+   ],
+   "note": "Cette formule figée termine toute présentation. Elle demande poliment à l'autre de bien nous accueillir. Le premier mot se dit « yoroshiku ».",
+   "say": {
+    "yoroshiku": "よろしく"
+   }
+  },
+  {
+   "words": [
+    [
+     "avoir sommeil",
+     "眠い"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "En japonais, avoir sommeil se dit avec un seul adjectif. Cet adjectif se dit « nemui ». On ajoute ensuite le petit mot poli de la fin.",
+   "say": {
+    "nemui": "眠い"
+   }
+  },
+  {
+   "words": [
+    [
+     "ventre",
+     "お腹"
+    ],
+    [
+     "petit mot du sujet",
+     "が"
+    ],
+    [
+     "se vider",
+     "すきました"
+    ]
+   ],
+   "note": "Pour dire j'ai faim, on dit que le ventre s'est vidé. Ventre se dit « onaka ». Le verbe est au passé, car la faim est déjà là.",
+   "say": {
+    "onaka": "お腹"
+   }
+  },
+  {
+   "words": [
+    [
+     "se fatiguer",
+     "疲れました"
+    ]
+   ],
+   "note": "Pour dire je suis fatigué, le japonais emploie un verbe au passé. On dit en fait je me suis fatigué, « tsukaremashita ». C'est la phrase classique en fin de journée.",
+   "say": {
+    "tsukaremashita": "疲れました"
+   }
+  },
+  {
+   "words": [
+    [
+     "très",
+     "とても"
+    ],
+    [
+     "content",
+     "うれしい"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Très se dit « totemo ». Il se place juste avant l'adjectif, comme en français. Ici, l'adjectif veut dire heureux, content.",
+   "say": {
+    "totemo": "とても"
+   }
+  },
+  {
+   "words": [
+    [
+     "Shinjuku",
+     "新宿"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "grand",
+     "大きい"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot d'accord",
+     "ね"
+    ]
+   ],
+   "note": "À la fin de la phrase, on ajoute « ne ». Ce petit mot cherche l'accord de l'autre, comme n'est-ce pas. On l'entend partout dans les conversations.",
+   "say": {
+    "ne": "ね"
+   }
+  }
+ ],
+ "0-0-1": [
+  {
+   "words": [
+    [
+     "konbini",
+     "コンビニ"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "là",
+     "そこ"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "On parle ici du konbini. On le dit suivi du petit mot du thème, « konbini wa ». Ce petit mot veut dire un peu quant à.",
+   "say": {
+    "konbini wa": "コンビニは"
+   }
+  },
+  {
+   "words": [
+    [
+     "konbini",
+     "コンビニ"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "pratique",
+     "便利"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Pratique se dit « benri ». Cet adjectif ne change pas de forme. On ajoute simplement le petit mot poli de la fin.",
+   "say": {
+    "benri": "便利"
+   }
+  },
+  {
+   "words": [
+    [
+     "thon",
+     "ツナ"
+    ],
+    [
+     "petit mot de liaison",
+     "の"
+    ],
+    [
+     "onigiri",
+     "おにぎり"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "En japonais, le complément du nom se place avant le nom. On dit thon, puis le petit mot « no ». Ensuite seulement vient l'onigiri.",
+   "say": {
+    "no": "の"
+   }
+  },
+  {
+   "words": [
+    [
+     "thé",
+     "お茶"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "cent cinquante",
+     "百五十"
+    ],
+    [
+     "yen",
+     "円"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Le yen se dit en réalité « en ». On le place juste après le nombre, sans rien changer.",
+   "say": {
+    "en": "円"
+   }
+  },
+  {
+   "words": [
+    [
+     "Tanaka",
+     "田中"
+    ],
+    [
+     "mademoiselle",
+     "さん"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "vendeuse",
+     "店員"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Après le nom de quelqu'un, on ajoute « san ». Il veut dire monsieur, madame ou mademoiselle. On ne le dit jamais pour soi-même.",
+   "say": {
+    "san": "さん"
+   }
+  },
+  {
+   "words": [
+    [
+     "bentō",
+     "お弁当"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "cinq cents",
+     "五百"
+    ],
+    [
+     "yen",
+     "円"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Devant certains mots, on ajoute un petit son de politesse. Ainsi, le repas en boîte se dit « obentō ». Cela rend le mot plus doux.",
+   "say": {
+    "obentō": "お弁当"
+   }
+  },
+  {
+   "words": [
+    [
+     "onigiri",
+     "おにぎり"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "délicieux",
+     "おいしい"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Délicieux se dit « oishii ». C'est un mot qu'on entend très souvent au Japon. On le dit en goûtant un plat.",
+   "say": {
+    "oishii": "おいしい"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "今日"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "lundi",
+     "月曜日"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Aujourd'hui se dit « kyō ». On le place en tête de phrase, suivi du petit mot du thème. Tous les jours de la semaine finissent par le même son.",
+   "say": {
+    "kyō": "今日"
+   }
+  },
+  {
+   "words": [
+    [
+     "sept heures",
+     "七時"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Pour dire l'heure, on ajoute un petit mot après le nombre. Heure se dit « ji ». Sept heures, c'est donc sept suivi de ce petit mot.",
+   "say": {
+    "ji": "時"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "この"
+    ],
+    [
+     "konbini",
+     "コンビニ"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "neuf",
+     "新しい"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Devant un nom, ce se dit « kono ». Il se place juste avant le nom qu'il montre. Neuf, ici, veut dire nouveau.",
+   "say": {
+    "kono": "この"
+   }
+  }
+ ],
+ "0-0-2": [
+  {
+   "words": [
+    [
+     "ici",
+     "ここ"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "Shibuya",
+     "渋谷"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Ici se dit « koko ». On le met en thème au début de la phrase. Puis on dit le nom du lieu et le petit mot poli.",
+   "say": {
+    "koko": "ここ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "この"
+    ],
+    [
+     "carrefour",
+     "交差点"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "très",
+     "とても"
+    ],
+    [
+     "célèbre",
+     "有名"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Célèbre se dit « yūmei ». C'est un adjectif qui ne change pas de forme. Le carrefour de Shibuya est connu dans le monde entier.",
+   "say": {
+    "yūmei": "有名"
+   }
+  },
+  {
+   "words": [
+    [
+     "Hachikō",
+     "ハチ公"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "chien",
+     "犬"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Chien se dit « inu ». En japonais, il n'y a pas d'article. On ne dit ni un ni le, seulement chien.",
+   "say": {
+    "inu": "犬"
+   }
+  },
+  {
+   "words": [
+    [
+     "Hachikō",
+     "ハチ公"
+    ],
+    [
+     "petit mot de liaison",
+     "の"
+    ],
+    [
+     "statue",
+     "像"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "par là-bas",
+     "あちら"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Pour indiquer poliment un endroit loin de nous, on dit « achira ». C'est une façon polie de dire par là-bas. On l'entend souvent quand on demande son chemin.",
+   "say": {
+    "achira": "あちら"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "私"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "Marc",
+     "マルク"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Je ou moi se dit « watashi ». On le dit surtout pour insister sur soi. Le plus souvent, les Japonais le laissent tomber.",
+   "say": {
+    "watashi": "私"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "私"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "café",
+     "コーヒー"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Au café, on peut dire mot à mot moi, c'est café. Le petit mot du thème veut dire ici quant à moi. Café se dit « kōhī ».",
+   "say": {
+    "kōhī": "コーヒー"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "今日"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "bon",
+     "いい"
+    ],
+    [
+     "temps",
+     "天気"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Pour dire il fait beau, on dit c'est un bon temps. Le temps qu'il fait se dit « tenki ». Bon se place juste devant.",
+   "say": {
+    "tenki": "天気"
+   }
+  },
+  {
+   "words": [
+    [
+     "Shibuya",
+     "渋谷"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "très",
+     "とても"
+    ],
+    [
+     "animé",
+     "にぎやか"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Animé se dit « nigiyaka ». On l'emploie pour un quartier plein de monde et de bruit. C'est le contraire de calme.",
+   "say": {
+    "nigiyaka": "にぎやか"
+   }
+  },
+  {
+   "words": [
+    [
+     "ami",
+     "友達"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "Kenji",
+     "健二"
+    ],
+    [
+     "monsieur",
+     "さん"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Ami se dit « tomodachi ». Pour dire mon ami, on n'a pas besoin du possessif. On comprend tout seul qu'on parle de son ami.",
+   "say": {
+    "tomodachi": "友達"
+   }
+  },
+  {
+   "words": [
+    [
+     "Kenji",
+     "健二"
+    ],
+    [
+     "monsieur",
+     "さん"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "étudiant",
+     "学生"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Étudiant se dit « gakusei ». Il n'y a ni article, ni masculin, ni féminin. Étudiant ou étudiante, c'est le même mot.",
+   "say": {
+    "gakusei": "学生"
+   }
+  }
+ ],
+ "0-0-3": [
+  {
+   "words": [
+    [
+     "en forme",
+     "お元気"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Pour poser une question, on ajoute à la fin le petit mot « ka ». Pas besoin de changer l'ordre des mots. C'est comme un point d'interrogation qu'on prononce.",
+   "say": {
+    "ka": "か"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "はい"
+    ],
+    [
+     "très",
+     "とても"
+    ],
+    [
+     "en forme",
+     "元気"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Oui se dit « hai ». On le dit aussi pour montrer qu'on écoute. Pour parler de soi, on enlève le petit son poli du début de en forme.",
+   "say": {
+    "hai": "はい"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "ここ"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "Ueno",
+     "上野"
+    ],
+    [
+     "parc",
+     "公園"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Parc se dit « kōen ». Le nom du lieu se place devant, comme Ueno parc. On fait la question en ajoutant le petit mot final.",
+   "say": {
+    "kōen": "公園"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "はい"
+    ],
+    [
+     "ainsi",
+     "そう"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Pour confirmer, on dit « sō desu ». Mot à mot, c'est ainsi. C'est la façon la plus simple de dire c'est ça.",
+   "say": {
+    "sō desu": "そうです"
+   }
+  },
+  {
+   "words": [
+    [
+     "musée d'art",
+     "美術館"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "où",
+     "どこ"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Où se dit « doko ». Il prend la place de la réponse, avant le petit mot poli. On garde le même ordre que dans la réponse.",
+   "say": {
+    "doko": "どこ"
+   }
+  },
+  {
+   "words": [
+    [
+     "loin",
+     "遠い"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Loin se dit « tōi ». C'est un adjectif, suivi du petit mot poli. Le sujet n'est pas dit, on le devine.",
+   "say": {
+    "tōi": "遠い"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "いいえ"
+    ],
+    [
+     "tout de suite",
+     "すぐ"
+    ],
+    [
+     "là",
+     "そこ"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Non se dit « iie ». Les Japonais l'emploient avec prudence, car il peut paraître sec. Ici, il sert juste à corriger gentiment.",
+   "say": {
+    "iie": "いいえ"
+   }
+  },
+  {
+   "words": [
+    [
+     "étudiant",
+     "学生"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Sans sujet, la question vise la personne en face. On ne dit pas vous, ce serait même un peu direct. On dit juste étudiant, puis « desu ka ».",
+   "say": {
+    "desu ka": "ですか"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "いいえ"
+    ],
+    [
+     "employé de bureau",
+     "会社員"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Employé de bureau se dit « kaishain ». Mot à mot, c'est une personne de l'entreprise. C'est la réponse la plus courante au Japon.",
+   "say": {
+    "kaishain": "会社員"
+   }
+  },
+  {
+   "words": [
+    [
+     "parc",
+     "公園"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "gratuit",
+     "無料"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Gratuit se dit « muryō ». On l'entend souvent à l'entrée des musées et des parcs.",
+   "say": {
+    "muryō": "無料"
+   }
+  }
+ ],
+ "0-0-4": [
+  {
+   "words": [
+    [
+     "ligne Yamanote",
+     "山手線"
+    ],
+    [
+     "dans",
+     "に"
+    ],
+    [
+     "monter",
+     "乗ります"
+    ]
+   ],
+   "note": "En japonais, le verbe est toujours à la fin. Monter dans un train se dit « norimasu ». Le train se place avant, avec un petit mot qui veut dire dans.",
+   "say": {
+    "norimasu": "乗ります"
+   }
+  },
+  {
+   "words": [
+    [
+     "train",
+     "電車"
+    ],
+    [
+     "petit mot du sujet",
+     "が"
+    ],
+    [
+     "venir",
+     "来ます"
+    ]
+   ],
+   "note": "Pour un fait qu'on remarque, on marque le sujet avec « ga ». Ici, on annonce ce qui se passe, le train arrive. Le verbe venir vient en dernier.",
+   "say": {
+    "ga": "が"
+   }
+  },
+  {
+   "words": [
+    [
+     "Akihabara",
+     "秋葉原"
+    ],
+    [
+     "vers",
+     "に"
+    ],
+    [
+     "aller",
+     "行きます"
+    ]
+   ],
+   "note": "Aller se dit « ikimasu ». La destination vient d'abord, avec un petit mot qui veut dire vers. Le verbe ferme la phrase.",
+   "say": {
+    "ikimasu": "行きます"
+   }
+  },
+  {
+   "words": [
+    [
+     "Shinjuku",
+     "新宿"
+    ],
+    [
+     "petit mot du lieu",
+     "で"
+    ],
+    [
+     "descendre",
+     "降ります"
+    ]
+   ],
+   "note": "Descendre du train se dit « orimasu ». C'est le contraire de monter. Le lieu vient avant, comme toujours.",
+   "say": {
+    "orimasu": "降ります"
+   }
+  },
+  {
+   "words": [
+    [
+     "train",
+     "電車"
+    ],
+    [
+     "petit mot du lieu",
+     "で"
+    ],
+    [
+     "livre",
+     "本"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "lire",
+     "読みます"
+    ]
+   ],
+   "note": "Le verbe arrive en dernier. L'ordre est dans le train, un livre, lire. Livre se dit « hon ».",
+   "say": {
+    "hon": "本"
+   }
+  },
+  {
+   "words": [
+    [
+     "musique",
+     "音楽"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "écouter",
+     "聞きます"
+    ]
+   ],
+   "note": "Musique se dit « ongaku ». On dit musique d'abord, puis écouter. C'est l'inverse du français.",
+   "say": {
+    "ongaku": "音楽"
+   }
+  },
+  {
+   "words": [
+    [
+     "fenêtre",
+     "窓"
+    ],
+    [
+     "petit mot de liaison",
+     "の"
+    ],
+    [
+     "dehors",
+     "外"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "regarder",
+     "見ます"
+    ]
+   ],
+   "note": "Regarder se dit « mimasu ». Le japonais dit regarder le dehors de la fenêtre. Le verbe court reste à la fin.",
+   "say": {
+    "mimasu": "見ます"
+   }
+  },
+  {
+   "words": [
+    [
+     "suivant",
+     "次"
+    ],
+    [
+     "petit mot de liaison",
+     "の"
+    ],
+    [
+     "train",
+     "電車"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "attendre",
+     "待ちます"
+    ]
+   ],
+   "note": "Attendre se dit « machimasu ». Le mot suivant se place devant le train, avec le petit mot de liaison. Puis le verbe vient en dernier.",
+   "say": {
+    "machimasu": "待ちます"
+   }
+  },
+  {
+   "words": [
+    [
+     "maison",
+     "家"
+    ],
+    [
+     "vers",
+     "に"
+    ],
+    [
+     "rentrer",
+     "帰ります"
+    ]
+   ],
+   "note": "Rentrer chez soi se dit « kaerimasu ». C'est un verbe à part, différent d'aller. Maison se met devant, avec le petit mot vers.",
+   "say": {
+    "kaerimasu": "帰ります"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "明日"
+    ],
+    [
+     "train",
+     "電車"
+    ],
+    [
+     "petit mot du moyen",
+     "で"
+    ],
+    [
+     "Ueno",
+     "上野"
+    ],
+    [
+     "vers",
+     "に"
+    ],
+    [
+     "aller",
+     "行きます"
+    ]
+   ],
+   "note": "Demain se dit « ashita ». Le moment se place en tout début de phrase. Le verbe, lui, reste à la fin.",
+   "say": {
+    "ashita": "明日"
+   }
+  }
+ ],
+ "0-0-5": [
+  {
+   "words": [
+    [
+     "ceci",
+     "これ"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "quoi",
+     "何"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Ceci, tout près de moi, se dit « kore ». On montre l'objet en le disant. Quoi se place juste avant le petit mot poli.",
+   "say": {
+    "kore": "これ"
+   }
+  },
+  {
+   "words": [
+    [
+     "cela",
+     "それ"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "appareil photo",
+     "カメラ"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Cela, près de la personne en face, se dit « sore ». C'est l'objet que l'autre tient ou montre. Appareil photo vient de l'anglais.",
+   "say": {
+    "sore": "それ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "これ"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "combien",
+     "いくら"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Combien ça coûte se dit « ikura ». C'est la question la plus utile dans un magasin. On la dit avec ceci devant.",
+   "say": {
+    "ikura": "いくら"
+   }
+  },
+  {
+   "words": [
+    [
+     "trente mille",
+     "三万"
+    ],
+    [
+     "yen",
+     "円"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "En japonais, on compte par dix mille. Dix mille se dit « man ». Trente mille, c'est trois fois dix mille.",
+   "say": {
+    "man": "万"
+   }
+  },
+  {
+   "words": [
+    [
+     "cher",
+     "高い"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot d'accord",
+     "ね"
+    ]
+   ],
+   "note": "Cher se dit « takai ». Ce même mot veut aussi dire haut. Le petit mot final cherche l'accord du vendeur.",
+   "say": {
+    "takai": "高い"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce là-bas",
+     "あれ"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "quoi",
+     "何"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Pour un objet loin de nous deux, on dit « are ». Il y a donc trois mots là où le français en a deux. Tout dépend de la distance.",
+   "say": {
+    "are": "あれ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce là-bas",
+     "あれ"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "robot",
+     "ロボット"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Robot se dit « robotto ». Beaucoup de mots étrangers sont adaptés aux sons japonais. On ajoute souvent une voyelle à la fin.",
+   "say": {
+    "robotto": "ロボット"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "この"
+    ],
+    [
+     "jeu",
+     "ゲーム"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "amusant",
+     "おもしろい"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Amusant ou intéressant se dit « omoshiroi ». C'est un adjectif très courant. On l'utilise pour un jeu, un film ou une histoire.",
+   "say": {
+    "omoshiroi": "おもしろい"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "これ"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "donnez-moi",
+     "ください"
+    ]
+   ],
+   "note": "Pour acheter, on montre l'objet et on dit « kudasai ». Ce mot veut dire donnez-moi, poliment. Ceci vient avant, avec le petit mot du complément.",
+   "say": {
+    "kudasai": "ください"
+   }
+  },
+  {
+   "words": [
+    [
+     "Akihabara",
+     "秋葉原"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "électricité",
+     "電気"
+    ],
+    [
+     "petit mot de liaison",
+     "の"
+    ],
+    [
+     "quartier",
+     "町"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Le quartier de l'électronique se dit mot à mot le quartier de l'électricité. Électricité se dit « denki ». Ce mot se place avant quartier, relié par le petit mot de liaison.",
+   "say": {
+    "denki": "電気"
+   }
+  }
+ ],
+ "0-0-6": [
+  {
+   "words": [
+    [
+     "ici",
+     "ここ"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "moi",
+     "私"
+    ],
+    [
+     "petit mot du possessif",
+     "の"
+    ],
+    [
+     "appartement",
+     "アパート"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Pour dire mon, on dit moi, suivi de « no ». Ce petit mot crée le possessif. Mon appartement, c'est l'appartement de moi.",
+   "say": {
+    "no": "の"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "これ"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "moi",
+     "私"
+    ],
+    [
+     "petit mot du possessif",
+     "の"
+    ],
+    [
+     "clé",
+     "鍵"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Clé se dit « kagi ». Ma clé se dit moi, puis le petit mot du possessif, puis clé. L'ordre est le même pour toutes les choses à soi.",
+   "say": {
+    "kagi": "鍵"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "私"
+    ],
+    [
+     "petit mot du possessif",
+     "の"
+    ],
+    [
+     "chambre",
+     "部屋"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "petit",
+     "小さい"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Petit se dit « chiisai ». C'est un adjectif qui finit par le son i. Il se place à la fin, avant le petit mot poli.",
+   "say": {
+    "chiisai": "小さい"
+   }
+  },
+  {
+   "words": [
+    [
+     "cela",
+     "それ"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "Satō",
+     "佐藤"
+    ],
+    [
+     "monsieur",
+     "さん"
+    ],
+    [
+     "petit mot du possessif",
+     "の"
+    ],
+    [
+     "vélo",
+     "自転車"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Vélo se dit « jitensha ». Le propriétaire vient en premier, puis le possessif, puis l'objet. C'est l'inverse du français.",
+   "say": {
+    "jitensha": "自転車"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "私"
+    ],
+    [
+     "petit mot du possessif",
+     "の"
+    ],
+    [
+     "appartement",
+     "アパート"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "gare",
+     "駅"
+    ],
+    [
+     "petit mot de liaison",
+     "の"
+    ],
+    [
+     "proximité",
+     "近く"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Près de la gare se dit mot à mot la proximité de la gare. Gare se dit « eki ». Ce mot sert tous les jours au Japon.",
+   "say": {
+    "eki": "駅"
+   }
+  },
+  {
+   "words": [
+    [
+     "bain",
+     "お風呂"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "neuf",
+     "新しい"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Le bain se dit « ofuro ». Le petit son du début est une marque de politesse. Au Japon, le bain du soir est un vrai moment de détente.",
+   "say": {
+    "ofuro": "お風呂"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "これ"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "qui",
+     "だれ"
+    ],
+    [
+     "petit mot du possessif",
+     "の"
+    ],
+    [
+     "parapluie",
+     "傘"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Pour demander à qui, on dit qui, suivi du possessif. Qui se dit « dare ». Le parapluie vient après, comme pour un nom.",
+   "say": {
+    "dare": "だれ"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "私"
+    ],
+    [
+     "petit mot du possessif",
+     "の"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Pour dire le mien, on dit simplement « watashi no ». L'objet n'est pas répété. On comprend de quoi on parle.",
+   "say": {
+    "watashi no": "私の"
+   }
+  },
+  {
+   "words": [
+    [
+     "loyer",
+     "家賃"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "quatre-vingt mille",
+     "八万"
+    ],
+    [
+     "yen",
+     "円"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Loyer se dit « yachin ». Quatre-vingt mille, c'est huit fois dix mille. On compte toujours par paquets de dix mille.",
+   "say": {
+    "yachin": "家賃"
+   }
+  },
+  {
+   "words": [
+    [
+     "propriétaire",
+     "大家"
+    ],
+    [
+     "madame",
+     "さん"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "gentil",
+     "優しい"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Gentil ou doux se dit « yasashii ». Le petit mot de politesse s'ajoute même après un métier. On parle ainsi poliment de la propriétaire.",
+   "say": {
+    "yasashii": "優しい"
+   }
+  }
+ ],
+ "0-0-7": [
+  {
+   "words": [
+    [
+     "ce",
+     "この"
+    ],
+    [
+     "ramen",
+     "ラーメン"
+    ],
+    [
+     "boutique",
+     "屋"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "célèbre",
+     "有名"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Après le nom d'un produit, boutique se dit « ya ». Une boutique de ramen, c'est donc ramen suivi de ce mot. Le même mot sert pour le boulanger ou le fleuriste.",
+   "say": {
+    "ya": "屋"
+   }
+  },
+  {
+   "words": [
+    [
+     "mais",
+     "でも"
+    ],
+    [
+     "cher",
+     "高い"
+    ],
+    [
+     "restaurant",
+     "店"
+    ],
+    [
+     "ne pas être",
+     "じゃありません"
+    ]
+   ],
+   "note": "Pour dire ce n'est pas, on remplace le petit mot poli par « ja arimasen ». Le reste de la phrase ne change pas. Mais se place en tout début de phrase.",
+   "say": {
+    "ja arimasen": "じゃありません"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "これ"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "miso",
+     "味噌"
+    ],
+    [
+     "ramen",
+     "ラーメン"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Ramen se prononce avec un a long, « rāmen ». Les voyelles longues comptent en japonais. Le type de soupe se place devant.",
+   "say": {
+    "rāmen": "ラーメン"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "いいえ"
+    ],
+    [
+     "miso",
+     "味噌"
+    ],
+    [
+     "ne pas être",
+     "じゃありません"
+    ]
+   ],
+   "note": "Ici, on répète le mot de la question, puis on le nie. C'est la réponse la plus naturelle. Non se dit « iie ».",
+   "say": {
+    "iie": "いいえ"
+   }
+  },
+  {
+   "words": [
+    [
+     "sauce soja",
+     "醤油"
+    ],
+    [
+     "ramen",
+     "ラーメン"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Sauce soja se dit « shōyu ». On la met avant ramen pour dire le goût. Le sujet n'est pas dit, on le devine.",
+   "say": {
+    "shōyu": "醤油"
+   }
+  },
+  {
+   "words": [
+    [
+     "cela",
+     "それ"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "moi",
+     "私"
+    ],
+    [
+     "petit mot du possessif",
+     "の"
+    ],
+    [
+     "commande",
+     "注文"
+    ],
+    [
+     "ne pas être",
+     "じゃありません"
+    ]
+   ],
+   "note": "Commande se dit « chūmon ». Ma commande, c'est moi, le possessif, puis commande. La négation polie vient en dernier.",
+   "say": {
+    "chūmon": "注文"
+   }
+  },
+  {
+   "words": [
+    [
+     "pardon",
+     "すみません"
+    ],
+    [
+     "moi",
+     "私"
+    ],
+    [
+     "petit mot du possessif",
+     "の"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "gyōza",
+     "餃子"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Pour s'excuser ou interpeller, on dit « sumimasen ». C'est le mot le plus utile au restaurant. Il sert aussi à appeler le serveur.",
+   "say": {
+    "sumimasen": "すみません"
+   }
+  },
+  {
+   "words": [
+    [
+     "épicé",
+     "辛い"
+    ],
+    [
+     "plat",
+     "料理"
+    ],
+    [
+     "ne pas être",
+     "じゃありません"
+    ]
+   ],
+   "note": "Épicé se dit « karai ». L'adjectif se place devant le nom. On dit donc épicé plat.",
+   "say": {
+    "karai": "辛い"
+   }
+  },
+  {
+   "words": [
+    [
+     "première fois",
+     "初めて"
+    ],
+    [
+     "ne pas être",
+     "じゃありません"
+    ]
+   ],
+   "note": "Première fois se dit « hajimete ». On reconnaît le début du mot enchanté. Ici, on le nie avec la forme polie.",
+   "say": {
+    "hajimete": "初めて"
+   }
+  },
+  {
+   "words": [
+    [
+     "neuf cents",
+     "九百"
+    ],
+    [
+     "yen",
+     "円"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Neuf cents se dit « kyūhyaku ». Le mot cent change un peu de son selon le chiffre devant. Le prix vient toujours avant yen.",
+   "say": {
+    "kyūhyaku": "九百"
+   }
+  }
+ ],
+ "0-0-8": [
+  {
+   "words": [
+    [
+     "six heures",
+     "六時"
+    ],
+    [
+     "petit mot du moment",
+     "に"
+    ],
+    [
+     "se lever",
+     "起きます"
+    ]
+   ],
+   "note": "Les verbes polis finissent tous par le même son. Ce son se dit « masu ». Il sert pour le présent comme pour le futur.",
+   "say": {
+    "masu": "ます"
+   }
+  },
+  {
+   "words": [
+    [
+     "dents",
+     "歯"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "brosser",
+     "磨きます"
+    ]
+   ],
+   "note": "Dent se dit « ha ». Il n'y a pas de pluriel, une dent ou des dents, c'est pareil. Le verbe brosser vient à la fin.",
+   "say": {
+    "ha": "歯"
+   }
+  },
+  {
+   "words": [
+    [
+     "douche",
+     "シャワー"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "recevoir sur soi",
+     "浴びます"
+    ]
+   ],
+   "note": "Pour une douche, on dit qu'on la reçoit sur soi. Ce verbe se dit « abimasu ». Douche vient de l'anglais.",
+   "say": {
+    "abimasu": "浴びます"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit-déjeuner",
+     "朝ごはん"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "manger",
+     "食べます"
+    ]
+   ],
+   "note": "Le petit-déjeuner se dit mot à mot le repas du matin. Manger se dit « tabemasu ». C'est un verbe de tous les jours.",
+   "say": {
+    "tabemasu": "食べます"
+   }
+  },
+  {
+   "words": [
+    [
+     "thé",
+     "お茶"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "boire",
+     "飲みます"
+    ]
+   ],
+   "note": "Boire se dit « nomimasu ». Thé vert se dit simplement thé, avec le petit son poli devant. Au Japon, le thé est vert par défaut.",
+   "say": {
+    "nomimasu": "飲みます"
+   }
+  },
+  {
+   "words": [
+    [
+     "huit heures",
+     "八時"
+    ],
+    [
+     "petit mot du moment",
+     "に"
+    ],
+    [
+     "sortir",
+     "出かけます"
+    ]
+   ],
+   "note": "Après une heure, on ajoute le petit mot « ni ». C'est comme à en français, à huit heures. Le verbe sortir vient ensuite.",
+   "say": {
+    "ni": "に"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "明日"
+    ],
+    [
+     "Asakusa",
+     "浅草"
+    ],
+    [
+     "vers",
+     "に"
+    ],
+    [
+     "aller",
+     "行きます"
+    ]
+   ],
+   "note": "Le même verbe sert pour le présent et le futur. Avec demain, on comprend que c'est le futur. Je vais se dit donc « ikimasu ».",
+   "say": {
+    "ikimasu": "行きます"
+   }
+  },
+  {
+   "words": [
+    [
+     "week-end",
+     "週末"
+    ],
+    [
+     "ménage",
+     "掃除"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "faire",
+     "します"
+    ]
+   ],
+   "note": "Faire se dit « shimasu ». On le combine avec beaucoup de noms. Ménage plus faire, c'est faire le ménage.",
+   "say": {
+    "shimasu": "します"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce soir",
+     "今晩"
+    ],
+    [
+     "télé",
+     "テレビ"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "regarder",
+     "見ます"
+    ]
+   ],
+   "note": "Ce soir se dit « konban ». On le retrouve dans bonsoir, qui se dit presque pareil. Le moment vient en premier.",
+   "say": {
+    "konban": "今晩"
+   }
+  },
+  {
+   "words": [
+    [
+     "onze heures",
+     "十一時"
+    ],
+    [
+     "petit mot du moment",
+     "に"
+    ],
+    [
+     "dormir",
+     "寝ます"
+    ]
+   ],
+   "note": "Se coucher et dormir, c'est le même verbe, « nemasu ». Onze, c'est dix et un. C'est très régulier.",
+   "say": {
+    "nemasu": "寝ます"
+   }
+  }
+ ],
+ "0-0-9": [
+  {
+   "words": [
+    [
+     "bentō",
+     "お弁当"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "acheter",
+     "買います"
+    ]
+   ],
+   "note": "Le complément est suivi de « o ». Ce petit mot marque ce qu'on achète, mange ou boit. Il se place ici juste avant le verbe.",
+   "say": {
+    "o": "を"
+   }
+  },
+  {
+   "words": [
+    [
+     "onigiri",
+     "おにぎり"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "manger",
+     "食べます"
+    ]
+   ],
+   "note": "Une boule de riz se dit « onigiri ». On en trouve dans tous les konbinis. Elle est souvent garnie de thon ou de saumon.",
+   "say": {
+    "onigiri": "おにぎり"
+   }
+  },
+  {
+   "words": [
+    [
+     "eau",
+     "水"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "boire",
+     "飲みます"
+    ]
+   ],
+   "note": "Eau se dit « mizu ». On ne dit pas de l'eau, juste eau. Le japonais n'a pas d'article.",
+   "say": {
+    "mizu": "水"
+   }
+  },
+  {
+   "words": [
+    [
+     "bentō",
+     "お弁当"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "réchauffer",
+     "温めます"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "C'est la question qu'on entend toujours au konbini. Réchauffer se dit « atatamemasu ». Le petit mot de question vient en dernier.",
+   "say": {
+    "atatamemasu": "温めます"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "はい"
+    ],
+    [
+     "je vous le demande",
+     "お願いします"
+    ]
+   ],
+   "note": "S'il vous plaît, pour accepter, se dit « onegaishimasu ». Mot à mot, c'est je vous le demande. C'est la réponse polie à une offre.",
+   "say": {
+    "onegaishimasu": "お願いします"
+   }
+  },
+  {
+   "words": [
+    [
+     "poulet frit",
+     "唐揚げ"
+    ],
+    [
+     "bentō",
+     "弁当"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "choisir",
+     "選びます"
+    ]
+   ],
+   "note": "Le poulet frit japonais se dit « karaage ». C'est un des bentōs préférés des Japonais. Choisir vient à la fin.",
+   "say": {
+    "karaage": "唐揚げ"
+   }
+  },
+  {
+   "words": [
+    [
+     "porte-monnaie",
+     "財布"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "sortir",
+     "出します"
+    ]
+   ],
+   "note": "Porte-monnaie se dit « saifu ». Sortir, ici, veut dire sortir quelque chose. C'est un autre verbe que sortir de chez soi.",
+   "say": {
+    "saifu": "財布"
+   }
+  },
+  {
+   "words": [
+    [
+     "prix",
+     "値段"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "regarder",
+     "見ます"
+    ]
+   ],
+   "note": "Prix se dit « nedan ». Le complément vient avant le verbe regarder. On dit juste prix, sans article.",
+   "say": {
+    "nedan": "値段"
+   }
+  },
+  {
+   "words": [
+    [
+     "bentō",
+     "お弁当"
+    ],
+    [
+     "petit mot de liaison",
+     "の"
+    ],
+    [
+     "photo",
+     "写真"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "prendre",
+     "撮ります"
+    ]
+   ],
+   "note": "Photo se dit « shashin ». Prendre en photo se dit mot à mot prendre la photo du bentō. Le bentō vient avant, avec le petit mot de liaison.",
+   "say": {
+    "shashin": "写真"
+   }
+  },
+  {
+   "words": [
+    [
+     "quoi",
+     "何"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "manger",
+     "食べます"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Quoi, comme complément, se dit « nani ». Il prend simplement la place de la chose mangée. L'ordre de la phrase reste le même.",
+   "say": {
+    "nani": "何"
+   }
+  }
+ ],
+ "0-0-10": [
+  {
+   "words": [
+    [
+     "temple Sensō-ji",
+     "浅草寺"
+    ],
+    [
+     "vers",
+     "へ"
+    ],
+    [
+     "aller",
+     "行きます"
+    ]
+   ],
+   "note": "Le Sensō-ji est le plus vieux temple de Tokyo. Aller se dit « ikimasu ». La destination vient avant, avec le petit mot vers.",
+   "say": {
+    "ikimasu": "行きます"
+   }
+  },
+  {
+   "words": [
+    [
+     "dix heures",
+     "十時"
+    ],
+    [
+     "petit mot du moment",
+     "に"
+    ],
+    [
+     "partir",
+     "出ます"
+    ]
+   ],
+   "note": "Partir se dit « demasu ». Mot à mot, c'est sortir. Avec une heure précise, on ajoute le petit mot du moment.",
+   "say": {
+    "demasu": "出ます"
+   }
+  },
+  {
+   "words": [
+    [
+     "dix heures",
+     "十時"
+    ],
+    [
+     "et demie",
+     "半"
+    ],
+    [
+     "petit mot du moment",
+     "に"
+    ],
+    [
+     "Asakusa",
+     "浅草"
+    ],
+    [
+     "vers",
+     "に"
+    ],
+    [
+     "arriver",
+     "着きます"
+    ]
+   ],
+   "note": "Et demie se dit « han ». Il se place juste après l'heure. Le même petit mot sert ensuite pour l'heure et pour le lieu d'arrivée.",
+   "say": {
+    "han": "半"
+   }
+  },
+  {
+   "words": [
+    [
+     "ami",
+     "友達"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "onze heures",
+     "十一時"
+    ],
+    [
+     "petit mot du moment",
+     "に"
+    ],
+    [
+     "venir",
+     "来ます"
+    ]
+   ],
+   "note": "Venir se dit « kimasu ». On dit le thème, puis l'heure, puis le verbe. L'heure a besoin du petit mot du moment.",
+   "say": {
+    "kimasu": "来ます"
+   }
+  },
+  {
+   "words": [
+    [
+     "où",
+     "どこ"
+    ],
+    [
+     "vers",
+     "へ"
+    ],
+    [
+     "aller",
+     "行きます"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Pour demander où l'on va, on dit « doko e ». Le second son veut dire vers. On termine par aller et le petit mot de question.",
+   "say": {
+    "doko e": "どこへ"
+   }
+  },
+  {
+   "words": [
+    [
+     "porte du Tonnerre",
+     "雷門"
+    ],
+    [
+     "vers",
+     "へ"
+    ],
+    [
+     "aller",
+     "行きます"
+    ]
+   ],
+   "note": "Le nom de cette porte veut dire porte du tonnerre. Tonnerre se dit « kaminari ». C'est l'entrée la plus célèbre d'Asakusa.",
+   "say": {
+    "kaminari": "雷"
+   }
+  },
+  {
+   "words": [
+    [
+     "ensuite",
+     "それから"
+    ],
+    [
+     "Skytree",
+     "スカイツリー"
+    ],
+    [
+     "vers",
+     "に"
+    ],
+    [
+     "aller",
+     "行きます"
+    ]
+   ],
+   "note": "Ensuite se dit « sorekara ». On le place en tête de phrase, suivi d'une petite pause. Il sert à raconter les étapes d'une journée.",
+   "say": {
+    "sorekara": "それから"
+   }
+  },
+  {
+   "words": [
+    [
+     "six heures",
+     "六時"
+    ],
+    [
+     "petit mot du moment",
+     "に"
+    ],
+    [
+     "maison",
+     "家"
+    ],
+    [
+     "vers",
+     "へ"
+    ],
+    [
+     "rentrer",
+     "帰ります"
+    ]
+   ],
+   "note": "L'heure vient souvent en premier, puis le lieu. Chaque élément a son petit mot. Rentrer se dit « kaerimasu ».",
+   "say": {
+    "kaerimasu": "帰ります"
+   }
+  },
+  {
+   "words": [
+    [
+     "samedi",
+     "土曜日"
+    ],
+    [
+     "petit mot du moment",
+     "に"
+    ],
+    [
+     "piscine",
+     "プール"
+    ],
+    [
+     "vers",
+     "へ"
+    ],
+    [
+     "aller",
+     "行きます"
+    ]
+   ],
+   "note": "Samedi se dit « doyōbi ». Avec un jour de la semaine, on ajoute le petit mot du moment. Piscine est un mot venu de l'anglais.",
+   "say": {
+    "doyōbi": "土曜日"
+   }
+  },
+  {
+   "words": [
+    [
+     "Nakamise",
+     "仲見世"
+    ],
+    [
+     "petit mot de liaison",
+     "の"
+    ],
+    [
+     "boutiques",
+     "お店"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "dix heures",
+     "十時"
+    ],
+    [
+     "petit mot du moment",
+     "に"
+    ],
+    [
+     "ouvrir",
+     "開きます"
+    ]
+   ],
+   "note": "Ouvrir, pour un magasin, se dit « akimasu ». Le magasin s'ouvre tout seul, sans complément. Les boutiques de Nakamise mènent au temple.",
+   "say": {
+    "akimasu": "開きます"
+   }
+  }
+ ],
+ "0-0-11": [
+  {
+   "words": [
+    [
+     "métro",
+     "地下鉄"
+    ],
+    [
+     "petit mot du moyen",
+     "で"
+    ],
+    [
+     "entreprise",
+     "会社"
+    ],
+    [
+     "vers",
+     "に"
+    ],
+    [
+     "aller",
+     "行きます"
+    ]
+   ],
+   "note": "Après un moyen de transport, on ajoute le petit mot « de ». Métro suivi de ce mot, c'est en métro. Le travail se dit ici l'entreprise.",
+   "say": {
+    "de": "で"
+   }
+  },
+  {
+   "words": [
+    [
+     "Ueno",
+     "上野"
+    ],
+    [
+     "petit mot du lieu",
+     "で"
+    ],
+    [
+     "changer de train",
+     "乗り換えます"
+    ]
+   ],
+   "note": "Changer de train se dit « norikaemasu ». Mot à mot, c'est monter en changeant. Le lieu du changement prend le petit mot du lieu.",
+   "say": {
+    "norikaemasu": "乗り換えます"
+   }
+  },
+  {
+   "words": [
+    [
+     "distributeur",
+     "券売機"
+    ],
+    [
+     "petit mot du lieu",
+     "で"
+    ],
+    [
+     "ticket",
+     "切符"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "acheter",
+     "買います"
+    ]
+   ],
+   "note": "Ticket se dit « kippu ». Le distributeur est l'endroit où l'on achète, avec le petit mot du lieu. Puis vient le ticket, et enfin acheter.",
+   "say": {
+    "kippu": "切符"
+   }
+  },
+  {
+   "words": [
+    [
+     "smartphone",
+     "スマホ"
+    ],
+    [
+     "petit mot du moyen",
+     "で"
+    ],
+    [
+     "payer",
+     "払います"
+    ]
+   ],
+   "note": "Smartphone se dit « sumaho ». C'est un mot anglais raccourci à la japonaise. Le même petit mot sert ici pour le moyen.",
+   "say": {
+    "sumaho": "スマホ"
+   }
+  },
+  {
+   "words": [
+    [
+     "métro",
+     "地下鉄"
+    ],
+    [
+     "petit mot du lieu",
+     "で"
+    ],
+    [
+     "dormir",
+     "寝ます"
+    ]
+   ],
+   "note": "Dormir se dit « nemasu ». Dans le métro, on met le petit mot du lieu. Beaucoup de Japonais font la sieste dans les transports.",
+   "say": {
+    "nemasu": "寝ます"
+   }
+  },
+  {
+   "words": [
+    [
+     "taxi",
+     "タクシー"
+    ],
+    [
+     "petit mot du moyen",
+     "で"
+    ],
+    [
+     "Ginza",
+     "銀座"
+    ],
+    [
+     "vers",
+     "に"
+    ],
+    [
+     "aller",
+     "行きます"
+    ]
+   ],
+   "note": "Taxi se dit « takushī ». On ajoute un son i long à la fin, à la japonaise. Le moyen vient avant la destination.",
+   "say": {
+    "takushī": "タクシー"
+   }
+  },
+  {
+   "words": [
+    [
+     "gare de Tokyo",
+     "東京駅"
+    ],
+    [
+     "petit mot du lieu",
+     "で"
+    ],
+    [
+     "déjeuner",
+     "昼ごはん"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "manger",
+     "食べます"
+    ]
+   ],
+   "note": "Le déjeuner se dit « hirugohan ». C'est mot à mot le repas de midi. Le petit-déjeuner suit la même logique avec le matin.",
+   "say": {
+    "hirugohan": "昼ごはん"
+   }
+  },
+  {
+   "words": [
+    [
+     "Ikebukuro",
+     "池袋"
+    ],
+    [
+     "petit mot du lieu",
+     "で"
+    ],
+    [
+     "courses",
+     "買い物"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "faire",
+     "します"
+    ]
+   ],
+   "note": "Les courses se disent « kaimono ». Mot à mot, c'est la chose achetée. On ajoute faire pour en faire un verbe.",
+   "say": {
+    "kaimono": "買い物"
+   }
+  },
+  {
+   "words": [
+    [
+     "où",
+     "どこ"
+    ],
+    [
+     "petit mot du lieu",
+     "で"
+    ],
+    [
+     "changer de train",
+     "乗り換えます"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Où, pour le lieu d'une action, se dit « doko de ». Pour la destination, on dit où avec le petit mot vers. Le verbe et la question viennent à la fin.",
+   "say": {
+    "doko de": "どこで"
+   }
+  },
+  {
+   "words": [
+    [
+     "vélo",
+     "自転車"
+    ],
+    [
+     "petit mot du moyen",
+     "で"
+    ],
+    [
+     "konbini",
+     "コンビニ"
+    ],
+    [
+     "vers",
+     "に"
+    ],
+    [
+     "aller",
+     "行きます"
+    ]
+   ],
+   "note": "On marque le moyen et la destination avec deux petits mots différents. Vers, après la destination, se dit « ni ». Le verbe aller ferme la phrase.",
+   "say": {
+    "ni": "に"
+   }
+  }
+ ],
+ "0-0-12": [
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "今日"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "travail",
+     "仕事"
+    ],
+    [
+     "vers",
+     "に"
+    ],
+    [
+     "ne pas aller",
+     "行きません"
+    ]
+   ],
+   "note": "Pour la négation, on remplace la fin du verbe par « masen ». Je vais devient ainsi je ne vais pas. Le reste de la phrase ne bouge pas.",
+   "say": {
+    "masen": "ません"
+   }
+  },
+  {
+   "words": [
+    [
+     "tôt",
+     "早く"
+    ],
+    [
+     "ne pas se lever",
+     "起きません"
+    ]
+   ],
+   "note": "Tôt se dit « hayaku ». Il se place juste avant le verbe. Comme d'habitude, je n'est pas dit.",
+   "say": {
+    "hayaku": "早く"
+   }
+  },
+  {
+   "words": [
+    [
+     "train",
+     "電車"
+    ],
+    [
+     "dans",
+     "に"
+    ],
+    [
+     "ne pas monter",
+     "乗りません"
+    ]
+   ],
+   "note": "Prendre le train se dit monter dans le train. La négation se dit « norimasen ». Le train garde son petit mot dans.",
+   "say": {
+    "norimasen": "乗りません"
+   }
+  },
+  {
+   "words": [
+    [
+     "alcool",
+     "お酒"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "ne pas boire",
+     "飲みません"
+    ]
+   ],
+   "note": "Alcool se dit « osake ». Ce mot désigne l'alcool en général, pas seulement le saké. On le dit avec le petit son poli.",
+   "say": {
+    "osake": "お酒"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce soir",
+     "今晩"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "cuisine",
+     "料理"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "ne pas faire",
+     "しません"
+    ]
+   ],
+   "note": "Faire la cuisine se dit cuisine plus faire. Ne pas faire se dit « shimasen ». Ce soir est mis en thème pour marquer le contraste.",
+   "say": {
+    "shimasen": "しません"
+   }
+  },
+  {
+   "words": [
+    [
+     "maison",
+     "家"
+    ],
+    [
+     "petit mot du lieu",
+     "で"
+    ],
+    [
+     "film",
+     "映画"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "regarder",
+     "見ます"
+    ]
+   ],
+   "note": "Film se dit « eiga ». Ici, la phrase est positive, avec la fin habituelle. À la maison prend le petit mot du lieu.",
+   "say": {
+    "eiga": "映画"
+   }
+  },
+  {
+   "words": [
+    [
+     "télé",
+     "テレビ"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "ne pas regarder",
+     "見ません"
+    ]
+   ],
+   "note": "Dans une phrase négative, on remplace souvent le petit mot du complément par celui du thème. Cela veut dire la télé, en tout cas, non. Le verbe se dit « mimasen ».",
+   "say": {
+    "mimasen": "見ません"
+   }
+  },
+  {
+   "words": [
+    [
+     "bien",
+     "よく"
+    ],
+    [
+     "ne pas comprendre",
+     "わかりません"
+    ]
+   ],
+   "note": "Je ne comprends pas se dit « wakarimasen ». C'est une phrase très utile pour un débutant. Bien, juste avant, adoucit la phrase.",
+   "say": {
+    "wakarimasen": "わかりません"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "明日"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "pluie",
+     "雨"
+    ],
+    [
+     "petit mot du sujet",
+     "が"
+    ],
+    [
+     "ne pas tomber",
+     "降りません"
+    ]
+   ],
+   "note": "Pour la pluie, on dit que la pluie tombe. Pluie se dit « ame ». Ici, le verbe tomber est à la négation.",
+   "say": {
+    "ame": "雨"
+   }
+  },
+  {
+   "words": [
+    [
+     "où",
+     "どこ"
+    ],
+    [
+     "vers",
+     "へ"
+    ],
+    [
+     "même",
+     "も"
+    ],
+    [
+     "ne pas aller",
+     "行きません"
+    ]
+   ],
+   "note": "Nulle part se dit où, vers, même, puis un verbe négatif. Ce petit mot même se dit « mo ». Le verbe doit être à la négation.",
+   "say": {
+    "mo": "も"
+   }
+  }
+ ],
+ "0-0-13": [
+  {
+   "words": [
+    [
+     "un",
+     "いち"
+    ],
+    [
+     "deux",
+     "に"
+    ],
+    [
+     "trois",
+     "さん"
+    ]
+   ],
+   "note": "Un, deux, trois se dit « ichi, ni, san ». Ces trois nombres servent de base à tous les autres. On les entend aussi pour prendre une photo.",
+   "say": {
+    "ichi, ni, san": "いち、に、さん"
+   }
+  },
+  {
+   "words": [
+    [
+     "maintenant",
+     "今"
+    ],
+    [
+     "quelle heure",
+     "何時"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Quelle heure se dit « nanji ». C'est quoi suivi du mot heure. Maintenant se place au début.",
+   "say": {
+    "nanji": "何時"
+   }
+  },
+  {
+   "words": [
+    [
+     "quatre heures",
+     "四時"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Attention, quatre heures se dit « yoji ». Le nombre quatre change de son devant heure. C'est une exception à retenir.",
+   "say": {
+    "yoji": "四時"
+   }
+  },
+  {
+   "words": [
+    [
+     "neuf heures",
+     "九時"
+    ],
+    [
+     "et demie",
+     "半"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Neuf heures se dit « kuji ». Le nombre neuf prend ici un son court. Et demie s'ajoute juste après.",
+   "say": {
+    "kuji": "九時"
+   }
+  },
+  {
+   "words": [
+    [
+     "train",
+     "電車"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "sept heures",
+     "七時"
+    ],
+    [
+     "petit mot du moment",
+     "に"
+    ],
+    [
+     "partir",
+     "出ます"
+    ]
+   ],
+   "note": "Sept heures se dit « shichiji ». Le train est le thème, puis vient l'heure. Le verbe partir ferme la phrase.",
+   "say": {
+    "shichiji": "七時"
+   }
+  },
+  {
+   "words": [
+    [
+     "téléphone",
+     "電話"
+    ],
+    [
+     "numéro",
+     "番号"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "quel numéro",
+     "何番"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Pour demander un numéro, on dit « nanban ». C'est quoi suivi du mot numéro. Le numéro de téléphone est mis en thème.",
+   "say": {
+    "nanban": "何番"
+   }
+  },
+  {
+   "words": [
+    [
+     "ramen",
+     "ラーメン"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "huit cents",
+     "八百"
+    ],
+    [
+     "yen",
+     "円"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Huit cents se dit « happyaku ». Le son change un peu quand huit rencontre cent. Le prix se termine par yen et le petit mot poli.",
+   "say": {
+    "happyaku": "八百"
+   }
+  },
+  {
+   "words": [
+    [
+     "cours",
+     "授業"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "une heure",
+     "一時"
+    ],
+    [
+     "petit mot du moment",
+     "に"
+    ],
+    [
+     "commencer",
+     "始まります"
+    ]
+   ],
+   "note": "Une heure se dit « ichiji ». Le cours est le thème de la phrase. Commencer vient à la fin.",
+   "say": {
+    "ichiji": "一時"
+   }
+  },
+  {
+   "words": [
+    [
+     "dix",
+     "十"
+    ],
+    [
+     "onze",
+     "十一"
+    ],
+    [
+     "douze",
+     "十二"
+    ]
+   ],
+   "note": "Dix se dit « jū ». Onze, c'est dix et un. Douze, c'est dix et deux.",
+   "say": {
+    "jū": "十"
+   }
+  },
+  {
+   "words": [
+    [
+     "pile",
+     "ちょうど"
+    ],
+    [
+     "midi",
+     "十二時"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Pile, pour l'heure, se dit « chōdo ». Il se place avant l'heure. Midi, c'est tout simplement douze heures.",
+   "say": {
+    "chōdo": "ちょうど"
+   }
+  }
+ ],
+ "0-0-14": [
+  {
+   "words": [
+    [
+     "maison",
+     "家"
+    ],
+    [
+     "petit mot de liaison",
+     "の"
+    ],
+    [
+     "proximité",
+     "近く"
+    ],
+    [
+     "petit mot du lieu",
+     "に"
+    ],
+    [
+     "konbini",
+     "コンビニ"
+    ],
+    [
+     "petit mot du sujet",
+     "が"
+    ],
+    [
+     "il y a",
+     "あります"
+    ]
+   ],
+   "note": "Pour un objet ou un lieu, il y a se dit « arimasu ». La chose qui existe prend le petit mot du sujet. Le verbe vient en dernier.",
+   "say": {
+    "arimasu": "あります"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit",
+     "小さい"
+    ],
+    [
+     "parc",
+     "公園"
+    ],
+    [
+     "aussi",
+     "も"
+    ],
+    [
+     "il y a",
+     "あります"
+    ]
+   ],
+   "note": "Aussi se dit « mo ». Il remplace le petit mot du sujet. Il se place juste après le mot concerné.",
+   "say": {
+    "mo": "も"
+   }
+  },
+  {
+   "words": [
+    [
+     "parc",
+     "公園"
+    ],
+    [
+     "petit mot du lieu",
+     "に"
+    ],
+    [
+     "chat",
+     "猫"
+    ],
+    [
+     "petit mot du sujet",
+     "が"
+    ],
+    [
+     "il y a",
+     "います"
+    ]
+   ],
+   "note": "Pour un être vivant, il y a se dit « imasu ». Un chat bouge tout seul, donc on change de verbe. C'est un point très important en japonais.",
+   "say": {
+    "imasu": "います"
+   }
+  },
+  {
+   "words": [
+    [
+     "gare",
+     "駅"
+    ],
+    [
+     "petit mot du lieu",
+     "に"
+    ],
+    [
+     "gens",
+     "人"
+    ],
+    [
+     "petit mot du sujet",
+     "が"
+    ],
+    [
+     "beaucoup",
+     "たくさん"
+    ],
+    [
+     "il y a",
+     "います"
+    ]
+   ],
+   "note": "Beaucoup se dit « takusan ». Il se place juste avant le verbe. Les gens sont vivants, donc on prend le verbe des êtres vivants.",
+   "say": {
+    "takusan": "たくさん"
+   }
+  },
+  {
+   "words": [
+    [
+     "banque",
+     "銀行"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "il y a",
+     "あります"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Banque se dit « ginkō ». Pour demander s'il y en a une, on ajoute le petit mot de question. Le thème montre ce qu'on cherche.",
+   "say": {
+    "ginkō": "銀行"
+   }
+  },
+  {
+   "words": [
+    [
+     "supermarché",
+     "スーパー"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "il n'y a pas",
+     "ありません"
+    ]
+   ],
+   "note": "Il n'y a pas se dit « arimasen ». C'est la négation du verbe il y a. Supermarché se dit avec un mot raccourci de l'anglais.",
+   "say": {
+    "arimasen": "ありません"
+   }
+  },
+  {
+   "words": [
+    [
+     "grand frère",
+     "兄"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "maison",
+     "家"
+    ],
+    [
+     "petit mot du lieu",
+     "に"
+    ],
+    [
+     "être là",
+     "います"
+    ]
+   ],
+   "note": "Mon grand frère se dit « ani ». Pour sa propre famille, on utilise des mots simples. Le verbe des êtres vivants sert aussi pour être à la maison.",
+   "say": {
+    "ani": "兄"
+   }
+  },
+  {
+   "words": [
+    [
+     "chambre",
+     "部屋"
+    ],
+    [
+     "petit mot du lieu",
+     "に"
+    ],
+    [
+     "télé",
+     "テレビ"
+    ],
+    [
+     "petit mot du sujet",
+     "が"
+    ],
+    [
+     "il y a",
+     "あります"
+    ]
+   ],
+   "note": "On dit d'abord le lieu, puis la chose. Télé se dit « terebi ». La télé est un objet, donc le verbe est celui des objets.",
+   "say": {
+    "terebi": "テレビ"
+   }
+  },
+  {
+   "words": [
+    [
+     "poste de police",
+     "交番"
+    ],
+    [
+     "petit mot du lieu",
+     "に"
+    ],
+    [
+     "policier",
+     "警察官"
+    ],
+    [
+     "petit mot du sujet",
+     "が"
+    ],
+    [
+     "il y a",
+     "います"
+    ]
+   ],
+   "note": "Le petit poste de police du quartier se dit « kōban ». On en trouve partout à Tokyo. Le policier est vivant, d'où le verbe des êtres vivants.",
+   "say": {
+    "kōban": "交番"
+   }
+  },
+  {
+   "words": [
+    [
+     "frigo",
+     "冷蔵庫"
+    ],
+    [
+     "petit mot du lieu",
+     "に"
+    ],
+    [
+     "lait",
+     "牛乳"
+    ],
+    [
+     "petit mot du sujet",
+     "が"
+    ],
+    [
+     "il y a",
+     "あります"
+    ]
+   ],
+   "note": "Lait se dit « gyūnyū ». Le lieu se place en premier, avec son petit mot. Le lait est une chose, donc on garde le verbe des objets.",
+   "say": {
+    "gyūnyū": "牛乳"
+   }
+  }
+ ],
+ "0-0-15": [
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "今日"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "très",
+     "とても"
+    ],
+    [
+     "chaud",
+     "暑い"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Il fait chaud se dit « atsui ». Pas besoin de il fait, l'adjectif suffit. On ajoute le petit mot poli.",
+   "say": {
+    "atsui": "暑い"
+   }
+  },
+  {
+   "words": [
+    [
+     "Tokyo",
+     "東京"
+    ],
+    [
+     "petit mot de liaison",
+     "の"
+    ],
+    [
+     "hiver",
+     "冬"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "froid",
+     "寒い"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Froid, pour le temps, se dit « samui ». Comme beaucoup d'adjectifs, il finit par le son i. L'hiver de Tokyo se dit Tokyo, liaison, hiver.",
+   "say": {
+    "samui": "寒い"
+   }
+  },
+  {
+   "words": [
+    [
+     "ciel",
+     "空"
+    ],
+    [
+     "petit mot du sujet",
+     "が"
+    ],
+    [
+     "bleu",
+     "青い"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Bleu se dit « aoi ». Au Japon, ce mot désigne aussi le vert des feux de circulation. Ciel se place avant, avec le petit mot du sujet.",
+   "say": {
+    "aoi": "青い"
+   }
+  },
+  {
+   "words": [
+    [
+     "vent",
+     "風"
+    ],
+    [
+     "petit mot du sujet",
+     "が"
+    ],
+    [
+     "fort",
+     "強い"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Fort se dit « tsuyoi ». Le vent prend le petit mot du sujet, car on décrit ce qu'on sent. Le petit mot poli ferme la phrase.",
+   "say": {
+    "tsuyoi": "強い"
+   }
+  },
+  {
+   "words": [
+    [
+     "froid",
+     "冷たい"
+    ],
+    [
+     "glace",
+     "アイス"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "délicieux",
+     "おいしい"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Pour un objet froid au toucher, on dit « tsumetai ». Pour le temps qu'il fait, on dit un autre mot. Le japonais distingue bien les deux.",
+   "say": {
+    "tsumetai": "冷たい"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "この"
+    ],
+    [
+     "parapluie",
+     "傘"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "cher",
+     "高い"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Parapluie se dit « kasa ». Au Japon, on en achète souvent au konbini quand il pleut. Cher finit la phrase, avant le petit mot poli.",
+   "say": {
+    "kasa": "傘"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce là-bas",
+     "あの"
+    ],
+    [
+     "parapluie",
+     "傘"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "bon marché",
+     "安い"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Bon marché se dit « yasui ». C'est le contraire de cher. Ce là-bas, devant un nom, montre un objet éloigné.",
+   "say": {
+    "yasui": "安い"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "今日"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "pas froid",
+     "寒くない"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Pour nier un adjectif en i, on change la fin en « kunai ». Froid devient ainsi pas froid. On garde le petit mot poli à la fin.",
+   "say": {
+    "kunai": "くない"
+   }
+  },
+  {
+   "words": [
+    [
+     "été",
+     "夏"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "jour",
+     "日"
+    ],
+    [
+     "petit mot du sujet",
+     "が"
+    ],
+    [
+     "long",
+     "長い"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Cette phrase a un thème et un sujet. L'été est le thème, les journées sont le sujet. Long se dit « nagai ».",
+   "say": {
+    "nagai": "長い"
+   }
+  },
+  {
+   "words": [
+    [
+     "lourd",
+     "蒸し暑い"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot d'accord",
+     "ね"
+    ]
+   ],
+   "note": "Chaud et humide se dit « mushiatsui ». C'est le mot de l'été japonais. Le petit mot final invite l'autre à être d'accord.",
+   "say": {
+    "mushiatsui": "蒸し暑い"
+   }
+  }
+ ],
+ "0-0-16": [
+  {
+   "words": [
+    [
+     "Shinjuku",
+     "新宿"
+    ],
+    [
+     "jardin impérial",
+     "御苑"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "beau",
+     "きれい"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Beau ou propre se dit « kirei ». Il finit par un i, mais ce n'est pas un adjectif en i. Il ne change donc pas à la négation.",
+   "say": {
+    "kirei": "きれい"
+   }
+  },
+  {
+   "words": [
+    [
+     "calme",
+     "静か"
+    ],
+    [
+     "petit mot de l'adjectif",
+     "な"
+    ],
+    [
+     "endroit",
+     "所"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Devant un nom, certains adjectifs prennent le petit mot « na ». Il se place entre l'adjectif et le nom. À la fin d'une phrase, il disparaît.",
+   "say": {
+    "na": "な"
+   }
+  },
+  {
+   "words": [
+    [
+     "très",
+     "とても"
+    ],
+    [
+     "célèbre",
+     "有名"
+    ],
+    [
+     "petit mot de l'adjectif",
+     "な"
+    ],
+    [
+     "jardin",
+     "庭園"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Jardin se dit « teien ». Célèbre prend le même petit mot que calme devant un nom. Très se place tout au début.",
+   "say": {
+    "teien": "庭園"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "ここ"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "animé",
+     "にぎやか"
+    ],
+    [
+     "ne pas être",
+     "じゃありません"
+    ]
+   ],
+   "note": "Pour nier ces adjectifs, on fait comme avec un nom. On ajoute simplement « ja arimasen ».",
+   "say": {
+    "ja arimasen": "じゃありません"
+   }
+  },
+  {
+   "words": [
+    [
+     "chemin",
+     "道"
+    ],
+    [
+     "petit mot du sujet",
+     "が"
+    ],
+    [
+     "très",
+     "とても"
+    ],
+    [
+     "propre",
+     "きれい"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Chemin ou rue se dit « michi ». Ici, propre et beau sont le même mot. Le contexte suffit pour comprendre.",
+   "say": {
+    "michi": "道"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "今日"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "libre",
+     "暇"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Libre, sans rien à faire, se dit « hima ». On l'emploie pour dire qu'on a du temps. Il ne change pas de forme devant le petit mot poli.",
+   "say": {
+    "hima": "暇"
+   }
+  },
+  {
+   "words": [
+    [
+     "Tokyo",
+     "東京"
+    ],
+    [
+     "petit mot de liaison",
+     "の"
+    ],
+    [
+     "métro",
+     "地下鉄"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "pratique",
+     "便利"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Métro se dit « chikatetsu ». Mot à mot, c'est le fer sous la terre. Le métro de Tokyo est réputé pour sa ponctualité.",
+   "say": {
+    "chikatetsu": "地下鉄"
+   }
+  },
+  {
+   "words": [
+    [
+     "Yamada",
+     "山田"
+    ],
+    [
+     "mademoiselle",
+     "さん"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "gentil",
+     "親切"
+    ],
+    [
+     "petit mot de l'adjectif",
+     "な"
+    ],
+    [
+     "personne",
+     "人"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Gentil, serviable, se dit « shinsetsu ». Devant personne, il prend le petit mot des adjectifs. Une personne gentille, c'est gentil, petit mot, puis personne.",
+   "say": {
+    "shinsetsu": "親切"
+   }
+  },
+  {
+   "words": [
+    [
+     "magnifique",
+     "すてき"
+    ],
+    [
+     "petit mot de l'adjectif",
+     "な"
+    ],
+    [
+     "endroit",
+     "所"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot d'accord",
+     "ね"
+    ]
+   ],
+   "note": "Magnifique ou charmant se dit « suteki ». Le petit mot final exprime l'émotion partagée. On l'entend souvent en visitant un beau lieu.",
+   "say": {
+    "suteki": "すてき"
+   }
+  },
+  {
+   "words": [
+    [
+     "japonais",
+     "日本語"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "facile",
+     "簡単"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "La langue japonaise se dit « nihongo ». C'est le Japon suivi d'un mot qui veut dire langue. Facile vient ensuite, puis la question.",
+   "say": {
+    "nihongo": "日本語"
+   }
+  }
+ ],
+ "0-0-17": [
+  {
+   "words": [
+    [
+     "ce",
+     "この"
+    ],
+    [
+     "jupe",
+     "スカート"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "mignon",
+     "かわいい"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Mignon se dit « kawaii ». C'est l'un des mots les plus utilisés au Japon. On le dit pour les vêtements, les animaux ou les gens.",
+   "say": {
+    "kawaii": "かわいい"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "この"
+    ],
+    [
+     "veste",
+     "ジャケット"
+    ],
+    [
+     "aussi",
+     "も"
+    ],
+    [
+     "mignon",
+     "かわいい"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Aussi se dit « mo ». Il remplace le petit mot du thème. Cette veste aussi, c'est veste, puis ce petit mot.",
+   "say": {
+    "mo": "も"
+   }
+  },
+  {
+   "words": [
+    [
+     "pull",
+     "セーター"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "acheter",
+     "買います"
+    ]
+   ],
+   "note": "Pull se dit « sētā ». Il vient de l'anglais, avec des voyelles longues. Le verbe acheter vient à la fin.",
+   "say": {
+    "sētā": "セーター"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi",
+     "私"
+    ],
+    [
+     "aussi",
+     "も"
+    ],
+    [
+     "acheter",
+     "買います"
+    ]
+   ],
+   "note": "Moi aussi se dit « watashi mo ». Le petit mot aussi suit directement moi. Pas besoin de répéter le pull.",
+   "say": {
+    "watashi mo": "私も"
+   }
+  },
+  {
+   "words": [
+    [
+     "chaussures",
+     "靴"
+    ],
+    [
+     "aussi",
+     "も"
+    ],
+    [
+     "regarder",
+     "見ます"
+    ]
+   ],
+   "note": "Chaussures se dit « kutsu ». Ici, aussi porte sur l'objet regardé. Il remplace le petit mot du complément.",
+   "say": {
+    "kutsu": "靴"
+   }
+  },
+  {
+   "words": [
+    [
+     "bleu",
+     "青"
+    ],
+    [
+     "aussi",
+     "も"
+    ],
+    [
+     "il y a",
+     "あります"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Pour demander une couleur en magasin, on demande s'il y en a. On utilise le verbe des objets, « arimasu ». Bleu se dit ici sans le son i final, comme un nom.",
+   "say": {
+    "arimasu": "あります"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "はい"
+    ],
+    [
+     "noir",
+     "黒"
+    ],
+    [
+     "aussi",
+     "も"
+    ],
+    [
+     "il y a",
+     "あります"
+    ]
+   ],
+   "note": "Noir se dit « kuro ». Comme bleu, il s'emploie ici comme un nom. Le petit mot aussi le suit directement.",
+   "say": {
+    "kuro": "黒"
+   }
+  },
+  {
+   "words": [
+    [
+     "manteau",
+     "コート"
+    ],
+    [
+     "aussi",
+     "も"
+    ],
+    [
+     "cher",
+     "高い"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Manteau se dit « kōto ». Il vient de l'anglais. Le petit mot aussi remplace ici le thème.",
+   "say": {
+    "kōto": "コート"
+   }
+  },
+  {
+   "words": [
+    [
+     "cabine d'essayage",
+     "試着室"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "où",
+     "どこ"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "La cabine d'essayage se dit « shichakushitsu ». C'est un long mot, mais très utile. On le dit avec où et le petit mot de question.",
+   "say": {
+    "shichakushitsu": "試着室"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "今日"
+    ],
+    [
+     "aussi",
+     "も"
+    ],
+    [
+     "Shibuya",
+     "渋谷"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "gens",
+     "人"
+    ],
+    [
+     "petit mot du sujet",
+     "が"
+    ],
+    [
+     "nombreux",
+     "多い"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Il y a foule se dit les gens sont nombreux. Nombreux se dit « ōi ». Aujourd'hui aussi, c'est aujourd'hui suivi du petit mot aussi.",
+   "say": {
+    "ōi": "多い"
+   }
+  }
+ ],
+ "0-0-18": [
+  {
+   "words": [
+    [
+     "ensemble",
+     "一緒に"
+    ],
+    [
+     "ramen",
+     "ラーメン"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "ne pas manger",
+     "食べません"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Pour inviter, on pose une question négative. On ne mange pas ensemble, c'est en fait une proposition. La fin se dit « masen ka ».",
+   "say": {
+    "masen ka": "ませんか"
+   }
+  },
+  {
+   "words": [
+    [
+     "bon",
+     "いい"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot d'accord",
+     "ね"
+    ],
+    [
+     "aller",
+     "行きましょう"
+    ]
+   ],
+   "note": "Pour dire allons, on change la fin du verbe en « mashō ». Allons-y se dit donc aller avec cette fin. Avant, bonne idée se dit mot à mot c'est bien.",
+   "say": {
+    "mashō": "ましょう"
+   }
+  },
+  {
+   "words": [
+    [
+     "où",
+     "どこ"
+    ],
+    [
+     "petit mot du lieu",
+     "で"
+    ],
+    [
+     "se retrouver",
+     "会いましょう"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Avec la question, on demande l'avis de l'autre. Se retrouver se dit « aimashō ka ». C'est la manière douce de demander où.",
+   "say": {
+    "aimashō ka": "会いましょうか"
+   }
+  },
+  {
+   "words": [
+    [
+     "gare de Shinjuku",
+     "新宿駅"
+    ],
+    [
+     "petit mot de liaison",
+     "の"
+    ],
+    [
+     "sortie est",
+     "東口"
+    ],
+    [
+     "petit mot du lieu",
+     "で"
+    ],
+    [
+     "se retrouver",
+     "会いましょう"
+    ]
+   ],
+   "note": "Sortie est se dit « higashiguchi ». C'est est suivi de sortie. Les grandes gares ont toujours plusieurs sorties.",
+   "say": {
+    "higashiguchi": "東口"
+   }
+  },
+  {
+   "words": [
+    [
+     "sept heures",
+     "七時"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "comment",
+     "どう"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Pour proposer, on dit « dō desu ka ». Mot à mot, c'est comment est-ce. On met l'heure proposée en thème juste avant.",
+   "say": {
+    "dō desu ka": "どうですか"
+   }
+  },
+  {
+   "words": [
+    [
+     "ensuite",
+     "それから"
+    ],
+    [
+     "mairie de Tokyo",
+     "都庁"
+    ],
+    [
+     "petit mot de liaison",
+     "の"
+    ],
+    [
+     "observatoire",
+     "展望台"
+    ],
+    [
+     "vers",
+     "に"
+    ],
+    [
+     "ne pas aller",
+     "行きません"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Observatoire se dit « tenbōdai ». Celui de la mairie de Tokyo est gratuit. Encore une fois, on invite avec une question négative.",
+   "say": {
+    "tenbōdai": "展望台"
+   }
+  },
+  {
+   "words": [
+    [
+     "taxi",
+     "タクシー"
+    ],
+    [
+     "dans",
+     "に"
+    ],
+    [
+     "monter",
+     "乗りましょう"
+    ]
+   ],
+   "note": "Prenons se dit ici montons. La fin du verbe propose de faire ensemble. Monter devient « norimashō ».",
+   "say": {
+    "norimashō": "乗りましょう"
+   }
+  },
+  {
+   "words": [
+    [
+     "ensemble",
+     "一緒に"
+    ],
+    [
+     "photo",
+     "写真"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "ne pas prendre",
+     "撮りません"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Ensemble se dit « issho ni ». Il se place en tout début de phrase. On propose ensuite la photo avec une question négative.",
+   "say": {
+    "issho ni": "一緒に"
+   }
+  },
+  {
+   "words": [
+    [
+     "bientôt",
+     "そろそろ"
+    ],
+    [
+     "rentrer",
+     "帰りましょう"
+    ],
+    [
+     "petit mot de question",
+     "か"
+    ]
+   ],
+   "note": "Il est temps se dit « sorosoro ». On l'emploie pour proposer de partir sans brusquer. C'est très japonais.",
+   "say": {
+    "sorosoro": "そろそろ"
+   }
+  },
+  {
+   "words": [
+    [
+     "semaine prochaine",
+     "来週"
+    ],
+    [
+     "aussi",
+     "も"
+    ],
+    [
+     "encore",
+     "また"
+    ],
+    [
+     "aller",
+     "行きましょう"
+    ]
+   ],
+   "note": "La semaine prochaine se dit « raishū ». Encore se dit juste après. Le verbe propose d'y aller ensemble.",
+   "say": {
+    "raishū": "来週"
+   }
+  }
+ ],
+ "0-0-19": [
+  {
+   "words": [
+    [
+     "merci",
+     "ありがとう"
+    ],
+    [
+     "poliment",
+     "ございます"
+    ]
+   ],
+   "note": "Merci, poliment, se dit « arigatō gozaimasu ». Entre amis, on dit juste le premier mot. Avec un inconnu, on dit les deux.",
+   "say": {
+    "arigatō gozaimasu": "ありがとうございます"
+   }
+  },
+  {
+   "words": [
+    [
+     "premier",
+     "最初"
+    ],
+    [
+     "petit mot de liaison",
+     "の"
+    ],
+    [
+     "module",
+     "モジュール"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "ceci",
+     "これ"
+    ],
+    [
+     "petit mot du moyen",
+     "で"
+    ],
+    [
+     "fin",
+     "終わり"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Fin se dit « owari ». Avec ceci et le petit mot du moyen, on dit avec ceci, c'est fini. C'est une formule pour terminer.",
+   "say": {
+    "owari": "終わり"
+   }
+  },
+  {
+   "words": [
+    [
+     "japonais",
+     "日本語"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "difficile",
+     "難しい"
+    ],
+    [
+     "être",
+     "です"
+    ],
+    [
+     "mais",
+     "が"
+    ],
+    [
+     "amusant",
+     "楽しい"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Pour relier deux idées opposées, on dit après la première « ga ». Ce mot veut dire mais. Attention, il ressemble au petit mot du sujet.",
+   "say": {
+    "ga": "が"
+   }
+  },
+  {
+   "words": [
+    [
+     "excusez-moi",
+     "すみません"
+    ],
+    [
+     "encore",
+     "もう"
+    ],
+    [
+     "une fois",
+     "一度"
+    ],
+    [
+     "je vous le demande",
+     "お願いします"
+    ]
+   ],
+   "note": "Encore une fois se dit « mō ichido ». C'est la phrase à connaître quand on n'a pas compris. On ajoute s'il vous plaît à la fin.",
+   "say": {
+    "mō ichido": "もう一度"
+   }
+  },
+  {
+   "words": [
+    [
+     "japonais",
+     "日本語"
+    ],
+    [
+     "petit mot du sujet",
+     "が"
+    ],
+    [
+     "un peu",
+     "少し"
+    ],
+    [
+     "comprendre",
+     "わかります"
+    ]
+   ],
+   "note": "Avec comprendre, ce qu'on comprend prend le petit mot du sujet. Un peu se dit « sukoshi ». C'est la phrase modeste idéale.",
+   "say": {
+    "sukoshi": "少し"
+   }
+  },
+  {
+   "words": [
+    [
+     "particules",
+     "助詞"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "important",
+     "大切"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Important se dit « taisetsu ». Les particules sont ces petits mots après les noms. Ils indiquent le rôle de chaque mot.",
+   "say": {
+    "taisetsu": "大切"
+   }
+  },
+  {
+   "words": [
+    [
+     "pardon",
+     "すみません"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "très",
+     "とても"
+    ],
+    [
+     "pratique",
+     "便利"
+    ],
+    [
+     "petit mot de l'adjectif",
+     "な"
+    ],
+    [
+     "mot",
+     "言葉"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Mot se dit « kotoba ». Le mot pardon sert à s'excuser, à remercier et à appeler. C'est vraiment pratique.",
+   "say": {
+    "kotoba": "言葉"
+   }
+  },
+  {
+   "words": [
+    [
+     "café",
+     "コーヒー"
+    ],
+    [
+     "petit mot du complément",
+     "を"
+    ],
+    [
+     "je vous le demande",
+     "お願いします"
+    ]
+   ],
+   "note": "Pour commander, on dit la chose, puis « onegaishimasu ». Le café prend le petit mot du complément. C'est simple et poli.",
+   "say": {
+    "onegaishimasu": "お願いします"
+   }
+  },
+  {
+   "words": [
+    [
+     "suivant",
+     "次"
+    ],
+    [
+     "petit mot de liaison",
+     "の"
+    ],
+    [
+     "module",
+     "モジュール"
+    ],
+    [
+     "petit mot du thème",
+     "は"
+    ],
+    [
+     "voyage",
+     "旅行"
+    ],
+    [
+     "être",
+     "です"
+    ]
+   ],
+   "note": "Voyage se dit « ryokō ». Suivant se place devant le nom, avec le petit mot de liaison. On l'a déjà entendu avec le train.",
+   "say": {
+    "ryokō": "旅行"
+   }
+  },
+  {
+   "words": [
+    [
+     "vraiment",
+     "どうも"
+    ],
+    [
+     "merci",
+     "ありがとう"
+    ],
+    [
+     "poliment",
+     "ございました"
+    ],
+    [
+     "encore",
+     "また"
+    ],
+    [
+     "se retrouver",
+     "会いましょう"
+    ]
+   ],
+   "note": "Pour remercier de ce qui est fini, on met le merci au passé. On dit alors « arigatō gozaimashita ». À la prochaine se dit mot à mot retrouvons-nous encore.",
+   "say": {
+    "arigatō gozaimashita": "ありがとうございました"
+   }
+  }
+ ]
+}

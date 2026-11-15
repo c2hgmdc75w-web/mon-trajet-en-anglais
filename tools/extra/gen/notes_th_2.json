@@ -1,0 +1,4994 @@
+{
+ "0-2-0": [
+  {
+   "words": [
+    [
+     "bonjour",
+     "สวัสดี"
+    ],
+    [
+     "à l'aise",
+     "สบาย"
+    ],
+    [
+     "bien",
+     "ดี"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Entre amis, on peut laisser tomber le petit mot poli. Ça va se dit « sà-baai-dii mái ».",
+   "say": {
+    "sà-baai-dii mái": "สบายดีไหม"
+   }
+  },
+  {
+   "words": [
+    [
+     "à l'aise",
+     "สบาย"
+    ],
+    [
+     "bien",
+     "ดี"
+    ],
+    [
+     "et",
+     "แล้ว"
+    ],
+    [
+     "toi",
+     "คุณ"
+    ],
+    [
+     "petit mot d'insistance",
+     "ล่ะ"
+    ]
+   ],
+   "note": "Pour renvoyer la question, on dit et toi, avec un petit mot à la fin. On dit « láew khun lâ ».",
+   "say": {
+    "láew khun lâ": "แล้วคุณล่ะ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "avoir pu",
+     "ได้"
+    ],
+    [
+     "se voir",
+     "เจอ"
+    ],
+    [
+     "ensemble",
+     "กัน"
+    ],
+    [
+     "longtemps",
+     "นาน"
+    ],
+    [
+     "vraiment",
+     "เลย"
+    ]
+   ],
+   "note": "Ça fait longtemps se dit ne pas s'être vus longtemps. Longtemps se dit « naan ».",
+   "say": {
+    "naan": "นาน"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "changer",
+     "เปลี่ยน"
+    ],
+    [
+     "du tout",
+     "เลย"
+    ]
+   ],
+   "note": "Après une négation, le petit mot de la fin veut dire pas du tout. Ce petit mot se dit « loei ».",
+   "say": {
+    "loei": "เลย"
+   }
+  },
+  {
+   "words": [
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "où",
+     "ไหน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "C'est une salutation courante, comme comment ça va. On dit « pai nǎi ».",
+   "say": {
+    "pai nǎi": "ไปไหน"
+   }
+  },
+  {
+   "words": [
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "voir",
+     "หา"
+    ],
+    [
+     "ami",
+     "เพื่อน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Aller voir quelqu'un se dit aller chercher. Chercher se dit « hǎa ».",
+   "say": {
+    "hǎa": "หา"
+   }
+  },
+  {
+   "words": [
+    [
+     "manger",
+     "กิน"
+    ],
+    [
+     "riz",
+     "ข้าว"
+    ],
+    [
+     "ou",
+     "หรือ"
+    ],
+    [
+     "pas encore",
+     "ยัง"
+    ]
+   ],
+   "note": "Tu as mangé est une salutation très thaïe. On dit « kin khâao rǔe yang ».",
+   "say": {
+    "kin khâao rǔe yang": "กินข้าวหรือยัง"
+   }
+  },
+  {
+   "words": [
+    [
+     "manger",
+     "กิน"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour répondre oui, on reprend le verbe avec le mot déjà. Déjà se dit « láew ».",
+   "say": {
+    "láew": "แล้ว"
+   }
+  },
+  {
+   "words": [
+    [
+     "venir",
+     "มา"
+    ],
+    [
+     "s'asseoir",
+     "นั่ง"
+    ],
+    [
+     "ensemble",
+     "ด้วยกัน"
+    ],
+    [
+     "petit mot pour encourager",
+     "สิ"
+    ]
+   ],
+   "note": "Pour inviter avec entrain, on finit par « sì ». Ça veut dire allez, viens.",
+   "say": {
+    "sì": "สิ"
+   }
+  },
+  {
+   "words": [
+    [
+     "content",
+     "ดีใจ"
+    ],
+    [
+     "de",
+     "ที่"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "se voir",
+     "เจอ"
+    ],
+    [
+     "petit mot de douceur",
+     "นะ"
+    ]
+   ],
+   "note": "Content se dit « dii-jai ». Le petit mot de la fin rend la phrase chaleureuse.",
+   "say": {
+    "dii-jai": "ดีใจ"
+   }
+  }
+ ],
+ "0-2-1": [
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "s'appeler",
+     "ชื่อ"
+    ],
+    [
+     "quoi",
+     "อะไร"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour demander le prénom, on dit tu nom quoi. Nom se dit « chûe ».",
+   "say": {
+    "chûe": "ชื่อ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "s'appeler",
+     "ชื่อ"
+    ],
+    [
+     "Julien",
+     "จูเลียน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Un homme se présente avec « phǒm chûe ». Puis il dit son prénom.",
+   "say": {
+    "phǒm chûe": "ผมชื่อ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ฉัน"
+    ],
+    [
+     "s'appeler",
+     "ชื่อ"
+    ],
+    [
+     "Ploy",
+     "พลอย"
+    ],
+    [
+     "petit mot de politesse",
+     "ค่ะ"
+    ]
+   ],
+   "note": "Une femme se présente avec « chǎn chûe ». Elle finit par son propre petit mot poli.",
+   "say": {
+    "chǎn chûe": "ฉันชื่อ"
+   }
+  },
+  {
+   "words": [
+    [
+     "surnom",
+     "ชื่อเล่น"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "c'est",
+     "คือ"
+    ],
+    [
+     "Nok",
+     "นก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Presque tous les Thaïs ont un surnom court. Surnom se dit « chûe-lên ».",
+   "say": {
+    "chûe-lên": "ชื่อเล่น"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "surnom",
+     "ชื่อเล่น"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "On utilise le surnom au quotidien, même au travail. Avoir se dit « mii ».",
+   "say": {
+    "mii": "มี"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "être",
+     "เป็น"
+    ],
+    [
+     "personne",
+     "คน"
+    ],
+    [
+     "France",
+     "ฝรั่งเศส"
+    ],
+    [
+     "venir",
+     "มา"
+    ],
+    [
+     "de",
+     "จาก"
+    ],
+    [
+     "Lyon",
+     "ลียง"
+    ]
+   ],
+   "note": "La nationalité se dit personne puis le pays. Français se dit « khon fà-ràng-sèet ».",
+   "say": {
+    "khon fà-ràng-sèet": "คนฝรั่งเศส"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "habiter",
+     "อยู่"
+    ],
+    [
+     "Bangkok",
+     "กรุงเทพ"
+    ],
+    [
+     "venir",
+     "มา"
+    ],
+    [
+     "un",
+     "หนึ่ง"
+    ],
+    [
+     "an",
+     "ปี"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ]
+   ],
+   "note": "Pour une durée jusqu'à maintenant, on dit venir puis la durée, puis déjà. An se dit « pii ».",
+   "say": {
+    "pii": "ปี"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "เขา"
+    ],
+    [
+     "s'appeler",
+     "ชื่อ"
+    ],
+    [
+     "Fon",
+     "ฝน"
+    ]
+   ],
+   "note": "Beaucoup de surnoms sont des mots simples. Fon veut dire pluie, et se prononce « fǒn ».",
+   "say": {
+    "fǒn": "ฝน"
+   }
+  },
+  {
+   "words": [
+    [
+     "ravi",
+     "ยินดี"
+    ],
+    [
+     "de",
+     "ที่"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "connaître",
+     "รู้จัก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Enchanté se dit heureux d'avoir pu connaître. On dit « yin-dii thîi dâi rúu-jàk ».",
+   "say": {
+    "yin-dii thîi dâi rúu-jàk": "ยินดีที่ได้รู้จัก"
+   }
+  },
+  {
+   "words": [
+    [
+     "ami",
+     "เพื่อน"
+    ],
+    [
+     "toi",
+     "คุณ"
+    ],
+    [
+     "s'appeler",
+     "ชื่อ"
+    ],
+    [
+     "quoi",
+     "อะไร"
+    ]
+   ],
+   "note": "Ton ami se dit ami toi, sans petit mot. Quoi se dit « a-rai ».",
+   "say": {
+    "a-rai": "อะไร"
+   }
+  }
+ ],
+ "0-2-2": [
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "habiter",
+     "อยู่"
+    ],
+    [
+     "où",
+     "ที่ไหน"
+    ]
+   ],
+   "note": "Habiter se dit « yùu ». C'est aussi le verbe se trouver.",
+   "say": {
+    "yùu": "อยู่"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "habiter",
+     "อยู่"
+    ],
+    [
+     "vers",
+     "แถว"
+    ],
+    [
+     "Silom",
+     "สีลม"
+    ]
+   ],
+   "note": "Pour dire dans le coin de, on emploie « thǎew ». C'est plus vague que à.",
+   "say": {
+    "thǎew": "แถว"
+   }
+  },
+  {
+   "words": [
+    [
+     "loin",
+     "ไกล"
+    ],
+    [
+     "de",
+     "จาก"
+    ],
+    [
+     "ici",
+     "ที่นี่"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Loin de se dit loin depuis. Ici se dit « thîi-nîi ».",
+   "say": {
+    "thîi-nîi": "ที่นี่"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "loin",
+     "ไกล"
+    ],
+    [
+     "près",
+     "ใกล้"
+    ],
+    [
+     "très",
+     "มาก"
+    ]
+   ],
+   "note": "Loin et près ne diffèrent que par le ton. Près, avec un ton qui descend, se dit « klâi ».",
+   "say": {
+    "klâi": "ใกล้"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "venir",
+     "มา"
+    ],
+    [
+     "de",
+     "จาก"
+    ],
+    [
+     "où",
+     "ไหน"
+    ]
+   ],
+   "note": "D'où viens-tu se dit tu venir de où. On dit « maa jàak nǎi ».",
+   "say": {
+    "maa jàak nǎi": "มาจากไหน"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "venir",
+     "มา"
+    ],
+    [
+     "de",
+     "จาก"
+    ],
+    [
+     "Chiang Mai",
+     "เชียงใหม่"
+    ]
+   ],
+   "note": "Chiang Mai veut dire ville nouvelle. On dit « Chiang-mài ».",
+   "say": {
+    "Chiang-mài": "เชียงใหม่"
+   }
+  },
+  {
+   "words": [
+    [
+     "appartement",
+     "คอนโด"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "petit",
+     "เล็ก"
+    ]
+   ],
+   "note": "Un appartement en immeuble se dit comme condo en anglais. On dit « khawn-doo ».",
+   "say": {
+    "khawn-doo": "คอนโด"
+   }
+  },
+  {
+   "words": [
+    [
+     "coin",
+     "แถว"
+    ],
+    [
+     "ce",
+     "นี้"
+    ],
+    [
+     "il y a",
+     "มี"
+    ],
+    [
+     "restaurant",
+     "ร้านอาหาร"
+    ],
+    [
+     "beaucoup",
+     "เยอะ"
+    ]
+   ],
+   "note": "Il y a se dit avoir, sans sujet. Beaucoup se met à la fin, « yóe ».",
+   "say": {
+    "yóe": "เยอะ"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "prendre",
+     "นั่ง"
+    ],
+    [
+     "métro aérien",
+     "รถไฟฟ้า"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Le métro aérien se dit train électrique. On dit « rót-fai-fáa ».",
+   "say": {
+    "rót-fai-fáa": "รถไฟฟ้า"
+   }
+  },
+  {
+   "words": [
+    [
+     "prendre",
+     "นั่ง"
+    ],
+    [
+     "chaque",
+     "ทุก"
+    ],
+    [
+     "jour",
+     "วัน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Tous les jours se dit chaque jour. On dit « thúk wan ».",
+   "say": {
+    "thúk wan": "ทุกวัน"
+   }
+  }
+ ],
+ "0-2-3": [
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "aimer",
+     "ชอบ"
+    ],
+    [
+     "nourriture",
+     "อาหาร"
+    ],
+    [
+     "thaï",
+     "ไทย"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Aimer se dit « châwp ». Le mot thaï se place après nourriture.",
+   "say": {
+    "châwp": "ชอบ"
+   }
+  },
+  {
+   "words": [
+    [
+     "aimer",
+     "ชอบ"
+    ],
+    [
+     "beaucoup",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour répondre, on reprend le verbe sans sujet. J'aime beaucoup se dit « châwp mâak ».",
+   "say": {
+    "châwp mâak": "ชอบมาก"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "aimer",
+     "ชอบ"
+    ],
+    [
+     "som tam",
+     "ส้มตำ"
+    ]
+   ],
+   "note": "La salade de papaye verte se dit « sôm-tam ». C'est un plat très épicé du nord-est.",
+   "say": {
+    "sôm-tam": "ส้มตำ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "aimer",
+     "ชอบ"
+    ],
+    [
+     "bière",
+     "เบียร์"
+    ]
+   ],
+   "note": "Ne pas aimer se dit « mâi châwp ». La négation vient devant le verbe.",
+   "say": {
+    "mâi châwp": "ไม่ชอบ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "aimer",
+     "ชอบ"
+    ],
+    [
+     "chanter",
+     "ร้องเพลง"
+    ]
+   ],
+   "note": "Après aimer, on met directement un verbe. Chanter se dit « ráwng-phleeng ».",
+   "say": {
+    "ráwng-phleeng": "ร้องเพลง"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "aimer",
+     "ชอบ"
+    ],
+    [
+     "faire",
+     "ทำ"
+    ],
+    [
+     "quoi",
+     "อะไร"
+    ]
+   ],
+   "note": "Pour demander les loisirs, on dit tu aimes faire quoi. Faire se dit « tham ».",
+   "say": {
+    "tham": "ทำ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "aimer",
+     "ชอบ"
+    ],
+    [
+     "lire",
+     "อ่าน"
+    ],
+    [
+     "livre",
+     "หนังสือ"
+    ],
+    [
+     "le soir",
+     "ตอนเย็น"
+    ]
+   ],
+   "note": "Lire un livre se dit « àan nǎng-sǔe ». Le moment se met à la fin.",
+   "say": {
+    "àan nǎng-sǔe": "อ่านหนังสือ"
+   }
+  },
+  {
+   "words": [
+    [
+     "Ploy",
+     "พลอย"
+    ],
+    [
+     "aimer",
+     "ชอบ"
+    ],
+    [
+     "chat",
+     "แมว"
+    ],
+    [
+     "beaucoup",
+     "มาก"
+    ]
+   ],
+   "note": "Chat se dit comme le miaulement. On dit « maew ». Beaucoup se met en fin de phrase.",
+   "say": {
+    "maew": "แมว"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "aimer",
+     "ชอบ"
+    ],
+    [
+     "chanson",
+     "เพลง"
+    ],
+    [
+     "thaï",
+     "ไทย"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Chanson ou musique se dit « phleeng ». L'origine se place juste après.",
+   "say": {
+    "phleeng": "เพลง"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "guère",
+     "ค่อย"
+    ],
+    [
+     "aimer",
+     "ชอบ"
+    ]
+   ],
+   "note": "Pour dire pas trop, avec tact, on dit « mâi khâwy ». C'est plus poli qu'un non sec.",
+   "say": {
+    "mâi khâwy": "ไม่ค่อย"
+   }
+  }
+ ],
+ "0-2-4": [
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "travailler",
+     "ทำงาน"
+    ],
+    [
+     "quoi",
+     "อะไร"
+    ]
+   ],
+   "note": "Pour demander le métier, on dit tu travailles quoi. Travailler se dit « tham-ngaan ».",
+   "say": {
+    "tham-ngaan": "ทำงาน"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "être",
+     "เป็น"
+    ],
+    [
+     "professeur",
+     "ครู"
+    ],
+    [
+     "enseigner",
+     "สอน"
+    ],
+    [
+     "langue",
+     "ภาษา"
+    ],
+    [
+     "France",
+     "ฝรั่งเศส"
+    ]
+   ],
+   "note": "Enseigner se dit « sǎwn ». Il suit directement le mot professeur.",
+   "say": {
+    "sǎwn": "สอน"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "travailler",
+     "ทำงาน"
+    ],
+    [
+     "à",
+     "ที่"
+    ],
+    [
+     "hôtel",
+     "โรงแรม"
+    ]
+   ],
+   "note": "Pour le lieu de travail, on met à devant. À se dit « thîi ».",
+   "say": {
+    "thîi": "ที่"
+   }
+  },
+  {
+   "words": [
+    [
+     "Ploy",
+     "พลอย"
+    ],
+    [
+     "être",
+     "เป็น"
+    ],
+    [
+     "infirmière",
+     "พยาบาล"
+    ]
+   ],
+   "note": "Infirmière se dit « phá-yaa-baan ». Le mot est le même pour un homme.",
+   "say": {
+    "phá-yaa-baan": "พยาบาล"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "travailler",
+     "ทำงาน"
+    ],
+    [
+     "où",
+     "ที่ไหน"
+    ]
+   ],
+   "note": "Où se met à la fin, à la place de la réponse. On dit « thîi-nǎi ».",
+   "say": {
+    "thîi-nǎi": "ที่ไหน"
+   }
+  },
+  {
+   "words": [
+    [
+     "bureau",
+     "ออฟฟิศ"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "se trouver",
+     "อยู่"
+    ],
+    [
+     "à",
+     "ที่"
+    ],
+    [
+     "Sukhumvit",
+     "สุขุมวิท"
+    ]
+   ],
+   "note": "Le bureau se dit comme office en anglais. On dit « áwp-fít ».",
+   "say": {
+    "áwp-fít": "ออฟฟิศ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "commencer",
+     "เริ่ม"
+    ],
+    [
+     "travail",
+     "งาน"
+    ],
+    [
+     "neuf",
+     "เก้า"
+    ],
+    [
+     "heure",
+     "โมง"
+    ]
+   ],
+   "note": "Commencer se dit « rôem ». L'heure vient à la fin.",
+   "say": {
+    "rôem": "เริ่ม"
+   }
+  },
+  {
+   "words": [
+    [
+     "travail",
+     "งาน"
+    ],
+    [
+     "fatigant",
+     "เหนื่อย"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Travail, le nom, se dit « ngaan ». L'adjectif suit sans verbe être.",
+   "say": {
+    "ngaan": "งาน"
+   }
+  },
+  {
+   "words": [
+    [
+     "un peu",
+     "นิดหน่อย"
+    ],
+    [
+     "mais",
+     "แต่"
+    ],
+    [
+     "intéressant",
+     "น่าสนใจ"
+    ]
+   ],
+   "note": "Intéressant se dit digne d'intérêt. On dit « nâa-sǒn-jai ».",
+   "say": {
+    "nâa-sǒn-jai": "น่าสนใจ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "finir",
+     "เลิก"
+    ],
+    [
+     "travail",
+     "งาน"
+    ],
+    [
+     "tard",
+     "ดึก"
+    ]
+   ],
+   "note": "Finir le travail se dit « lôek ngaan ». Tard le soir se met à la fin.",
+   "say": {
+    "lôek ngaan": "เลิกงาน"
+   }
+  }
+ ],
+ "0-2-5": [
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "frères et sœurs",
+     "พี่น้อง"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Frères et sœurs se dit aînés et cadets. On dit « phîi-náwng ».",
+   "say": {
+    "phîi-náwng": "พี่น้อง"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "grand frère",
+     "พี่ชาย"
+    ],
+    [
+     "un",
+     "หนึ่ง"
+    ],
+    [
+     "petit mot de comptage",
+     "คน"
+    ]
+   ],
+   "note": "On précise d'abord aîné ou cadet, puis homme ou femme. Grand frère se dit « phîi-chaai ».",
+   "say": {
+    "phîi-chaai": "พี่ชาย"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "แล้ว"
+    ],
+    [
+     "aussi",
+     "ก็"
+    ],
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "petite sœur",
+     "น้องสาว"
+    ],
+    [
+     "un",
+     "หนึ่ง"
+    ],
+    [
+     "petit mot de comptage",
+     "คน"
+    ]
+   ],
+   "note": "Petite sœur se dit cadet femme. On dit « náwng-sǎao ».",
+   "say": {
+    "náwng-sǎao": "น้องสาว"
+   }
+  },
+  {
+   "words": [
+    [
+     "père",
+     "พ่อ"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "être",
+     "เป็น"
+    ],
+    [
+     "médecin",
+     "หมอ"
+    ]
+   ],
+   "note": "Père se dit « phâw ». Mon père se dit père moi.",
+   "say": {
+    "phâw": "พ่อ"
+   }
+  },
+  {
+   "words": [
+    [
+     "mère",
+     "แม่"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "être",
+     "เป็น"
+    ],
+    [
+     "cuisinière",
+     "แม่ครัว"
+    ]
+   ],
+   "note": "Mère se dit « mâe ». Avec cuisine, il donne le mot cuisinière.",
+   "say": {
+    "mâe": "แม่"
+   }
+  },
+  {
+   "words": [
+    [
+     "parents",
+     "พ่อแม่"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "habiter",
+     "อยู่"
+    ],
+    [
+     "à",
+     "ที่"
+    ],
+    [
+     "France",
+     "ฝรั่งเศส"
+    ]
+   ],
+   "note": "Les parents se disent père mère. On dit « phâw-mâe ».",
+   "say": {
+    "phâw-mâe": "พ่อแม่"
+   }
+  },
+  {
+   "words": [
+    [
+     "grande sœur",
+     "พี่สาว"
+    ],
+    [
+     "toi",
+     "คุณ"
+    ],
+    [
+     "habiter",
+     "อยู่"
+    ],
+    [
+     "où",
+     "ที่ไหน"
+    ]
+   ],
+   "note": "Grande sœur se dit aîné femme. On dit « phîi-sǎao ».",
+   "say": {
+    "phîi-sǎao": "พี่สาว"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit frère",
+     "น้องชาย"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "être",
+     "เป็น"
+    ],
+    [
+     "étudiant",
+     "นักศึกษา"
+    ]
+   ],
+   "note": "Petit frère se dit cadet homme. On dit « náwng-chaai ».",
+   "say": {
+    "náwng-chaai": "น้องชาย"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "enfant",
+     "ลูก"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Enfant, au sens de fils ou fille, se dit « lûuk ». Pas de pluriel à ajouter.",
+   "say": {
+    "lûuk": "ลูก"
+   }
+  },
+  {
+   "words": [
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "fille",
+     "ลูกสาว"
+    ],
+    [
+     "deux",
+     "สอง"
+    ],
+    [
+     "petit mot de comptage",
+     "คน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour compter les personnes, on dit le nombre puis le mot personne. Deux personnes se dit « sǎwng khon ».",
+   "say": {
+    "sǎwng khon": "สองคน"
+   }
+  }
+ ],
+ "0-2-6": [
+  {
+   "words": [
+    [
+     "voici",
+     "นี่"
+    ],
+    [
+     "collègue",
+     "เพื่อนร่วมงาน"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "s'appeler",
+     "ชื่อ"
+    ],
+    [
+     "Ton",
+     "ต้น"
+    ]
+   ],
+   "note": "Pour présenter quelqu'un, on dit voici puis la personne. Voici se dit « nîi ».",
+   "say": {
+    "nîi": "นี่"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "เรา"
+    ],
+    [
+     "travailler",
+     "ทำงาน"
+    ],
+    [
+     "ensemble",
+     "ด้วยกัน"
+    ]
+   ],
+   "note": "Ensemble se dit « dûay-kan ». Il se met après le verbe.",
+   "say": {
+    "dûay-kan": "ด้วยกัน"
+   }
+  },
+  {
+   "words": [
+    [
+     "collègue",
+     "เพื่อนร่วมงาน"
+    ],
+    [
+     "toi",
+     "คุณ"
+    ],
+    [
+     "gentil",
+     "ใจดี"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Collègue se dit ami qui partage le travail. On dit « phûean-rûam-ngaan ».",
+   "say": {
+    "phûean-rûam-ngaan": "เพื่อนร่วมงาน"
+   }
+  },
+  {
+   "words": [
+    [
+     "gentil",
+     "ใจดี"
+    ],
+    [
+     "très",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Gentil se dit cœur bon. On dit « jai-dii ».",
+   "say": {
+    "jai-dii": "ใจดี"
+   }
+  },
+  {
+   "words": [
+    [
+     "chef",
+     "หัวหน้า"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "sévère",
+     "ดุ"
+    ],
+    [
+     "un peu",
+     "นิดหน่อย"
+    ]
+   ],
+   "note": "Le chef se dit tête devant. On dit « hǔa-nâa ».",
+   "say": {
+    "hǔa-nâa": "หัวหน้า"
+   }
+  },
+  {
+   "words": [
+    [
+     "à midi",
+     "ตอนเที่ยง"
+    ],
+    [
+     "nous",
+     "เรา"
+    ],
+    [
+     "manger",
+     "กิน"
+    ],
+    [
+     "riz",
+     "ข้าว"
+    ],
+    [
+     "ensemble",
+     "ด้วยกัน"
+    ]
+   ],
+   "note": "Manger un repas se dit manger du riz. On dit « kin khâao ».",
+   "say": {
+    "kin khâao": "กินข้าว"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "เขา"
+    ],
+    [
+     "être",
+     "เป็น"
+    ],
+    [
+     "personne",
+     "คน"
+    ],
+    [
+     "nouveau",
+     "ใหม่"
+    ],
+    [
+     "à",
+     "ที่"
+    ],
+    [
+     "bureau",
+     "ออฟฟิศ"
+    ]
+   ],
+   "note": "Un nouveau se dit personne nouvelle. On dit « khon mài ».",
+   "say": {
+    "khon mài": "คนใหม่"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "connaître",
+     "รู้จัก"
+    ],
+    [
+     "Ton",
+     "ต้น"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Connaître une personne se dit « rúu-jàk ». Le nom vient juste après.",
+   "say": {
+    "rúu-jàk": "รู้จัก"
+   }
+  },
+  {
+   "words": [
+    [
+     "connaître",
+     "รู้จัก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "il",
+     "เขา"
+    ],
+    [
+     "être",
+     "เป็น"
+    ],
+    [
+     "ami",
+     "เพื่อน"
+    ],
+    [
+     "je",
+     "ผม"
+    ]
+   ],
+   "note": "Mon ami se dit ami moi. On dit « phûean phǒm ».",
+   "say": {
+    "phûean phǒm": "เพื่อนผม"
+   }
+  },
+  {
+   "words": [
+    [
+     "il",
+     "เขา"
+    ],
+    [
+     "drôle",
+     "ตลก"
+    ],
+    [
+     "très",
+     "มาก"
+    ]
+   ],
+   "note": "Drôle se dit « tà-lòk ». Pas besoin de verbe être devant.",
+   "say": {
+    "tà-lòk": "ตลก"
+   }
+  }
+ ],
+ "0-2-7": [
+  {
+   "words": [
+    [
+     "en train de",
+     "กำลัง"
+    ],
+    [
+     "faire",
+     "ทำ"
+    ],
+    [
+     "quoi",
+     "อะไร"
+    ],
+    [
+     "en cours",
+     "อยู่"
+    ]
+   ],
+   "note": "Pour une action en cours, on met un petit mot devant le verbe. Ce petit mot se dit « kam-lang ».",
+   "say": {
+    "kam-lang": "กำลัง"
+   }
+  },
+  {
+   "words": [
+    [
+     "en train de",
+     "กำลัง"
+    ],
+    [
+     "manger",
+     "กิน"
+    ],
+    [
+     "riz",
+     "ข้าว"
+    ],
+    [
+     "en cours",
+     "อยู่"
+    ]
+   ],
+   "note": "On peut aussi ajouter un petit mot à la fin pour insister sur la durée. Il se dit « yùu ».",
+   "say": {
+    "yùu": "อยู่"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "en train de",
+     "กำลัง"
+    ],
+    [
+     "travailler",
+     "ทำงาน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Le verbe ne change pas, seul le petit mot devant indique l'action en cours. Je travaille se dit « kam-lang tham-ngaan ».",
+   "say": {
+    "kam-lang tham-ngaan": "กำลังทำงาน"
+   }
+  },
+  {
+   "words": [
+    [
+     "Ploy",
+     "พลอย"
+    ],
+    [
+     "en train de",
+     "กำลัง"
+    ],
+    [
+     "chanter",
+     "ร้องเพลง"
+    ]
+   ],
+   "note": "Chanter se dit chanter une chanson. On dit « ráwng-phleeng ».",
+   "say": {
+    "ráwng-phleeng": "ร้องเพลง"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "en train de",
+     "กำลัง"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Avec aller, ce petit mot veut dire j'arrive, je suis en route. On dit « kam-lang pai ».",
+   "say": {
+    "kam-lang pai": "กำลังไป"
+   }
+  },
+  {
+   "words": [
+    [
+     "il",
+     "เขา"
+    ],
+    [
+     "en train de",
+     "กำลัง"
+    ],
+    [
+     "dormir",
+     "นอนหลับ"
+    ]
+   ],
+   "note": "Dormir profondément se dit « nawn-làp ». Il est donc en train de dormir.",
+   "say": {
+    "nawn-làp": "นอนหลับ"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "เรา"
+    ],
+    [
+     "en train de",
+     "กำลัง"
+    ],
+    [
+     "regarder",
+     "ดู"
+    ],
+    [
+     "boxe",
+     "มวย"
+    ],
+    [
+     "en cours",
+     "อยู่"
+    ]
+   ],
+   "note": "La boxe se dit « muay ». C'est le sport national.",
+   "say": {
+    "muay": "มวย"
+   }
+  },
+  {
+   "words": [
+    [
+     "occupé",
+     "ยุ่ง"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Occupé se dit « yûng ». C'est une question rapide avant de parler.",
+   "say": {
+    "yûng": "ยุ่ง"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "ครับ"
+    ],
+    [
+     "en train de",
+     "กำลัง"
+    ],
+    [
+     "réunion",
+     "ประชุม"
+    ],
+    [
+     "en cours",
+     "อยู่"
+    ]
+   ],
+   "note": "Être en réunion se dit « prà-chum ». Ici, le mot sert de verbe.",
+   "say": {
+    "prà-chum": "ประชุม"
+   }
+  },
+  {
+   "words": [
+    [
+     "tout à l'heure",
+     "เดี๋ยว"
+    ],
+    [
+     "téléphoner",
+     "โทร"
+    ],
+    [
+     "retour",
+     "กลับ"
+    ],
+    [
+     "petit mot de douceur",
+     "นะ"
+    ]
+   ],
+   "note": "Rappeler se dit téléphoner retour. On dit « thoo klàp ».",
+   "say": {
+    "thoo klàp": "โทรกลับ"
+   }
+  }
+ ],
+ "0-2-8": [
+  {
+   "words": [
+    [
+     "samedi",
+     "เสาร์"
+    ],
+    [
+     "dimanche",
+     "อาทิตย์"
+    ],
+    [
+     "ce",
+     "นี้"
+    ],
+    [
+     "faire",
+     "ทำ"
+    ],
+    [
+     "quoi",
+     "อะไร"
+    ]
+   ],
+   "note": "Le week-end se dit samedi dimanche. On dit « sǎo aa-thít ».",
+   "say": {
+    "sǎo aa-thít": "เสาร์อาทิตย์"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "futur",
+     "จะ"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "marché",
+     "ตลาด"
+    ],
+    [
+     "Chatuchak",
+     "จตุจักร"
+    ]
+   ],
+   "note": "Pour un projet, on met le petit mot du futur devant le verbe. Il se dit « jà ».",
+   "say": {
+    "jà": "จะ"
+   }
+  },
+  {
+   "words": [
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "ensemble",
+     "ด้วยกัน"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Pour inviter, on dit tu viens avec moi en une question courte. On dit « pai dûay-kan mái ».",
+   "say": {
+    "pai dûay-kan mái": "ไปด้วยกันไหม"
+   }
+  },
+  {
+   "words": [
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "tout à fait",
+     "เลย"
+    ]
+   ],
+   "note": "Pour accepter avec enthousiasme, on dit « dâi loei ». Ça veut dire avec plaisir, sans problème.",
+   "say": {
+    "dâi loei": "ได้เลย"
+   }
+  },
+  {
+   "words": [
+    [
+     "jour",
+     "วัน"
+    ],
+    [
+     "dimanche",
+     "อาทิตย์"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "se reposer",
+     "พักผ่อน"
+    ]
+   ],
+   "note": "Se reposer se dit « phák-phàwn ». Le jour se met en tête de phrase.",
+   "say": {
+    "phák-phàwn": "พักผ่อน"
+   }
+  },
+  {
+   "words": [
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "parc",
+     "สวน"
+    ],
+    [
+     "Lumphini",
+     "ลุมพินี"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Parc ou jardin se dit « sǔan ». Le nom du parc vient après.",
+   "say": {
+    "sǔan": "สวน"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "วันนี้"
+    ],
+    [
+     "chaud",
+     "ร้อน"
+    ],
+    [
+     "très",
+     "มาก"
+    ]
+   ],
+   "note": "Il fait chaud se dit simplement chaud. Chaud se dit « ráwn ».",
+   "say": {
+    "ráwn": "ร้อน"
+   }
+  },
+  {
+   "words": [
+    [
+     "alors",
+     "งั้น"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "regarder",
+     "ดู"
+    ],
+    [
+     "film",
+     "หนัง"
+    ],
+    [
+     "ensemble",
+     "กัน"
+    ]
+   ],
+   "note": "Aller au cinéma se dit aller regarder un film. Film se dit « nǎng ».",
+   "say": {
+    "nǎng": "หนัง"
+   }
+  },
+  {
+   "words": [
+    [
+     "bien",
+     "ดี"
+    ],
+    [
+     "tout à fait",
+     "เลย"
+    ]
+   ],
+   "note": "Pour dire super, bonne idée, on dit « dii loei ». C'est une réponse enthousiaste.",
+   "say": {
+    "dii loei": "ดีเลย"
+   }
+  },
+  {
+   "words": [
+    [
+     "se voir",
+     "เจอ"
+    ],
+    [
+     "ensemble",
+     "กัน"
+    ],
+    [
+     "combien",
+     "กี่"
+    ],
+    [
+     "heure",
+     "โมง"
+    ]
+   ],
+   "note": "Pour fixer l'heure, on dit se voir à quelle heure. À quelle heure se dit « kìi moong ».",
+   "say": {
+    "kìi moong": "กี่โมง"
+   }
+  }
+ ],
+ "0-2-9": [
+  {
+   "words": [
+    [
+     "Bangkok",
+     "กรุงเทพ"
+    ],
+    [
+     "grand",
+     "ใหญ่"
+    ],
+    [
+     "plus",
+     "กว่า"
+    ],
+    [
+     "Chiang Mai",
+     "เชียงใหม่"
+    ]
+   ],
+   "note": "Pour comparer, on dit l'adjectif puis plus, puis l'autre élément. Plus se dit « kwàa ».",
+   "say": {
+    "kwàa": "กว่า"
+   }
+  },
+  {
+   "words": [
+    [
+     "Chiang Mai",
+     "เชียงใหม่"
+    ],
+    [
+     "calme",
+     "เงียบ"
+    ],
+    [
+     "plus",
+     "กว่า"
+    ]
+   ],
+   "note": "On peut omettre le second élément s'il est évident. Calme se dit « ngîap ».",
+   "say": {
+    "ngîap": "เงียบ"
+   }
+  },
+  {
+   "words": [
+    [
+     "restaurant",
+     "ร้าน"
+    ],
+    [
+     "ce",
+     "นี้"
+    ],
+    [
+     "délicieux",
+     "อร่อย"
+    ],
+    [
+     "plus",
+     "กว่า"
+    ]
+   ],
+   "note": "Ce restaurant se dit restaurant ceci. On dit « ráan níi ».",
+   "say": {
+    "ráan níi": "ร้านนี้"
+   }
+  },
+  {
+   "words": [
+    [
+     "grand frère",
+     "พี่ชาย"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "grand",
+     "สูง"
+    ],
+    [
+     "plus",
+     "กว่า"
+    ],
+    [
+     "moi",
+     "ผม"
+    ]
+   ],
+   "note": "Grand de taille se dit « sǔung ». Pour une ville ou un objet, on dit un autre mot.",
+   "say": {
+    "sǔung": "สูง"
+   }
+  },
+  {
+   "words": [
+    [
+     "métro aérien",
+     "รถไฟฟ้า"
+    ],
+    [
+     "rapide",
+     "เร็ว"
+    ],
+    [
+     "plus",
+     "กว่า"
+    ],
+    [
+     "taxi",
+     "แท็กซี่"
+    ]
+   ],
+   "note": "Plus rapide se dit rapide plus. On dit « reo kwàa ».",
+   "say": {
+    "reo kwàa": "เร็วกว่า"
+   }
+  },
+  {
+   "words": [
+    [
+     "mais",
+     "แต่"
+    ],
+    [
+     "taxi",
+     "แท็กซี่"
+    ],
+    [
+     "cher",
+     "แพง"
+    ],
+    [
+     "plus",
+     "กว่า"
+    ]
+   ],
+   "note": "Mais se dit « tàe ». Il se place en tête de phrase.",
+   "say": {
+    "tàe": "แต่"
+   }
+  },
+  {
+   "words": [
+    [
+     "plat",
+     "จาน"
+    ],
+    [
+     "ce",
+     "นี้"
+    ],
+    [
+     "épicé",
+     "เผ็ด"
+    ],
+    [
+     "plus",
+     "กว่า"
+    ]
+   ],
+   "note": "Ici, assiette veut dire le plat. Ce plat se dit « jaan níi ».",
+   "say": {
+    "jaan níi": "จานนี้"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "aimer",
+     "ชอบ"
+    ],
+    [
+     "petit mot de comptage",
+     "อัน"
+    ],
+    [
+     "lequel",
+     "ไหน"
+    ],
+    [
+     "beaucoup",
+     "มาก"
+    ],
+    [
+     "plus",
+     "กว่า"
+    ]
+   ],
+   "note": "Pour préférer, on dit aimer beaucoup plus. On dit « châwp mâak kwàa ».",
+   "say": {
+    "châwp mâak kwàa": "ชอบมากกว่า"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "aimer",
+     "ชอบ"
+    ],
+    [
+     "riz gluant",
+     "ข้าวเหนียว"
+    ],
+    [
+     "beaucoup",
+     "มาก"
+    ],
+    [
+     "plus",
+     "กว่า"
+    ]
+   ],
+   "note": "Le riz gluant se dit « khâao-nǐao ». On répond en reprenant le verbe aimer.",
+   "say": {
+    "khâao-nǐao": "ข้าวเหนียว"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "parler",
+     "พูด"
+    ],
+    [
+     "thaï",
+     "ไทย"
+    ],
+    [
+     "doué",
+     "เก่ง"
+    ],
+    [
+     "plus",
+     "กว่า"
+    ],
+    [
+     "moi",
+     "ผม"
+    ]
+   ],
+   "note": "Bien parler se dit parler doué. Doué se dit « kèng ».",
+   "say": {
+    "kèng": "เก่ง"
+   }
+  }
+ ],
+ "0-2-10": [
+  {
+   "words": [
+    [
+     "ce soir",
+     "คืนนี้"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "karaoké",
+     "คาราโอเกะ"
+    ],
+    [
+     "ensemble",
+     "กัน"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Le karaoké est une sortie très populaire. On dit « khaa-raa-oo-kè ».",
+   "say": {
+    "khaa-raa-oo-kè": "คาราโอเกะ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "chanter",
+     "ร้องเพลง"
+    ],
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "doué",
+     "เก่ง"
+    ]
+   ],
+   "note": "Ne pas être doué se dit « mâi kèng ». Ça se place après le verbe.",
+   "say": {
+    "mâi kèng": "ไม่เก่ง"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "être",
+     "เป็น"
+    ],
+    [
+     "quoi",
+     "ไร"
+    ],
+    [
+     "amusant",
+     "สนุก"
+    ],
+    [
+     "bien",
+     "ดี"
+    ]
+   ],
+   "note": "Amusant se dit « sà-nùk ». C'est un mot clé de la culture thaïe.",
+   "say": {
+    "sà-nùk": "สนุก"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "futur",
+     "จะ"
+    ],
+    [
+     "chanter",
+     "ร้อง"
+    ],
+    [
+     "chanson",
+     "เพลง"
+    ],
+    [
+     "quoi",
+     "อะไร"
+    ]
+   ],
+   "note": "Quelle chanson se dit chanson quoi. On dit « phleeng a-rai ».",
+   "say": {
+    "phleeng a-rai": "เพลงอะไร"
+   }
+  },
+  {
+   "words": [
+    [
+     "chanson",
+     "เพลง"
+    ],
+    [
+     "thaï",
+     "ไทย"
+    ],
+    [
+     "bien sûr",
+     "สิ"
+    ]
+   ],
+   "note": "Le petit mot de la fin donne un ton d'évidence. On dit « sì ».",
+   "say": {
+    "sì": "สิ"
+   }
+  },
+  {
+   "words": [
+    [
+     "chanter",
+     "ร้อง"
+    ],
+    [
+     "vas-y",
+     "เลย"
+    ]
+   ],
+   "note": "Pour encourager, on dit le verbe puis « loei ». Ça veut dire vas-y.",
+   "say": {
+    "loei": "เลย"
+   }
+  },
+  {
+   "words": [
+    [
+     "chanter",
+     "ร้อง"
+    ],
+    [
+     "mélodieux",
+     "เพราะ"
+    ],
+    [
+     "très",
+     "มาก"
+    ]
+   ],
+   "note": "Une belle voix se dit « phráw ». C'est un mot pour les sons agréables.",
+   "say": {
+    "phráw": "เพราะ"
+   }
+  },
+  {
+   "words": [
+    [
+     "encore",
+     "อีก"
+    ],
+    [
+     "chanson",
+     "เพลง"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Encore une se dit encore chanson. On dit « ìik phleeng ».",
+   "say": {
+    "ìik phleeng": "อีกเพลง"
+   }
+  },
+  {
+   "words": [
+    [
+     "chanter",
+     "ร้อง"
+    ],
+    [
+     "ensemble",
+     "ด้วยกัน"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Pour chanter en duo, on dit chanter ensemble. On dit « ráwng dûay-kan ».",
+   "say": {
+    "ráwng dûay-kan": "ร้องด้วยกัน"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce soir",
+     "คืนนี้"
+    ],
+    [
+     "amusant",
+     "สนุก"
+    ],
+    [
+     "très",
+     "มาก"
+    ]
+   ],
+   "note": "Ce soir se dit cette nuit. On dit « khuen-níi ».",
+   "say": {
+    "khuen-níi": "คืนนี้"
+   }
+  }
+ ],
+ "0-2-11": [
+  {
+   "words": [
+    [
+     "pourquoi",
+     "ทำไม"
+    ],
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "apprendre",
+     "เรียน"
+    ],
+    [
+     "langue",
+     "ภาษา"
+    ],
+    [
+     "thaï",
+     "ไทย"
+    ]
+   ],
+   "note": "Pourquoi se dit « tham-mai ». Il peut se mettre au début de la question.",
+   "say": {
+    "tham-mai": "ทำไม"
+   }
+  },
+  {
+   "words": [
+    [
+     "parce que",
+     "เพราะ"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "habiter",
+     "อยู่"
+    ],
+    [
+     "ici",
+     "ที่นี่"
+    ]
+   ],
+   "note": "Parce que se dit « phráw ». Il se place en tête de la réponse.",
+   "say": {
+    "phráw": "เพราะ"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "แล้ว"
+    ],
+    [
+     "aussi",
+     "ก็"
+    ],
+    [
+     "parce que",
+     "เพราะ"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "aimer",
+     "ชอบ"
+    ],
+    [
+     "Thaïlande",
+     "เมืองไทย"
+    ]
+   ],
+   "note": "Pour ajouter une raison, on dit et aussi. On dit « láew kâw ».",
+   "say": {
+    "láew kâw": "แล้วก็"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "fatigué",
+     "เหนื่อย"
+    ],
+    [
+     "parce que",
+     "เพราะ"
+    ],
+    [
+     "travailler",
+     "ทำงาน"
+    ],
+    [
+     "beaucoup",
+     "เยอะ"
+    ]
+   ],
+   "note": "La cause vient après la conséquence, comme en français. Fatigué se dit « nùeay ».",
+   "say": {
+    "nùeay": "เหนื่อย"
+   }
+  },
+  {
+   "words": [
+    [
+     "pourquoi",
+     "ทำไม"
+    ],
+    [
+     "venir",
+     "มา"
+    ],
+    [
+     "en retard",
+     "สาย"
+    ]
+   ],
+   "note": "En retard, le matin, se dit « sǎai ». On l'emploie après venir.",
+   "say": {
+    "sǎai": "สาย"
+   }
+  },
+  {
+   "words": [
+    [
+     "parce que",
+     "เพราะ"
+    ],
+    [
+     "voiture",
+     "รถ"
+    ],
+    [
+     "coincé",
+     "ติด"
+    ]
+   ],
+   "note": "Les embouteillages se disent voitures coincées. On dit « rót tìt ».",
+   "say": {
+    "rót tìt": "รถติด"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "boire",
+     "ดื่ม"
+    ],
+    [
+     "parce que",
+     "เพราะ"
+    ],
+    [
+     "devoir",
+     "ต้อง"
+    ],
+    [
+     "conduire",
+     "ขับ"
+    ],
+    [
+     "voiture",
+     "รถ"
+    ]
+   ],
+   "note": "Conduire se dit « khàp rót ». Devoir se place juste devant.",
+   "say": {
+    "khàp rót": "ขับรถ"
+   }
+  },
+  {
+   "words": [
+    [
+     "rire",
+     "หัวเราะ"
+    ],
+    [
+     "pourquoi",
+     "ทำไม"
+    ]
+   ],
+   "note": "Pourquoi peut aussi venir à la fin de la question. Rire se dit « hǔa-ráw ».",
+   "say": {
+    "hǔa-ráw": "หัวเราะ"
+   }
+  },
+  {
+   "words": [
+    [
+     "parce que",
+     "เพราะ"
+    ],
+    [
+     "ça",
+     "มัน"
+    ],
+    [
+     "drôle",
+     "ตลก"
+    ]
+   ],
+   "note": "Pour dire ça ou il, pour une chose, on dit « man ». C'est un mot familier.",
+   "say": {
+    "man": "มัน"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "rester",
+     "อยู่"
+    ],
+    [
+     "maison",
+     "บ้าน"
+    ],
+    [
+     "parce que",
+     "เพราะ"
+    ],
+    [
+     "pluie",
+     "ฝน"
+    ],
+    [
+     "tomber",
+     "ตก"
+    ]
+   ],
+   "note": "Il pleut se dit la pluie tombe. On dit « fǒn tòk ».",
+   "say": {
+    "fǒn tòk": "ฝนตก"
+   }
+  }
+ ],
+ "0-2-12": [
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "s'entraîner",
+     "ฝึก"
+    ],
+    [
+     "boxe thaïe",
+     "มวยไทย"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "S'entraîner se dit « fùek ». Le sport vient juste après.",
+   "say": {
+    "fùek": "ฝึก"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "ครับ"
+    ],
+    [
+     "semaine",
+     "อาทิตย์"
+    ],
+    [
+     "par",
+     "ละ"
+    ],
+    [
+     "deux",
+     "สอง"
+    ],
+    [
+     "fois",
+     "ครั้ง"
+    ]
+   ],
+   "note": "Par semaine se dit semaine chaque. On dit « aa-thít lá ».",
+   "say": {
+    "aa-thít lá": "อาทิตย์ละ"
+   }
+  },
+  {
+   "words": [
+    [
+     "boxe thaïe",
+     "มวยไทย"
+    ],
+    [
+     "bon",
+     "ดี"
+    ],
+    [
+     "pour",
+     "ต่อ"
+    ],
+    [
+     "santé",
+     "สุขภาพ"
+    ]
+   ],
+   "note": "Santé se dit « sùk-khà-phâap ». Bon pour se dit bon envers.",
+   "say": {
+    "sùk-khà-phâap": "สุขภาพ"
+   }
+  },
+  {
+   "words": [
+    [
+     "étudier",
+     "เรียน"
+    ],
+    [
+     "le soir",
+     "ตอนเย็น"
+    ]
+   ],
+   "note": "En fin de journée se dit « tawn-yen ». Il se met après le verbe.",
+   "say": {
+    "tawn-yen": "ตอนเย็น"
+   }
+  },
+  {
+   "words": [
+    [
+     "fatigué",
+     "เหนื่อย"
+    ],
+    [
+     "mais",
+     "แต่"
+    ],
+    [
+     "amusant",
+     "สนุก"
+    ]
+   ],
+   "note": "Deux adjectifs opposés sont reliés par mais. Mais se dit « tàe ».",
+   "say": {
+    "tàe": "แต่"
+   }
+  },
+  {
+   "words": [
+    [
+     "professeur",
+     "ครู"
+    ],
+    [
+     "boxe",
+     "มวย"
+    ],
+    [
+     "petit mot du possessif",
+     "ของ"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "doué",
+     "เก่ง"
+    ],
+    [
+     "très",
+     "มาก"
+    ]
+   ],
+   "note": "Professeur se dit « khruu ». Ici, on précise ensuite la matière.",
+   "say": {
+    "khruu": "ครู"
+   }
+  },
+  {
+   "words": [
+    [
+     "vouloir",
+     "อยาก"
+    ],
+    [
+     "essayer",
+     "ลอง"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Tu veux essayer se dit vouloir essayer. Essayer se dit « lawng ».",
+   "say": {
+    "lawng": "ลอง"
+   }
+  },
+  {
+   "words": [
+    [
+     "avoir peur",
+     "กลัว"
+    ],
+    [
+     "un peu",
+     "นิดหน่อย"
+    ]
+   ],
+   "note": "Avoir peur se dit « klua ». Pas besoin de sujet dans la réponse.",
+   "say": {
+    "klua": "กลัว"
+   }
+  },
+  {
+   "words": [
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "regarder",
+     "ดู"
+    ],
+    [
+     "boxe",
+     "มวย"
+    ],
+    [
+     "à",
+     "ที่"
+    ],
+    [
+     "stade",
+     "เวที"
+    ],
+    [
+     "Lumphini",
+     "ลุมพินี"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Le ring ou la scène se dit « wee-thii ». Le nom du stade vient après.",
+   "say": {
+    "wee-thii": "เวที"
+   }
+  },
+  {
+   "words": [
+    [
+     "boxeur",
+     "นักมวย"
+    ],
+    [
+     "doué",
+     "เก่ง"
+    ],
+    [
+     "très",
+     "มาก"
+    ]
+   ],
+   "note": "Boxeur se dit « nák-muay ». Le début du mot indique celui qui pratique.",
+   "say": {
+    "nák-muay": "นักมวย"
+   }
+  }
+ ],
+ "0-2-13": [
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "âge",
+     "อายุ"
+    ],
+    [
+     "combien",
+     "เท่าไร"
+    ]
+   ],
+   "note": "L'âge se dit « aa-yú ». On demande âge combien.",
+   "say": {
+    "aa-yú": "อายุ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "âge",
+     "อายุ"
+    ],
+    [
+     "trente",
+     "สามสิบ"
+    ],
+    [
+     "an",
+     "ปี"
+    ]
+   ],
+   "note": "Trente se dit trois dix. On dit « sǎam-sìp ».",
+   "say": {
+    "sǎam-sìp": "สามสิบ"
+   }
+  },
+  {
+   "words": [
+    [
+     "alors",
+     "งั้น"
+    ],
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "être",
+     "เป็น"
+    ],
+    [
+     "aîné",
+     "พี่"
+    ]
+   ],
+   "note": "Une personne plus âgée, même un peu, s'appelle « phîi ». C'est respectueux et affectueux.",
+   "say": {
+    "phîi": "พี่"
+   }
+  },
+  {
+   "words": [
+    [
+     "appeler",
+     "เรียก"
+    ],
+    [
+     "aîné",
+     "พี่"
+    ],
+    [
+     "Ton",
+     "ต้น"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "On place aîné devant le prénom. Appeler se dit « rîak ».",
+   "say": {
+    "rîak": "เรียก"
+   }
+  },
+  {
+   "words": [
+    [
+     "aîné",
+     "พี่"
+    ],
+    [
+     "boire",
+     "ดื่ม"
+    ],
+    [
+     "café",
+     "กาแฟ"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Ici, aîné remplace tu. On s'adresse ainsi à quelqu'un de plus âgé, « phîi ».",
+   "say": {
+    "phîi": "พี่"
+   }
+  },
+  {
+   "words": [
+    [
+     "cadet",
+     "น้อง"
+    ],
+    [
+     "addition",
+     "เช็กบิล"
+    ],
+    [
+     "s'il te plaît",
+     "ด้วย"
+    ]
+   ],
+   "note": "Pour appeler un serveur jeune, on dit cadet. On dit « náwng ».",
+   "say": {
+    "náwng": "น้อง"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "เขา"
+    ],
+    [
+     "âge",
+     "อายุ"
+    ],
+    [
+     "peu",
+     "น้อย"
+    ],
+    [
+     "plus",
+     "กว่า"
+    ],
+    [
+     "moi",
+     "ผม"
+    ]
+   ],
+   "note": "Plus jeune se dit âge moins. Peu se dit « náwy ».",
+   "say": {
+    "náwy": "น้อย"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "donc",
+     "เลย"
+    ],
+    [
+     "appeler",
+     "เรียก"
+    ],
+    [
+     "elle",
+     "เขา"
+    ],
+    [
+     "que",
+     "ว่า"
+    ],
+    [
+     "cadet",
+     "น้อง"
+    ]
+   ],
+   "note": "Appeler quelqu'un d'un nom se dit appeler que. Ce petit mot se dit « wâa ».",
+   "say": {
+    "wâa": "ว่า"
+   }
+  },
+  {
+   "words": [
+    [
+     "aîné",
+     "พี่"
+    ],
+    [
+     "Noi",
+     "น้อย"
+    ],
+    [
+     "gentil",
+     "ใจดี"
+    ],
+    [
+     "très",
+     "มาก"
+    ]
+   ],
+   "note": "Noi est un surnom qui veut dire petit. Il se prononce « náwy ».",
+   "say": {
+    "náwy": "น้อย"
+   }
+  },
+  {
+   "words": [
+    [
+     "merci",
+     "ขอบคุณ"
+    ],
+    [
+     "beaucoup",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "aîné",
+     "พี่"
+    ]
+   ],
+   "note": "Merci beaucoup se dit « khàwp-khun mâak ». On ajoute aîné à la fin, par affection.",
+   "say": {
+    "khàwp-khun mâak": "ขอบคุณมาก"
+   }
+  }
+ ],
+ "0-2-14": [
+  {
+   "words": [
+    [
+     "jour",
+     "วัน"
+    ],
+    [
+     "samedi",
+     "เสาร์"
+    ],
+    [
+     "libre",
+     "ว่าง"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Samedi se dit « wan sǎo ». Libre se met juste après.",
+   "say": {
+    "wan sǎo": "วันเสาร์"
+   }
+  },
+  {
+   "words": [
+    [
+     "libre",
+     "ว่าง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour dire qu'on est disponible, on dit simplement libre. On dit « wâang ».",
+   "say": {
+    "wâang": "ว่าง"
+   }
+  },
+  {
+   "words": [
+    [
+     "venir",
+     "มา"
+    ],
+    [
+     "manger",
+     "กิน"
+    ],
+    [
+     "riz",
+     "ข้าว"
+    ],
+    [
+     "à",
+     "ที่"
+    ],
+    [
+     "maison",
+     "บ้าน"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "allez",
+     "สิ"
+    ]
+   ],
+   "note": "Chez moi se dit à maison moi. On dit « thîi bâan phǒm ».",
+   "say": {
+    "thîi bâan phǒm": "ที่บ้านผม"
+   }
+  },
+  {
+   "words": [
+    [
+     "avec",
+     "ด้วย"
+    ],
+    [
+     "plaisir",
+     "ความยินดี"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Avec plaisir se dit « dûay khwaam-yin-dii ». C'est une formule un peu soignée.",
+   "say": {
+    "dûay khwaam-yin-dii": "ด้วยความยินดี"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "inviter",
+     "ชวน"
+    ],
+    [
+     "collègue",
+     "เพื่อนร่วมงาน"
+    ],
+    [
+     "aussi",
+     "ด้วย"
+    ]
+   ],
+   "note": "Inviter se dit « chuan ». La personne invitée vient après.",
+   "say": {
+    "chuan": "ชวน"
+   }
+  },
+  {
+   "words": [
+    [
+     "devoir",
+     "ต้อง"
+    ],
+    [
+     "prendre",
+     "เอา"
+    ],
+    [
+     "quelque chose",
+     "อะไร"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Ici, quoi veut dire quelque chose. Apporter se dit prendre aller, « ao pai ».",
+   "say": {
+    "ao pai": "เอาไป"
+   }
+  },
+  {
+   "words": [
+    [
+     "pas besoin",
+     "ไม่ต้อง"
+    ],
+    [
+     "venir",
+     "มา"
+    ],
+    [
+     "les mains vides",
+     "ตัวเปล่า"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "tout à fait",
+     "เลย"
+    ]
+   ],
+   "note": "Pas besoin se dit « mâi tâwng ». Venir les mains vides se dit venir le corps vide.",
+   "say": {
+    "mâi tâwng": "ไม่ต้อง"
+   }
+  },
+  {
+   "words": [
+    [
+     "venir",
+     "มา"
+    ],
+    [
+     "combien",
+     "กี่"
+    ],
+    [
+     "heure",
+     "โมง"
+    ],
+    [
+     "bien",
+     "ดี"
+    ]
+   ],
+   "note": "Pour demander conseil, on ajoute bien à la fin. On dit « kìi moong dii ».",
+   "say": {
+    "kìi moong dii": "กี่โมงดี"
+   }
+  },
+  {
+   "words": [
+    [
+     "environ",
+     "ประมาณ"
+    ],
+    [
+     "six",
+     "หก"
+    ],
+    [
+     "heure",
+     "โมง"
+    ],
+    [
+     "soir",
+     "เย็น"
+    ]
+   ],
+   "note": "Environ se dit « prà-maan ». Il se place devant l'heure.",
+   "say": {
+    "prà-maan": "ประมาณ"
+   }
+  },
+  {
+   "words": [
+    [
+     "merci",
+     "ขอบคุณ"
+    ],
+    [
+     "de",
+     "ที่"
+    ],
+    [
+     "inviter",
+     "ชวน"
+    ],
+    [
+     "petit mot de douceur",
+     "นะ"
+    ]
+   ],
+   "note": "Merci de se dit merci que. Ce petit mot se dit « thîi ».",
+   "say": {
+    "thîi": "ที่"
+   }
+  }
+ ],
+ "0-2-15": [
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "acheter",
+     "ซื้อ"
+    ],
+    [
+     "cadeau",
+     "ของขวัญ"
+    ],
+    [
+     "venir",
+     "มา"
+    ],
+    [
+     "un",
+     "หนึ่ง"
+    ],
+    [
+     "petit mot de comptage",
+     "อัน"
+    ]
+   ],
+   "note": "Pour les petits objets, le mot de comptage est « an ». Il se place après le nombre.",
+   "say": {
+    "an": "อัน"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "มี"
+    ],
+    [
+     "combien",
+     "กี่"
+    ],
+    [
+     "petit mot de comptage",
+     "คน"
+    ]
+   ],
+   "note": "Pour compter les gens, on dit combien de personnes. On dit « kìi khon ».",
+   "say": {
+    "kìi khon": "กี่คน"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "มี"
+    ],
+    [
+     "cinq",
+     "ห้า"
+    ],
+    [
+     "petit mot de comptage",
+     "คน"
+    ]
+   ],
+   "note": "Le mot personne sert de mot de comptage. Cinq personnes se dit « hâa khon ».",
+   "say": {
+    "hâa khon": "ห้าคน"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "acheter",
+     "ซื้อ"
+    ],
+    [
+     "vêtement",
+     "เสื้อ"
+    ],
+    [
+     "deux",
+     "สอง"
+    ],
+    [
+     "petit mot de comptage",
+     "ตัว"
+    ]
+   ],
+   "note": "Pour les vêtements, le mot de comptage est « tua ». Il sert aussi pour les animaux.",
+   "say": {
+    "tua": "ตัว"
+   }
+  },
+  {
+   "words": [
+    [
+     "vêtement",
+     "เสื้อ"
+    ],
+    [
+     "petit mot de comptage",
+     "ตัว"
+    ],
+    [
+     "ce",
+     "นี้"
+    ],
+    [
+     "donner",
+     "ให้"
+    ],
+    [
+     "fils",
+     "ลูกชาย"
+    ],
+    [
+     "toi",
+     "คุณ"
+    ]
+   ],
+   "note": "Pour offrir, on dit donner. Donner se dit « hâi ».",
+   "say": {
+    "hâi": "ให้"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "เขา"
+    ],
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "chat",
+     "แมว"
+    ],
+    [
+     "trois",
+     "สาม"
+    ],
+    [
+     "petit mot de comptage",
+     "ตัว"
+    ]
+   ],
+   "note": "Les animaux se comptent avec le même mot que les vêtements. Trois chats se dit « maew sǎam tua ».",
+   "say": {
+    "maew sǎam tua": "แมวสามตัว"
+   }
+  },
+  {
+   "words": [
+    [
+     "demander",
+     "ขอ"
+    ],
+    [
+     "gâteau",
+     "ขนม"
+    ],
+    [
+     "petit mot de comptage",
+     "อัน"
+    ],
+    [
+     "là",
+     "นั้น"
+    ]
+   ],
+   "note": "Pour montrer un objet, on dit mot de comptage puis là. Celui-là se dit « an nán ».",
+   "say": {
+    "an nán": "อันนั้น"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de comptage",
+     "อัน"
+    ],
+    [
+     "ce",
+     "นี้"
+    ],
+    [
+     "combien",
+     "เท่าไร"
+    ]
+   ],
+   "note": "Celui-ci se dit « an níi ». Sans le nom, le mot de comptage suffit.",
+   "say": {
+    "an níi": "อันนี้"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de comptage",
+     "อัน"
+    ],
+    [
+     "par",
+     "ละ"
+    ],
+    [
+     "cent",
+     "ร้อย"
+    ],
+    [
+     "baht",
+     "บาท"
+    ]
+   ],
+   "note": "Le prix à l'unité se dit mot de comptage puis chaque. On dit « an lá ».",
+   "say": {
+    "an lá": "อันละ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "ami",
+     "เพื่อน"
+    ],
+    [
+     "personne",
+     "คน"
+    ],
+    [
+     "thaï",
+     "ไทย"
+    ],
+    [
+     "deux",
+     "สอง"
+    ],
+    [
+     "petit mot de comptage",
+     "คน"
+    ]
+   ],
+   "note": "Ici, le mot personne apparaît deux fois. La première fois, il indique la nationalité, « khon thai ».",
+   "say": {
+    "khon thai": "คนไทย"
+   }
+  }
+ ],
+ "0-2-16": [
+  {
+   "words": [
+    [
+     "manger",
+     "กิน"
+    ],
+    [
+     "épicé",
+     "เผ็ด"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "C'est la question qu'on pose toujours à un étranger. Tu peux manger épicé se dit « kin phèt dâi mái ».",
+   "say": {
+    "kin phèt dâi mái": "กินเผ็ดได้ไหม"
+   }
+  },
+  {
+   "words": [
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "un peu",
+     "นิดหน่อย"
+    ]
+   ],
+   "note": "Pour répondre oui, on reprend pouvoir. Un peu se dit « nít-nàwy ».",
+   "say": {
+    "nít-nàwy": "นิดหน่อย"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "épicé",
+     "เผ็ด"
+    ],
+    [
+     "petit mot de douceur",
+     "นะ"
+    ]
+   ],
+   "note": "Ce petit mot rassure ou adoucit. Il se dit « ná ».",
+   "say": {
+    "ná": "นะ"
+   }
+  },
+  {
+   "words": [
+    [
+     "essayer",
+     "ลอง"
+    ],
+    [
+     "goûter",
+     "ชิม"
+    ],
+    [
+     "curry vert",
+     "แกงเขียวหวาน"
+    ],
+    [
+     "ça",
+     "นี่"
+    ],
+    [
+     "allez",
+     "สิ"
+    ]
+   ],
+   "note": "Goûter se dit « chim ». Devant, essayer renforce l'invitation.",
+   "say": {
+    "chim": "ชิม"
+   }
+  },
+  {
+   "words": [
+    [
+     "délicieux",
+     "อร่อย"
+    ],
+    [
+     "très",
+     "มาก"
+    ]
+   ],
+   "note": "Délicieux se dit « à-ràwy ». On l'entend à chaque repas.",
+   "say": {
+    "à-ràwy": "อร่อย"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "manger",
+     "กิน"
+    ],
+    [
+     "quoi",
+     "อะไร"
+    ]
+   ],
+   "note": "Pour demander ce qu'on ne mange pas, on met la négation devant manger. On dit « mâi kin ».",
+   "say": {
+    "mâi kin": "ไม่กิน"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "manger",
+     "กิน"
+    ],
+    [
+     "crevette",
+     "กุ้ง"
+    ]
+   ],
+   "note": "Crevette se dit « kûng ». Elle est partout dans la cuisine thaïe.",
+   "say": {
+    "kûng": "กุ้ง"
+   }
+  },
+  {
+   "words": [
+    [
+     "partager",
+     "แบ่ง"
+    ],
+    [
+     "ensemble",
+     "กัน"
+    ],
+    [
+     "manger",
+     "กิน"
+    ],
+    [
+     "petit mot de douceur",
+     "นะ"
+    ]
+   ],
+   "note": "Partager se dit « bàeng ». En Thaïlande, on partage tous les plats.",
+   "say": {
+    "bàeng": "แบ่ง"
+   }
+  },
+  {
+   "words": [
+    [
+     "vouloir",
+     "เอา"
+    ],
+    [
+     "riz",
+     "ข้าว"
+    ],
+    [
+     "ajouter",
+     "เพิ่ม"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ]
+   ],
+   "note": "Ajouter ou plus se dit « phôem ». Il se place après le nom.",
+   "say": {
+    "phôem": "เพิ่ม"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "être",
+     "เป็น"
+    ],
+    [
+     "quoi",
+     "ไร"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "rassasié",
+     "อิ่ม"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ]
+   ],
+   "note": "Ici, la formule sert à refuser poliment. Rassasié se dit « ìm ».",
+   "say": {
+    "ìm": "อิ่ม"
+   }
+  }
+ ],
+ "0-2-17": [
+  {
+   "words": [
+    [
+     "vêtement",
+     "เสื้อ"
+    ],
+    [
+     "petit mot de comptage",
+     "ตัว"
+    ],
+    [
+     "ce",
+     "นี้"
+    ],
+    [
+     "beau",
+     "สวย"
+    ],
+    [
+     "très",
+     "มาก"
+    ]
+   ],
+   "note": "Très se met après l'adjectif. On dit « mâak ».",
+   "say": {
+    "mâak": "มาก"
+   }
+  },
+  {
+   "words": [
+    [
+     "cher",
+     "แพง"
+    ],
+    [
+     "dépasser",
+     "เกิน"
+    ],
+    [
+     "trop",
+     "ไป"
+    ],
+    [
+     "pour",
+     "สำหรับ"
+    ],
+    [
+     "moi",
+     "ผม"
+    ]
+   ],
+   "note": "Trop se dit « koen pai ». Il se place après l'adjectif.",
+   "say": {
+    "koen pai": "เกินไป"
+   }
+  },
+  {
+   "words": [
+    [
+     "maison",
+     "บ้าน"
+    ],
+    [
+     "toi",
+     "คุณ"
+    ],
+    [
+     "beau",
+     "สวย"
+    ],
+    [
+     "très",
+     "มาก"
+    ]
+   ],
+   "note": "Beau, pour une chose ou une personne, se dit « sǔay ». C'est un compliment fréquent.",
+   "say": {
+    "sǔay": "สวย"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "parler",
+     "พูด"
+    ],
+    [
+     "thaï",
+     "ไทย"
+    ],
+    [
+     "doué",
+     "เก่ง"
+    ],
+    [
+     "très",
+     "มาก"
+    ]
+   ],
+   "note": "C'est un compliment qu'on entend souvent. Très doué se dit « kèng mâak ».",
+   "say": {
+    "kèng mâak": "เก่งมาก"
+   }
+  },
+  {
+   "words": [
+    [
+     "merci",
+     "ขอบคุณ"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "gentil",
+     "ใจดี"
+    ],
+    [
+     "très",
+     "มาก"
+    ]
+   ],
+   "note": "Pour répondre à un compliment, on dit merci, c'est gentil. Gentil se dit « jai-dii ».",
+   "say": {
+    "jai-dii": "ใจดี"
+   }
+  },
+  {
+   "words": [
+    [
+     "nourriture",
+     "อาหาร"
+    ],
+    [
+     "plat",
+     "จาน"
+    ],
+    [
+     "ce",
+     "นี้"
+    ],
+    [
+     "épicé",
+     "เผ็ด"
+    ],
+    [
+     "dépasser",
+     "เกิน"
+    ],
+    [
+     "trop",
+     "ไป"
+    ]
+   ],
+   "note": "Trop épicé se dit « phèt koen pai ». Très, au contraire, n'est pas un reproche.",
+   "say": {
+    "phèt koen pai": "เผ็ดเกินไป"
+   }
+  },
+  {
+   "words": [
+    [
+     "musique",
+     "เพลง"
+    ],
+    [
+     "fort",
+     "ดัง"
+    ],
+    [
+     "dépasser",
+     "เกิน"
+    ],
+    [
+     "trop",
+     "ไป"
+    ]
+   ],
+   "note": "Fort, pour un son, se dit « dang ». Le mot trop vient après.",
+   "say": {
+    "dang": "ดัง"
+   }
+  },
+  {
+   "words": [
+    [
+     "dehors",
+     "ข้างนอก"
+    ],
+    [
+     "chaud",
+     "ร้อน"
+    ],
+    [
+     "dépasser",
+     "เกิน"
+    ],
+    [
+     "trop",
+     "ไป"
+    ]
+   ],
+   "note": "Dehors se dit côté extérieur. On dit « khâang-nâwk ».",
+   "say": {
+    "khâang-nâwk": "ข้างนอก"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "content",
+     "ดีใจ"
+    ],
+    [
+     "très",
+     "มาก"
+    ]
+   ],
+   "note": "Très content se dit « dii-jai mâak ». Le sens est positif, sans excès.",
+   "say": {
+    "dii-jai mâak": "ดีใจมาก"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "คุณ"
+    ],
+    [
+     "travailler",
+     "ทำงาน"
+    ],
+    [
+     "lourd",
+     "หนัก"
+    ],
+    [
+     "dépasser",
+     "เกิน"
+    ],
+    [
+     "trop",
+     "ไป"
+    ]
+   ],
+   "note": "Travailler dur se dit travailler lourd. Lourd se dit « nàk ».",
+   "say": {
+    "nàk": "หนัก"
+   }
+  }
+ ],
+ "0-2-18": [
+  {
+   "words": [
+    [
+     "personne",
+     "คน"
+    ],
+    [
+     "thaï",
+     "ไทย"
+    ],
+    [
+     "sourire",
+     "ยิ้ม"
+    ],
+    [
+     "doué",
+     "เก่ง"
+    ]
+   ],
+   "note": "Sourire se dit « yím ». Sourire doué veut dire sourire souvent.",
+   "say": {
+    "yím": "ยิ้ม"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "ที่นี่"
+    ],
+    [
+     "gens",
+     "คน"
+    ],
+    [
+     "parler",
+     "พูด"
+    ],
+    [
+     "doucement",
+     "เบาๆ"
+    ]
+   ],
+   "note": "Doucement, à voix basse, se dit « bao bao ». On évite de parler fort.",
+   "say": {
+    "bao bao": "เบาๆ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "être",
+     "เป็น"
+    ],
+    [
+     "quoi",
+     "ไร"
+    ]
+   ],
+   "note": "Pas de souci se dit « mâi pen rai ». C'est la philosophie thaïe du calme.",
+   "say": {
+    "mâi pen rai": "ไม่เป็นไร"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "เขา"
+    ],
+    [
+     "sourire",
+     "ยิ้ม"
+    ],
+    [
+     "tout le temps",
+     "ตลอด"
+    ]
+   ],
+   "note": "Tout le temps se dit « tà-làwt ». Il se place après le verbe.",
+   "say": {
+    "tà-làwt": "ตลอด"
+   }
+  },
+  {
+   "words": [
+    [
+     "merci",
+     "ขอบคุณ"
+    ],
+    [
+     "de",
+     "ที่"
+    ],
+    [
+     "gentil",
+     "ใจดี"
+    ],
+    [
+     "avec",
+     "กับ"
+    ],
+    [
+     "moi",
+     "ผม"
+    ]
+   ],
+   "note": "Être gentil avec quelqu'un se dit cœur bon avec. Avec se dit « kàp ».",
+   "say": {
+    "kàp": "กับ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "devoir",
+     "ต้อง"
+    ],
+    [
+     "rentrer",
+     "กลับ"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ]
+   ],
+   "note": "Pour prendre congé, on dit je dois rentrer maintenant. Devoir se dit « tâwng ».",
+   "say": {
+    "tâwng": "ต้อง"
+   }
+  },
+  {
+   "words": [
+    [
+     "rentrer",
+     "กลับ"
+    ],
+    [
+     "maison",
+     "บ้าน"
+    ],
+    [
+     "bien",
+     "ดีๆ"
+    ],
+    [
+     "petit mot de douceur",
+     "นะ"
+    ]
+   ],
+   "note": "Rentre bien se dit rentrer maison bien bien. On dit « dii dii ».",
+   "say": {
+    "dii dii": "ดีๆ"
+   }
+  },
+  {
+   "words": [
+    [
+     "se voir",
+     "เจอ"
+    ],
+    [
+     "ensemble",
+     "กัน"
+    ],
+    [
+     "bientôt",
+     "เร็วๆ"
+    ],
+    [
+     "ce",
+     "นี้"
+    ],
+    [
+     "petit mot de douceur",
+     "นะ"
+    ]
+   ],
+   "note": "Bientôt se dit vite vite ceci. On dit « reo reo níi ».",
+   "say": {
+    "reo reo níi": "เร็วๆนี้"
+   }
+  },
+  {
+   "words": [
+    [
+     "envoyer",
+     "ส่ง"
+    ],
+    [
+     "message",
+     "ข้อความ"
+    ],
+    [
+     "venir",
+     "มา"
+    ],
+    [
+     "petit mot de douceur",
+     "นะ"
+    ]
+   ],
+   "note": "Envoyer se dit « sòng ». Venir à la fin veut dire vers moi.",
+   "say": {
+    "sòng": "ส่ง"
+   }
+  },
+  {
+   "words": [
+    [
+     "rêver",
+     "ฝัน"
+    ],
+    [
+     "bien",
+     "ดี"
+    ],
+    [
+     "demain",
+     "พรุ่งนี้"
+    ],
+    [
+     "se voir",
+     "เจอ"
+    ],
+    [
+     "ensemble",
+     "กัน"
+    ]
+   ],
+   "note": "Bonne nuit se dit fais de beaux rêves. On dit « fǎn dii ».",
+   "say": {
+    "fǎn dii": "ฝันดี"
+   }
+  }
+ ],
+ "0-2-19": [
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "aimer",
+     "ชอบ"
+    ],
+    [
+     "parler",
+     "พูด"
+    ],
+    [
+     "langue",
+     "ภาษา"
+    ],
+    [
+     "thaï",
+     "ไทย"
+    ],
+    [
+     "beaucoup",
+     "มาก"
+    ]
+   ],
+   "note": "Après aimer, on met le verbe directement. J'aime parler se dit « châwp phûut ».",
+   "say": {
+    "châwp phûut": "ชอบพูด"
+   }
+  },
+  {
+   "words": [
+    [
+     "maintenant",
+     "ตอนนี้"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "présenter",
+     "แนะนำ"
+    ],
+    [
+     "soi",
+     "ตัว"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ]
+   ],
+   "note": "Se présenter se dit présenter son corps. On dit « náe-nam tua ».",
+   "say": {
+    "náe-nam tua": "แนะนำตัว"
+   }
+  },
+  {
+   "words": [
+    [
+     "parler",
+     "พูด"
+    ],
+    [
+     "lentement",
+     "ช้าๆ"
+    ],
+    [
+     "un peu",
+     "หน่อย"
+    ],
+    [
+     "petit mot de douceur",
+     "นะ"
+    ]
+   ],
+   "note": "Le petit mot de la fin adoucit une demande. On dit « ná ».",
+   "say": {
+    "ná": "นะ"
+   }
+  },
+  {
+   "words": [
+    [
+     "parler",
+     "พูด"
+    ],
+    [
+     "encore",
+     "อีก"
+    ],
+    [
+     "fois",
+     "ที"
+    ],
+    [
+     "allez",
+     "สิ"
+    ]
+   ],
+   "note": "Le petit mot de la fin pousse gentiment à agir. On dit « sì ».",
+   "say": {
+    "sì": "สิ"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "แล้ว"
+    ],
+    [
+     "futur",
+     "จะ"
+    ],
+    [
+     "faire",
+     "ทำ"
+    ],
+    [
+     "quoi",
+     "อะไร"
+    ],
+    [
+     "ensuite",
+     "ต่อ"
+    ],
+    [
+     "petit mot d'insistance",
+     "ล่ะ"
+    ]
+   ],
+   "note": "Le petit mot de la fin relance la question. On dit « lâ ».",
+   "say": {
+    "lâ": "ล่ะ"
+   }
+  },
+  {
+   "words": [
+    [
+     "étudier",
+     "เรียน"
+    ],
+    [
+     "continuer",
+     "ต่อ"
+    ],
+    [
+     "ensemble",
+     "ด้วยกัน"
+    ],
+    [
+     "petit mot de douceur",
+     "นะ"
+    ]
+   ],
+   "note": "Continuer se dit « tàw ». Il se place après le verbe.",
+   "say": {
+    "tàw": "ต่อ"
+   }
+  },
+  {
+   "words": [
+    [
+     "essayer",
+     "ลอง"
+    ],
+    [
+     "parler",
+     "พูด"
+    ],
+    [
+     "avec",
+     "กับ"
+    ],
+    [
+     "ami",
+     "เพื่อน"
+    ],
+    [
+     "personne",
+     "คน"
+    ],
+    [
+     "thaï",
+     "ไทย"
+    ],
+    [
+     "allez",
+     "สิ"
+    ]
+   ],
+   "note": "Essayer se met devant le verbe. On dit « lawng ».",
+   "say": {
+    "lawng": "ลอง"
+   }
+  },
+  {
+   "words": [
+    [
+     "langue",
+     "ภาษา"
+    ],
+    [
+     "thaï",
+     "ไทย"
+    ],
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "difficile",
+     "ยาก"
+    ],
+    [
+     "petit mot de douceur",
+     "นะ"
+    ]
+   ],
+   "note": "Difficile se dit « yâak ». Le petit mot de la fin rend la phrase rassurante.",
+   "say": {
+    "yâak": "ยาก"
+   }
+  },
+  {
+   "words": [
+    [
+     "ton",
+     "วรรณยุกต์"
+    ],
+    [
+     "encore",
+     "ยัง"
+    ],
+    [
+     "difficile",
+     "ยาก"
+    ],
+    [
+     "pour",
+     "สำหรับ"
+    ],
+    [
+     "moi",
+     "ผม"
+    ]
+   ],
+   "note": "Pour moi se dit « sǎm-ràp phǒm ». Il se met à la fin de la phrase.",
+   "say": {
+    "sǎm-ràp phǒm": "สำหรับผม"
+   }
+  },
+  {
+   "words": [
+    [
+     "doué",
+     "เก่ง"
+    ],
+    [
+     "très",
+     "มาก"
+    ],
+    [
+     "courage",
+     "สู้ๆ"
+    ],
+    [
+     "petit mot de douceur",
+     "นะ"
+    ]
+   ],
+   "note": "Pour encourager, on dit lutte, lutte. On dit « sûu sûu ».",
+   "say": {
+    "sûu sûu": "สู้ๆ"
+   }
+  }
+ ]
+}

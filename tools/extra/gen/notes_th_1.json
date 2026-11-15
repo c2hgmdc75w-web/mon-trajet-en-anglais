@@ -1,0 +1,5554 @@
+{
+ "0-1-0": [
+  {
+   "words": [
+    [
+     "sortie",
+     "ทางออก"
+    ],
+    [
+     "se trouver",
+     "อยู่"
+    ],
+    [
+     "où",
+     "ที่ไหน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "La sortie se dit chemin pour sortir. On dit « thaang-àwk ».",
+   "say": {
+    "thaang-àwk": "ทางออก"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "chercher",
+     "หา"
+    ],
+    [
+     "voiture",
+     "รถ"
+    ],
+    [
+     "entrer",
+     "เข้า"
+    ],
+    [
+     "ville",
+     "เมือง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Aller en ville se dit entrer en ville. Entrer se dit « khâo ».",
+   "say": {
+    "khâo": "เข้า"
+   }
+  },
+  {
+   "words": [
+    [
+     "voiture",
+     "รถ"
+    ],
+    [
+     "se trouver",
+     "อยู่"
+    ],
+    [
+     "direction",
+     "ทาง"
+    ],
+    [
+     "là",
+     "นั้น"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour montrer une direction, on dit « thaang nán ». Ça veut dire par là.",
+   "say": {
+    "thaang nán": "ทางนั้น"
+   }
+  },
+  {
+   "words": [
+    [
+     "heureux",
+     "ยินดี"
+    ],
+    [
+     "accueillir",
+     "ต้อนรับ"
+    ],
+    [
+     "vers",
+     "สู่"
+    ],
+    [
+     "Thaïlande",
+     "ประเทศไทย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "La Thaïlande se dit le pays thaï. On dit « prà-thêet-thai ».",
+   "say": {
+    "prà-thêet-thai": "ประเทศไทย"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "venir",
+     "มา"
+    ],
+    [
+     "se promener",
+     "เที่ยว"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour dire qu'on est en vacances, on dit venir se promener. Se promener se dit « thîao ».",
+   "say": {
+    "thîao": "เที่ยว"
+   }
+  },
+  {
+   "words": [
+    [
+     "rester",
+     "อยู่"
+    ],
+    [
+     "combien",
+     "กี่"
+    ],
+    [
+     "jour",
+     "วัน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Le nom n'a pas besoin de pluriel. Pour demander combien de, on met devant le nom « kìi ».",
+   "say": {
+    "kìi": "กี่"
+   }
+  },
+  {
+   "words": [
+    [
+     "seulement",
+     "แค่"
+    ],
+    [
+     "dix",
+     "สิบ"
+    ],
+    [
+     "jour",
+     "วัน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Seulement se dit « khâe ». Il se place devant le nombre.",
+   "say": {
+    "khâe": "แค่"
+   }
+  },
+  {
+   "words": [
+    [
+     "pardon",
+     "ขอโทษ"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "toilettes",
+     "ห้องน้ำ"
+    ],
+    [
+     "se trouver",
+     "อยู่"
+    ],
+    [
+     "où",
+     "ที่ไหน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour aborder quelqu'un, on commence par pardon. Les toilettes se disent « hâwng-náam ».",
+   "say": {
+    "hâwng-náam": "ห้องน้ำ"
+   }
+  },
+  {
+   "words": [
+    [
+     "aéroport",
+     "สนามบิน"
+    ],
+    [
+     "grand",
+     "ใหญ่"
+    ],
+    [
+     "très",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Aéroport se dit terrain pour voler. On dit « sà-nǎam-bin ».",
+   "say": {
+    "sà-nǎam-bin": "สนามบิน"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "ที่นี่"
+    ],
+    [
+     "chaud",
+     "ร้อน"
+    ],
+    [
+     "vraiment",
+     "จัง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour s'exclamer, on ajoute après l'adjectif « jang ». Ça veut dire vraiment, tellement.",
+   "say": {
+    "jang": "จัง"
+   }
+  }
+ ],
+ "0-1-1": [
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "วันนี้"
+    ],
+    [
+     "nous",
+     "เรา"
+    ],
+    [
+     "rester",
+     "อยู่"
+    ],
+    [
+     "Bangkok",
+     "กรุงเทพ"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Aujourd'hui se dit ce jour. On dit « wan-níi ».",
+   "say": {
+    "wan-níi": "วันนี้"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "พรุ่งนี้"
+    ],
+    [
+     "nous",
+     "เรา"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "Ayutthaya",
+     "อยุธยา"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Le mot de temps se met en début de phrase. Demain se dit « phrûng-níi ».",
+   "say": {
+    "phrûng-níi": "พรุ่งนี้"
+   }
+  },
+  {
+   "words": [
+    [
+     "hier",
+     "เมื่อวาน"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "venir",
+     "มา"
+    ],
+    [
+     "arriver",
+     "ถึง"
+    ],
+    [
+     "Thaïlande",
+     "เมืองไทย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Hier se dit « mûea-waan ». Le verbe, lui, reste le même qu'au présent.",
+   "say": {
+    "mûea-waan": "เมื่อวาน"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "พรุ่งนี้"
+    ],
+    [
+     "partir",
+     "ไป"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pas besoin de futur, le mot demain suffit. La question se termine par « mái ».",
+   "say": {
+    "mái": "ไหม"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "ไม่"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "partir",
+     "ไป"
+    ],
+    [
+     "aujourd'hui",
+     "วันนี้"
+    ],
+    [
+     "petit mot d'insistance",
+     "เลย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour insister, on ajoute à la fin « loei ». Ici, ça veut dire dès aujourd'hui.",
+   "say": {
+    "loei": "เลย"
+   }
+  },
+  {
+   "words": [
+    [
+     "hier",
+     "เมื่อวาน"
+    ],
+    [
+     "pluie",
+     "ฝน"
+    ],
+    [
+     "tomber",
+     "ตก"
+    ],
+    [
+     "fort",
+     "หนัก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour dire qu'il pleut fort, on dit la pluie tombe lourd. Lourd se dit « nàk ».",
+   "say": {
+    "nàk": "หนัก"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "วันนี้"
+    ],
+    [
+     "temps",
+     "อากาศ"
+    ],
+    [
+     "bon",
+     "ดี"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Le temps qu'il fait se dit l'air. On dit « aa-kàat ».",
+   "say": {
+    "aa-kàat": "อากาศ"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "พรุ่งนี้"
+    ],
+    [
+     "musée",
+     "พิพิธภัณฑ์"
+    ],
+    [
+     "fermer",
+     "ปิด"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Fermer se dit « pìt ». Le contraire, ouvrir, est un mot très proche.",
+   "say": {
+    "pìt": "ปิด"
+   }
+  },
+  {
+   "words": [
+    [
+     "hier",
+     "เมื่อวาน"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "fatigué",
+     "เหนื่อย"
+    ],
+    [
+     "très",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Fatigué se dit « nùeay ». Au passé, l'adjectif ne change pas non plus.",
+   "say": {
+    "nùeay": "เหนื่อย"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "พรุ่งนี้"
+    ],
+    [
+     "rencontrer",
+     "เจอ"
+    ],
+    [
+     "ensemble",
+     "กัน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour dire à demain, on dit demain se rencontrer. On dit « phrûng-níi joe kan ».",
+   "say": {
+    "phrûng-níi joe kan": "พรุ่งนี้เจอกัน"
+   }
+  }
+ ],
+ "0-1-2": [
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "futur",
+     "จะ"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "Chiang Mai",
+     "เชียงใหม่"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour parler d'un projet, on peut mettre un petit mot devant le verbe. Ce petit mot du futur se dit « jà ».",
+   "say": {
+    "jà": "จะ"
+   }
+  },
+  {
+   "words": [
+    [
+     "train",
+     "รถไฟ"
+    ],
+    [
+     "nuit",
+     "กลางคืน"
+    ],
+    [
+     "partir",
+     "ออก"
+    ],
+    [
+     "combien",
+     "กี่"
+    ],
+    [
+     "heure",
+     "โมง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Un train qui part se dit un train qui sort. Partir se dit « àwk ».",
+   "say": {
+    "àwk": "ออก"
+   }
+  },
+  {
+   "words": [
+    [
+     "six",
+     "หก"
+    ],
+    [
+     "heure",
+     "โมง"
+    ],
+    [
+     "soir",
+     "เย็น"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Dix-huit heures se dit six heure soir. On dit « hòk moong yen ».",
+   "say": {
+    "hòk moong yen": "หกโมงเย็น"
+   }
+  },
+  {
+   "words": [
+    [
+     "encore",
+     "ยัง"
+    ],
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "lit",
+     "เตียง"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour demander s'il en reste, on commence par encore. Lit se dit « tiang ».",
+   "say": {
+    "tiang": "เตียง"
+   }
+  },
+  {
+   "words": [
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "en haut",
+     "ข้างบน"
+    ],
+    [
+     "ou",
+     "หรือ"
+    ],
+    [
+     "en bas",
+     "ข้างล่าง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour proposer un choix, on met ou entre les deux. Ou se dit « rǔe ».",
+   "say": {
+    "rǔe": "หรือ"
+   }
+  },
+  {
+   "words": [
+    [
+     "en bas",
+     "ข้างล่าง"
+    ],
+    [
+     "bien",
+     "ดี"
+    ],
+    [
+     "plus",
+     "กว่า"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour dire c'est mieux, on dit bien plus. On dit « dii kwàa ».",
+   "say": {
+    "dii kwàa": "ดีกว่า"
+   }
+  },
+  {
+   "words": [
+    [
+     "train",
+     "รถไฟ"
+    ],
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "clim",
+     "แอร์"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "La climatisation se dit comme l'anglais air. On dit « ae ».",
+   "say": {
+    "ae": "แอร์"
+   }
+  },
+  {
+   "words": [
+    [
+     "utiliser",
+     "ใช้"
+    ],
+    [
+     "temps",
+     "เวลา"
+    ],
+    [
+     "douze",
+     "สิบสอง"
+    ],
+    [
+     "heure",
+     "ชั่วโมง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour une durée, l'heure se dit avec un autre mot. On dit « chûa-moong ».",
+   "say": {
+    "chûa-moong": "ชั่วโมง"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "prendre",
+     "เอา"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour accepter une offre, on dit simplement je prends. On dit « phǒm ao ».",
+   "say": {
+    "phǒm ao": "ผมเอา"
+   }
+  },
+  {
+   "words": [
+    [
+     "voici",
+     "นี่"
+    ],
+    [
+     "billet",
+     "ตั๋ว"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "voyager",
+     "เดินทาง"
+    ],
+    [
+     "sûr",
+     "ปลอดภัย"
+    ],
+    [
+     "petit mot de douceur",
+     "นะ"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour souhaiter bon voyage, on dit voyager en sécurité. En sécurité se dit « plàwt-phai ».",
+   "say": {
+    "plàwt-phai": "ปลอดภัย"
+   }
+  }
+ ],
+ "0-1-3": [
+  {
+   "words": [
+    [
+     "demander",
+     "ขอ"
+    ],
+    [
+     "chambre",
+     "ห้อง"
+    ],
+    [
+     "un",
+     "หนึ่ง"
+    ],
+    [
+     "petit mot de comptage",
+     "ห้อง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Ici, le mot chambre sert aussi de mot de comptage. On dit « hâwng nùeng hâwng ».",
+   "say": {
+    "hâwng nùeng hâwng": "ห้องหนึ่งห้อง"
+   }
+  },
+  {
+   "words": [
+    [
+     "deux",
+     "สอง"
+    ],
+    [
+     "nuit",
+     "คืน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "À l'hôtel, on compte en nuits. Nuit se dit « khuen ».",
+   "say": {
+    "khuen": "คืน"
+   }
+  },
+  {
+   "words": [
+    [
+     "demander",
+     "ขอ"
+    ],
+    [
+     "voir",
+     "ดู"
+    ],
+    [
+     "passeport",
+     "หนังสือเดินทาง"
+    ],
+    [
+     "un peu",
+     "หน่อย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour adoucir une demande, on ajoute à la fin « nàwy ». Ça veut dire un peu, s'il te plaît.",
+   "say": {
+    "nàwy": "หน่อย"
+   }
+  },
+  {
+   "words": [
+    [
+     "demander",
+     "ขอ"
+    ],
+    [
+     "clé",
+     "กุญแจ"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour demander un objet, on dit simplement « khǎw ». Puis on nomme l'objet.",
+   "say": {
+    "khǎw": "ขอ"
+   }
+  },
+  {
+   "words": [
+    [
+     "demander",
+     "ขอ"
+    ],
+    [
+     "eau",
+     "น้ำ"
+    ],
+    [
+     "un peu",
+     "หน่อย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "De l'eau s'il te plaît se dit « khǎw náam nàwy ». C'est une phrase très utile.",
+   "say": {
+    "khǎw náam nàwy": "ขอน้ำหน่อย"
+   }
+  },
+  {
+   "words": [
+    [
+     "demander",
+     "ขอ"
+    ],
+    [
+     "serviette",
+     "ผ้าเช็ดตัว"
+    ],
+    [
+     "encore",
+     "อีก"
+    ],
+    [
+     "petit mot de comptage",
+     "ผืน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour une de plus, on dit encore puis le mot de comptage. Pour le linge, c'est « phǔen ».",
+   "say": {
+    "phǔen": "ผืน"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit déjeuner",
+     "อาหารเช้า"
+    ],
+    [
+     "combien",
+     "กี่"
+    ],
+    [
+     "heure",
+     "โมง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Le petit déjeuner se dit repas du matin. On dit « aa-hǎan-cháo ».",
+   "say": {
+    "aa-hǎan-cháo": "อาหารเช้า"
+   }
+  },
+  {
+   "words": [
+    [
+     "sept",
+     "เจ็ด"
+    ],
+    [
+     "heure",
+     "โมง"
+    ],
+    [
+     "matin",
+     "เช้า"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Sept se dit « jèt ». On ajoute matin après l'heure.",
+   "say": {
+    "jèt": "เจ็ด"
+   }
+  },
+  {
+   "words": [
+    [
+     "demander",
+     "ขอ"
+    ],
+    [
+     "plan",
+     "แผนที่"
+    ],
+    [
+     "ville",
+     "เมือง"
+    ],
+    [
+     "un peu",
+     "หน่อย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Une carte ou un plan se dit « phǎen-thîi ». Le nom de la ville vient après.",
+   "say": {
+    "phǎen-thîi": "แผนที่"
+   }
+  },
+  {
+   "words": [
+    [
+     "demander",
+     "ขอ"
+    ],
+    [
+     "temps",
+     "เวลา"
+    ],
+    [
+     "un instant",
+     "สักครู่"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour faire patienter, on demande un peu de temps. Un instant se dit « sàk-khrûu ».",
+   "say": {
+    "sàk-khrûu": "สักครู่"
+   }
+  }
+ ],
+ "0-1-4": [
+  {
+   "words": [
+    [
+     "lit",
+     "เตียง"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "se trouver",
+     "อยู่"
+    ],
+    [
+     "ici",
+     "ตรงนี้"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Juste ici se dit « trong-níi ». C'est plus précis que le simple mot ici.",
+   "say": {
+    "trong-níi": "ตรงนี้"
+   }
+  },
+  {
+   "words": [
+    [
+     "pardon",
+     "ขอโทษ"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "ceci",
+     "นี่"
+    ],
+    [
+     "place",
+     "ที่"
+    ],
+    [
+     "petit mot du possessif",
+     "ของ"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Une place assise se dit « thîi ». C'est le même petit mot que pour à.",
+   "say": {
+    "thîi": "ที่"
+   }
+  },
+  {
+   "words": [
+    [
+     "wagon restaurant",
+     "ตู้เสบียง"
+    ],
+    [
+     "se trouver",
+     "อยู่"
+    ],
+    [
+     "où",
+     "ไหน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "À l'oral, on raccourcit souvent où. On dit simplement « nǎi ».",
+   "say": {
+    "nǎi": "ไหน"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "avoir faim",
+     "หิว"
+    ],
+    [
+     "un peu",
+     "นิดหน่อย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Un peu se dit « nít-nàwy ». Il se place après le verbe.",
+   "say": {
+    "nít-nàwy": "นิดหน่อย"
+   }
+  },
+  {
+   "words": [
+    [
+     "train",
+     "รถไฟ"
+    ],
+    [
+     "courir",
+     "วิ่ง"
+    ],
+    [
+     "lent",
+     "ช้า"
+    ],
+    [
+     "très",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Un train qui roule se dit un train qui court. Lent se dit « cháa ».",
+   "say": {
+    "cháa": "ช้า"
+   }
+  },
+  {
+   "words": [
+    [
+     "arriver",
+     "ถึง"
+    ],
+    [
+     "combien",
+     "กี่"
+    ],
+    [
+     "heure",
+     "โมง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Arriver se dit « thǔeng ». Pas besoin de sujet dans la question.",
+   "say": {
+    "thǔeng": "ถึง"
+   }
+  },
+  {
+   "words": [
+    [
+     "environ",
+     "ประมาณ"
+    ],
+    [
+     "sept",
+     "เจ็ด"
+    ],
+    [
+     "heure",
+     "โมง"
+    ],
+    [
+     "matin",
+     "เช้า"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Environ se dit « prà-maan ». Il se place devant le nombre.",
+   "say": {
+    "prà-maan": "ประมาณ"
+   }
+  },
+  {
+   "words": [
+    [
+     "dans",
+     "ใน"
+    ],
+    [
+     "wagon",
+     "ตู้"
+    ],
+    [
+     "froid",
+     "หนาว"
+    ],
+    [
+     "très",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Un wagon se dit le même mot qu'une armoire. On dit « tûu ».",
+   "say": {
+    "tûu": "ตู้"
+   }
+  },
+  {
+   "words": [
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "couverture",
+     "ผ้าห่ม"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Une couverture se dit tissu pour s'envelopper. On dit « phâa-hòm ».",
+   "say": {
+    "phâa-hòm": "ผ้าห่ม"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "dormir",
+     "นอน"
+    ],
+    [
+     "d'abord",
+     "ก่อน"
+    ],
+    [
+     "petit mot de douceur",
+     "นะ"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour prendre congé, on dit qu'on y va d'abord. D'abord se dit « kàwn ».",
+   "say": {
+    "kàwn": "ก่อน"
+   }
+  }
+ ],
+ "0-1-5": [
+  {
+   "words": [
+    [
+     "petit mot de comptage",
+     "อัน"
+    ],
+    [
+     "ceci",
+     "นี้"
+    ],
+    [
+     "combien",
+     "เท่าไร"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour un prix, on pointe l'objet et on dit combien. Combien se dit « thâo-rài ».",
+   "say": {
+    "thâo-rài": "เท่าไร"
+   }
+  },
+  {
+   "words": [
+    [
+     "cent",
+     "ร้อย"
+    ],
+    [
+     "baht",
+     "บาท"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Le prix se donne avec la monnaie à la fin. Cent baht se dit « ráwy bàat ».",
+   "say": {
+    "ráwy bàat": "ร้อยบาท"
+   }
+  },
+  {
+   "words": [
+    [
+     "cher",
+     "แพง"
+    ],
+    [
+     "trop",
+     "ไป"
+    ],
+    [
+     "un peu",
+     "หน่อย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour négocier gentiment, on dit un peu trop cher. On dit « phaeng pai nàwy ».",
+   "say": {
+    "phaeng pai nàwy": "แพงไปหน่อย"
+   }
+  },
+  {
+   "words": [
+    [
+     "baisser",
+     "ลด"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour demander une réduction, on dit baisser possible. Baisser se dit « lót ».",
+   "say": {
+    "lót": "ลด"
+   }
+  },
+  {
+   "words": [
+    [
+     "quatre-vingts",
+     "แปดสิบ"
+    ],
+    [
+     "baht",
+     "บาท"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Quatre-vingts se dit huit dix, c'est très régulier. On dit « pàet-sìp ».",
+   "say": {
+    "pàet-sìp": "แปดสิบ"
+   }
+  },
+  {
+   "words": [
+    [
+     "chemise",
+     "เสื้อ"
+    ],
+    [
+     "petit mot de comptage",
+     "ตัว"
+    ],
+    [
+     "ce",
+     "นี้"
+    ],
+    [
+     "combien",
+     "เท่าไร"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour un vêtement précis, on dit le mot de comptage puis ce. Cette chemise se dit « sûea tua níi ».",
+   "say": {
+    "sûea tua níi": "เสื้อตัวนี้"
+   }
+  },
+  {
+   "words": [
+    [
+     "deux",
+     "สอง"
+    ],
+    [
+     "petit mot de comptage",
+     "ตัว"
+    ],
+    [
+     "deux",
+     "สอง"
+    ],
+    [
+     "cent",
+     "ร้อย"
+    ],
+    [
+     "baht",
+     "บาท"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Deux pièces se dit deux puis le mot de comptage. On dit « sǎwng tua ».",
+   "say": {
+    "sǎwng tua": "สองตัว"
+   }
+  },
+  {
+   "words": [
+    [
+     "en tout",
+     "ทั้งหมด"
+    ],
+    [
+     "combien",
+     "เท่าไร"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour l'addition, on demande combien en tout. En tout se dit « tháng-mòt ».",
+   "say": {
+    "tháng-mòt": "ทั้งหมด"
+   }
+  },
+  {
+   "words": [
+    [
+     "porc grillé",
+     "หมูปิ้ง"
+    ],
+    [
+     "bâton",
+     "ไม้"
+    ],
+    [
+     "chaque",
+     "ละ"
+    ],
+    [
+     "combien",
+     "เท่าไร"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Les brochettes se comptent en bâtons. Bâton se dit « mái ».",
+   "say": {
+    "mái": "ไม้"
+   }
+  },
+  {
+   "words": [
+    [
+     "bâton",
+     "ไม้"
+    ],
+    [
+     "chaque",
+     "ละ"
+    ],
+    [
+     "dix",
+     "สิบ"
+    ],
+    [
+     "baht",
+     "บาท"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour un prix par pièce, on met chaque après le mot de comptage. Chaque se dit « lá ».",
+   "say": {
+    "lá": "ละ"
+   }
+  }
+ ],
+ "0-1-6": [
+  {
+   "words": [
+    [
+     "site ancien",
+     "โบราณสถาน"
+    ],
+    [
+     "grand",
+     "ใหญ่"
+    ],
+    [
+     "très",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Un site historique se dit lieu ancien. On dit « boo-raan-sà-thǎan ».",
+   "say": {
+    "boo-raan-sà-thǎan": "โบราณสถาน"
+   }
+  },
+  {
+   "words": [
+    [
+     "louer",
+     "เช่า"
+    ],
+    [
+     "vélo",
+     "จักรยาน"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Louer se dit « châo ». On ne dit pas de sujet pour proposer.",
+   "say": {
+    "châo": "เช่า"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "ครับ"
+    ],
+    [
+     "commode",
+     "สะดวก"
+    ],
+    [
+     "plus",
+     "กว่า"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pratique se dit « sà-dùak ». Plus se place après l'adjectif.",
+   "say": {
+    "sà-dùak": "สะดวก"
+   }
+  },
+  {
+   "words": [
+    [
+     "temple",
+     "วัด"
+    ],
+    [
+     "ce",
+     "นี้"
+    ],
+    [
+     "vieux",
+     "เก่า"
+    ],
+    [
+     "très",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Vieux, pour une chose, se dit « kào ». Pour une personne, on emploie un autre mot.",
+   "say": {
+    "kào": "เก่า"
+   }
+  },
+  {
+   "words": [
+    [
+     "beau",
+     "สวย"
+    ],
+    [
+     "vraiment",
+     "จริงๆ"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Vraiment se dit vrai vrai. On dit « jing-jing ».",
+   "say": {
+    "jing-jing": "จริงๆ"
+   }
+  },
+  {
+   "words": [
+    [
+     "prendre",
+     "ถ่าย"
+    ],
+    [
+     "photo",
+     "รูป"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour demander la permission, on finit par pouvoir avec la question. On dit « dâi mái ».",
+   "say": {
+    "dâi mái": "ได้ไหม"
+   }
+  },
+  {
+   "words": [
+    [
+     "moment",
+     "ตอน"
+    ],
+    [
+     "midi",
+     "เที่ยง"
+    ],
+    [
+     "chaud",
+     "ร้อน"
+    ],
+    [
+     "très",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour dire au moment de, on emploie « tawn ». Il se place devant l'heure.",
+   "say": {
+    "tawn": "ตอน"
+   }
+  },
+  {
+   "words": [
+    [
+     "boire",
+     "ดื่ม"
+    ],
+    [
+     "eau",
+     "น้ำ"
+    ],
+    [
+     "ensemble",
+     "กัน"
+    ],
+    [
+     "petit mot de proposition",
+     "เถอะ"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour proposer de faire quelque chose ensemble, on finit par « kan thòe ». Ça veut dire allons-y.",
+   "say": {
+    "kan thòe": "กันเถอะ"
+   }
+  },
+  {
+   "words": [
+    [
+     "touriste",
+     "นักท่องเที่ยว"
+    ],
+    [
+     "nombreux",
+     "เยอะ"
+    ],
+    [
+     "très",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Touriste se dit « nák-thâwng-thîao ». Le nom ne change pas au pluriel.",
+   "say": {
+    "nák-thâwng-thîao": "นักท่องเที่ยว"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "aimer",
+     "ชอบ"
+    ],
+    [
+     "Ayutthaya",
+     "อยุธยา"
+    ],
+    [
+     "beaucoup",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour dire qu'on aime beaucoup, on met beaucoup à la fin. Aimer se dit « châwp ».",
+   "say": {
+    "châwp": "ชอบ"
+   }
+  }
+ ],
+ "0-1-7": [
+  {
+   "words": [
+    [
+     "depuis",
+     "จาก"
+    ],
+    [
+     "Chiang Mai",
+     "เชียงใหม่"
+    ],
+    [
+     "jusqu'à",
+     "ถึง"
+    ],
+    [
+     "Chiang Rai",
+     "เชียงราย"
+    ],
+    [
+     "combien",
+     "กี่"
+    ],
+    [
+     "heure",
+     "ชั่วโมง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour dire de tel endroit à tel autre, on emploie deux petits mots. Le premier, depuis, se dit « jàak ».",
+   "say": {
+    "jàak": "จาก"
+   }
+  },
+  {
+   "words": [
+    [
+     "environ",
+     "ประมาณ"
+    ],
+    [
+     "trois",
+     "สาม"
+    ],
+    [
+     "heure",
+     "ชั่วโมง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour une durée en heures, on dit « chûa-moong ». Ce n'est pas le même mot que pour l'heure qu'il est.",
+   "say": {
+    "chûa-moong": "ชั่วโมง"
+   }
+  },
+  {
+   "words": [
+    [
+     "car",
+     "รถ"
+    ],
+    [
+     "sortir",
+     "ออก"
+    ],
+    [
+     "depuis",
+     "จาก"
+    ],
+    [
+     "gare routière",
+     "สถานีขนส่ง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "La gare routière se dit station de transport. On dit « sà-thǎa-nii khǒn-sòng ».",
+   "say": {
+    "sà-thǎa-nii khǒn-sòng": "สถานีขนส่ง"
+   }
+  },
+  {
+   "words": [
+    [
+     "demander",
+     "ขอ"
+    ],
+    [
+     "billet",
+     "ตั๋ว"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "Chiang Rai",
+     "เชียงราย"
+    ],
+    [
+     "un",
+     "หนึ่ง"
+    ],
+    [
+     "petit mot de comptage",
+     "ใบ"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Un billet se dit « tǔa ». Pour le compter, on emploie le même mot que pour un sac.",
+   "say": {
+    "tǔa": "ตั๋ว"
+   }
+  },
+  {
+   "words": [
+    [
+     "depuis",
+     "จาก"
+    ],
+    [
+     "hôtel",
+     "โรงแรม"
+    ],
+    [
+     "jusqu'à",
+     "ถึง"
+    ],
+    [
+     "gare",
+     "สถานี"
+    ],
+    [
+     "loin",
+     "ไกล"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Jusqu'à se dit « thǔeng ». C'est aussi le verbe arriver.",
+   "say": {
+    "thǔeng": "ถึง"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "loin",
+     "ไกล"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "seulement",
+     "แค่"
+    ],
+    [
+     "dix",
+     "สิบ"
+    ],
+    [
+     "minute",
+     "นาที"
+    ]
+   ],
+   "note": "Minute se dit « naa-thii ». Comme pour tous les noms, il n'y a pas de pluriel.",
+   "say": {
+    "naa-thii": "นาที"
+   }
+  },
+  {
+   "words": [
+    [
+     "car",
+     "รถ"
+    ],
+    [
+     "s'arrêter",
+     "จอด"
+    ],
+    [
+     "en route",
+     "ระหว่างทาง"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "S'arrêter, pour un véhicule, se dit « jàwt ». C'est aussi le mot pour se garer.",
+   "say": {
+    "jàwt": "จอด"
+   }
+  },
+  {
+   "words": [
+    [
+     "depuis",
+     "จาก"
+    ],
+    [
+     "gare",
+     "สถานี"
+    ],
+    [
+     "jusqu'à",
+     "ถึง"
+    ],
+    [
+     "centre ville",
+     "ตัวเมือง"
+    ],
+    [
+     "marcher",
+     "เดิน"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Le centre-ville se dit le corps de la ville. On dit « tua-mueang ».",
+   "say": {
+    "tua-mueang": "ตัวเมือง"
+   }
+  },
+  {
+   "words": [
+    [
+     "depuis",
+     "จาก"
+    ],
+    [
+     "Bangkok",
+     "กรุงเทพ"
+    ],
+    [
+     "jusqu'à",
+     "ถึง"
+    ],
+    [
+     "Chiang Mai",
+     "เชียงใหม่"
+    ],
+    [
+     "loin",
+     "ไกล"
+    ],
+    [
+     "très",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Avec un ton plat, loin se dit « klai ». Près se dit presque pareil, mais avec un ton qui descend.",
+   "say": {
+    "klai": "ไกล"
+   }
+  },
+  {
+   "words": [
+    [
+     "car",
+     "รถ"
+    ],
+    [
+     "petit mot de comptage",
+     "คัน"
+    ],
+    [
+     "ce",
+     "นี้"
+    ],
+    [
+     "confortable",
+     "สบาย"
+    ],
+    [
+     "bien",
+     "ดี"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Les véhicules se comptent avec « khan ». On l'emploie pour les voitures et les bus.",
+   "say": {
+    "khan": "คัน"
+   }
+  }
+ ],
+ "0-1-8": [
+  {
+   "words": [
+    [
+     "valise",
+     "กระเป๋า"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "lourd",
+     "หนัก"
+    ],
+    [
+     "très",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Une valise ou un sac se dit « krà-pǎo ». Le possesseur vient juste après.",
+   "say": {
+    "krà-pǎo": "กระเป๋า"
+   }
+  },
+  {
+   "words": [
+    [
+     "confier",
+     "ฝาก"
+    ],
+    [
+     "valise",
+     "กระเป๋า"
+    ],
+    [
+     "garder",
+     "ไว้"
+    ],
+    [
+     "ici",
+     "ที่นี่"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour laisser quelque chose en garde, on dit « fàak ». Le petit mot qui suit veut dire laisser en place.",
+   "say": {
+    "fàak": "ฝาก"
+   }
+  },
+  {
+   "words": [
+    [
+     "d'accord",
+     "ได้"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "jusqu'à",
+     "ถึง"
+    ],
+    [
+     "combien",
+     "กี่"
+    ],
+    [
+     "heure",
+     "โมง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour accepter, on dit simplement pouvoir. On répond « dâi khráp ».",
+   "say": {
+    "dâi khráp": "ได้ครับ"
+   }
+  },
+  {
+   "words": [
+    [
+     "jusqu'à",
+     "ถึง"
+    ],
+    [
+     "après-midi",
+     "บ่าย"
+    ],
+    [
+     "trois",
+     "สาม"
+    ],
+    [
+     "heure",
+     "โมง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Quinze heures se dit après-midi trois heures. On dit « bàai sǎam moong ».",
+   "say": {
+    "bàai sǎam moong": "บ่ายสามโมง"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "valise",
+     "กระเป๋า"
+    ],
+    [
+     "deux",
+     "สอง"
+    ],
+    [
+     "petit mot de comptage",
+     "ใบ"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour les sacs et valises, le mot de comptage est « bai ». On le met après le nombre.",
+   "say": {
+    "bai": "ใบ"
+   }
+  },
+  {
+   "words": [
+    [
+     "sac",
+     "กระเป๋า"
+    ],
+    [
+     "petit mot de comptage",
+     "ใบ"
+    ],
+    [
+     "ce",
+     "นี้"
+    ],
+    [
+     "petit mot du possessif",
+     "ของ"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour dire c'est à moi, on dit de je. On dit « khǎwng phǒm ».",
+   "say": {
+    "khǎwng phǒm": "ของผม"
+   }
+  },
+  {
+   "words": [
+    [
+     "sac à dos",
+     "เป้"
+    ],
+    [
+     "petit mot du possessif",
+     "ของ"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "se trouver",
+     "อยู่"
+    ],
+    [
+     "où",
+     "ไหน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Un sac à dos se dit « pêe ». C'est un mot court et courant.",
+   "say": {
+    "pêe": "เป้"
+   }
+  },
+  {
+   "words": [
+    [
+     "se trouver",
+     "อยู่"
+    ],
+    [
+     "sous",
+     "ใต้"
+    ],
+    [
+     "lit",
+     "เตียง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Sous se dit « tâi ». Il se place devant l'objet.",
+   "say": {
+    "tâi": "ใต้"
+   }
+  },
+  {
+   "words": [
+    [
+     "faire attention",
+     "ระวัง"
+    ],
+    [
+     "petit mot de douceur",
+     "นะ"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "chose",
+     "ของ"
+    ],
+    [
+     "casser",
+     "แตก"
+    ],
+    [
+     "facile",
+     "ง่าย"
+    ]
+   ],
+   "note": "Attention se dit « rá-wang ». Pour un objet fragile, on dit qui casse facilement.",
+   "say": {
+    "rá-wang": "ระวัง"
+   }
+  },
+  {
+   "words": [
+    [
+     "merci",
+     "ขอบคุณ"
+    ],
+    [
+     "que",
+     "ที่"
+    ],
+    [
+     "aider",
+     "ช่วย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Merci de m'aider se dit merci que aider. Aider se dit « chûay ».",
+   "say": {
+    "chûay": "ช่วย"
+   }
+  }
+ ],
+ "0-1-9": [
+  {
+   "words": [
+    [
+     "arriver",
+     "ถึง"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour une action terminée, on ajoute à la fin « láew ». Nous sommes arrivés se dit simplement arriver déjà.",
+   "say": {
+    "láew": "แล้ว"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "réserver",
+     "จอง"
+    ],
+    [
+     "hôtel",
+     "โรงแรม"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Réserver se dit « jawng ». Le petit mot de l'action accomplie vient après l'objet.",
+   "say": {
+    "jawng": "จอง"
+   }
+  },
+  {
+   "words": [
+    [
+     "manger",
+     "กิน"
+    ],
+    [
+     "riz",
+     "ข้าว"
+    ],
+    [
+     "ou",
+     "หรือ"
+    ],
+    [
+     "pas encore",
+     "ยัง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour demander si c'est déjà fait, on finit par « rǔe yang ». Ça veut dire ou pas encore.",
+   "say": {
+    "rǔe yang": "หรือยัง"
+   }
+  },
+  {
+   "words": [
+    [
+     "manger",
+     "กิน"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour répondre oui, on reprend le verbe avec le mot déjà. On dit « kin láew ».",
+   "say": {
+    "kin láew": "กินแล้ว"
+   }
+  },
+  {
+   "words": [
+    [
+     "car",
+     "รถ"
+    ],
+    [
+     "sortir",
+     "ออก"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour dire qu'il est parti, on dit sortir aller. On dit « àwk pai ».",
+   "say": {
+    "àwk pai": "ออกไป"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "acheter",
+     "ซื้อ"
+    ],
+    [
+     "billet",
+     "ตั๋ว"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Acheter se dit « súe ». Il ne change pas, même pour une action passée.",
+   "say": {
+    "súe": "ซื้อ"
+   }
+  },
+  {
+   "words": [
+    [
+     "pluie",
+     "ฝน"
+    ],
+    [
+     "tomber",
+     "ตก"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Avec ce petit mot, on annonce un changement. Ça y est, il pleut se dit « fǒn tòk láew ».",
+   "say": {
+    "fǒn tòk láew": "ฝนตกแล้ว"
+   }
+  },
+  {
+   "words": [
+    [
+     "boutique",
+     "ร้าน"
+    ],
+    [
+     "fermer",
+     "ปิด"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Une boutique se dit « ráan ». Le même mot sert pour un restaurant ou un stand.",
+   "say": {
+    "ráan": "ร้าน"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "prêt",
+     "พร้อม"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Prêt se dit « phráwm ». Avec le mot déjà, on dit je suis prêt maintenant.",
+   "say": {
+    "phráwm": "พร้อม"
+   }
+  },
+  {
+   "words": [
+    [
+     "tard",
+     "ดึก"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Tard dans la nuit se dit « dùek ». On l'emploie pour dire qu'il est temps de rentrer.",
+   "say": {
+    "dùek": "ดึก"
+   }
+  }
+ ],
+ "0-1-10": [
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "se perdre",
+     "หลง"
+    ],
+    [
+     "chemin",
+     "ทาง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Se perdre se dit s'égarer du chemin. On dit « lǒng thaang ».",
+   "say": {
+    "lǒng thaang": "หลงทาง"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "เรา"
+    ],
+    [
+     "se trouver",
+     "อยู่"
+    ],
+    [
+     "à quel endroit",
+     "ตรงไหน"
+    ],
+    [
+     "dans",
+     "ใน"
+    ],
+    [
+     "plan",
+     "แผนที่"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour un point précis, on demande « trong-nǎi ». Ça veut dire à quel endroit exactement.",
+   "say": {
+    "trong-nǎi": "ตรงไหน"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "ตรงนี้"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "à côté",
+     "ข้าง"
+    ],
+    [
+     "marché",
+     "ตลาด"
+    ]
+   ],
+   "note": "À côté de se dit « khâang ». Il se place devant le lieu.",
+   "say": {
+    "khâang": "ข้าง"
+   }
+  },
+  {
+   "words": [
+    [
+     "musée",
+     "พิพิธภัณฑ์"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "direction",
+     "ทาง"
+    ],
+    [
+     "quel",
+     "ไหน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour demander la direction, on dit aller par quel chemin. On dit « pai thaang nǎi ».",
+   "say": {
+    "pai thaang nǎi": "ไปทางไหน"
+   }
+  },
+  {
+   "words": [
+    [
+     "droit",
+     "ตรง"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "d'abord",
+     "ก่อน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Tout droit se dit « trong pai ». On ajoute d'abord pour la première étape.",
+   "say": {
+    "trong pai": "ตรงไป"
+   }
+  },
+  {
+   "words": [
+    [
+     "puis",
+     "แล้ว"
+    ],
+    [
+     "tourner",
+     "เลี้ยว"
+    ],
+    [
+     "gauche",
+     "ซ้าย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Gauche se dit « sáai ». Il suit directement le verbe tourner.",
+   "say": {
+    "sáai": "ซ้าย"
+   }
+  },
+  {
+   "words": [
+    [
+     "se trouver",
+     "อยู่"
+    ],
+    [
+     "côté",
+     "ทาง"
+    ],
+    [
+     "droite",
+     "ขวา"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Droite se dit « khwǎa ». À droite se dit du côté droit.",
+   "say": {
+    "khwǎa": "ขวา"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "exact",
+     "ใช่"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "se trouver",
+     "อยู่"
+    ],
+    [
+     "en face",
+     "ตรงข้าม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "En face se dit « trong-khâam ». Il se place juste après se trouver.",
+   "say": {
+    "trong-khâam": "ตรงข้าม"
+   }
+  },
+  {
+   "words": [
+    [
+     "aider",
+     "ช่วย"
+    ],
+    [
+     "montrer",
+     "ชี้"
+    ],
+    [
+     "dans",
+     "ใน"
+    ],
+    [
+     "plan",
+     "แผนที่"
+    ],
+    [
+     "un peu",
+     "หน่อย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour demander un service, on commence par aider. On dit « chûay ».",
+   "say": {
+    "chûay": "ช่วย"
+   }
+  },
+  {
+   "words": [
+    [
+     "merci",
+     "ขอบคุณ"
+    ],
+    [
+     "beaucoup",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "comprendre",
+     "เข้าใจ"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ]
+   ],
+   "note": "Comprendre se dit « khâo-jai ». Avec le mot déjà, ça veut dire j'ai compris.",
+   "say": {
+    "khâo-jai": "เข้าใจ"
+   }
+  }
+ ],
+ "0-1-11": [
+  {
+   "words": [
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "Temple Blanc",
+     "วัดร่องขุ่น"
+    ],
+    [
+     "comment",
+     "ยังไง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Comment se dit « yang-ngai ». Il se met à la fin de la question.",
+   "say": {
+    "yang-ngai": "ยังไง"
+   }
+  },
+  {
+   "words": [
+    [
+     "prendre",
+     "นั่ง"
+    ],
+    [
+     "bus",
+     "รถเมล์"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Le bus de ville se dit « rót-mee ». On le prend en s'asseyant, comme tout transport.",
+   "say": {
+    "rót-mee": "รถเมล์"
+   }
+  },
+  {
+   "words": [
+    [
+     "langue",
+     "ภาษา"
+    ],
+    [
+     "thaï",
+     "ไทย"
+    ],
+    [
+     "dire",
+     "พูด"
+    ],
+    [
+     "comment",
+     "ยังไง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour demander comment on dit un mot, on dit en thaï dire comment. Dire se dit « phûut ».",
+   "say": {
+    "phûut": "พูด"
+   }
+  },
+  {
+   "words": [
+    [
+     "machine",
+     "เครื่อง"
+    ],
+    [
+     "ce",
+     "นี้"
+    ],
+    [
+     "utiliser",
+     "ใช้"
+    ],
+    [
+     "comment",
+     "ยังไง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Utiliser se dit « chái ». On met d'abord l'objet, puis la question.",
+   "say": {
+    "chái": "ใช้"
+   }
+  },
+  {
+   "words": [
+    [
+     "plat",
+     "อาหาร"
+    ],
+    [
+     "ce",
+     "นี้"
+    ],
+    [
+     "manger",
+     "กิน"
+    ],
+    [
+     "comment",
+     "ยังไง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "L'objet de la question peut venir en tête de phrase. Ce plat se dit « aa-hǎan níi ».",
+   "say": {
+    "aa-hǎan níi": "อาหารนี้"
+   }
+  },
+  {
+   "words": [
+    [
+     "manger",
+     "กิน"
+    ],
+    [
+     "avec",
+     "กับ"
+    ],
+    [
+     "riz gluant",
+     "ข้าวเหนียว"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Le riz gluant, typique du nord, se dit « khâao-nǐao ». On le mange souvent avec les doigts.",
+   "say": {
+    "khâao-nǐao": "ข้าวเหนียว"
+   }
+  },
+  {
+   "words": [
+    [
+     "Chiang Rai",
+     "เชียงราย"
+    ],
+    [
+     "être",
+     "เป็น"
+    ],
+    [
+     "comment",
+     "ยังไง"
+    ],
+    [
+     "un peu",
+     "บ้าง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour demander comment c'est, on dit « pen yang-ngai bâang ». C'est une question très naturelle.",
+   "say": {
+    "pen yang-ngai bâang": "เป็นยังไงบ้าง"
+   }
+  },
+  {
+   "words": [
+    [
+     "calme",
+     "เงียบ"
+    ],
+    [
+     "et",
+     "และ"
+    ],
+    [
+     "beau",
+     "สวย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Et, entre deux adjectifs, se dit « láe ». Calme se dit silencieux.",
+   "say": {
+    "láe": "และ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "rentrer",
+     "กลับ"
+    ],
+    [
+     "hôtel",
+     "โรงแรม"
+    ],
+    [
+     "comment",
+     "ยังไง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Rentrer se dit « klàp ». Le lieu suit directement le verbe.",
+   "say": {
+    "klàp": "กลับ"
+   }
+  },
+  {
+   "words": [
+    [
+     "prendre",
+     "นั่ง"
+    ],
+    [
+     "tuk tuk",
+     "ตุ๊กตุ๊ก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour répondre, on donne juste le moyen de transport. Prendre un transport se dit « nâng ».",
+   "say": {
+    "nâng": "นั่ง"
+   }
+  }
+ ],
+ "0-1-12": [
+  {
+   "words": [
+    [
+     "par ici",
+     "แถวนี้"
+    ],
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "pharmacie",
+     "ร้านขายยา"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "La pharmacie se dit boutique qui vend des médicaments. On dit « ráan-khǎai-yaa ».",
+   "say": {
+    "ráan-khǎai-yaa": "ร้านขายยา"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "avoir mal",
+     "ปวด"
+    ],
+    [
+     "tête",
+     "หัว"
+    ],
+    [
+     "un peu",
+     "นิดหน่อย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Avoir mal se dit « pùat ». On ajoute ensuite la partie du corps.",
+   "say": {
+    "pùat": "ปวด"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "avoir mal",
+     "ปวด"
+    ],
+    [
+     "ventre",
+     "ท้อง"
+    ],
+    [
+     "depuis",
+     "ตั้งแต่"
+    ],
+    [
+     "hier",
+     "เมื่อวาน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Depuis se dit « tâng-tàe ». Il se place devant le moment.",
+   "say": {
+    "tâng-tàe": "ตั้งแต่"
+   }
+  },
+  {
+   "words": [
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "fièvre",
+     "ไข้"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Avoir de la fièvre se dit avoir fièvre. Fièvre se dit « khâi ».",
+   "say": {
+    "khâi": "ไข้"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour répondre non, on nie simplement le verbe. On dit « mâi mii ».",
+   "say": {
+    "mâi mii": "ไม่มี"
+   }
+  },
+  {
+   "words": [
+    [
+     "manger",
+     "กิน"
+    ],
+    [
+     "médicament",
+     "ยา"
+    ],
+    [
+     "ce",
+     "นี้"
+    ],
+    [
+     "petit mot de douceur",
+     "นะ"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "On ne prend pas un médicament, on le mange. Médicament se dit « yaa ».",
+   "say": {
+    "yaa": "ยา"
+   }
+  },
+  {
+   "words": [
+    [
+     "jour",
+     "วัน"
+    ],
+    [
+     "chaque",
+     "ละ"
+    ],
+    [
+     "combien",
+     "กี่"
+    ],
+    [
+     "fois",
+     "ครั้ง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Combien de fois par jour se dit jour chaque combien de fois. Fois se dit « khráng ».",
+   "say": {
+    "khráng": "ครั้ง"
+   }
+  },
+  {
+   "words": [
+    [
+     "trois",
+     "สาม"
+    ],
+    [
+     "fois",
+     "ครั้ง"
+    ],
+    [
+     "après",
+     "หลัง"
+    ],
+    [
+     "repas",
+     "อาหาร"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Après se dit « lǎng ». Il se place devant le moment.",
+   "say": {
+    "lǎng": "หลัง"
+   }
+  },
+  {
+   "words": [
+    [
+     "moustique",
+     "ยุง"
+    ],
+    [
+     "piquer",
+     "กัด"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Moustique se dit « yung ». On dit que le moustique mord.",
+   "say": {
+    "yung": "ยุง"
+   }
+  },
+  {
+   "words": [
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "pommade",
+     "ยาทา"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Une pommade se dit médicament à étaler. On dit « yaa-thaa ».",
+   "say": {
+    "yaa-thaa": "ยาทา"
+   }
+  }
+ ],
+ "0-1-13": [
+  {
+   "words": [
+    [
+     "payer",
+     "จ่าย"
+    ],
+    [
+     "avec",
+     "ด้วย"
+    ],
+    [
+     "carte",
+     "บัตร"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pouvoir se place après le verbe et son complément. Est-ce possible se dit « dâi mái ».",
+   "say": {
+    "dâi mái": "ได้ไหม"
+   }
+  },
+  {
+   "words": [
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "problème",
+     "ปัญหา"
+    ]
+   ],
+   "note": "Pas de problème se dit ne pas avoir de problème. On dit « mâi mii pan-hǎa ».",
+   "say": {
+    "mâi mii pan-hǎa": "ไม่มีปัญหา"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "dormir",
+     "นอน"
+    ],
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "bruit",
+     "เสียง"
+    ],
+    [
+     "fort",
+     "ดัง"
+    ],
+    [
+     "très",
+     "มาก"
+    ]
+   ],
+   "note": "Pour dire ne pas pouvoir, on met la négation juste devant pouvoir. On dit « mâi dâi ».",
+   "say": {
+    "mâi dâi": "ไม่ได้"
+   }
+  },
+  {
+   "words": [
+    [
+     "parler",
+     "พูด"
+    ],
+    [
+     "langue",
+     "ภาษา"
+    ],
+    [
+     "France",
+     "ฝรั่งเศส"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Le français se dit langue de France. On dit « phaa-sǎa fà-ràng-sèet ».",
+   "say": {
+    "phaa-sǎa fà-ràng-sèet": "ภาษาฝรั่งเศส"
+   }
+  },
+  {
+   "words": [
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "un peu",
+     "นิดหน่อย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour répondre, on reprend juste pouvoir. Un peu se dit « nít-nàwy ».",
+   "say": {
+    "nít-nàwy": "นิดหน่อย"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "parler",
+     "พูด"
+    ],
+    [
+     "langue",
+     "ภาษา"
+    ],
+    [
+     "thaï",
+     "ไทย"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "un peu",
+     "นิดหน่อย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Le thaï se dit langue thaïe. On dit « phaa-sǎa thai ».",
+   "say": {
+    "phaa-sǎa thai": "ภาษาไทย"
+   }
+  },
+  {
+   "words": [
+    [
+     "parler",
+     "พูด"
+    ],
+    [
+     "lentement",
+     "ช้าๆ"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Lentement se dit lent lent. On dit « cháa-cháa ».",
+   "say": {
+    "cháa-cháa": "ช้าๆ"
+   }
+  },
+  {
+   "words": [
+    [
+     "nager",
+     "ว่ายน้ำ"
+    ],
+    [
+     "ici",
+     "ที่นี่"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Nager se dit « wâai-náam ». Le lieu se met juste après.",
+   "say": {
+    "wâai-náam": "ว่ายน้ำ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "C'est la façon courante de dire non, ce n'est pas permis. On dit « mâi dâi ».",
+   "say": {
+    "mâi dâi": "ไม่ได้"
+   }
+  },
+  {
+   "words": [
+    [
+     "porter",
+     "ใส่"
+    ],
+    [
+     "chaussures",
+     "รองเท้า"
+    ],
+    [
+     "entrer",
+     "เข้า"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Entrer à l'intérieur se dit entrer aller. On dit « khâo pai ».",
+   "say": {
+    "khâo pai": "เข้าไป"
+   }
+  }
+ ],
+ "0-1-14": [
+  {
+   "words": [
+    [
+     "vieille ville",
+     "เมืองเก่า"
+    ],
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "grand",
+     "ใหญ่"
+    ],
+    [
+     "très",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pas très grand se dit ne pas grand très. Très se dit « mâak ».",
+   "say": {
+    "mâak": "มาก"
+   }
+  },
+  {
+   "words": [
+    [
+     "marcher",
+     "เดิน"
+    ],
+    [
+     "se promener",
+     "เที่ยว"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "tranquille",
+     "สบาย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Se promener à pied se dit marcher se promener. On dit « doen thîao ».",
+   "say": {
+    "doen thîao": "เดินเที่ยว"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "นี่"
+    ],
+    [
+     "c'est",
+     "คือ"
+    ],
+    [
+     "porte",
+     "ประตู"
+    ],
+    [
+     "Tha Phae",
+     "ท่าแพ"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Une porte de la ville se dit « prà-tuu ». Le nom vient juste après.",
+   "say": {
+    "prà-tuu": "ประตู"
+   }
+  },
+  {
+   "words": [
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "temple",
+     "วัด"
+    ],
+    [
+     "nombreux",
+     "เยอะ"
+    ],
+    [
+     "très",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Il y a beaucoup de se dit avoir, puis le nom, puis nombreux. Nombreux se dit « yóe ».",
+   "say": {
+    "yóe": "เยอะ"
+   }
+  },
+  {
+   "words": [
+    [
+     "rue",
+     "ถนน"
+    ],
+    [
+     "étroit",
+     "แคบ"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Rue se dit « thà-nǒn ». L'adjectif suit le nom sans verbe être.",
+   "say": {
+    "thà-nǒn": "ถนน"
+   }
+  },
+  {
+   "words": [
+    [
+     "boire",
+     "ดื่ม"
+    ],
+    [
+     "café",
+     "กาแฟ"
+    ],
+    [
+     "ici",
+     "ที่นี่"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Café se dit presque comme en français. On dit « kaa-fae ».",
+   "say": {
+    "kaa-fae": "กาแฟ"
+   }
+  },
+  {
+   "words": [
+    [
+     "boutique",
+     "ร้าน"
+    ],
+    [
+     "ce",
+     "นี้"
+    ],
+    [
+     "agréable",
+     "น่า"
+    ],
+    [
+     "s'asseoir",
+     "นั่ง"
+    ],
+    [
+     "très",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour dire qui donne envie de, on met devant le verbe « nâa ». Ici, ça veut dire agréable pour s'asseoir.",
+   "say": {
+    "nâa": "น่า"
+   }
+  },
+  {
+   "words": [
+    [
+     "jour",
+     "วัน"
+    ],
+    [
+     "dimanche",
+     "อาทิตย์"
+    ],
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "marché",
+     "ตลาด"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Les jours de la semaine commencent par le mot jour. Dimanche se dit « wan aa-thít ».",
+   "say": {
+    "wan aa-thít": "วันอาทิตย์"
+   }
+  },
+  {
+   "words": [
+    [
+     "nourriture",
+     "อาหาร"
+    ],
+    [
+     "nord",
+     "เหนือ"
+    ],
+    [
+     "délicieux",
+     "อร่อย"
+    ],
+    [
+     "très",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "La cuisine du nord se dit nourriture nord. Nord se dit « nǔea ».",
+   "say": {
+    "nǔea": "เหนือ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "vouloir",
+     "อยาก"
+    ],
+    [
+     "essayer",
+     "ลอง"
+    ],
+    [
+     "khao soi",
+     "ข้าวซอย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour goûter un plat, on dit essayer. Essayer se dit « lawng ».",
+   "say": {
+    "lawng": "ลอง"
+   }
+  }
+ ],
+ "0-1-15": [
+  {
+   "words": [
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "ensemble",
+     "ด้วยกัน"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour inviter quelqu'un à venir, on dit aller ensemble. Ensemble se dit « dûay-kan ».",
+   "say": {
+    "dûay-kan": "ด้วยกัน"
+   }
+  },
+  {
+   "words": [
+    [
+     "venir",
+     "มา"
+    ],
+    [
+     "ici",
+     "นี่"
+    ],
+    [
+     "un peu",
+     "หน่อย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Viens ici se dit « maa nîi ». Le mot un peu adoucit l'ordre.",
+   "say": {
+    "maa nîi": "มานี่"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "marché de nuit",
+     "ตลาดกลางคืน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Aller se dit « pai ». Il indique un mouvement qui s'éloigne de celui qui parle.",
+   "say": {
+    "pai": "ไป"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "คุณ"
+    ],
+    [
+     "venir",
+     "มา"
+    ],
+    [
+     "de",
+     "จาก"
+    ],
+    [
+     "où",
+     "ไหน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Venir se dit « maa ». Il indique un mouvement vers celui qui parle.",
+   "say": {
+    "maa": "มา"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "venir",
+     "มา"
+    ],
+    [
+     "de",
+     "จาก"
+    ],
+    [
+     "France",
+     "ฝรั่งเศส"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "La France se dit « fà-ràng-sèet ». On l'entend dans le mot français aussi.",
+   "say": {
+    "fà-ràng-sèet": "ฝรั่งเศส"
+   }
+  },
+  {
+   "words": [
+    [
+     "ami",
+     "เพื่อน"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "venir",
+     "มา"
+    ],
+    [
+     "ce soir",
+     "คืนนี้"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Ce soir se dit cette nuit. On dit « khuen-níi ».",
+   "say": {
+    "khuen-níi": "คืนนี้"
+   }
+  },
+  {
+   "words": [
+    [
+     "un instant",
+     "เดี๋ยว"
+    ],
+    [
+     "retourner",
+     "กลับ"
+    ],
+    [
+     "venir",
+     "มา"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Revenir se dit retourner venir. On dit « klàp maa ».",
+   "say": {
+    "klàp maa": "กลับมา"
+   }
+  },
+  {
+   "words": [
+    [
+     "il",
+     "เขา"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "où",
+     "ไหน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Où est-il parti se dit il aller où. On dit « pai nǎi ».",
+   "say": {
+    "pai nǎi": "ไปไหน"
+   }
+  },
+  {
+   "words": [
+    [
+     "prendre",
+     "เอา"
+    ],
+    [
+     "eau",
+     "น้ำ"
+    ],
+    [
+     "venir",
+     "มา"
+    ],
+    [
+     "un peu",
+     "หน่อย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Apporter se dit prendre venir. On place l'objet entre les deux, « ao náam maa ».",
+   "say": {
+    "ao náam maa": "เอาน้ำมา"
+   }
+  },
+  {
+   "words": [
+    [
+     "prendre",
+     "เอา"
+    ],
+    [
+     "sac",
+     "กระเป๋า"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "aussi",
+     "ด้วย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Emporter se dit prendre aller. On ajoute à la fin le mot avec soi, « dûay ».",
+   "say": {
+    "dûay": "ด้วย"
+   }
+  }
+ ],
+ "0-1-16": [
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "tomber",
+     "ตก"
+    ],
+    [
+     "car",
+     "รถ"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Rater son bus se dit tomber du véhicule. On dit « tòk rót ».",
+   "say": {
+    "tòk rót": "ตกรถ"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de comptage",
+     "คัน"
+    ],
+    [
+     "suivant",
+     "ต่อไป"
+    ],
+    [
+     "combien",
+     "กี่"
+    ],
+    [
+     "heure",
+     "โมง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Le suivant se dit « tàw-pai ». Ici, on dit juste le mot de comptage, sans répéter bus.",
+   "say": {
+    "tàw-pai": "ต่อไป"
+   }
+  },
+  {
+   "words": [
+    [
+     "encore",
+     "อีก"
+    ],
+    [
+     "un",
+     "หนึ่ง"
+    ],
+    [
+     "heure",
+     "ชั่วโมง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Dans une heure se dit encore une heure. Encore se dit « ìik ».",
+   "say": {
+    "ìik": "อีก"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "être",
+     "เป็น"
+    ],
+    [
+     "quoi",
+     "ไร"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "attendre",
+     "รอ"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ]
+   ],
+   "note": "Ce n'est pas grave se dit « mâi pen rai ». C'est une expression typiquement thaïe.",
+   "say": {
+    "mâi pen rai": "ไม่เป็นไร"
+   }
+  },
+  {
+   "words": [
+    [
+     "téléphone",
+     "โทรศัพท์"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "batterie",
+     "แบต"
+    ],
+    [
+     "épuisé",
+     "หมด"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Téléphone se dit « thoo-rá-sàp ». À l'oral, on dit souvent aussi téléphone portable.",
+   "say": {
+    "thoo-rá-sàp": "โทรศัพท์"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "ที่นี่"
+    ],
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "prise",
+     "ปลั๊ก"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Une prise électrique se dit « plák ». Le mot vient de l'anglais.",
+   "say": {
+    "plák": "ปลั๊ก"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "faire",
+     "ทำ"
+    ],
+    [
+     "billet",
+     "ตั๋ว"
+    ],
+    [
+     "disparaître",
+     "หาย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Perdre un objet se dit faire disparaître. Disparaître se dit « hǎai ».",
+   "say": {
+    "hǎai": "หาย"
+   }
+  },
+  {
+   "words": [
+    [
+     "devoir",
+     "ต้อง"
+    ],
+    [
+     "acheter",
+     "ซื้อ"
+    ],
+    [
+     "nouveau",
+     "ใหม่"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Devoir se dit « tâwng ». Il se place devant le verbe.",
+   "say": {
+    "tâwng": "ต้อง"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "ครับ"
+    ],
+    [
+     "pardon",
+     "ขอโทษ"
+    ],
+    [
+     "aussi",
+     "ด้วย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour une excuse sincère, on ajoute un petit mot après pardon. On dit « khǎw-thôot dûay ».",
+   "say": {
+    "khǎw-thôot dûay": "ขอโทษด้วย"
+   }
+  },
+  {
+   "words": [
+    [
+     "aider",
+     "ช่วย"
+    ],
+    [
+     "aussi",
+     "ด้วย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Au secours se dit « chûay dûay ». C'est une phrase à retenir en cas d'urgence.",
+   "say": {
+    "chûay dûay": "ช่วยด้วย"
+   }
+  }
+ ],
+ "0-1-17": [
+  {
+   "words": [
+    [
+     "loin",
+     "ไกล"
+    ],
+    [
+     "de",
+     "จาก"
+    ],
+    [
+     "ici",
+     "ที่นี่"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Loin se dit avec un ton plat. On dit « klai ».",
+   "say": {
+    "klai": "ไกล"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "loin",
+     "ไกล"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "près",
+     "ใกล้"
+    ],
+    [
+     "très",
+     "มาก"
+    ]
+   ],
+   "note": "Près se dit avec un ton qui descend. On dit « klâi ».",
+   "say": {
+    "klâi": "ใกล้"
+   }
+  },
+  {
+   "words": [
+    [
+     "hôtel",
+     "โรงแรม"
+    ],
+    [
+     "se trouver",
+     "อยู่"
+    ],
+    [
+     "près",
+     "ใกล้"
+    ],
+    [
+     "marché",
+     "ตลาด"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Hôtel se dit « roong-raem ». Près de se met devant le lieu, sans autre mot.",
+   "say": {
+    "roong-raem": "โรงแรม"
+   }
+  },
+  {
+   "words": [
+    [
+     "aéroport",
+     "สนามบิน"
+    ],
+    [
+     "se trouver",
+     "อยู่"
+    ],
+    [
+     "loin",
+     "ไกล"
+    ],
+    [
+     "de",
+     "จาก"
+    ],
+    [
+     "centre ville",
+     "ตัวเมือง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour loin de, on ajoute de après loin. On dit « klai jàak ».",
+   "say": {
+    "klai jàak": "ไกลจาก"
+   }
+  },
+  {
+   "words": [
+    [
+     "près",
+     "ใกล้ๆ"
+    ],
+    [
+     "ici",
+     "นี้"
+    ],
+    [
+     "avoir",
+     "มี"
+    ],
+    [
+     "restaurant",
+     "ร้านอาหาร"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Restaurant se dit boutique de nourriture. On dit « ráan-aa-hǎan ».",
+   "say": {
+    "ráan-aa-hǎan": "ร้านอาหาร"
+   }
+  },
+  {
+   "words": [
+    [
+     "marché de nuit",
+     "ตลาดกลางคืน"
+    ],
+    [
+     "se trouver",
+     "อยู่"
+    ],
+    [
+     "tout près",
+     "ใกล้ๆ"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Répéter le mot près donne tout près. On dit « klâi-klâi ».",
+   "say": {
+    "klâi-klâi": "ใกล้ๆ"
+   }
+  },
+  {
+   "words": [
+    [
+     "loin",
+     "ไกล"
+    ],
+    [
+     "dépasser",
+     "เกิน"
+    ],
+    [
+     "trop",
+     "ไป"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ],
+    [
+     "marcher",
+     "เดิน"
+    ],
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "tenir",
+     "ไหว"
+    ]
+   ],
+   "note": "Trop se dit « koen pai ». Il se place après l'adjectif.",
+   "say": {
+    "koen pai": "เกินไป"
+   }
+  },
+  {
+   "words": [
+    [
+     "prendre",
+     "นั่ง"
+    ],
+    [
+     "voiture",
+     "รถ"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "bien",
+     "ดี"
+    ],
+    [
+     "plus",
+     "กว่า"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour conseiller, on dit c'est mieux à la fin. On dit « dii kwàa ».",
+   "say": {
+    "dii kwàa": "ดีกว่า"
+   }
+  },
+  {
+   "words": [
+    [
+     "Chiang Rai",
+     "เชียงราย"
+    ],
+    [
+     "loin",
+     "ไกล"
+    ],
+    [
+     "de",
+     "จาก"
+    ],
+    [
+     "Bangkok",
+     "กรุงเทพ"
+    ],
+    [
+     "très",
+     "มาก"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pas besoin de verbe être devant loin. Très loin se dit « klai mâak ».",
+   "say": {
+    "klai mâak": "ไกลมาก"
+   }
+  },
+  {
+   "words": [
+    [
+     "chambre",
+     "ห้อง"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "se trouver",
+     "อยู่"
+    ],
+    [
+     "près",
+     "ใกล้"
+    ],
+    [
+     "ascenseur",
+     "ลิฟต์"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Ascenseur se dit comme l'anglais. On dit « líp ».",
+   "say": {
+    "líp": "ลิฟต์"
+   }
+  }
+ ],
+ "0-1-18": [
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "futur",
+     "จะ"
+    ],
+    [
+     "sortir",
+     "ออก"
+    ],
+    [
+     "de",
+     "จาก"
+    ],
+    [
+     "hôtel",
+     "โรงแรม"
+    ],
+    [
+     "aujourd'hui",
+     "วันนี้"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Quitter l'hôtel se dit sortir de l'hôtel. Le petit mot du futur se dit « jà ».",
+   "say": {
+    "jà": "จะ"
+   }
+  },
+  {
+   "words": [
+    [
+     "aider",
+     "ช่วย"
+    ],
+    [
+     "appeler",
+     "เรียก"
+    ],
+    [
+     "voiture",
+     "รถ"
+    ],
+    [
+     "pour",
+     "ให้"
+    ],
+    [
+     "un peu",
+     "หน่อย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour demander un service, on finit par « hâi nàwy ». Ça veut dire pour moi, s'il te plaît.",
+   "say": {
+    "hâi nàwy": "ให้หน่อย"
+   }
+  },
+  {
+   "words": [
+    [
+     "avion",
+     "เครื่องบิน"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "partir",
+     "ออก"
+    ],
+    [
+     "midi",
+     "เที่ยง"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Avion se dit machine qui vole. On dit « khrûeang-bin ».",
+   "say": {
+    "khrûeang-bin": "เครื่องบิน"
+   }
+  },
+  {
+   "words": [
+    [
+     "devoir",
+     "ต้อง"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "guichet",
+     "ช่อง"
+    ],
+    [
+     "quel",
+     "ไหน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Un guichet se dit « châwng ». Quel se met après le nom.",
+   "say": {
+    "châwng": "ช่อง"
+   }
+  },
+  {
+   "words": [
+    [
+     "valise",
+     "กระเป๋า"
+    ],
+    [
+     "peser",
+     "หนัก"
+    ],
+    [
+     "vingt",
+     "ยี่สิบ"
+    ],
+    [
+     "kilo",
+     "กิโล"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Vingt se dit « yîi-sìp ». Attention, il est irrégulier.",
+   "say": {
+    "yîi-sìp": "ยี่สิบ"
+   }
+  },
+  {
+   "words": [
+    [
+     "lourd",
+     "หนัก"
+    ],
+    [
+     "dépasser",
+     "เกิน"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Dépasser se dit « koen ». Pour un bagage, ça veut dire trop lourd.",
+   "say": {
+    "koen": "เกิน"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "dépasser",
+     "เกิน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour répondre non, on met la négation devant le verbe de la question. On dit « mâi koen ».",
+   "say": {
+    "mâi koen": "ไม่เกิน"
+   }
+  },
+  {
+   "words": [
+    [
+     "porte",
+     "ประตู"
+    ],
+    [
+     "cinq",
+     "ห้า"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour une porte d'embarquement, le numéro vient après. Cinq se dit « hâa ».",
+   "say": {
+    "hâa": "ห้า"
+   }
+  },
+  {
+   "words": [
+    [
+     "avion",
+     "เครื่องบิน"
+    ],
+    [
+     "partir",
+     "ออก"
+    ],
+    [
+     "lent",
+     "ช้า"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour un retard, on dit partir lentement. En retard se dit « cháa ».",
+   "say": {
+    "cháa": "ช้า"
+   }
+  },
+  {
+   "words": [
+    [
+     "prendre congé",
+     "ลา"
+    ],
+    [
+     "d'abord",
+     "ก่อน"
+    ],
+    [
+     "Chiang Mai",
+     "เชียงใหม่"
+    ]
+   ],
+   "note": "Pour un adieu, on dit « laa kàwn ». C'est plus définitif qu'un simple au revoir.",
+   "say": {
+    "laa kàwn": "ลาก่อน"
+   }
+  }
+ ],
+ "0-1-19": [
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "avoir déjà",
+     "เคย"
+    ],
+    [
+     "prendre",
+     "นั่ง"
+    ],
+    [
+     "train",
+     "รถไฟ"
+    ],
+    [
+     "nuit",
+     "กลางคืน"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour parler d'une expérience, on met devant le verbe « khoei ». Ça veut dire avoir déjà fait.",
+   "say": {
+    "khoei": "เคย"
+   }
+  },
+  {
+   "words": [
+    [
+     "avoir déjà",
+     "เคย"
+    ],
+    [
+     "aller",
+     "ไป"
+    ],
+    [
+     "Chiang Rai",
+     "เชียงราย"
+    ],
+    [
+     "petit mot de question",
+     "ไหม"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour demander si quelqu'un est déjà allé quelque part, on dit « khoei pai ». Puis le lieu, et la question.",
+   "say": {
+    "khoei pai": "เคยไป"
+   }
+  },
+  {
+   "words": [
+    [
+     "avoir déjà",
+     "เคย"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Pour répondre oui, on reprend simplement le mot de l'expérience. On dit « khoei khráp ».",
+   "say": {
+    "khoei khráp": "เคยครับ"
+   }
+  },
+  {
+   "words": [
+    [
+     "avant",
+     "ก่อนนี้"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "ne pas",
+     "ไม่"
+    ],
+    [
+     "avoir déjà",
+     "เคย"
+    ],
+    [
+     "manger",
+     "กิน"
+    ],
+    [
+     "riz gluant",
+     "ข้าวเหนียว"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Ne jamais se dit « mâi khoei ». La négation vient devant le mot de l'expérience.",
+   "say": {
+    "mâi khoei": "ไม่เคย"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "เรา"
+    ],
+    [
+     "voyager",
+     "เที่ยว"
+    ],
+    [
+     "partout",
+     "ทั่ว"
+    ],
+    [
+     "Thaïlande",
+     "เมืองไทย"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Partout dans se dit « thûa ». À l'oral, la Thaïlande se dit souvent pays thaï.",
+   "say": {
+    "thûa": "ทั่ว"
+   }
+  },
+  {
+   "words": [
+    [
+     "maintenant",
+     "ตอนนี้"
+    ],
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "demander",
+     "ถาม"
+    ],
+    [
+     "chemin",
+     "ทาง"
+    ],
+    [
+     "pouvoir",
+     "ได้"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Demander son chemin se dit « thǎam thaang ». Avec pouvoir déjà, on dit qu'on sait le faire maintenant.",
+   "say": {
+    "thǎam thaang": "ถามทาง"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "ผม"
+    ],
+    [
+     "avoir déjà",
+     "เคย"
+    ],
+    [
+     "parler",
+     "พูด"
+    ],
+    [
+     "thaï",
+     "ไทย"
+    ],
+    [
+     "avec",
+     "กับ"
+    ],
+    [
+     "vendeuse",
+     "แม่ค้า"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Avec se dit « kàp ». Il se place devant la personne.",
+   "say": {
+    "kàp": "กับ"
+   }
+  },
+  {
+   "words": [
+    [
+     "langue",
+     "ภาษา"
+    ],
+    [
+     "thaï",
+     "ไทย"
+    ],
+    [
+     "facile",
+     "ง่าย"
+    ],
+    [
+     "monter",
+     "ขึ้น"
+    ],
+    [
+     "petit mot de l'action accomplie",
+     "แล้ว"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Plus facile qu'avant se dit facile qui monte. Facile se dit « ngâai ».",
+   "say": {
+    "ngâai": "ง่าย"
+   }
+  },
+  {
+   "words": [
+    [
+     "leçon",
+     "บท"
+    ],
+    [
+     "suivant",
+     "ต่อไป"
+    ],
+    [
+     "être",
+     "เป็น"
+    ],
+    [
+     "sujet",
+     "เรื่อง"
+    ],
+    [
+     "bavarder",
+     "คุย"
+    ],
+    [
+     "avec",
+     "กับ"
+    ],
+    [
+     "ami",
+     "เพื่อน"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "Bavarder se dit « khui ». C'est le mot de tous les jours pour discuter.",
+   "say": {
+    "khui": "คุย"
+   }
+  },
+  {
+   "words": [
+    [
+     "puis",
+     "แล้ว"
+    ],
+    [
+     "rencontrer",
+     "เจอ"
+    ],
+    [
+     "ensemble",
+     "กัน"
+    ],
+    [
+     "de nouveau",
+     "ใหม่"
+    ],
+    [
+     "petit mot de politesse",
+     "ครับ"
+    ]
+   ],
+   "note": "À la prochaine se dit se revoir de nouveau. On dit « joe kan mài ».",
+   "say": {
+    "joe kan mài": "เจอกันใหม่"
+   }
+  }
+ ]
+}

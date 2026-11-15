@@ -1,0 +1,4970 @@
+{
+ "0-1-0": [
+  {
+   "words": [
+    [
+     "de Cox's Bazar",
+     "কক্সবাজারের"
+    ],
+    [
+     "du bus",
+     "বাসের"
+    ],
+    [
+     "comptoir",
+     "কাউন্টার"
+    ],
+    [
+     "où",
+     "কোথায়"
+    ]
+   ],
+   "note": "Le comptoir se dit « kāunṭār ». Beaucoup de mots du voyage viennent de l'anglais.",
+   "say": {
+    "kāunṭār": "কাউন্টার"
+   }
+  },
+  {
+   "words": [
+    [
+     "le comptoir",
+     "কাউন্টারটা"
+    ],
+    [
+     "juste",
+     "ঠিক"
+    ],
+    [
+     "là-bas",
+     "ওখানে"
+    ]
+   ],
+   "note": "Exactement se dit « ṭhik ». C'est le même mot que dans d'accord.",
+   "say": {
+    "ṭhik": "ঠিক"
+   }
+  },
+  {
+   "words": [
+    [
+     "bus",
+     "বাস"
+    ],
+    [
+     "au terminal",
+     "টার্মিনালে"
+    ],
+    [
+     "beaucoup",
+     "অনেক"
+    ],
+    [
+     "gens",
+     "মানুষ"
+    ]
+   ],
+   "note": "Les gens se dit « mānush ». Le même mot veut dire une personne ou des gens.",
+   "say": {
+    "mānush": "মানুষ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "Cox's Bazar",
+     "কক্সবাজার"
+    ],
+    [
+     "aller",
+     "যাচ্ছি"
+    ]
+   ],
+   "note": "Pour un départ en cours, on dit je suis en train d'aller. Cela donne « jāchchhi ».",
+   "say": {
+    "jāchchhi": "যাচ্ছি"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous aussi",
+     "আপনিও"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "Cox's Bazar",
+     "কক্সবাজার"
+    ],
+    [
+     "aller",
+     "যাচ্ছেন"
+    ]
+   ],
+   "note": "Avec le verbe aller, on peut dire la ville sans petit mot pour à. Vous allez se dit ici « jāchchhen ».",
+   "say": {
+    "jāchchhen": "যাচ্ছেন"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "হ্যাঁ"
+    ],
+    [
+     "ma",
+     "আমার"
+    ],
+    [
+     "de la famille",
+     "পরিবারের"
+    ],
+    [
+     "avec",
+     "সাথে"
+    ]
+   ],
+   "note": "La famille se dit « poribār ». Avec ma famille, c'est de ma famille, puis avec.",
+   "say": {
+    "poribār": "পরিবার"
+   }
+  },
+  {
+   "words": [
+    [
+     "quel",
+     "কোন"
+    ],
+    [
+     "le bus",
+     "বাসটা"
+    ],
+    [
+     "plus que tout",
+     "সবচেয়ে"
+    ],
+    [
+     "bon",
+     "ভালো"
+    ]
+   ],
+   "note": "Le meilleur se dit plus que tout bon. Plus que tout se dit « shobcheye ».",
+   "say": {
+    "shobcheye": "সবচেয়ে"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "এটা"
+    ],
+    [
+     "confortable",
+     "আরামদায়ক"
+    ]
+   ],
+   "note": "Confortable se dit « ārāmdāyok ». Il contient le mot confort, qu'on entend partout.",
+   "say": {
+    "ārāmdāyok": "আরামদায়ক"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "এখানে"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "toilettes",
+     "টয়লেট"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "Pour demander s'il y a quelque chose, on dit ici, la chose, puis il y a. Les toilettes se dit « ṭoyleṭ ».",
+   "say": {
+    "ṭoyleṭ": "টয়লেট"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "হ্যাঁ"
+    ],
+    [
+     "de la salle d'attente",
+     "ওয়েটিং রুমের"
+    ],
+    [
+     "à côté",
+     "পাশে"
+    ]
+   ],
+   "note": "À côté se dit « pāshe ». Il vient après le lieu, comme les autres petits mots.",
+   "say": {
+    "pāshe": "পাশে"
+   }
+  }
+ ],
+ "0-1-1": [
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "d'aujourd'hui",
+     "আজকের"
+    ],
+    [
+     "un",
+     "একটা"
+    ],
+    [
+     "billet",
+     "টিকিট"
+    ],
+    [
+     "vouloir",
+     "চাই"
+    ]
+   ],
+   "note": "Pour aujourd'hui se dit « ājker ». C'est aujourd'hui avec la terminaison de.",
+   "say": {
+    "ājker": "আজকের"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "আজ"
+    ],
+    [
+     "plus",
+     "আর"
+    ],
+    [
+     "siège",
+     "সিট"
+    ],
+    [
+     "il n'y a pas",
+     "নেই"
+    ]
+   ],
+   "note": "Le même mot sert pour et, et pour plus. Plus de place se dit « ār siṭ nei ».",
+   "say": {
+    "ār siṭ nei": "আর সিট নেই"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "আর"
+    ],
+    [
+     "de demain",
+     "কালকের"
+    ],
+    [
+     "pour",
+     "জন্য"
+    ]
+   ],
+   "note": "Demain se dit « kāl ». Attention, le même mot veut aussi dire hier.",
+   "say": {
+    "kāl": "কাল"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "কাল"
+    ],
+    [
+     "la nuit",
+     "রাতে"
+    ],
+    [
+     "encore",
+     "এখনো"
+    ],
+    [
+     "deux",
+     "দুটো"
+    ],
+    [
+     "siège",
+     "সিট"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "Encore se dit « ekhono ». Il se place avant le nombre de places.",
+   "say": {
+    "ekhono": "এখনো"
+   }
+  },
+  {
+   "words": [
+    [
+     "hier",
+     "কাল"
+    ],
+    [
+     "ici",
+     "এখানে"
+    ],
+    [
+     "beaucoup",
+     "অনেক"
+    ],
+    [
+     "foule",
+     "ভিড়"
+    ],
+    [
+     "être",
+     "ছিল"
+    ]
+   ],
+   "note": "Ici, le même mot veut dire hier. C'est le verbe au passé qui fait la différence, « chhilo ».",
+   "say": {
+    "chhilo": "ছিল"
+   }
+  },
+  {
+   "words": [
+    [
+     "après-demain",
+     "পরশু"
+    ],
+    [
+     "de moi",
+     "আমার"
+    ],
+    [
+     "pour",
+     "জন্য"
+    ],
+    [
+     "trop",
+     "অনেক"
+    ],
+    [
+     "retard",
+     "দেরি"
+    ]
+   ],
+   "note": "Après-demain se dit « porshu ». Le même mot sert aussi pour avant-hier.",
+   "say": {
+    "porshu": "পরশু"
+   }
+  },
+  {
+   "words": [
+    [
+     "alors",
+     "তাহলে"
+    ],
+    [
+     "demain",
+     "কাল"
+    ],
+    [
+     "de la nuit",
+     "রাতের"
+    ],
+    [
+     "un",
+     "একটা"
+    ],
+    [
+     "billet",
+     "টিকিট"
+    ],
+    [
+     "donner",
+     "দিন"
+    ]
+   ],
+   "note": "Alors se dit « tāhole ». Il ouvre la phrase, comme en français.",
+   "say": {
+    "tāhole": "তাহলে"
+   }
+  },
+  {
+   "words": [
+    [
+     "bus",
+     "বাস"
+    ],
+    [
+     "à quelle heure",
+     "কয়টায়"
+    ],
+    [
+     "partir",
+     "ছাড়বে"
+    ]
+   ],
+   "note": "Le bus partira se dit « chhāṛbe ». La terminaison en bé marque le futur.",
+   "say": {
+    "chhāṛbe": "ছাড়বে"
+   }
+  },
+  {
+   "words": [
+    [
+     "nuit",
+     "রাত"
+    ],
+    [
+     "à dix heures",
+     "দশটায়"
+    ],
+    [
+     "partir",
+     "ছাড়বে"
+    ]
+   ],
+   "note": "Pour dix heures du soir, on dit nuit dix heures. La nuit se dit « rāt ».",
+   "say": {
+    "rāt": "রাত"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "আজ"
+    ],
+    [
+     "repos",
+     "বিশ্রাম"
+    ],
+    [
+     "demain",
+     "কাল"
+    ],
+    [
+     "voyage",
+     "যাত্রা"
+    ]
+   ],
+   "note": "Le départ en voyage se dit « jātrā ». Repos se dit avec un autre mot, juste avant.",
+   "say": {
+    "jātrā": "যাত্রা"
+   }
+  }
+ ],
+ "0-1-2": [
+  {
+   "words": [
+    [
+     "de la nuit",
+     "রাতের"
+    ],
+    [
+     "le bus",
+     "বাসটা"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "de confort",
+     "আরামের"
+    ]
+   ],
+   "note": "De nuit se dit « rāter ». Le bus de nuit, c'est le bus de la nuit.",
+   "say": {
+    "rāter": "রাতের"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "আমার"
+    ],
+    [
+     "siège",
+     "সিট"
+    ],
+    [
+     "de la fenêtre",
+     "জানালার"
+    ],
+    [
+     "à côté",
+     "পাশে"
+    ]
+   ],
+   "note": "La fenêtre se dit « jānālā ». Le mot vient du portugais.",
+   "say": {
+    "jānālā": "জানালা"
+   }
+  },
+  {
+   "words": [
+    [
+     "combien",
+     "কত"
+    ],
+    [
+     "heure",
+     "ঘণ্টা"
+    ],
+    [
+     "il faut",
+     "লাগে"
+    ]
+   ],
+   "note": "Pour une durée, on dit combien d'heures il faut. Il faut se dit « lāge ».",
+   "say": {
+    "lāge": "লাগে"
+   }
+  },
+  {
+   "words": [
+    [
+     "environ",
+     "প্রায়"
+    ],
+    [
+     "cinq",
+     "পাঁচ"
+    ],
+    [
+     "heure",
+     "ঘণ্টা"
+    ]
+   ],
+   "note": "Environ se dit « prāy ». L'heure, comme durée, se dit avec un autre mot qu'à l'horloge.",
+   "say": {
+    "prāy": "প্রায়"
+   }
+  },
+  {
+   "words": [
+    [
+     "dans le bus",
+     "বাসে"
+    ],
+    [
+     "un peu",
+     "একটু"
+    ],
+    [
+     "froid",
+     "ঠান্ডা"
+    ]
+   ],
+   "note": "Dans le bus se dit « bāse ». Il fait un peu froid, c'est juste un peu froid, sans verbe.",
+   "say": {
+    "bāse": "বাসে"
+   }
+  },
+  {
+   "words": [
+    [
+     "votre",
+     "আপনার"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "couverture",
+     "কম্বল"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "La couverture se dit « kombol ». Pour demander poliment, on dit avez-vous, avec il y a.",
+   "say": {
+    "kombol": "কম্বল"
+   }
+  },
+  {
+   "words": [
+    [
+     "bus",
+     "বাস"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "en chemin",
+     "পথে"
+    ],
+    [
+     "s'arrêter",
+     "থামে"
+    ]
+   ],
+   "note": "S'arrêter se dit « thāme ». En chemin se dit juste avant.",
+   "say": {
+    "thāme": "থামে"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "হ্যাঁ"
+    ],
+    [
+     "une fois",
+     "একবার"
+    ],
+    [
+     "du thé",
+     "চায়ের"
+    ],
+    [
+     "pour",
+     "জন্য"
+    ]
+   ],
+   "note": "Une fois se dit « ekbār ». Pour le thé se dit du thé, puis pour.",
+   "say": {
+    "ekbār": "একবার"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "un peu",
+     "একটু"
+    ],
+    [
+     "dormir",
+     "ঘুমাব"
+    ]
+   ],
+   "note": "Je dormirai se dit « ghumābo ». Le futur avec je finit par bo.",
+   "say": {
+    "ghumābo": "ঘুমাব"
+   }
+  },
+  {
+   "words": [
+    [
+     "bonne",
+     "শুভ"
+    ],
+    [
+     "nuit",
+     "রাত্রি"
+    ],
+    [
+     "demain",
+     "কাল"
+    ],
+    [
+     "le matin",
+     "সকালে"
+    ],
+    [
+     "rencontre",
+     "দেখা"
+    ],
+    [
+     "être",
+     "হবে"
+    ]
+   ],
+   "note": "Bonne nuit se dit « shubho rātri ». C'est une formule un peu soutenue.",
+   "say": {
+    "shubho rātri": "শুভ রাত্রি"
+   }
+  }
+ ],
+ "0-1-3": [
+  {
+   "words": [
+    [
+     "bonté",
+     "দয়া"
+    ],
+    [
+     "en faisant",
+     "করে"
+    ],
+    [
+     "la fenêtre",
+     "জানালাটা"
+    ],
+    [
+     "fermé",
+     "বন্ধ"
+    ],
+    [
+     "faire",
+     "করুন"
+    ]
+   ],
+   "note": "S'il vous plaît se dit « doyā kore ». Mot à mot, en faisant bonté.",
+   "say": {
+    "doyā kore": "দয়া করে"
+   }
+  },
+  {
+   "words": [
+    [
+     "bonté",
+     "দয়া"
+    ],
+    [
+     "en faisant",
+     "করে"
+    ],
+    [
+     "lentement",
+     "আস্তে"
+    ],
+    [
+     "dire",
+     "বলুন"
+    ]
+   ],
+   "note": "Lentement se dit « āste ». C'est un mot très utile pour les débutants.",
+   "say": {
+    "āste": "আস্তে"
+   }
+  },
+  {
+   "words": [
+    [
+     "bonté",
+     "দয়া"
+    ],
+    [
+     "en faisant",
+     "করে"
+    ],
+    [
+     "la chanson",
+     "গানটা"
+    ],
+    [
+     "un peu",
+     "একটু"
+    ],
+    [
+     "baisser",
+     "কমান"
+    ]
+   ],
+   "note": "Baissez se dit « komān ». C'est la forme polie pour demander.",
+   "say": {
+    "komān": "কমান"
+   }
+  },
+  {
+   "words": [
+    [
+     "bonté",
+     "দয়া"
+    ],
+    [
+     "en faisant",
+     "করে"
+    ],
+    [
+     "un peu",
+     "একটু"
+    ],
+    [
+     "eau",
+     "পানি"
+    ],
+    [
+     "donner",
+     "দিন"
+    ]
+   ],
+   "note": "Un peu se dit « ekṭu ». Il se place devant l'eau.",
+   "say": {
+    "ekṭu": "একটু"
+   }
+  },
+  {
+   "words": [
+    [
+     "beaucoup",
+     "অনেক"
+    ],
+    [
+     "merci",
+     "ধন্যবাদ"
+    ],
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "bon",
+     "ভালো"
+    ]
+   ],
+   "note": "Merci beaucoup se dit beaucoup merci, « onek dhonnobād ». Beaucoup se place devant.",
+   "say": {
+    "onek dhonnobād": "অনেক ধন্যবাদ"
+   }
+  },
+  {
+   "words": [
+    [
+     "pardon",
+     "মাফ"
+    ],
+    [
+     "faire",
+     "করবেন"
+    ],
+    [
+     "ceci",
+     "এটা"
+    ],
+    [
+     "mon",
+     "আমার"
+    ],
+    [
+     "siège",
+     "সিট"
+    ]
+   ],
+   "note": "Le siège se dit « siṭ ». C'est le mot anglais, prononcé à la bengalie.",
+   "say": {
+    "siṭ": "সিট"
+   }
+  },
+  {
+   "words": [
+    [
+     "oh",
+     "ও"
+    ],
+    [
+     "désolé",
+     "দুঃখিত"
+    ],
+    [
+     "erreur",
+     "ভুল"
+    ],
+    [
+     "être arrivé",
+     "হয়েছে"
+    ]
+   ],
+   "note": "Désolé se dit « dukkhito ». Pour une erreur, on dit une erreur est arrivée.",
+   "say": {
+    "dukkhito": "দুঃখিত"
+   }
+  },
+  {
+   "words": [
+    [
+     "bonté",
+     "দয়া"
+    ],
+    [
+     "en faisant",
+     "করে"
+    ],
+    [
+     "ici",
+     "এখানে"
+    ],
+    [
+     "s'asseoir",
+     "বসুন"
+    ]
+   ],
+   "note": "Asseyez-vous se dit « boshun ». Ici se place juste avant.",
+   "say": {
+    "boshun": "বসুন"
+   }
+  },
+  {
+   "words": [
+    [
+     "bonté",
+     "দয়া"
+    ],
+    [
+     "en faisant",
+     "করে"
+    ],
+    [
+     "à Cox's Bazar",
+     "কক্সবাজারে"
+    ],
+    [
+     "moi",
+     "আমাকে"
+    ],
+    [
+     "appeler",
+     "ডাকবেন"
+    ]
+   ],
+   "note": "Pour une demande pour plus tard, on emploie le futur poli. Vous appellerez se dit « ḍākben ».",
+   "say": {
+    "ḍākben": "ডাকবেন"
+   }
+  },
+  {
+   "words": [
+    [
+     "bien sûr",
+     "অবশ্যই"
+    ],
+    [
+     "aucun",
+     "কোনো"
+    ],
+    [
+     "problème",
+     "সমস্যা"
+    ],
+    [
+     "il n'y a pas",
+     "নেই"
+    ]
+   ],
+   "note": "Bien sûr se dit « oboshshoi ». On l'entend très souvent.",
+   "say": {
+    "oboshshoi": "অবশ্যই"
+   }
+  }
+ ],
+ "0-1-4": [
+  {
+   "words": [
+    [
+     "nous",
+     "আমরা"
+    ],
+    [
+     "Cox's Bazar",
+     "কক্সবাজার"
+    ],
+    [
+     "arrivé",
+     "পৌঁছে"
+    ],
+    [
+     "être allé",
+     "গেছি"
+    ]
+   ],
+   "note": "Nous sommes arrivés se dit « pouṃchhe gechhi ». On y entend le verbe aller, pour une action bien finie.",
+   "say": {
+    "pouṃchhe gechhi": "পৌঁছে গেছি"
+   }
+  },
+  {
+   "words": [
+    [
+     "dans l'air",
+     "বাতাসে"
+    ],
+    [
+     "de la mer",
+     "সমুদ্রের"
+    ],
+    [
+     "odeur",
+     "গন্ধ"
+    ]
+   ],
+   "note": "L'odeur se dit « gondho ». La phrase n'a pas de verbe, juste dans l'air, odeur de mer.",
+   "say": {
+    "gondho": "গন্ধ"
+   }
+  },
+  {
+   "words": [
+    [
+     "maintenant",
+     "এখন"
+    ],
+    [
+     "matin",
+     "সকাল"
+    ],
+    [
+     "six heures",
+     "ছয়টা"
+    ]
+   ],
+   "note": "Six heures se dit « chhoyṭā ». Pas besoin du verbe sonner ici.",
+   "say": {
+    "chhoyṭā": "ছয়টা"
+   }
+  },
+  {
+   "words": [
+    [
+     "le ciel",
+     "আকাশটা"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "clair",
+     "পরিষ্কার"
+    ]
+   ],
+   "note": "Dégagé se dit « porishkār ». Ce mot veut aussi dire propre.",
+   "say": {
+    "porishkār": "পরিষ্কার"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "আমার"
+    ],
+    [
+     "sac",
+     "ব্যাগ"
+    ],
+    [
+     "où",
+     "কোথায়"
+    ]
+   ],
+   "note": "Le sac se dit « byāg ». Encore un mot venu de l'anglais.",
+   "say": {
+    "byāg": "ব্যাগ"
+   }
+  },
+  {
+   "words": [
+    [
+     "votre",
+     "আপনার"
+    ],
+    [
+     "sac",
+     "ব্যাগ"
+    ],
+    [
+     "du bus",
+     "বাসের"
+    ],
+    [
+     "dessous",
+     "নিচে"
+    ]
+   ],
+   "note": "Sous se dit « niche ». Il vient après le bus, qui prend la terminaison de.",
+   "say": {
+    "niche": "নিচে"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "আমার"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "faim",
+     "খিদে"
+    ],
+    [
+     "être venu",
+     "পেয়েছে"
+    ]
+   ],
+   "note": "La faim se dit « khide ». Mot à mot, une grande faim m'est venue.",
+   "say": {
+    "khide": "খিদে"
+   }
+  },
+  {
+   "words": [
+    [
+     "devant",
+     "সামনে"
+    ],
+    [
+     "un",
+     "একটা"
+    ],
+    [
+     "petit",
+     "ছোট"
+    ],
+    [
+     "restaurant",
+     "রেস্টুরেন্ট"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "En face se dit « shāmne ». Il ouvre ici la phrase.",
+   "say": {
+    "shāmne": "সামনে"
+   }
+  },
+  {
+   "words": [
+    [
+     "d'abord",
+     "আগে"
+    ],
+    [
+     "une",
+     "এক"
+    ],
+    [
+     "tasse",
+     "কাপ"
+    ],
+    [
+     "thé",
+     "চা"
+    ],
+    [
+     "manger",
+     "খাই"
+    ]
+   ],
+   "note": "D'abord se dit « āge ». Le même mot veut aussi dire avant.",
+   "say": {
+    "āge": "আগে"
+   }
+  },
+  {
+   "words": [
+    [
+     "bonne",
+     "ভালো"
+    ],
+    [
+     "idée",
+     "বুদ্ধি"
+    ],
+    [
+     "aller",
+     "চলুন"
+    ]
+   ],
+   "note": "Une idée se dit « buddhi ». Le même mot veut aussi dire intelligence.",
+   "say": {
+    "buddhi": "বুদ্ধি"
+   }
+  }
+ ],
+ "0-1-5": [
+  {
+   "words": [
+    [
+     "CNG",
+     "সিএনজি"
+    ],
+    [
+     "aller",
+     "যাবেন"
+    ]
+   ],
+   "note": "Pour héler un CNG ou un rickshaw, on demande simplement, vous irez. Cela se dit « jāben ».",
+   "say": {
+    "jāben": "যাবেন"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "Kolatoli",
+     "কলাতলী"
+    ],
+    [
+     "à la plage",
+     "বিচে"
+    ],
+    [
+     "aller",
+     "যাব"
+    ]
+   ],
+   "note": "J'irai se dit « jābo ». En bengali, on emploie souvent le futur pour un trajet.",
+   "say": {
+    "jābo": "যাব"
+   }
+  },
+  {
+   "words": [
+    [
+     "prix de la course",
+     "ভাড়া"
+    ],
+    [
+     "combien",
+     "কত"
+    ]
+   ],
+   "note": "Le prix d'une course se dit « bhāṛā ». On demande simplement le prix, puis combien.",
+   "say": {
+    "bhāṛā": "ভাড়া"
+   }
+  },
+  {
+   "words": [
+    [
+     "deux cents",
+     "দুইশো"
+    ],
+    [
+     "takas",
+     "টাকা"
+    ]
+   ],
+   "note": "Deux cents se dit « duisho ». C'est deux, puis cent.",
+   "say": {
+    "duisho": "দুইশো"
+   }
+  },
+  {
+   "words": [
+    [
+     "prix",
+     "দাম"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "trop",
+     "বেশি"
+    ]
+   ],
+   "note": "Le prix se dit « dām ». Pour dire trop cher, on dit prix très trop.",
+   "say": {
+    "dām": "দাম"
+   }
+  },
+  {
+   "words": [
+    [
+     "cent cinquante",
+     "দেড়শো"
+    ],
+    [
+     "takas",
+     "টাকা"
+    ],
+    [
+     "correct",
+     "ঠিক"
+    ],
+    [
+     "être",
+     "আছে"
+    ]
+   ],
+   "note": "Cent cinquante a son propre mot, « deṛsho ». Il veut dire un cent et demi.",
+   "say": {
+    "deṛsho": "দেড়শো"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "এই"
+    ],
+    [
+     "de coquillages",
+     "ঝিনুকের"
+    ],
+    [
+     "du collier",
+     "মালাটার"
+    ],
+    [
+     "prix",
+     "দাম"
+    ],
+    [
+     "combien",
+     "কত"
+    ]
+   ],
+   "note": "Ce se dit « ei ». Il se place tout devant le groupe.",
+   "say": {
+    "ei": "এই"
+   }
+  },
+  {
+   "words": [
+    [
+     "prix",
+     "দাম"
+    ],
+    [
+     "trois cents",
+     "তিনশো"
+    ],
+    [
+     "takas",
+     "টাকা"
+    ],
+    [
+     "grande sœur",
+     "আপা"
+    ]
+   ],
+   "note": "Pour s'adresser à une cliente, on dit grande sœur. Cela se dit « āpā ».",
+   "say": {
+    "āpā": "আপা"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "আর"
+    ],
+    [
+     "ces",
+     "ওই"
+    ],
+    [
+     "des deux",
+     "দুটোর"
+    ],
+    [
+     "prix",
+     "দাম"
+    ],
+    [
+     "combien",
+     "কত"
+    ]
+   ],
+   "note": "Pour montrer quelque chose de plus loin, on dit « oi ». C'est le contraire de ce, tout proche.",
+   "say": {
+    "oi": "ওই"
+   }
+  },
+  {
+   "words": [
+    [
+     "tout",
+     "সব"
+    ],
+    [
+     "ensemble",
+     "মিলিয়ে"
+    ],
+    [
+     "cinq cents",
+     "পাঁচশো"
+    ],
+    [
+     "takas",
+     "টাকা"
+    ]
+   ],
+   "note": "Le tout se dit « shob miliye ». Mot à mot, tout en réunissant.",
+   "say": {
+    "shob miliye": "সব মিলিয়ে"
+   }
+  }
+ ],
+ "0-1-6": [
+  {
+   "words": [
+    [
+     "vos",
+     "আপনাদের"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "chambre",
+     "রুম"
+    ],
+    [
+     "libre",
+     "খালি"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "Libre se dit « khāli ». Le même mot veut dire vide.",
+   "say": {
+    "khāli": "খালি"
+   }
+  },
+  {
+   "words": [
+    [
+     "combien de personnes",
+     "কয়জনের"
+    ],
+    [
+     "pour",
+     "জন্য"
+    ]
+   ],
+   "note": "Pour combien de personnes se dit « koyjoner jonno ». On compte les humains avec une terminaison spéciale.",
+   "say": {
+    "koyjoner jonno": "কয়জনের জন্য"
+   }
+  },
+  {
+   "words": [
+    [
+     "deux personnes",
+     "দুইজন"
+    ],
+    [
+     "trois",
+     "তিন"
+    ],
+    [
+     "nuit",
+     "রাত"
+    ]
+   ],
+   "note": "Deux personnes se dit « duijon ». Pour les nuits, on ne met pas cette terminaison.",
+   "say": {
+    "duijon": "দুইজন"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "face à la mer",
+     "সমুদ্রমুখী"
+    ],
+    [
+     "un",
+     "একটা"
+    ],
+    [
+     "chambre",
+     "রুম"
+    ],
+    [
+     "vouloir",
+     "চাই"
+    ]
+   ],
+   "note": "Face à la mer se dit en un seul mot, « shomudromukhī ». Mot à mot, tourné vers la mer.",
+   "say": {
+    "shomudromukhī": "সমুদ্রমুখী"
+   }
+  },
+  {
+   "words": [
+    [
+     "balcon",
+     "বারান্দা"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "Le balcon se dit « bārāndā ». Ici, même sans petit mot de question, l'intonation suffit.",
+   "say": {
+    "bārāndā": "বারান্দা"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "হ্যাঁ"
+    ],
+    [
+     "et",
+     "আর"
+    ],
+    [
+     "mer",
+     "সমুদ্র"
+    ],
+    [
+     "juste",
+     "ঠিক"
+    ],
+    [
+     "devant",
+     "সামনে"
+    ]
+   ],
+   "note": "La mer se dit « shomudro ». Juste devant se dit ensuite exactement devant.",
+   "say": {
+    "shomudro": "সমুদ্র"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit-déjeuner",
+     "নাস্তা"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "de la chambre",
+     "রুমের"
+    ],
+    [
+     "avec",
+     "সাথে"
+    ]
+   ],
+   "note": "Le petit-déjeuner se dit « nāstā ». Mot à mot, on demande s'il est avec la chambre.",
+   "say": {
+    "nāstā": "নাস্তা"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "হ্যাঁ"
+    ],
+    [
+     "avec",
+     "সাথে"
+    ],
+    [
+     "être",
+     "আছে"
+    ]
+   ],
+   "note": "Inclus se dit tout simplement avec, il y a. Cela donne « shāthe āchhe ».",
+   "say": {
+    "shāthe āchhe": "সাথে আছে"
+   }
+  },
+  {
+   "words": [
+    [
+     "voici",
+     "এই"
+    ],
+    [
+     "prendre",
+     "নিন"
+    ],
+    [
+     "votre",
+     "আপনার"
+    ],
+    [
+     "clé",
+     "চাবি"
+    ]
+   ],
+   "note": "Pour tendre quelque chose, on dit voici, prenez. Prenez se dit « nin ».",
+   "say": {
+    "nin": "নিন"
+   }
+  },
+  {
+   "words": [
+    [
+     "votre",
+     "আপনার"
+    ],
+    [
+     "chambre",
+     "রুম"
+    ],
+    [
+     "au quatrième niveau",
+     "চারতলায়"
+    ]
+   ],
+   "note": "Au Bangladesh, on compte souvent le rez-de-chaussée comme premier étage. Le troisième étage devient donc le quatrième, « chārtolāy ».",
+   "say": {
+    "chārtolāy": "চারতলায়"
+   }
+  }
+ ],
+ "0-1-7": [
+  {
+   "words": [
+    [
+     "petit-déjeuner",
+     "নাস্তা"
+    ],
+    [
+     "sept heures",
+     "সাতটা"
+    ],
+    [
+     "depuis",
+     "থেকে"
+    ],
+    [
+     "dix heures",
+     "দশটা"
+    ],
+    [
+     "jusqu'à",
+     "পর্যন্ত"
+    ]
+   ],
+   "note": "De sept à dix se dit sept depuis, dix jusqu'à. Jusqu'à se dit « porjonto ».",
+   "say": {
+    "porjonto": "পর্যন্ত"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "এখান"
+    ],
+    [
+     "depuis",
+     "থেকে"
+    ],
+    [
+     "plage",
+     "বিচ"
+    ],
+    [
+     "cinq",
+     "পাঁচ"
+    ],
+    [
+     "minute",
+     "মিনিট"
+    ]
+   ],
+   "note": "D'ici se dit « ekhān theke ». Le petit mot depuis vient après ici.",
+   "say": {
+    "ekhān theke": "এখান থেকে"
+   }
+  },
+  {
+   "words": [
+    [
+     "Chittagong",
+     "চট্টগ্রাম"
+    ],
+    [
+     "depuis",
+     "থেকে"
+    ],
+    [
+     "Cox's Bazar",
+     "কক্সবাজার"
+    ],
+    [
+     "jusqu'à",
+     "পর্যন্ত"
+    ],
+    [
+     "combien",
+     "কত"
+    ],
+    [
+     "heure",
+     "ঘণ্টা"
+    ]
+   ],
+   "note": "Chittagong se dit « Choṭṭogrām ». Depuis et jusqu'à suivent chaque ville.",
+   "say": {
+    "Choṭṭogrām": "চট্টগ্রাম"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "আমরা"
+    ],
+    [
+     "vendredi",
+     "শুক্রবার"
+    ],
+    [
+     "jusqu'à",
+     "পর্যন্ত"
+    ],
+    [
+     "ici",
+     "এখানে"
+    ],
+    [
+     "rester",
+     "থাকব"
+    ]
+   ],
+   "note": "Vendredi se dit « shukrobār ». C'est le jour de repos au Bangladesh.",
+   "say": {
+    "shukrobār": "শুক্রবার"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "আমরা"
+    ],
+    [
+     "Paris",
+     "প্যারিস"
+    ],
+    [
+     "depuis",
+     "থেকে"
+    ],
+    [
+     "être venu",
+     "এসেছি"
+    ]
+   ],
+   "note": "Nous sommes venus se dit « eshechhi ». Cette forme décrit une action finie qui compte encore maintenant.",
+   "say": {
+    "eshechhi": "এসেছি"
+   }
+  },
+  {
+   "words": [
+    [
+     "de Teknaf",
+     "টেকনাফের"
+    ],
+    [
+     "bus",
+     "বাস"
+    ],
+    [
+     "où",
+     "কোথা"
+    ],
+    [
+     "depuis",
+     "থেকে"
+    ],
+    [
+     "partir",
+     "ছাড়ে"
+    ]
+   ],
+   "note": "D'où se dit « kothā theke ». C'est où, puis depuis.",
+   "say": {
+    "kothā theke": "কোথা থেকে"
+   }
+  },
+  {
+   "words": [
+    [
+     "départ de la chambre",
+     "চেক-আউট"
+    ],
+    [
+     "midi",
+     "দুপুর"
+    ],
+    [
+     "douze heures",
+     "বারোটা"
+    ],
+    [
+     "jusqu'à",
+     "পর্যন্ত"
+    ]
+   ],
+   "note": "Midi pile se dit midi, douze heures. Douze heures se dit « bāroṭā ».",
+   "say": {
+    "bāroṭā": "বারোটা"
+   }
+  },
+  {
+   "words": [
+    [
+     "cette",
+     "এই"
+    ],
+    [
+     "plage",
+     "বিচ"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "Teknaf",
+     "টেকনাফ"
+    ],
+    [
+     "jusqu'à",
+     "পর্যন্ত"
+    ]
+   ],
+   "note": "La plage se dit « bich ». C'est le mot anglais, très courant à Cox's Bazar.",
+   "say": {
+    "bich": "বিচ"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "হ্যাঁ"
+    ],
+    [
+     "très",
+     "অনেক"
+    ],
+    [
+     "longue",
+     "লম্বা"
+    ]
+   ],
+   "note": "Long se dit « lombā ». Le même mot veut dire grand, pour une personne.",
+   "say": {
+    "lombā": "লম্বা"
+   }
+  },
+  {
+   "words": [
+    [
+     "matin",
+     "সকাল"
+    ],
+    [
+     "depuis",
+     "থেকে"
+    ],
+    [
+     "soir",
+     "সন্ধ্যা"
+    ],
+    [
+     "jusqu'à",
+     "পর্যন্ত"
+    ],
+    [
+     "nous",
+     "আমরা"
+    ],
+    [
+     "marcher",
+     "হাঁটব"
+    ]
+   ],
+   "note": "Nous marcherons se dit « hāṃṭbo ». Le futur se forme avec un b.",
+   "say": {
+    "hāṃṭbo": "হাঁটব"
+   }
+  }
+ ],
+ "0-1-8": [
+  {
+   "words": [
+    [
+     "ceci",
+     "এটা"
+    ],
+    [
+     "du pays",
+     "দেশের"
+    ],
+    [
+     "plus que tout",
+     "সবচেয়ে"
+    ],
+    [
+     "longue",
+     "লম্বা"
+    ],
+    [
+     "plage",
+     "সৈকত"
+    ]
+   ],
+   "note": "En bon bengali, la plage se dit « shoikot ». Cox's Bazar est l'une des plus longues plages du monde.",
+   "say": {
+    "shoikot": "সৈকত"
+   }
+  },
+  {
+   "words": [
+    [
+     "sable",
+     "বালি"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "doux",
+     "নরম"
+    ]
+   ],
+   "note": "Doux se dit « norom ». Le sable se dit juste avant.",
+   "say": {
+    "norom": "নরম"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "আজ"
+    ],
+    [
+     "vague",
+     "ঢেউ"
+    ],
+    [
+     "très",
+     "অনেক"
+    ],
+    [
+     "grande",
+     "বড়"
+    ]
+   ],
+   "note": "La vague se dit « ḍheu ». Pas de pluriel ici, le sens suffit.",
+   "say": {
+    "ḍheu": "ঢেউ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "এখানে"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "dans l'eau",
+     "পানিতে"
+    ],
+    [
+     "descendre",
+     "নামা"
+    ],
+    [
+     "pouvoir",
+     "যায়"
+    ]
+   ],
+   "note": "Pour demander si on peut, on dit descendre, ça va. Cela se dit « nāmā jāy ».",
+   "say": {
+    "nāmā jāy": "নামা যায়"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "হ্যাঁ"
+    ],
+    [
+     "mais",
+     "কিন্তু"
+    ],
+    [
+     "trop",
+     "বেশি"
+    ],
+    [
+     "loin",
+     "দূরে"
+    ],
+    [
+     "non",
+     "না"
+    ]
+   ],
+   "note": "Mais se dit « kintu ». Ici, le non se place à la fin.",
+   "say": {
+    "kintu": "কিন্তু"
+   }
+  },
+  {
+   "words": [
+    [
+     "regarder",
+     "দেখুন"
+    ],
+    [
+     "un",
+     "একটা"
+    ],
+    [
+     "rouge",
+     "লাল"
+    ],
+    [
+     "drapeau",
+     "পতাকা"
+    ]
+   ],
+   "note": "Regardez se dit « dekhun ». C'est la forme polie de regarder.",
+   "say": {
+    "dekhun": "দেখুন"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "আজ"
+    ],
+    [
+     "dans l'eau",
+     "পানিতে"
+    ],
+    [
+     "descendre",
+     "নামা"
+    ],
+    [
+     "dangereux",
+     "বিপজ্জনক"
+    ]
+   ],
+   "note": "Dangereux se dit « bipojjonok ». Il vient du mot danger.",
+   "say": {
+    "bipojjonok": "বিপজ্জনক"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "un",
+     "একটা"
+    ],
+    [
+     "parasol chaise",
+     "ছাতা-চেয়ার"
+    ],
+    [
+     "location",
+     "ভাড়া"
+    ],
+    [
+     "prendre",
+     "নিতে"
+    ],
+    [
+     "vouloir",
+     "চাই"
+    ]
+   ],
+   "note": "Louer se dit prendre en location. Cela donne « bhāṛā nite ».",
+   "say": {
+    "bhāṛā nite": "ভাড়া নিতে"
+   }
+  },
+  {
+   "words": [
+    [
+     "le coucher de soleil",
+     "সূর্যাস্তটা"
+    ],
+    [
+     "extraordinaire",
+     "অসাধারণ"
+    ]
+   ],
+   "note": "Extraordinaire se dit « oshādhāron ». Mot à mot, pas ordinaire.",
+   "say": {
+    "oshādhāron": "অসাধারণ"
+   }
+  },
+  {
+   "words": [
+    [
+     "aller",
+     "চলুন"
+    ],
+    [
+     "soir",
+     "সন্ধ্যা"
+    ],
+    [
+     "jusqu'à",
+     "পর্যন্ত"
+    ],
+    [
+     "ici",
+     "এখানে"
+    ],
+    [
+     "rester",
+     "থাকি"
+    ]
+   ],
+   "note": "Restons se dit « thāki ». Avec allons au début, la phrase devient une proposition.",
+   "say": {
+    "thāki": "থাকি"
+   }
+  }
+ ],
+ "0-1-9": [
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "আজ"
+    ],
+    [
+     "le matin",
+     "সকালে"
+    ],
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "à la plage",
+     "বিচে"
+    ],
+    [
+     "être allé",
+     "গেলাম"
+    ]
+   ],
+   "note": "Je suis allé se dit « gelām ». Le passé avec je finit par le son lame.",
+   "say": {
+    "gelām": "গেলাম"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "আর"
+    ],
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "hier",
+     "কাল"
+    ],
+    [
+     "où",
+     "কোথায়"
+    ],
+    [
+     "être allé",
+     "গেলেন"
+    ]
+   ],
+   "note": "Avec vous, le passé finit par lène. Vous êtes allé se dit « gelen ».",
+   "say": {
+    "gelen": "গেলেন"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "au marché",
+     "বাজারে"
+    ],
+    [
+     "être allé",
+     "গেলাম"
+    ]
+   ],
+   "note": "Au marché se dit « bājāre ». Le verbe au passé reste à la fin.",
+   "say": {
+    "bājāre": "বাজারে"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "crabe",
+     "কাঁকড়া"
+    ],
+    [
+     "avoir mangé",
+     "খেলাম"
+    ]
+   ],
+   "note": "J'ai mangé se dit « khelām ». Le verbe manger change un peu au passé.",
+   "say": {
+    "khelām": "খেলাম"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "coucher de soleil",
+     "সূর্যাস্ত"
+    ],
+    [
+     "avoir vu",
+     "দেখলেন"
+    ]
+   ],
+   "note": "Le coucher du soleil se dit « shūrjāsto ». Mot à mot, la descente du soleil.",
+   "say": {
+    "shūrjāsto": "সূর্যাস্ত"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "হ্যাঁ"
+    ],
+    [
+     "plage",
+     "বিচ"
+    ],
+    [
+     "depuis",
+     "থেকে"
+    ],
+    [
+     "avoir vu",
+     "দেখলাম"
+    ]
+   ],
+   "note": "J'ai vu se dit « dekhlām ». Le pronom je n'est pas nécessaire ici.",
+   "say": {
+    "dekhlām": "দেখলাম"
+   }
+  },
+  {
+   "words": [
+    [
+     "ensuite",
+     "তারপর"
+    ],
+    [
+     "à l'hôtel",
+     "হোটেলে"
+    ],
+    [
+     "être revenu",
+     "ফিরলাম"
+    ]
+   ],
+   "note": "Ensuite se dit « tārpor ». Mot à mot, après cela.",
+   "say": {
+    "tārpor": "তারপর"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "en retard",
+     "দেরিতে"
+    ],
+    [
+     "être revenu",
+     "ফিরলেন"
+    ]
+   ],
+   "note": "Tard se dit « derite ». Mot à mot, en retard.",
+   "say": {
+    "derite": "দেরিতে"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "না"
+    ],
+    [
+     "à neuf heures",
+     "নয়টায়"
+    ],
+    [
+     "être revenu",
+     "ফিরলাম"
+    ]
+   ],
+   "note": "À neuf heures se dit « noyṭāy ». Je suis rentré vient juste après.",
+   "say": {
+    "noyṭāy": "নয়টায়"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "আমরা"
+    ],
+    [
+     "ensemble",
+     "একসাথে"
+    ],
+    [
+     "Himchari",
+     "হিমছড়ি"
+    ],
+    [
+     "être allé",
+     "গেলাম"
+    ]
+   ],
+   "note": "Avec nous, le passé est le même qu'avec je. Nous sommes allés se dit « gelām ».",
+   "say": {
+    "gelām": "গেলাম"
+   }
+  }
+ ],
+ "0-1-10": [
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "আজ"
+    ],
+    [
+     "la nuit",
+     "রাতে"
+    ],
+    [
+     "nous",
+     "আমরা"
+    ],
+    [
+     "grillé",
+     "গ্রিল"
+    ],
+    [
+     "poisson",
+     "মাছ"
+    ],
+    [
+     "manger",
+     "খাব"
+    ]
+   ],
+   "note": "Nous mangerons se dit « khābo ». Le futur sert aussi pour ce soir.",
+   "say": {
+    "khābo": "খাব"
+   }
+  },
+  {
+   "words": [
+    [
+     "les poissons",
+     "মাছগুলো"
+    ],
+    [
+     "de la glace",
+     "বরফের"
+    ],
+    [
+     "sur",
+     "উপর"
+    ],
+    [
+     "disposés",
+     "সাজানো"
+    ]
+   ],
+   "note": "Sur se dit « upor ». Disposés se dit à la fin, comme un adjectif.",
+   "say": {
+    "upor": "উপর"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "ওই"
+    ],
+    [
+     "le poisson",
+     "মাছটা"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "frais",
+     "তাজা"
+    ]
+   ],
+   "note": "Ce poisson-là se dit « oi māchhṭā ». On combine le mot pour là-bas avec la terminaison ta.",
+   "say": {
+    "oi māchhṭā": "ওই মাছটা"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "এটা"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "marin",
+     "সামুদ্রিক"
+    ],
+    [
+     "poisson",
+     "মাছ"
+    ]
+   ],
+   "note": "De mer se dit « shāmudrik ». Il vient du mot mer.",
+   "say": {
+    "shāmudrik": "সামুদ্রিক"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "হ্যাঁ"
+    ],
+    [
+     "aujourd'hui",
+     "আজ"
+    ],
+    [
+     "le matin même",
+     "সকালেই"
+    ],
+    [
+     "attrapé",
+     "ধরা"
+    ]
+   ],
+   "note": "Ce matin même se dit « āj shokālei ». Le i final ajoute l'idée de même.",
+   "say": {
+    "āj shokālei": "আজ সকালেই"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "ceci",
+     "এটা"
+    ],
+    [
+     "prendre",
+     "নেব"
+    ],
+    [
+     "du riz",
+     "ভাতের"
+    ],
+    [
+     "avec",
+     "সাথে"
+    ]
+   ],
+   "note": "Je prendrai se dit « nebo ». On commande souvent au futur.",
+   "say": {
+    "nebo": "নেব"
+   }
+  },
+  {
+   "words": [
+    [
+     "bonté",
+     "দয়া"
+    ],
+    [
+     "en faisant",
+     "করে"
+    ],
+    [
+     "trop",
+     "বেশি"
+    ],
+    [
+     "piment",
+     "ঝাল"
+    ],
+    [
+     "donner",
+     "দেবেন"
+    ],
+    [
+     "non",
+     "না"
+    ]
+   ],
+   "note": "Pour une demande négative polie, on dit ne donnerez pas. Cela se dit « deben nā ».",
+   "say": {
+    "deben nā": "দেবেন না"
+   }
+  },
+  {
+   "words": [
+    [
+     "combien de temps",
+     "কতক্ষণ"
+    ],
+    [
+     "il faudra",
+     "লাগবে"
+    ]
+   ],
+   "note": "Combien de temps se dit « kotokkhon ». Il faudra se dit juste après.",
+   "say": {
+    "kotokkhon": "কতক্ষণ"
+   }
+  },
+  {
+   "words": [
+    [
+     "environ",
+     "প্রায়"
+    ],
+    [
+     "vingt",
+     "বিশ"
+    ],
+    [
+     "minute",
+     "মিনিট"
+    ]
+   ],
+   "note": "La minute se dit « miniṭ ». Comme toujours, pas de pluriel après un nombre.",
+   "say": {
+    "miniṭ": "মিনিট"
+   }
+  },
+  {
+   "words": [
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "bon goût",
+     "মজা"
+    ],
+    [
+     "être devenu",
+     "হয়েছে"
+    ]
+   ],
+   "note": "Pour dire c'est délicieux, on dit c'est devenu très bon. Cela se dit « mojā hoyechhe ».",
+   "say": {
+    "mojā hoyechhe": "মজা হয়েছে"
+   }
+  }
+ ],
+ "0-1-11": [
+  {
+   "words": [
+    [
+     "Inani",
+     "ইনানী"
+    ],
+    [
+     "comment",
+     "কীভাবে"
+    ],
+    [
+     "aller",
+     "যাব"
+    ]
+   ],
+   "note": "Comment se dit « kībhābe ». Il se place juste avant le verbe.",
+   "say": {
+    "kībhābe": "কীভাবে"
+   }
+  },
+  {
+   "words": [
+    [
+     "Laboni",
+     "লাবণী"
+    ],
+    [
+     "à la plage",
+     "বিচে"
+    ],
+    [
+     "comment",
+     "কীভাবে"
+    ],
+    [
+     "aller",
+     "যাওয়া"
+    ],
+    [
+     "pouvoir",
+     "যায়"
+    ]
+   ],
+   "note": "Comment peut-on aller se dit comment aller, ça va. On dit « jāoyā jāy ».",
+   "say": {
+    "jāoyā jāy": "যাওয়া যায়"
+   }
+  },
+  {
+   "words": [
+    [
+     "CNG",
+     "সিএনজি"
+    ],
+    [
+     "prendre",
+     "নিন"
+    ]
+   ],
+   "note": "Prendre un véhicule se dit simplement prendre, « nin ». Le CNG est un petit taxi à trois roues.",
+   "say": {
+    "nin": "নিন"
+   }
+  },
+  {
+   "words": [
+    [
+     "à la plage",
+     "বিচকে"
+    ],
+    [
+     "en bengali",
+     "বাংলায়"
+    ],
+    [
+     "quoi",
+     "কী"
+    ],
+    [
+     "dire",
+     "বলে"
+    ]
+   ],
+   "note": "Pour demander un mot, on dit comment ça se dit en bengali. En bengali se dit « Bānglāy ».",
+   "say": {
+    "Bānglāy": "বাংলায়"
+   }
+  },
+  {
+   "words": [
+    [
+     "plage",
+     "সৈকত"
+    ],
+    [
+     "dire",
+     "বলে"
+    ]
+   ],
+   "note": "On dit se dit « bole ». C'est la forme pour il ou on.",
+   "say": {
+    "bole": "বলে"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "এখানে"
+    ],
+    [
+     "comment",
+     "কীভাবে"
+    ],
+    [
+     "argent",
+     "টাকা"
+    ],
+    [
+     "donner",
+     "দিতে"
+    ],
+    [
+     "il faut",
+     "হয়"
+    ]
+   ],
+   "note": "Payer, c'est donner de l'argent. Il faut se dit « dite hoy ».",
+   "say": {
+    "dite hoy": "দিতে হয়"
+   }
+  },
+  {
+   "words": [
+    [
+     "droit",
+     "সোজা"
+    ],
+    [
+     "aller",
+     "যান"
+    ],
+    [
+     "ensuite",
+     "তারপর"
+    ],
+    [
+     "à gauche",
+     "বামে"
+    ]
+   ],
+   "note": "Tout droit se dit « shojā ». À gauche se dit à la fin.",
+   "say": {
+    "shojā": "সোজা"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "আজ"
+    ],
+    [
+     "la nuit",
+     "রাতে"
+    ],
+    [
+     "à l'hôtel",
+     "হোটেলে"
+    ],
+    [
+     "comment",
+     "কীভাবে"
+    ],
+    [
+     "revenir",
+     "ফিরব"
+    ]
+   ],
+   "note": "Je rentrerai se dit « phirbo ». On demande comment, avec le futur.",
+   "say": {
+    "phirbo": "ফিরব"
+   }
+  },
+  {
+   "words": [
+    [
+     "rickshaw",
+     "রিকশা"
+    ],
+    [
+     "prendre",
+     "নিন"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "facile",
+     "সহজ"
+    ]
+   ],
+   "note": "Facile se dit « shohoj ». Très facile, c'est très, puis facile.",
+   "say": {
+    "shohoj": "সহজ"
+   }
+  },
+  {
+   "words": [
+    [
+     "merci",
+     "ধন্যবাদ"
+    ],
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "bienveillant",
+     "দয়ালু"
+    ]
+   ],
+   "note": "Aimable se dit « doyālu ». Il vient du mot bonté, comme dans s'il vous plaît.",
+   "say": {
+    "doyālu": "দয়ালু"
+   }
+  }
+ ],
+ "0-1-12": [
+  {
+   "words": [
+    [
+     "de trois personnes",
+     "তিনজনের"
+    ],
+    [
+     "pour",
+     "জন্য"
+    ],
+    [
+     "un",
+     "একটা"
+    ],
+    [
+     "table",
+     "টেবিল"
+    ],
+    [
+     "donner",
+     "দিন"
+    ]
+   ],
+   "note": "Pour trois se dit « tinjoner jonno ». Les personnes se comptent avec une terminaison spéciale.",
+   "say": {
+    "tinjoner jonno": "তিনজনের জন্য"
+   }
+  },
+  {
+   "words": [
+    [
+     "le menu",
+     "মেনুটা"
+    ],
+    [
+     "donner",
+     "দেবেন"
+    ]
+   ],
+   "note": "Pour demander poliment, on emploie le futur. Vous donnerez se dit « deben ».",
+   "say": {
+    "deben": "দেবেন"
+   }
+  },
+  {
+   "words": [
+    [
+     "vos",
+     "আপনাদের"
+    ],
+    [
+     "plus que tout",
+     "সবচেয়ে"
+    ],
+    [
+     "bon",
+     "ভালো"
+    ],
+    [
+     "plat",
+     "খাবার"
+    ],
+    [
+     "quoi",
+     "কী"
+    ]
+   ],
+   "note": "Votre, pour un restaurant, se dit « āpnāder ». C'est le votre du pluriel.",
+   "say": {
+    "āpnāder": "আপনাদের"
+   }
+  },
+  {
+   "words": [
+    [
+     "de crevettes",
+     "চিংড়ির"
+    ],
+    [
+     "curry",
+     "তরকারি"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "bon",
+     "ভালো"
+    ]
+   ],
+   "note": "Le curry se dit « torkāri ». Les crevettes viennent devant, avec la terminaison de.",
+   "say": {
+    "torkāri": "তরকারি"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "viande",
+     "মাংস"
+    ],
+    [
+     "manger",
+     "খাই"
+    ],
+    [
+     "non",
+     "না"
+    ]
+   ],
+   "note": "La viande se dit « māngsho ». Le présent simple sert aussi pour une habitude, comme jamais.",
+   "say": {
+    "māngsho": "মাংস"
+   }
+  },
+  {
+   "words": [
+    [
+     "un",
+     "একটা"
+    ],
+    [
+     "coco vert",
+     "ডাব"
+    ],
+    [
+     "donner",
+     "দিন"
+    ]
+   ],
+   "note": "La noix de coco verte se dit « ḍāb ». On boit son eau directement, avec une paille.",
+   "say": {
+    "ḍāb": "ডাব"
+   }
+  },
+  {
+   "words": [
+    [
+     "de coco vert",
+     "ডাবের"
+    ],
+    [
+     "eau",
+     "পানি"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "de confort",
+     "আরামের"
+    ]
+   ],
+   "note": "L'eau de coco se dit « ḍāber pāni ». Mot à mot, l'eau du coco vert.",
+   "say": {
+    "ḍāber pāni": "ডাবের পানি"
+   }
+  },
+  {
+   "words": [
+    [
+     "l'addition",
+     "বিলটা"
+    ],
+    [
+     "donner",
+     "দেবেন"
+    ]
+   ],
+   "note": "L'addition se dit « bilṭā ». Avec la terminaison, c'est notre addition à nous.",
+   "say": {
+    "bilṭā": "বিলটা"
+   }
+  },
+  {
+   "words": [
+    [
+     "six cents",
+     "ছয়শো"
+    ],
+    [
+     "takas",
+     "টাকা"
+    ],
+    [
+     "être devenu",
+     "হয়েছে"
+    ]
+   ],
+   "note": "Ça fait se dit « hoyechhe ». Mot à mot, c'est devenu six cents takas.",
+   "say": {
+    "hoyechhe": "হয়েছে"
+   }
+  },
+  {
+   "words": [
+    [
+     "le reste",
+     "বাকিটা"
+    ],
+    [
+     "en gardant",
+     "রেখে"
+    ],
+    [
+     "donner",
+     "দিন"
+    ]
+   ],
+   "note": "Le reste se dit « bākiṭā ». Gardez, c'est en gardant, donnez.",
+   "say": {
+    "bākiṭā": "বাকিটা"
+   }
+  }
+ ],
+ "0-1-13": [
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "ici",
+     "এখানে"
+    ],
+    [
+     "du bateau",
+     "জাহাজের"
+    ],
+    [
+     "billet",
+     "টিকিট"
+    ],
+    [
+     "acheter",
+     "কিনতে"
+    ],
+    [
+     "pouvoir",
+     "পারি"
+    ]
+   ],
+   "note": "Pouvoir se dit « pāri ». Le verbe acheter se met juste avant, à une forme spéciale.",
+   "say": {
+    "pāri": "পারি"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "হ্যাঁ"
+    ],
+    [
+     "ici même",
+     "এখানেই"
+    ],
+    [
+     "acheter",
+     "কিনতে"
+    ],
+    [
+     "pouvoir",
+     "পারেন"
+    ]
+   ],
+   "note": "Avec vous, pouvoir devient « pāren ». Ici même se dit avec un i à la fin de ici.",
+   "say": {
+    "pāren": "পারেন"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "কাল"
+    ],
+    [
+     "le matin",
+     "সকালে"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "aller",
+     "যেতে"
+    ],
+    [
+     "pouvoir",
+     "পারি"
+    ]
+   ],
+   "note": "Avant pouvoir, aller devient « jete ». C'est la forme qui veut dire pour aller.",
+   "say": {
+    "jete": "যেতে"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "না"
+    ],
+    [
+     "demain",
+     "কাল"
+    ],
+    [
+     "mer",
+     "সাগর"
+    ],
+    [
+     "agitée",
+     "উত্তাল"
+    ],
+    [
+     "rester",
+     "থাকবে"
+    ]
+   ],
+   "note": "Agitée se dit « uttāl ». La mer se dit ici avec un autre mot, plus poétique.",
+   "say": {
+    "uttāl": "উত্তাল"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "longtemps",
+     "বেশিক্ষণ"
+    ],
+    [
+     "attente",
+     "অপেক্ষা"
+    ],
+    [
+     "faire",
+     "করতে"
+    ],
+    [
+     "pouvoir",
+     "পারি"
+    ],
+    [
+     "non",
+     "না"
+    ]
+   ],
+   "note": "Je ne peux pas se dit « pāri nā ». La négation suit pouvoir.",
+   "say": {
+    "pāri nā": "পারি না"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "après-demain",
+     "পরশু"
+    ],
+    [
+     "aller",
+     "যেতে"
+    ],
+    [
+     "pouvoir",
+     "পারেন"
+    ]
+   ],
+   "note": "Après-demain se dit « porshu ». Pouvoir se place tout à la fin.",
+   "say": {
+    "porshu": "পরশু"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "bien",
+     "ভালো"
+    ],
+    [
+     "bengali",
+     "বাংলা"
+    ],
+    [
+     "parler",
+     "বলতে"
+    ],
+    [
+     "pouvoir",
+     "পারি"
+    ],
+    [
+     "non",
+     "না"
+    ]
+   ],
+   "note": "Parler, avant pouvoir, devient « bolte ». On dit je ne peux pas parler pour je ne sais pas parler.",
+   "say": {
+    "bolte": "বলতে"
+   }
+  },
+  {
+   "words": [
+    [
+     "mais",
+     "কিন্তু"
+    ],
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "petit mot d'insistance",
+     "তো"
+    ],
+    [
+     "un peu",
+     "একটু"
+    ],
+    [
+     "pouvoir",
+     "পারেন"
+    ]
+   ],
+   "note": "Pour insister, on ajoute un petit mot après vous. Ce petit mot, c'est « to ».",
+   "say": {
+    "to": "তো"
+   }
+  },
+  {
+   "words": [
+    [
+     "par carte",
+     "কার্ডে"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "donner",
+     "দিতে"
+    ],
+    [
+     "pouvoir",
+     "পারি"
+    ]
+   ],
+   "note": "Par carte se dit « kārḍe ». Payer, c'est encore donner.",
+   "say": {
+    "kārḍe": "কার্ডে"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "না"
+    ],
+    [
+     "seulement",
+     "শুধু"
+    ],
+    [
+     "espèces",
+     "ক্যাশ"
+    ]
+   ],
+   "note": "Seulement se dit « shudhu ». Il se place devant le mot.",
+   "say": {
+    "shudhu": "শুধু"
+   }
+  }
+ ],
+ "0-1-14": [
+  {
+   "words": [
+    [
+     "bateau",
+     "জাহাজ"
+    ],
+    [
+     "Teknaf",
+     "টেকনাফ"
+    ],
+    [
+     "depuis",
+     "থেকে"
+    ],
+    [
+     "partir",
+     "ছাড়ে"
+    ]
+   ],
+   "note": "Le bateau se dit « jāhāj ». C'est un grand bateau, comme un navire.",
+   "say": {
+    "jāhāj": "জাহাজ"
+   }
+  },
+  {
+   "words": [
+    [
+     "aller",
+     "যেতে"
+    ],
+    [
+     "deux",
+     "দুই"
+    ],
+    [
+     "heure",
+     "ঘণ্টা"
+    ],
+    [
+     "il faut",
+     "লাগে"
+    ]
+   ],
+   "note": "Pour la durée d'un trajet, on dit pour aller, deux heures il faut. Il faut se dit « lāge ».",
+   "say": {
+    "lāge": "লাগে"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "sur le pont",
+     "ডেকে"
+    ],
+    [
+     "s'asseoir",
+     "বসতে"
+    ],
+    [
+     "vouloir",
+     "চাই"
+    ]
+   ],
+   "note": "Vouloir faire quelque chose se dit verbe, puis vouloir. S'asseoir devient ici « boshte ».",
+   "say": {
+    "boshte": "বসতে"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "এখানে"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "vent",
+     "বাতাস"
+    ]
+   ],
+   "note": "Le vent se dit « bātāsh ». Pas de verbe, juste ici très vent.",
+   "say": {
+    "bātāsh": "বাতাস"
+   }
+  },
+  {
+   "words": [
+    [
+     "regarder",
+     "দেখুন"
+    ],
+    [
+     "ces",
+     "ওই"
+    ],
+    [
+     "blanc",
+     "সাদা"
+    ],
+    [
+     "les oiseaux",
+     "পাখিগুলো"
+    ]
+   ],
+   "note": "Les oiseaux se dit « pākhigulo ». Blanc se dit juste avant.",
+   "say": {
+    "pākhigulo": "পাখিগুলো"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceux-là",
+     "ওগুলো"
+    ],
+    [
+     "mouette",
+     "গাংচিল"
+    ]
+   ],
+   "note": "Ceux-là se dit « ogulo ». C'est cela avec le pluriel des choses.",
+   "say": {
+    "ogulo": "ওগুলো"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma",
+     "আমার"
+    ],
+    [
+     "un peu",
+     "একটু"
+    ],
+    [
+     "tête",
+     "মাথা"
+    ],
+    [
+     "tourner",
+     "ঘুরছে"
+    ]
+   ],
+   "note": "La tête se dit « māthā ». Mot à mot, ma tête est en train de tourner.",
+   "say": {
+    "māthā": "মাথা"
+   }
+  },
+  {
+   "words": [
+    [
+     "eau",
+     "পানি"
+    ],
+    [
+     "prendre",
+     "খান"
+    ],
+    [
+     "et",
+     "আর"
+    ],
+    [
+     "loin",
+     "দূরে"
+    ],
+    [
+     "regarder",
+     "তাকান"
+    ]
+   ],
+   "note": "Loin se dit « dūre ». Regardez se dit à la fin, à la forme polie.",
+   "say": {
+    "dūre": "দূরে"
+   }
+  },
+  {
+   "words": [
+    [
+     "l'île",
+     "দ্বীপটা"
+    ],
+    [
+     "vu",
+     "দেখা"
+    ],
+    [
+     "aller",
+     "যাচ্ছে"
+    ]
+   ],
+   "note": "L'île se dit « dīpṭā ». On voit se dit vu va, une tournure très courante.",
+   "say": {
+    "dīpṭā": "দ্বীপটা"
+   }
+  },
+  {
+   "words": [
+    [
+     "de l'eau",
+     "পানির"
+    ],
+    [
+     "couleur",
+     "রং"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "beau",
+     "সুন্দর"
+    ],
+    [
+     "bleu",
+     "নীল"
+    ]
+   ],
+   "note": "Bleu se dit « nīl ». Mot à mot, la couleur de l'eau est très beau bleu.",
+   "say": {
+    "nīl": "নীল"
+   }
+  }
+ ],
+ "0-1-15": [
+  {
+   "words": [
+    [
+     "nous",
+     "আমরা"
+    ],
+    [
+     "dans le bateau",
+     "জাহাজে"
+    ],
+    [
+     "en faisant",
+     "করে"
+    ],
+    [
+     "être venu",
+     "এসেছি"
+    ]
+   ],
+   "note": "En bateau se dit « jāhāje kore ». Mot à mot, en faisant dans le bateau.",
+   "say": {
+    "jāhāje kore": "জাহাজে করে"
+   }
+  },
+  {
+   "words": [
+    [
+     "Cox's Bazar",
+     "কক্সবাজার"
+    ],
+    [
+     "depuis",
+     "থেকে"
+    ],
+    [
+     "dans le bus",
+     "বাসে"
+    ],
+    [
+     "en faisant",
+     "করে"
+    ],
+    [
+     "être allé",
+     "গেলাম"
+    ]
+   ],
+   "note": "En bus se dit « bāse kore ». Ici, le pronom je a disparu.",
+   "say": {
+    "bāse kore": "বাসে করে"
+   }
+  },
+  {
+   "words": [
+    [
+     "sur l'île",
+     "দ্বীপে"
+    ],
+    [
+     "nous",
+     "আমরা"
+    ],
+    [
+     "sur le vélo",
+     "সাইকেলে"
+    ],
+    [
+     "en faisant",
+     "করে"
+    ],
+    [
+     "circuler",
+     "ঘুরি"
+    ]
+   ],
+   "note": "À vélo se dit « sāikele kore ». On circule se dit à la fin.",
+   "say": {
+    "sāikele kore": "সাইকেলে করে"
+   }
+  },
+  {
+   "words": [
+    [
+     "dans le van",
+     "ভ্যানে"
+    ],
+    [
+     "en faisant aussi",
+     "করেও"
+    ],
+    [
+     "tourner",
+     "ঘোরা"
+    ],
+    [
+     "pouvoir",
+     "যায়"
+    ]
+   ],
+   "note": "Aussi se colle ici au petit mot. Cela donne « koreo ».",
+   "say": {
+    "koreo": "করেও"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "à pied",
+     "হেঁটে"
+    ],
+    [
+     "aller",
+     "যেতে"
+    ],
+    [
+     "préférence",
+     "পছন্দ"
+    ],
+    [
+     "faire",
+     "করি"
+    ]
+   ],
+   "note": "À pied se dit « heṃṭe ». Préférer, c'est faire préférence.",
+   "say": {
+    "heṃṭe": "হেঁটে"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "dans le train",
+     "ট্রেনে"
+    ],
+    [
+     "en faisant",
+     "করে"
+    ],
+    [
+     "Chittagong",
+     "চট্টগ্রাম"
+    ],
+    [
+     "être venu",
+     "এসেছেন"
+    ]
+   ],
+   "note": "En train se dit « ṭrene kore ». Train vient de l'anglais.",
+   "say": {
+    "ṭrene kore": "ট্রেনে করে"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "না"
+    ],
+    [
+     "Dhaka",
+     "ঢাকা"
+    ],
+    [
+     "depuis",
+     "থেকে"
+    ],
+    [
+     "dans l'avion",
+     "বিমানে"
+    ],
+    [
+     "en faisant",
+     "করে"
+    ],
+    [
+     "être venu",
+     "এসেছি"
+    ]
+   ],
+   "note": "L'avion se dit « bimān ». La compagnie nationale porte d'ailleurs ce nom.",
+   "say": {
+    "bimān": "বিমান"
+   }
+  },
+  {
+   "words": [
+    [
+     "dans le train",
+     "ট্রেনে"
+    ],
+    [
+     "en faisant",
+     "করে"
+    ],
+    [
+     "si on va",
+     "গেলে"
+    ],
+    [
+     "temps",
+     "সময়"
+    ],
+    [
+     "plus",
+     "বেশি"
+    ],
+    [
+     "il faut",
+     "লাগে"
+    ],
+    [
+     "mais",
+     "কিন্তু"
+    ],
+    [
+     "dépense",
+     "খরচ"
+    ],
+    [
+     "moins",
+     "কম"
+    ]
+   ],
+   "note": "Moins se dit « kom ». C'est le contraire de plus.",
+   "say": {
+    "kom": "কম"
+   }
+  },
+  {
+   "words": [
+    [
+     "l'après-midi",
+     "বিকেলে"
+    ],
+    [
+     "nous",
+     "আমরা"
+    ],
+    [
+     "dans la barque",
+     "নৌকায়"
+    ],
+    [
+     "en faisant",
+     "করে"
+    ],
+    [
+     "revenir",
+     "ফিরব"
+    ]
+   ],
+   "note": "L'après-midi se dit « bikele ». C'est la fin de l'après-midi, avant le soir.",
+   "say": {
+    "bikele": "বিকেলে"
+   }
+  },
+  {
+   "words": [
+    [
+     "dans la barque",
+     "নৌকায়"
+    ],
+    [
+     "en faisant",
+     "করে"
+    ],
+    [
+     "l'île",
+     "দ্বীপটা"
+    ],
+    [
+     "tourner",
+     "ঘুরবেন"
+    ]
+   ],
+   "note": "La barque se dit « noukā ». On en voit partout sur les rivières du pays.",
+   "say": {
+    "noukā": "নৌকা"
+   }
+  }
+ ],
+ "0-1-16": [
+  {
+   "words": [
+    [
+     "Saint Martin",
+     "সেন্ট মার্টিন"
+    ],
+    [
+     "l'île",
+     "দ্বীপটা"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "petite",
+     "ছোট"
+    ]
+   ],
+   "note": "Petit se dit « chhoṭo ». C'est la seule île de corail du pays.",
+   "say": {
+    "chhoṭo": "ছোট"
+   }
+  },
+  {
+   "words": [
+    [
+     "tout",
+     "সব"
+    ],
+    [
+     "à l'endroit",
+     "জায়গায়"
+    ],
+    [
+     "coco",
+     "নারকেল"
+    ],
+    [
+     "arbre",
+     "গাছ"
+    ]
+   ],
+   "note": "Partout se dit « shob jāygāy ». Mot à mot, à tous les endroits.",
+   "say": {
+    "shob jāygāy": "সব জায়গায়"
+   }
+  },
+  {
+   "words": [
+    [
+     "eau",
+     "পানি"
+    ],
+    [
+     "du verre",
+     "কাচের"
+    ],
+    [
+     "comme",
+     "মতো"
+    ],
+    [
+     "transparente",
+     "স্বচ্ছ"
+    ]
+   ],
+   "note": "Comme se dit « moto ». Il se place après le mot comparé.",
+   "say": {
+    "moto": "মতো"
+   }
+  },
+  {
+   "words": [
+    [
+     "dans l'eau",
+     "পানিতে"
+    ],
+    [
+     "poisson",
+     "মাছ"
+    ],
+    [
+     "vu",
+     "দেখা"
+    ],
+    [
+     "aller",
+     "যায়"
+    ]
+   ],
+   "note": "Dans l'eau se dit « pānite ». On voit se dit ensuite vu va.",
+   "say": {
+    "pānite": "পানিতে"
+   }
+  },
+  {
+   "words": [
+    [
+     "de la plage",
+     "সৈকতের"
+    ],
+    [
+     "près",
+     "কাছে"
+    ],
+    [
+     "corail",
+     "প্রবাল"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "Le corail se dit « probāl ». Près de la plage se dit plage de, puis près.",
+   "say": {
+    "probāl": "প্রবাল"
+   }
+  },
+  {
+   "words": [
+    [
+     "corail",
+     "প্রবাল"
+    ],
+    [
+     "toucher",
+     "ছোঁয়া"
+    ],
+    [
+     "aller",
+     "যাবে"
+    ],
+    [
+     "non",
+     "না"
+    ]
+   ],
+   "note": "Pour une interdiction, on dit toucher n'ira pas. Cela se dit « jābe nā ».",
+   "say": {
+    "jābe nā": "যাবে না"
+   }
+  },
+  {
+   "words": [
+    [
+     "d'ici",
+     "এখানকার"
+    ],
+    [
+     "gens",
+     "মানুষ"
+    ],
+    [
+     "pêcheur",
+     "জেলে"
+    ]
+   ],
+   "note": "Pêcheur se dit « jele ». Pas besoin de pluriel, les gens d'ici suffit.",
+   "say": {
+    "jele": "জেলে"
+   }
+  },
+  {
+   "words": [
+    [
+     "ils",
+     "তারা"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "chaleureux",
+     "আন্তরিক"
+    ]
+   ],
+   "note": "Ils se dit « tārā ». Chaleureux se dit juste après très.",
+   "say": {
+    "tārā": "তারা"
+   }
+  },
+  {
+   "words": [
+    [
+     "la nuit",
+     "রাতে"
+    ],
+    [
+     "ciel",
+     "আকাশ"
+    ],
+    [
+     "plein",
+     "ভরা"
+    ],
+    [
+     "étoile",
+     "তারা"
+    ]
+   ],
+   "note": "L'étoile se dit « tārā ». Attention, il sonne comme le mot ils de la phrase d'avant.",
+   "say": {
+    "tārā": "তারা"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "ici",
+     "এখান"
+    ],
+    [
+     "depuis",
+     "থেকে"
+    ],
+    [
+     "aller",
+     "যেতে"
+    ],
+    [
+     "vouloir",
+     "চাই"
+    ],
+    [
+     "non",
+     "না"
+    ]
+   ],
+   "note": "Je ne veux pas se dit « chāi nā ». Partir, c'est aller depuis ici.",
+   "say": {
+    "chāi nā": "চাই না"
+   }
+  }
+ ],
+ "0-1-17": [
+  {
+   "words": [
+    [
+     "l'hôtel",
+     "হোটেলটা"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "de la plage",
+     "বিচের"
+    ],
+    [
+     "près",
+     "কাছে"
+    ]
+   ],
+   "note": "Près de se dit « kāchhe ». Il vient après le lieu, qui prend la terminaison de.",
+   "say": {
+    "kāchhe": "কাছে"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "হ্যাঁ"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "près",
+     "কাছে"
+    ],
+    [
+     "deux",
+     "দুই"
+    ],
+    [
+     "minute",
+     "মিনিট"
+    ]
+   ],
+   "note": "Tout près se dit « khub kāchhe ». Mot à mot, très près.",
+   "say": {
+    "khub kāchhe": "খুব কাছে"
+   }
+  },
+  {
+   "words": [
+    [
+     "tout près",
+     "কাছাকাছি"
+    ],
+    [
+     "quelque",
+     "কোনো"
+    ],
+    [
+     "pharmacie",
+     "ফার্মেসি"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "Dans les environs se dit « kāchhākāchhi ». C'est près, répété.",
+   "say": {
+    "kāchhākāchhi": "কাছাকাছি"
+   }
+  },
+  {
+   "words": [
+    [
+     "la pharmacie",
+     "ফার্মেসিটা"
+    ],
+    [
+     "un peu",
+     "একটু"
+    ],
+    [
+     "loin",
+     "দূরে"
+    ]
+   ],
+   "note": "Loin se dit « dūre ». Un peu loin, c'est un peu, puis loin.",
+   "say": {
+    "dūre": "দূরে"
+   }
+  },
+  {
+   "words": [
+    [
+     "à pied",
+     "হেঁটে"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "très",
+     "অনেক"
+    ],
+    [
+     "loin",
+     "দূর"
+    ]
+   ],
+   "note": "À pied se dit « heṃṭe ». Mot à mot, en marchant.",
+   "say": {
+    "heṃṭe": "হেঁটে"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "না"
+    ],
+    [
+     "loin",
+     "দূরে"
+    ],
+    [
+     "non",
+     "না"
+    ]
+   ],
+   "note": "Ce n'est pas loin se dit « dūre nā ». Sans verbe, le non suffit.",
+   "say": {
+    "dūre nā": "দূরে না"
+   }
+  },
+  {
+   "words": [
+    [
+     "Teknaf",
+     "টেকনাফ"
+    ],
+    [
+     "Cox's Bazar",
+     "কক্সবাজার"
+    ],
+    [
+     "depuis",
+     "থেকে"
+    ],
+    [
+     "très",
+     "অনেক"
+    ],
+    [
+     "loin",
+     "দূরে"
+    ]
+   ],
+   "note": "Loin de se dit depuis, puis loin. Depuis se dit « theke ».",
+   "say": {
+    "theke": "থেকে"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "আমার"
+    ],
+    [
+     "ami",
+     "বন্ধু"
+    ],
+    [
+     "de Chittagong",
+     "চট্টগ্রামের"
+    ],
+    [
+     "près",
+     "কাছে"
+    ],
+    [
+     "habiter",
+     "থাকে"
+    ]
+   ],
+   "note": "Près de Chittagong se dit « Choṭṭogrāmer kāchhe ». On ajoute er à la ville.",
+   "say": {
+    "Choṭṭogrāmer kāchhe": "চট্টগ্রামের কাছে"
+   }
+  },
+  {
+   "words": [
+    [
+     "de moi",
+     "আমার"
+    ],
+    [
+     "près",
+     "কাছে"
+    ],
+    [
+     "en venant",
+     "এসে"
+    ],
+    [
+     "s'asseoir",
+     "বসুন"
+    ]
+   ],
+   "note": "Venez vous asseoir se dit en venant, asseyez-vous. En venant se dit « eshe ».",
+   "say": {
+    "eshe": "এসে"
+   }
+  },
+  {
+   "words": [
+    [
+     "trop",
+     "বেশি"
+    ],
+    [
+     "loin",
+     "দূরে"
+    ],
+    [
+     "nage",
+     "সাঁতার"
+    ],
+    [
+     "couper",
+     "কাটবেন"
+    ],
+    [
+     "non",
+     "না"
+    ]
+   ],
+   "note": "Nager se dit couper la nage. La nage se dit « shāṃtār ».",
+   "say": {
+    "shāṃtār": "সাঁতার"
+   }
+  }
+ ],
+ "0-1-18": [
+  {
+   "words": [
+    [
+     "demain",
+     "কাল"
+    ],
+    [
+     "nous",
+     "আমরা"
+    ],
+    [
+     "Chittagong",
+     "চট্টগ্রাম"
+    ],
+    [
+     "revenir",
+     "ফিরব"
+    ]
+   ],
+   "note": "Nous rentrerons se dit « phirbo ». Demain ouvre la phrase.",
+   "say": {
+    "phirbo": "ফিরব"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "আজ"
+    ],
+    [
+     "la nuit",
+     "রাতে"
+    ],
+    [
+     "sac",
+     "ব্যাগ"
+    ],
+    [
+     "ranger",
+     "গোছাতে"
+    ],
+    [
+     "il faudra",
+     "হবে"
+    ]
+   ],
+   "note": "Faire les bagages, c'est ranger le sac. Il faudra se dit « hobe ».",
+   "say": {
+    "hobe": "হবে"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "de la famille",
+     "পরিবারের"
+    ],
+    [
+     "pour",
+     "জন্য"
+    ],
+    [
+     "cadeau",
+     "উপহার"
+    ],
+    [
+     "avoir acheté",
+     "কিনলাম"
+    ]
+   ],
+   "note": "Le cadeau se dit « upohār ». J'ai acheté se dit à la fin.",
+   "say": {
+    "upohār": "উপহার"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "poisson séché aussi",
+     "শুঁটকিও"
+    ],
+    [
+     "avoir acheté",
+     "কিনলাম"
+    ]
+   ],
+   "note": "Le poisson séché se dit « shuṃṭki ». On ajoute un o pour dire aussi.",
+   "say": {
+    "shuṃṭki": "শুঁটকি"
+   }
+  },
+  {
+   "words": [
+    [
+     "dans le sac",
+     "ব্যাগে"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "odeur",
+     "গন্ধ"
+    ]
+   ],
+   "note": "Dans le sac se dit « byāge ». La phrase n'a pas de verbe.",
+   "say": {
+    "byāge": "ব্যাগে"
+   }
+  },
+  {
+   "words": [
+    [
+     "bus",
+     "বাস"
+    ],
+    [
+     "matin",
+     "সকাল"
+    ],
+    [
+     "à huit heures",
+     "আটটায়"
+    ],
+    [
+     "partir",
+     "ছাড়বে"
+    ]
+   ],
+   "note": "À huit heures se dit « āṭṭāy ». Le matin se dit juste avant.",
+   "say": {
+    "āṭṭāy": "আটটায়"
+   }
+  },
+  {
+   "words": [
+    [
+     "de la mer",
+     "সমুদ্রের"
+    ],
+    [
+     "parole",
+     "কথা"
+    ],
+    [
+     "beaucoup",
+     "খুব"
+    ],
+    [
+     "dans l'esprit",
+     "মনে"
+    ],
+    [
+     "tomber",
+     "পড়বে"
+    ]
+   ],
+   "note": "Manquer se dit tomber dans l'esprit. Cela donne « mone poṛbe ».",
+   "say": {
+    "mone poṛbe": "মনে পড়বে"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "এই"
+    ],
+    [
+     "le voyage",
+     "ভ্রমণটা"
+    ],
+    [
+     "vraiment",
+     "সত্যিই"
+    ],
+    [
+     "beau",
+     "সুন্দর"
+    ],
+    [
+     "être",
+     "ছিল"
+    ]
+   ],
+   "note": "Vraiment se dit « shottii ». Était se dit à la fin.",
+   "say": {
+    "shottii": "সত্যিই"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "আমরা"
+    ],
+    [
+     "prochaine",
+     "আগামী"
+    ],
+    [
+     "année",
+     "বছর"
+    ],
+    [
+     "encore",
+     "আবার"
+    ],
+    [
+     "venir",
+     "আসব"
+    ]
+   ],
+   "note": "L'année se dit « bochhor ». Prochaine se dit juste avant.",
+   "say": {
+    "bochhor": "বছর"
+   }
+  },
+  {
+   "words": [
+    [
+     "adieu",
+     "বিদায়"
+    ],
+    [
+     "Cox's Bazar",
+     "কক্সবাজার"
+    ]
+   ],
+   "note": "Adieu se dit « bidāy ». On l'emploie pour un départ assez long.",
+   "say": {
+    "bidāy": "বিদায়"
+   }
+  }
+ ],
+ "0-1-19": [
+  {
+   "words": [
+    [
+     "ce",
+     "এই"
+    ],
+    [
+     "du module",
+     "মডিউলের"
+    ],
+    [
+     "avant",
+     "আগে"
+    ],
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "du voyage",
+     "ভ্রমণের"
+    ],
+    [
+     "mot",
+     "শব্দ"
+    ],
+    [
+     "savoir",
+     "জানতাম"
+    ],
+    [
+     "non",
+     "না"
+    ]
+   ],
+   "note": "Avant se dit « āge ». Il se place après le mot, qui prend la terminaison de.",
+   "say": {
+    "āge": "আগে"
+   }
+  },
+  {
+   "words": [
+    [
+     "maintenant",
+     "এখন"
+    ],
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "en bengali",
+     "বাংলায়"
+    ],
+    [
+     "billet",
+     "টিকিট"
+    ],
+    [
+     "acheter",
+     "কিনতে"
+    ],
+    [
+     "pouvoir",
+     "পারি"
+    ]
+   ],
+   "note": "Le billet se dit « ṭikiṭ ». Je peux acheter se dit acheter, puis pouvoir.",
+   "say": {
+    "ṭikiṭ": "টিকিট"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "prix aussi",
+     "দামও"
+    ],
+    [
+     "question",
+     "জিজ্ঞেস"
+    ],
+    [
+     "faire",
+     "করতে"
+    ],
+    [
+     "pouvoir",
+     "পারি"
+    ]
+   ],
+   "note": "Demander se dit faire question. Cela donne « jiggesh korte ».",
+   "say": {
+    "jiggesh korte": "জিজ্ঞেস করতে"
+   }
+  },
+  {
+   "words": [
+    [
+     "du voyage",
+     "যাত্রার"
+    ],
+    [
+     "avant",
+     "আগে"
+    ],
+    [
+     "billet",
+     "টিকিট"
+    ],
+    [
+     "acheter",
+     "কিনুন"
+    ]
+   ],
+   "note": "Achetez se dit « kinun ». C'est la forme polie pour conseiller.",
+   "say": {
+    "kinun": "কিনুন"
+   }
+  },
+  {
+   "words": [
+    [
+     "de manger",
+     "খাওয়ার"
+    ],
+    [
+     "après",
+     "পরে"
+    ],
+    [
+     "sur la plage",
+     "বিচে"
+    ],
+    [
+     "un peu",
+     "একটু"
+    ],
+    [
+     "marcher",
+     "হাঁটি"
+    ]
+   ],
+   "note": "Après se dit « pore ». Comme avant, il vient après le mot.",
+   "say": {
+    "pore": "পরে"
+   }
+  },
+  {
+   "words": [
+    [
+     "deux",
+     "দুই"
+    ],
+    [
+     "jour",
+     "দিন"
+    ],
+    [
+     "après",
+     "পরে"
+    ],
+    [
+     "nous",
+     "আমরা"
+    ],
+    [
+     "Saint Martin",
+     "সেন্ট মার্টিন"
+    ],
+    [
+     "être allé",
+     "গেলাম"
+    ]
+   ],
+   "note": "Deux jours après se dit « dui din pore ». Le jour reste au singulier.",
+   "say": {
+    "dui din pore": "দুই দিন পরে"
+   }
+  },
+  {
+   "words": [
+    [
+     "bengali",
+     "বাংলা"
+    ],
+    [
+     "chaque jour",
+     "প্রতিদিন"
+    ],
+    [
+     "plus",
+     "আরও"
+    ],
+    [
+     "facile",
+     "সহজ"
+    ],
+    [
+     "devenir",
+     "হচ্ছে"
+    ]
+   ],
+   "note": "Plus se dit ici « āro ». Il sert à dire encore plus.",
+   "say": {
+    "āro": "আরও"
+   }
+  },
+  {
+   "words": [
+    [
+     "suivant",
+     "পরের"
+    ],
+    [
+     "du module",
+     "মডিউলের"
+    ],
+    [
+     "avant",
+     "আগে"
+    ],
+    [
+     "un peu",
+     "একটু"
+    ],
+    [
+     "pratique",
+     "অনুশীলন"
+    ],
+    [
+     "faire",
+     "করি"
+    ]
+   ],
+   "note": "Pratiquer se dit faire de la pratique. Cela donne « onushīlon kori ».",
+   "say": {
+    "onushīlon kori": "অনুশীলন করি"
+   }
+  },
+  {
+   "words": [
+    [
+     "après ça",
+     "এরপর"
+    ],
+    [
+     "nous",
+     "আমরা"
+    ],
+    [
+     "des gens",
+     "মানুষের"
+    ],
+    [
+     "avec",
+     "সাথে"
+    ],
+    [
+     "parole",
+     "কথা"
+    ],
+    [
+     "dire",
+     "বলব"
+    ]
+   ],
+   "note": "Parler se dit dire des paroles. Cela donne « kothā bolbo ».",
+   "say": {
+    "kothā bolbo": "কথা বলব"
+   }
+  },
+  {
+   "words": [
+    [
+     "bravo",
+     "সাবাশ"
+    ],
+    [
+     "encore",
+     "আবার"
+    ],
+    [
+     "rencontre",
+     "দেখা"
+    ],
+    [
+     "être",
+     "হবে"
+    ]
+   ],
+   "note": "Bravo se dit « shābāsh ». On le dit pour féliciter quelqu'un.",
+   "say": {
+    "shābāsh": "সাবাশ"
+   }
+  }
+ ]
+}

@@ -1,0 +1,4062 @@
+{
+ "0-0-0": [
+  {
+   "words": [
+    [
+     "bienvenue",
+     "أَهْلًا"
+    ],
+    [
+     "et aisance",
+     "وَسَهْلًا"
+    ],
+    [
+     "à",
+     "فِي"
+    ],
+    [
+     "Amman",
+     "عَمَّانَ"
+    ]
+   ],
+   "note": "Pour accueillir quelqu'un, on utilise une formule figée de deux mots. Bienvenue se dit « ahlan wa-sahlan ».",
+   "say": {
+    "ahlan wa-sahlan": "أَهْلًا وَسَهْلًا"
+   }
+  },
+  {
+   "words": [
+    [
+     "matin",
+     "صَبَاحُ"
+    ],
+    [
+     "du bien",
+     "الْخَيْرِ"
+    ],
+    [
+     "mon nom",
+     "اِسْمِي"
+    ],
+    [
+     "Karim",
+     "كَرِيمٌ"
+    ]
+   ],
+   "note": "Pour se présenter, on dit simplement mon nom, puis son prénom. Mon nom se dit « ismī ».",
+   "say": {
+    "ismī": "اِسْمِي"
+   }
+  },
+  {
+   "words": [
+    [
+     "j'apprends",
+     "أَتَعَلَّمُ"
+    ],
+    [
+     "l'arabe",
+     "الْعَرَبِيَّةَ"
+    ]
+   ],
+   "note": "Le verbe contient déjà le sujet, on ne dit pas je à part. J'apprends se dit « ataʿallamu ».",
+   "say": {
+    "ataʿallamu": "أَتَعَلَّمُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "l'arabe",
+     "الْعَرَبِيَّةُ"
+    ],
+    [
+     "langue",
+     "لُغَةٌ"
+    ],
+    [
+     "belle",
+     "جَمِيلَةٌ"
+    ]
+   ],
+   "note": "L'adjectif se place après le nom. Une belle langue se dit « lughatun jamīlatun ».",
+   "say": {
+    "lughatun jamīlatun": "لُغَةٌ جَمِيلَةٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "Amman",
+     "عَمَّانُ"
+    ],
+    [
+     "ville",
+     "مَدِينَةٌ"
+    ],
+    [
+     "grande",
+     "كَبِيرَةٌ"
+    ]
+   ],
+   "note": "Le petit son n à la fin du mot marque un nom indéfini, comme un ou une. Ville se dit « madīnatun ».",
+   "say": {
+    "madīnatun": "مَدِينَةٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "la citadelle",
+     "الْقَلْعَةُ"
+    ],
+    [
+     "là-bas",
+     "هُنَاكَ"
+    ]
+   ],
+   "note": "On place là-bas juste après le nom, sans verbe. Là-bas se dit « hunāka ».",
+   "say": {
+    "hunāka": "هُنَاكَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "soir",
+     "مَسَاءُ"
+    ],
+    [
+     "du bien",
+     "الْخَيْرِ"
+    ],
+    [
+     "petit mot d'appel",
+     "يَا"
+    ],
+    [
+     "Leïla",
+     "لَيْلَى"
+    ]
+   ],
+   "note": "Pour dire bonsoir, on souhaite un soir de bien. Bonsoir se dit « masāʾu al-khayri ».",
+   "say": {
+    "masāʾu al-khayri": "مَسَاءُ الْخَيْرِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le temps",
+     "الْجَوُّ"
+    ],
+    [
+     "beau",
+     "جَمِيلٌ"
+    ],
+    [
+     "à",
+     "فِي"
+    ],
+    [
+     "Amman",
+     "عَمَّانَ"
+    ]
+   ],
+   "note": "Pour parler du temps qu'il fait, on dit littéralement l'air est beau. Le temps se dit « al-jawwu ».",
+   "say": {
+    "al-jawwu": "الْجَوُّ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le livre",
+     "الْكِتَابُ"
+    ],
+    [
+     "ici",
+     "هُنَا"
+    ]
+   ],
+   "note": "L'article s'accroche au début du nom, comme le en français. Le livre se dit « al-kitābu ».",
+   "say": {
+    "al-kitābu": "الْكِتَابُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "jusqu'à",
+     "إِلَى"
+    ],
+    [
+     "la rencontre",
+     "اللِّقَاءِ"
+    ],
+    [
+     "petit mot d'appel",
+     "يَا"
+    ],
+    [
+     "Karim",
+     "كَرِيمُ"
+    ]
+   ],
+   "note": "Pour appeler quelqu'un, on place un petit mot juste avant son prénom. Ce petit mot se dit « yā ».",
+   "say": {
+    "yā": "يَا"
+   }
+  }
+ ],
+ "0-0-1": [
+  {
+   "words": [
+    [
+     "je",
+     "أَنَا"
+    ],
+    [
+     "étudiant",
+     "طَالِبٌ"
+    ],
+    [
+     "à",
+     "فِي"
+    ],
+    [
+     "Amman",
+     "عَمَّانَ"
+    ]
+   ],
+   "note": "Au présent, l'arabe n'utilise pas de verbe être. On dit simplement moi étudiant. Je se dit « anā ».",
+   "say": {
+    "anā": "أَنَا"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "أَنَا"
+    ],
+    [
+     "fatigué",
+     "مُتْعَبٌ"
+    ]
+   ],
+   "note": "Fatigué se dit « mutʿabun ». Une femme ajoute un petit son a à la fin du mot.",
+   "say": {
+    "mutʿabun": "مُتْعَبٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "l'hôtel",
+     "الْفُنْدُقُ"
+    ],
+    [
+     "proche",
+     "قَرِيبٌ"
+    ],
+    [
+     "de",
+     "مِنْ"
+    ],
+    [
+     "milieu",
+     "وَسَطِ"
+    ],
+    [
+     "de la ville",
+     "الْمَدِينَةِ"
+    ]
+   ],
+   "note": "Le centre-ville se dit littéralement le milieu de la ville. Proche de se dit « qarībun min ».",
+   "say": {
+    "qarībun min": "قَرِيبٌ مِنْ"
+   }
+  },
+  {
+   "words": [
+    [
+     "la chambre",
+     "الْغُرْفَةُ"
+    ],
+    [
+     "propre",
+     "نَظِيفَةٌ"
+    ]
+   ],
+   "note": "Chambre est un mot féminin, alors l'adjectif prend aussi la finale féminine. Propre se dit ici « naẓīfatun ».",
+   "say": {
+    "naẓīfatun": "نَظِيفَةٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "employé",
+     "مُوَظَّفُ"
+    ],
+    [
+     "de l'hôtel",
+     "الْفُنْدُقِ"
+    ],
+    [
+     "gentil",
+     "لَطِيفٌ"
+    ]
+   ],
+   "note": "On colle les deux noms sans mot pour de, et seul le second prend l'article. Employé se dit « muwaẓẓafu ».",
+   "say": {
+    "muwaẓẓafu": "مُوَظَّفُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le petit-déjeuner",
+     "الْفُطُورُ"
+    ],
+    [
+     "délicieux",
+     "لَذِيذٌ"
+    ]
+   ],
+   "note": "Délicieux est un mot très utile au restaurant. Il se dit « ladhīdhun ».",
+   "say": {
+    "ladhīdhun": "لَذِيذٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "أَنَا"
+    ],
+    [
+     "dans",
+     "فِي"
+    ],
+    [
+     "l'hôtel",
+     "الْفُنْدُقِ"
+    ]
+   ],
+   "note": "Ici non plus, pas de verbe être. On dit moi dans l'hôtel. Dans se dit « fī ».",
+   "say": {
+    "fī": "فِي"
+   }
+  },
+  {
+   "words": [
+    [
+     "prix",
+     "سِعْرُ"
+    ],
+    [
+     "de la chambre",
+     "الْغُرْفَةِ"
+    ],
+    [
+     "raisonnable",
+     "مُنَاسِبٌ"
+    ]
+   ],
+   "note": "Le prix se dit « siʿru ». On le place juste devant la chose dont on parle.",
+   "say": {
+    "siʿru": "سِعْرُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "أَنَا"
+    ],
+    [
+     "Sami",
+     "سَامِي"
+    ],
+    [
+     "de",
+     "مِنْ"
+    ],
+    [
+     "Paris",
+     "بَارِيسَ"
+    ]
+   ],
+   "note": "Pour dire d'où l'on vient, on utilise le petit mot de. De se dit « min ».",
+   "say": {
+    "min": "مِنْ"
+   }
+  },
+  {
+   "words": [
+    [
+     "l'ascenseur",
+     "الْمِصْعَدُ"
+    ],
+    [
+     "là-bas",
+     "هُنَاكَ"
+    ]
+   ],
+   "note": "L'ascenseur se dit « al-miṣʿadu ». Le mot vient du verbe monter.",
+   "say": {
+    "al-miṣʿadu": "الْمِصْعَدُ"
+   }
+  }
+ ],
+ "0-0-2": [
+  {
+   "words": [
+    [
+     "milieu",
+     "وَسَطُ"
+    ],
+    [
+     "de la ville",
+     "الْمَدِينَةِ"
+    ],
+    [
+     "bondé",
+     "مُزْدَحِمٌ"
+    ]
+   ],
+   "note": "Bondé se dit « muzdaḥimun ». On l'entend souvent en ville aux heures de pointe.",
+   "say": {
+    "muzdaḥimun": "مُزْدَحِمٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le thé",
+     "الشَّايُ"
+    ],
+    [
+     "chaud",
+     "سَاخِنٌ"
+    ]
+   ],
+   "note": "Devant certaines consonnes, le l de l'article disparaît et la consonne se double. Le thé se dit « ash-shāyu ».",
+   "say": {
+    "ash-shāyu": "الشَّايُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le café",
+     "الْقَهْوَةُ"
+    ],
+    [
+     "chaude",
+     "سَاخِنَةٌ"
+    ],
+    [
+     "aussi",
+     "أَيْضًا"
+    ]
+   ],
+   "note": "Café est féminin en arabe. Chaud devient donc « sākhinatun ».",
+   "say": {
+    "sākhinatun": "سَاخِنَةٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "la rue",
+     "الشَّارِعُ"
+    ],
+    [
+     "longue",
+     "طَوِيلٌ"
+    ]
+   ],
+   "note": "Rue est masculin en arabe, donc l'adjectif reste au masculin. Long se dit « ṭawīlun ».",
+   "say": {
+    "ṭawīlun": "طَوِيلٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le marché",
+     "السُّوقُ"
+    ],
+    [
+     "ouvert",
+     "مَفْتُوحٌ"
+    ]
+   ],
+   "note": "Devant le son s, l'article se fond aussi dans le mot. Le marché se dit « as-sūqu ».",
+   "say": {
+    "as-sūqu": "السُّوقُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le restaurant",
+     "الْمَطْعَمُ"
+    ],
+    [
+     "petit",
+     "صَغِيرٌ"
+    ]
+   ],
+   "note": "Devant le son m, on entend bien le l de l'article. Le restaurant se dit « al-maṭʿamu ».",
+   "say": {
+    "al-maṭʿamu": "الْمَطْعَمُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le pain",
+     "الْخُبْزُ"
+    ],
+    [
+     "frais",
+     "طَازَجٌ"
+    ]
+   ],
+   "note": "Le pain accompagne chaque repas en Jordanie. Le pain se dit « al-khubzu ».",
+   "say": {
+    "al-khubzu": "الْخُبْزُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le houmous",
+     "الْحُمُّصُ"
+    ],
+    [
+     "délicieux",
+     "لَذِيذٌ"
+    ]
+   ],
+   "note": "Le mot houmous veut d'abord dire pois chiches en arabe. Le houmous se dit « al-ḥummuṣu ».",
+   "say": {
+    "al-ḥummuṣu": "الْحُمُّصُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "les falafels",
+     "الْفَلَافِلُ"
+    ],
+    [
+     "bon marché",
+     "رَخِيصَةٌ"
+    ]
+   ],
+   "note": "Les falafels sont vus comme un pluriel de choses, et l'adjectif prend la finale féminine. Bon marché se dit « rakhīṣatun ».",
+   "say": {
+    "rakhīṣatun": "رَخِيصَةٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "la nuit",
+     "اللَّيْلُ"
+    ],
+    [
+     "calme",
+     "هَادِئٌ"
+    ]
+   ],
+   "note": "Devant le son l, l'article se fond et on entend un l double. La nuit se dit « al-laylu ».",
+   "say": {
+    "al-laylu": "اللَّيْلُ"
+   }
+  }
+ ],
+ "0-0-3": [
+  {
+   "words": [
+    [
+     "il",
+     "هُوَ"
+    ],
+    [
+     "chauffeur",
+     "سَائِقُ"
+    ],
+    [
+     "de taxi",
+     "تَاكْسِي"
+    ]
+   ],
+   "note": "Pour il, on dit « huwa ». Ensuite vient directement le métier, sans verbe être.",
+   "say": {
+    "huwa": "هُوَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "هِيَ"
+    ],
+    [
+     "professeure",
+     "مُعَلِّمَةٌ"
+    ]
+   ],
+   "note": "Pour elle, on dit « hiya ». Le métier prend la finale féminine en a.",
+   "say": {
+    "hiya": "هِيَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "أَنْتَ"
+    ],
+    [
+     "gentil",
+     "لَطِيفٌ"
+    ]
+   ],
+   "note": "L'arabe a deux tu, un pour un homme et un pour une femme. Pour un homme, on dit « anta ».",
+   "say": {
+    "anta": "أَنْتَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "أَنْتِ"
+    ],
+    [
+     "gentille",
+     "لَطِيفَةٌ"
+    ],
+    [
+     "petit mot d'appel",
+     "يَا"
+    ],
+    [
+     "Leïla",
+     "لَيْلَى"
+    ]
+   ],
+   "note": "Quand on parle à une femme, le tu finit par un son i. On dit « anti ».",
+   "say": {
+    "anti": "أَنْتِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "أَنَا"
+    ],
+    [
+     "pressé",
+     "مُسْتَعْجِلٌ"
+    ]
+   ],
+   "note": "Pressé se dit « mustaʿjilun ». Une femme dirait le même mot avec un son a à la fin.",
+   "say": {
+    "mustaʿjilun": "مُسْتَعْجِلٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "هِيَ"
+    ],
+    [
+     "de",
+     "مِنْ"
+    ],
+    [
+     "Amman",
+     "عَمَّانَ"
+    ]
+   ],
+   "note": "Amman commence par un son de gorge propre à l'arabe. On dit « ʿammāna ».",
+   "say": {
+    "ʿammāna": "عَمَّانَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "هِيَ"
+    ],
+    [
+     "dans",
+     "فِي"
+    ],
+    [
+     "rue",
+     "شَارِعِ"
+    ],
+    [
+     "Rainbow",
+     "الرَّيْنْبُو"
+    ]
+   ],
+   "note": "On dit rue puis le nom, sans mot pour de. Rue se dit « shāriʿi ».",
+   "say": {
+    "shāriʿi": "شَارِعِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "أَنْتِ"
+    ],
+    [
+     "en retard",
+     "مُتَأَخِّرَةٌ"
+    ],
+    [
+     "petit mot d'appel",
+     "يَا"
+    ],
+    [
+     "Rania",
+     "رَانِيَا"
+    ]
+   ],
+   "note": "Comme on parle à une femme, en retard prend la finale féminine. On dit « mutaʾakhkhiratun ».",
+   "say": {
+    "mutaʾakhkhiratun": "مُتَأَخِّرَةٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "أَنَا"
+    ],
+    [
+     "prêt",
+     "جَاهِزٌ"
+    ]
+   ],
+   "note": "Prêt se dit « jāhizun ». C'est un mot très courant pour dire qu'on peut partir.",
+   "say": {
+    "jāhizun": "جَاهِزٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le taxi",
+     "التَّاكْسِي"
+    ],
+    [
+     "jaune",
+     "أَصْفَرُ"
+    ]
+   ],
+   "note": "Les couleurs ont une forme bien à elles. Jaune se dit « aṣfaru ».",
+   "say": {
+    "aṣfaru": "أَصْفَرُ"
+   }
+  }
+ ],
+ "0-0-4": [
+  {
+   "words": [
+    [
+     "il",
+     "هُوَ"
+    ],
+    [
+     "jordanien",
+     "أُرْدُنِيٌّ"
+    ],
+    [
+     "et elle",
+     "وَهِيَ"
+    ],
+    [
+     "jordanienne",
+     "أُرْدُنِيَّةٌ"
+    ]
+   ],
+   "note": "Pour passer au féminin, on ajoute un son a à la fin. Jordanienne se dit « urduniyyatun ».",
+   "say": {
+    "urduniyyatun": "أُرْدُنِيَّةٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "Karim",
+     "كَرِيمٌ"
+    ],
+    [
+     "étudiant",
+     "طَالِبٌ"
+    ],
+    [
+     "et Leïla",
+     "وَلَيْلَى"
+    ],
+    [
+     "étudiante",
+     "طَالِبَةٌ"
+    ]
+   ],
+   "note": "Le mot et se colle au mot qui suit. Il se dit « wa ».",
+   "say": {
+    "wa": "وَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le café",
+     "الْمَقْهَى"
+    ],
+    [
+     "petit",
+     "صَغِيرٌ"
+    ]
+   ],
+   "note": "Ici, café désigne le lieu, pas la boisson. Le café où l'on s'assoit se dit « al-maqhā ».",
+   "say": {
+    "al-maqhā": "الْمَقْهَى"
+   }
+  },
+  {
+   "words": [
+    [
+     "la ville",
+     "الْمَدِينَةُ"
+    ],
+    [
+     "belle",
+     "جَمِيلَةٌ"
+    ]
+   ],
+   "note": "Ville est féminin, alors belle prend la finale a. Belle se dit « jamīlatun ».",
+   "say": {
+    "jamīlatun": "جَمِيلَةٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le professeur",
+     "الْمُعَلِّمُ"
+    ],
+    [
+     "français",
+     "فَرَنْسِيٌّ"
+    ]
+   ],
+   "note": "Français se forme comme jordanien, avec un son i à la fin. On dit « faransiyyun ».",
+   "say": {
+    "faransiyyun": "فَرَنْسِيٌّ"
+   }
+  },
+  {
+   "words": [
+    [
+     "la professeure",
+     "الْمُعَلِّمَةُ"
+    ],
+    [
+     "française",
+     "فَرَنْسِيَّةٌ"
+    ]
+   ],
+   "note": "Le nom et l'adjectif prennent tous les deux la finale féminine. La professeure se dit « al-muʿallimatu ».",
+   "say": {
+    "al-muʿallimatu": "الْمُعَلِّمَةُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le serveur",
+     "النَّادِلُ"
+    ],
+    [
+     "rapide",
+     "سَرِيعٌ"
+    ]
+   ],
+   "note": "Devant le son n, le l de l'article se fond. Le serveur se dit « an-nādilu ».",
+   "say": {
+    "an-nādilu": "النَّادِلُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "la serveuse",
+     "النَّادِلَةُ"
+    ],
+    [
+     "rapide",
+     "سَرِيعَةٌ"
+    ],
+    [
+     "aussi",
+     "أَيْضًا"
+    ]
+   ],
+   "note": "Aussi se dit « ayḍan ». On le place à la fin de la phrase.",
+   "say": {
+    "ayḍan": "أَيْضًا"
+   }
+  },
+  {
+   "words": [
+    [
+     "l'appartement",
+     "الشَّقَّةُ"
+    ],
+    [
+     "neuf",
+     "جَدِيدَةٌ"
+    ]
+   ],
+   "note": "Appartement est féminin en arabe. Neuf devient donc « jadīdatun ».",
+   "say": {
+    "jadīdatun": "جَدِيدَةٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "rue",
+     "شَارِعُ"
+    ],
+    [
+     "Rainbow",
+     "الرَّيْنْبُو"
+    ],
+    [
+     "beau",
+     "جَمِيلٌ"
+    ],
+    [
+     "très",
+     "جِدًّا"
+    ],
+    [
+     "dans",
+     "فِي"
+    ],
+    [
+     "le soir",
+     "الْمَسَاءِ"
+    ]
+   ],
+   "note": "Très se place après l'adjectif, pas avant. Très se dit « jiddan ».",
+   "say": {
+    "jiddan": "جِدًّا"
+   }
+  }
+ ],
+ "0-0-5": [
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "هَلْ"
+    ],
+    [
+     "tu",
+     "أَنْتَ"
+    ],
+    [
+     "fatigué",
+     "مُتْعَبٌ"
+    ]
+   ],
+   "note": "Pour une question à laquelle on répond par oui ou non, on met un petit mot au début. Ce mot se dit « hal ».",
+   "say": {
+    "hal": "هَلْ"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "هَلْ"
+    ],
+    [
+     "tu",
+     "أَنْتَ"
+    ],
+    [
+     "jordanien",
+     "أُرْدُنِيٌّ"
+    ]
+   ],
+   "note": "Après le mot de question, l'ordre des mots ne change pas. Tu es se dit simplement « anta ».",
+   "say": {
+    "anta": "أَنْتَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "نَعَمْ"
+    ],
+    [
+     "je",
+     "أَنَا"
+    ],
+    [
+     "de",
+     "مِنْ"
+    ],
+    [
+     "Amman",
+     "عَمَّانَ"
+    ]
+   ],
+   "note": "Pour répondre oui, on dit « naʿam ». C'est la forme polie et standard.",
+   "say": {
+    "naʿam": "نَعَمْ"
+   }
+  },
+  {
+   "words": [
+    [
+     "thé",
+     "شَايٌ"
+    ],
+    [
+     "à la menthe",
+     "بِالنَّعْنَاعِ"
+    ]
+   ],
+   "note": "On peut poser une question juste avec la voix qui monte. À la menthe se dit « bi-n-naʿnāʿi ».",
+   "say": {
+    "bi-n-naʿnāʿi": "بِالنَّعْنَاعِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "نَعَمْ"
+    ],
+    [
+     "de",
+     "مِنْ"
+    ],
+    [
+     "ta faveur",
+     "فَضْلِكَ"
+    ]
+   ],
+   "note": "S'il te plaît se dit littéralement de ta faveur. On dit « min faḍlika ».",
+   "say": {
+    "min faḍlika": "مِنْ فَضْلِكَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "هَلْ"
+    ],
+    [
+     "il",
+     "هُوَ"
+    ],
+    [
+     "loin",
+     "بَعِيدٌ"
+    ]
+   ],
+   "note": "Pour demander si c'est loin, on dit est-ce que il loin. Loin se dit « baʿīdun ».",
+   "say": {
+    "baʿīdun": "بَعِيدٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "لَا"
+    ],
+    [
+     "il",
+     "هُوَ"
+    ],
+    [
+     "proche",
+     "قَرِيبٌ"
+    ],
+    [
+     "très",
+     "جِدًّا"
+    ]
+   ],
+   "note": "Non se dit « lā ». C'est un mot court et très fréquent.",
+   "say": {
+    "lā": "لَا"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "أَنْتَ"
+    ],
+    [
+     "étudiant",
+     "طَالِبٌ"
+    ]
+   ],
+   "note": "Sans le mot de question, seule la voix qui monte indique la question. Étudiant se dit « ṭālibun ».",
+   "say": {
+    "ṭālibun": "طَالِبٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "هَلْ"
+    ],
+    [
+     "tu",
+     "أَنْتِ"
+    ],
+    [
+     "prête",
+     "جَاهِزَةٌ"
+    ],
+    [
+     "petit mot d'appel",
+     "يَا"
+    ],
+    [
+     "Leïla",
+     "لَيْلَى"
+    ]
+   ],
+   "note": "À une femme, prête prend la finale a. Prête se dit « jāhizatun ».",
+   "say": {
+    "jāhizatun": "جَاهِزَةٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "هَلِ"
+    ],
+    [
+     "la knafeh",
+     "الْكُنَافَةُ"
+    ],
+    [
+     "chaude",
+     "سَاخِنَةٌ"
+    ]
+   ],
+   "note": "Devant l'article, le mot de question prend un petit i pour bien enchaîner. On dit « hali al-kunāfatu ».",
+   "say": {
+    "hali al-kunāfatu": "هَلِ الْكُنَافَةُ"
+   }
+  }
+ ],
+ "0-0-6": [
+  {
+   "words": [
+    [
+     "celle-ci",
+     "هَذِهِ"
+    ],
+    [
+     "citadelle",
+     "قَلْعَةُ"
+    ],
+    [
+     "d'Amman",
+     "عَمَّانَ"
+    ]
+   ],
+   "note": "Citadelle est féminin, donc on utilise la forme féminine de ceci. Elle se dit « hādhihi ».",
+   "say": {
+    "hādhihi": "هَذِهِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "هَذَا"
+    ],
+    [
+     "monument",
+     "مَعْلَمٌ"
+    ],
+    [
+     "ancien",
+     "قَدِيمٌ"
+    ]
+   ],
+   "note": "Pour un mot masculin, ceci se dit « hādhā ». On l'emploie pour présenter une chose.",
+   "say": {
+    "hādhā": "هَذَا"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "هَذَا"
+    ],
+    [
+     "le guide",
+     "الْمُرْشِدُ"
+    ],
+    [
+     "jordanien",
+     "أُرْدُنِيٌّ"
+    ]
+   ],
+   "note": "Pour dire ce guide, on met ceci devant le nom avec l'article. Le guide se dit « al-murshidu ».",
+   "say": {
+    "al-murshidu": "الْمُرْشِدُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "هَذَا"
+    ],
+    [
+     "la vue",
+     "الْمَنْظَرُ"
+    ],
+    [
+     "magnifique",
+     "رَائِعٌ"
+    ]
+   ],
+   "note": "Vue est masculin en arabe, d'où la forme masculine. Magnifique se dit « rāʾiʿun ».",
+   "say": {
+    "rāʾiʿun": "رَائِعٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "celle-ci",
+     "هَذِهِ"
+    ],
+    [
+     "Leïla",
+     "لَيْلَى"
+    ]
+   ],
+   "note": "Pour présenter une femme, on dit simplement celle-ci, puis son prénom. Celle-ci se dit « hādhihi ».",
+   "say": {
+    "hādhihi": "هَذِهِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "celui-ci",
+     "هَذَا"
+    ],
+    [
+     "Karim",
+     "كَرِيمٌ"
+    ]
+   ],
+   "note": "Pour présenter un homme, on utilise la forme masculine. Celui-ci se dit « hādhā ».",
+   "say": {
+    "hādhā": "هَذَا"
+   }
+  },
+  {
+   "words": [
+    [
+     "cette",
+     "هَذِهِ"
+    ],
+    [
+     "la ville",
+     "الْمَدِينَةُ"
+    ],
+    [
+     "ancienne",
+     "قَدِيمَةٌ"
+    ]
+   ],
+   "note": "Ville est féminin, donc ancienne prend la finale a. Ancienne se dit « qadīmatun ».",
+   "say": {
+    "qadīmatun": "قَدِيمَةٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "هَذِهِ"
+    ],
+    [
+     "billet",
+     "تَذْكِرَةُ"
+    ],
+    [
+     "d'entrée",
+     "دُخُولٍ"
+    ]
+   ],
+   "note": "Billet se dit « tadhkiratu ». C'est un mot féminin, d'où la forme féminine de ceci.",
+   "say": {
+    "tadhkiratu": "تَذْكِرَةُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "هَذَا"
+    ],
+    [
+     "le musée",
+     "الْمَتْحَفُ"
+    ],
+    [
+     "petit",
+     "صَغِيرٌ"
+    ]
+   ],
+   "note": "Ceci suivi d'un nom avec article veut dire ce. Le musée se dit « al-matḥafu ».",
+   "say": {
+    "al-matḥafu": "الْمَتْحَفُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "cette",
+     "هَذِهِ"
+    ],
+    [
+     "la photo",
+     "الصُّورَةُ"
+    ],
+    [
+     "belle",
+     "جَمِيلَةٌ"
+    ]
+   ],
+   "note": "Photo est féminin, et le son s de l'article se fond. La photo se dit « aṣ-ṣūratu ».",
+   "say": {
+    "aṣ-ṣūratu": "الصُّورَةُ"
+   }
+  }
+ ],
+ "0-0-7": [
+  {
+   "words": [
+    [
+     "je ne suis pas",
+     "لَسْتُ"
+    ],
+    [
+     "fatigué",
+     "مُتْعَبًا"
+    ]
+   ],
+   "note": "Pour je ne suis pas, on dit un seul mot. Il se dit « lastu ».",
+   "say": {
+    "lastu": "لَسْتُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le repas",
+     "الطَّعَامُ"
+    ],
+    [
+     "n'est pas",
+     "لَيْسَ"
+    ],
+    [
+     "cher",
+     "غَالِيًا"
+    ]
+   ],
+   "note": "Pour il n'est pas, on dit « laysa ». Après lui, l'adjectif finit par un son an.",
+   "say": {
+    "laysa": "لَيْسَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le restaurant",
+     "الْمَطْعَمُ"
+    ],
+    [
+     "n'est pas",
+     "لَيْسَ"
+    ],
+    [
+     "loin",
+     "بَعِيدًا"
+    ]
+   ],
+   "note": "Après la négation, loin devient « baʿīdan ». Le son final passe de oune à ane.",
+   "say": {
+    "baʿīdan": "بَعِيدًا"
+   }
+  },
+  {
+   "words": [
+    [
+     "je ne suis pas",
+     "لَسْتُ"
+    ],
+    [
+     "jordanien",
+     "أُرْدُنِيًّا"
+    ],
+    [
+     "je",
+     "أَنَا"
+    ],
+    [
+     "français",
+     "فَرَنْسِيٌّ"
+    ]
+   ],
+   "note": "Pour corriger, on enchaîne la négation puis l'affirmation. Je suis français se dit « anā faransiyyun ».",
+   "say": {
+    "anā faransiyyun": "أَنَا فَرَنْسِيٌّ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le houmous",
+     "الْحُمُّصُ"
+    ],
+    [
+     "n'est pas",
+     "لَيْسَ"
+    ],
+    [
+     "froid",
+     "بَارِدًا"
+    ]
+   ],
+   "note": "Froid se dit ici « bāridan ». C'est la forme qu'il prend après la négation.",
+   "say": {
+    "bāridan": "بَارِدًا"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu n'es pas",
+     "لَسْتَ"
+    ],
+    [
+     "en retard",
+     "مُتَأَخِّرًا"
+    ]
+   ],
+   "note": "La négation change selon la personne. Tu n'es pas se dit « lasta ».",
+   "say": {
+    "lasta": "لَسْتَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "هِيَ"
+    ],
+    [
+     "n'est pas",
+     "لَيْسَتْ"
+    ],
+    [
+     "ici",
+     "هُنَا"
+    ]
+   ],
+   "note": "Pour elle, la négation prend un son t à la fin. Elle n'est pas se dit « laysat ».",
+   "say": {
+    "laysat": "لَيْسَتْ"
+   }
+  },
+  {
+   "words": [
+    [
+     "la table",
+     "الطَّاوِلَةُ"
+    ],
+    [
+     "n'est pas",
+     "لَيْسَتْ"
+    ],
+    [
+     "libre",
+     "فَارِغَةً"
+    ]
+   ],
+   "note": "Table est féminin, donc la négation est au féminin. Libre se dit ici « fārighatan ».",
+   "say": {
+    "fārighatan": "فَارِغَةً"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "هَذَا"
+    ],
+    [
+     "n'est pas",
+     "لَيْسَ"
+    ],
+    [
+     "épicé",
+     "حَارًّا"
+    ]
+   ],
+   "note": "Le même mot veut dire épicé et chaud, pour la météo. Ici, on dit « ḥārran ».",
+   "say": {
+    "ḥārran": "حَارًّا"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu n'es pas",
+     "لَسْتِ"
+    ],
+    [
+     "affamée",
+     "جَائِعَةً"
+    ],
+    [
+     "petit mot d'appel",
+     "يَا"
+    ],
+    [
+     "Leïla",
+     "لَيْلَى"
+    ]
+   ],
+   "note": "Pour avoir faim, l'arabe dit être affamé. Affamée se dit « jāʾiʿatan ».",
+   "say": {
+    "jāʾiʿatan": "جَائِعَةً"
+   }
+  }
+ ],
+ "0-0-8": [
+  {
+   "words": [
+    [
+     "ceci",
+     "هَذِهِ"
+    ],
+    [
+     "mon appartement",
+     "شَقَّتِي"
+    ]
+   ],
+   "note": "Mon se colle à la fin du nom avec un son i. Mon appartement se dit « shaqqatī ».",
+   "say": {
+    "shaqqatī": "شَقَّتِي"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "هَذَا"
+    ],
+    [
+     "mon livre",
+     "كِتَابِي"
+    ]
+   ],
+   "note": "Le son i final suffit pour dire mon. Mon livre se dit « kitābī ».",
+   "say": {
+    "kitābī": "كِتَابِي"
+   }
+  },
+  {
+   "words": [
+    [
+     "ton livre",
+     "كِتَابُكَ"
+    ],
+    [
+     "sur",
+     "عَلَى"
+    ],
+    [
+     "la table",
+     "الطَّاوِلَةِ"
+    ]
+   ],
+   "note": "Pour ton, quand on parle à un homme, on ajoute le son ka. Ton livre se dit « kitābuka ».",
+   "say": {
+    "kitābuka": "كِتَابُكَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma chambre",
+     "غُرْفَتِي"
+    ],
+    [
+     "petite",
+     "صَغِيرَةٌ"
+    ],
+    [
+     "très",
+     "جِدًّا"
+    ]
+   ],
+   "note": "Devant le possessif, chambre fait entendre un son t. Ma chambre se dit « ghurfatī ».",
+   "say": {
+    "ghurfatī": "غُرْفَتِي"
+   }
+  },
+  {
+   "words": [
+    [
+     "ta chambre",
+     "غُرْفَتُكَ"
+    ],
+    [
+     "grande",
+     "كَبِيرَةٌ"
+    ]
+   ],
+   "note": "Mon et ton ne changent pas selon le genre du nom. Ta chambre se dit « ghurfatuka ».",
+   "say": {
+    "ghurfatuka": "غُرْفَتُكَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "sa maison",
+     "بَيْتُهُ"
+    ],
+    [
+     "à",
+     "فِي"
+    ],
+    [
+     "Amman",
+     "عَمَّانَ"
+    ]
+   ],
+   "note": "Quand c'est à lui, on ajoute le son hou. Sa maison se dit « baytuhu ».",
+   "say": {
+    "baytuhu": "بَيْتُهُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "sa cuisine",
+     "مَطْبَخُهَا"
+    ],
+    [
+     "moderne",
+     "حَدِيثٌ"
+    ]
+   ],
+   "note": "Quand c'est à elle, on ajoute le son ha. Sa cuisine se dit « maṭbakhuhā ».",
+   "say": {
+    "maṭbakhuhā": "مَطْبَخُهَا"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon voisin",
+     "جَارِي"
+    ],
+    [
+     "sympathique",
+     "لَطِيفٌ"
+    ]
+   ],
+   "note": "Mon voisin se dit « jārī ». Le possessif est collé au nom, comme toujours.",
+   "say": {
+    "jārī": "جَارِي"
+   }
+  },
+  {
+   "words": [
+    [
+     "ta fenêtre",
+     "نَافِذَتُكِ"
+    ],
+    [
+     "ouverte",
+     "مَفْتُوحَةٌ"
+    ],
+    [
+     "petit mot d'appel",
+     "يَا"
+    ],
+    [
+     "Leïla",
+     "لَيْلَى"
+    ]
+   ],
+   "note": "À une femme, ton se dit avec le son ki. Ta fenêtre se dit « nāfidhatuki ».",
+   "say": {
+    "nāfidhatuki": "نَافِذَتُكِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon balcon",
+     "شُرْفَتِي"
+    ],
+    [
+     "ensoleillé",
+     "مُشْمِسَةٌ"
+    ]
+   ],
+   "note": "Ensoleillé vient du mot soleil. Il se dit ici « mushmisatun ».",
+   "say": {
+    "mushmisatun": "مُشْمِسَةٌ"
+   }
+  }
+ ],
+ "0-0-9": [
+  {
+   "words": [
+    [
+     "ceci",
+     "هَذَا"
+    ],
+    [
+     "livre",
+     "كِتَابُ"
+    ],
+    [
+     "de l'étudiant",
+     "الطَّالِبِ"
+    ]
+   ],
+   "note": "Pour le livre de l'étudiant, on colle les deux noms, sans mot pour de. Le premier nom ne prend pas d'article. On dit « kitābu aṭ-ṭālibi ».",
+   "say": {
+    "kitābu aṭ-ṭālibi": "كِتَابُ الطَّالِبِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "هَذَا"
+    ],
+    [
+     "clé",
+     "مِفْتَاحُ"
+    ],
+    [
+     "de l'appartement",
+     "الشَّقَّةِ"
+    ]
+   ],
+   "note": "Clé se dit « miftāḥu ». Le mot vient du verbe ouvrir.",
+   "say": {
+    "miftāḥu": "مِفْتَاحُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "porte",
+     "بَابُ"
+    ],
+    [
+     "de la maison",
+     "الْبَيْتِ"
+    ],
+    [
+     "verte",
+     "أَخْضَرُ"
+    ]
+   ],
+   "note": "Porte est masculin en arabe. Vert se dit « akhḍaru ».",
+   "say": {
+    "akhḍaru": "أَخْضَرُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "propriétaire",
+     "صَاحِبُ"
+    ],
+    [
+     "de l'appartement",
+     "الشَّقَّةِ"
+    ],
+    [
+     "gentil",
+     "لَطِيفٌ"
+    ]
+   ],
+   "note": "Le propriétaire se dit littéralement le compagnon de l'appartement. Ce mot se dit « ṣāḥibu ».",
+   "say": {
+    "ṣāḥibu": "صَاحِبُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "loyer",
+     "إِيجَارُ"
+    ],
+    [
+     "de l'appartement",
+     "الشَّقَّةِ"
+    ],
+    [
+     "raisonnable",
+     "مُنَاسِبٌ"
+    ]
+   ],
+   "note": "Raisonnable se dit « munāsibun ». Il veut aussi dire convenable.",
+   "say": {
+    "munāsibun": "مُنَاسِبٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "fenêtre",
+     "نَافِذَةُ"
+    ],
+    [
+     "de la cuisine",
+     "الْمَطْبَخِ"
+    ],
+    [
+     "petite",
+     "صَغِيرَةٌ"
+    ]
+   ],
+   "note": "Le premier nom fait entendre son t devant le second. On dit « nāfidhatu al-maṭbakhi ».",
+   "say": {
+    "nāfidhatu al-maṭbakhi": "نَافِذَةُ الْمَطْبَخِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "nom",
+     "اِسْمُ"
+    ],
+    [
+     "de la rue",
+     "الشَّارِعِ"
+    ],
+    [
+     "difficile",
+     "صَعْبٌ"
+    ]
+   ],
+   "note": "Difficile se dit « ṣaʿbun ». Le mot commence par un s très appuyé.",
+   "say": {
+    "ṣaʿbun": "صَعْبٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "toit",
+     "سَطْحُ"
+    ],
+    [
+     "de l'immeuble",
+     "الْعِمَارَةِ"
+    ],
+    [
+     "grand",
+     "كَبِيرٌ"
+    ]
+   ],
+   "note": "Grand s'accorde avec le premier nom, le toit, qui est masculin. Grand se dit « kabīrun ».",
+   "say": {
+    "kabīrun": "كَبِيرٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "salon",
+     "صَالَةُ"
+    ],
+    [
+     "de Karim",
+     "كَرِيمٍ"
+    ],
+    [
+     "confortable",
+     "مُرِيحَةٌ"
+    ]
+   ],
+   "note": "Avec un prénom, on colle aussi les deux noms. Le salon de Karim se dit « ṣālatu Karīmin ».",
+   "say": {
+    "ṣālatu Karīmin": "صَالَةُ كَرِيمٍ"
+   }
+  },
+  {
+   "words": [
+    [
+     "chambre",
+     "غُرْفَةُ"
+    ],
+    [
+     "de Leïla",
+     "لَيْلَى"
+    ],
+    [
+     "calme",
+     "هَادِئَةٌ"
+    ]
+   ],
+   "note": "Au féminin, pour s'accorder avec chambre, calme se dit « hādiʾatun ». C'est un mot utile pour un lieu tranquille.",
+   "say": {
+    "hādiʾatun": "هَادِئَةٌ"
+   }
+  }
+ ],
+ "0-0-10": [
+  {
+   "words": [
+    [
+     "quoi",
+     "مَا"
+    ],
+    [
+     "ceci",
+     "هَذَا"
+    ]
+   ],
+   "note": "Pour demander ce qu'est une chose, on dit quoi ceci. Quoi se dit « mā ».",
+   "say": {
+    "mā": "مَا"
+   }
+  },
+  {
+   "words": [
+    [
+     "qui",
+     "مَنْ"
+    ],
+    [
+     "ce",
+     "هَذَا"
+    ],
+    [
+     "le vendeur",
+     "الْبَائِعُ"
+    ]
+   ],
+   "note": "Pour une personne, qui se dit « man ». Il se place en tête de la question.",
+   "say": {
+    "man": "مَنْ"
+   }
+  },
+  {
+   "words": [
+    [
+     "où",
+     "أَيْنَ"
+    ],
+    [
+     "le marché",
+     "السُّوقُ"
+    ]
+   ],
+   "note": "Où se dit « ayna ». Il suffit d'ajouter le lieu juste après.",
+   "say": {
+    "ayna": "أَيْنَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "quand",
+     "مَتَى"
+    ],
+    [
+     "le rendez-vous",
+     "الْمَوْعِدُ"
+    ]
+   ],
+   "note": "Quand se dit « matā ». Comme toujours, pas de verbe être.",
+   "say": {
+    "matā": "مَتَى"
+   }
+  },
+  {
+   "words": [
+    [
+     "comment",
+     "كَيْفَ"
+    ],
+    [
+     "ton état",
+     "حَالُكَ"
+    ]
+   ],
+   "note": "Pour demander comment ça va, on dit comment ton état. Ton état se dit « ḥāluka ».",
+   "say": {
+    "ḥāluka": "حَالُكَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "quoi",
+     "مَا"
+    ],
+    [
+     "nom",
+     "اسْمُ"
+    ],
+    [
+     "ce",
+     "هٰذَا"
+    ],
+    [
+     "le café",
+     "الْمَقْهَى"
+    ]
+   ],
+   "note": "Pour demander un nom, on dit quoi le nom. Nom se dit « ismu ».",
+   "say": {
+    "ismu": "اسْمُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "où",
+     "أَيْنَ"
+    ],
+    [
+     "les tomates",
+     "الطَّمَاطِمُ"
+    ]
+   ],
+   "note": "Tomates se dit « aṭ-ṭamāṭimu ». Le mot ressemble un peu au français.",
+   "say": {
+    "aṭ-ṭamāṭimu": "الطَّمَاطِمُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "qui",
+     "مَنْ"
+    ],
+    [
+     "cette",
+     "هَذِهِ"
+    ],
+    [
+     "la dame",
+     "السَّيِّدَةُ"
+    ]
+   ],
+   "note": "Dame se dit « as-sayyidatu ». C'est aussi la façon polie de dire madame.",
+   "say": {
+    "as-sayyidatu": "السَّيِّدَةُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "comment",
+     "كَيْفَ"
+    ],
+    [
+     "le temps",
+     "الْجَوُّ"
+    ],
+    [
+     "aujourd'hui",
+     "الْيَوْمَ"
+    ]
+   ],
+   "note": "Aujourd'hui se dit littéralement le jour. On dit « al-yawma ».",
+   "say": {
+    "al-yawma": "الْيَوْمَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "où",
+     "أَيْنَ"
+    ],
+    [
+     "boutique",
+     "مَحَلُّ"
+    ],
+    [
+     "des fruits",
+     "الْفَوَاكِهِ"
+    ]
+   ],
+   "note": "Boutique se dit « maḥallu ». On le colle au nom de ce qu'on vend.",
+   "say": {
+    "maḥallu": "مَحَلُّ"
+   }
+  }
+ ],
+ "0-0-11": [
+  {
+   "words": [
+    [
+     "j'écris",
+     "أَكْتُبُ"
+    ],
+    [
+     "une lettre",
+     "رِسَالَةً"
+    ]
+   ],
+   "note": "Pour je, le verbe commence par un son a. J'écris se dit « aktubu ».",
+   "say": {
+    "aktubu": "أَكْتُبُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu écris",
+     "تَكْتُبُ"
+    ],
+    [
+     "en arabe",
+     "بِالْعَرَبِيَّةِ"
+    ]
+   ],
+   "note": "Pour tu, le verbe commence par un son t. Tu écris se dit « taktubu ».",
+   "say": {
+    "taktubu": "تَكْتُبُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "il écrit",
+     "يَكْتُبُ"
+    ],
+    [
+     "Karim",
+     "كَرِيمٌ"
+    ],
+    [
+     "dans",
+     "فِي"
+    ],
+    [
+     "son cahier",
+     "دَفْتَرِهِ"
+    ]
+   ],
+   "note": "Le verbe se place souvent avant le sujet. Il écrit se dit « yaktubu ».",
+   "say": {
+    "yaktubu": "يَكْتُبُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je bois",
+     "أَشْرَبُ"
+    ],
+    [
+     "le café",
+     "الْقَهْوَةَ"
+    ],
+    [
+     "dans",
+     "فِي"
+    ],
+    [
+     "le matin",
+     "الصَّبَاحِ"
+    ]
+   ],
+   "note": "Je bois se dit « ashrabu ». On reconnaît le son a du début, pour je.",
+   "say": {
+    "ashrabu": "أَشْرَبُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "هِيَ"
+    ],
+    [
+     "elle écrit",
+     "تَكْتُبُ"
+    ],
+    [
+     "une lettre",
+     "رِسَالَةً"
+    ],
+    [
+     "courte",
+     "قَصِيرَةً"
+    ]
+   ],
+   "note": "Pour elle, le verbe commence par un son t, comme pour tu. Elle écrit se dit aussi « taktubu ».",
+   "say": {
+    "taktubu": "تَكْتُبُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je me réveille",
+     "أَسْتَيْقِظُ"
+    ],
+    [
+     "tôt",
+     "مُبَكِّرًا"
+    ]
+   ],
+   "note": "Tôt se dit « mubakkiran ». Il se place après le verbe.",
+   "say": {
+    "mubakkiran": "مُبَكِّرًا"
+   }
+  },
+  {
+   "words": [
+    [
+     "il mange",
+     "يَأْكُلُ"
+    ],
+    [
+     "du pain",
+     "خُبْزًا"
+    ],
+    [
+     "et du houmous",
+     "وَحُمُّصًا"
+    ]
+   ],
+   "note": "Pour il, le verbe commence par un son y. Il mange se dit « yaʾkulu ».",
+   "say": {
+    "yaʾkulu": "يَأْكُلُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je lis",
+     "أَقْرَأُ"
+    ],
+    [
+     "le journal",
+     "الْجَرِيدَةَ"
+    ]
+   ],
+   "note": "Je lis se dit « aqraʾu ». Ce verbe veut aussi dire réciter.",
+   "say": {
+    "aqraʾu": "أَقْرَأُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle boit",
+     "تَشْرَبُ"
+    ],
+    [
+     "Leïla",
+     "لَيْلَى"
+    ],
+    [
+     "un café",
+     "قَهْوَةً"
+    ],
+    [
+     "à la cardamome",
+     "بِالْهَيْلِ"
+    ]
+   ],
+   "note": "En Jordanie, on parfume souvent le café à la cardamome. À la cardamome se dit « bi-l-hayli ».",
+   "say": {
+    "bi-l-hayli": "بِالْهَيْلِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "il écrit",
+     "يَكْتُبُ"
+    ],
+    [
+     "son nom",
+     "اسْمَهُ"
+    ]
+   ],
+   "note": "Le possessif pour lui se colle au nom. Son nom se dit « ismahu ».",
+   "say": {
+    "ismahu": "اسْمَهُ"
+   }
+  }
+ ],
+ "0-0-12": [
+  {
+   "words": [
+    [
+     "le livre",
+     "الْكِتَابُ"
+    ],
+    [
+     "sur",
+     "عَلَى"
+    ],
+    [
+     "le bureau",
+     "الْمَكْتَبِ"
+    ]
+   ],
+   "note": "Livre et bureau partagent trois sons de base liés à l'écriture. Le bureau se dit « al-maktabi ».",
+   "say": {
+    "al-maktabi": "الْمَكْتَبِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "l'écrivain",
+     "الْكَاتِبُ"
+    ],
+    [
+     "dans",
+     "فِي"
+    ],
+    [
+     "la bibliothèque",
+     "الْمَكْتَبَةِ"
+    ]
+   ],
+   "note": "Celui qui écrit se dit « al-kātibu ». On reconnaît les trois sons de base du verbe écrire.",
+   "say": {
+    "al-kātibu": "الْكَاتِبُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "la librairie",
+     "الْمَكْتَبَةُ"
+    ],
+    [
+     "proche",
+     "قَرِيبَةٌ"
+    ],
+    [
+     "de",
+     "مِنَ"
+    ],
+    [
+     "le marché",
+     "السُّوقِ"
+    ]
+   ],
+   "note": "Le même mot veut dire librairie et bibliothèque. On dit « al-maktabatu ».",
+   "say": {
+    "al-maktabatu": "الْمَكْتَبَةُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "j'écris",
+     "أَكْتُبُ"
+    ],
+    [
+     "un livre",
+     "كِتَابًا"
+    ]
+   ],
+   "note": "Le verbe et le nom viennent de la même racine. Un livre se dit « kitāban ».",
+   "say": {
+    "kitāban": "كِتَابًا"
+   }
+  },
+  {
+   "words": [
+    [
+     "bureau",
+     "مَكْتَبُ"
+    ],
+    [
+     "de la poste",
+     "الْبَرِيدِ"
+    ],
+    [
+     "fermé",
+     "مُغْلَقٌ"
+    ]
+   ],
+   "note": "Fermé se dit « mughlaqun ». C'est le contraire de ouvert.",
+   "say": {
+    "mughlaqun": "مُغْلَقٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "il",
+     "هُوَ"
+    ],
+    [
+     "écrivain",
+     "كَاتِبٌ"
+    ],
+    [
+     "jordanien",
+     "أُرْدُنِيٌّ"
+    ]
+   ],
+   "note": "La nationalité se place après le métier. Écrivain se dit « kātibun ».",
+   "say": {
+    "kātibun": "كَاتِبٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ses livres",
+     "كُتُبُهُ"
+    ],
+    [
+     "célèbres",
+     "مَشْهُورَةٌ"
+    ]
+   ],
+   "note": "En arabe, le pluriel change souvent les voyelles à l'intérieur du mot. Ses livres se dit « kutubuhu ».",
+   "say": {
+    "kutubuhu": "كُتُبُهُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "la lettre",
+     "الرِّسَالَةُ"
+    ],
+    [
+     "écrite",
+     "مَكْتُوبَةٌ"
+    ],
+    [
+     "en arabe",
+     "بِالْعَرَبِيَّةِ"
+    ]
+   ],
+   "note": "Écrit se forme aussi sur la même racine. Écrite se dit « maktūbatun ».",
+   "say": {
+    "maktūbatun": "مَكْتُوبَةٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "bureau",
+     "مَكْتَبُ"
+    ],
+    [
+     "de Leïla",
+     "لَيْلَى"
+    ],
+    [
+     "rangé",
+     "مُرَتَّبٌ"
+    ]
+   ],
+   "note": "Rangé se dit « murattabun ». On l'utilise pour une pièce ou un bureau en ordre.",
+   "say": {
+    "murattabun": "مُرَتَّبٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "j'aime",
+     "أُحِبُّ"
+    ],
+    [
+     "la bibliothèque",
+     "الْمَكْتَبَةَ"
+    ]
+   ],
+   "note": "J'aime se dit « uḥibbu ». C'est un verbe très utile au quotidien.",
+   "say": {
+    "uḥibbu": "أُحِبُّ"
+   }
+  }
+ ],
+ "0-0-13": [
+  {
+   "words": [
+    [
+     "je vais",
+     "أَذْهَبُ"
+    ],
+    [
+     "vers",
+     "إِلَى"
+    ],
+    [
+     "milieu",
+     "وَسَطِ"
+    ],
+    [
+     "de la ville",
+     "الْمَدِينَةِ"
+    ]
+   ],
+   "note": "Pour indiquer la destination, on dit vers. Vers se dit « ilā ».",
+   "say": {
+    "ilā": "إِلَى"
+   }
+  },
+  {
+   "words": [
+    [
+     "le taxi",
+     "التَّاكْسِي"
+    ],
+    [
+     "dans",
+     "فِي"
+    ],
+    [
+     "la rue",
+     "الشَّارِعِ"
+    ]
+   ],
+   "note": "Dans se dit « fī ». Il sert aussi pour à, devant une ville.",
+   "say": {
+    "fī": "فِي"
+   }
+  },
+  {
+   "words": [
+    [
+     "je rentre",
+     "أَرْجِعُ"
+    ],
+    [
+     "de",
+     "مِنَ"
+    ],
+    [
+     "le marché",
+     "السُّوقِ"
+    ]
+   ],
+   "note": "Devant l'article, de prend un son a pour bien enchaîner. On dit « mina as-sūqi ».",
+   "say": {
+    "mina as-sūqi": "مِنَ السُّوقِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "les clés",
+     "الْمَفَاتِيحُ"
+    ],
+    [
+     "sur",
+     "عَلَى"
+    ],
+    [
+     "la table",
+     "الطَّاوِلَةِ"
+    ]
+   ],
+   "note": "Sur se dit « ʿalā ». On l'utilise pour ce qui est posé sur quelque chose.",
+   "say": {
+    "ʿalā": "عَلَى"
+   }
+  },
+  {
+   "words": [
+    [
+     "je vais",
+     "أَذْهَبُ"
+    ],
+    [
+     "de",
+     "مِنَ"
+    ],
+    [
+     "l'hôtel",
+     "الْفُنْدُقِ"
+    ],
+    [
+     "vers",
+     "إِلَى"
+    ],
+    [
+     "la citadelle",
+     "الْقَلْعَةِ"
+    ]
+   ],
+   "note": "On combine de et vers pour décrire un trajet. Je vais se dit « adhhabu ».",
+   "say": {
+    "adhhabu": "أَذْهَبُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le chauffeur",
+     "السَّائِقُ"
+    ],
+    [
+     "dans",
+     "فِي"
+    ],
+    [
+     "la voiture",
+     "السَّيَّارَةِ"
+    ]
+   ],
+   "note": "Voiture se dit « as-sayyāratu ». Le mot vient de l'idée d'avancer.",
+   "say": {
+    "as-sayyāratu": "السَّيَّارَةِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le bus",
+     "الْحَافِلَةُ"
+    ],
+    [
+     "va",
+     "تَذْهَبُ"
+    ],
+    [
+     "vers",
+     "إِلَى"
+    ],
+    [
+     "l'université",
+     "الْجَامِعَةِ"
+    ]
+   ],
+   "note": "Bus est féminin en arabe, donc le verbe commence par le son t. Il va se dit ici « tadhhabu ».",
+   "say": {
+    "tadhhabu": "تَذْهَبُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le sac",
+     "الْحَقِيبَةُ"
+    ],
+    [
+     "sur",
+     "عَلَى"
+    ],
+    [
+     "le siège",
+     "الْمَقْعَدِ"
+    ]
+   ],
+   "note": "Sac se dit « al-ḥaqībatu ». Le même mot désigne aussi une valise.",
+   "say": {
+    "al-ḥaqībatu": "الْحَقِيبَةُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle arrive",
+     "تَصِلُ"
+    ],
+    [
+     "Leïla",
+     "لَيْلَى"
+    ],
+    [
+     "de",
+     "مِنَ"
+    ],
+    [
+     "l'aéroport",
+     "الْمَطَارِ"
+    ]
+   ],
+   "note": "Aéroport vient du verbe voler. Il se dit « al-maṭāri ».",
+   "say": {
+    "al-maṭāri": "الْمَطَارِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "نَحْنُ"
+    ],
+    [
+     "dans",
+     "فِي"
+    ],
+    [
+     "le taxi",
+     "التَّاكْسِي"
+    ]
+   ],
+   "note": "Nous se dit « naḥnu ». Là encore, pas besoin de verbe être.",
+   "say": {
+    "naḥnu": "نَحْنُ"
+   }
+  }
+ ],
+ "0-0-14": [
+  {
+   "words": [
+    [
+     "chez moi",
+     "عِنْدِي"
+    ],
+    [
+     "téléphone",
+     "هَاتِفٌ"
+    ],
+    [
+     "neuf",
+     "جَدِيدٌ"
+    ]
+   ],
+   "note": "L'arabe n'a pas de verbe avoir. Pour j'ai, on dit chez moi, « ʿindī ».",
+   "say": {
+    "ʿindī": "عِنْدِي"
+   }
+  },
+  {
+   "words": [
+    [
+     "chez toi",
+     "عِنْدَكَ"
+    ],
+    [
+     "voiture",
+     "سَيَّارَةٌ"
+    ]
+   ],
+   "note": "Pour tu as, on dit chez toi. À un homme, cela se dit « ʿindaka ».",
+   "say": {
+    "ʿindaka": "عِنْدَكَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "chez elle",
+     "عِنْدَهَا"
+    ],
+    [
+     "sœur",
+     "أُخْتٌ"
+    ]
+   ],
+   "note": "Pour elle a, on ajoute le son ha. Elle a se dit « ʿindahā ».",
+   "say": {
+    "ʿindahā": "عِنْدَهَا"
+   }
+  },
+  {
+   "words": [
+    [
+     "chez lui",
+     "عِنْدَهُ"
+    ],
+    [
+     "rendez-vous",
+     "مَوْعِدٌ"
+    ]
+   ],
+   "note": "Il a se dit chez lui. Rendez-vous se dit « mawʿidun ».",
+   "say": {
+    "mawʿidun": "مَوْعِدٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "chez moi",
+     "عِنْدِي"
+    ],
+    [
+     "question",
+     "سُؤَالٌ"
+    ]
+   ],
+   "note": "Question se dit « suʾālun ». C'est une phrase très utile en cours.",
+   "say": {
+    "suʾālun": "سُؤَالٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "chez toi",
+     "عِنْدَكِ"
+    ],
+    [
+     "stylo",
+     "قَلَمٌ"
+    ],
+    [
+     "petit mot d'appel",
+     "يَا"
+    ],
+    [
+     "Leïla",
+     "لَيْلَى"
+    ]
+   ],
+   "note": "À une femme, on dit chez toi avec un son i. Cela se dit « ʿindaki ».",
+   "say": {
+    "ʿindaki": "عِنْدَكِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "chez moi",
+     "عِنْدِي"
+    ],
+    [
+     "travail",
+     "عَمَلٌ"
+    ],
+    [
+     "beaucoup",
+     "كَثِيرٌ"
+    ]
+   ],
+   "note": "Beaucoup se place après le nom, comme un adjectif. Il se dit « kathīrun ».",
+   "say": {
+    "kathīrun": "كَثِيرٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "chez",
+     "عِنْدَ"
+    ],
+    [
+     "Karim",
+     "كَرِيمٍ"
+    ],
+    [
+     "appartement",
+     "شَقَّةٌ"
+    ],
+    [
+     "petit",
+     "صَغِيرَةٌ"
+    ]
+   ],
+   "note": "Avec un prénom, on dit chez Karim, puis la chose possédée. Chez se dit « ʿinda ».",
+   "say": {
+    "ʿinda": "عِنْدَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "n'est pas",
+     "لَيْسَ"
+    ],
+    [
+     "chez moi",
+     "عِنْدِي"
+    ],
+    [
+     "temps",
+     "وَقْتٌ"
+    ]
+   ],
+   "note": "Pour je n'ai pas, on met la négation devant chez moi. Elle se dit « laysa ».",
+   "say": {
+    "laysa": "لَيْسَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "chez toi",
+     "عِنْدَكَ"
+    ],
+    [
+     "numéro",
+     "رَقْمُ"
+    ],
+    [
+     "son téléphone",
+     "هَاتِفِهِ"
+    ]
+   ],
+   "note": "Numéro se dit « raqmu ». Ici, on dit le numéro de son téléphone.",
+   "say": {
+    "raqmu": "رَقْمُ"
+   }
+  }
+ ],
+ "0-0-15": [
+  {
+   "words": [
+    [
+     "un",
+     "وَاحِدٌ"
+    ],
+    [
+     "deux",
+     "اِثْنَانِ"
+    ],
+    [
+     "trois",
+     "ثَلَاثَةٌ"
+    ]
+   ],
+   "note": "Pour compter, on dit les nombres seuls, les uns après les autres. Un se dit « wāḥidun ».",
+   "say": {
+    "wāḥidun": "وَاحِدٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "quatre",
+     "أَرْبَعَةٌ"
+    ],
+    [
+     "cinq",
+     "خَمْسَةٌ"
+    ],
+    [
+     "six",
+     "سِتَّةٌ"
+    ]
+   ],
+   "note": "Cinq se dit « khamsatun ». Il commence par un son raclé au fond de la gorge.",
+   "say": {
+    "khamsatun": "خَمْسَةٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "sept",
+     "سَبْعَةٌ"
+    ],
+    [
+     "huit",
+     "ثَمَانِيَةٌ"
+    ],
+    [
+     "neuf",
+     "تِسْعَةٌ"
+    ],
+    [
+     "dix",
+     "عَشَرَةٌ"
+    ]
+   ],
+   "note": "Dix se dit « ʿasharatun ». Avec lui, on sait compter jusqu'à dix.",
+   "say": {
+    "ʿasharatun": "عَشَرَةٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "l'heure",
+     "السَّاعَةُ"
+    ],
+    [
+     "la cinquième",
+     "الْخَامِسَةُ"
+    ]
+   ],
+   "note": "Pour l'heure, on dit l'heure la cinquième. Cinquième se dit « al-khāmisatu ».",
+   "say": {
+    "al-khāmisatu": "الْخَامِسَةُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "chez moi",
+     "عِنْدِي"
+    ],
+    [
+     "deux livres",
+     "كِتَابَانِ"
+    ]
+   ],
+   "note": "Pour deux choses, on ajoute une finale au nom, sans dire deux. Deux livres se dit « kitābāni ».",
+   "say": {
+    "kitābāni": "كِتَابَانِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "les falafels",
+     "الْفَلَافِلُ"
+    ],
+    [
+     "pour un dinar",
+     "بِدِينَارٍ"
+    ],
+    [
+     "un",
+     "وَاحِدٍ"
+    ]
+   ],
+   "note": "Le nombre un se place après le nom, comme un adjectif. Un se dit ici « wāḥidin ».",
+   "say": {
+    "wāḥidin": "وَاحِدٍ"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "نَحْنُ"
+    ],
+    [
+     "cinq",
+     "خَمْسَةٌ"
+    ]
+   ],
+   "note": "Pour dire combien on est, on dit simplement nous cinq. Cinq se dit « khamsatun ».",
+   "say": {
+    "khamsatun": "خَمْسَةٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "chez",
+     "عِنْدَ"
+    ],
+    [
+     "Karim",
+     "كَرِيمٍ"
+    ],
+    [
+     "trois",
+     "ثَلَاثُ"
+    ],
+    [
+     "sœurs",
+     "أَخَوَاتٍ"
+    ]
+   ],
+   "note": "De trois à dix, le nombre se place devant le nom au pluriel. Sœurs se dit « akhawātin ».",
+   "say": {
+    "akhawātin": "أَخَوَاتٍ"
+   }
+  },
+  {
+   "words": [
+    [
+     "tarif",
+     "أُجْرَةُ"
+    ],
+    [
+     "du taxi",
+     "التَّاكْسِي"
+    ],
+    [
+     "quatre",
+     "أَرْبَعَةُ"
+    ],
+    [
+     "dinars",
+     "دَنَانِيرَ"
+    ]
+   ],
+   "note": "Le prix d'une course se dit « ujratu ». On le colle au mot taxi.",
+   "say": {
+    "ujratu": "أُجْرَةُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "l'heure",
+     "السَّاعَةُ"
+    ],
+    [
+     "la dixième",
+     "الْعَاشِرَةُ"
+    ]
+   ],
+   "note": "On dit l'heure, puis le nombre en ordinal. Dixième se dit « al-ʿāshiratu ».",
+   "say": {
+    "al-ʿāshiratu": "الْعَاشِرَةُ"
+   }
+  }
+ ],
+ "0-0-16": [
+  {
+   "words": [
+    [
+     "chez moi",
+     "عِنْدِي"
+    ],
+    [
+     "chemise",
+     "قَمِيصٌ"
+    ],
+    [
+     "blanche",
+     "أَبْيَضُ"
+    ]
+   ],
+   "note": "Chemise est masculin en arabe. Blanc se dit « abyaḍu ».",
+   "say": {
+    "abyaḍu": "أَبْيَضُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle porte",
+     "تَلْبَسُ"
+    ],
+    [
+     "une robe",
+     "فُسْتَانًا"
+    ],
+    [
+     "rouge",
+     "أَحْمَرَ"
+    ]
+   ],
+   "note": "Les couleurs suivent toujours le nom. Rouge se dit « aḥmara ».",
+   "say": {
+    "aḥmara": "أَحْمَرَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le pantalon",
+     "الْبِنْطَالُ"
+    ],
+    [
+     "le noir",
+     "الْأَسْوَدُ"
+    ],
+    [
+     "cher",
+     "غَالٍ"
+    ]
+   ],
+   "note": "Quand le nom a l'article, l'adjectif le prend aussi. Le pantalon noir se dit « al-binṭālu al-aswadu ».",
+   "say": {
+    "al-binṭālu al-aswadu": "الْبِنْطَالُ الْأَسْوَدُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "la veste",
+     "السُّتْرَةُ"
+    ],
+    [
+     "la verte",
+     "الْخَضْرَاءُ"
+    ],
+    [
+     "belle",
+     "جَمِيلَةٌ"
+    ]
+   ],
+   "note": "Les couleurs ont une forme féminine spéciale. Verte se dit « al-khaḍrāʾu ».",
+   "say": {
+    "al-khaḍrāʾu": "الْخَضْرَاءُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je cherche",
+     "أَبْحَثُ"
+    ],
+    [
+     "petit mot du complément",
+     "عَنْ"
+    ],
+    [
+     "sac",
+     "حَقِيبَةٍ"
+    ],
+    [
+     "grand",
+     "كَبِيرَةٍ"
+    ]
+   ],
+   "note": "Chercher se construit avec un petit mot qui veut dire à propos de. Je cherche se dit « abḥathu ʿan ».",
+   "say": {
+    "abḥathu ʿan": "أَبْحَثُ عَنْ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "هَذَا"
+    ],
+    [
+     "boutique",
+     "مَحَلٌّ"
+    ],
+    [
+     "petite",
+     "صَغِيرٌ"
+    ]
+   ],
+   "note": "Sans article sur le nom, ceci veut dire c'est. C'est une boutique se dit « hādhā maḥallun ».",
+   "say": {
+    "hādhā maḥallun": "هَذَا مَحَلٌّ"
+   }
+  },
+  {
+   "words": [
+    [
+     "mes chaussures",
+     "حِذَائِي"
+    ],
+    [
+     "neuves",
+     "الْجَدِيدُ"
+    ],
+    [
+     "confortables",
+     "مُرِيحٌ"
+    ]
+   ],
+   "note": "Un nom avec un possessif compte comme défini. L'adjectif prend donc l'article, « al-jadīdu ».",
+   "say": {
+    "al-jadīdu": "الْجَدِيدُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "écharpe",
+     "وِشَاحٌ"
+    ],
+    [
+     "bleue",
+     "أَزْرَقُ"
+    ],
+    [
+     "de",
+     "مِنْ"
+    ],
+    [
+     "ta faveur",
+     "فَضْلِكَ"
+    ]
+   ],
+   "note": "Bleu se dit « azraqu ». Comme les autres couleurs, il suit le nom.",
+   "say": {
+    "azraqu": "أَزْرَقُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle aime",
+     "تُحِبُّ"
+    ],
+    [
+     "Leïla",
+     "لَيْلَى"
+    ],
+    [
+     "la couleur",
+     "اللَّوْنَ"
+    ],
+    [
+     "la jaune",
+     "الْأَصْفَرَ"
+    ]
+   ],
+   "note": "Couleur se dit « al-lawna ». On dit littéralement la couleur la jaune.",
+   "say": {
+    "al-lawna": "اللَّوْنَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "هَذَا"
+    ],
+    [
+     "couleur",
+     "لَوْنٌ"
+    ],
+    [
+     "belle",
+     "جَمِيلٌ"
+    ]
+   ],
+   "note": "Couleur est masculin en arabe, donc belle reste au masculin. On dit « lawnun jamīlun ».",
+   "say": {
+    "lawnun jamīlun": "لَوْنٌ جَمِيلٌ"
+   }
+  }
+ ],
+ "0-0-17": [
+  {
+   "words": [
+    [
+     "il y a",
+     "هُنَاكَ"
+    ],
+    [
+     "soleil",
+     "شَمْسٌ"
+    ],
+    [
+     "aujourd'hui",
+     "الْيَوْمَ"
+    ]
+   ],
+   "note": "Pour il y a, on utilise le mot qui veut dire là-bas. Il y a se dit « hunāka ».",
+   "say": {
+    "hunāka": "هُنَاكَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "هُنَاكَ"
+    ],
+    [
+     "vent",
+     "رِيحٌ"
+    ],
+    [
+     "fort",
+     "قَوِيَّةٌ"
+    ],
+    [
+     "dans",
+     "فِي"
+    ],
+    [
+     "la citadelle",
+     "الْقَلْعَةِ"
+    ]
+   ],
+   "note": "Vent est féminin en arabe, donc fort prend la finale a. Fort se dit ici « qawiyyatun ».",
+   "say": {
+    "qawiyyatun": "قَوِيَّةٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "هُنَاكَ"
+    ],
+    [
+     "marché",
+     "سُوقٌ"
+    ],
+    [
+     "proche",
+     "قَرِيبٌ"
+    ],
+    [
+     "de",
+     "مِنْ"
+    ],
+    [
+     "ici",
+     "هُنَا"
+    ]
+   ],
+   "note": "Près d'ici se dit littéralement proche d'ici. On dit « qarībun min hunā ».",
+   "say": {
+    "qarībun min hunā": "قَرِيبٌ مِنْ هُنَا"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "هُنَاكَ"
+    ],
+    [
+     "gens",
+     "نَاسٌ"
+    ],
+    [
+     "nombreux",
+     "كَثِيرُونَ"
+    ],
+    [
+     "dans",
+     "فِي"
+    ],
+    [
+     "la rue",
+     "الشَّارِعِ"
+    ]
+   ],
+   "note": "Pour beaucoup de gens, on dit des gens nombreux. Nombreux se dit « kathīrūna ».",
+   "say": {
+    "kathīrūna": "كَثِيرُونَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le temps",
+     "الْجَوُّ"
+    ],
+    [
+     "froid",
+     "بَارِدٌ"
+    ],
+    [
+     "ce",
+     "هَذَا"
+    ],
+    [
+     "le soir",
+     "الْمَسَاءَ"
+    ]
+   ],
+   "note": "Pour la météo, on ne dit pas il y a, mais le temps est. Froid se dit « bāridun ».",
+   "say": {
+    "bāridun": "بَارِدٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "هُنَاكَ"
+    ],
+    [
+     "neige",
+     "ثَلْجٌ"
+    ],
+    [
+     "dans",
+     "فِي"
+    ],
+    [
+     "l'hiver",
+     "الشِّتَاءِ"
+    ]
+   ],
+   "note": "Il neige parfois à Amman en hiver. Hiver se dit « ash-shitāʾi ».",
+   "say": {
+    "ash-shitāʾi": "الشِّتَاءِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "هُنَاكَ"
+    ],
+    [
+     "nuages",
+     "غُيُومٌ"
+    ],
+    [
+     "au-dessus de",
+     "فَوْقَ"
+    ],
+    [
+     "Amman",
+     "عَمَّانَ"
+    ]
+   ],
+   "note": "Au-dessus de se dit « fawqa ». On le place juste avant le lieu.",
+   "say": {
+    "fawqa": "فَوْقَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "هُنَاكَ"
+    ],
+    [
+     "pharmacie",
+     "صَيْدَلِيَّةٌ"
+    ],
+    [
+     "dans",
+     "فِي"
+    ],
+    [
+     "le quartier",
+     "الْحَيِّ"
+    ]
+   ],
+   "note": "Pharmacie se dit « ṣaydaliyyatun ». C'est un mot utile en voyage.",
+   "say": {
+    "ṣaydaliyyatun": "صَيْدَلِيَّةٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le temps",
+     "الْجَوُّ"
+    ],
+    [
+     "chaud",
+     "حَارٌّ"
+    ],
+    [
+     "dans",
+     "فِي"
+    ],
+    [
+     "l'été",
+     "الصَّيْفِ"
+    ]
+   ],
+   "note": "Été se dit « aṣ-ṣayfi ». Devant le son s, l'article se fond.",
+   "say": {
+    "aṣ-ṣayfi": "الصَّيْفِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "هَلْ"
+    ],
+    [
+     "il y a",
+     "هُنَاكَ"
+    ],
+    [
+     "pluie",
+     "مَطَرٌ"
+    ],
+    [
+     "demain",
+     "غَدًا"
+    ]
+   ],
+   "note": "Demain se dit « ghadan ». On le place en fin de phrase.",
+   "say": {
+    "ghadan": "غَدًا"
+   }
+  }
+ ],
+ "0-0-18": [
+  {
+   "words": [
+    [
+     "ne pas",
+     "لَا"
+    ],
+    [
+     "je bois",
+     "أَشْرَبُ"
+    ],
+    [
+     "le café",
+     "الْقَهْوَةَ"
+    ],
+    [
+     "dans",
+     "فِي"
+    ],
+    [
+     "le soir",
+     "الْمَسَاءِ"
+    ]
+   ],
+   "note": "Pour nier un verbe au présent, on met un petit mot juste devant. Ce mot se dit « lā ».",
+   "say": {
+    "lā": "لَا"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "لَا"
+    ],
+    [
+     "je comprends",
+     "أَفْهَمُ"
+    ]
+   ],
+   "note": "Je ne comprends pas est une phrase précieuse en voyage. On dit « lā afhamu ».",
+   "say": {
+    "lā afhamu": "لَا أَفْهَمُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "لَا"
+    ],
+    [
+     "il travaille",
+     "يَعْمَلُ"
+    ],
+    [
+     "jour",
+     "يَوْمَ"
+    ],
+    [
+     "du vendredi",
+     "الْجُمُعَةِ"
+    ]
+   ],
+   "note": "Le vendredi est le jour de repos en Jordanie. Il se dit « al-jumuʿati ».",
+   "say": {
+    "al-jumuʿati": "الْجُمُعَةِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "لَا"
+    ],
+    [
+     "tu manges",
+     "تَأْكُلُ"
+    ],
+    [
+     "la viande",
+     "اللَّحْمَ"
+    ]
+   ],
+   "note": "Viande se dit « al-laḥma ». On met l'article pour parler de la viande en général.",
+   "say": {
+    "al-laḥma": "اللَّحْمَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "لَا"
+    ],
+    [
+     "elle parle",
+     "تَتَكَلَّمُ"
+    ],
+    [
+     "Leïla",
+     "لَيْلَى"
+    ],
+    [
+     "le français",
+     "الْفَرَنْسِيَّةَ"
+    ]
+   ],
+   "note": "Le français, la langue, se dit « al-faransiyyata ». Comme l'arabe, c'est un mot féminin.",
+   "say": {
+    "al-faransiyyata": "الْفَرَنْسِيَّةَ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "لَا"
+    ],
+    [
+     "je sais",
+     "أَعْرِفُ"
+    ]
+   ],
+   "note": "Je ne sais pas se dit « lā aʿrifu ». C'est une réponse très courante.",
+   "say": {
+    "lā aʿrifu": "لَا أَعْرِفُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "le bus",
+     "الْحَافِلَةُ"
+    ],
+    [
+     "ne pas",
+     "لَا"
+    ],
+    [
+     "va",
+     "تَذْهَبُ"
+    ],
+    [
+     "vers",
+     "إِلَى"
+    ],
+    [
+     "la citadelle",
+     "الْقَلْعَةِ"
+    ]
+   ],
+   "note": "Quand le sujet vient en premier, la négation reste juste devant le verbe. On dit « lā tadhhabu ».",
+   "say": {
+    "lā tadhhabu": "لَا تَذْهَبُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "لَا"
+    ],
+    [
+     "je travaille",
+     "أَعْمَلُ"
+    ],
+    [
+     "aujourd'hui",
+     "الْيَوْمَ"
+    ]
+   ],
+   "note": "Je travaille se dit « aʿmalu ». Le même verbe veut aussi dire faire.",
+   "say": {
+    "aʿmalu": "أَعْمَلُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "لَا"
+    ],
+    [
+     "il habite",
+     "يَسْكُنُ"
+    ],
+    [
+     "Karim",
+     "كَرِيمٌ"
+    ],
+    [
+     "dans",
+     "فِي"
+    ],
+    [
+     "milieu",
+     "وَسَطِ"
+    ],
+    [
+     "de la ville",
+     "الْمَدِينَةِ"
+    ]
+   ],
+   "note": "Habiter se dit ici « yaskunu ». Le verbe vient avant Karim.",
+   "say": {
+    "yaskunu": "يَسْكُنُ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "لَا"
+    ],
+    [
+     "je regarde",
+     "أُشَاهِدُ"
+    ],
+    [
+     "la télévision",
+     "التِّلْفَازَ"
+    ]
+   ],
+   "note": "La télévision se dit « at-tilfāza ». Devant le son t, l'article se fond.",
+   "say": {
+    "at-tilfāza": "التِّلْفَازَ"
+   }
+  }
+ ],
+ "0-0-19": [
+  {
+   "words": [
+    [
+     "merci",
+     "شُكْرًا"
+    ],
+    [
+     "abondant",
+     "جَزِيلًا"
+    ]
+   ],
+   "note": "Merci se dit « shukran ». Pour merci beaucoup, on ajoute un mot qui veut dire abondant.",
+   "say": {
+    "shukran": "شُكْرًا"
+   }
+  },
+  {
+   "words": [
+    [
+     "de rien",
+     "عَفْوًا"
+    ]
+   ],
+   "note": "Pour répondre à un merci, on dit « ʿafwan ». Le même mot sert aussi à dire pardon.",
+   "say": {
+    "ʿafwan": "عَفْوًا"
+   }
+  },
+  {
+   "words": [
+    [
+     "thé",
+     "شَايٌ"
+    ],
+    [
+     "à la menthe",
+     "بِالنَّعْنَاعِ"
+    ],
+    [
+     "de",
+     "مِنْ"
+    ],
+    [
+     "ta faveur",
+     "فَضْلِكَ"
+    ]
+   ],
+   "note": "Au café, on nomme simplement ce qu'on veut, puis la formule de politesse. Thé se dit « shāyun ».",
+   "say": {
+    "shāyun": "شَايٌ"
+   }
+  },
+  {
+   "words": [
+    [
+     "bienvenue",
+     "أَهْلًا"
+    ],
+    [
+     "et aisance",
+     "وَسَهْلًا"
+    ],
+    [
+     "dans",
+     "فِي"
+    ],
+    [
+     "la maison",
+     "الْبَيْتِ"
+    ]
+   ],
+   "note": "On reprend la formule de bienvenue, suivie du lieu. La maison se dit « al-bayti ».",
+   "say": {
+    "al-bayti": "الْبَيْتِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je parle",
+     "أَتَكَلَّمُ"
+    ],
+    [
+     "l'arabe",
+     "الْعَرَبِيَّةَ"
+    ],
+    [
+     "un peu",
+     "قَلِيلًا"
+    ],
+    [
+     "maintenant",
+     "الْآنَ"
+    ]
+   ],
+   "note": "Un peu se dit « qalīlan ». Il se place après la langue.",
+   "say": {
+    "qalīlan": "قَلِيلًا"
+   }
+  },
+  {
+   "words": [
+    [
+     "j'aime",
+     "أُحِبُّ"
+    ],
+    [
+     "Amman",
+     "عَمَّانَ"
+    ],
+    [
+     "beaucoup",
+     "كَثِيرًا"
+    ]
+   ],
+   "note": "Avec un verbe, beaucoup se dit « kathīran ». Il vient après le complément.",
+   "say": {
+    "kathīran": "كَثِيرًا"
+   }
+  },
+  {
+   "words": [
+    [
+     "l'arabe",
+     "الْعَرَبِيَّةُ"
+    ],
+    [
+     "n'est pas",
+     "لَيْسَتْ"
+    ],
+    [
+     "difficile",
+     "صَعْبَةً"
+    ]
+   ],
+   "note": "L'arabe, la langue, est féminin. Difficile devient donc « ṣaʿbatan ».",
+   "say": {
+    "ṣaʿbatan": "صَعْبَةً"
+   }
+  },
+  {
+   "words": [
+    [
+     "knafeh",
+     "كُنَافَةٌ"
+    ],
+    [
+     "de",
+     "مِنْ"
+    ],
+    [
+     "ta faveur",
+     "فَضْلِكِ"
+    ],
+    [
+     "petit mot d'appel",
+     "يَا"
+    ],
+    [
+     "Leïla",
+     "لَيْلَى"
+    ]
+   ],
+   "note": "À une femme, s'il te plaît finit par un son i. On dit « min faḍliki ».",
+   "say": {
+    "min faḍliki": "مِنْ فَضْلِكِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "merci",
+     "شُكْرًا"
+    ],
+    [
+     "et jusqu'à",
+     "وَإِلَى"
+    ],
+    [
+     "la rencontre",
+     "اللِّقَاءِ"
+    ]
+   ],
+   "note": "Au revoir se dit littéralement jusqu'à la rencontre. On dit « ilā al-liqāʾi ».",
+   "say": {
+    "ilā al-liqāʾi": "إِلَى اللِّقَاءِ"
+   }
+  },
+  {
+   "words": [
+    [
+     "pardon",
+     "عَفْوًا"
+    ],
+    [
+     "où",
+     "أَيْنَ"
+    ],
+    [
+     "le taxi",
+     "التَّاكْسِي"
+    ]
+   ],
+   "note": "Pour attirer l'attention, on commence par pardon. Pardon se dit « ʿafwan ».",
+   "say": {
+    "ʿafwan": "عَفْوًا"
+   }
+  }
+ ]
+}

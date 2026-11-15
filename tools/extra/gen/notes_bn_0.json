@@ -1,0 +1,4662 @@
+{
+ "0-0-0": [
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "Lucie",
+     "লুসি"
+    ]
+   ],
+   "note": "En bengali, il n'y a pas de verbe être au présent. On dit simplement je, puis le prénom. Je se dit « āmi ».",
+   "say": {
+    "āmi": "আমি"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "Pierre",
+     "পিয়ের"
+    ],
+    [
+     "et",
+     "আর"
+    ],
+    [
+     "vous",
+     "আপনি"
+    ]
+   ],
+   "note": "Pour relancer la question, on dit juste et vous, comme en français. Et se dit « ār ».",
+   "say": {
+    "ār": "আর"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "à Dhanmondi",
+     "ধানমন্ডিতে"
+    ],
+    [
+     "habiter",
+     "থাকি"
+    ]
+   ],
+   "note": "Le verbe se place tout à la fin de la phrase. Pour dire à Dhanmondi, on ajoute une petite terminaison au lieu. On dit « Dhānmonḍite ».",
+   "say": {
+    "Dhānmonḍite": "ধানমন্ডিতে"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous aussi",
+     "আপনিও"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "ici",
+     "এখানে"
+    ],
+    [
+     "habiter",
+     "থাকেন"
+    ]
+   ],
+   "note": "Pour dire vous aussi, on ajoute un petit o à la fin de vous. Cela donne « āpnio ».",
+   "say": {
+    "āpnio": "আপনিও"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "bon",
+     "ভালো"
+    ]
+   ],
+   "note": "Pas de verbe être ici non plus. Très se dit « khub ». Il se place devant l'adjectif, comme en français.",
+   "say": {
+    "khub": "খুব"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "français",
+     "ফরাসি"
+    ],
+    [
+     "savoir",
+     "জানেন"
+    ]
+   ],
+   "note": "Pour poser une question, on glisse un petit mot juste après le sujet. Ce petit mot, c'est « ki ». L'intonation monte à la fin.",
+   "say": {
+    "ki": "কি"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "un peu",
+     "একটু"
+    ],
+    [
+     "bengali",
+     "বাংলা"
+    ],
+    [
+     "parler",
+     "বলি"
+    ]
+   ],
+   "note": "La langue bengalie se dit « bānglā ». Le nom du Bangladesh veut dire le pays du bengali.",
+   "say": {
+    "bānglā": "বাংলা"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "তুমি"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "étudiante",
+     "ছাত্রী"
+    ]
+   ],
+   "note": "Avec un ami ou quelqu'un de plus jeune, on dit tu. Tu se dit « tumi ».",
+   "say": {
+    "tumi": "তুমি"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "তুমি"
+    ],
+    [
+     "mon",
+     "আমার"
+    ],
+    [
+     "ami",
+     "বন্ধু"
+    ]
+   ],
+   "note": "Mon se dit « āmār ». Le même mot ami sert pour un garçon ou une fille, car le bengali n'a pas de genre.",
+   "say": {
+    "āmār": "আমার"
+   }
+  },
+  {
+   "words": [
+    [
+     "à un ami",
+     "বন্ধুকে"
+    ],
+    [
+     "nous",
+     "আমরা"
+    ],
+    [
+     "tu",
+     "তুমি"
+    ],
+    [
+     "dire",
+     "বলি"
+    ]
+   ],
+   "note": "Nous se dit « āmrā ». Le verbe dire se place à la fin, comme toujours.",
+   "say": {
+    "āmrā": "আমরা"
+   }
+  }
+ ],
+ "0-0-1": [
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "français",
+     "ফরাসি"
+    ]
+   ],
+   "note": "Pas de verbe être pour dire sa nationalité. Français se dit « phorāshi ».",
+   "say": {
+    "phorāshi": "ফরাসি"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "আমার"
+    ],
+    [
+     "nom",
+     "নাম"
+    ],
+    [
+     "Pierre",
+     "পিয়ের"
+    ]
+   ],
+   "note": "Pour se présenter, on dit mon nom, puis le prénom. Le nom se dit « nām ».",
+   "say": {
+    "nām": "নাম"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "médecin",
+     "ডাক্তার"
+    ]
+   ],
+   "note": "Médecin se dit « ḍāktār ». C'est un mot venu de l'anglais.",
+   "say": {
+    "ḍāktār": "ডাক্তার"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma",
+     "আমার"
+    ],
+    [
+     "femme",
+     "স্ত্রী"
+    ],
+    [
+     "enseignante",
+     "শিক্ষিকা"
+    ]
+   ],
+   "note": "Une enseignante se dit « shikkhikā ». Pour un homme, la fin du mot change.",
+   "say": {
+    "shikkhikā": "শিক্ষিকা"
+   }
+  },
+  {
+   "words": [
+    [
+     "notre",
+     "আমাদের"
+    ],
+    [
+     "appartement",
+     "বাসা"
+    ],
+    [
+     "petit",
+     "ছোট"
+    ]
+   ],
+   "note": "Notre se dit « āmāder ». L'adjectif petit vient simplement après, sans verbe être.",
+   "say": {
+    "āmāder": "আমাদের"
+   }
+  },
+  {
+   "words": [
+    [
+     "le quartier",
+     "এলাকাটা"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "calme",
+     "শান্ত"
+    ]
+   ],
+   "note": "Le quartier se dit « elākāṭā ». La petite terminaison ta, à la fin, joue le rôle de notre article le.",
+   "say": {
+    "elākāṭā": "এলাকাটা"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "Rina",
+     "রিনা"
+    ],
+    [
+     "grande sœur",
+     "আপা"
+    ]
+   ],
+   "note": "Pour une femme un peu plus âgée, on ajoute après son prénom « āpā ». Cela veut dire grande sœur, et c'est très poli.",
+   "say": {
+    "āpā": "আপা"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "জি"
+    ],
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "votre",
+     "আপনার"
+    ],
+    [
+     "voisine",
+     "প্রতিবেশী"
+    ]
+   ],
+   "note": "Pour dire oui poliment, on dit « ji ». C'est un oui respectueux, très courant au Bangladesh.",
+   "say": {
+    "ji": "জি"
+   }
+  },
+  {
+   "words": [
+    [
+     "Dhaka",
+     "ঢাকা"
+    ],
+    [
+     "très",
+     "অনেক"
+    ],
+    [
+     "grande",
+     "বড়"
+    ],
+    [
+     "ville",
+     "শহর"
+    ]
+   ],
+   "note": "La ville se dit « shohor ». Ici, très se dit avec un autre mot, qui veut aussi dire beaucoup.",
+   "say": {
+    "shohor": "শহর"
+   }
+  },
+  {
+   "words": [
+    [
+     "d'ici",
+     "এখানকার"
+    ],
+    [
+     "thé",
+     "চা"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "savoureux",
+     "মজার"
+    ]
+   ],
+   "note": "D'ici se dit « ekhānkār ». On le place devant le nom, comme un adjectif.",
+   "say": {
+    "ekhānkār": "এখানকার"
+   }
+  }
+ ],
+ "0-0-2": [
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "le matin",
+     "সকালে"
+    ],
+    [
+     "lait",
+     "দুধ"
+    ],
+    [
+     "thé",
+     "চা"
+    ],
+    [
+     "boire",
+     "খাই"
+    ]
+   ],
+   "note": "En bengali, on mange son thé. Le même verbe sert pour manger et pour boire, « khāi ».",
+   "say": {
+    "khāi": "খাই"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma",
+     "আমার"
+    ],
+    [
+     "mère",
+     "মা"
+    ],
+    [
+     "thé",
+     "চা"
+    ],
+    [
+     "préparer",
+     "বানান"
+    ]
+   ],
+   "note": "Pour sa mère, on emploie la forme polie du verbe. Préparer devient ainsi « bānān ».",
+   "say": {
+    "bānān": "বানান"
+   }
+  },
+  {
+   "words": [
+    [
+     "vendeur de thé",
+     "চাওয়ালা"
+    ],
+    [
+     "sucre",
+     "চিনি"
+    ],
+    [
+     "mettre",
+     "দেয়"
+    ]
+   ],
+   "note": "Le vendeur de thé se dit « chāwālā ». Ce petit ajout à la fin désigne celui qui s'occupe de quelque chose.",
+   "say": {
+    "chāwālā": "চাওয়ালা"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "du thé",
+     "চায়ের"
+    ],
+    [
+     "avec",
+     "সাথে"
+    ],
+    [
+     "pain",
+     "রুটি"
+    ],
+    [
+     "manger",
+     "খাই"
+    ]
+   ],
+   "note": "Avec se dit « shāthe ». Il se place après le nom, pas avant.",
+   "say": {
+    "shāthe": "সাথে"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "le matin",
+     "সকালে"
+    ],
+    [
+     "journal",
+     "পত্রিকা"
+    ],
+    [
+     "lire",
+     "পড়েন"
+    ]
+   ],
+   "note": "Le matin se dit « shokāle ». Le moment de la journée vient tôt, juste après le sujet.",
+   "say": {
+    "shokāle": "সকালে"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "আমার"
+    ],
+    [
+     "frère",
+     "ভাই"
+    ],
+    [
+     "en rickshaw",
+     "রিকশায়"
+    ],
+    [
+     "au travail",
+     "কাজে"
+    ],
+    [
+     "aller",
+     "যায়"
+    ]
+   ],
+   "note": "Aller se dit ici « jāy ». Il ferme la phrase, après le moyen de transport et le lieu.",
+   "say": {
+    "jāy": "যায়"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "boutique",
+     "দোকান"
+    ],
+    [
+     "depuis",
+     "থেকে"
+    ],
+    [
+     "lait",
+     "দুধ"
+    ],
+    [
+     "acheter",
+     "কিনি"
+    ]
+   ],
+   "note": "Pour dire depuis la boutique, on met le petit mot après le nom. Depuis se dit « theke ».",
+   "say": {
+    "theke": "থেকে"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma",
+     "আমার"
+    ],
+    [
+     "fille",
+     "মেয়ে"
+    ],
+    [
+     "lait",
+     "দুধ"
+    ],
+    [
+     "boire",
+     "খায়"
+    ]
+   ],
+   "note": "Fille se dit « meye ». Le même mot veut aussi dire jeune femme.",
+   "say": {
+    "meye": "মেয়ে"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "thé",
+     "চা"
+    ],
+    [
+     "boire",
+     "খাই"
+    ],
+    [
+     "et",
+     "আর"
+    ],
+    [
+     "chanson",
+     "গান"
+    ],
+    [
+     "écouter",
+     "শুনি"
+    ]
+   ],
+   "note": "Écouter se dit « shuni ». Chaque petite phrase garde son verbe à la fin.",
+   "say": {
+    "shuni": "শুনি"
+   }
+  },
+  {
+   "words": [
+    [
+     "en bengali",
+     "বাংলায়"
+    ],
+    [
+     "verbe",
+     "ক্রিয়া"
+    ],
+    [
+     "à la fin",
+     "শেষে"
+    ],
+    [
+     "se placer",
+     "বসে"
+    ]
+   ],
+   "note": "Le verbe se dit « kriyā ». Sujet, objet, puis verbe, c'est l'ordre normal en bengali.",
+   "say": {
+    "kriyā": "ক্রিয়া"
+   }
+  }
+ ],
+ "0-0-3": [
+  {
+   "words": [
+    [
+     "poisson",
+     "মাছ"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "frais",
+     "তাজা"
+    ]
+   ],
+   "note": "Le petit mot de question, c'est « ki ». Il se place juste après le sujet, ici le poisson.",
+   "say": {
+    "ki": "কি"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "légumes",
+     "সবজি"
+    ],
+    [
+     "vente",
+     "বিক্রি"
+    ],
+    [
+     "faire",
+     "করেন"
+    ]
+   ],
+   "note": "Beaucoup de verbes se forment avec faire. Vendre, c'est faire la vente, « bikri koren ».",
+   "say": {
+    "bikri koren": "বিক্রি করেন"
+   }
+  },
+  {
+   "words": [
+    [
+     "tomates",
+     "টমেটো"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "bonnes",
+     "ভালো"
+    ]
+   ],
+   "note": "Bon se dit « bhālo ». C'est un mot qu'on entend partout, pour dire bon, bien ou gentil.",
+   "say": {
+    "bhālo": "ভালো"
+   }
+  },
+  {
+   "words": [
+    [
+     "marché",
+     "বাজার"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "le matin",
+     "সকালে"
+    ],
+    [
+     "ouvrir",
+     "খোলে"
+    ]
+   ],
+   "note": "Le marché se dit « bājār ». C'est le même mot que bazar en français.",
+   "say": {
+    "bājār": "বাজার"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "chaque jour",
+     "প্রতিদিন"
+    ],
+    [
+     "ici",
+     "এখানে"
+    ],
+    [
+     "venir",
+     "আসেন"
+    ]
+   ],
+   "note": "Tous les jours se dit « protidin ». Il se place avant le lieu et le verbe.",
+   "say": {
+    "protidin": "প্রতিদিন"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "জি"
+    ],
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "chaque jour",
+     "প্রতিদিন"
+    ],
+    [
+     "venir",
+     "আসি"
+    ]
+   ],
+   "note": "Venir change selon la personne. Avec je, on dit « āshi ».",
+   "say": {
+    "āshi": "আসি"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "এটা"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "Kawran",
+     "কারওয়ান"
+    ],
+    [
+     "Bazar",
+     "বাজার"
+    ]
+   ],
+   "note": "Pour montrer une chose toute proche, on dit « eṭā ». Ici, on demande si c'est bien ce marché.",
+   "say": {
+    "eṭā": "এটা"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "তুমি"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "bengali",
+     "বাংলা"
+    ],
+    [
+     "comprendre",
+     "বোঝো"
+    ]
+   ],
+   "note": "Avec tu, le verbe finit par un o. Tu comprends se dit « bojho ».",
+   "say": {
+    "bojho": "বোঝো"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "comprendre",
+     "বোঝেন"
+    ]
+   ],
+   "note": "Avec le vous poli, le verbe finit par un n. Vous comprenez se dit « bojhen ».",
+   "say": {
+    "bojhen": "বোঝেন"
+   }
+  },
+  {
+   "words": [
+    [
+     "mangue",
+     "আম"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "sucrée",
+     "মিষ্টি"
+    ]
+   ],
+   "note": "Sucré se dit « mishṭi ». Le même mot désigne aussi les fameux desserts bengalis.",
+   "say": {
+    "mishṭi": "মিষ্টি"
+   }
+  }
+ ],
+ "0-0-4": [
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "viande",
+     "মাংস"
+    ],
+    [
+     "manger",
+     "খাই"
+    ],
+    [
+     "pas",
+     "না"
+    ]
+   ],
+   "note": "La négation vient après le verbe, tout à la fin. Elle se dit « nā ».",
+   "say": {
+    "nā": "না"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "café",
+     "কফি"
+    ],
+    [
+     "boire",
+     "খাই"
+    ],
+    [
+     "pas",
+     "না"
+    ]
+   ],
+   "note": "Le café se dit « kophi ». Et on le mange aussi, avec le même verbe que le thé.",
+   "say": {
+    "kophi": "কফি"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma",
+     "আমার"
+    ],
+    [
+     "fille",
+     "মেয়ে"
+    ],
+    [
+     "piquant",
+     "ঝাল"
+    ],
+    [
+     "manger",
+     "খায়"
+    ],
+    [
+     "pas",
+     "না"
+    ]
+   ],
+   "note": "Épicé se dit « jhāl ». On l'entend souvent, car la cuisine bengalie pique beaucoup.",
+   "say": {
+    "jhāl": "ঝাল"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "le soir",
+     "রাতে"
+    ],
+    [
+     "cuisine",
+     "রান্না"
+    ],
+    [
+     "faire",
+     "করি"
+    ],
+    [
+     "pas",
+     "না"
+    ]
+   ],
+   "note": "Cuisiner, c'est faire la cuisine, « rānnā kori ». La négation suit le verbe faire.",
+   "say": {
+    "rānnā kori": "রান্না করি"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "sucre",
+     "চিনি"
+    ],
+    [
+     "prendre",
+     "খান"
+    ],
+    [
+     "pas",
+     "না"
+    ]
+   ],
+   "note": "Le sucre se dit « chini ». Ici, la question se fait seulement par l'intonation, qui monte.",
+   "say": {
+    "chini": "চিনি"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "না"
+    ],
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "sucre",
+     "চিনি"
+    ],
+    [
+     "prendre",
+     "খাই"
+    ],
+    [
+     "pas",
+     "না"
+    ]
+   ],
+   "note": "Le même mot sert pour non au début, et pour ne pas à la fin. C'est « nā ».",
+   "say": {
+    "nā": "না"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "আমার"
+    ],
+    [
+     "voisin",
+     "প্রতিবেশী"
+    ],
+    [
+     "le soir",
+     "রাতে"
+    ],
+    [
+     "riz",
+     "ভাত"
+    ],
+    [
+     "manger",
+     "খান"
+    ],
+    [
+     "pas",
+     "না"
+    ]
+   ],
+   "note": "Le riz cuit se dit « bhāt ». Le riz cru, au marché, porte un autre nom.",
+   "say": {
+    "bhāt": "ভাত"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "bengali",
+     "বাংলা"
+    ],
+    [
+     "bien",
+     "ভালো"
+    ],
+    [
+     "comprendre",
+     "বুঝি"
+    ],
+    [
+     "pas",
+     "না"
+    ]
+   ],
+   "note": "Le mot bon sert aussi pour dire bien. Il se dit « bhālo ». Il se place devant le verbe.",
+   "say": {
+    "bhālo": "ভালো"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "ce",
+     "এই"
+    ],
+    [
+     "plat",
+     "খাবার"
+    ],
+    [
+     "connaître",
+     "চিনি"
+    ],
+    [
+     "pas",
+     "না"
+    ]
+   ],
+   "note": "Attention, connaître se dit ici « chini ». Il se prononce comme le mot sucre, mais le sens n'a rien à voir.",
+   "say": {
+    "chini": "চিনি"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "এখানে"
+    ],
+    [
+     "nous",
+     "আমরা"
+    ],
+    [
+     "fourchette",
+     "কাঁটাচামচ"
+    ],
+    [
+     "avec",
+     "দিয়ে"
+    ],
+    [
+     "manger",
+     "খাই"
+    ],
+    [
+     "pas",
+     "না"
+    ]
+   ],
+   "note": "Avec un outil, on dit « diye ». Il se place après l'objet, ici la fourchette.",
+   "say": {
+    "diye": "দিয়ে"
+   }
+  }
+ ],
+ "0-0-5": [
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "riz",
+     "ভাত"
+    ],
+    [
+     "et",
+     "আর"
+    ],
+    [
+     "dal",
+     "ডাল"
+    ],
+    [
+     "manger",
+     "খাই"
+    ]
+   ],
+   "note": "Le dal, c'est la soupe de lentilles, « ḍāl ». Avec le riz, c'est le plat de tous les jours.",
+   "say": {
+    "ḍāl": "ডাল"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "chaque jour",
+     "প্রতিদিন"
+    ],
+    [
+     "riz",
+     "ভাত"
+    ],
+    [
+     "manger",
+     "খান"
+    ]
+   ],
+   "note": "Avec le vous poli, manger devient « khān ». Le verbe change selon la personne.",
+   "say": {
+    "khān": "খান"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "তুমি"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "piquant",
+     "ঝাল"
+    ],
+    [
+     "manger",
+     "খাও"
+    ]
+   ],
+   "note": "Avec tu, manger devient « khāo ». Le verbe finit par un o.",
+   "say": {
+    "khāo": "খাও"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "আমার"
+    ],
+    [
+     "fils",
+     "ছেলে"
+    ],
+    [
+     "beaucoup",
+     "অনেক"
+    ],
+    [
+     "manger",
+     "খায়"
+    ]
+   ],
+   "note": "Pour il ou elle, manger devient « khāy ». Beaucoup vient juste avant le verbe.",
+   "say": {
+    "khāy": "খায়"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "chaque jour",
+     "প্রতিদিন"
+    ],
+    [
+     "dal",
+     "ডাল"
+    ],
+    [
+     "cuisine",
+     "রান্না"
+    ],
+    [
+     "faire",
+     "করি"
+    ]
+   ],
+   "note": "Avec je, faire se dit « kori ». Il aide à former de nombreux verbes.",
+   "say": {
+    "kori": "করি"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "bien",
+     "ভালো"
+    ],
+    [
+     "cuisine",
+     "রান্না"
+    ],
+    [
+     "faire",
+     "করেন"
+    ]
+   ],
+   "note": "Avec vous, faire devient « koren ». On l'entend dans tous les verbes formés avec faire.",
+   "say": {
+    "koren": "করেন"
+   }
+  },
+  {
+   "words": [
+    [
+     "toi aussi",
+     "তুমিও"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "cuisine",
+     "রান্না"
+    ],
+    [
+     "faire",
+     "করো"
+    ]
+   ],
+   "note": "Pour dire toi aussi, on ajoute un o à tu. Cela donne « tumio ».",
+   "say": {
+    "tumio": "তুমিও"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma",
+     "আমার"
+    ],
+    [
+     "sœur",
+     "বোন"
+    ],
+    [
+     "à midi",
+     "দুপুরে"
+    ],
+    [
+     "notre",
+     "আমাদের"
+    ],
+    [
+     "à la maison",
+     "বাসায়"
+    ],
+    [
+     "manger",
+     "খায়"
+    ]
+   ],
+   "note": "Chez nous, c'est à notre maison. À la maison se dit « bāshāy ».",
+   "say": {
+    "bāshāy": "বাসায়"
+   }
+  },
+  {
+   "words": [
+    [
+     "le matin",
+     "সকালে"
+    ],
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "au marché",
+     "বাজারে"
+    ],
+    [
+     "aller",
+     "যাই"
+    ]
+   ],
+   "note": "Avec je, aller se dit « jāi ». Le moment de la journée peut aussi venir en premier.",
+   "say": {
+    "jāi": "যাই"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "আর"
+    ],
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "le matin",
+     "সকালে"
+    ],
+    [
+     "où",
+     "কোথায়"
+    ],
+    [
+     "aller",
+     "যান"
+    ]
+   ],
+   "note": "Où se dit « kothāy ». Il se place juste avant le verbe, pas en début de phrase.",
+   "say": {
+    "kothāy": "কোথায়"
+   }
+  }
+ ],
+ "0-0-6": [
+  {
+   "words": [
+    [
+     "ceci",
+     "এটা"
+    ],
+    [
+     "mon",
+     "আমার"
+    ],
+    [
+     "appartement",
+     "বাসা"
+    ]
+   ],
+   "note": "L'appartement ou la maison se dit « bāshā ». C'est le lieu où l'on habite.",
+   "say": {
+    "bāshā": "বাসা"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma",
+     "আমার"
+    ],
+    [
+     "chambre",
+     "ঘর"
+    ],
+    [
+     "petite",
+     "ছোট"
+    ]
+   ],
+   "note": "Une pièce de la maison se dit « ghor ». Petit se dit simplement après, sans verbe.",
+   "say": {
+    "ghor": "ঘর"
+   }
+  },
+  {
+   "words": [
+    [
+     "votre",
+     "আপনার"
+    ],
+    [
+     "appartement",
+     "বাসা"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "joli",
+     "সুন্দর"
+    ]
+   ],
+   "note": "Votre se dit « āpnār ». Il va avec le vous poli.",
+   "say": {
+    "āpnār": "আপনার"
+   }
+  },
+  {
+   "words": [
+    [
+     "ta",
+     "তোমার"
+    ],
+    [
+     "cuisine",
+     "রান্নাঘর"
+    ],
+    [
+     "très",
+     "অনেক"
+    ],
+    [
+     "grande",
+     "বড়"
+    ]
+   ],
+   "note": "Ton ou ta se dit « tomār ». Il va avec le tu des amis.",
+   "say": {
+    "tomār": "তোমার"
+   }
+  },
+  {
+   "words": [
+    [
+     "notre",
+     "আমাদের"
+    ],
+    [
+     "balcon",
+     "বারান্দা"
+    ],
+    [
+     "de la rue",
+     "রাস্তার"
+    ],
+    [
+     "vers le côté",
+     "দিকে"
+    ]
+   ],
+   "note": "Vers se dit « dike ». Il vient après le nom, comme tous ces petits mots.",
+   "say": {
+    "dike": "দিকে"
+   }
+  },
+  {
+   "words": [
+    [
+     "leur",
+     "তাদের"
+    ],
+    [
+     "appartement",
+     "বাসা"
+    ],
+    [
+     "trois",
+     "তিন"
+    ],
+    [
+     "à l'étage",
+     "তলায়"
+    ]
+   ],
+   "note": "Leur se dit « tāder ». Il n'y a pas de différence entre leur et leurs.",
+   "say": {
+    "tāder": "তাদের"
+   }
+  },
+  {
+   "words": [
+    [
+     "votre",
+     "আপনার"
+    ],
+    [
+     "nom",
+     "নাম"
+    ],
+    [
+     "quoi",
+     "কী"
+    ]
+   ],
+   "note": "Quoi se dit « kī ». On le place à la fin, là où viendrait la réponse.",
+   "say": {
+    "kī": "কী"
+   }
+  },
+  {
+   "words": [
+    [
+     "ta",
+     "তোমার"
+    ],
+    [
+     "mère",
+     "মা"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "ici",
+     "এখানে"
+    ],
+    [
+     "habiter",
+     "থাকেন"
+    ]
+   ],
+   "note": "Pour sa mère, même entre amis, on garde la forme polie du verbe. Habiter devient « thāken ».",
+   "say": {
+    "thāken": "থাকেন"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "আমার"
+    ],
+    [
+     "du voisin",
+     "প্রতিবেশীর"
+    ],
+    [
+     "nom",
+     "নাম"
+    ],
+    [
+     "Shumon",
+     "সুমন"
+    ]
+   ],
+   "note": "Du voisin se dit « protibeshir ». On ajoute simplement un r à la fin du mot.",
+   "say": {
+    "protibeshir": "প্রতিবেশীর"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "এটা"
+    ],
+    [
+     "ma",
+     "আমার"
+    ],
+    [
+     "clé",
+     "চাবি"
+    ],
+    [
+     "ou bien",
+     "নাকি"
+    ],
+    [
+     "ta",
+     "তোমার"
+    ]
+   ],
+   "note": "Pour proposer un choix, on dit « nāki ». C'est le ou bien de la question.",
+   "say": {
+    "nāki": "নাকি"
+   }
+  }
+ ],
+ "0-0-7": [
+  {
+   "words": [
+    [
+     "ceci",
+     "এটা"
+    ],
+    [
+     "quoi",
+     "কী"
+    ]
+   ],
+   "note": "Ceci se dit « eṭā ». La phrase se résume à ceci, puis quoi.",
+   "say": {
+    "eṭā": "এটা"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "এটা"
+    ],
+    [
+     "riz",
+     "চাল"
+    ]
+   ],
+   "note": "Le riz cru se dit « chāl ». Une fois cuit, il change de nom.",
+   "say": {
+    "chāl": "চাল"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "আর"
+    ],
+    [
+     "cela",
+     "ওটা"
+    ]
+   ],
+   "note": "Pour une chose plus loin, on dit « oṭā ». Le son du début change pour marquer la distance.",
+   "say": {
+    "oṭā": "ওটা"
+   }
+  },
+  {
+   "words": [
+    [
+     "cela",
+     "ওটা"
+    ],
+    [
+     "farine",
+     "আটা"
+    ]
+   ],
+   "note": "La farine se dit « āṭā ». Attention à ne pas la confondre avec cela, qui sonne presque pareil.",
+   "say": {
+    "āṭā": "আটা"
+   }
+  },
+  {
+   "words": [
+    [
+     "de ceci",
+     "এটার"
+    ],
+    [
+     "prix",
+     "দাম"
+    ],
+    [
+     "combien",
+     "কত"
+    ]
+   ],
+   "note": "Combien se dit « koto ». Pour un prix, on dit le prix de ceci, combien.",
+   "say": {
+    "koto": "কত"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "এটা"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "cher",
+     "দামি"
+    ]
+   ],
+   "note": "Cher se dit « dāmi ». Il vient du mot qui veut dire prix.",
+   "say": {
+    "dāmi": "দামি"
+   }
+  },
+  {
+   "words": [
+    [
+     "cela",
+     "ওটা"
+    ],
+    [
+     "donner",
+     "দিন"
+    ]
+   ],
+   "note": "Donnez se dit « din ». C'est la façon polie de demander quelque chose au marchand.",
+   "say": {
+    "din": "দিন"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "এটা"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "bon",
+     "ভালো"
+    ]
+   ],
+   "note": "Pour demander si c'est bon, on place le petit mot de question après ceci. Il se dit « ki ».",
+   "say": {
+    "ki": "কি"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "হ্যাঁ"
+    ],
+    [
+     "ceci",
+     "এটা"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "frais",
+     "তাজা"
+    ]
+   ],
+   "note": "Oui se dit aussi « hyāṃ ». C'est un oui plus simple, moins cérémonieux.",
+   "say": {
+    "hyāṃ": "হ্যাঁ"
+   }
+  },
+  {
+   "words": [
+    [
+     "cela",
+     "ওটা"
+    ],
+    [
+     "mon",
+     "আমার"
+    ],
+    [
+     "du voisin",
+     "প্রতিবেশীর"
+    ],
+    [
+     "boutique",
+     "দোকান"
+    ]
+   ],
+   "note": "La boutique se dit « dokān ». Le possesseur vient devant, ici mon voisin.",
+   "say": {
+    "dokān": "দোকান"
+   }
+  }
+ ],
+ "0-0-8": [
+  {
+   "words": [
+    [
+     "le rickshaw",
+     "রিকশাটা"
+    ],
+    [
+     "là-bas",
+     "ওখানে"
+    ]
+   ],
+   "note": "Là-bas se dit « okhāne ». Ici, la phrase n'a même pas de verbe.",
+   "say": {
+    "okhāne": "ওখানে"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "এই"
+    ],
+    [
+     "le rickshaw",
+     "রিকশাটা"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "coloré",
+     "রঙিন"
+    ]
+   ],
+   "note": "Pour dire le rickshaw, on ajoute ta à la fin. Cela donne « rikshāṭā ».",
+   "say": {
+    "rikshāṭā": "রিকশাটা"
+   }
+  },
+  {
+   "words": [
+    [
+     "conducteur de rickshaw",
+     "রিকশাওয়ালা"
+    ],
+    [
+     "l'homme",
+     "লোকটা"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "bon",
+     "ভালো"
+    ]
+   ],
+   "note": "L'homme se dit ici « lokṭā ». Avec la terminaison, il s'agit d'un homme précis.",
+   "say": {
+    "lokṭā": "লোকটা"
+   }
+  },
+  {
+   "words": [
+    [
+     "un",
+     "একটা"
+    ],
+    [
+     "thé",
+     "চা"
+    ],
+    [
+     "donner",
+     "দিন"
+    ]
+   ],
+   "note": "Pour dire un, on ajoute la même petite terminaison au nombre. Un thé se dit donc « ekṭā chā ».",
+   "say": {
+    "ekṭā chā": "একটা চা"
+   }
+  },
+  {
+   "words": [
+    [
+     "deux",
+     "দুইটা"
+    ],
+    [
+     "thé",
+     "চা"
+    ],
+    [
+     "donner",
+     "দিন"
+    ]
+   ],
+   "note": "Quand on compte des objets, deux se dit « duiṭā ». Le thé reste au singulier.",
+   "say": {
+    "duiṭā": "দুইটা"
+   }
+  },
+  {
+   "words": [
+    [
+     "le livre",
+     "বইটা"
+    ],
+    [
+     "de la table",
+     "টেবিলের"
+    ],
+    [
+     "dessus",
+     "ওপর"
+    ]
+   ],
+   "note": "Sur se dit « opor ». Il vient après la table, qui prend la terminaison de.",
+   "say": {
+    "opor": "ওপর"
+   }
+  },
+  {
+   "words": [
+    [
+     "l'enfant",
+     "বাচ্চাটি"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "mignon",
+     "মিষ্টি"
+    ]
+   ],
+   "note": "La terminaison ti est plus douce et plus affectueuse. L'enfant se dit « bāchchāṭi ».",
+   "say": {
+    "bāchchāṭi": "বাচ্চাটি"
+   }
+  },
+  {
+   "words": [
+    [
+     "la maison",
+     "বাড়িটি"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "belle",
+     "সুন্দর"
+    ]
+   ],
+   "note": "Beau se dit « shundor ». On l'emploie pour une maison, un paysage ou une personne.",
+   "say": {
+    "shundor": "সুন্দর"
+   }
+  },
+  {
+   "words": [
+    [
+     "la rue",
+     "রাস্তাটা"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "étroite",
+     "সরু"
+    ]
+   ],
+   "note": "Étroit se dit « shoru ». Les ruelles de Dhaka le sont souvent.",
+   "say": {
+    "shoru": "সরু"
+   }
+  },
+  {
+   "words": [
+    [
+     "le prix de la course",
+     "ভাড়াটা"
+    ],
+    [
+     "combien",
+     "কত"
+    ]
+   ],
+   "note": "Le prix d'une course se dit « bhāṛāṭā ». Le même mot sert aussi pour un loyer.",
+   "say": {
+    "bhāṛāṭā": "ভাড়াটা"
+   }
+  }
+ ],
+ "0-0-9": [
+  {
+   "words": [
+    [
+     "à Dhanmondi",
+     "ধানমন্ডিতে"
+    ],
+    [
+     "un",
+     "একটা"
+    ],
+    [
+     "lac",
+     "লেক"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "Il y a se dit « āchhe ». Il se place tout à la fin, comme un verbe.",
+   "say": {
+    "āchhe": "আছে"
+   }
+  },
+  {
+   "words": [
+    [
+     "près",
+     "কাছে"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "de médicaments",
+     "ওষুধের"
+    ],
+    [
+     "boutique",
+     "দোকান"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "Une pharmacie, c'est la boutique des médicaments. Médicament se dit « oshudh ».",
+   "say": {
+    "oshudh": "ওষুধ"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "জি"
+    ],
+    [
+     "au coin",
+     "মোড়ে"
+    ],
+    [
+     "un",
+     "একটা"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "Au coin de la rue se dit « moṛe ». La réponse peut être très courte.",
+   "say": {
+    "moṛe": "মোড়ে"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "আমার"
+    ],
+    [
+     "un",
+     "একটা"
+    ],
+    [
+     "petit",
+     "ছোট"
+    ],
+    [
+     "appartement",
+     "বাসা"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "Pour dire j'ai, on dit mon, puis la chose, puis il y a. Il n'y a pas de verbe avoir. Il y a se dit « āchhe ».",
+   "say": {
+    "āchhe": "আছে"
+   }
+  },
+  {
+   "words": [
+    [
+     "votre",
+     "আপনার"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "enfants",
+     "ছেলেমেয়ে"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "Les enfants se dit « chhelemeye ». C'est simplement fils et fille collés ensemble.",
+   "say": {
+    "chhelemeye": "ছেলেমেয়ে"
+   }
+  },
+  {
+   "words": [
+    [
+     "mes",
+     "আমার"
+    ],
+    [
+     "deux",
+     "দুই"
+    ],
+    [
+     "filles",
+     "মেয়ে"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "Après un nombre, le nom reste au singulier. Deux se dit « dui ».",
+   "say": {
+    "dui": "দুই"
+   }
+  },
+  {
+   "words": [
+    [
+     "à la maison",
+     "বাসায়"
+    ],
+    [
+     "thé",
+     "চা"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "À la maison se dit « bāshāy ». Le lieu vient en premier, puis la chose qui s'y trouve.",
+   "say": {
+    "bāshāy": "বাসায়"
+   }
+  },
+  {
+   "words": [
+    [
+     "ton",
+     "তোমার"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "vélo",
+     "সাইকেল"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "Le vélo se dit « shāikel ». C'est un mot venu de l'anglais.",
+   "say": {
+    "shāikel": "সাইকেল"
+   }
+  },
+  {
+   "words": [
+    [
+     "dans la rue",
+     "রাস্তায়"
+    ],
+    [
+     "beaucoup",
+     "অনেক"
+    ],
+    [
+     "rickshaw",
+     "রিকশা"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "Beaucoup se dit « onek ». Le nom qui suit reste au singulier.",
+   "say": {
+    "onek": "অনেক"
+   }
+  },
+  {
+   "words": [
+    [
+     "tout près",
+     "কাছেই"
+    ],
+    [
+     "un",
+     "একটা"
+    ],
+    [
+     "bon",
+     "ভালো"
+    ],
+    [
+     "marché",
+     "বাজার"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "Pour insister, on ajoute un i à la fin du mot. Tout près se dit « kāchhei ».",
+   "say": {
+    "kāchhei": "কাছেই"
+   }
+  }
+ ],
+ "0-0-10": [
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "আজ"
+    ],
+    [
+     "eau",
+     "পানি"
+    ],
+    [
+     "il n'y a pas",
+     "নেই"
+    ]
+   ],
+   "note": "Il n'y a pas se dit « nei ». C'est le contraire de il y a, en un seul mot.",
+   "say": {
+    "nei": "নেই"
+   }
+  },
+  {
+   "words": [
+    [
+     "électricité",
+     "বিদ্যুৎ"
+    ],
+    [
+     "il n'y a pas",
+     "নেই"
+    ]
+   ],
+   "note": "L'électricité se dit « biddut ». Les coupures de courant sont fréquentes à Dhaka.",
+   "say": {
+    "biddut": "বিদ্যুৎ"
+   }
+  },
+  {
+   "words": [
+    [
+     "à la maison",
+     "বাসায়"
+    ],
+    [
+     "sucre",
+     "চিনি"
+    ],
+    [
+     "il n'y a pas",
+     "নেই"
+    ]
+   ],
+   "note": "Ici, le petit mot négatif prend la place du verbe. On ne dit pas il y a, puis non. On dit simplement « nei ».",
+   "say": {
+    "nei": "নেই"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "আমার"
+    ],
+    [
+     "voiture",
+     "গাড়ি"
+    ],
+    [
+     "il n'y a pas",
+     "নেই"
+    ]
+   ],
+   "note": "Je n'ai pas se dit mon, puis la chose, puis il n'y a pas. La voiture se dit « gāṛi ».",
+   "say": {
+    "gāṛi": "গাড়ি"
+   }
+  },
+  {
+   "words": [
+    [
+     "de vous",
+     "আপনার"
+    ],
+    [
+     "près",
+     "কাছে"
+    ],
+    [
+     "monnaie",
+     "খুচরা"
+    ],
+    [
+     "il n'y a pas",
+     "নেই"
+    ]
+   ],
+   "note": "La monnaie se dit « khuchrā ». Pour de l'argent sur soi, on dit près de vous.",
+   "say": {
+    "khuchrā": "খুচরা"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "না"
+    ],
+    [
+     "de moi",
+     "আমার"
+    ],
+    [
+     "près",
+     "কাছে"
+    ],
+    [
+     "monnaie",
+     "খুচরা"
+    ],
+    [
+     "il n'y a pas",
+     "নেই"
+    ]
+   ],
+   "note": "Pour ce qu'on a sur soi, on dit près de moi. Près se dit « kāchhe ».",
+   "say": {
+    "kāchhe": "কাছে"
+   }
+  },
+  {
+   "words": [
+    [
+     "voisin",
+     "প্রতিবেশী"
+    ],
+    [
+     "à la maison",
+     "বাসায়"
+    ],
+    [
+     "n'est pas là",
+     "নেই"
+    ]
+   ],
+   "note": "Pour une personne absente, on emploie le même mot. Il n'est pas là se dit « nei ».",
+   "say": {
+    "nei": "নেই"
+   }
+  },
+  {
+   "words": [
+    [
+     "aucun",
+     "কোনো"
+    ],
+    [
+     "problème",
+     "সমস্যা"
+    ],
+    [
+     "il n'y a pas",
+     "নেই"
+    ]
+   ],
+   "note": "Pas de problème se dit aucun problème il n'y a pas. Problème se dit « shomoshshā ».",
+   "say": {
+    "shomoshshā": "সমস্যা"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "আজ"
+    ],
+    [
+     "le matin",
+     "সকালে"
+    ],
+    [
+     "mon",
+     "আমার"
+    ],
+    [
+     "temps",
+     "সময়"
+    ],
+    [
+     "il n'y a pas",
+     "নেই"
+    ]
+   ],
+   "note": "Le temps se dit « shomoy ». Je n'ai pas le temps, c'est mon temps il n'y a pas.",
+   "say": {
+    "shomoy": "সময়"
+   }
+  },
+  {
+   "words": [
+    [
+     "dans la rue",
+     "রাস্তায়"
+    ],
+    [
+     "aucun",
+     "কোনো"
+    ],
+    [
+     "rickshaw",
+     "রিকশা"
+    ],
+    [
+     "il n'y a pas",
+     "নেই"
+    ]
+   ],
+   "note": "Aucun se dit « kono ». Il se place devant le nom.",
+   "say": {
+    "kono": "কোনো"
+   }
+  }
+ ],
+ "0-0-11": [
+  {
+   "words": [
+    [
+     "un",
+     "এক"
+    ],
+    [
+     "deux",
+     "দুই"
+    ],
+    [
+     "trois",
+     "তিন"
+    ],
+    [
+     "quatre",
+     "চার"
+    ],
+    [
+     "cinq",
+     "পাঁচ"
+    ]
+   ],
+   "note": "Un se dit « ek ». Dans cinq, on entend une voyelle nasale, comme en français.",
+   "say": {
+    "ek": "এক"
+   }
+  },
+  {
+   "words": [
+    [
+     "six",
+     "ছয়"
+    ],
+    [
+     "sept",
+     "সাত"
+    ],
+    [
+     "huit",
+     "আট"
+    ],
+    [
+     "neuf",
+     "নয়"
+    ],
+    [
+     "dix",
+     "দশ"
+    ]
+   ],
+   "note": "Dix se dit « dosh ». C'est un nombre très utile pour les prix.",
+   "say": {
+    "dosh": "দশ"
+   }
+  },
+  {
+   "words": [
+    [
+     "chaque",
+     "প্রতিটা"
+    ],
+    [
+     "banane",
+     "কলা"
+    ],
+    [
+     "cinq",
+     "পাঁচ"
+    ],
+    [
+     "takas",
+     "টাকা"
+    ]
+   ],
+   "note": "La monnaie du Bangladesh, c'est le « ṭākā ». Le nom ne prend pas de pluriel après un nombre.",
+   "say": {
+    "ṭākā": "টাকা"
+   }
+  },
+  {
+   "words": [
+    [
+     "une",
+     "এক"
+    ],
+    [
+     "tasse",
+     "কাপ"
+    ],
+    [
+     "thé",
+     "চা"
+    ],
+    [
+     "dix",
+     "দশ"
+    ],
+    [
+     "takas",
+     "টাকা"
+    ]
+   ],
+   "note": "Une tasse se dit « ek kāp ». Pas besoin de petit mot entre la tasse et le thé.",
+   "say": {
+    "ek kāp": "এক কাপ"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "আমাকে"
+    ],
+    [
+     "trois",
+     "তিনটা"
+    ],
+    [
+     "œufs",
+     "ডিম"
+    ],
+    [
+     "donner",
+     "দিন"
+    ]
+   ],
+   "note": "À moi se dit « āmāke ». Trois œufs se dit trois, la terminaison ta, puis œuf.",
+   "say": {
+    "āmāke": "আমাকে"
+   }
+  },
+  {
+   "words": [
+    [
+     "un",
+     "এক"
+    ],
+    [
+     "kilo",
+     "কেজি"
+    ],
+    [
+     "mangue",
+     "আম"
+    ],
+    [
+     "cent",
+     "একশো"
+    ],
+    [
+     "takas",
+     "টাকা"
+    ]
+   ],
+   "note": "Cent se dit « eksho ». Littéralement, c'est un cent.",
+   "say": {
+    "eksho": "একশো"
+   }
+  },
+  {
+   "words": [
+    [
+     "total",
+     "মোট"
+    ],
+    [
+     "vingt",
+     "বিশ"
+    ],
+    [
+     "takas",
+     "টাকা"
+    ]
+   ],
+   "note": "Vingt se dit « bish ». Le total se dit avant le nombre.",
+   "say": {
+    "bish": "বিশ"
+   }
+  },
+  {
+   "words": [
+    [
+     "Dhanmondi",
+     "ধানমন্ডি"
+    ],
+    [
+     "jusqu'à",
+     "পর্যন্ত"
+    ],
+    [
+     "rickshaw",
+     "রিকশা"
+    ],
+    [
+     "prix de la course",
+     "ভাড়া"
+    ],
+    [
+     "cinquante",
+     "পঞ্চাশ"
+    ],
+    [
+     "takas",
+     "টাকা"
+    ]
+   ],
+   "note": "Jusqu'à se dit « porjonto ». Il se place après le lieu.",
+   "say": {
+    "porjonto": "পর্যন্ত"
+   }
+  },
+  {
+   "words": [
+    [
+     "cinquante",
+     "পঞ্চাশ"
+    ],
+    [
+     "takas",
+     "টাকা"
+    ],
+    [
+     "beaucoup",
+     "অনেক"
+    ],
+    [
+     "trop",
+     "বেশি"
+    ]
+   ],
+   "note": "Trop se dit « beshi ». Beaucoup trop, c'est beaucoup, puis trop.",
+   "say": {
+    "beshi": "বেশি"
+   }
+  },
+  {
+   "words": [
+    [
+     "quarante",
+     "চল্লিশ"
+    ],
+    [
+     "takas",
+     "টাকা"
+    ],
+    [
+     "juste",
+     "ঠিক"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "Pour dire d'accord, on dit « ṭhik āchhe ». Cela veut dire c'est juste.",
+   "say": {
+    "ṭhik āchhe": "ঠিক আছে"
+   }
+  }
+ ],
+ "0-0-12": [
+  {
+   "words": [
+    [
+     "Dhanmondi",
+     "ধানমন্ডি"
+    ],
+    [
+     "lac",
+     "লেক"
+    ],
+    [
+     "où",
+     "কোথায়"
+    ]
+   ],
+   "note": "Pour demander où est quelque chose, on dit la chose, puis où. Pas de verbe être. Où se dit « kothāy ».",
+   "say": {
+    "kothāy": "কোথায়"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "où",
+     "কোথায়"
+    ],
+    [
+     "habiter",
+     "থাকেন"
+    ]
+   ],
+   "note": "Habiter se dit littéralement rester. Avec vous, cela donne « thāken ».",
+   "say": {
+    "thāken": "থাকেন"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "à Dhaka",
+     "ঢাকায়"
+    ],
+    [
+     "habiter",
+     "থাকি"
+    ]
+   ],
+   "note": "À Dhaka se dit « Ḍhākāy ». Après un a, la terminaison de lieu devient un y.",
+   "say": {
+    "Ḍhākāy": "ঢাকায়"
+   }
+  },
+  {
+   "words": [
+    [
+     "du thé",
+     "চায়ের"
+    ],
+    [
+     "boutique",
+     "দোকান"
+    ],
+    [
+     "où",
+     "কোথায়"
+    ]
+   ],
+   "note": "Du thé se dit « chāyer ». La boutique de thé, c'est la boutique du thé.",
+   "say": {
+    "chāyer": "চায়ের"
+   }
+  },
+  {
+   "words": [
+    [
+     "la boutique",
+     "দোকানটা"
+    ],
+    [
+     "au coin",
+     "মোড়ে"
+    ]
+   ],
+   "note": "La boutique se dit ici « dokānṭā ». La phrase n'a pas besoin de verbe.",
+   "say": {
+    "dokānṭā": "দোকানটা"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "à Kawran Bazar",
+     "কারওয়ান বাজারে"
+    ],
+    [
+     "travail",
+     "কাজ"
+    ],
+    [
+     "faire",
+     "করি"
+    ]
+   ],
+   "note": "Travailler se dit faire du travail. Le travail se dit « kāj ».",
+   "say": {
+    "kāj": "কাজ"
+   }
+  },
+  {
+   "words": [
+    [
+     "riz",
+     "চাল"
+    ],
+    [
+     "dans la cuisine",
+     "রান্নাঘরে"
+    ]
+   ],
+   "note": "Dans la cuisine se dit « rānnāghore ». Après une consonne, on ajoute simplement un e.",
+   "say": {
+    "rānnāghore": "রান্নাঘরে"
+   }
+  },
+  {
+   "words": [
+    [
+     "ta",
+     "তোমার"
+    ],
+    [
+     "mère",
+     "মা"
+    ],
+    [
+     "où",
+     "কোথায়"
+    ]
+   ],
+   "note": "Ta mère se dit « tomār mā ». Mère, c'est un mot que tout le monde reconnaît.",
+   "say": {
+    "tomār mā": "তোমার মা"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "উনি"
+    ],
+    [
+     "au marché",
+     "বাজারে"
+    ]
+   ],
+   "note": "Pour parler poliment d'elle ou de lui, on dit « uni ». Le même mot sert pour les deux.",
+   "say": {
+    "uni": "উনি"
+   }
+  },
+  {
+   "words": [
+    [
+     "clé",
+     "চাবি"
+    ],
+    [
+     "ma",
+     "আমার"
+    ],
+    [
+     "dans la poche",
+     "পকেটে"
+    ]
+   ],
+   "note": "Dans ma poche se dit « āmār pokeṭe ». Le mot poche vient de l'anglais.",
+   "say": {
+    "āmār pokeṭe": "আমার পকেটে"
+   }
+  }
+ ],
+ "0-0-13": [
+  {
+   "words": [
+    [
+     "pardon",
+     "মাফ"
+    ],
+    [
+     "faire",
+     "করবেন"
+    ],
+    [
+     "quelle heure",
+     "কটা"
+    ],
+    [
+     "sonner",
+     "বাজে"
+    ]
+   ],
+   "note": "Pour s'excuser, on dit « māf korben ». C'est l'excusez-moi poli.",
+   "say": {
+    "māf korben": "মাফ করবেন"
+   }
+  },
+  {
+   "words": [
+    [
+     "sept heures",
+     "সাতটা"
+    ],
+    [
+     "sonner",
+     "বাজে"
+    ]
+   ],
+   "note": "Pour l'heure, on dit sept heures sonne. Sonner se dit « bāje ».",
+   "say": {
+    "bāje": "বাজে"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "à six heures",
+     "ছয়টায়"
+    ],
+    [
+     "se lever",
+     "উঠি"
+    ]
+   ],
+   "note": "À six heures se dit « chhoyṭāy ». On ajoute la terminaison de lieu à l'heure.",
+   "say": {
+    "chhoyṭāy": "ছয়টায়"
+   }
+  },
+  {
+   "words": [
+    [
+     "marché",
+     "বাজার"
+    ],
+    [
+     "à huit heures",
+     "আটটায়"
+    ],
+    [
+     "ouvrir",
+     "খোলে"
+    ]
+   ],
+   "note": "Ouvrir se dit ici « khole ». L'heure se place juste avant le verbe.",
+   "say": {
+    "khole": "খোলে"
+   }
+  },
+  {
+   "words": [
+    [
+     "et demie",
+     "সাড়ে"
+    ],
+    [
+     "sept heures",
+     "সাতটা"
+    ],
+    [
+     "sonner",
+     "বাজে"
+    ]
+   ],
+   "note": "Et demie se dit « shāṛe ». Il se place avant l'heure, pas après.",
+   "say": {
+    "shāṛe": "সাড়ে"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "matin",
+     "সকাল"
+    ],
+    [
+     "à sept heures",
+     "সাতটায়"
+    ],
+    [
+     "thé",
+     "চা"
+    ],
+    [
+     "boire",
+     "খাই"
+    ]
+   ],
+   "note": "Pour sept heures du matin, on dit matin, puis sept heures. Le matin se dit « shokāl ».",
+   "say": {
+    "shokāl": "সকাল"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "midi",
+     "দুপুর"
+    ],
+    [
+     "à une heure",
+     "একটায়"
+    ],
+    [
+     "manger",
+     "খাই"
+    ]
+   ],
+   "note": "Midi se dit « dupur ». Une heure de l'après-midi, c'est donc midi une heure.",
+   "say": {
+    "dupur": "দুপুর"
+   }
+  },
+  {
+   "words": [
+    [
+     "boutique",
+     "দোকান"
+    ],
+    [
+     "à cinq heures",
+     "পাঁচটায়"
+    ],
+    [
+     "fermé",
+     "বন্ধ"
+    ],
+    [
+     "devenir",
+     "হয়"
+    ]
+   ],
+   "note": "Fermer se dit devenir fermé. Fermé se dit « bondho ».",
+   "say": {
+    "bondho": "বন্ধ"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "à quelle heure",
+     "কটায়"
+    ],
+    [
+     "à la maison",
+     "বাসায়"
+    ],
+    [
+     "rentrer",
+     "ফেরেন"
+    ]
+   ],
+   "note": "À quelle heure se dit « koṭāy ». C'est combien, avec la terminaison de l'heure.",
+   "say": {
+    "koṭāy": "কটায়"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "soir",
+     "সন্ধ্যা"
+    ],
+    [
+     "à six heures",
+     "ছয়টায়"
+    ],
+    [
+     "rentrer",
+     "ফিরি"
+    ]
+   ],
+   "note": "Le soir se dit « shondhā ». C'est le moment du coucher du soleil, avant la nuit.",
+   "say": {
+    "shondhā": "সন্ধ্যা"
+   }
+  }
+ ],
+ "0-0-14": [
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "quoi",
+     "কী"
+    ],
+    [
+     "faire",
+     "করেন"
+    ]
+   ],
+   "note": "Pour demander le métier, on dit vous faites quoi. Quoi se dit « kī ».",
+   "say": {
+    "kī": "কী"
+   }
+  },
+  {
+   "words": [
+    [
+     "lui",
+     "উনি"
+    ],
+    [
+     "qui",
+     "কে"
+    ]
+   ],
+   "note": "Qui se dit « ke ». Il vient à la fin, à la place de la réponse.",
+   "say": {
+    "ke": "কে"
+   }
+  },
+  {
+   "words": [
+    [
+     "lui",
+     "উনি"
+    ],
+    [
+     "mon",
+     "আমার"
+    ],
+    [
+     "mari",
+     "স্বামী"
+    ]
+   ],
+   "note": "Le mari se dit « shāmi ». On en parle avec le pronom poli, par respect.",
+   "say": {
+    "shāmi": "স্বামী"
+   }
+  },
+  {
+   "words": [
+    [
+     "marché",
+     "বাজার"
+    ],
+    [
+     "quand",
+     "কবে"
+    ],
+    [
+     "fermé",
+     "বন্ধ"
+    ],
+    [
+     "reste",
+     "থাকে"
+    ]
+   ],
+   "note": "Pour demander quel jour, on dit « kobe ». C'est le quand des dates, pas des heures.",
+   "say": {
+    "kobe": "কবে"
+   }
+  },
+  {
+   "words": [
+    [
+     "thé",
+     "চা"
+    ],
+    [
+     "froid",
+     "ঠান্ডা"
+    ],
+    [
+     "pourquoi",
+     "কেন"
+    ]
+   ],
+   "note": "Pourquoi se dit « keno ». On le met souvent tout à la fin.",
+   "say": {
+    "keno": "কেন"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "manger",
+     "খান"
+    ],
+    [
+     "pas",
+     "না"
+    ],
+    [
+     "pourquoi",
+     "কেন"
+    ]
+   ],
+   "note": "Pourquoi peut même venir après la négation. Cela donne « nā keno ».",
+   "say": {
+    "nā keno": "না কেন"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "আজ"
+    ],
+    [
+     "quoi",
+     "কী"
+    ],
+    [
+     "cuisine",
+     "রান্না"
+    ]
+   ],
+   "note": "Aujourd'hui se dit « āj ». Il ouvre souvent la phrase.",
+   "say": {
+    "āj": "আজ"
+   }
+  },
+  {
+   "words": [
+    [
+     "votre",
+     "আপনার"
+    ],
+    [
+     "du fils",
+     "ছেলের"
+    ],
+    [
+     "nom",
+     "নাম"
+    ],
+    [
+     "quoi",
+     "কী"
+    ]
+   ],
+   "note": "Comment s'appelle, c'est quel est le nom. Du fils se dit « chheler ».",
+   "say": {
+    "chheler": "ছেলের"
+   }
+  },
+  {
+   "words": [
+    [
+     "votre",
+     "আপনাদের"
+    ],
+    [
+     "dans la maison",
+     "বাসায়"
+    ],
+    [
+     "qui",
+     "কে"
+    ],
+    [
+     "marché",
+     "বাজার"
+    ],
+    [
+     "faire",
+     "করে"
+    ]
+   ],
+   "note": "Faire les courses, c'est faire le marché, « bājār kore ». Le mot pour qui se place juste avant.",
+   "say": {
+    "bājār kore": "বাজার করে"
+   }
+  },
+  {
+   "words": [
+    [
+     "votre",
+     "আপনার"
+    ],
+    [
+     "quand",
+     "কবে"
+    ],
+    [
+     "temps",
+     "সময়"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ]
+   ],
+   "note": "Avoir du temps se dit à vous, du temps, il y a. Il y a se dit « āchhe ».",
+   "say": {
+    "āchhe": "আছে"
+   }
+  }
+ ],
+ "0-0-15": [
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "une",
+     "এক"
+    ],
+    [
+     "tasse",
+     "কাপ"
+    ],
+    [
+     "lait",
+     "দুধ"
+    ],
+    [
+     "thé",
+     "চা"
+    ],
+    [
+     "vouloir",
+     "চাই"
+    ]
+   ],
+   "note": "Je voudrais se dit « chāi ». C'est le même mot pour je veux, et c'est poli. Attention, il ressemble au mot thé.",
+   "say": {
+    "chāi": "চাই"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "riz",
+     "ভাত"
+    ],
+    [
+     "et",
+     "আর"
+    ],
+    [
+     "dal",
+     "ডাল"
+    ],
+    [
+     "vouloir",
+     "চাই"
+    ]
+   ],
+   "note": "Et se dit « ār ». Il relie deux mots, comme en français.",
+   "say": {
+    "ār": "আর"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "eau",
+     "পানি"
+    ],
+    [
+     "vouloir",
+     "চান"
+    ]
+   ],
+   "note": "Au Bangladesh, l'eau se dit « pāni ». En Inde, les Bengalis emploient souvent un autre mot.",
+   "say": {
+    "pāni": "পানি"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "জি"
+    ],
+    [
+     "froide",
+     "ঠান্ডা"
+    ],
+    [
+     "eau",
+     "পানি"
+    ],
+    [
+     "vouloir",
+     "চাই"
+    ]
+   ],
+   "note": "Froid se dit « ṭhānḍā ». On le place devant l'eau.",
+   "say": {
+    "ṭhānḍā": "ঠান্ডা"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "তুমি"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "samoussa",
+     "সিঙ্গারা"
+    ],
+    [
+     "vouloir",
+     "চাও"
+    ]
+   ],
+   "note": "Avec tu, vouloir devient « chāo ». Le samoussa porte un nom tout proche.",
+   "say": {
+    "chāo": "চাও"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "sucre",
+     "চিনি"
+    ],
+    [
+     "vouloir",
+     "চাই"
+    ],
+    [
+     "pas",
+     "না"
+    ]
+   ],
+   "note": "Je ne veux pas se dit « chāi nā ». La négation suit toujours le verbe.",
+   "say": {
+    "chāi nā": "চাই না"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "আমার"
+    ],
+    [
+     "ami",
+     "বন্ধু"
+    ],
+    [
+     "poisson",
+     "মাছ"
+    ],
+    [
+     "vouloir",
+     "চায়"
+    ]
+   ],
+   "note": "Pour il ou elle, vouloir devient « chāy ». Le poisson vient juste avant.",
+   "say": {
+    "chāy": "চায়"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "আমরা"
+    ],
+    [
+     "addition",
+     "বিল"
+    ],
+    [
+     "vouloir",
+     "চাই"
+    ]
+   ],
+   "note": "L'addition se dit « bil ». Avec nous, vouloir se dit comme avec je.",
+   "say": {
+    "bil": "বিল"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "encore un peu",
+     "আরেকটু"
+    ],
+    [
+     "dal",
+     "ডাল"
+    ],
+    [
+     "vouloir",
+     "চাই"
+    ]
+   ],
+   "note": "Encore un peu se dit « ārekṭu ». C'est très utile à table.",
+   "say": {
+    "ārekṭu": "আরেকটু"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "quoi",
+     "কী"
+    ],
+    [
+     "vouloir",
+     "চান"
+    ]
+   ],
+   "note": "Avec vous, vouloir devient « chān ». C'est la question du serveur.",
+   "say": {
+    "chān": "চান"
+   }
+  }
+ ],
+ "0-0-16": [
+  {
+   "words": [
+    [
+     "ceci",
+     "এটা"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "bonne",
+     "ভালো"
+    ],
+    [
+     "nourriture",
+     "খাবার"
+    ]
+   ],
+   "note": "L'adjectif se place devant le nom. Bonne cuisine se dit « bhālo khābār ».",
+   "say": {
+    "bhālo khābār": "ভালো খাবার"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "frais",
+     "তাজা"
+    ],
+    [
+     "poisson",
+     "মাছ"
+    ],
+    [
+     "vouloir",
+     "চাই"
+    ]
+   ],
+   "note": "Frais se dit « tājā ». Il passe devant le poisson.",
+   "say": {
+    "tājā": "তাজা"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "chaud",
+     "গরম"
+    ],
+    [
+     "thé",
+     "চা"
+    ],
+    [
+     "aimer",
+     "ভালোবাসি"
+    ]
+   ],
+   "note": "Adorer se dit « bhālobāshi ». C'est aussi le verbe aimer d'amour.",
+   "say": {
+    "bhālobāshi": "ভালোবাসি"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "এটা"
+    ],
+    [
+     "un",
+     "একটা"
+    ],
+    [
+     "vieux",
+     "পুরনো"
+    ],
+    [
+     "rickshaw",
+     "রিকশা"
+    ]
+   ],
+   "note": "Vieux se dit « purono ». On l'emploie pour une chose, pas pour une personne.",
+   "say": {
+    "purono": "পুরনো"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "আমরা"
+    ],
+    [
+     "nouveau",
+     "নতুন"
+    ],
+    [
+     "dans un appartement",
+     "বাসায়"
+    ],
+    [
+     "habiter",
+     "থাকি"
+    ]
+   ],
+   "note": "Nouveau se dit « notun ». Il ne change pas au féminin.",
+   "say": {
+    "notun": "নতুন"
+   }
+  },
+  {
+   "words": [
+    [
+     "Dhanmondi",
+     "ধানমন্ডি"
+    ],
+    [
+     "un",
+     "একটা"
+    ],
+    [
+     "beau",
+     "সুন্দর"
+    ],
+    [
+     "quartier",
+     "এলাকা"
+    ]
+   ],
+   "note": "Le quartier se dit « elākā ». Un beau quartier, c'est un, beau, puis quartier.",
+   "say": {
+    "elākā": "এলাকা"
+   }
+  },
+  {
+   "words": [
+    [
+     "mûres",
+     "পাকা"
+    ],
+    [
+     "bananes",
+     "কলা"
+    ],
+    [
+     "vouloir",
+     "চাই"
+    ]
+   ],
+   "note": "Mûr se dit « pākā ». Ici, la phrase n'a même pas de sujet.",
+   "say": {
+    "pākā": "পাকা"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "আমার"
+    ],
+    [
+     "voisin",
+     "প্রতিবেশী"
+    ],
+    [
+     "un",
+     "একজন"
+    ],
+    [
+     "bonne",
+     "ভালো"
+    ],
+    [
+     "personne",
+     "মানুষ"
+    ]
+   ],
+   "note": "Pour une personne, un se dit « ekjon ». La terminaison change pour les humains.",
+   "say": {
+    "ekjon": "একজন"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "এটা"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "piquant",
+     "ঝাল"
+    ],
+    [
+     "plat",
+     "খাবার"
+    ]
+   ],
+   "note": "Le plat, ou la nourriture, se dit « khābār ». Il vient du verbe manger.",
+   "say": {
+    "khābār": "খাবার"
+   }
+  },
+  {
+   "words": [
+    [
+     "chaud",
+     "গরম"
+    ],
+    [
+     "riz",
+     "ভাত"
+    ],
+    [
+     "et",
+     "আর"
+    ],
+    [
+     "dal",
+     "ডাল"
+    ],
+    [
+     "formidable",
+     "দারুণ"
+    ]
+   ],
+   "note": "Pour dire super, on dit « dārun ». C'est une exclamation très courante.",
+   "say": {
+    "dārun": "দারুণ"
+   }
+  }
+ ],
+ "0-0-17": [
+  {
+   "words": [
+    [
+     "voisins",
+     "প্রতিবেশীরা"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "bons",
+     "ভালো"
+    ]
+   ],
+   "note": "Pour des personnes, le pluriel se fait avec ra. Les voisins se dit « protibeshirā ».",
+   "say": {
+    "protibeshirā": "প্রতিবেশীরা"
+   }
+  },
+  {
+   "words": [
+    [
+     "enfants",
+     "বাচ্চারা"
+    ],
+    [
+     "dans la rue",
+     "রাস্তায়"
+    ],
+    [
+     "jouer",
+     "খেলে"
+    ]
+   ],
+   "note": "Les enfants se dit « bāchchārā ». Jouer se place à la fin.",
+   "say": {
+    "bāchchārā": "বাচ্চারা"
+   }
+  },
+  {
+   "words": [
+    [
+     "mes",
+     "আমার"
+    ],
+    [
+     "amis",
+     "বন্ধুরা"
+    ],
+    [
+     "à Dhanmondi",
+     "ধানমন্ডিতে"
+    ],
+    [
+     "habiter",
+     "থাকে"
+    ]
+   ],
+   "note": "Mes amis se dit « āmār bondhurā ». Mon et mes, c'est le même mot.",
+   "say": {
+    "āmār bondhurā": "আমার বন্ধুরা"
+   }
+  },
+  {
+   "words": [
+    [
+     "mangues",
+     "আমগুলো"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "sucrées",
+     "মিষ্টি"
+    ]
+   ],
+   "note": "Pour des choses, le pluriel se fait avec goulo. Les mangues se dit « āmgulo ».",
+   "say": {
+    "āmgulo": "আমগুলো"
+   }
+  },
+  {
+   "words": [
+    [
+     "œufs",
+     "ডিমগুলো"
+    ],
+    [
+     "dans la cuisine",
+     "রান্নাঘরে"
+    ]
+   ],
+   "note": "Les œufs se dit « ḍimgulo ». Ce pluriel désigne des œufs bien précis.",
+   "say": {
+    "ḍimgulo": "ডিমগুলো"
+   }
+  },
+  {
+   "words": [
+    [
+     "rickshaws",
+     "রিকশাগুলো"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "colorés",
+     "রঙিন"
+    ]
+   ],
+   "note": "Coloré se dit « rongin ». Il vient du mot couleur.",
+   "say": {
+    "rongin": "রঙিন"
+   }
+  },
+  {
+   "words": [
+    [
+     "marchands",
+     "দোকানদাররা"
+    ],
+    [
+     "le matin",
+     "সকালে"
+    ],
+    [
+     "venir",
+     "আসে"
+    ]
+   ],
+   "note": "Les marchands se dit « dokāndārrā ». C'est celui qui tient la boutique, avec le pluriel des personnes.",
+   "say": {
+    "dokāndārrā": "দোকানদাররা"
+   }
+  },
+  {
+   "words": [
+    [
+     "du quartier",
+     "পাড়ার"
+    ],
+    [
+     "femmes",
+     "মেয়েরা"
+    ],
+    [
+     "ensemble",
+     "একসাথে"
+    ],
+    [
+     "thé",
+     "চা"
+    ],
+    [
+     "boire",
+     "খায়"
+    ]
+   ],
+   "note": "Ensemble se dit « ekshāthe ». Il se place devant le verbe.",
+   "say": {
+    "ekshāthe": "একসাথে"
+   }
+  },
+  {
+   "words": [
+    [
+     "légumes",
+     "সবজিগুলো"
+    ],
+    [
+     "petit mot de question",
+     "কি"
+    ],
+    [
+     "frais",
+     "তাজা"
+    ]
+   ],
+   "note": "Les légumes se dit « shobjigulo ». Ici, le pluriel montre des légumes précis.",
+   "say": {
+    "shobjigulo": "সবজিগুলো"
+   }
+  },
+  {
+   "words": [
+    [
+     "clés",
+     "চাবিগুলো"
+    ],
+    [
+     "où",
+     "কোথায়"
+    ]
+   ],
+   "note": "Les clés se dit « chābigulo ». Le mot clé vient du portugais, comme plusieurs mots bengalis.",
+   "say": {
+    "chābigulo": "চাবিগুলো"
+   }
+  }
+ ],
+ "0-0-18": [
+  {
+   "words": [
+    [
+     "Rina",
+     "রিনা"
+    ],
+    [
+     "grande sœur",
+     "আপা"
+    ],
+    [
+     "comment",
+     "কেমন"
+    ],
+    [
+     "être",
+     "আছেন"
+    ]
+   ],
+   "note": "Comment allez-vous se dit « kemon āchhen ». Mot à mot, comment êtes-vous.",
+   "say": {
+    "kemon āchhen": "কেমন আছেন"
+   }
+  },
+  {
+   "words": [
+    [
+     "bien",
+     "ভালো"
+    ],
+    [
+     "être",
+     "আছি"
+    ],
+    [
+     "merci",
+     "ধন্যবাদ"
+    ]
+   ],
+   "note": "Merci se dit « dhonnobād ». On le dit moins souvent qu'en français.",
+   "say": {
+    "dhonnobād": "ধন্যবাদ"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "আপনি"
+    ],
+    [
+     "comment",
+     "কেমন"
+    ],
+    [
+     "être",
+     "আছেন"
+    ]
+   ],
+   "note": "Comment se dit « kemon ». Pour retourner la question, on ajoute vous devant.",
+   "say": {
+    "kemon": "কেমন"
+   }
+  },
+  {
+   "words": [
+    [
+     "moi aussi",
+     "আমিও"
+    ],
+    [
+     "bien",
+     "ভালো"
+    ],
+    [
+     "être",
+     "আছি"
+    ]
+   ],
+   "note": "Je vais bien se dit « bhālo āchhi ». Moi aussi se forme en ajoutant un o à je.",
+   "say": {
+    "bhālo āchhi": "ভালো আছি"
+   }
+  },
+  {
+   "words": [
+    [
+     "comment",
+     "কেমন"
+    ],
+    [
+     "être",
+     "আছ"
+    ],
+    [
+     "ami",
+     "বন্ধু"
+    ]
+   ],
+   "note": "Entre amis, on dit « kemon āchho ». Le verbe prend la forme du tu.",
+   "say": {
+    "kemon āchho": "কেমন আছ"
+   }
+  },
+  {
+   "words": [
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "bien",
+     "ভালো"
+    ],
+    [
+     "être",
+     "আছি"
+    ]
+   ],
+   "note": "Très bien se dit « khub bhālo ». Le sujet je disparaît souvent dans la réponse.",
+   "say": {
+    "khub bhālo": "খুব ভালো"
+   }
+  },
+  {
+   "words": [
+    [
+     "votre",
+     "আপনার"
+    ],
+    [
+     "de la famille",
+     "পরিবারের"
+    ],
+    [
+     "tous",
+     "সবাই"
+    ],
+    [
+     "comment",
+     "কেমন"
+    ],
+    [
+     "être",
+     "আছে"
+    ]
+   ],
+   "note": "Tout le monde se dit « shobāi ». On demande comment va tout le monde de votre famille.",
+   "say": {
+    "shobāi": "সবাই"
+   }
+  },
+  {
+   "words": [
+    [
+     "tous",
+     "সবাই"
+    ],
+    [
+     "bien",
+     "ভালো"
+    ],
+    [
+     "être",
+     "আছে"
+    ]
+   ],
+   "note": "Pour il ou ils, être se dit « āchhe ». C'est aussi le mot de il y a.",
+   "say": {
+    "āchhe": "আছে"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "আজ"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "un",
+     "একটা"
+    ],
+    [
+     "bien",
+     "ভালো"
+    ],
+    [
+     "ne pas être",
+     "নেই"
+    ]
+   ],
+   "note": "Pour dire pas très bien, on remplace être par il n'y a pas. On dit « bhālo nei ».",
+   "say": {
+    "bhālo nei": "ভালো নেই"
+   }
+  },
+  {
+   "words": [
+    [
+     "votre",
+     "আপনার"
+    ],
+    [
+     "la journée",
+     "দিনটা"
+    ],
+    [
+     "bien",
+     "ভালো"
+    ],
+    [
+     "passer",
+     "কাটুক"
+    ]
+   ],
+   "note": "Pour souhaiter, le verbe prend une forme spéciale. Que la journée passe bien se dit « bhālo kāṭuk ».",
+   "say": {
+    "bhālo kāṭuk": "ভালো কাটুক"
+   }
+  }
+ ],
+ "0-0-19": [
+  {
+   "words": [
+    [
+     "de tout",
+     "সবকিছুর"
+    ],
+    [
+     "pour",
+     "জন্য"
+    ],
+    [
+     "beaucoup",
+     "অনেক"
+    ],
+    [
+     "merci",
+     "ধন্যবাদ"
+    ]
+   ],
+   "note": "Pour se dit « jonno ». Il se place après le nom, ici tout.",
+   "say": {
+    "jonno": "জন্য"
+   }
+  },
+  {
+   "words": [
+    [
+     "pardon",
+     "মাফ"
+    ],
+    [
+     "faire",
+     "করবেন"
+    ],
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "comprendre",
+     "বুঝি"
+    ],
+    [
+     "pas",
+     "না"
+    ]
+   ],
+   "note": "Je ne comprends pas se dit « bujhi nā ». Une phrase à garder sous la main.",
+   "say": {
+    "bujhi nā": "বুঝি না"
+   }
+  },
+  {
+   "words": [
+    [
+     "juste",
+     "ঠিক"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ],
+    [
+     "aucun",
+     "কোনো"
+    ],
+    [
+     "problème",
+     "সমস্যা"
+    ],
+    [
+     "il n'y a pas",
+     "নেই"
+    ]
+   ],
+   "note": "D'accord se dit « ṭhik āchhe ». On l'entend partout, pour accepter ou rassurer.",
+   "say": {
+    "ṭhik āchhe": "ঠিক আছে"
+   }
+  },
+  {
+   "words": [
+    [
+     "première",
+     "প্রথম"
+    ],
+    [
+     "étape",
+     "ধাপ"
+    ],
+    [
+     "fin",
+     "শেষ"
+    ]
+   ],
+   "note": "Terminé se dit « shesh ». C'est le mot fin, employé sans verbe.",
+   "say": {
+    "shesh": "শেষ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "আমি"
+    ],
+    [
+     "maintenant",
+     "এখন"
+    ],
+    [
+     "un peu",
+     "একটু"
+    ],
+    [
+     "bien",
+     "ভালো"
+    ],
+    [
+     "bengali",
+     "বাংলা"
+    ],
+    [
+     "parler",
+     "বলি"
+    ]
+   ],
+   "note": "Maintenant se dit « ekhon ». Il se place juste après le sujet.",
+   "say": {
+    "ekhon": "এখন"
+   }
+  },
+  {
+   "words": [
+    [
+     "bengali",
+     "বাংলা"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "belle",
+     "সুন্দর"
+    ],
+    [
+     "langue",
+     "ভাষা"
+    ]
+   ],
+   "note": "La langue se dit « bhāshā ». Le bengali est une très belle langue, sans verbe être.",
+   "say": {
+    "bhāshā": "ভাষা"
+   }
+  },
+  {
+   "words": [
+    [
+     "de Dhaka",
+     "ঢাকার"
+    ],
+    [
+     "vie",
+     "জীবন"
+    ],
+    [
+     "à moi",
+     "আমার"
+    ],
+    [
+     "très",
+     "খুব"
+    ],
+    [
+     "bien",
+     "ভালো"
+    ],
+    [
+     "sembler",
+     "লাগে"
+    ]
+   ],
+   "note": "Pour dire que quelque chose plaît, on dit ça me semble bon. Me plaît se dit « bhālo lāge ».",
+   "say": {
+    "bhālo lāge": "ভালো লাগে"
+   }
+  },
+  {
+   "words": [
+    [
+     "ensuite",
+     "এরপর"
+    ],
+    [
+     "voyage",
+     "ভ্রমণ"
+    ]
+   ],
+   "note": "Le voyage se dit « bhromon ». C'est le thème de la prochaine étape.",
+   "say": {
+    "bhromon": "ভ্রমণ"
+   }
+  },
+  {
+   "words": [
+    [
+     "juste",
+     "ঠিক"
+    ],
+    [
+     "il y a",
+     "আছে"
+    ],
+    [
+     "allons-y",
+     "চলুন"
+    ],
+    [
+     "en avant",
+     "এগিয়ে"
+    ],
+    [
+     "aller",
+     "যাই"
+    ]
+   ],
+   "note": "Pour proposer d'y aller poliment, on dit « cholun ». C'est un allons-y respectueux.",
+   "say": {
+    "cholun": "চলুন"
+   }
+  },
+  {
+   "words": [
+    [
+     "merci",
+     "ধন্যবাদ"
+    ],
+    [
+     "encore",
+     "আবার"
+    ],
+    [
+     "rencontre",
+     "দেখা"
+    ],
+    [
+     "être",
+     "হবে"
+    ]
+   ],
+   "note": "Pour se dire au revoir, on dit on se reverra. Cela se dit « ābār dekhā hobe ».",
+   "say": {
+    "ābār dekhā hobe": "আবার দেখা হবে"
+   }
+  }
+ ]
+}

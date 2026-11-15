@@ -1,0 +1,5070 @@
+{
+ "0-0-0": [
+  {
+   "words": [
+    [
+     "bonjour",
+     "سلام"
+    ],
+    [
+     "à",
+     "به"
+    ],
+    [
+     "Téhéran",
+     "تهران"
+    ],
+    [
+     "bien",
+     "خوش"
+    ],
+    [
+     "venir",
+     "آمدید"
+    ]
+   ],
+   "note": "Pour souhaiter la bienvenue, on dit vous êtes bien venus. Bienvenue se dit « khosh âmadid ».",
+   "say": {
+    "khosh âmadid": "خوش آمدید"
+   }
+  },
+  {
+   "words": [
+    [
+     "bonjour",
+     "سلام"
+    ],
+    [
+     "nom de",
+     "اسم"
+    ],
+    [
+     "moi",
+     "من"
+    ],
+    [
+     "Thomas",
+     "توماس"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Pour se présenter, on dit mon nom est Thomas. Nom se dit « esm ». Le verbe être arrive tout à la fin.",
+   "say": {
+    "esm": "اسم"
+   }
+  },
+  {
+   "words": [
+    [
+     "bonjour",
+     "سلام"
+    ],
+    [
+     "état de",
+     "حال"
+    ],
+    [
+     "vous",
+     "شما"
+    ],
+    [
+     "comment",
+     "چطور"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "On demande mot à mot comment est votre état. Comment se dit « chetor ».",
+   "say": {
+    "chetor": "چطور"
+   }
+  },
+  {
+   "words": [
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "bien",
+     "خوب"
+    ],
+    [
+     "merci",
+     "ممنون"
+    ]
+   ],
+   "note": "Pour remercier, le mot le plus courant est « mamnun ». On l'entend partout, dans les magasins comme entre amis.",
+   "say": {
+    "mamnun": "ممنون"
+   }
+  },
+  {
+   "words": [
+    [
+     "bonjour",
+     "سلام"
+    ],
+    [
+     "monsieur",
+     "آقا"
+    ],
+    [
+     "je",
+     "من"
+    ],
+    [
+     "voisin",
+     "همسایه‌ی"
+    ],
+    [
+     "nouveau",
+     "جدید"
+    ],
+    [
+     "être",
+     "هستم"
+    ]
+   ],
+   "note": "Pour s'adresser poliment à un homme, on dit « âghâ ». Ce mot veut dire monsieur.",
+   "say": {
+    "âghâ": "آقا"
+   }
+  },
+  {
+   "words": [
+    [
+     "matin",
+     "صبح"
+    ],
+    [
+     "bon",
+     "بخیر"
+    ],
+    [
+     "monsieur",
+     "آقای"
+    ],
+    [
+     "Karimi",
+     "کریمی"
+    ]
+   ],
+   "note": "Le matin, on souhaite un bon matin avec « sobh bekheyr ». C'est un bonjour un peu plus soigné.",
+   "say": {
+    "sobh bekheyr": "صبح بخیر"
+   }
+  },
+  {
+   "words": [
+    [
+     "nuit",
+     "شب"
+    ],
+    [
+     "bonne",
+     "بخیر"
+    ],
+    [
+     "jusqu'à",
+     "تا"
+    ],
+    [
+     "demain",
+     "فردا"
+    ]
+   ],
+   "note": "Pour dire à demain, on dit jusqu'à demain. Jusqu'à se dit « tâ ».",
+   "say": {
+    "tâ": "تا"
+   }
+  },
+  {
+   "words": [
+    [
+     "au revoir",
+     "خداحافظ"
+    ],
+    [
+     "madame",
+     "خانم"
+    ],
+    [
+     "Rezaï",
+     "رضایی"
+    ]
+   ],
+   "note": "Au revoir se dit « khodâhâfez ». Mot à mot, cela veut dire que Dieu vous garde.",
+   "say": {
+    "khodâhâfez": "خداحافظ"
+   }
+  },
+  {
+   "words": [
+    [
+     "au revoir",
+     "خداحافظ"
+    ],
+    [
+     "à",
+     "به"
+    ],
+    [
+     "espoir de",
+     "امید"
+    ],
+    [
+     "revoir",
+     "دیدار"
+    ]
+   ],
+   "note": "Pour dire à bientôt, on dit dans l'espoir de se revoir. Espoir se dit « omid ».",
+   "say": {
+    "omid": "امید"
+   }
+  },
+  {
+   "words": [
+    [
+     "bonjour",
+     "سلام"
+    ],
+    [
+     "à",
+     "به"
+    ],
+    [
+     "tous",
+     "همه"
+    ]
+   ],
+   "note": "Pour saluer un groupe, on ajoute à tout le monde. Tout le monde se dit « hame ».",
+   "say": {
+    "hame": "همه"
+   }
+  }
+ ],
+ "0-0-1": [
+  {
+   "words": [
+    [
+     "je",
+     "من"
+    ],
+    [
+     "étudiant",
+     "دانشجو"
+    ],
+    [
+     "être",
+     "هستم"
+    ]
+   ],
+   "note": "Je se dit « man ». Le verbe être vient à la fin de la phrase.",
+   "say": {
+    "man": "من"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "تو"
+    ],
+    [
+     "prêt",
+     "آماده"
+    ],
+    [
+     "être",
+     "هستی"
+    ]
+   ],
+   "note": "Pour tutoyer, on dit « to ». La question se fait juste avec la voix qui monte.",
+   "say": {
+    "to": "تو"
+   }
+  },
+  {
+   "words": [
+    [
+     "il",
+     "او"
+    ],
+    [
+     "voisin de",
+     "همسایه‌ی"
+    ],
+    [
+     "nous est",
+     "ماست"
+    ]
+   ],
+   "note": "Il et elle se disent pareil, « u ». Le persan ne fait aucune différence entre masculin et féminin.",
+   "say": {
+    "u": "او"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "او"
+    ],
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "gentil",
+     "مهربان"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Gentil se dit « mehrabân ». L'adjectif ne change pas, que l'on parle d'un homme ou d'une femme.",
+   "say": {
+    "mehrabân": "مهربان"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "ما"
+    ],
+    [
+     "français",
+     "فرانسوی"
+    ],
+    [
+     "être",
+     "هستیم"
+    ]
+   ],
+   "note": "Nous se dit « mâ ». Le verbe être, à la fin, change pour aller avec nous.",
+   "say": {
+    "mâ": "ما"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "شما"
+    ],
+    [
+     "originaire de",
+     "اهل"
+    ],
+    [
+     "Téhéran",
+     "تهران"
+    ],
+    [
+     "être",
+     "هستید"
+    ]
+   ],
+   "note": "Pour dire d'où l'on vient, on utilise « ahl ». Ce mot veut dire originaire de.",
+   "say": {
+    "ahl": "اهل"
+   }
+  },
+  {
+   "words": [
+    [
+     "ils",
+     "آن‌ها"
+    ],
+    [
+     "sur",
+     "سر"
+    ],
+    [
+     "travail",
+     "کار"
+    ],
+    [
+     "être",
+     "هستند"
+    ]
+   ],
+   "note": "Ils se dit « ânhâ ». Mot à mot, cela veut dire ceux-là.",
+   "say": {
+    "ânhâ": "آن‌ها"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "من"
+    ],
+    [
+     "Thomas",
+     "توماس"
+    ],
+    [
+     "être",
+     "هستم"
+    ],
+    [
+     "et",
+     "و"
+    ],
+    [
+     "vous",
+     "شما"
+    ]
+   ],
+   "note": "Pour renvoyer la question, on ajoute et vous à la fin. Vous se dit « shomâ ».",
+   "say": {
+    "shomâ": "شما"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "من"
+    ],
+    [
+     "et",
+     "و"
+    ],
+    [
+     "toi",
+     "تو"
+    ],
+    [
+     "voisin",
+     "همسایه"
+    ],
+    [
+     "être",
+     "هستیم"
+    ]
+   ],
+   "note": "Dans la conversation, et se dit souvent « o ». C'est un petit son très court qui relie deux mots.",
+   "say": {
+    "o": "و"
+   }
+  },
+  {
+   "words": [
+    [
+     "ils",
+     "آن‌ها"
+    ],
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "accueillant",
+     "مهمان‌نواز"
+    ],
+    [
+     "être",
+     "هستند"
+    ]
+   ],
+   "note": "Très se dit « kheyli ». On le place juste avant l'adjectif, comme en français.",
+   "say": {
+    "kheyli": "خیلی"
+   }
+  }
+ ],
+ "0-0-2": [
+  {
+   "words": [
+    [
+     "je",
+     "من"
+    ],
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "content",
+     "خوشحال"
+    ],
+    [
+     "être",
+     "هستم"
+    ]
+   ],
+   "note": "Content se dit « khoshhâl ». Mot à mot, cela veut dire bon état.",
+   "say": {
+    "khoshhâl": "خوشحال"
+   }
+  },
+  {
+   "words": [
+    [
+     "appartement",
+     "آپارتمان"
+    ],
+    [
+     "grand",
+     "بزرگ"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Pour il est ou elle est, on dit « ast ». Il n'y a pas d'article, on dit simplement appartement grand est.",
+   "say": {
+    "ast": "است"
+   }
+  },
+  {
+   "words": [
+    [
+     "cuisine",
+     "آشپزخانه"
+    ],
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "petit",
+     "کوچک"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Petit se dit « kuchek ». Le persan n'a pas d'article le ou la.",
+   "say": {
+    "kuchek": "کوچک"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "تو"
+    ],
+    [
+     "à",
+     "در"
+    ],
+    [
+     "maison",
+     "خانه"
+    ],
+    [
+     "être",
+     "هستی"
+    ]
+   ],
+   "note": "Avec tu, le verbe être devient « hasti ». On reconnaît le tu au son i final.",
+   "say": {
+    "hasti": "هستی"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "بله"
+    ],
+    [
+     "à",
+     "در"
+    ],
+    [
+     "maison",
+     "خانه"
+    ],
+    [
+     "être",
+     "هستم"
+    ]
+   ],
+   "note": "Oui se dit « bale ». On répond sans répéter je, car le verbe suffit.",
+   "say": {
+    "bale": "بله"
+   }
+  },
+  {
+   "words": [
+    [
+     "chambre de",
+     "اتاق"
+    ],
+    [
+     "sommeil",
+     "خواب"
+    ],
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "clair",
+     "روشن"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "La chambre se dit la pièce du sommeil. Sommeil se dit « khâb ».",
+   "say": {
+    "khâb": "خواب"
+   }
+  },
+  {
+   "words": [
+    [
+     "un",
+     "یک"
+    ],
+    [
+     "balcon",
+     "بالکن"
+    ],
+    [
+     "aussi",
+     "هم"
+    ],
+    [
+     "il y a",
+     "هست"
+    ]
+   ],
+   "note": "Pour dire il y a, on utilise « hast ». Le mot aussi se place juste avant.",
+   "say": {
+    "hast": "هست"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "ما"
+    ],
+    [
+     "à",
+     "در"
+    ],
+    [
+     "étage",
+     "طبقه‌ی"
+    ],
+    [
+     "troisième",
+     "سوم"
+    ],
+    [
+     "être",
+     "هستیم"
+    ]
+   ],
+   "note": "Le numéro se place après le mot étage. Troisième se dit « sevvom ».",
+   "say": {
+    "sevvom": "سوم"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "شما"
+    ],
+    [
+     "fatigué",
+     "خسته"
+    ],
+    [
+     "être",
+     "هستید"
+    ],
+    [
+     "monsieur",
+     "آقا"
+    ]
+   ],
+   "note": "Fatigué se dit « khaste ». Avec vous, le verbe être finit par le son id.",
+   "say": {
+    "khaste": "خسته"
+   }
+  },
+  {
+   "words": [
+    [
+     "ils",
+     "آن‌ها"
+    ],
+    [
+     "dans",
+     "در"
+    ],
+    [
+     "salon",
+     "پذیرایی"
+    ],
+    [
+     "être",
+     "هستند"
+    ]
+   ],
+   "note": "Le salon de réception se dit « pazirâyi ». C'est la pièce où l'on accueille les invités.",
+   "say": {
+    "pazirâyi": "پذیرایی"
+   }
+  }
+ ],
+ "0-0-3": [
+  {
+   "words": [
+    [
+     "pain",
+     "نان"
+    ],
+    [
+     "encore",
+     "هنوز"
+    ],
+    [
+     "chaud",
+     "گرم"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Pain se dit « nân ». En persan, le verbe vient toujours à la fin.",
+   "say": {
+    "nân": "نان"
+   }
+  },
+  {
+   "words": [
+    [
+     "boulangerie",
+     "نانوایی"
+    ],
+    [
+     "bout de",
+     "سر"
+    ],
+    [
+     "ruelle",
+     "کوچه"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Au coin de la rue se dit au bout de la ruelle. Ruelle se dit « kuche ».",
+   "say": {
+    "kuche": "کوچه"
+   }
+  },
+  {
+   "words": [
+    [
+     "boulanger",
+     "نانوا"
+    ],
+    [
+     "matin",
+     "صبح"
+    ],
+    [
+     "tôt",
+     "زود"
+    ],
+    [
+     "travail",
+     "کار"
+    ],
+    [
+     "faire",
+     "می‌کند"
+    ]
+   ],
+   "note": "Travailler, c'est faire du travail. Le verbe faire se met tout à la fin, il se dit « mikonad ».",
+   "say": {
+    "mikonad": "می‌کند"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "من"
+    ],
+    [
+     "chaque",
+     "هر"
+    ],
+    [
+     "jour",
+     "روز"
+    ],
+    [
+     "matin",
+     "صبح"
+    ],
+    [
+     "pain",
+     "نان"
+    ],
+    [
+     "acheter",
+     "می‌خرم"
+    ]
+   ],
+   "note": "Chaque se dit « har ». Le pain vient avant le verbe acheter, qui ferme la phrase.",
+   "say": {
+    "har": "هر"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "امروز"
+    ],
+    [
+     "file",
+     "صف"
+    ],
+    [
+     "long",
+     "طولانی"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Aujourd'hui se dit « emruz ». On le met souvent au début de la phrase.",
+   "say": {
+    "emruz": "امروز"
+   }
+  },
+  {
+   "words": [
+    [
+     "pain",
+     "نان"
+    ],
+    [
+     "sangak",
+     "سنگک"
+    ],
+    [
+     "délicieux",
+     "خوشمزه"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Délicieux se dit « khoshmaze ». Mot à mot, cela veut dire bon goût.",
+   "say": {
+    "khoshmaze": "خوشمزه"
+   }
+  },
+  {
+   "words": [
+    [
+     "boulanger",
+     "نانوا"
+    ],
+    [
+     "personne",
+     "آدم"
+    ],
+    [
+     "bon",
+     "خوبی"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Quelqu'un de bien se dit une bonne personne. Personne se dit « âdam ».",
+   "say": {
+    "âdam": "آدم"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "من"
+    ],
+    [
+     "pain",
+     "نان"
+    ],
+    [
+     "et",
+     "و"
+    ],
+    [
+     "fromage",
+     "پنیر"
+    ],
+    [
+     "manger",
+     "می‌خورم"
+    ]
+   ],
+   "note": "Fromage se dit « panir ». Le pain et le fromage, c'est le petit-déjeuner classique en Iran.",
+   "say": {
+    "panir": "پنیر"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "ما"
+    ],
+    [
+     "à",
+     "در"
+    ],
+    [
+     "maison",
+     "خانه"
+    ],
+    [
+     "petit-déjeuner",
+     "صبحانه"
+    ],
+    [
+     "manger",
+     "می‌خوریم"
+    ]
+   ],
+   "note": "Le petit-déjeuner se dit « sobhâne ». On dit manger le petit-déjeuner, et ce verbe ferme la phrase.",
+   "say": {
+    "sobhâne": "صبحانه"
+   }
+  },
+  {
+   "words": [
+    [
+     "boulangerie",
+     "نانوایی"
+    ],
+    [
+     "heure",
+     "ساعت"
+    ],
+    [
+     "six",
+     "شش"
+    ],
+    [
+     "ouvert",
+     "باز"
+    ],
+    [
+     "devenir",
+     "می‌شود"
+    ]
+   ],
+   "note": "Ouvrir se dit devenir ouvert. Ouvert se dit « bâz ».",
+   "say": {
+    "bâz": "باز"
+   }
+  }
+ ],
+ "0-0-4": [
+  {
+   "words": [
+    [
+     "thé",
+     "چای"
+    ],
+    [
+     "chaud",
+     "گرم"
+    ],
+    [
+     "ne pas être",
+     "نیست"
+    ]
+   ],
+   "note": "Il n'est pas se dit « nist ». C'est un seul petit mot, placé à la fin.",
+   "say": {
+    "nist": "نیست"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "من"
+    ],
+    [
+     "fatigué",
+     "خسته"
+    ],
+    [
+     "ne pas être",
+     "نیستم"
+    ]
+   ],
+   "note": "Pour je ne suis pas, on dit « nistam ». La négation est collée au verbe.",
+   "say": {
+    "nistam": "نیستم"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "من"
+    ],
+    [
+     "café",
+     "قهوه"
+    ],
+    [
+     "ne pas manger",
+     "نمی‌خورم"
+    ]
+   ],
+   "note": "En persan, on mange le café et le thé, on ne les boit pas. Je ne mange pas se dit « nemikhoram ».",
+   "say": {
+    "nemikhoram": "نمی‌خورم"
+   }
+  },
+  {
+   "words": [
+    [
+     "sucre",
+     "قند"
+    ],
+    [
+     "sur",
+     "روی"
+    ],
+    [
+     "table",
+     "میز"
+    ],
+    [
+     "ne pas être",
+     "نیست"
+    ]
+   ],
+   "note": "Le sucre en morceaux se dit « ghand ». On le croque en buvant le thé.",
+   "say": {
+    "ghand": "قند"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "این"
+    ],
+    [
+     "thé",
+     "چای"
+    ],
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "foncé",
+     "پررنگ"
+    ],
+    [
+     "ne pas être",
+     "نیست"
+    ]
+   ],
+   "note": "Un thé fort se dit un thé plein de couleur. Fort se dit « porrang ».",
+   "say": {
+    "porrang": "پررنگ"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "نه"
+    ],
+    [
+     "pas du tout",
+     "اصلا"
+    ],
+    [
+     "foncé",
+     "پررنگ"
+    ],
+    [
+     "ne pas être",
+     "نیست"
+    ]
+   ],
+   "note": "Pas du tout se dit « aslan ». Ce mot renforce la négation.",
+   "say": {
+    "aslan": "اصلا"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "ما"
+    ],
+    [
+     "lait",
+     "شیر"
+    ],
+    [
+     "ne pas avoir",
+     "نداریم"
+    ]
+   ],
+   "note": "Nous n'avons pas se dit « nadârim ». La négation se colle au début du verbe.",
+   "say": {
+    "nadârim": "نداریم"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "من"
+    ],
+    [
+     "les matins",
+     "صبح‌ها"
+    ],
+    [
+     "quelque chose",
+     "چیزی"
+    ],
+    [
+     "ne pas manger",
+     "نمی‌خورم"
+    ]
+   ],
+   "note": "Pour dire rien, on dit quelque chose avec un verbe négatif. Quelque chose se dit « chizi ».",
+   "say": {
+    "chizi": "چیزی"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon frère",
+     "برادرم"
+    ],
+    [
+     "thé",
+     "چای"
+    ],
+    [
+     "ne pas boire",
+     "نمی‌خورد"
+    ]
+   ],
+   "note": "Mon frère se dit « barâdaram ». Le possessif mon est collé à la fin du nom.",
+   "say": {
+    "barâdaram": "برادرم"
+   }
+  },
+  {
+   "words": [
+    [
+     "problème",
+     "اشکالی"
+    ],
+    [
+     "ne pas avoir",
+     "ندارد"
+    ]
+   ],
+   "note": "Pas de problème se dit « eshkâli nadârad ». Mot à mot, cela n'a pas de problème.",
+   "say": {
+    "eshkâli nadârad": "اشکالی ندارد"
+   }
+  }
+ ],
+ "0-0-5": [
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "آیا"
+    ],
+    [
+     "vous",
+     "شما"
+    ],
+    [
+     "français",
+     "فرانسوی"
+    ],
+    [
+     "être",
+     "هستید"
+    ]
+   ],
+   "note": "Pour annoncer une question, on peut commencer par « âyâ ». C'est comme est-ce que en français.",
+   "say": {
+    "âyâ": "آیا"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "شما"
+    ],
+    [
+     "dans",
+     "در"
+    ],
+    [
+     "ce",
+     "این"
+    ],
+    [
+     "quartier",
+     "محله"
+    ],
+    [
+     "vie",
+     "زندگی"
+    ],
+    [
+     "faire",
+     "می‌کنید"
+    ]
+   ],
+   "note": "Habiter se dit faire sa vie. Vie se dit « zendegi ». La question se fait seulement avec la voix qui monte.",
+   "say": {
+    "zendegi": "زندگی"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "آیا"
+    ],
+    [
+     "ce",
+     "این"
+    ],
+    [
+     "proximité",
+     "نزدیکی"
+    ],
+    [
+     "pharmacie",
+     "داروخانه"
+    ],
+    [
+     "il y a",
+     "هست"
+    ]
+   ],
+   "note": "Pharmacie se dit « dârukhâne ». Mot à mot, c'est la maison des médicaments.",
+   "say": {
+    "dârukhâne": "داروخانه"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "بله"
+    ],
+    [
+     "bout de",
+     "ته"
+    ],
+    [
+     "rue",
+     "خیابان"
+    ],
+    [
+     "une",
+     "یک"
+    ],
+    [
+     "pharmacie",
+     "داروخانه"
+    ],
+    [
+     "il y a",
+     "هست"
+    ]
+   ],
+   "note": "Au bout de la rue se dit au fond de la rue. Rue se dit « khiyâbân ».",
+   "say": {
+    "khiyâbân": "خیابان"
+   }
+  },
+  {
+   "words": [
+    [
+     "parc",
+     "پارک"
+    ],
+    [
+     "loin",
+     "دور"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Loin se dit « dur ». La question se pose juste en faisant monter la voix.",
+   "say": {
+    "dur": "دور"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "نه"
+    ],
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "près",
+     "نزدیک"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Non se dit « na ». Pour dire tout près, on dit très près.",
+   "say": {
+    "na": "نه"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "آیا"
+    ],
+    [
+     "supermarché",
+     "سوپرمارکت"
+    ],
+    [
+     "ouvert",
+     "باز"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Beaucoup de mots modernes viennent du français ou de l'anglais. Supermarché se dit « supermârket ».",
+   "say": {
+    "supermârket": "سوپرمارکت"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "شما"
+    ],
+    [
+     "un peu",
+     "کمی"
+    ],
+    [
+     "français",
+     "فرانسه"
+    ],
+    [
+     "conversation",
+     "صحبت"
+    ],
+    [
+     "faire",
+     "می‌کنید"
+    ]
+   ],
+   "note": "Un peu se dit « kami ». Pour la langue française, on dit simplement le nom du pays.",
+   "say": {
+    "kami": "کمی"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "آیا"
+    ],
+    [
+     "ce",
+     "این"
+    ],
+    [
+     "quartier",
+     "محله"
+    ],
+    [
+     "calme",
+     "آرام"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Calme se dit « ârâm ». Ce mot sert aussi à dire doucement.",
+   "say": {
+    "ârâm": "آرام"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "بله"
+    ],
+    [
+     "quartier",
+     "محله‌ی"
+    ],
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "calme",
+     "آرامی"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Pour dire un quartier calme, on ajoute un petit i à la fin de l'adjectif. Très calme devient ici « kheyli ârâmi ».",
+   "say": {
+    "kheyli ârâmi": "خیلی آرامی"
+   }
+  }
+ ],
+ "0-0-6": [
+  {
+   "words": [
+    [
+     "bazar",
+     "بازار"
+    ],
+    [
+     "grand",
+     "بزرگ"
+    ],
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "animé",
+     "شلوغ"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Pour relier un nom et son adjectif, on ajoute un petit e entre les deux. Le grand bazar se dit « bâzâr-e bozorg ».",
+   "say": {
+    "bâzâr-e bozorg": "بازار بزرگ"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "من"
+    ],
+    [
+     "à la recherche de",
+     "دنبال"
+    ],
+    [
+     "un",
+     "یک"
+    ],
+    [
+     "tapis",
+     "فرش"
+    ],
+    [
+     "rouge",
+     "قرمز"
+    ],
+    [
+     "être",
+     "هستم"
+    ]
+   ],
+   "note": "Le tapis rouge se dit « farsh-e ghermez ». Le petit e relie le tapis et sa couleur.",
+   "say": {
+    "farsh-e ghermez": "فرش قرمز"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "این"
+    ],
+    [
+     "tapis",
+     "فرش"
+    ],
+    [
+     "iranien",
+     "ایرانی"
+    ],
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "beau est",
+     "زیباست"
+    ]
+   ],
+   "note": "Un tapis persan se dit un tapis iranien. Iranien se dit « irâni ».",
+   "say": {
+    "irâni": "ایرانی"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "من"
+    ],
+    [
+     "thé",
+     "چای"
+    ],
+    [
+     "noir",
+     "سیاه"
+    ],
+    [
+     "ami",
+     "دوست"
+    ],
+    [
+     "avoir",
+     "دارم"
+    ]
+   ],
+   "note": "Aimer se dit mot à mot avoir en ami. Cela donne « dust dâram ».",
+   "say": {
+    "dust dâram": "دوست دارم"
+   }
+  },
+  {
+   "words": [
+    [
+     "safran",
+     "زعفران"
+    ],
+    [
+     "iranien",
+     "ایرانی"
+    ],
+    [
+     "célèbre",
+     "معروف"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Safran se dit « za'farân ». Le mot français vient de la même racine.",
+   "say": {
+    "za'farân": "زعفران"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "من"
+    ],
+    [
+     "une",
+     "یک"
+    ],
+    [
+     "écharpe",
+     "شال"
+    ],
+    [
+     "bleu",
+     "آبی"
+    ],
+    [
+     "vouloir",
+     "می‌خواهم"
+    ]
+   ],
+   "note": "Bleu se dit « âbi ». Mot à mot, cela veut dire couleur de l'eau.",
+   "say": {
+    "âbi": "آبی"
+   }
+  },
+  {
+   "words": [
+    [
+     "ces",
+     "این"
+    ],
+    [
+     "pistaches",
+     "پسته‌های"
+    ],
+    [
+     "frais",
+     "تازه"
+    ],
+    [
+     "délicieux",
+     "خوشمزه"
+    ],
+    [
+     "être",
+     "هستند"
+    ]
+   ],
+   "note": "Pistache se dit « peste ». L'Iran est l'un des plus grands producteurs de pistaches au monde.",
+   "say": {
+    "peste": "پسته"
+   }
+  },
+  {
+   "words": [
+    [
+     "marchand",
+     "فروشنده‌ی"
+    ],
+    [
+     "vieux",
+     "پیر"
+    ],
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "patient",
+     "صبور"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Vieux, pour une personne, se dit « pir ». Il se place après le nom, relié par le petit e.",
+   "say": {
+    "pir": "پیر"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "این"
+    ],
+    [
+     "boutique",
+     "مغازه‌ی"
+    ],
+    [
+     "joli",
+     "قشنگی"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Joli se dit « ghashang ». C'est un mot très courant pour dire beau ou mignon.",
+   "say": {
+    "ghashang": "قشنگ"
+   }
+  },
+  {
+   "words": [
+    [
+     "dans",
+     "در"
+    ],
+    [
+     "bazar",
+     "بازار"
+    ],
+    [
+     "ancien",
+     "قدیمی"
+    ],
+    [
+     "air",
+     "هوا"
+    ],
+    [
+     "chaud",
+     "گرم"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Il fait chaud se dit l'air est chaud. Air se dit « havâ ».",
+   "say": {
+    "havâ": "هوا"
+   }
+  }
+ ],
+ "0-0-7": [
+  {
+   "words": [
+    [
+     "ceci",
+     "این"
+    ],
+    [
+     "livre de",
+     "کتاب"
+    ],
+    [
+     "moi",
+     "من"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Mon livre se dit le livre de moi. Cela donne « ketâb-e man ».",
+   "say": {
+    "ketâb-e man": "کتاب من"
+   }
+  },
+  {
+   "words": [
+    [
+     "clé de",
+     "کلید"
+    ],
+    [
+     "appartement",
+     "آپارتمان"
+    ],
+    [
+     "où est",
+     "کجاست"
+    ]
+   ],
+   "note": "Où est se dit « kojâst ». C'est où et est collés ensemble.",
+   "say": {
+    "kojâst": "کجاست"
+   }
+  },
+  {
+   "words": [
+    [
+     "maison de",
+     "خانه‌ی"
+    ],
+    [
+     "Reza",
+     "رضا"
+    ],
+    [
+     "grand",
+     "بزرگ"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Maison se dit « khâne ». La maison de Reza se dit maison de Reza, avec le petit e.",
+   "say": {
+    "khâne": "خانه"
+   }
+  },
+  {
+   "words": [
+    [
+     "rue de",
+     "خیابان"
+    ],
+    [
+     "nous",
+     "ما"
+    ],
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "long",
+     "طولانی"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Notre rue se dit la rue de nous. Long se dit « tulâni ».",
+   "say": {
+    "tulâni": "طولانی"
+   }
+  },
+  {
+   "words": [
+    [
+     "je vous en prie",
+     "بفرمایید"
+    ],
+    [
+     "ceci",
+     "این"
+    ],
+    [
+     "clé de",
+     "کلید"
+    ],
+    [
+     "vous est",
+     "شماست"
+    ]
+   ],
+   "note": "Pour tendre quelque chose poliment, on dit « befarmâyid ». C'est un mot magique de la politesse iranienne.",
+   "say": {
+    "befarmâyid": "بفرمایید"
+   }
+  },
+  {
+   "words": [
+    [
+     "père de",
+     "پدر"
+    ],
+    [
+     "Sara",
+     "سارا"
+    ],
+    [
+     "médecin",
+     "دکتر"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Père se dit « pedar ». On entend bien la parenté avec le mot père.",
+   "say": {
+    "pedar": "پدر"
+   }
+  },
+  {
+   "words": [
+    [
+     "voiture de",
+     "ماشین"
+    ],
+    [
+     "voisin de",
+     "همسایه‌ی"
+    ],
+    [
+     "nous",
+     "ما"
+    ],
+    [
+     "blanc",
+     "سفید"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "On peut enchaîner les liaisons, la voiture du voisin de nous. Voiture se dit « mâshin ».",
+   "say": {
+    "mâshin": "ماشین"
+   }
+  },
+  {
+   "words": [
+    [
+     "téléphone de",
+     "گوشی"
+    ],
+    [
+     "Thomas",
+     "توماس"
+    ],
+    [
+     "sur",
+     "روی"
+    ],
+    [
+     "table",
+     "میز"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Le téléphone portable se dit « gushi ». Ce mot vient du mot oreille.",
+   "say": {
+    "gushi": "گوشی"
+   }
+  },
+  {
+   "words": [
+    [
+     "chambre de",
+     "اتاق"
+    ],
+    [
+     "moi",
+     "من"
+    ],
+    [
+     "à côté de",
+     "کنار"
+    ],
+    [
+     "cuisine",
+     "آشپزخانه"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "À côté de se dit « kenâr ». Lui aussi prend le petit e de liaison.",
+   "say": {
+    "kenâr": "کنار"
+   }
+  },
+  {
+   "words": [
+    [
+     "nom de",
+     "اسم"
+    ],
+    [
+     "ami de",
+     "دوست"
+    ],
+    [
+     "vous",
+     "شما"
+    ],
+    [
+     "qu'est-ce que",
+     "چیست"
+    ]
+   ],
+   "note": "Qu'est-ce que c'est se dit « chist ». La question se place à la fin, comme le verbe.",
+   "say": {
+    "chist": "چیست"
+   }
+  }
+ ],
+ "0-0-8": [
+  {
+   "words": [
+    [
+     "ma sœur",
+     "خواهرم"
+    ],
+    [
+     "à",
+     "در"
+    ],
+    [
+     "Paris",
+     "پاریس"
+    ],
+    [
+     "vie",
+     "زندگی"
+    ],
+    [
+     "faire",
+     "می‌کند"
+    ]
+   ],
+   "note": "Mon ou ma se colle à la fin du nom, avec le son am. Ma sœur se dit « khâharam ».",
+   "say": {
+    "khâharam": "خواهرم"
+   }
+  },
+  {
+   "words": [
+    [
+     "ton thé",
+     "چایت"
+    ],
+    [
+     "prêt",
+     "آماده"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Ton se colle aussi à la fin, avec le son et. Ton thé se dit « châyet ».",
+   "say": {
+    "châyet": "چایت"
+   }
+  },
+  {
+   "words": [
+    [
+     "son bureau",
+     "دفترش"
+    ],
+    [
+     "près de",
+     "نزدیک"
+    ],
+    [
+     "ici est",
+     "اینجاست"
+    ]
+   ],
+   "note": "Son ou sa se colle à la fin, avec le son esh. Son bureau se dit « daftaresh ».",
+   "say": {
+    "daftaresh": "دفترش"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon frère",
+     "برادرم"
+    ],
+    [
+     "ingénieur",
+     "مهندس"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Ingénieur se dit « mohandes ». Il n'y a pas d'article devant un métier, comme en français.",
+   "say": {
+    "mohandes": "مهندس"
+   }
+  },
+  {
+   "words": [
+    [
+     "ta mère",
+     "مادرت"
+    ],
+    [
+     "comment",
+     "چطور"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Ta mère se dit « mâdaret ». Pour demander comment elle va, on dit simplement comment elle est.",
+   "say": {
+    "mâdaret": "مادرت"
+   }
+  },
+  {
+   "words": [
+    [
+     "ta voiture",
+     "ماشینت"
+    ],
+    [
+     "neuf",
+     "نو"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Neuf, pour un objet, se dit « no ». C'est un mot court, de la même famille que nouveau.",
+   "say": {
+    "no": "نو"
+   }
+  },
+  {
+   "words": [
+    [
+     "son fils",
+     "پسرش"
+    ],
+    [
+     "cinq",
+     "پنج"
+    ],
+    [
+     "an",
+     "سال"
+    ],
+    [
+     "avoir",
+     "دارد"
+    ]
+   ],
+   "note": "Après un nombre, le nom reste au singulier. On dit cinq an, « panj sâl ».",
+   "say": {
+    "panj sâl": "پنج سال"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon appartement",
+     "آپارتمانم"
+    ],
+    [
+     "petit",
+     "کوچک"
+    ],
+    [
+     "mais",
+     "ولی"
+    ],
+    [
+     "joli",
+     "قشنگ"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Mais se dit « vali ». Il relie deux adjectifs, comme en français.",
+   "say": {
+    "vali": "ولی"
+   }
+  },
+  {
+   "words": [
+    [
+     "son mari",
+     "شوهرش"
+    ],
+    [
+     "à",
+     "در"
+    ],
+    [
+     "bazar",
+     "بازار"
+    ],
+    [
+     "travail",
+     "کار"
+    ],
+    [
+     "faire",
+     "می‌کند"
+    ]
+   ],
+   "note": "Son mari se dit « shoharesh ». La terminaison du possessif sert pour son et pour sa, sans distinction.",
+   "say": {
+    "shoharesh": "شوهرش"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma clé",
+     "کلیدم"
+    ],
+    [
+     "dans",
+     "در"
+    ],
+    [
+     "mon sac",
+     "کیفم"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Sac se dit « kif ». Ici, il porte la terminaison de mon, comme la clé.",
+   "say": {
+    "kif": "کیف"
+   }
+  }
+ ],
+ "0-0-9": [
+  {
+   "words": [
+    [
+     "ceci",
+     "این"
+    ],
+    [
+     "grenade",
+     "انار"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Ceci se dit « in ». Il sert aussi pour ce, devant un nom.",
+   "say": {
+    "in": "این"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "و"
+    ],
+    [
+     "cela",
+     "آن"
+    ],
+    [
+     "qu'est-ce que",
+     "چیست"
+    ]
+   ],
+   "note": "Pour montrer quelque chose de loin, on dit « ân ». C'est comme cela, ou celui-là.",
+   "say": {
+    "ân": "آن"
+   }
+  },
+  {
+   "words": [
+    [
+     "ces",
+     "این"
+    ],
+    [
+     "abricots",
+     "زردآلوها"
+    ],
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "sucré",
+     "شیرین"
+    ],
+    [
+     "être",
+     "هستند"
+    ]
+   ],
+   "note": "Devant un pluriel, le mot ce ne change pas. Sucré se dit « shirin ».",
+   "say": {
+    "shirin": "شیرین"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "من"
+    ],
+    [
+     "cela",
+     "آن"
+    ],
+    [
+     "un",
+     "یکی"
+    ],
+    [
+     "petit mot du complément",
+     "را"
+    ],
+    [
+     "plus",
+     "بیشتر"
+    ],
+    [
+     "ami",
+     "دوست"
+    ],
+    [
+     "avoir",
+     "دارم"
+    ]
+   ],
+   "note": "Celui-là se dit cela un, « ân yeki ». Préférer se dit simplement aimer plus.",
+   "say": {
+    "ân yeki": "آن یکی"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "این"
+    ],
+    [
+     "melon",
+     "خربزه"
+    ],
+    [
+     "combien",
+     "چند"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Combien se dit « chand ». Pour un prix, on demande simplement combien est ce melon.",
+   "say": {
+    "chand": "چند"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "آن"
+    ],
+    [
+     "marchand",
+     "فروشنده"
+    ],
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "aimable",
+     "خوش‌اخلاق"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Aimable se dit « khoshakhlâgh ». Mot à mot, c'est de bon caractère.",
+   "say": {
+    "khoshakhlâgh": "خوش‌اخلاق"
+   }
+  },
+  {
+   "words": [
+    [
+     "ces",
+     "این"
+    ],
+    [
+     "pommes",
+     "سیب‌ها"
+    ],
+    [
+     "ou",
+     "یا"
+    ],
+    [
+     "ces",
+     "آن"
+    ],
+    [
+     "pommes",
+     "سیب‌ها"
+    ]
+   ],
+   "note": "Ou se dit « yâ ». On répète le nom après ceci et après cela.",
+   "say": {
+    "yâ": "یا"
+   }
+  },
+  {
+   "words": [
+    [
+     "cette",
+     "این"
+    ],
+    [
+     "rue",
+     "خیابان"
+    ],
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "animé",
+     "شلوغ"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Animé, plein de monde, se dit « sholugh ». On l'utilise pour une rue, un marché ou la circulation.",
+   "say": {
+    "sholugh": "شلوغ"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "این"
+    ],
+    [
+     "sac de",
+     "کیف"
+    ],
+    [
+     "moi",
+     "من"
+    ],
+    [
+     "ne pas être",
+     "نیست"
+    ],
+    [
+     "cela",
+     "آن"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Ici, cela s'utilise seul, sans nom. C'est celui-là se dit « ân ast ».",
+   "say": {
+    "ân ast": "آن است"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "اینجا"
+    ],
+    [
+     "cher",
+     "گران"
+    ],
+    [
+     "être",
+     "است"
+    ],
+    [
+     "là-bas",
+     "آنجا"
+    ],
+    [
+     "moins cher",
+     "ارزان‌تر"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Là-bas se dit « ânjâ ». Moins cher se dit plus bon marché.",
+   "say": {
+    "ânjâ": "آنجا"
+   }
+  }
+ ],
+ "0-0-10": [
+  {
+   "words": [
+    [
+     "un",
+     "یک"
+    ],
+    [
+     "kilo",
+     "کیلو"
+    ],
+    [
+     "tomate",
+     "گوجه"
+    ],
+    [
+     "s'il vous plaît",
+     "لطفا"
+    ]
+   ],
+   "note": "Un se dit « yek ». S'il vous plaît se place en fin de phrase.",
+   "say": {
+    "yek": "یک"
+   }
+  },
+  {
+   "words": [
+    [
+     "deux",
+     "دو"
+    ],
+    [
+     "pain",
+     "نان"
+    ],
+    [
+     "sangak",
+     "سنگک"
+    ],
+    [
+     "s'il vous plaît",
+     "لطفا"
+    ]
+   ],
+   "note": "Deux se dit « do ». Le pain sangak est cuit sur de petits cailloux brûlants.",
+   "say": {
+    "do": "دو"
+   }
+  },
+  {
+   "words": [
+    [
+     "trois",
+     "سه"
+    ],
+    [
+     "kilo",
+     "کیلو"
+    ],
+    [
+     "riz",
+     "برنج"
+    ],
+    [
+     "nécessaire",
+     "لازم"
+    ],
+    [
+     "avoir",
+     "دارم"
+    ]
+   ],
+   "note": "Trois se dit « se ». Il me faut se dit j'ai besoin, avec le verbe avoir.",
+   "say": {
+    "se": "سه"
+   }
+  },
+  {
+   "words": [
+    [
+     "quatre",
+     "چهار"
+    ],
+    [
+     "bouteille",
+     "بطری"
+    ],
+    [
+     "eau",
+     "آب"
+    ],
+    [
+     "prendre",
+     "برمی‌دارم"
+    ]
+   ],
+   "note": "Quatre se dit « chahâr ». Le nom bouteille reste au singulier après le nombre.",
+   "say": {
+    "chahâr": "چهار"
+   }
+  },
+  {
+   "words": [
+    [
+     "cinq",
+     "پنج"
+    ],
+    [
+     "œuf",
+     "تخم‌مرغ"
+    ],
+    [
+     "suffisant",
+     "کافی"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Œuf se dit graine de poule. Cela donne « tokhm-e morgh ».",
+   "say": {
+    "tokhm-e morgh": "تخم‌مرغ"
+   }
+  },
+  {
+   "words": [
+    [
+     "six",
+     "شش"
+    ],
+    [
+     "orange",
+     "پرتقال"
+    ],
+    [
+     "s'il vous plaît",
+     "لطفا"
+    ]
+   ],
+   "note": "Six se dit « shesh ». Orange se dit d'ailleurs comme le Portugal.",
+   "say": {
+    "shesh": "شش"
+   }
+  },
+  {
+   "words": [
+    [
+     "magasin",
+     "مغازه"
+    ],
+    [
+     "heure",
+     "ساعت"
+    ],
+    [
+     "sept",
+     "هفت"
+    ],
+    [
+     "ouvert",
+     "باز"
+    ],
+    [
+     "devenir",
+     "می‌شود"
+    ]
+   ],
+   "note": "Sept se dit « haft ». À sept heures se dit heure sept, sans préposition.",
+   "say": {
+    "haft": "هفت"
+   }
+  },
+  {
+   "words": [
+    [
+     "fille de",
+     "دختر"
+    ],
+    [
+     "voisin",
+     "همسایه"
+    ],
+    [
+     "huit",
+     "هشت"
+    ],
+    [
+     "an",
+     "سال"
+    ],
+    [
+     "avoir",
+     "دارد"
+    ]
+   ],
+   "note": "Huit se dit « hasht ». Voisin et voisine, c'est le même mot.",
+   "say": {
+    "hasht": "هشت"
+   }
+  },
+  {
+   "words": [
+    [
+     "devenir",
+     "می‌شود"
+    ],
+    [
+     "neuf",
+     "نه"
+    ],
+    [
+     "mille",
+     "هزار"
+    ],
+    [
+     "toman",
+     "تومان"
+    ]
+   ],
+   "note": "Neuf se dit « noh ». Ça fait se dit ça devient, en tête de phrase.",
+   "say": {
+    "noh": "نه"
+   }
+  },
+  {
+   "words": [
+    [
+     "un",
+     "یک"
+    ],
+    [
+     "deux",
+     "دو"
+    ],
+    [
+     "trois",
+     "سه"
+    ],
+    [
+     "jusqu'à",
+     "تا"
+    ],
+    [
+     "dix",
+     "ده"
+    ]
+   ],
+   "note": "On sait maintenant compter de un à dix. Dix se dit « dah ».",
+   "say": {
+    "dah": "ده"
+   }
+  }
+ ],
+ "0-0-11": [
+  {
+   "words": [
+    [
+     "je",
+     "من"
+    ],
+    [
+     "un",
+     "یک"
+    ],
+    [
+     "appartement",
+     "آپارتمان"
+    ],
+    [
+     "petit",
+     "کوچک"
+    ],
+    [
+     "avoir",
+     "دارم"
+    ]
+   ],
+   "note": "J'ai se dit « dâram ». L'objet possédé se place avant le verbe.",
+   "say": {
+    "dâram": "دارم"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "من"
+    ],
+    [
+     "télévision",
+     "تلویزیون"
+    ],
+    [
+     "ne pas avoir",
+     "ندارم"
+    ]
+   ],
+   "note": "Je n'ai pas se dit « nadâram ». Télévision se dit presque comme en français.",
+   "say": {
+    "nadâram": "ندارم"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "شما"
+    ],
+    [
+     "à",
+     "در"
+    ],
+    [
+     "maison",
+     "خانه"
+    ],
+    [
+     "internet",
+     "اینترنت"
+    ],
+    [
+     "avoir",
+     "دارید"
+    ]
+   ],
+   "note": "Avec vous, avoir devient « dârid ». La question se fait juste avec la voix.",
+   "say": {
+    "dârid": "دارید"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "ما"
+    ],
+    [
+     "deux",
+     "دو"
+    ],
+    [
+     "chambre",
+     "اتاق"
+    ],
+    [
+     "sommeil",
+     "خواب"
+    ],
+    [
+     "avoir",
+     "داریم"
+    ]
+   ],
+   "note": "Nous avons se dit « dârim ». Après deux, le nom chambre reste au singulier.",
+   "say": {
+    "dârim": "داریم"
+   }
+  },
+  {
+   "words": [
+    [
+     "appartement",
+     "آپارتمان"
+    ],
+    [
+     "un",
+     "یک"
+    ],
+    [
+     "balcon",
+     "بالکن"
+    ],
+    [
+     "grand",
+     "بزرگ"
+    ],
+    [
+     "avoir",
+     "دارد"
+    ]
+   ],
+   "note": "Il a se dit « dârad ». Pour une chose aussi, on utilise ce verbe.",
+   "say": {
+    "dârad": "دارد"
+   }
+  },
+  {
+   "words": [
+    [
+     "encore",
+     "هنوز"
+    ],
+    [
+     "rideau",
+     "پرده"
+    ],
+    [
+     "ne pas avoir",
+     "ندارم"
+    ]
+   ],
+   "note": "Encore se dit « hanuz ». Avec une négation, cela veut dire pas encore.",
+   "say": {
+    "hanuz": "هنوز"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "تو"
+    ],
+    [
+     "marteau",
+     "چکش"
+    ],
+    [
+     "avoir",
+     "داری"
+    ]
+   ],
+   "note": "Avec tu, avoir devient « dâri ». On reconnaît le tu au son i final.",
+   "say": {
+    "dâri": "داری"
+   }
+  },
+  {
+   "words": [
+    [
+     "il",
+     "او"
+    ],
+    [
+     "clé",
+     "کلید"
+    ],
+    [
+     "ne pas avoir",
+     "ندارد"
+    ]
+   ],
+   "note": "Il n'a pas se dit « nadârad ». Le même mot sert pour il et pour elle.",
+   "say": {
+    "nadârad": "ندارد"
+   }
+  },
+  {
+   "words": [
+    [
+     "ils",
+     "آن‌ها"
+    ],
+    [
+     "un",
+     "یک"
+    ],
+    [
+     "tapis",
+     "فرش"
+    ],
+    [
+     "beau",
+     "قشنگ"
+    ],
+    [
+     "avoir",
+     "دارند"
+    ]
+   ],
+   "note": "Ils ont se dit « dârand ». Le tapis est un trésor dans chaque maison iranienne.",
+   "say": {
+    "dârand": "دارند"
+   }
+  },
+  {
+   "words": [
+    [
+     "cuisine",
+     "آشپزخانه"
+    ],
+    [
+     "fenêtre",
+     "پنجره"
+    ],
+    [
+     "ne pas avoir",
+     "ندارد"
+    ]
+   ],
+   "note": "Fenêtre se dit « panjare ». Pour une pièce, on dit qu'elle n'a pas de fenêtre, comme en français.",
+   "say": {
+    "panjare": "پنجره"
+   }
+  }
+ ],
+ "0-0-12": [
+  {
+   "words": [
+    [
+     "station de",
+     "ایستگاه"
+    ],
+    [
+     "métro",
+     "مترو"
+    ],
+    [
+     "où est",
+     "کجاست"
+    ]
+   ],
+   "note": "Station se dit « istgâh ». Mot à mot, c'est l'endroit où l'on s'arrête.",
+   "say": {
+    "istgâh": "ایستگاه"
+   }
+  },
+  {
+   "words": [
+    [
+     "train",
+     "قطار"
+    ],
+    [
+     "suivant",
+     "بعدی"
+    ],
+    [
+     "quand",
+     "کی"
+    ],
+    [
+     "départ",
+     "حرکت"
+    ],
+    [
+     "faire",
+     "می‌کند"
+    ]
+   ],
+   "note": "Quand se dit « key ». Il se place juste avant le verbe.",
+   "say": {
+    "key": "کی"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "آن"
+    ],
+    [
+     "monsieur",
+     "آقا"
+    ],
+    [
+     "qui est",
+     "کیست"
+    ]
+   ],
+   "note": "Qui est se dit « kist ». C'est qui et est collés ensemble.",
+   "say": {
+    "kist": "کیست"
+   }
+  },
+  {
+   "words": [
+    [
+     "nom de",
+     "اسم"
+    ],
+    [
+     "cette",
+     "این"
+    ],
+    [
+     "station",
+     "ایستگاه"
+    ],
+    [
+     "qu'est-ce que",
+     "چیست"
+    ]
+   ],
+   "note": "Pour demander un nom, on dit le nom de cette station est quoi. Quoi est se dit « chist ».",
+   "say": {
+    "chist": "چیست"
+   }
+  },
+  {
+   "words": [
+    [
+     "madame",
+     "خانم"
+    ],
+    [
+     "où",
+     "کجا"
+    ],
+    [
+     "aller",
+     "می‌روید"
+    ]
+   ],
+   "note": "Où se dit « kojâ ». Il se place juste avant le verbe, pas au début.",
+   "say": {
+    "kojâ": "کجا"
+   }
+  },
+  {
+   "words": [
+    [
+     "à la recherche de",
+     "دنبال"
+    ],
+    [
+     "quoi",
+     "چی"
+    ],
+    [
+     "être",
+     "هستید"
+    ]
+   ],
+   "note": "Dans la langue parlée, quoi se dit « chi ». Chercher, c'est être à la poursuite de quelque chose.",
+   "say": {
+    "chi": "چی"
+   }
+  },
+  {
+   "words": [
+    [
+     "qui",
+     "کی"
+    ],
+    [
+     "avec",
+     "با"
+    ],
+    [
+     "nous",
+     "ما"
+    ],
+    [
+     "venir",
+     "می‌آید"
+    ]
+   ],
+   "note": "Qui se dit « ki ». Il prend la place de la personne, au début de la phrase.",
+   "say": {
+    "ki": "کی"
+   }
+  },
+  {
+   "words": [
+    [
+     "quand",
+     "کی"
+    ],
+    [
+     "arriver",
+     "می‌رسید"
+    ]
+   ],
+   "note": "Avec vous, arriver se dit « miresid ». Deux mots suffisent pour poser la question.",
+   "say": {
+    "miresid": "می‌رسید"
+   }
+  },
+  {
+   "words": [
+    [
+     "sortie",
+     "خروجی"
+    ],
+    [
+     "où est",
+     "کجاست"
+    ]
+   ],
+   "note": "Sortie se dit « khoruji ». C'est un mot très utile dans le métro.",
+   "say": {
+    "khoruji": "خروجی"
+   }
+  },
+  {
+   "words": [
+    [
+     "cette",
+     "این"
+    ],
+    [
+     "carte",
+     "کارت"
+    ],
+    [
+     "qu'est-ce que",
+     "چیست"
+    ]
+   ],
+   "note": "Carte se dit presque comme en français, « kârt ». Beaucoup de mots du quotidien viennent du français.",
+   "say": {
+    "kârt": "کارت"
+   }
+  }
+ ],
+ "0-0-13": [
+  {
+   "words": [
+    [
+     "safran",
+     "زعفران"
+    ],
+    [
+     "combien",
+     "چند"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Le safran coûte très cher, on l'achète par petites quantités. Combien se dit « chand ».",
+   "say": {
+    "chand": "چند"
+   }
+  },
+  {
+   "words": [
+    [
+     "deux",
+     "دو"
+    ],
+    [
+     "petit mot pour compter",
+     "تا"
+    ],
+    [
+     "paquet",
+     "بسته"
+    ],
+    [
+     "thé",
+     "چای"
+    ],
+    [
+     "vouloir",
+     "می‌خواهم"
+    ]
+   ],
+   "note": "Entre le nombre et le nom, on glisse souvent le petit mot « tâ ». Il sert juste à compter les choses.",
+   "say": {
+    "tâ": "تا"
+   }
+  },
+  {
+   "words": [
+    [
+     "combien de",
+     "چند"
+    ],
+    [
+     "petit mot pour compter",
+     "تا"
+    ],
+    [
+     "paquet",
+     "بسته"
+    ],
+    [
+     "vouloir",
+     "می‌خواهید"
+    ]
+   ],
+   "note": "Vous voulez se dit « mikhâhid ». La question commence par combien.",
+   "say": {
+    "mikhâhid": "می‌خواهید"
+   }
+  },
+  {
+   "words": [
+    [
+     "cinq",
+     "پنج"
+    ],
+    [
+     "petit mot pour compter",
+     "تا"
+    ],
+    [
+     "s'il vous plaît",
+     "لطفا"
+    ]
+   ],
+   "note": "On peut répondre juste avec le nombre et « tâ ». Le nom est alors sous-entendu.",
+   "say": {
+    "tâ": "تا"
+   }
+  },
+  {
+   "words": [
+    [
+     "combien de",
+     "چند"
+    ],
+    [
+     "petit mot pour compter",
+     "تا"
+    ],
+    [
+     "enfant",
+     "بچه"
+    ],
+    [
+     "avoir",
+     "دارید"
+    ]
+   ],
+   "note": "Enfant se dit « bachche ». Le petit mot pour compter sert aussi pour les personnes.",
+   "say": {
+    "bachche": "بچه"
+   }
+  },
+  {
+   "words": [
+    [
+     "deux",
+     "دو"
+    ],
+    [
+     "petit mot pour compter",
+     "تا"
+    ],
+    [
+     "enfant",
+     "بچه"
+    ],
+    [
+     "avoir",
+     "دارم"
+    ],
+    [
+     "un",
+     "یک"
+    ],
+    [
+     "fils",
+     "پسر"
+    ],
+    [
+     "et",
+     "و"
+    ],
+    [
+     "une",
+     "یک"
+    ],
+    [
+     "fille",
+     "دختر"
+    ]
+   ],
+   "note": "Fils se dit « pesar ». Ce mot veut aussi dire garçon.",
+   "say": {
+    "pesar": "پسر"
+   }
+  },
+  {
+   "words": [
+    [
+     "sur",
+     "روی"
+    ],
+    [
+     "ensemble",
+     "هم"
+    ],
+    [
+     "combien",
+     "چند"
+    ],
+    [
+     "devenir",
+     "می‌شود"
+    ]
+   ],
+   "note": "En tout se dit mot à mot l'un sur l'autre. Cela donne « ru-ye ham ».",
+   "say": {
+    "ru-ye ham": "روی هم"
+   }
+  },
+  {
+   "words": [
+    [
+     "devenir",
+     "می‌شود"
+    ],
+    [
+     "trois cents",
+     "سیصد"
+    ],
+    [
+     "mille",
+     "هزار"
+    ],
+    [
+     "toman",
+     "تومان"
+    ]
+   ],
+   "note": "Mille se dit « hezâr ». Les prix se comptent souvent en milliers de tomans.",
+   "say": {
+    "hezâr": "هزار"
+   }
+  },
+  {
+   "words": [
+    [
+     "quatre",
+     "چهار"
+    ],
+    [
+     "petit mot pour compter",
+     "تا"
+    ],
+    [
+     "grenade",
+     "انار"
+    ],
+    [
+     "prendre",
+     "برمی‌دارم"
+    ]
+   ],
+   "note": "Je prends se dit « barmidâram ». Mot à mot, c'est je soulève.",
+   "say": {
+    "barmidâram": "برمی‌دارم"
+   }
+  },
+  {
+   "words": [
+    [
+     "combien de",
+     "چند"
+    ],
+    [
+     "temps",
+     "وقت"
+    ],
+    [
+     "à",
+     "در"
+    ],
+    [
+     "Téhéran",
+     "تهران"
+    ],
+    [
+     "rester",
+     "می‌مانید"
+    ]
+   ],
+   "note": "Combien de temps se dit « chand vaght ». Le verbe rester ferme la phrase.",
+   "say": {
+    "chand vaght": "چند وقت"
+   }
+  }
+ ],
+ "0-0-14": [
+  {
+   "words": [
+    [
+     "pardon",
+     "ببخشید"
+    ],
+    [
+     "heure",
+     "ساعت"
+    ],
+    [
+     "combien",
+     "چند"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Pardon se dit « bebakhshid ». Pour l'heure, on demande l'heure est combien.",
+   "say": {
+    "bebakhshid": "ببخشید"
+   }
+  },
+  {
+   "words": [
+    [
+     "heure",
+     "ساعت"
+    ],
+    [
+     "combien est",
+     "چنده"
+    ]
+   ],
+   "note": "Dans la langue parlée, combien est devient « chande ». C'est la façon la plus courante de demander l'heure.",
+   "say": {
+    "chande": "چنده"
+   }
+  },
+  {
+   "words": [
+    [
+     "heure",
+     "ساعت"
+    ],
+    [
+     "huit",
+     "هشت"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Heure se dit « sâ'at ». Ce mot se place avant le nombre.",
+   "say": {
+    "sâ'at": "ساعت"
+   }
+  },
+  {
+   "words": [
+    [
+     "heure",
+     "ساعت"
+    ],
+    [
+     "neuf",
+     "نه"
+    ],
+    [
+     "et",
+     "و"
+    ],
+    [
+     "demi",
+     "نیم"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Demie se dit « nim ». On dit neuf et demie, comme en français.",
+   "say": {
+    "nim": "نیم"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "من"
+    ],
+    [
+     "heure",
+     "ساعت"
+    ],
+    [
+     "sept",
+     "هفت"
+    ],
+    [
+     "à",
+     "به"
+    ],
+    [
+     "bureau",
+     "اداره"
+    ],
+    [
+     "aller",
+     "می‌روم"
+    ]
+   ],
+   "note": "Le lieu de travail se dit souvent « edâre ». L'heure vient tôt dans la phrase, et le verbe à la fin.",
+   "say": {
+    "edâre": "اداره"
+   }
+  },
+  {
+   "words": [
+    [
+     "réunion de",
+     "جلسه‌ی"
+    ],
+    [
+     "nous",
+     "ما"
+    ],
+    [
+     "heure",
+     "ساعت"
+    ],
+    [
+     "dix",
+     "ده"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Réunion se dit « jalase ». Notre réunion se dit la réunion de nous.",
+   "say": {
+    "jalase": "جلسه"
+   }
+  },
+  {
+   "words": [
+    [
+     "heure",
+     "ساعت"
+    ],
+    [
+     "cinq",
+     "پنج"
+    ],
+    [
+     "et",
+     "و"
+    ],
+    [
+     "quart",
+     "ربع"
+    ],
+    [
+     "à",
+     "به"
+    ],
+    [
+     "maison",
+     "خانه"
+    ],
+    [
+     "revenir",
+     "برمی‌گردم"
+    ]
+   ],
+   "note": "Quart se dit « rob' ». On dit cinq heures et quart, comme en français.",
+   "say": {
+    "rob'": "ربع"
+   }
+  },
+  {
+   "words": [
+    [
+     "un",
+     "یک"
+    ],
+    [
+     "quart",
+     "ربع"
+    ],
+    [
+     "à",
+     "به"
+    ],
+    [
+     "dix",
+     "ده"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Dix heures moins le quart se dit un quart jusqu'à dix. Ce petit mot à se dit « be ».",
+   "say": {
+    "be": "به"
+   }
+  },
+  {
+   "words": [
+    [
+     "métro",
+     "مترو"
+    ],
+    [
+     "cinq",
+     "پنج"
+    ],
+    [
+     "minute",
+     "دقیقه‌ی"
+    ],
+    [
+     "autre",
+     "دیگر"
+    ],
+    [
+     "arriver",
+     "می‌رسد"
+    ]
+   ],
+   "note": "Dans cinq minutes se dit cinq autres minutes. Minute se dit « daghighe ».",
+   "say": {
+    "daghighe": "دقیقه"
+   }
+  },
+  {
+   "words": [
+    [
+     "heure",
+     "ساعت"
+    ],
+    [
+     "sept",
+     "هفت"
+    ],
+    [
+     "nuit",
+     "شب"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Pour le soir, on ajoute le mot nuit après l'heure. Nuit se dit « shab ».",
+   "say": {
+    "shab": "شب"
+   }
+  }
+ ],
+ "0-0-15": [
+  {
+   "words": [
+    [
+     "je",
+     "من"
+    ],
+    [
+     "avec",
+     "با"
+    ],
+    [
+     "métro",
+     "مترو"
+    ],
+    [
+     "à",
+     "به"
+    ],
+    [
+     "bureau",
+     "اداره"
+    ],
+    [
+     "aller",
+     "می‌روم"
+    ]
+   ],
+   "note": "Je vais se dit « miravam ». Le présent commence toujours par le même petit son.",
+   "say": {
+    "miravam": "می‌روم"
+   }
+  },
+  {
+   "words": [
+    [
+     "midi",
+     "ظهر"
+    ],
+    [
+     "avec",
+     "با"
+    ],
+    [
+     "mes collègues",
+     "همکارانم"
+    ],
+    [
+     "repas",
+     "غذا"
+    ],
+    [
+     "manger",
+     "می‌خورم"
+    ]
+   ],
+   "note": "Midi se dit « zohr ». Pour manger un repas, on dit manger de la nourriture.",
+   "say": {
+    "zohr": "ظهر"
+   }
+  },
+  {
+   "words": [
+    [
+     "tu",
+     "تو"
+    ],
+    [
+     "où",
+     "کجا"
+    ],
+    [
+     "travail",
+     "کار"
+    ],
+    [
+     "faire",
+     "می‌کنی"
+    ]
+   ],
+   "note": "Avec tu, le verbe finit par le son i. Tu fais se dit « mikoni ».",
+   "say": {
+    "mikoni": "می‌کنی"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "او"
+    ],
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "bien",
+     "خوب"
+    ],
+    [
+     "français",
+     "فرانسه"
+    ],
+    [
+     "conversation",
+     "صحبت"
+    ],
+    [
+     "faire",
+     "می‌کند"
+    ]
+   ],
+   "note": "Parler se dit faire la conversation. Conversation se dit « sohbat ».",
+   "say": {
+    "sohbat": "صحبت"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "ما"
+    ],
+    [
+     "heure",
+     "ساعت"
+    ],
+    [
+     "dix",
+     "ده"
+    ],
+    [
+     "thé",
+     "چای"
+    ],
+    [
+     "manger",
+     "می‌خوریم"
+    ]
+   ],
+   "note": "Nous buvons se dit « mikhorim ». On utilise le même verbe pour manger et pour boire.",
+   "say": {
+    "mikhorim": "می‌خوریم"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon collègue",
+     "همکارم"
+    ],
+    [
+     "toujours",
+     "همیشه"
+    ],
+    [
+     "tard",
+     "دیر"
+    ],
+    [
+     "venir",
+     "می‌آید"
+    ]
+   ],
+   "note": "Toujours se dit « hamishe ». En retard se dit simplement tard.",
+   "say": {
+    "hamishe": "همیشه"
+   }
+  },
+  {
+   "words": [
+    [
+     "les matins",
+     "صبح‌ها"
+    ],
+    [
+     "mes e-mails",
+     "ایمیل‌هایم"
+    ],
+    [
+     "petit mot du complément",
+     "را"
+    ],
+    [
+     "lire",
+     "می‌خوانم"
+    ]
+   ],
+   "note": "Le matin, au sens de chaque matin, se dit les matins. Cela donne « sobhhâ ».",
+   "say": {
+    "sobhhâ": "صبح‌ها"
+   }
+  },
+  {
+   "words": [
+    [
+     "ils",
+     "آن‌ها"
+    ],
+    [
+     "heure",
+     "ساعت"
+    ],
+    [
+     "six",
+     "شش"
+    ],
+    [
+     "à",
+     "به"
+    ],
+    [
+     "maison",
+     "خانه"
+    ],
+    [
+     "revenir",
+     "برمی‌گردند"
+    ]
+   ],
+   "note": "Rentrer se dit revenir. Avec ils, cela donne « barmigardand ».",
+   "say": {
+    "barmigardand": "برمی‌گردند"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "شما"
+    ],
+    [
+     "persan",
+     "فارسی"
+    ],
+    [
+     "comprendre",
+     "می‌فهمید"
+    ]
+   ],
+   "note": "Le persan se dit « fârsi ». C'est le nom que les Iraniens donnent à leur langue.",
+   "say": {
+    "fârsi": "فارسی"
+   }
+  },
+  {
+   "words": [
+    [
+     "un peu",
+     "کمی"
+    ],
+    [
+     "comprendre",
+     "می‌فهمم"
+    ]
+   ],
+   "note": "Je comprends se dit « mifahmam ». On peut répondre avec ces deux mots seulement.",
+   "say": {
+    "mifahmam": "می‌فهمم"
+   }
+  }
+ ],
+ "0-0-16": [
+  {
+   "words": [
+    [
+     "un",
+     "یک"
+    ],
+    [
+     "thé",
+     "چای"
+    ],
+    [
+     "vouloir",
+     "می‌خواهم"
+    ],
+    [
+     "s'il vous plaît",
+     "لطفا"
+    ]
+   ],
+   "note": "Je veux se dit « mikhâham ». Avec s'il vous plaît, c'est tout à fait poli.",
+   "say": {
+    "mikhâham": "می‌خواهم"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "شما"
+    ],
+    [
+     "quoi",
+     "چه"
+    ],
+    [
+     "vouloir",
+     "می‌خواهید"
+    ]
+   ],
+   "note": "Dans une langue soignée, quoi se dit « che ». Le mot de question se place avant le verbe.",
+   "say": {
+    "che": "چه"
+   }
+  },
+  {
+   "words": [
+    [
+     "un",
+     "یک"
+    ],
+    [
+     "verre",
+     "لیوان"
+    ],
+    [
+     "eau",
+     "آب"
+    ],
+    [
+     "vouloir",
+     "می‌خواهم"
+    ]
+   ],
+   "note": "Un verre d'eau se dit un verre eau, sans de. Eau se dit « âb ».",
+   "say": {
+    "âb": "آب"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "ما"
+    ],
+    [
+     "deux",
+     "دو"
+    ],
+    [
+     "thé",
+     "چای"
+    ],
+    [
+     "et",
+     "و"
+    ],
+    [
+     "datte",
+     "خرما"
+    ],
+    [
+     "vouloir",
+     "می‌خواهیم"
+    ]
+   ],
+   "note": "Datte se dit « khormâ ». En Iran, on sert souvent des dattes avec le thé.",
+   "say": {
+    "khormâ": "خرما"
+   }
+  },
+  {
+   "words": [
+    [
+     "sucre",
+     "قند"
+    ],
+    [
+     "vouloir",
+     "می‌خواهی"
+    ]
+   ],
+   "note": "Tu veux se dit « mikhâhi ». On ne dit pas le tu, la fin du verbe suffit.",
+   "say": {
+    "mikhâhi": "می‌خواهی"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "نه"
+    ],
+    [
+     "merci",
+     "ممنون"
+    ],
+    [
+     "sucre",
+     "قند"
+    ],
+    [
+     "ne pas vouloir",
+     "نمی‌خواهم"
+    ]
+   ],
+   "note": "Je ne veux pas se dit « nemikhâham ». La négation se place au tout début du verbe.",
+   "say": {
+    "nemikhâham": "نمی‌خواهم"
+   }
+  },
+  {
+   "words": [
+    [
+     "il",
+     "او"
+    ],
+    [
+     "un",
+     "یک"
+    ],
+    [
+     "gâteau",
+     "کیک"
+    ],
+    [
+     "au safran",
+     "زعفرانی"
+    ],
+    [
+     "vouloir",
+     "می‌خواهد"
+    ]
+   ],
+   "note": "Au safran se dit « za'farâni ». Le son i final transforme le nom en adjectif.",
+   "say": {
+    "za'farâni": "زعفرانی"
+   }
+  },
+  {
+   "words": [
+    [
+     "addition",
+     "صورت‌حساب"
+    ],
+    [
+     "petit mot du complément",
+     "را"
+    ],
+    [
+     "vouloir",
+     "می‌خواهم"
+    ]
+   ],
+   "note": "L'addition se dit « surat hesâb ». Mot à mot, c'est la liste du compte.",
+   "say": {
+    "surat hesâb": "صورت‌حساب"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "او"
+    ],
+    [
+     "un",
+     "یک"
+    ],
+    [
+     "thé",
+     "چای"
+    ],
+    [
+     "brûlant",
+     "داغ"
+    ],
+    [
+     "vouloir",
+     "می‌خواهد"
+    ]
+   ],
+   "note": "Brûlant se dit « dâgh ». C'est plus fort que chaud.",
+   "say": {
+    "dâgh": "داغ"
+   }
+  },
+  {
+   "words": [
+    [
+     "chose",
+     "چیز"
+    ],
+    [
+     "autre",
+     "دیگری"
+    ],
+    [
+     "vouloir",
+     "می‌خواهید"
+    ]
+   ],
+   "note": "Autre chose se dit chose autre. Autre se dit ici « digari ».",
+   "say": {
+    "digari": "دیگری"
+   }
+  }
+ ],
+ "0-0-17": [
+  {
+   "words": [
+    [
+     "demain",
+     "فردا"
+    ],
+    [
+     "directeur",
+     "مدیر"
+    ],
+    [
+     "petit mot du complément",
+     "را"
+    ],
+    [
+     "voir",
+     "می‌بینم"
+    ]
+   ],
+   "note": "Après un objet précis, on ajoute « râ ». Le directeur est bien connu, donc on le marque.",
+   "say": {
+    "râ": "را"
+   }
+  },
+  {
+   "words": [
+    [
+     "dossier",
+     "پرونده‌ی"
+    ],
+    [
+     "bleu",
+     "آبی"
+    ],
+    [
+     "petit mot du complément",
+     "را"
+    ],
+    [
+     "trouvé",
+     "پیدا"
+    ],
+    [
+     "ne pas faire",
+     "نمی‌کنم"
+    ]
+   ],
+   "note": "Trouver se dit faire trouvé. Je ne trouve pas se dit « peydâ nemikonam ».",
+   "say": {
+    "peydâ nemikonam": "پیدا نمی‌کنم"
+   }
+  },
+  {
+   "words": [
+    [
+     "madame",
+     "خانم"
+    ],
+    [
+     "Ahmadi",
+     "احمدی"
+    ],
+    [
+     "petit mot du complément",
+     "را"
+    ],
+    [
+     "connaître",
+     "می‌شناسید"
+    ]
+   ],
+   "note": "Avec vous, connaître se dit « mishenâsid ». Une personne nommée est toujours précise, donc on la marque.",
+   "say": {
+    "mishenâsid": "می‌شناسید"
+   }
+  },
+  {
+   "words": [
+    [
+     "fenêtre",
+     "پنجره"
+    ],
+    [
+     "petit mot du complément",
+     "را"
+    ],
+    [
+     "ouvert",
+     "باز"
+    ],
+    [
+     "faire",
+     "می‌کنم"
+    ]
+   ],
+   "note": "Ouvrir se dit faire ouvert. Cela donne « bâz mikonam ».",
+   "say": {
+    "bâz mikonam": "باز می‌کنم"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "امروز"
+    ],
+    [
+     "ce",
+     "این"
+    ],
+    [
+     "rapport",
+     "گزارش"
+    ],
+    [
+     "petit mot du complément",
+     "را"
+    ],
+    [
+     "lire",
+     "می‌خوانم"
+    ]
+   ],
+   "note": "Rapport se dit « gozâresh ». Avec ce devant, l'objet est précis, donc on ajoute le petit mot.",
+   "say": {
+    "gozâresh": "گزارش"
+   }
+  },
+  {
+   "words": [
+    [
+     "une",
+     "یک"
+    ],
+    [
+     "lettre",
+     "نامه"
+    ],
+    [
+     "à",
+     "به"
+    ],
+    [
+     "mon ami",
+     "دوستم"
+    ],
+    [
+     "écrire",
+     "می‌نویسم"
+    ]
+   ],
+   "note": "Ici, pas de petit mot après lettre, car c'est une lettre quelconque. J'écris se dit « minevisam ».",
+   "say": {
+    "minevisam": "می‌نویسم"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce soir",
+     "امشب"
+    ],
+    [
+     "lettre",
+     "نامه"
+    ],
+    [
+     "petit mot du complément",
+     "را"
+    ],
+    [
+     "envoyer",
+     "می‌فرستم"
+    ]
+   ],
+   "note": "Ce soir se dit « emshab ». Mot à mot, c'est cette nuit.",
+   "say": {
+    "emshab": "امشب"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon téléphone",
+     "گوشی‌ام"
+    ],
+    [
+     "petit mot du complément",
+     "را"
+    ],
+    [
+     "ne pas voir",
+     "نمی‌بینم"
+    ]
+   ],
+   "note": "Je ne vois pas se dit « nemibinam ». Mon téléphone est un objet précis, donc il est marqué.",
+   "say": {
+    "nemibinam": "نمی‌بینم"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon collègue",
+     "همکارم"
+    ],
+    [
+     "gâteaux",
+     "شیرینی‌ها"
+    ],
+    [
+     "petit mot du complément",
+     "را"
+    ],
+    [
+     "apporter",
+     "می‌آورد"
+    ]
+   ],
+   "note": "Les petits gâteaux se disent « shirinihâ ». Au bureau, on en apporte pour fêter une bonne nouvelle.",
+   "say": {
+    "shirinihâ": "شیرینی‌ها"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "ما"
+    ],
+    [
+     "travail",
+     "کار"
+    ],
+    [
+     "petit mot du complément",
+     "را"
+    ],
+    [
+     "heure",
+     "ساعت"
+    ],
+    [
+     "cinq",
+     "پنج"
+    ],
+    [
+     "fini",
+     "تمام"
+    ],
+    [
+     "faire",
+     "می‌کنیم"
+    ]
+   ],
+   "note": "Finir se dit faire fini. Fini se dit « tamâm ».",
+   "say": {
+    "tamâm": "تمام"
+   }
+  }
+ ],
+ "0-0-18": [
+  {
+   "words": [
+    [
+     "je",
+     "من"
+    ],
+    [
+     "à",
+     "در"
+    ],
+    [
+     "Téhéran",
+     "تهران"
+    ],
+    [
+     "vie",
+     "زندگی"
+    ],
+    [
+     "faire",
+     "می‌کنم"
+    ]
+   ],
+   "note": "Pour dire dans un lieu, on utilise « dar ». On le place devant le nom de la ville.",
+   "say": {
+    "dar": "در"
+   }
+  },
+  {
+   "words": [
+    [
+     "de",
+     "از"
+    ],
+    [
+     "bazar",
+     "بازار"
+    ],
+    [
+     "revenir",
+     "برمی‌گردم"
+    ]
+   ],
+   "note": "De, pour la provenance, se dit « az ». Il se place devant le lieu d'où l'on vient.",
+   "say": {
+    "az": "از"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce soir",
+     "امشب"
+    ],
+    [
+     "à",
+     "به"
+    ],
+    [
+     "parc",
+     "پارک"
+    ],
+    [
+     "aller",
+     "می‌رویم"
+    ]
+   ],
+   "note": "Pour aller vers un lieu, on utilise « be ». C'est le à de la direction.",
+   "say": {
+    "be": "به"
+   }
+  },
+  {
+   "words": [
+    [
+     "bureau",
+     "دفتر"
+    ],
+    [
+     "dans",
+     "در"
+    ],
+    [
+     "ce",
+     "این"
+    ],
+    [
+     "bâtiment",
+     "ساختمان"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Bâtiment se dit « sâkhtemân ». Ce mot vient du verbe construire.",
+   "say": {
+    "sâkhtemân": "ساختمان"
+   }
+  },
+  {
+   "words": [
+    [
+     "avec",
+     "با"
+    ],
+    [
+     "taxi",
+     "تاکسی"
+    ],
+    [
+     "à",
+     "به"
+    ],
+    [
+     "Tajrish",
+     "تجریش"
+    ],
+    [
+     "aller",
+     "می‌روم"
+    ]
+   ],
+   "note": "En taxi se dit avec le taxi. Avec se dit « bâ ».",
+   "say": {
+    "bâ": "با"
+   }
+  },
+  {
+   "words": [
+    [
+     "de",
+     "از"
+    ],
+    [
+     "ma maison",
+     "خانه‌ام"
+    ],
+    [
+     "jusqu'à",
+     "تا"
+    ],
+    [
+     "bureau",
+     "اداره"
+    ],
+    [
+     "vingt",
+     "بیست"
+    ],
+    [
+     "minute",
+     "دقیقه"
+    ],
+    [
+     "chemin",
+     "راه"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "De chez moi au bureau se dit de ma maison jusqu'au bureau. Chemin se dit « râh ».",
+   "say": {
+    "râh": "راه"
+   }
+  },
+  {
+   "words": [
+    [
+     "livre",
+     "کتاب"
+    ],
+    [
+     "dans",
+     "در"
+    ],
+    [
+     "sac",
+     "کیف"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Livre se dit « ketâb ». Comme souvent, il n'y a aucun article devant le nom.",
+   "say": {
+    "ketâb": "کتاب"
+   }
+  },
+  {
+   "words": [
+    [
+     "pain",
+     "نان"
+    ],
+    [
+     "petit mot du complément",
+     "را"
+    ],
+    [
+     "à",
+     "به"
+    ],
+    [
+     "voisin",
+     "همسایه"
+    ],
+    [
+     "donner",
+     "می‌دهم"
+    ]
+   ],
+   "note": "Je donne se dit « midaham ». Celui qui reçoit est introduit par le petit mot à.",
+   "say": {
+    "midaham": "می‌دهم"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "او"
+    ],
+    [
+     "de",
+     "از"
+    ],
+    [
+     "boulangerie",
+     "نانوایی"
+    ],
+    [
+     "dehors",
+     "بیرون"
+    ],
+    [
+     "venir",
+     "می‌آید"
+    ]
+   ],
+   "note": "Sortir se dit venir dehors. Dehors se dit « birun ».",
+   "say": {
+    "birun": "بیرون"
+   }
+  },
+  {
+   "words": [
+    [
+     "les soirs",
+     "شب‌ها"
+    ],
+    [
+     "à",
+     "به"
+    ],
+    [
+     "ma mère",
+     "مادرم"
+    ],
+    [
+     "sonnerie",
+     "زنگ"
+    ],
+    [
+     "frapper",
+     "می‌زنم"
+    ]
+   ],
+   "note": "Téléphoner se dit frapper la sonnerie. Sonnerie se dit « zang ».",
+   "say": {
+    "zang": "زنگ"
+   }
+  }
+ ],
+ "0-0-19": [
+  {
+   "words": [
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "merci",
+     "ممنون"
+    ],
+    [
+     "de",
+     "از"
+    ],
+    [
+     "aide de",
+     "کمک"
+    ],
+    [
+     "vous",
+     "شما"
+    ]
+   ],
+   "note": "Aide se dit « komak ». On remercie de l'aide, avec le petit mot de.",
+   "say": {
+    "komak": "کمک"
+   }
+  },
+  {
+   "words": [
+    [
+     "prière",
+     "خواهش"
+    ],
+    [
+     "faire",
+     "می‌کنم"
+    ]
+   ],
+   "note": "Je vous en prie se dit « khâhesh mikonam ». Mot à mot, je fais une prière, une demande.",
+   "say": {
+    "khâhesh mikonam": "خواهش می‌کنم"
+   }
+  },
+  {
+   "words": [
+    [
+     "pardon",
+     "ببخشید"
+    ],
+    [
+     "persan de",
+     "فارسی"
+    ],
+    [
+     "moi",
+     "من"
+    ],
+    [
+     "encore",
+     "هنوز"
+    ],
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "bon",
+     "خوب"
+    ],
+    [
+     "ne pas être",
+     "نیست"
+    ]
+   ],
+   "note": "Pour s'excuser poliment, on dit « bebakhshid ». Mot à mot, c'est pardonnez-moi.",
+   "say": {
+    "bebakhshid": "ببخشید"
+   }
+  },
+  {
+   "words": [
+    [
+     "merci",
+     "مرسی"
+    ],
+    [
+     "pareillement",
+     "همچنین"
+    ]
+   ],
+   "note": "Les Iraniens disent aussi merci à la française, « mersi ». C'est très courant dans la conversation.",
+   "say": {
+    "mersi": "مرسی"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "من"
+    ],
+    [
+     "chaque",
+     "هر"
+    ],
+    [
+     "jour",
+     "روز"
+    ],
+    [
+     "persan",
+     "فارسی"
+    ],
+    [
+     "mémoire",
+     "یاد"
+    ],
+    [
+     "prendre",
+     "می‌گیرم"
+    ]
+   ],
+   "note": "Apprendre se dit prendre en mémoire. Cela donne « yâd migiram ».",
+   "say": {
+    "yâd migiram": "یاد می‌گیرم"
+   }
+  },
+  {
+   "words": [
+    [
+     "persan",
+     "فارسی"
+    ],
+    [
+     "langue",
+     "زبان"
+    ],
+    [
+     "beau",
+     "قشنگی"
+    ],
+    [
+     "être",
+     "است"
+    ]
+   ],
+   "note": "Langue se dit « zabân ». C'est aussi le mot pour la langue dans la bouche.",
+   "say": {
+    "zabân": "زبان"
+   }
+  },
+  {
+   "words": [
+    [
+     "maintenant",
+     "حالا"
+    ],
+    [
+     "jusqu'à",
+     "تا"
+    ],
+    [
+     "dix",
+     "ده"
+    ],
+    [
+     "en",
+     "به"
+    ],
+    [
+     "persan",
+     "فارسی"
+    ],
+    [
+     "compter",
+     "می‌شمارم"
+    ]
+   ],
+   "note": "Maintenant se dit « hâlâ ». En persan se dit à persan, avec le petit mot à.",
+   "say": {
+    "hâlâ": "حالا"
+   }
+  },
+  {
+   "words": [
+    [
+     "pardon",
+     "ببخشید"
+    ],
+    [
+     "est-ce possible",
+     "می‌شود"
+    ],
+    [
+     "répétition",
+     "تکرار"
+    ],
+    [
+     "faire",
+     "کنید"
+    ]
+   ],
+   "note": "Pour demander poliment, on dit « mishavad ». Cela veut dire est-ce possible.",
+   "say": {
+    "mishavad": "می‌شود"
+   }
+  },
+  {
+   "words": [
+    [
+     "merci",
+     "ممنون"
+    ],
+    [
+     "vous",
+     "شما"
+    ],
+    [
+     "très",
+     "خیلی"
+    ],
+    [
+     "bonté",
+     "لطف"
+    ],
+    [
+     "avoir",
+     "دارید"
+    ]
+   ],
+   "note": "C'est gentil se dit vous avez beaucoup de bonté. Bonté se dit « lotf ».",
+   "say": {
+    "lotf": "لطف"
+   }
+  },
+  {
+   "words": [
+    [
+     "au revoir",
+     "خداحافظ"
+    ],
+    [
+     "jusqu'à",
+     "تا"
+    ],
+    [
+     "leçon",
+     "درس"
+    ],
+    [
+     "suivant",
+     "بعدی"
+    ]
+   ],
+   "note": "Leçon se dit « dars ». La prochaine leçon se dit la leçon suivante.",
+   "say": {
+    "dars": "درس"
+   }
+  }
+ ]
+}

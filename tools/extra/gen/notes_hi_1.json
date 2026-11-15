@@ -1,0 +1,5390 @@
+{
+ "0-1-0": [
+  {
+   "words": [
+    [
+     "gare",
+     "स्टेशन"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "grand",
+     "बड़ा"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "La gare se dit « sṭeshan ». C'est un mot masculin, alors grand reste au masculin.",
+   "say": {
+    "sṭeshan": "स्टेशन"
+   }
+  },
+  {
+   "words": [
+    [
+     "quai",
+     "प्लेटफ़ार्म"
+    ],
+    [
+     "numéro",
+     "नंबर"
+    ],
+    [
+     "cinq",
+     "पाँच"
+    ],
+    [
+     "où",
+     "कहाँ"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le quai se dit « pleṭfārm ». Beaucoup de mots du train viennent de l'anglais.",
+   "say": {
+    "pleṭfārm": "प्लेटफ़ार्म"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma",
+     "मेरी"
+    ],
+    [
+     "train",
+     "ट्रेन"
+    ],
+    [
+     "en retard",
+     "लेट"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le train est féminin en hindi. Mon se dit donc « merī ».",
+   "say": {
+    "merī": "मेरी"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "मेरे"
+    ],
+    [
+     "près",
+     "पास"
+    ],
+    [
+     "un",
+     "एक"
+    ],
+    [
+     "gros",
+     "बड़ा"
+    ],
+    [
+     "sac",
+     "थैला"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Gros ou grand se dit « baṛā ». Il se met juste avant le sac.",
+   "say": {
+    "baṛā": "बड़ा"
+   }
+  },
+  {
+   "words": [
+    [
+     "taxi",
+     "टैक्सी"
+    ],
+    [
+     "dehors",
+     "बाहर"
+    ],
+    [
+     "debout",
+     "खड़ी"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Dehors se dit « bāhar ». Pour dire que le taxi attend, on dit qu'il est debout dehors.",
+   "say": {
+    "bāhar": "बाहर"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "मुझे"
+    ],
+    [
+     "hôtel",
+     "होटल"
+    ],
+    [
+     "aller",
+     "जाना"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Pour dire je dois, on dit à moi aller est. Aller se dit « jānā ».",
+   "say": {
+    "jānā": "जाना"
+   }
+  },
+  {
+   "words": [
+    [
+     "toilettes",
+     "बाथरूम"
+    ],
+    [
+     "là-bas",
+     "वहाँ"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Là-bas se dit « vahāṃ ». C'est le contraire de ici.",
+   "say": {
+    "vahāṃ": "वहाँ"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "क्या"
+    ],
+    [
+     "votre",
+     "आपके"
+    ],
+    [
+     "près",
+     "पास"
+    ],
+    [
+     "eau",
+     "पानी"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "L'eau se dit « pānī ». C'est un mot à connaître dès le premier jour.",
+   "say": {
+    "pānī": "पानी"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "यहाँ"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "chaleur",
+     "गर्मी"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Ici se dit « yahāṃ ». Il fait chaud se dit il y a de la chaleur.",
+   "say": {
+    "yahāṃ": "यहाँ"
+   }
+  },
+  {
+   "words": [
+    [
+     "Inde",
+     "भारत"
+    ],
+    [
+     "dans",
+     "में"
+    ],
+    [
+     "votre",
+     "आपका"
+    ],
+    [
+     "accueil",
+     "स्वागत"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Bienvenue se dit votre accueil est. L'Inde se dit « Bhārat ».",
+   "say": {
+    "Bhārat": "भारत"
+   }
+  }
+ ],
+ "0-1-1": [
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "आज"
+    ],
+    [
+     "je",
+     "मैं"
+    ],
+    [
+     "Delhi",
+     "दिल्ली"
+    ],
+    [
+     "dans",
+     "में"
+    ],
+    [
+     "suis",
+     "हूँ"
+    ]
+   ],
+   "note": "Aujourd'hui se dit « āj ». On le place souvent en tête de phrase.",
+   "say": {
+    "āj": "आज"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "कल"
+    ],
+    [
+     "je",
+     "मैं"
+    ],
+    [
+     "Agra",
+     "आगरा"
+    ],
+    [
+     "aller",
+     "जा"
+    ],
+    [
+     "en train de",
+     "रहा"
+    ],
+    [
+     "suis",
+     "हूँ"
+    ]
+   ],
+   "note": "Pour une action prévue, on dit je suis en train d'aller. Demain se dit « kal ».",
+   "say": {
+    "kal": "कल"
+   }
+  },
+  {
+   "words": [
+    [
+     "hier",
+     "कल"
+    ],
+    [
+     "je",
+     "मैं"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "fatigué",
+     "थका"
+    ],
+    [
+     "devenu",
+     "हुआ"
+    ],
+    [
+     "étais",
+     "था"
+    ]
+   ],
+   "note": "Ici, le même mot veut dire hier. C'est le verbe au passé qui le montre. Fatigué se dit « thakā huā ».",
+   "say": {
+    "thakā huā": "थका हुआ"
+   }
+  },
+  {
+   "words": [
+    [
+     "après-demain",
+     "परसों"
+    ],
+    [
+     "nous",
+     "हम"
+    ],
+    [
+     "Jaipur",
+     "जयपुर"
+    ],
+    [
+     "dans",
+     "में"
+    ],
+    [
+     "sommes",
+     "हैं"
+    ]
+   ],
+   "note": "Après-demain se dit « parsoṃ ». Le même mot sert aussi pour avant-hier.",
+   "say": {
+    "parsoṃ": "परसों"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "क्या"
+    ],
+    [
+     "aujourd'hui",
+     "आज"
+    ],
+    [
+     "Taj Mahal",
+     "ताजमहल"
+    ],
+    [
+     "fermé",
+     "बंद"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le monument se dit « Tājmahal ». En hindi, on le prononce comme un seul mot.",
+   "say": {
+    "Tājmahal": "ताजमहल"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "नहीं"
+    ],
+    [
+     "vendredi",
+     "शुक्रवार"
+    ],
+    [
+     "à",
+     "को"
+    ],
+    [
+     "fermé",
+     "बंद"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le vendredi se dit « shukravār ». Pour un jour de la semaine, on ajoute le petit mot à juste après.",
+   "say": {
+    "shukravār": "शुक्रवार"
+   }
+  },
+  {
+   "words": [
+    [
+     "hier",
+     "कल"
+    ],
+    [
+     "dimanche",
+     "रविवार"
+    ],
+    [
+     "était",
+     "था"
+    ]
+   ],
+   "note": "Le dimanche se dit « ravivār ». Le verbe être au passé montre que c'était hier.",
+   "say": {
+    "ravivār": "रविवार"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "और"
+    ],
+    [
+     "demain",
+     "कल"
+    ],
+    [
+     "lundi",
+     "सोमवार"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le verbe au présent montre qu'on parle de demain. Le lundi se dit « somvār ».",
+   "say": {
+    "somvār": "सोमवार"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "आज"
+    ],
+    [
+     "temps",
+     "मौसम"
+    ],
+    [
+     "bon",
+     "अच्छा"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le temps qu'il fait se dit « mausam ». Agréable se dit simplement bon.",
+   "say": {
+    "mausam": "मौसम"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma",
+     "मेरी"
+    ],
+    [
+     "train",
+     "ट्रेन"
+    ],
+    [
+     "après-demain",
+     "परसों"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "En hindi, le jour se met souvent juste avant le verbe. Après-demain se dit « parsoṃ ».",
+   "say": {
+    "parsoṃ": "परसों"
+   }
+  }
+ ],
+ "0-1-2": [
+  {
+   "words": [
+    [
+     "Taj Mahal",
+     "ताजमहल"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "beau",
+     "सुंदर"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Beau se dit « sundar ». Cet adjectif ne change jamais de forme.",
+   "say": {
+    "sundar": "सुंदर"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "यह"
+    ],
+    [
+     "blanc",
+     "सफ़ेद"
+    ],
+    [
+     "marbre",
+     "संगमरमर"
+    ],
+    [
+     "de",
+     "का"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le marbre se dit « sangmarmar ». En marbre se dit de marbre.",
+   "say": {
+    "sangmarmar": "संगमरमर"
+   }
+  },
+  {
+   "words": [
+    [
+     "principal",
+     "मुख्य"
+    ],
+    [
+     "porte",
+     "द्वार"
+    ],
+    [
+     "où",
+     "कहाँ"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "La porte se dit ici « dvār ». C'est le mot soutenu des monuments et des temples.",
+   "say": {
+    "dvār": "द्वार"
+   }
+  },
+  {
+   "words": [
+    [
+     "beaucoup",
+     "बहुत"
+    ],
+    [
+     "foule",
+     "भीड़"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Beaucoup de monde se dit beaucoup de foule. On dit « bahut bhīṛ ».",
+   "say": {
+    "bahut bhīṛ": "बहुत भीड़"
+   }
+  },
+  {
+   "words": [
+    [
+     "matin",
+     "सुबह"
+    ],
+    [
+     "moins",
+     "कम"
+    ],
+    [
+     "foule",
+     "भीड़"
+    ],
+    [
+     "être",
+     "होती"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Moins se dit « kam ». Le verbe être habituel montre que c'est vrai chaque matin.",
+   "say": {
+    "kam": "कम"
+   }
+  },
+  {
+   "words": [
+    [
+     "jardin",
+     "बगीचा"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "grand",
+     "बड़ा"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le jardin se dit « bagīchā ». Immense se dit simplement très grand.",
+   "say": {
+    "bagīchā": "बगीचा"
+   }
+  },
+  {
+   "words": [
+    [
+     "allons",
+     "चलो"
+    ],
+    [
+     "ici",
+     "यहाँ"
+    ],
+    [
+     "photo",
+     "फ़ोटो"
+    ],
+    [
+     "prendre",
+     "लेते"
+    ],
+    [
+     "sommes",
+     "हैं"
+    ]
+   ],
+   "note": "La photo se dit « foṭo ». Comme en français, on prend une photo.",
+   "say": {
+    "foṭo": "फ़ोटो"
+   }
+  },
+  {
+   "words": [
+    [
+     "fleuve",
+     "नदी"
+    ],
+    [
+     "monument",
+     "स्मारक"
+    ],
+    [
+     "de",
+     "के"
+    ],
+    [
+     "derrière",
+     "पीछे"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Derrière se dit « ke pīchhe ». On le place après le nom, comme tous ces petits mots.",
+   "say": {
+    "ke pīchhe": "के पीछे"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "यह"
+    ],
+    [
+     "mon",
+     "मेरी"
+    ],
+    [
+     "premier",
+     "पहली"
+    ],
+    [
+     "Inde",
+     "भारत"
+    ],
+    [
+     "voyage",
+     "यात्रा"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le voyage se dit « yātrā ». C'est un mot féminin, d'où mon et premier au féminin.",
+   "say": {
+    "yātrā": "यात्रा"
+   }
+  },
+  {
+   "words": [
+    [
+     "soir",
+     "शाम"
+    ],
+    [
+     "de",
+     "का"
+    ],
+    [
+     "vue",
+     "नज़ारा"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "beau",
+     "सुंदर"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "La vue se dit « nazārā ». La vue du soir se dit soir de vue.",
+   "say": {
+    "nazārā": "नज़ारा"
+   }
+  }
+ ],
+ "0-1-3": [
+  {
+   "words": [
+    [
+     "ici",
+     "यहाँ"
+    ],
+    [
+     "ma",
+     "मेरी"
+    ],
+    [
+     "réservation",
+     "बुकिंग"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "La réservation se dit « buking ». C'est le mot anglais, prononcé à la manière hindi.",
+   "say": {
+    "buking": "बुकिंग"
+   }
+  },
+  {
+   "words": [
+    [
+     "s'il vous plaît",
+     "कृपया"
+    ],
+    [
+     "votre",
+     "अपना"
+    ],
+    [
+     "nom",
+     "नाम"
+    ],
+    [
+     "dire",
+     "बताइए"
+    ]
+   ],
+   "note": "S'il vous plaît se dit « kṛpayā ». C'est une formule polie et un peu soutenue.",
+   "say": {
+    "kṛpayā": "कृपया"
+   }
+  },
+  {
+   "words": [
+    [
+     "deux",
+     "दो"
+    ],
+    [
+     "nuits",
+     "रातों"
+    ],
+    [
+     "de",
+     "के"
+    ],
+    [
+     "pour",
+     "लिए"
+    ],
+    [
+     "une",
+     "एक"
+    ],
+    [
+     "chambre",
+     "कमरा"
+    ],
+    [
+     "nécessaire",
+     "चाहिए"
+    ]
+   ],
+   "note": "Pour se dit « ke lie ». Il se place après le mot, ici après deux nuits.",
+   "say": {
+    "ke lie": "के लिए"
+   }
+  },
+  {
+   "words": [
+    [
+     "un peu",
+     "ज़रा"
+    ],
+    [
+     "attendre",
+     "रुकिए"
+    ]
+   ],
+   "note": "Pour adoucir une demande, on dit un peu. Ce petit mot se dit « zarā ».",
+   "say": {
+    "zarā": "ज़रा"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "यह"
+    ],
+    [
+     "votre",
+     "आपकी"
+    ],
+    [
+     "clé",
+     "चाबी"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "La clé est féminine en hindi. Votre se dit donc « āpkī ».",
+   "say": {
+    "āpkī": "आपकी"
+   }
+  },
+  {
+   "words": [
+    [
+     "chambre",
+     "कमरा"
+    ],
+    [
+     "deuxième",
+     "दूसरी"
+    ],
+    [
+     "étage",
+     "मंज़िल"
+    ],
+    [
+     "à",
+     "पर"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Au deuxième étage se dit deuxième étage sur. L'étage se dit « manzil ».",
+   "say": {
+    "manzil": "मंज़िल"
+   }
+  },
+  {
+   "words": [
+    [
+     "un peu",
+     "ज़रा"
+    ],
+    [
+     "chambre",
+     "कमरा"
+    ],
+    [
+     "montrer",
+     "दिखाइए"
+    ]
+   ],
+   "note": "Montrez se dit « dikhāie ». La fin du mot marque la politesse.",
+   "say": {
+    "dikhāie": "दिखाइए"
+   }
+  },
+  {
+   "words": [
+    [
+     "s'il vous plaît",
+     "कृपया"
+    ],
+    [
+     "fenêtre",
+     "खिड़की"
+    ],
+    [
+     "fermé",
+     "बंद"
+    ],
+    [
+     "faire",
+     "कीजिए"
+    ]
+   ],
+   "note": "Fermer se dit faire fermé. La fenêtre se dit « khiṛkī ».",
+   "say": {
+    "khiṛkī": "खिड़की"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit-déjeuner",
+     "नाश्ता"
+    ],
+    [
+     "combien",
+     "कितने"
+    ],
+    [
+     "sonné",
+     "बजे"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le petit-déjeuner se dit « nāshtā ». À quelle heure se dit à combien d'heures.",
+   "say": {
+    "nāshtā": "नाश्ता"
+   }
+  },
+  {
+   "words": [
+    [
+     "un peu",
+     "ज़रा"
+    ],
+    [
+     "chaud",
+     "गरम"
+    ],
+    [
+     "eau",
+     "पानी"
+    ],
+    [
+     "donner",
+     "दीजिए"
+    ]
+   ],
+   "note": "Ici, un peu sert surtout à être poli. L'eau chaude se dit « garam pānī ».",
+   "say": {
+    "garam pānī": "गरम पानी"
+   }
+  }
+ ],
+ "0-1-4": [
+  {
+   "words": [
+    [
+     "billet",
+     "टिकट"
+    ],
+    [
+     "guichet",
+     "खिड़की"
+    ],
+    [
+     "où",
+     "कहाँ"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le guichet se dit fenêtre des billets. Le billet se dit « ṭikaṭ ».",
+   "say": {
+    "ṭikaṭ": "टिकट"
+   }
+  },
+  {
+   "words": [
+    [
+     "Jaipur",
+     "जयपुर"
+    ],
+    [
+     "de",
+     "का"
+    ],
+    [
+     "un",
+     "एक"
+    ],
+    [
+     "billet",
+     "टिकट"
+    ],
+    [
+     "nécessaire",
+     "चाहिए"
+    ]
+   ],
+   "note": "Un billet pour Jaipur se dit un billet de Jaipur. On dit « Jaypur kā ».",
+   "say": {
+    "Jaypur kā": "जयपुर का"
+   }
+  },
+  {
+   "words": [
+    [
+     "train",
+     "ट्रेन"
+    ],
+    [
+     "combien",
+     "कितने"
+    ],
+    [
+     "sonné",
+     "बजे"
+    ],
+    [
+     "partir",
+     "चलती"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Partir se dit ici « chaltī ». C'est le verbe marcher, au féminin pour le train.",
+   "say": {
+    "chaltī": "चलती"
+   }
+  },
+  {
+   "words": [
+    [
+     "matin",
+     "सुबह"
+    ],
+    [
+     "six",
+     "छह"
+    ],
+    [
+     "sonné",
+     "बजे"
+    ]
+   ],
+   "note": "Pour préciser du matin, on le dit avant l'heure. Le matin se dit « subah ».",
+   "say": {
+    "subah": "सुबह"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "मुझे"
+    ],
+    [
+     "une",
+     "एक"
+    ],
+    [
+     "couchette",
+     "बर्थ"
+    ],
+    [
+     "nécessaire",
+     "चाहिए"
+    ]
+   ],
+   "note": "La couchette se dit « barth ». C'est encore un mot venu de l'anglais.",
+   "say": {
+    "barth": "बर्थ"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "मुझे"
+    ],
+    [
+     "fenêtre",
+     "खिड़की"
+    ],
+    [
+     "côté",
+     "वाली"
+    ],
+    [
+     "place",
+     "सीट"
+    ],
+    [
+     "plaisant",
+     "पसंद"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Côté fenêtre se dit fenêtre suivi d'un petit mot. Ce petit mot se dit « vālī ».",
+   "say": {
+    "vālī": "वाली"
+   }
+  },
+  {
+   "words": [
+    [
+     "train",
+     "ट्रेन"
+    ],
+    [
+     "dans",
+     "में"
+    ],
+    [
+     "place",
+     "जगह"
+    ],
+    [
+     "pas",
+     "नहीं"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Il n'y a plus de place se dit il n'y a pas de place. La place se dit « jagah ».",
+   "say": {
+    "jagah": "जगह"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "यह"
+    ],
+    [
+     "mon",
+     "मेरा"
+    ],
+    [
+     "passeport",
+     "पासपोर्ट"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le passeport se dit « pāsporṭ ». Tenez se dit simplement ceci est.",
+   "say": {
+    "pāsporṭ": "पासपोर्ट"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "क्या"
+    ],
+    [
+     "ceci",
+     "यह"
+    ],
+    [
+     "rapide",
+     "तेज़"
+    ],
+    [
+     "train",
+     "ट्रेन"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Un train rapide se dit « tez ṭren ». L'adjectif se place toujours avant le nom.",
+   "say": {
+    "tez ṭren": "तेज़ ट्रेन"
+   }
+  },
+  {
+   "words": [
+    [
+     "voyage",
+     "सफ़र"
+    ],
+    [
+     "cinq",
+     "पाँच"
+    ],
+    [
+     "heures",
+     "घंटे"
+    ],
+    [
+     "de",
+     "का"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Les heures de durée se disent « ghanṭe ». Ce n'est pas le même mot que pour l'heure qu'il est.",
+   "say": {
+    "ghanṭe": "घंटे"
+   }
+  }
+ ],
+ "0-1-5": [
+  {
+   "words": [
+    [
+     "ceci",
+     "यह"
+    ],
+    [
+     "combien",
+     "कितने"
+    ],
+    [
+     "de",
+     "का"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Ça coûte combien se dit combien de est. On dit « kitne kā hai ».",
+   "say": {
+    "kitne kā hai": "कितने का है"
+   }
+  },
+  {
+   "words": [
+    [
+     "cent",
+     "सौ"
+    ],
+    [
+     "roupies",
+     "रुपये"
+    ]
+   ],
+   "note": "Les roupies se disent « rupaye ». On met le nombre devant, comme en français.",
+   "say": {
+    "rupaye": "रुपये"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "यह"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "cher",
+     "महँगा"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Au marché, on dit souvent ceci. Très cher se dit « bahut mahaṃgā ».",
+   "say": {
+    "bahut mahaṃgā": "बहुत महँगा"
+   }
+  },
+  {
+   "words": [
+    [
+     "ce",
+     "यह"
+    ],
+    [
+     "foulard",
+     "दुपट्टा"
+    ],
+    [
+     "combien",
+     "कितने"
+    ],
+    [
+     "de",
+     "का"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le foulard se dit « dupaṭṭā ». C'est la longue écharpe des tenues indiennes.",
+   "say": {
+    "dupaṭṭā": "दुपट्टा"
+   }
+  },
+  {
+   "words": [
+    [
+     "deux",
+     "दो"
+    ],
+    [
+     "cent",
+     "सौ"
+    ],
+    [
+     "roupies",
+     "रुपये"
+    ],
+    [
+     "monsieur",
+     "साहब"
+    ]
+   ],
+   "note": "Monsieur se dit « sāhab ». Le marchand l'emploie pour être poli.",
+   "say": {
+    "sāhab": "साहब"
+   }
+  },
+  {
+   "words": [
+    [
+     "un peu",
+     "थोड़ा"
+    ],
+    [
+     "moins",
+     "कम"
+    ],
+    [
+     "faire",
+     "कीजिए"
+    ]
+   ],
+   "note": "Pour négocier, on dit faites un peu moins. Moins se dit « kam ».",
+   "say": {
+    "kam": "कम"
+   }
+  },
+  {
+   "words": [
+    [
+     "un et demi",
+     "डेढ़"
+    ],
+    [
+     "cent",
+     "सौ"
+    ],
+    [
+     "bien",
+     "ठीक"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Cent cinquante se dit une fois et demie cent. Une fois et demie se dit « ḍeṛh ».",
+   "say": {
+    "ḍeṛh": "डेढ़"
+   }
+  },
+  {
+   "words": [
+    [
+     "ces",
+     "ये"
+    ],
+    [
+     "bracelets",
+     "चूड़ियाँ"
+    ],
+    [
+     "combien",
+     "कितने"
+    ],
+    [
+     "de",
+     "की"
+    ],
+    [
+     "sont",
+     "हैं"
+    ]
+   ],
+   "note": "Les bracelets se disent « chūṛiyāṃ ». Ce sont les fins bracelets que portent les femmes.",
+   "say": {
+    "chūṛiyāṃ": "चूड़ियाँ"
+   }
+  },
+  {
+   "words": [
+    [
+     "les deux",
+     "दोनों"
+    ],
+    [
+     "trois",
+     "तीन"
+    ],
+    [
+     "cent",
+     "सौ"
+    ],
+    [
+     "roupies",
+     "रुपये"
+    ],
+    [
+     "pour",
+     "में"
+    ]
+   ],
+   "note": "Pour un prix, on dit trois cents roupies dans. Ce petit mot se dit « meṃ ».",
+   "say": {
+    "meṃ": "में"
+   }
+  },
+  {
+   "words": [
+    [
+     "bien",
+     "ठीक"
+    ],
+    [
+     "est",
+     "है"
+    ],
+    [
+     "je",
+     "मैं"
+    ],
+    [
+     "prendre",
+     "लेता"
+    ],
+    [
+     "suis",
+     "हूँ"
+    ]
+   ],
+   "note": "D'accord se dit « ṭhīk hai ». C'est la formule pour accepter.",
+   "say": {
+    "ṭhīk hai": "ठीक है"
+   }
+  }
+ ],
+ "0-1-6": [
+  {
+   "words": [
+    [
+     "ceci",
+     "यह"
+    ],
+    [
+     "vent",
+     "हवा"
+    ],
+    [
+     "palais",
+     "महल"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le palais des vents se dit vent palais. Le vent se dit « havā ».",
+   "say": {
+    "havā": "हवा"
+   }
+  },
+  {
+   "words": [
+    [
+     "palais",
+     "महल"
+    ],
+    [
+     "rose",
+     "गुलाबी"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Rose se dit « gulābī ». Le mot vient du nom de la fleur.",
+   "say": {
+    "gulābī": "गुलाबी"
+   }
+  },
+  {
+   "words": [
+    [
+     "dedans",
+     "इसमें"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "nombreux",
+     "सारी"
+    ],
+    [
+     "fenêtres",
+     "खिड़कियाँ"
+    ],
+    [
+     "sont",
+     "हैं"
+    ]
+   ],
+   "note": "Les fenêtres se disent « khiṛkiyāṃ ». C'est le pluriel de fenêtre.",
+   "say": {
+    "khiṛkiyāṃ": "खिड़कियाँ"
+   }
+  },
+  {
+   "words": [
+    [
+     "Jaipur",
+     "जयपुर"
+    ],
+    [
+     "rose",
+     "गुलाबी"
+    ],
+    [
+     "ville",
+     "शहर"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "La ville se dit « shahar ». Jaipur est surnommée la ville rose.",
+   "say": {
+    "shahar": "शहर"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "यहाँ"
+    ],
+    [
+     "vent",
+     "हवा"
+    ],
+    [
+     "frais",
+     "ठंडी"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le vent est féminin en hindi. Frais se dit donc « ṭhanḍī ».",
+   "say": {
+    "ṭhanḍī": "ठंडी"
+   }
+  },
+  {
+   "words": [
+    [
+     "marché",
+     "बाज़ार"
+    ],
+    [
+     "juste",
+     "ठीक"
+    ],
+    [
+     "en face",
+     "सामने"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "En face se dit « sāmne ». Juste se dit avec le même mot que bien.",
+   "say": {
+    "sāmne": "सामने"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "क्या"
+    ],
+    [
+     "en haut",
+     "ऊपर"
+    ],
+    [
+     "aller",
+     "चलें"
+    ]
+   ],
+   "note": "En haut se dit « ūpar ». Pour proposer, le verbe prend une forme spéciale.",
+   "say": {
+    "ūpar": "ऊपर"
+   }
+  },
+  {
+   "words": [
+    [
+     "vue",
+     "नज़ारा"
+    ],
+    [
+     "magnifique",
+     "शानदार"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Magnifique se dit « shāndār ». On l'entend très souvent pour dire génial.",
+   "say": {
+    "shāndār": "शानदार"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "क्या"
+    ],
+    [
+     "palais",
+     "महल"
+    ],
+    [
+     "vieux",
+     "पुराना"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Pour une chose, vieux se dit « purānā ». Pour une personne, on prend un autre mot.",
+   "say": {
+    "purānā": "पुराना"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "हाँ"
+    ],
+    [
+     "ceci",
+     "यह"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "vieux",
+     "पुराना"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Ici, il se dit ceci, car on parle d'une chose. On dit « yah ».",
+   "say": {
+    "yah": "यह"
+   }
+  }
+ ],
+ "0-1-7": [
+  {
+   "words": [
+    [
+     "à moi",
+     "मुझे"
+    ],
+    [
+     "Jaipur",
+     "जयपुर"
+    ],
+    [
+     "de",
+     "से"
+    ],
+    [
+     "Jodhpur",
+     "जोधपुर"
+    ],
+    [
+     "aller",
+     "जाना"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Après la ville de départ, on dit « se ». Puis vient la ville d'arrivée.",
+   "say": {
+    "se": "से"
+   }
+  },
+  {
+   "words": [
+    [
+     "bus",
+     "बस"
+    ],
+    [
+     "gare",
+     "स्टेशन"
+    ],
+    [
+     "de",
+     "से"
+    ],
+    [
+     "fort",
+     "किले"
+    ],
+    [
+     "jusqu'à",
+     "तक"
+    ],
+    [
+     "aller",
+     "जाती"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Jusqu'à se dit « tak ». Il se place après le nom, comme de.",
+   "say": {
+    "tak": "तक"
+   }
+  },
+  {
+   "words": [
+    [
+     "Jaipur",
+     "जयपुर"
+    ],
+    [
+     "de",
+     "से"
+    ],
+    [
+     "Jodhpur",
+     "जोधपुर"
+    ],
+    [
+     "jusqu'à",
+     "तक"
+    ],
+    [
+     "six",
+     "छह"
+    ],
+    [
+     "heures",
+     "घंटे"
+    ],
+    [
+     "prendre",
+     "लगते"
+    ],
+    [
+     "sont",
+     "हैं"
+    ]
+   ],
+   "note": "Il faut se dit ici « lagte haiṃ ». Il est au pluriel, car il y a six heures.",
+   "say": {
+    "lagte haiṃ": "लगते हैं"
+   }
+  },
+  {
+   "words": [
+    [
+     "boutique",
+     "दुकान"
+    ],
+    [
+     "neuf",
+     "नौ"
+    ],
+    [
+     "de",
+     "से"
+    ],
+    [
+     "six",
+     "छह"
+    ],
+    [
+     "heures",
+     "बजे"
+    ],
+    [
+     "jusqu'à",
+     "तक"
+    ],
+    [
+     "ouvert",
+     "खुली"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "De neuf à six heures se dit neuf de six heures jusqu'à. Ouverte se dit « khulī ».",
+   "say": {
+    "khulī": "खुली"
+   }
+  },
+  {
+   "words": [
+    [
+     "lundi",
+     "सोमवार"
+    ],
+    [
+     "de",
+     "से"
+    ],
+    [
+     "vendredi",
+     "शुक्रवार"
+    ],
+    [
+     "jusqu'à",
+     "तक"
+    ]
+   ],
+   "note": "On reprend la même structure avec les jours. Du lundi se dit « somvār se ».",
+   "say": {
+    "somvār se": "सोमवार से"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "क्या"
+    ],
+    [
+     "train",
+     "ट्रेन"
+    ],
+    [
+     "dans",
+     "में"
+    ],
+    [
+     "thé",
+     "चाय"
+    ],
+    [
+     "trouver",
+     "मिलती"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Trouver se dit ici « miltī hai ». Littéralement, le thé se trouve.",
+   "say": {
+    "miltī hai": "मिलती है"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "यहाँ"
+    ],
+    [
+     "de",
+     "से"
+    ],
+    [
+     "désert",
+     "रेगिस्तान"
+    ],
+    [
+     "début",
+     "शुरू"
+    ],
+    [
+     "être",
+     "होता"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le désert se dit « registān ». C'est le désert du Thar, au Rajasthan.",
+   "say": {
+    "registān": "रेगिस्तान"
+   }
+  },
+  {
+   "words": [
+    [
+     "fenêtre",
+     "खिड़की"
+    ],
+    [
+     "par",
+     "से"
+    ],
+    [
+     "chameaux",
+     "ऊँट"
+    ],
+    [
+     "se voir",
+     "दिखते"
+    ],
+    [
+     "sont",
+     "हैं"
+    ]
+   ],
+   "note": "Les chameaux se disent « ūṃṭ ». Le mot ne change pas au pluriel.",
+   "say": {
+    "ūṃṭ": "ऊँट"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "आप"
+    ],
+    [
+     "Jodhpur",
+     "जोधपुर"
+    ],
+    [
+     "dans",
+     "में"
+    ],
+    [
+     "quand",
+     "कब"
+    ],
+    [
+     "jusqu'à",
+     "तक"
+    ],
+    [
+     "êtes",
+     "हैं"
+    ]
+   ],
+   "note": "Jusqu'à quand se dit quand jusqu'à. On dit « kab tak ».",
+   "say": {
+    "kab tak": "कब तक"
+   }
+  },
+  {
+   "words": [
+    [
+     "dimanche",
+     "रविवार"
+    ],
+    [
+     "soir",
+     "शाम"
+    ],
+    [
+     "jusqu'à",
+     "तक"
+    ]
+   ],
+   "note": "Pour répondre, on reprend le petit mot à la fin. On dit « shām tak ».",
+   "say": {
+    "shām tak": "शाम तक"
+   }
+  }
+ ],
+ "0-1-8": [
+  {
+   "words": [
+    [
+     "Jodhpur",
+     "जोधपुर"
+    ],
+    [
+     "bleu",
+     "नीला"
+    ],
+    [
+     "ville",
+     "शहर"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "La ville est un mot masculin. Bleue se dit donc « nīlā ».",
+   "say": {
+    "nīlā": "नीला"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "यहाँ"
+    ],
+    [
+     "maisons",
+     "घर"
+    ],
+    [
+     "bleu",
+     "नीले"
+    ],
+    [
+     "sont",
+     "हैं"
+    ]
+   ],
+   "note": "Au pluriel, bleu change sa fin. On dit « nīle ».",
+   "say": {
+    "nīle": "नीले"
+   }
+  },
+  {
+   "words": [
+    [
+     "fort",
+     "किला"
+    ],
+    [
+     "colline",
+     "पहाड़ी"
+    ],
+    [
+     "sur",
+     "पर"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le fort se dit « kilā ». C'est le grand fort de Mehrangarh.",
+   "say": {
+    "kilā": "किला"
+   }
+  },
+  {
+   "words": [
+    [
+     "ruelles",
+     "गलियाँ"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "étroit",
+     "तंग"
+    ],
+    [
+     "sont",
+     "हैं"
+    ]
+   ],
+   "note": "Étroit se dit « tang ». Ce mot ne change pas au pluriel.",
+   "say": {
+    "tang": "तंग"
+   }
+  },
+  {
+   "words": [
+    [
+     "temps",
+     "मौसम"
+    ],
+    [
+     "chaud",
+     "गरम"
+    ],
+    [
+     "et",
+     "और"
+    ],
+    [
+     "sec",
+     "सूखा"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Sec se dit « sūkhā ». Le temps est masculin, alors sec l'est aussi.",
+   "say": {
+    "sūkhā": "सूखा"
+   }
+  },
+  {
+   "words": [
+    [
+     "restaurant",
+     "रेस्टोरेंट"
+    ],
+    [
+     "toit",
+     "छत"
+    ],
+    [
+     "sur",
+     "पर"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le toit se dit « chhat ». En Inde, on aime manger sur les toits.",
+   "say": {
+    "chhat": "छत"
+   }
+  },
+  {
+   "words": [
+    [
+     "un",
+     "एक"
+    ],
+    [
+     "chaud",
+     "गरम"
+    ],
+    [
+     "thé",
+     "चाय"
+    ],
+    [
+     "donner",
+     "दीजिए"
+    ]
+   ],
+   "note": "Pour commander, on dit donnez à la fin. Donnez se dit « dījie ».",
+   "say": {
+    "dījie": "दीजिए"
+   }
+  },
+  {
+   "words": [
+    [
+     "haut",
+     "ऊपर"
+    ],
+    [
+     "de",
+     "से"
+    ],
+    [
+     "ville",
+     "शहर"
+    ],
+    [
+     "beau",
+     "सुंदर"
+    ],
+    [
+     "paraître",
+     "दिखता"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "La ville paraît belle se dit avec le verbe se voir. Il se dit ici « dikhtā ».",
+   "say": {
+    "dikhtā": "दिखता"
+   }
+  },
+  {
+   "words": [
+    [
+     "maisons",
+     "घर"
+    ],
+    [
+     "bleu",
+     "नीले"
+    ],
+    [
+     "pourquoi",
+     "क्यों"
+    ],
+    [
+     "sont",
+     "हैं"
+    ]
+   ],
+   "note": "Pourquoi se dit « kyoṃ ». Il se place juste avant le verbe.",
+   "say": {
+    "kyoṃ": "क्यों"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "मुझे"
+    ],
+    [
+     "du tout",
+     "बिलकुल"
+    ],
+    [
+     "pas",
+     "नहीं"
+    ],
+    [
+     "connu",
+     "पता"
+    ]
+   ],
+   "note": "Du tout se dit « bilkul ». Il renforce la négation.",
+   "say": {
+    "bilkul": "बिलकुल"
+   }
+  }
+ ],
+ "0-1-9": [
+  {
+   "words": [
+    [
+     "hier",
+     "कल"
+    ],
+    [
+     "je",
+     "मैं"
+    ],
+    [
+     "fort",
+     "किले"
+    ],
+    [
+     "aller",
+     "गया"
+    ]
+   ],
+   "note": "Pour un homme, allé se dit « gayā ». Pas besoin d'ajouter le verbe être.",
+   "say": {
+    "gayā": "गया"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma",
+     "मेरी"
+    ],
+    [
+     "femme",
+     "पत्नी"
+    ],
+    [
+     "marché",
+     "बाज़ार"
+    ],
+    [
+     "aller",
+     "गयी"
+    ]
+   ],
+   "note": "Pour une femme, allée se dit « gayī ». Le verbe s'accorde avec celle qui part.",
+   "say": {
+    "gayī": "गयी"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "हम"
+    ],
+    [
+     "lac",
+     "झील"
+    ],
+    [
+     "à",
+     "पर"
+    ],
+    [
+     "aller",
+     "गये"
+    ]
+   ],
+   "note": "Au pluriel, allés se dit « gaye ». Avec nous, on prend toujours cette forme.",
+   "say": {
+    "gaye": "गये"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "आप"
+    ],
+    [
+     "hier",
+     "कल"
+    ],
+    [
+     "où",
+     "कहाँ"
+    ],
+    [
+     "aller",
+     "गये"
+    ]
+   ],
+   "note": "Avec vous, on prend la forme du pluriel, par politesse. On dit « kahāṃ gaye ».",
+   "say": {
+    "kahāṃ gaye": "कहाँ गये"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "मैं"
+    ],
+    [
+     "palais",
+     "महल"
+    ],
+    [
+     "aller",
+     "गयी"
+    ]
+   ],
+   "note": "Une femme dit « maiṃ gayī ». Le je ne change pas, seul le verbe change.",
+   "say": {
+    "maiṃ gayī": "मैं गयी"
+   }
+  },
+  {
+   "words": [
+    [
+     "train",
+     "ट्रेन"
+    ],
+    [
+     "heure",
+     "समय"
+    ],
+    [
+     "à",
+     "पर"
+    ],
+    [
+     "partir",
+     "चली"
+    ]
+   ],
+   "note": "À l'heure se dit sur le temps. On dit « samay par ».",
+   "say": {
+    "samay par": "समय पर"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "मेरा"
+    ],
+    [
+     "ami",
+     "दोस्त"
+    ],
+    [
+     "moi",
+     "मेरे"
+    ],
+    [
+     "avec",
+     "साथ"
+    ],
+    [
+     "venir",
+     "आया"
+    ]
+   ],
+   "note": "Venu se dit « āyā ». C'est le passé du verbe venir, pour un homme.",
+   "say": {
+    "āyā": "आया"
+   }
+  },
+  {
+   "words": [
+    [
+     "il",
+     "वह"
+    ],
+    [
+     "retard",
+     "देर"
+    ],
+    [
+     "avec",
+     "से"
+    ],
+    [
+     "hôtel",
+     "होटल"
+    ],
+    [
+     "arriver",
+     "पहुँचा"
+    ]
+   ],
+   "note": "Arrivé se dit « pahuṃchā ». Tard se dit avec retard.",
+   "say": {
+    "pahuṃchā": "पहुँचा"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "वह"
+    ],
+    [
+     "aujourd'hui",
+     "आज"
+    ],
+    [
+     "matin",
+     "सुबह"
+    ],
+    [
+     "tôt",
+     "जल्दी"
+    ],
+    [
+     "aller",
+     "गयी"
+    ]
+   ],
+   "note": "Ce matin se dit aujourd'hui matin. On dit « āj subah ».",
+   "say": {
+    "āj subah": "आज सुबह"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "हम"
+    ],
+    [
+     "soir",
+     "शाम"
+    ],
+    [
+     "à",
+     "को"
+    ],
+    [
+     "retour",
+     "वापस"
+    ],
+    [
+     "venir",
+     "आये"
+    ]
+   ],
+   "note": "Rentrer se dit venir en retour. Retour se dit « vāpas ».",
+   "say": {
+    "vāpas": "वापस"
+   }
+  }
+ ],
+ "0-1-10": [
+  {
+   "words": [
+    [
+     "ceci",
+     "यह"
+    ],
+    [
+     "mon",
+     "मेरा"
+    ],
+    [
+     "gros",
+     "बड़ा"
+    ],
+    [
+     "valise",
+     "सूटकेस"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "La valise se dit « sūṭkes ». C'est un mot masculin en hindi.",
+   "say": {
+    "sūṭkes": "सूटकेस"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "यह"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "lourd",
+     "भारी"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Pour une chose, elle se dit simplement ceci. Ceci se dit « yah ».",
+   "say": {
+    "yah": "यह"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "मेरे"
+    ],
+    [
+     "près",
+     "पास"
+    ],
+    [
+     "deux",
+     "दो"
+    ],
+    [
+     "sacs",
+     "बैग"
+    ],
+    [
+     "sont",
+     "हैं"
+    ]
+   ],
+   "note": "Le sac se dit aussi « baig ». C'est le mot anglais, très courant.",
+   "say": {
+    "baig": "बैग"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "मेरा"
+    ],
+    [
+     "noir",
+     "काला"
+    ],
+    [
+     "sac",
+     "बैग"
+    ],
+    [
+     "où",
+     "कहाँ"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Noir se dit « kālā ». Il se place avant le sac.",
+   "say": {
+    "kālā": "काला"
+   }
+  },
+  {
+   "words": [
+    [
+     "il",
+     "वह"
+    ],
+    [
+     "siège",
+     "सीट"
+    ],
+    [
+     "de",
+     "के"
+    ],
+    [
+     "dessous",
+     "नीचे"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Sous se dit « ke nīche ». Il se place après le nom.",
+   "say": {
+    "ke nīche": "के नीचे"
+   }
+  },
+  {
+   "words": [
+    [
+     "porteur",
+     "कुली"
+    ],
+    [
+     "bagages",
+     "सामान"
+    ],
+    [
+     "soulever",
+     "उठाता"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le porteur se dit « kulī ». Il porte souvent les bagages sur la tête.",
+   "say": {
+    "kulī": "कुली"
+   }
+  },
+  {
+   "words": [
+    [
+     "bagages",
+     "सामान"
+    ],
+    [
+     "de",
+     "के"
+    ],
+    [
+     "combien",
+     "कितने"
+    ],
+    [
+     "argent",
+     "पैसे"
+    ]
+   ],
+   "note": "Les bagages se disent « sāmān ». Ce mot reste au singulier en hindi.",
+   "say": {
+    "sāmān": "सामान"
+   }
+  },
+  {
+   "words": [
+    [
+     "attention",
+     "ध्यान"
+    ],
+    [
+     "avec",
+     "से"
+    ],
+    [
+     "ceci",
+     "यह"
+    ],
+    [
+     "fragile",
+     "नाज़ुक"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Doucement se dit avec attention. On dit « dhyān se ».",
+   "say": {
+    "dhyān se": "ध्यान से"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "मेरा"
+    ],
+    [
+     "sac",
+     "बैग"
+    ],
+    [
+     "ouvert",
+     "खुला"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Ouvert se dit « khulā ». C'est le contraire de fermé.",
+   "say": {
+    "khulā": "खुला"
+   }
+  },
+  {
+   "words": [
+    [
+     "tout",
+     "सब"
+    ],
+    [
+     "bagages",
+     "सामान"
+    ],
+    [
+     "ici",
+     "यहाँ"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Tous se dit « sab ». Le verbe reste au singulier avec bagages.",
+   "say": {
+    "sab": "सब"
+   }
+  }
+ ],
+ "0-1-11": [
+  {
+   "words": [
+    [
+     "gare",
+     "स्टेशन"
+    ],
+    [
+     "comment",
+     "कैसे"
+    ],
+    [
+     "aller",
+     "जाएँ"
+    ]
+   ],
+   "note": "Comment se dit « kaise ». Il se place juste avant le verbe.",
+   "say": {
+    "kaise": "कैसे"
+   }
+  },
+  {
+   "words": [
+    [
+     "tout droit",
+     "सीधे"
+    ],
+    [
+     "aller",
+     "जाइए"
+    ]
+   ],
+   "note": "Tout droit se dit « sīdhe ». Allez se dit ensuite de façon polie.",
+   "say": {
+    "sīdhe": "सीधे"
+   }
+  },
+  {
+   "words": [
+    [
+     "ensuite",
+     "फिर"
+    ],
+    [
+     "gauche",
+     "बाएँ"
+    ],
+    [
+     "tourner",
+     "मुड़िए"
+    ]
+   ],
+   "note": "À gauche se dit « bāeṃ ». Tournez se dit ensuite poliment.",
+   "say": {
+    "bāeṃ": "बाएँ"
+   }
+  },
+  {
+   "words": [
+    [
+     "hôtel",
+     "होटल"
+    ],
+    [
+     "comment",
+     "कैसा"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Pour décrire une chose, comment change de forme. Pour l'hôtel, on dit « kaisā ».",
+   "say": {
+    "kaisā": "कैसा"
+   }
+  },
+  {
+   "words": [
+    [
+     "propre",
+     "साफ़"
+    ],
+    [
+     "et",
+     "और"
+    ],
+    [
+     "calme",
+     "शांत"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Pas besoin de répéter l'hôtel. Propre et calme se dit « sāf aur shānt ».",
+   "say": {
+    "sāf aur shānt": "साफ़ और शांत"
+   }
+  },
+  {
+   "words": [
+    [
+     "fort",
+     "किले"
+    ],
+    [
+     "jusqu'à",
+     "तक"
+    ],
+    [
+     "comment",
+     "कैसे"
+    ],
+    [
+     "arriver",
+     "पहुँचें"
+    ]
+   ],
+   "note": "Pour demander comment arriver, on dit comment arrivions. Arriver se dit ici « pahuṃcheṃ ».",
+   "say": {
+    "pahuṃcheṃ": "पहुँचें"
+   }
+  },
+  {
+   "words": [
+    [
+     "pont",
+     "पुल"
+    ],
+    [
+     "de",
+     "के"
+    ],
+    [
+     "après",
+     "बाद"
+    ],
+    [
+     "droite",
+     "दाएँ"
+    ]
+   ],
+   "note": "Après se dit « ke bād ». Il se place après le nom, ici le pont.",
+   "say": {
+    "ke bād": "के बाद"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "यहाँ"
+    ],
+    [
+     "thé",
+     "चाय"
+    ],
+    [
+     "comment",
+     "कैसी"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le thé est féminin. Comment se dit donc « kaisī ».",
+   "say": {
+    "kaisī": "कैसी"
+   }
+  },
+  {
+   "words": [
+    [
+     "marché",
+     "बाज़ार"
+    ],
+    [
+     "comment",
+     "कैसे"
+    ],
+    [
+     "aller",
+     "जाते"
+    ],
+    [
+     "sont",
+     "हैं"
+    ]
+   ],
+   "note": "Pour une question générale, on dit comment va-t-on. On dit « kaise jāte haiṃ ».",
+   "say": {
+    "kaise jāte haiṃ": "कैसे जाते हैं"
+   }
+  },
+  {
+   "words": [
+    [
+     "pardon",
+     "माफ़"
+    ],
+    [
+     "faire",
+     "कीजिए"
+    ],
+    [
+     "je",
+     "मैं"
+    ],
+    [
+     "chemin",
+     "रास्ता"
+    ],
+    [
+     "oublier",
+     "भूल"
+    ],
+    [
+     "aller",
+     "गया"
+    ]
+   ],
+   "note": "Je me suis perdu se dit j'ai oublié le chemin. Oublier se dit « bhūl ».",
+   "say": {
+    "bhūl": "भूल"
+   }
+  }
+ ],
+ "0-1-12": [
+  {
+   "words": [
+    [
+     "à moi",
+     "मुझे"
+    ],
+    [
+     "médicament",
+     "दवा"
+    ],
+    [
+     "de",
+     "की"
+    ],
+    [
+     "boutique",
+     "दुकान"
+    ],
+    [
+     "nécessaire",
+     "चाहिए"
+    ]
+   ],
+   "note": "Une pharmacie se dit boutique de médicaments. Le médicament se dit « davā ».",
+   "say": {
+    "davā": "दवा"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "मेरे"
+    ],
+    [
+     "tête",
+     "सिर"
+    ],
+    [
+     "dans",
+     "में"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "douleur",
+     "दर्द"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Pour avoir mal, on dit il y a de la douleur dans. La douleur se dit « dard ».",
+   "say": {
+    "dard": "दर्द"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "मुझे"
+    ],
+    [
+     "un peu",
+     "थोड़ा"
+    ],
+    [
+     "fièvre",
+     "बुखार"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Pour une maladie, on dit à moi est. La fièvre se dit « bukhār ».",
+   "say": {
+    "bukhār": "बुखार"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "मेरा"
+    ],
+    [
+     "ventre",
+     "पेट"
+    ],
+    [
+     "mauvais",
+     "खराब"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le ventre se dit « peṭ ». L'estomac dérangé se dit un ventre mauvais.",
+   "say": {
+    "peṭ": "पेट"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "क्या"
+    ],
+    [
+     "fièvre",
+     "बुखार"
+    ],
+    [
+     "de",
+     "की"
+    ],
+    [
+     "médicament",
+     "दवा"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Contre la fièvre se dit de fièvre. On dit « bukhār kī davā ».",
+   "say": {
+    "bukhār kī davā": "बुखार की दवा"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "इसे"
+    ],
+    [
+     "jour",
+     "दिन"
+    ],
+    [
+     "dans",
+     "में"
+    ],
+    [
+     "deux",
+     "दो"
+    ],
+    [
+     "fois",
+     "बार"
+    ],
+    [
+     "prendre",
+     "लीजिए"
+    ]
+   ],
+   "note": "Deux fois par jour se dit jour dans deux fois. La fois se dit « bār ».",
+   "say": {
+    "bār": "बार"
+   }
+  },
+  {
+   "words": [
+    [
+     "toujours",
+     "हमेशा"
+    ],
+    [
+     "repas",
+     "खाने"
+    ],
+    [
+     "de",
+     "के"
+    ],
+    [
+     "après",
+     "बाद"
+    ]
+   ],
+   "note": "Toujours se dit « hameshā ». Après le repas se dit repas de après.",
+   "say": {
+    "hameshā": "हमेशा"
+   }
+  },
+  {
+   "words": [
+    [
+     "beaucoup",
+     "खूब"
+    ],
+    [
+     "eau",
+     "पानी"
+    ],
+    [
+     "boire",
+     "पीजिए"
+    ]
+   ],
+   "note": "Buvez se dit « pījie ». C'est la forme polie pour donner un conseil.",
+   "say": {
+    "pījie": "पीजिए"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "यह"
+    ],
+    [
+     "grave",
+     "गंभीर"
+    ],
+    [
+     "pas",
+     "नहीं"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Grave se dit « gambhīr ». Ce mot ne change pas au féminin.",
+   "say": {
+    "gambhīr": "गंभीर"
+   }
+  },
+  {
+   "words": [
+    [
+     "maintenant",
+     "अब"
+    ],
+    [
+     "je",
+     "मैं"
+    ],
+    [
+     "mieux",
+     "बेहतर"
+    ],
+    [
+     "suis",
+     "हूँ"
+    ]
+   ],
+   "note": "Mieux se dit « behtar ». On l'utilise aussi pour dire meilleur.",
+   "say": {
+    "behtar": "बेहतर"
+   }
+  }
+ ],
+ "0-1-13": [
+  {
+   "words": [
+    [
+     "train",
+     "ट्रेन"
+    ],
+    [
+     "deux",
+     "दो"
+    ],
+    [
+     "heures",
+     "घंटे"
+    ],
+    [
+     "en retard",
+     "लेट"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "En retard se dit « leṭ ». C'est le mot anglais, très courant en Inde.",
+   "say": {
+    "leṭ": "लेट"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "क्या"
+    ],
+    [
+     "je",
+     "मैं"
+    ],
+    [
+     "ici",
+     "यहाँ"
+    ],
+    [
+     "attente",
+     "इंतज़ार"
+    ],
+    [
+     "faire",
+     "कर"
+    ],
+    [
+     "pouvoir",
+     "सकता"
+    ],
+    [
+     "suis",
+     "हूँ"
+    ]
+   ],
+   "note": "Pouvoir se dit avec un verbe ajouté après l'autre. Je peux se dit « saktā hūṃ ».",
+   "say": {
+    "saktā hūṃ": "सकता हूँ"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "हाँ"
+    ],
+    [
+     "vous",
+     "आप"
+    ],
+    [
+     "là-bas",
+     "वहाँ"
+    ],
+    [
+     "s'asseoir",
+     "बैठ"
+    ],
+    [
+     "pouvoir",
+     "सकते"
+    ],
+    [
+     "êtes",
+     "हैं"
+    ]
+   ],
+   "note": "S'asseoir se dit « baiṭh ». Ensuite on ajoute pouvoir, sans rien changer.",
+   "say": {
+    "baiṭh": "बैठ"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "क्या"
+    ],
+    [
+     "vous",
+     "आप"
+    ],
+    [
+     "mon",
+     "मेरी"
+    ],
+    [
+     "aide",
+     "मदद"
+    ],
+    [
+     "faire",
+     "कर"
+    ],
+    [
+     "pouvoir",
+     "सकते"
+    ],
+    [
+     "êtes",
+     "हैं"
+    ]
+   ],
+   "note": "Aider se dit faire mon aide. L'aide se dit « madad ».",
+   "say": {
+    "madad": "मदद"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "क्या"
+    ],
+    [
+     "je",
+     "मैं"
+    ],
+    [
+     "billet",
+     "टिकट"
+    ],
+    [
+     "changer",
+     "बदल"
+    ],
+    [
+     "pouvoir",
+     "सकता"
+    ],
+    [
+     "suis",
+     "हूँ"
+    ]
+   ],
+   "note": "Changer se dit « badal ». Le verbe reste court devant pouvoir.",
+   "say": {
+    "badal": "बदल"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "नहीं"
+    ],
+    [
+     "ceci",
+     "यह"
+    ],
+    [
+     "pas",
+     "नहीं"
+    ],
+    [
+     "être",
+     "हो"
+    ],
+    [
+     "pouvoir",
+     "सकता"
+    ]
+   ],
+   "note": "Ce n'est pas possible se dit ça ne peut pas être. On dit « nahīṃ ho saktā ».",
+   "say": {
+    "nahīṃ ho saktā": "नहीं हो सकता"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "मैं"
+    ],
+    [
+     "prochain",
+     "अगली"
+    ],
+    [
+     "train",
+     "ट्रेन"
+    ],
+    [
+     "prendre",
+     "ले"
+    ],
+    [
+     "pouvoir",
+     "सकता"
+    ],
+    [
+     "suis",
+     "हूँ"
+    ]
+   ],
+   "note": "Le train est féminin. Prochain se dit donc « aglī ».",
+   "say": {
+    "aglī": "अगली"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma",
+     "मेरी"
+    ],
+    [
+     "sœur",
+     "बहन"
+    ],
+    [
+     "pas",
+     "नहीं"
+    ],
+    [
+     "venir",
+     "आ"
+    ],
+    [
+     "pouvoir",
+     "सकती"
+    ]
+   ],
+   "note": "Pour une femme, pouvoir se dit « saktī ». Le verbe être disparaît à la négation.",
+   "say": {
+    "saktī": "सकती"
+   }
+  },
+  {
+   "words": [
+    [
+     "alors",
+     "तब"
+    ],
+    [
+     "jusqu'à",
+     "तक"
+    ],
+    [
+     "nous",
+     "हम"
+    ],
+    [
+     "thé",
+     "चाय"
+    ],
+    [
+     "boire",
+     "पी"
+    ],
+    [
+     "pouvoir",
+     "सकते"
+    ],
+    [
+     "sommes",
+     "हैं"
+    ]
+   ],
+   "note": "En attendant se dit jusqu'à ce moment. On dit « tab tak ».",
+   "say": {
+    "tab tak": "तब तक"
+   }
+  },
+  {
+   "words": [
+    [
+     "quel",
+     "क्या"
+    ],
+    [
+     "malheur",
+     "मुसीबत"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Quelle galère se dit quel malheur. Le malheur se dit « musībat ».",
+   "say": {
+    "musībat": "मुसीबत"
+   }
+  }
+ ],
+ "0-1-14": [
+  {
+   "words": [
+    [
+     "Udaipur",
+     "उदयपुर"
+    ],
+    [
+     "dans",
+     "में"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "nombreux",
+     "सारी"
+    ],
+    [
+     "lacs",
+     "झीलें"
+    ],
+    [
+     "sont",
+     "हैं"
+    ]
+   ],
+   "note": "Les lacs se disent « jhīleṃ ». C'est le pluriel d'un mot féminin.",
+   "say": {
+    "jhīleṃ": "झीलें"
+   }
+  },
+  {
+   "words": [
+    [
+     "eau",
+     "पानी"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "calme",
+     "शांत"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "L'eau se dit « pānī ». Calme se dit avec le même mot que pour un quartier.",
+   "say": {
+    "pānī": "पानी"
+   }
+  },
+  {
+   "words": [
+    [
+     "palais",
+     "महल"
+    ],
+    [
+     "lac",
+     "झील"
+    ],
+    [
+     "de",
+     "के"
+    ],
+    [
+     "milieu",
+     "बीच"
+    ],
+    [
+     "dans",
+     "में"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Au milieu de se dit « ke bīch meṃ ». C'est le palais posé sur le lac.",
+   "say": {
+    "ke bīch meṃ": "के बीच में"
+   }
+  },
+  {
+   "words": [
+    [
+     "allons",
+     "चलो"
+    ],
+    [
+     "bateau",
+     "नाव"
+    ],
+    [
+     "prendre",
+     "लेते"
+    ],
+    [
+     "sommes",
+     "हैं"
+    ]
+   ],
+   "note": "Le bateau se dit « nāv ». Prendre un bateau se dit comme en français.",
+   "say": {
+    "nāv": "नाव"
+   }
+  },
+  {
+   "words": [
+    [
+     "soir",
+     "शाम"
+    ],
+    [
+     "à",
+     "को"
+    ],
+    [
+     "lumière",
+     "रोशनी"
+    ],
+    [
+     "beau",
+     "सुंदर"
+    ],
+    [
+     "être",
+     "होती"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "La lumière se dit « roshnī ». Le verbe habituel montre que c'est beau chaque soir.",
+   "say": {
+    "roshnī": "रोशनी"
+   }
+  },
+  {
+   "words": [
+    [
+     "cet",
+     "इस"
+    ],
+    [
+     "hôtel",
+     "होटल"
+    ],
+    [
+     "de",
+     "से"
+    ],
+    [
+     "lac",
+     "झील"
+    ],
+    [
+     "se voir",
+     "दिखती"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "On voit le lac se dit le lac se voit. On dit « jhīl dikhtī hai ».",
+   "say": {
+    "jhīl dikhtī hai": "झील दिखती है"
+   }
+  },
+  {
+   "words": [
+    [
+     "ici",
+     "यहाँ"
+    ],
+    [
+     "un peu",
+     "थोड़ी"
+    ],
+    [
+     "fraîcheur",
+     "ठंडक"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "La fraîcheur se dit « ṭhanḍak ». Il fait frais se dit il y a de la fraîcheur.",
+   "say": {
+    "ṭhanḍak": "ठंडक"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "यह"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "romantique",
+     "रोमांटिक"
+    ],
+    [
+     "ville",
+     "शहर"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Romantique se dit « romānṭik ». C'est encore un mot venu de l'anglais.",
+   "say": {
+    "romānṭik": "रोमांटिक"
+   }
+  },
+  {
+   "words": [
+    [
+     "eau",
+     "पानी"
+    ],
+    [
+     "sur",
+     "पर"
+    ],
+    [
+     "oiseaux",
+     "चिड़ियाँ"
+    ],
+    [
+     "sont",
+     "हैं"
+    ]
+   ],
+   "note": "Les oiseaux se disent « chiṛiyāṃ ». On commence la phrase par le lieu.",
+   "say": {
+    "chiṛiyāṃ": "चिड़ियाँ"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "मुझे"
+    ],
+    [
+     "cet",
+     "यह"
+    ],
+    [
+     "endroit",
+     "जगह"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "plaisant",
+     "पसंद"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "J'adore se dit me plaît beaucoup. On dit « bahut pasand hai ».",
+   "say": {
+    "bahut pasand hai": "बहुत पसंद है"
+   }
+  }
+ ],
+ "0-1-15": [
+  {
+   "words": [
+    [
+     "je",
+     "मैं"
+    ],
+    [
+     "taxi",
+     "टैक्सी"
+    ],
+    [
+     "en",
+     "से"
+    ],
+    [
+     "aller",
+     "जाता"
+    ],
+    [
+     "suis",
+     "हूँ"
+    ]
+   ],
+   "note": "En taxi se dit taxi avec un petit mot après. Ce petit mot se dit « se ».",
+   "say": {
+    "se": "से"
+   }
+  },
+  {
+   "words": [
+    [
+     "rickshaw",
+     "रिक्शा"
+    ],
+    [
+     "en",
+     "से"
+    ],
+    [
+     "palais",
+     "महल"
+    ],
+    [
+     "aller",
+     "चलें"
+    ]
+   ],
+   "note": "Pour proposer d'aller quelque part, on dit « chaleṃ ». C'est comme dire on y va.",
+   "say": {
+    "chaleṃ": "चलें"
+   }
+  },
+  {
+   "words": [
+    [
+     "bus",
+     "बस"
+    ],
+    [
+     "ici même",
+     "यहीं"
+    ],
+    [
+     "de",
+     "से"
+    ],
+    [
+     "partir",
+     "चलती"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le bus est féminin en hindi. Il part se dit donc « chaltī hai ».",
+   "say": {
+    "chaltī hai": "चलती है"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "मैं"
+    ],
+    [
+     "une",
+     "एक"
+    ],
+    [
+     "semaine",
+     "हफ़्ते"
+    ],
+    [
+     "depuis",
+     "से"
+    ],
+    [
+     "Inde",
+     "भारत"
+    ],
+    [
+     "dans",
+     "में"
+    ],
+    [
+     "suis",
+     "हूँ"
+    ]
+   ],
+   "note": "Le même petit mot sert aussi pour le temps. Depuis une semaine se dit « ek hafte se ».",
+   "say": {
+    "ek hafte se": "एक हफ़्ते से"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "मैं"
+    ],
+    [
+     "une",
+     "एक"
+    ],
+    [
+     "heure",
+     "घंटे"
+    ],
+    [
+     "depuis",
+     "से"
+    ],
+    [
+     "attente",
+     "इंतज़ार"
+    ],
+    [
+     "faire",
+     "कर"
+    ],
+    [
+     "en train de",
+     "रहा"
+    ],
+    [
+     "suis",
+     "हूँ"
+    ]
+   ],
+   "note": "J'attends se dit je fais l'attente. L'attente se dit « intazār ».",
+   "say": {
+    "intazār": "इंतज़ार"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "हम"
+    ],
+    [
+     "Paris",
+     "पेरिस"
+    ],
+    [
+     "de",
+     "से"
+    ],
+    [
+     "sommes",
+     "हैं"
+    ]
+   ],
+   "note": "Nous venons de Paris se dit nous sommes de Paris. On dit « Peris se ».",
+   "say": {
+    "Peris se": "पेरिस से"
+   }
+  },
+  {
+   "words": [
+    [
+     "bus",
+     "बस"
+    ],
+    [
+     "en",
+     "से"
+    ],
+    [
+     "bon marché",
+     "सस्ता"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Bon marché se dit « sastā ». C'est le contraire de cher.",
+   "say": {
+    "sastā": "सस्ता"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "हम"
+    ],
+    [
+     "bus",
+     "बस"
+    ],
+    [
+     "en",
+     "से"
+    ],
+    [
+     "Udaipur",
+     "उदयपुर"
+    ],
+    [
+     "aller",
+     "जा"
+    ],
+    [
+     "en train de",
+     "रहे"
+    ],
+    [
+     "sommes",
+     "हैं"
+    ]
+   ],
+   "note": "Nous allons se dit ici « jā rahe haiṃ ». C'est le présent de ce qui se passe maintenant.",
+   "say": {
+    "jā rahe haiṃ": "जा रहे हैं"
+   }
+  },
+  {
+   "words": [
+    [
+     "matin",
+     "सुबह"
+    ],
+    [
+     "depuis",
+     "से"
+    ],
+    [
+     "pluie",
+     "बारिश"
+    ],
+    [
+     "être",
+     "हो"
+    ],
+    [
+     "en train de",
+     "रही"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Il pleut se dit la pluie est en train d'être. La pluie se dit « bārish ».",
+   "say": {
+    "bārish": "बारिश"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "मुझे"
+    ],
+    [
+     "train",
+     "ट्रेन"
+    ],
+    [
+     "en",
+     "से"
+    ],
+    [
+     "voyage",
+     "सफ़र"
+    ],
+    [
+     "faire",
+     "करना"
+    ],
+    [
+     "plaisant",
+     "पसंद"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Voyager se dit faire un voyage. Le voyage se dit « safar ».",
+   "say": {
+    "safar": "सफ़र"
+   }
+  }
+ ],
+ "0-1-16": [
+  {
+   "words": [
+    [
+     "à moi",
+     "मुझे"
+    ],
+    [
+     "Udaipur",
+     "उदयपुर"
+    ],
+    [
+     "de",
+     "का"
+    ],
+    [
+     "plan",
+     "नक्शा"
+    ],
+    [
+     "nécessaire",
+     "चाहिए"
+    ]
+   ],
+   "note": "Le plan se dit « nakshā ». On l'utilise aussi pour une carte.",
+   "say": {
+    "nakshā": "नक्शा"
+   }
+  },
+  {
+   "words": [
+    [
+     "plan",
+     "नक्शे"
+    ],
+    [
+     "sur",
+     "पर"
+    ],
+    [
+     "nous",
+     "हम"
+    ],
+    [
+     "ici",
+     "यहाँ"
+    ],
+    [
+     "sommes",
+     "हैं"
+    ]
+   ],
+   "note": "Devant un petit mot, plan change sa fin. On dit « nakshe par ».",
+   "say": {
+    "nakshe par": "नक्शे पर"
+   }
+  },
+  {
+   "words": [
+    [
+     "musée",
+     "म्यूज़ियम"
+    ],
+    [
+     "palais",
+     "महल"
+    ],
+    [
+     "de",
+     "के"
+    ],
+    [
+     "côté",
+     "बगल"
+    ],
+    [
+     "dans",
+     "में"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "À côté de se dit « ke bagal meṃ ». Il se place après le nom.",
+   "say": {
+    "ke bagal meṃ": "के बगल में"
+   }
+  },
+  {
+   "words": [
+    [
+     "cette",
+     "यह"
+    ],
+    [
+     "rue",
+     "सड़क"
+    ],
+    [
+     "lac",
+     "झील"
+    ],
+    [
+     "jusqu'à",
+     "तक"
+    ],
+    [
+     "aller",
+     "जाती"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Mène au lac se dit va jusqu'au lac. Va se dit ici « jātī hai ».",
+   "say": {
+    "jātī hai": "जाती है"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "मुझे"
+    ],
+    [
+     "plan",
+     "नक्शे"
+    ],
+    [
+     "sur",
+     "पर"
+    ],
+    [
+     "montrer",
+     "दिखाइए"
+    ]
+   ],
+   "note": "Montrez-moi se dit à moi montrez. Pour moi, on dit « mujhe ».",
+   "say": {
+    "mujhe": "मुझे"
+   }
+  },
+  {
+   "words": [
+    [
+     "jardin",
+     "बगीचा"
+    ],
+    [
+     "nord",
+     "उत्तर"
+    ],
+    [
+     "dans",
+     "में"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le nord se dit « uttar ». On dit dans le nord.",
+   "say": {
+    "uttar": "उत्तर"
+   }
+  },
+  {
+   "words": [
+    [
+     "vieux",
+     "पुराना"
+    ],
+    [
+     "ville",
+     "शहर"
+    ],
+    [
+     "par là",
+     "उधर"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Par là se dit « udhar ». On montre la direction avec la main.",
+   "say": {
+    "udhar": "उधर"
+   }
+  },
+  {
+   "words": [
+    [
+     "plan",
+     "नक्शा"
+    ],
+    [
+     "hindi",
+     "हिंदी"
+    ],
+    [
+     "dans",
+     "में"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "En hindi se dit hindi dans. On dit « hindī meṃ ».",
+   "say": {
+    "hindī meṃ": "हिंदी में"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "मुझे"
+    ],
+    [
+     "plan",
+     "नक्शे"
+    ],
+    [
+     "sur",
+     "पर"
+    ],
+    [
+     "hôtel",
+     "होटल"
+    ],
+    [
+     "pas",
+     "नहीं"
+    ],
+    [
+     "trouver",
+     "मिल"
+    ],
+    [
+     "en train de",
+     "रहा"
+    ]
+   ],
+   "note": "Je ne trouve pas se dit à moi ce n'est pas trouvé. Trouver se dit ici « mil rahā ».",
+   "say": {
+    "mil rahā": "मिल रहा"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "यह"
+    ],
+    [
+     "voilà",
+     "रहा"
+    ],
+    [
+     "juste",
+     "ठीक"
+    ],
+    [
+     "ici",
+     "यहाँ"
+    ]
+   ],
+   "note": "Le voilà se dit « yah rahā ». C'est très utile quand on trouve quelque chose.",
+   "say": {
+    "yah rahā": "यह रहा"
+   }
+  }
+ ],
+ "0-1-17": [
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "क्या"
+    ],
+    [
+     "gare",
+     "स्टेशन"
+    ],
+    [
+     "ici",
+     "यहाँ"
+    ],
+    [
+     "de",
+     "से"
+    ],
+    [
+     "loin",
+     "दूर"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Loin de se dit de puis loin. Loin d'ici se dit « yahāṃ se dūr ».",
+   "say": {
+    "yahāṃ se dūr": "यहाँ से दूर"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "नहीं"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "près",
+     "पास"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Près se dit « pās ». C'est le contraire de loin.",
+   "say": {
+    "pās": "पास"
+   }
+  },
+  {
+   "words": [
+    [
+     "lac",
+     "झील"
+    ],
+    [
+     "hôtel",
+     "होटल"
+    ],
+    [
+     "de",
+     "के"
+    ],
+    [
+     "près",
+     "पास"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Près de l'hôtel se dit hôtel de près. On dit « hoṭal ke pās ».",
+   "say": {
+    "hoṭal ke pās": "होटल के पास"
+   }
+  },
+  {
+   "words": [
+    [
+     "fort",
+     "किला"
+    ],
+    [
+     "ville",
+     "शहर"
+    ],
+    [
+     "de",
+     "से"
+    ],
+    [
+     "loin",
+     "दूर"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Avec loin, on utilise le petit mot de départ. On dit « shahar se dūr ».",
+   "say": {
+    "shahar se dūr": "शहर से दूर"
+   }
+  },
+  {
+   "words": [
+    [
+     "combien",
+     "कितने"
+    ],
+    [
+     "kilomètres",
+     "किलोमीटर"
+    ],
+    [
+     "loin",
+     "दूर"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Les kilomètres se disent « kilomīṭar ». À combien se dit combien loin.",
+   "say": {
+    "kilomīṭar": "किलोमीटर"
+   }
+  },
+  {
+   "words": [
+    [
+     "environ",
+     "लगभग"
+    ],
+    [
+     "deux",
+     "दो"
+    ],
+    [
+     "kilomètres",
+     "किलोमीटर"
+    ]
+   ],
+   "note": "Environ se dit « lagbhag ». C'est le même mot que pour presque.",
+   "say": {
+    "lagbhag": "लगभग"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "क्या"
+    ],
+    [
+     "près",
+     "पास"
+    ],
+    [
+     "dans",
+     "में"
+    ],
+    [
+     "un",
+     "कोई"
+    ],
+    [
+     "restaurant",
+     "रेस्टोरेंट"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Un, au sens de un quelconque, se dit « koī ». Il sert beaucoup dans les questions.",
+   "say": {
+    "koī": "कोई"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "हाँ"
+    ],
+    [
+     "tout à fait",
+     "बिलकुल"
+    ],
+    [
+     "près",
+     "पास"
+    ],
+    [
+     "dans",
+     "में"
+    ]
+   ],
+   "note": "Juste à côté se dit tout à fait près. Tout à fait se dit « bilkul ».",
+   "say": {
+    "bilkul": "बिलकुल"
+   }
+  },
+  {
+   "words": [
+    [
+     "à pied",
+     "पैदल"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "loin",
+     "दूर"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Trop se dit souvent très en hindi. À pied se dit « paidal ».",
+   "say": {
+    "paidal": "पैदल"
+   }
+  },
+  {
+   "words": [
+    [
+     "alors",
+     "तो"
+    ],
+    [
+     "rickshaw",
+     "रिक्शा"
+    ],
+    [
+     "prendre",
+     "लेते"
+    ],
+    [
+     "sommes",
+     "हैं"
+    ]
+   ],
+   "note": "Alors se dit « to ». Il sert à tirer une conclusion.",
+   "say": {
+    "to": "तो"
+   }
+  }
+ ],
+ "0-1-18": [
+  {
+   "words": [
+    [
+     "mon",
+     "मेरा"
+    ],
+    [
+     "téléphone",
+     "फ़ोन"
+    ],
+    [
+     "perdre",
+     "खो"
+    ],
+    [
+     "aller",
+     "गया"
+    ]
+   ],
+   "note": "Disparaître se dit se perdre. Perdu se dit « kho gayā ».",
+   "say": {
+    "kho gayā": "खो गया"
+   }
+  },
+  {
+   "words": [
+    [
+     "il",
+     "वह"
+    ],
+    [
+     "ma",
+     "मेरी"
+    ],
+    [
+     "poche",
+     "जेब"
+    ],
+    [
+     "dans",
+     "में"
+    ],
+    [
+     "était",
+     "था"
+    ]
+   ],
+   "note": "La poche est féminine. Ma se dit donc « merī ».",
+   "say": {
+    "merī": "मेरी"
+   }
+  },
+  {
+   "words": [
+    [
+     "police",
+     "पुलिस"
+    ],
+    [
+     "poste",
+     "स्टेशन"
+    ],
+    [
+     "où",
+     "कहाँ"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Le commissariat se dit poste de police. La police se dit « pulis ».",
+   "say": {
+    "pulis": "पुलिस"
+   }
+  },
+  {
+   "words": [
+    [
+     "paniquer",
+     "घबराइए"
+    ],
+    [
+     "ne pas",
+     "मत"
+    ],
+    [
+     "monsieur",
+     "साहब"
+    ]
+   ],
+   "note": "Pour dire ne faites pas, on met un petit mot après le verbe. Ce petit mot se dit « mat ».",
+   "say": {
+    "mat": "मत"
+   }
+  },
+  {
+   "words": [
+    [
+     "votre",
+     "अपने"
+    ],
+    [
+     "numéro",
+     "नंबर"
+    ],
+    [
+     "sur",
+     "पर"
+    ],
+    [
+     "téléphone",
+     "फ़ोन"
+    ],
+    [
+     "faire",
+     "कीजिए"
+    ]
+   ],
+   "note": "Appeler se dit faire un téléphone. Votre propre se dit « apne ».",
+   "say": {
+    "apne": "अपने"
+   }
+  },
+  {
+   "words": [
+    [
+     "ceci",
+     "यह"
+    ],
+    [
+     "voilà",
+     "रहा"
+    ],
+    [
+     "table",
+     "मेज़"
+    ],
+    [
+     "de",
+     "के"
+    ],
+    [
+     "dessous",
+     "नीचे"
+    ]
+   ],
+   "note": "Sous la table se dit table de dessous. On dit « mez ke nīche ».",
+   "say": {
+    "mez ke nīche": "मेज़ के नीचे"
+   }
+  },
+  {
+   "words": [
+    [
+     "ah",
+     "वाह"
+    ],
+    [
+     "quel",
+     "क्या"
+    ],
+    [
+     "chance",
+     "किस्मत"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Quelle chance se dit quelle chance est. La chance se dit « kismat ».",
+   "say": {
+    "kismat": "किस्मत"
+   }
+  },
+  {
+   "words": [
+    [
+     "chauffeur",
+     "ड्राइवर"
+    ],
+    [
+     "mon",
+     "मेरा"
+    ],
+    [
+     "sac",
+     "बैग"
+    ],
+    [
+     "ayant pris",
+     "लेकर"
+    ],
+    [
+     "partir",
+     "चला"
+    ],
+    [
+     "aller",
+     "गया"
+    ]
+   ],
+   "note": "Parti avec se dit ayant pris, puis parti. Ayant pris se dit « lekar ».",
+   "say": {
+    "lekar": "लेकर"
+   }
+  },
+  {
+   "words": [
+    [
+     "petit mot de question",
+     "क्या"
+    ],
+    [
+     "votre",
+     "आपके"
+    ],
+    [
+     "près",
+     "पास"
+    ],
+    [
+     "son",
+     "उसका"
+    ],
+    [
+     "numéro",
+     "नंबर"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Son ou sa se dit « uskā ». Ici, c'est son numéro.",
+   "say": {
+    "uskā": "उसका"
+   }
+  },
+  {
+   "words": [
+    [
+     "il",
+     "वह"
+    ],
+    [
+     "dix",
+     "दस"
+    ],
+    [
+     "minutes",
+     "मिनट"
+    ],
+    [
+     "dans",
+     "में"
+    ],
+    [
+     "retour",
+     "वापस"
+    ],
+    [
+     "venir",
+     "आ"
+    ],
+    [
+     "en train de",
+     "रहा"
+    ],
+    [
+     "est",
+     "है"
+    ]
+   ],
+   "note": "Dans dix minutes se dit dix minutes dans. On dit « das minaṭ meṃ ».",
+   "say": {
+    "das minaṭ meṃ": "दस मिनट में"
+   }
+  }
+ ],
+ "0-1-19": [
+  {
+   "words": [
+    [
+     "hindi",
+     "हिंदी"
+    ],
+    [
+     "de",
+     "का"
+    ],
+    [
+     "ce",
+     "यह"
+    ],
+    [
+     "voyage",
+     "सफ़र"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "bon",
+     "अच्छा"
+    ],
+    [
+     "était",
+     "था"
+    ]
+   ],
+   "note": "Était se dit « thā ». C'est le passé du verbe être.",
+   "say": {
+    "thā": "था"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "हम"
+    ],
+    [
+     "Agra",
+     "आगरा"
+    ],
+    [
+     "et",
+     "और"
+    ],
+    [
+     "Jodhpur",
+     "जोधपुर"
+    ],
+    [
+     "aller",
+     "गये"
+    ]
+   ],
+   "note": "Avec aller, la ville n'a pas besoin de petit mot. Allés se dit « gaye ».",
+   "say": {
+    "gaye": "गये"
+   }
+  },
+  {
+   "words": [
+    [
+     "maintenant",
+     "अब"
+    ],
+    [
+     "je",
+     "मैं"
+    ],
+    [
+     "un peu",
+     "थोड़ी"
+    ],
+    [
+     "hindi",
+     "हिंदी"
+    ],
+    [
+     "parler",
+     "बोलता"
+    ],
+    [
+     "suis",
+     "हूँ"
+    ]
+   ],
+   "note": "Une phrase à dire avec fierté. Je parle se dit « boltā hūṃ ».",
+   "say": {
+    "boltā hūṃ": "बोलता हूँ"
+   }
+  },
+  {
+   "words": [
+    [
+     "un",
+     "एक"
+    ],
+    [
+     "jour",
+     "दिन"
+    ],
+    [
+     "je",
+     "मैं"
+    ],
+    [
+     "Udaipur",
+     "उदयपुर"
+    ],
+    [
+     "aller",
+     "जाऊँगा"
+    ]
+   ],
+   "note": "Le futur se forme avec une fin spéciale. J'irai se dit « jāūṃgā ».",
+   "say": {
+    "jāūṃgā": "जाऊँगा"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "मैं"
+    ],
+    [
+     "très",
+     "बहुत"
+    ],
+    [
+     "content",
+     "खुश"
+    ],
+    [
+     "suis",
+     "हूँ"
+    ],
+    [
+     "Jaipur",
+     "जयपुर"
+    ],
+    [
+     "aller",
+     "जाऊँगी"
+    ]
+   ],
+   "note": "Une femme dit j'irai avec une fin un peu différente. Elle dit « jāūṃgī ».",
+   "say": {
+    "jāūṃgī": "जाऊँगी"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma",
+     "मेरी"
+    ],
+    [
+     "fille",
+     "बेटी"
+    ],
+    [
+     "Taj Mahal",
+     "ताजमहल"
+    ],
+    [
+     "aller",
+     "जाएगी"
+    ]
+   ],
+   "note": "La fille se dit « beṭī ». Pour elle, le futur prend la forme féminine.",
+   "say": {
+    "beṭī": "बेटी"
+   }
+  },
+  {
+   "words": [
+    [
+     "ensuite",
+     "फिर"
+    ],
+    [
+     "nous",
+     "हम"
+    ],
+    [
+     "gens",
+     "लोगों"
+    ],
+    [
+     "avec",
+     "से"
+    ],
+    [
+     "parole",
+     "बात"
+    ],
+    [
+     "faire",
+     "करेंगे"
+    ]
+   ],
+   "note": "Parler avec quelqu'un se dit faire parole avec. Nous ferons se dit « kareṃge ».",
+   "say": {
+    "kareṃge": "करेंगे"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "हम"
+    ],
+    [
+     "ensemble",
+     "साथ"
+    ],
+    [
+     "dans",
+     "में"
+    ],
+    [
+     "en avant",
+     "आगे"
+    ],
+    [
+     "aller",
+     "जाएँगे"
+    ]
+   ],
+   "note": "Plus loin se dit en avant. En avant se dit « āge ».",
+   "say": {
+    "āge": "आगे"
+   }
+  },
+  {
+   "words": [
+    [
+     "votre",
+     "आपकी"
+    ],
+    [
+     "effort",
+     "मेहनत"
+    ],
+    [
+     "de",
+     "के"
+    ],
+    [
+     "pour",
+     "लिए"
+    ],
+    [
+     "bravo",
+     "शाबाश"
+    ]
+   ],
+   "note": "Bravo se dit « shābāsh ». On le dit pour féliciter quelqu'un.",
+   "say": {
+    "shābāsh": "शाबाश"
+   }
+  },
+  {
+   "words": [
+    [
+     "encore",
+     "फिर"
+    ],
+    [
+     "se voir",
+     "मिलेंगे"
+    ]
+   ],
+   "note": "On se retrouve se dit on se reverra. On dit « phir mileṃge ».",
+   "say": {
+    "phir mileṃge": "फिर मिलेंगे"
+   }
+  }
+ ]
+}

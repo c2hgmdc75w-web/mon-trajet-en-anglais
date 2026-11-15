@@ -1,0 +1,5162 @@
+{
+ "0-1-0": [
+  {
+   "words": [
+    [
+     "enfin",
+     "Наконец"
+    ],
+    [
+     "voici",
+     "вот"
+    ],
+    [
+     "et",
+     "и"
+    ],
+    [
+     "Pétersbourg",
+     "Петербург"
+    ]
+   ],
+   "note": "Enfin se dit « nakanéts ». Les Russes disent souvent juste Pétersbourg, sans saint.",
+   "say": {
+    "nakanéts": "Наконец"
+   }
+  },
+  {
+   "words": [
+    [
+     "train",
+     "Поезд"
+    ],
+    [
+     "arriver",
+     "прибывает"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "de Moscou",
+     "Московский"
+    ],
+    [
+     "gare",
+     "вокзал"
+    ]
+   ],
+   "note": "Gare se dit « vagzál ». Avec gare, on dit sur et non dans.",
+   "say": {
+    "vagzál": "вокзал"
+   }
+  },
+  {
+   "words": [
+    [
+     "où",
+     "Где"
+    ],
+    [
+     "sortie",
+     "выход"
+    ],
+    [
+     "s'il vous plaît",
+     "пожалуйста"
+    ]
+   ],
+   "note": "Sortie se dit « výkhat ». Ajouter s'il vous plaît rend la question polie.",
+   "say": {
+    "výkhat": "выход"
+   }
+  },
+  {
+   "words": [
+    [
+     "sortie",
+     "Выход"
+    ],
+    [
+     "là-bas",
+     "там"
+    ],
+    [
+     "à droite",
+     "справа"
+    ]
+   ],
+   "note": "Là-bas se dit « tam ». À droite vient juste après, sans verbe.",
+   "say": {
+    "tam": "там"
+   }
+  },
+  {
+   "words": [
+    [
+     "chez",
+     "У"
+    ],
+    [
+     "moi",
+     "меня"
+    ],
+    [
+     "grosse",
+     "большой"
+    ],
+    [
+     "valise",
+     "чемодан"
+    ]
+   ],
+   "note": "Valise se dit « chemadán ». Quand on décrit la chose, on n'emploie pas le mot il y a.",
+   "say": {
+    "chemadán": "чемодан"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "Моя"
+    ],
+    [
+     "hôtel",
+     "гостиница"
+    ],
+    [
+     "à côté",
+     "рядом"
+    ],
+    [
+     "avec",
+     "с"
+    ],
+    [
+     "gare",
+     "вокзалом"
+    ]
+   ],
+   "note": "Hôtel se dit « gastínitsa ». Ce mot est féminin, d'où ma au féminin.",
+   "say": {
+    "gastínitsa": "гостиница"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "Да"
+    ],
+    [
+     "cinq",
+     "пять"
+    ],
+    [
+     "minutes",
+     "минут"
+    ],
+    [
+     "à pied",
+     "пешком"
+    ]
+   ],
+   "note": "À pied se dit « peshkóm ». Mot à mot, cinq minutes à pied.",
+   "say": {
+    "peshkóm": "пешком"
+   }
+  },
+  {
+   "words": [
+    [
+     "le matin",
+     "Утром"
+    ],
+    [
+     "à",
+     "в"
+    ],
+    [
+     "Pétersbourg",
+     "Петербурге"
+    ],
+    [
+     "frais",
+     "прохладно"
+    ]
+   ],
+   "note": "Il fait frais se dit en un mot, « prakhládna ». Pas besoin de il fait en russe.",
+   "say": {
+    "prakhládna": "прохладно"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "Я"
+    ],
+    [
+     "chercher",
+     "ищу"
+    ],
+    [
+     "station",
+     "стоянку"
+    ],
+    [
+     "taxi",
+     "такси"
+    ]
+   ],
+   "note": "Je cherche se dit « ishchú ». Taxi ne change jamais de forme en russe.",
+   "say": {
+    "ishchú": "ищу"
+   }
+  },
+  {
+   "words": [
+    [
+     "bien",
+     "Добро"
+    ],
+    [
+     "venir",
+     "пожаловать"
+    ],
+    [
+     "à",
+     "в"
+    ],
+    [
+     "Saint-Pétersbourg",
+     "Санкт-Петербург"
+    ]
+   ],
+   "note": "Bienvenue se dit « dabró pazhálavat' ». C'est une formule figée pour accueillir.",
+   "say": {
+    "dabró pazhálavat'": "Добро пожаловать"
+   }
+  }
+ ],
+ "0-1-1": [
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "Сегодня"
+    ],
+    [
+     "je",
+     "я"
+    ],
+    [
+     "à",
+     "в"
+    ],
+    [
+     "Pétersbourg",
+     "Петербурге"
+    ]
+   ],
+   "note": "Aujourd'hui se dit « sevódnya ». Il se met souvent en tête de phrase.",
+   "say": {
+    "sevódnya": "Сегодня"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "Завтра"
+    ],
+    [
+     "je",
+     "я"
+    ],
+    [
+     "aller à pied",
+     "иду"
+    ],
+    [
+     "dans",
+     "в"
+    ],
+    [
+     "musée",
+     "музей"
+    ]
+   ],
+   "note": "Demain se dit « záftra ». Pour une sortie en ville, on emploie le verbe aller à pied.",
+   "say": {
+    "záftra": "Завтра"
+   }
+  },
+  {
+   "words": [
+    [
+     "hier",
+     "Вчера"
+    ],
+    [
+     "je",
+     "я"
+    ],
+    [
+     "être",
+     "был"
+    ],
+    [
+     "à",
+     "в"
+    ],
+    [
+     "Moscou",
+     "Москве"
+    ]
+   ],
+   "note": "J'étais se dit « byl ». Au passé, le verbe être réapparaît.",
+   "say": {
+    "byl": "был"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "Сегодня"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "Neva",
+     "Неве"
+    ],
+    [
+     "doux",
+     "тепло"
+    ]
+   ],
+   "note": "Il fait doux se dit « tepló ». Mot à mot, aujourd'hui sur la Neva chaud.",
+   "say": {
+    "tepló": "тепло"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "А"
+    ],
+    [
+     "demain",
+     "завтра"
+    ],
+    [
+     "quel",
+     "какая"
+    ],
+    [
+     "programme",
+     "программа"
+    ]
+   ],
+   "note": "Quel se dit ici « kakáya ». Il prend la fin du féminin, comme programme en russe.",
+   "say": {
+    "kakáya": "какая"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "Завтра"
+    ],
+    [
+     "nous",
+     "мы"
+    ],
+    [
+     "aller en véhicule",
+     "едем"
+    ],
+    [
+     "à",
+     "в"
+    ],
+    [
+     "Peterhof",
+     "Петергоф"
+    ]
+   ],
+   "note": "En véhicule, nous allons se dit « yédem ». Peterhof est à une heure de la ville.",
+   "say": {
+    "yédem": "едем"
+   }
+  },
+  {
+   "words": [
+    [
+     "hier",
+     "Вчера"
+    ],
+    [
+     "nous",
+     "мы"
+    ],
+    [
+     "être",
+     "были"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "Nevski",
+     "Невском"
+    ],
+    [
+     "perspective",
+     "проспекте"
+    ]
+   ],
+   "note": "Nous étions se dit « býli ». Au pluriel, le passé finit par i.",
+   "say": {
+    "býli": "были"
+   }
+  },
+  {
+   "words": [
+    [
+     "musée",
+     "Музей"
+    ],
+    [
+     "aujourd'hui",
+     "сегодня"
+    ],
+    [
+     "fermé",
+     "закрыт"
+    ]
+   ],
+   "note": "Fermé se dit « zakrýt ». Mot à mot, musée aujourd'hui fermé.",
+   "say": {
+    "zakrýt": "закрыт"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "Нет"
+    ],
+    [
+     "il",
+     "он"
+    ],
+    [
+     "fermé",
+     "закрыт"
+    ],
+    [
+     "seulement",
+     "только"
+    ],
+    [
+     "demain",
+     "завтра"
+    ]
+   ],
+   "note": "Seulement se dit « tól'ka ». Il se place juste avant le mot qu'il limite.",
+   "say": {
+    "tól'ka": "только"
+   }
+  },
+  {
+   "words": [
+    [
+     "alors",
+     "Тогда"
+    ],
+    [
+     "aujourd'hui",
+     "сегодня"
+    ],
+    [
+     "aller à pied",
+     "идём"
+    ],
+    [
+     "dans",
+     "в"
+    ],
+    [
+     "musée",
+     "музей"
+    ]
+   ],
+   "note": "Alors se dit « tagdá ». Allons, sans nous, sonne comme une proposition.",
+   "say": {
+    "tagdá": "Тогда"
+   }
+  }
+ ],
+ "0-1-2": [
+  {
+   "words": [
+    [
+     "bon",
+     "Добрый"
+    ],
+    [
+     "soir",
+     "вечер"
+    ],
+    [
+     "chez",
+     "у"
+    ],
+    [
+     "moi",
+     "меня"
+    ],
+    [
+     "réservation",
+     "бронь"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "nom",
+     "имя"
+    ],
+    [
+     "Martin",
+     "Мартен"
+    ]
+   ],
+   "note": "Bonsoir se dit « dóbryy vécher ». Mot à mot, bon soir.",
+   "say": {
+    "dóbryy vécher": "Добрый вечер"
+   }
+  },
+  {
+   "words": [
+    [
+     "votre",
+     "Ваш"
+    ],
+    [
+     "passeport",
+     "паспорт"
+    ],
+    [
+     "s'il vous plaît",
+     "пожалуйста"
+    ]
+   ],
+   "note": "Passeport se dit « páspart ». L'accent tombe sur la première syllabe.",
+   "say": {
+    "páspart": "паспорт"
+   }
+  },
+  {
+   "words": [
+    [
+     "voici",
+     "Вот"
+    ],
+    [
+     "mon",
+     "мой"
+    ],
+    [
+     "français",
+     "французский"
+    ],
+    [
+     "passeport",
+     "паспорт"
+    ]
+   ],
+   "note": "Français se dit ici « frantsúskiy ». Comme adjectif, il se place avant le nom.",
+   "say": {
+    "frantsúskiy": "французский"
+   }
+  },
+  {
+   "words": [
+    [
+     "votre",
+     "Ваш"
+    ],
+    [
+     "chambre",
+     "номер"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "troisième",
+     "третьем"
+    ],
+    [
+     "étage",
+     "этаже"
+    ]
+   ],
+   "note": "Une chambre d'hôtel se dit « nómer ». Le même mot veut aussi dire numéro.",
+   "say": {
+    "nómer": "номер"
+   }
+  },
+  {
+   "words": [
+    [
+     "voici",
+     "Вот"
+    ],
+    [
+     "clé",
+     "ключ"
+    ],
+    [
+     "de",
+     "от"
+    ],
+    [
+     "chambre",
+     "номера"
+    ]
+   ],
+   "note": "Clé se dit « klyuch ». Le même mot veut aussi dire source d'eau.",
+   "say": {
+    "klyuch": "ключ"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "А"
+    ],
+    [
+     "à",
+     "во"
+    ],
+    [
+     "combien",
+     "сколько"
+    ],
+    [
+     "petit-déjeuner",
+     "завтрак"
+    ]
+   ],
+   "note": "Pour demander l'heure d'un repas, on dit « va skól'ka ». Mot à mot, à combien.",
+   "say": {
+    "va skól'ka": "во сколько"
+   }
+  },
+  {
+   "words": [
+    [
+     "de",
+     "С"
+    ],
+    [
+     "sept",
+     "семи"
+    ],
+    [
+     "jusqu'à",
+     "до"
+    ],
+    [
+     "dix",
+     "десяти"
+    ]
+   ],
+   "note": "De se dit ici « s ». Mot à mot, de sept jusqu'à dix.",
+   "say": {
+    "s": "С"
+   }
+  },
+  {
+   "words": [
+    [
+     "dans",
+     "В"
+    ],
+    [
+     "chambre",
+     "номере"
+    ],
+    [
+     "il y a",
+     "есть"
+    ],
+    [
+     "wifi",
+     "вайфай"
+    ]
+   ],
+   "note": "Wifi se dit « vayfáy ». Pour demander s'il y a quelque chose, on dit juste il y a.",
+   "say": {
+    "vayfáy": "вайфай"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "Да"
+    ],
+    [
+     "mot de passe",
+     "пароль"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "petite carte",
+     "карточке"
+    ]
+   ],
+   "note": "Mot de passe se dit « paról' ». C'est presque le mot français parole.",
+   "say": {
+    "paról'": "пароль"
+   }
+  },
+  {
+   "words": [
+    [
+     "fenêtres",
+     "Окна"
+    ],
+    [
+     "donner",
+     "выходят"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "canal",
+     "канал"
+    ]
+   ],
+   "note": "Fenêtres se dit « ókna ». Au pluriel, l'accent passe au début du mot.",
+   "say": {
+    "ókna": "Окна"
+   }
+  }
+ ],
+ "0-1-3": [
+  {
+   "words": [
+    [
+     "à",
+     "За"
+    ],
+    [
+     "cette",
+     "этот"
+    ],
+    [
+     "petite table",
+     "столик"
+    ],
+    [
+     "on peut",
+     "можно"
+    ],
+    [
+     "s'asseoir",
+     "сесть"
+    ]
+   ],
+   "note": "Pour demander poliment, on dit « mózhna ». Mot à mot, c'est permis, puis le verbe.",
+   "say": {
+    "mózhna": "можно"
+   }
+  },
+  {
+   "words": [
+    [
+     "bien sûr",
+     "Конечно"
+    ],
+    [
+     "s'asseoir",
+     "садитесь"
+    ],
+    [
+     "s'il vous plaît",
+     "пожалуйста"
+    ]
+   ],
+   "note": "Asseyez-vous se dit « sadítes' ». C'est la forme polie, avec vous.",
+   "say": {
+    "sadítes'": "садитесь"
+   }
+  },
+  {
+   "words": [
+    [
+     "on peut",
+     "Можно"
+    ],
+    [
+     "thé",
+     "чай"
+    ],
+    [
+     "s'il vous plaît",
+     "пожалуйста"
+    ]
+   ],
+   "note": "Au café, je peux avoir se dit simplement « mózhna ». Puis on nomme ce qu'on veut.",
+   "say": {
+    "mózhna": "Можно"
+   }
+  },
+  {
+   "words": [
+    [
+     "avec",
+     "С"
+    ],
+    [
+     "citron",
+     "лимоном"
+    ]
+   ],
+   "note": "Avec du citron se dit « s limónam ». Après avec, le nom prend la fin om.",
+   "say": {
+    "s limónam": "С лимоном"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "Да"
+    ],
+    [
+     "et",
+     "и"
+    ],
+    [
+     "on peut",
+     "можно"
+    ],
+    [
+     "encore",
+     "ещё"
+    ],
+    [
+     "blinis",
+     "блины"
+    ]
+   ],
+   "note": "Encore se dit « yeshchyó ». Ici, il veut dire aussi, en plus.",
+   "say": {
+    "yeshchyó": "ещё"
+   }
+  },
+  {
+   "words": [
+    [
+     "on peut",
+     "Можно"
+    ],
+    [
+     "carte",
+     "картой"
+    ]
+   ],
+   "note": "Par carte se dit « kártay ». La fin du mot suffit à dire par, sans autre mot.",
+   "say": {
+    "kártay": "картой"
+   }
+  },
+  {
+   "words": [
+    [
+     "on peut",
+     "Можно"
+    ],
+    [
+     "laisser",
+     "оставить"
+    ],
+    [
+     "ici",
+     "здесь"
+    ],
+    [
+     "valise",
+     "чемодан"
+    ]
+   ],
+   "note": "Laisser se dit « astávit' ». Après je peux, le verbe reste à l'infinitif.",
+   "say": {
+    "astávit'": "оставить"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "Нет"
+    ],
+    [
+     "ici",
+     "здесь"
+    ],
+    [
+     "on ne peut pas",
+     "нельзя"
+    ]
+   ],
+   "note": "C'est interdit se dit « nel'zyá ». C'est le contraire de on peut.",
+   "say": {
+    "nel'zyá": "нельзя"
+   }
+  },
+  {
+   "words": [
+    [
+     "dans",
+     "В"
+    ],
+    [
+     "hall",
+     "холле"
+    ],
+    [
+     "on peut",
+     "можно"
+    ],
+    [
+     "photographier",
+     "фотографировать"
+    ]
+   ],
+   "note": "Photographier se dit « fatagrafíravat' ». Mot à mot, dans le hall on peut photographier.",
+   "say": {
+    "fatagrafíravat'": "фотографировать"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "Да"
+    ],
+    [
+     "bien sûr",
+     "конечно"
+    ],
+    [
+     "on peut",
+     "можно"
+    ]
+   ],
+   "note": "Bien sûr se dit « kanéshna ». En réponse, on répète simplement on peut.",
+   "say": {
+    "kanéshna": "конечно"
+   }
+  }
+ ],
+ "0-1-4": [
+  {
+   "words": [
+    [
+     "où",
+     "Где"
+    ],
+    [
+     "ici",
+     "здесь"
+    ],
+    [
+     "on peut",
+     "можно"
+    ],
+    [
+     "changer",
+     "поменять"
+    ],
+    [
+     "argent",
+     "деньги"
+    ]
+   ],
+   "note": "Changer de l'argent se dit « pamenyát' dén'gi ». Argent est toujours au pluriel en russe.",
+   "say": {
+    "pamenyát' dén'gi": "поменять деньги"
+   }
+  },
+  {
+   "words": [
+    [
+     "sur",
+     "На"
+    ],
+    [
+     "place",
+     "площади"
+    ],
+    [
+     "il y a",
+     "есть"
+    ],
+    [
+     "banque",
+     "банк"
+    ]
+   ],
+   "note": "Sur la place se dit « na plóshchadi ». La place Rouge emploie ce même mot.",
+   "say": {
+    "na plóshchadi": "На площади"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "Я"
+    ],
+    [
+     "vouloir",
+     "хочу"
+    ],
+    [
+     "changer",
+     "поменять"
+    ],
+    [
+     "argent",
+     "деньги"
+    ],
+    [
+     "en",
+     "на"
+    ],
+    [
+     "roubles",
+     "рубли"
+    ]
+   ],
+   "note": "En russe, on dit simplement je veux, « khachú ». C'est tout à fait poli.",
+   "say": {
+    "khachú": "хочу"
+   }
+  },
+  {
+   "words": [
+    [
+     "il faut",
+     "Нужен"
+    ],
+    [
+     "passeport",
+     "паспорт"
+    ]
+   ],
+   "note": "Il faut se dit ici « núzhen ». Ce mot s'accorde avec la chose dont on a besoin.",
+   "say": {
+    "núzhen": "Нужен"
+   }
+  },
+  {
+   "words": [
+    [
+     "distributeur",
+     "Банкомат"
+    ],
+    [
+     "à côté",
+     "рядом"
+    ],
+    [
+     "avec",
+     "со"
+    ],
+    [
+     "entrée",
+     "входом"
+    ]
+   ],
+   "note": "Distributeur se dit « bankamát ». C'est un mot formé sur banque et automate.",
+   "say": {
+    "bankamát": "Банкомат"
+   }
+  },
+  {
+   "words": [
+    [
+     "oh",
+     "Ой"
+    ],
+    [
+     "ma",
+     "моя"
+    ],
+    [
+     "carte",
+     "карта"
+    ],
+    [
+     "ne pas",
+     "не"
+    ],
+    [
+     "fonctionner",
+     "работает"
+    ]
+   ],
+   "note": "Oh se dit « oy ». Pour une machine, fonctionner se dit travailler.",
+   "say": {
+    "oy": "Ой"
+   }
+  },
+  {
+   "words": [
+    [
+     "essayer",
+     "Попробуйте"
+    ],
+    [
+     "encore",
+     "ещё"
+    ],
+    [
+     "fois",
+     "раз"
+    ]
+   ],
+   "note": "Essayez se dit « papróbuyte ». Encore une fois se dit encore fois, sans article.",
+   "say": {
+    "papróbuyte": "Попробуйте"
+   }
+  },
+  {
+   "words": [
+    [
+     "fonctionner",
+     "Работает"
+    ],
+    [
+     "voici",
+     "вот"
+    ],
+    [
+     "roubles",
+     "рубли"
+    ]
+   ],
+   "note": "Roubles se dit « rublí ». L'accent tombe à la fin.",
+   "say": {
+    "rublí": "рубли"
+   }
+  },
+  {
+   "words": [
+    [
+     "chez",
+     "У"
+    ],
+    [
+     "moi",
+     "меня"
+    ],
+    [
+     "deux",
+     "две"
+    ],
+    [
+     "mille",
+     "тысячи"
+    ],
+    [
+     "roubles",
+     "рублей"
+    ]
+   ],
+   "note": "Deux mille se dit « dve týsyachi ». Mille est un mot féminin, d'où deux au féminin.",
+   "say": {
+    "dve týsyachi": "две тысячи"
+   }
+  },
+  {
+   "words": [
+    [
+     "pour",
+     "На"
+    ],
+    [
+     "aujourd'hui",
+     "сегодня"
+    ],
+    [
+     "suffire",
+     "хватит"
+    ]
+   ],
+   "note": "Ça suffit se dit « khvátit ». C'est très courant pour mettre fin à quelque chose.",
+   "say": {
+    "khvátit": "хватит"
+   }
+  }
+ ],
+ "0-1-5": [
+  {
+   "words": [
+    [
+     "combien",
+     "Сколько"
+    ],
+    [
+     "coûter",
+     "стоит"
+    ],
+    [
+     "cette",
+     "эта"
+    ],
+    [
+     "matriochka",
+     "матрёшка"
+    ]
+   ],
+   "note": "Combien ça coûte se dit « skól'ka stóit ». C'est la question clé au marché.",
+   "say": {
+    "skól'ka stóit": "Сколько стоит"
+   }
+  },
+  {
+   "words": [
+    [
+     "elle",
+     "Она"
+    ],
+    [
+     "coûter",
+     "стоит"
+    ],
+    [
+     "mille",
+     "тысячу"
+    ],
+    [
+     "roubles",
+     "рублей"
+    ]
+   ],
+   "note": "Après coûter, mille prend une fin en ou. On dit donc « týsyachu ».",
+   "say": {
+    "týsyachu": "тысячу"
+   }
+  },
+  {
+   "words": [
+    [
+     "oh",
+     "Ой"
+    ],
+    [
+     "pour",
+     "для"
+    ],
+    [
+     "moi",
+     "меня"
+    ],
+    [
+     "c'est",
+     "это"
+    ],
+    [
+     "un peu cher",
+     "дороговато"
+    ]
+   ],
+   "note": "Un peu cher se dit en un mot, « daragaváta ». La fin du mot adoucit, comme un petit peu.",
+   "say": {
+    "daragaváta": "дороговато"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "А"
+    ],
+    [
+     "celle-ci",
+     "эта"
+    ],
+    [
+     "combien",
+     "сколько"
+    ],
+    [
+     "coûter",
+     "стоит"
+    ]
+   ],
+   "note": "Celle-ci se dit « éta ». Ici, ce mot remplace matriochka, au féminin.",
+   "say": {
+    "éta": "эта"
+   }
+  },
+  {
+   "words": [
+    [
+     "celle-ci",
+     "Эта"
+    ],
+    [
+     "coûter",
+     "стоит"
+    ],
+    [
+     "trois cents",
+     "триста"
+    ],
+    [
+     "roubles",
+     "рублей"
+    ]
+   ],
+   "note": "Trois cents se dit « trísta ». Les centaines ont des formes à apprendre par cœur.",
+   "say": {
+    "trísta": "триста"
+   }
+  },
+  {
+   "words": [
+    [
+     "combien",
+     "Сколько"
+    ],
+    [
+     "coûter",
+     "стоят"
+    ],
+    [
+     "ces",
+     "эти"
+    ],
+    [
+     "cartes postales",
+     "открытки"
+    ]
+   ],
+   "note": "Au pluriel, coûtent se dit « stóyat ». Le verbe s'accorde avec les cartes.",
+   "say": {
+    "stóyat": "стоят"
+   }
+  },
+  {
+   "words": [
+    [
+     "cent",
+     "Сто"
+    ],
+    [
+     "roubles",
+     "рублей"
+    ],
+    [
+     "pour",
+     "за"
+    ],
+    [
+     "pièce",
+     "штуку"
+    ]
+   ],
+   "note": "Pour un prix à l'unité, pièce se dit « shtúku ». Mot à mot, cent roubles pour la pièce.",
+   "say": {
+    "shtúku": "штуку"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "Я"
+    ],
+    [
+     "prendre",
+     "беру"
+    ],
+    [
+     "deux",
+     "две"
+    ],
+    [
+     "cartes",
+     "открытки"
+    ],
+    [
+     "et",
+     "и"
+    ],
+    [
+     "petite",
+     "маленькую"
+    ],
+    [
+     "matriochka",
+     "матрёшку"
+    ]
+   ],
+   "note": "Je prends se dit « berú ». C'est le verbe qu'on emploie pour acheter quelque chose.",
+   "say": {
+    "berú": "беру"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "А"
+    ],
+    [
+     "combien",
+     "сколько"
+    ],
+    [
+     "en tout",
+     "всего"
+    ]
+   ],
+   "note": "Au total se dit « fsevó ». Mot à mot, combien de tout.",
+   "say": {
+    "fsevó": "всего"
+   }
+  },
+  {
+   "words": [
+    [
+     "cinq cents",
+     "Пятьсот"
+    ],
+    [
+     "roubles",
+     "рублей"
+    ],
+    [
+     "s'il vous plaît",
+     "пожалуйста"
+    ]
+   ],
+   "note": "Cinq cents se dit « pyat'sót ». C'est cinq et cent collés en un seul mot.",
+   "say": {
+    "pyat'sót": "Пятьсот"
+   }
+  }
+ ],
+ "0-1-6": [
+  {
+   "words": [
+    [
+     "Nevski",
+     "Невский"
+    ],
+    [
+     "perspective",
+     "проспект"
+    ],
+    [
+     "très",
+     "очень"
+    ],
+    [
+     "longue",
+     "длинный"
+    ]
+   ],
+   "note": "Perspective se dit « praspékt ». C'est le nom des grandes avenues en Russie.",
+   "say": {
+    "praspékt": "проспект"
+   }
+  },
+  {
+   "words": [
+    [
+     "le soir",
+     "Вечером"
+    ],
+    [
+     "ici",
+     "здесь"
+    ],
+    [
+     "beaucoup",
+     "много"
+    ],
+    [
+     "gens",
+     "людей"
+    ]
+   ],
+   "note": "Beaucoup de monde se dit « mnóga lyudéy ». Mot à mot, beaucoup de gens.",
+   "say": {
+    "mnóga lyudéy": "много людей"
+   }
+  },
+  {
+   "words": [
+    [
+     "regarder",
+     "Посмотрите"
+    ],
+    [
+     "quelle",
+     "какой"
+    ],
+    [
+     "belle",
+     "красивый"
+    ],
+    [
+     "maison",
+     "дом"
+    ]
+   ],
+   "note": "Pour s'exclamer, quel se dit « kakóy ». Mot à mot, quelle belle maison.",
+   "say": {
+    "kakóy": "какой"
+   }
+  },
+  {
+   "words": [
+    [
+     "c'est",
+     "Это"
+    ],
+    [
+     "grand",
+     "большой"
+    ],
+    [
+     "de livres",
+     "книжный"
+    ],
+    [
+     "magasin",
+     "магазин"
+    ]
+   ],
+   "note": "Magasin se dit « magazín ». Librairie se dit magasin de livres.",
+   "say": {
+    "magazín": "магазин"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "Я"
+    ],
+    [
+     "vouloir",
+     "хочу"
+    ],
+    [
+     "acheter",
+     "купить"
+    ],
+    [
+     "livre",
+     "книгу"
+    ],
+    [
+     "en",
+     "на"
+    ],
+    [
+     "russe",
+     "русском"
+    ]
+   ],
+   "note": "Pour un livre, en russe se dit « na rússkam ». Mot à mot, sur le russe.",
+   "say": {
+    "na rússkam": "на русском"
+   }
+  },
+  {
+   "words": [
+    [
+     "à côté",
+     "Рядом"
+    ],
+    [
+     "il y a",
+     "есть"
+    ],
+    [
+     "café",
+     "кафе"
+    ]
+   ],
+   "note": "Le lieu café se dit « kafé ». Le mot ne change jamais de forme.",
+   "say": {
+    "kafé": "кафе"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "Да"
+    ],
+    [
+     "juste",
+     "прямо"
+    ],
+    [
+     "en face",
+     "напротив"
+    ]
+   ],
+   "note": "En face se dit « naprótif ». Juste se dit ici tout droit, pour insister.",
+   "say": {
+    "naprótif": "напротив"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "Мне"
+    ],
+    [
+     "café",
+     "кофе"
+    ],
+    [
+     "et",
+     "и"
+    ],
+    [
+     "morceau",
+     "кусок"
+    ],
+    [
+     "gâteau",
+     "торта"
+    ]
+   ],
+   "note": "Pour commander, on dit « mne ». Mot à mot, à moi un café.",
+   "say": {
+    "mne": "Мне"
+   }
+  },
+  {
+   "words": [
+    [
+     "le soir",
+     "Вечером"
+    ],
+    [
+     "perspective",
+     "проспект"
+    ],
+    [
+     "toute",
+     "весь"
+    ],
+    [
+     "dans",
+     "в"
+    ],
+    [
+     "lumières",
+     "огнях"
+    ]
+   ],
+   "note": "Illuminé se dit « v agnyákh ». Mot à mot, dans les feux.",
+   "say": {
+    "v agnyákh": "в огнях"
+   }
+  },
+  {
+   "words": [
+    [
+     "Pétersbourg",
+     "Петербург"
+    ],
+    [
+     "très",
+     "очень"
+    ],
+    [
+     "beau",
+     "красивый"
+    ]
+   ],
+   "note": "Beau se dit « krasívyy ». Ici, il est au masculin, comme Pétersbourg.",
+   "say": {
+    "krasívyy": "красивый"
+   }
+  }
+ ],
+ "0-1-7": [
+  {
+   "words": [
+    [
+     "allô",
+     "Алло"
+    ],
+    [
+     "vous",
+     "вы"
+    ],
+    [
+     "où",
+     "где"
+    ]
+   ],
+   "note": "Au téléphone, on dit « alló ». Vous êtes où se dit juste vous où.",
+   "say": {
+    "alló": "Алло"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "Я"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "Nevski",
+     "Невском"
+    ],
+    [
+     "perspective",
+     "проспекте"
+    ]
+   ],
+   "note": "Pour une avenue, on dit sur, « na ». Mot à mot, je sur la perspective Nevski.",
+   "say": {
+    "na": "на"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "А"
+    ],
+    [
+     "vous",
+     "вы"
+    ],
+    [
+     "dans",
+     "в"
+    ],
+    [
+     "hôtel",
+     "гостинице"
+    ]
+   ],
+   "note": "Pour un bâtiment, on dit dans. À l'hôtel se dit « v gastínitse ».",
+   "say": {
+    "v gastínitse": "в гостинице"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "Нет"
+    ],
+    [
+     "je",
+     "я"
+    ],
+    [
+     "dans",
+     "в"
+    ],
+    [
+     "musée",
+     "музее"
+    ]
+   ],
+   "note": "Au musée se dit « v muzéye ». Après dans, le nom finit par le son é.",
+   "say": {
+    "v muzéye": "в музее"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma",
+     "Моя"
+    ],
+    [
+     "femme",
+     "жена"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "gare",
+     "вокзале"
+    ]
+   ],
+   "note": "Avec gare, on dit sur, et non dans. À la gare se dit « na vagzále ».",
+   "say": {
+    "na vagzále": "на вокзале"
+   }
+  },
+  {
+   "words": [
+    [
+     "nos",
+     "Наши"
+    ],
+    [
+     "amis",
+     "друзья"
+    ],
+    [
+     "dans",
+     "в"
+    ],
+    [
+     "restaurant",
+     "ресторане"
+    ]
+   ],
+   "note": "Amis se dit « druz'yá ». Ce pluriel est irrégulier, à retenir tel quel.",
+   "say": {
+    "druz'yá": "друзья"
+   }
+  },
+  {
+   "words": [
+    [
+     "le soir",
+     "Вечером"
+    ],
+    [
+     "nous",
+     "мы"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "concert",
+     "концерте"
+    ]
+   ],
+   "note": "Pour un événement, on dit aussi sur. Au concert se dit « na kantsérte ».",
+   "say": {
+    "na kantsérte": "на концерте"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "Завтра"
+    ],
+    [
+     "je",
+     "я"
+    ],
+    [
+     "à",
+     "в"
+    ],
+    [
+     "Moscou",
+     "Москве"
+    ]
+   ],
+   "note": "À Moscou se dit « v Maskvé ». Le futur est sous-entendu par demain.",
+   "say": {
+    "v Maskvé": "в Москве"
+   }
+  },
+  {
+   "words": [
+    [
+     "Moscou",
+     "Москва"
+    ],
+    [
+     "c'est",
+     "Это"
+    ],
+    [
+     "loin",
+     "далеко"
+    ],
+    [
+     "d'ici",
+     "отсюда"
+    ]
+   ],
+   "note": "D'ici se dit « atsyúda ». Mot à mot, depuis ici.",
+   "say": {
+    "atsyúda": "отсюда"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "Да"
+    ],
+    [
+     "mais",
+     "но"
+    ],
+    [
+     "mon",
+     "мой"
+    ],
+    [
+     "frère",
+     "брат"
+    ],
+    [
+     "habiter",
+     "живёт"
+    ],
+    [
+     "à",
+     "в"
+    ],
+    [
+     "Moscou",
+     "Москве"
+    ]
+   ],
+   "note": "Mais se dit « no ». C'est un vrai mais, plus fort que et.",
+   "say": {
+    "no": "но"
+   }
+  }
+ ],
+ "0-1-8": [
+  {
+   "words": [
+    [
+     "à",
+     "В"
+    ],
+    [
+     "Pétersbourg",
+     "Петербурге"
+    ],
+    [
+     "beaucoup",
+     "много"
+    ],
+    [
+     "canaux",
+     "каналов"
+    ]
+   ],
+   "note": "Beaucoup de se dit « mnóga ». Après lui, le nom change de fin, au pluriel.",
+   "say": {
+    "mnóga": "много"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "И"
+    ],
+    [
+     "encore",
+     "ещё"
+    ],
+    [
+     "centaines",
+     "сотни"
+    ],
+    [
+     "ponts",
+     "мостов"
+    ]
+   ],
+   "note": "Ponts se dit ici « mastóf ». Mot à mot, des centaines de ponts.",
+   "say": {
+    "mastóf": "мостов"
+   }
+  },
+  {
+   "words": [
+    [
+     "se promener",
+     "Покатаемся"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "bateau",
+     "катере"
+    ]
+   ],
+   "note": "Pour proposer une balade, on dit « pakatáyemsya ». Ce verbe est au futur, avec nous.",
+   "say": {
+    "pakatáyemsya": "Покатаемся"
+   }
+  },
+  {
+   "words": [
+    [
+     "bonne",
+     "Хорошая"
+    ],
+    [
+     "idée",
+     "идея"
+    ],
+    [
+     "bateau",
+     "катер"
+    ],
+    [
+     "partir",
+     "отходит"
+    ],
+    [
+     "à",
+     "в"
+    ],
+    [
+     "douze",
+     "двенадцать"
+    ]
+   ],
+   "note": "Midi se dit simplement douze, « dvenátsat' ». Mot à mot, le bateau part à douze.",
+   "say": {
+    "dvenátsat'": "двенадцать"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "А"
+    ],
+    [
+     "billet",
+     "билет"
+    ],
+    [
+     "combien",
+     "сколько"
+    ],
+    [
+     "coûter",
+     "стоит"
+    ]
+   ],
+   "note": "Billet se dit « bilét ». Le mot ressemble beaucoup au français.",
+   "say": {
+    "bilét": "билет"
+   }
+  },
+  {
+   "words": [
+    [
+     "eau",
+     "Вода"
+    ],
+    [
+     "aujourd'hui",
+     "сегодня"
+    ],
+    [
+     "calme",
+     "спокойная"
+    ]
+   ],
+   "note": "Eau se dit « vadá ». C'est la racine du mot vodka, petite eau.",
+   "say": {
+    "vadá": "Вода"
+   }
+  },
+  {
+   "words": [
+    [
+     "regarder",
+     "Смотрите"
+    ],
+    [
+     "quel",
+     "какой"
+    ],
+    [
+     "bas",
+     "низкий"
+    ],
+    [
+     "pont",
+     "мост"
+    ]
+   ],
+   "note": "Regardez se dit « smatríte ». C'est la forme polie, ou pour plusieurs personnes.",
+   "say": {
+    "smatríte": "Смотрите"
+   }
+  },
+  {
+   "words": [
+    [
+     "la nuit",
+     "Ночью"
+    ],
+    [
+     "ponts",
+     "мосты"
+    ],
+    [
+     "on ouvre",
+     "разводят"
+    ]
+   ],
+   "note": "La nuit se dit « nóch'yu ». À Pétersbourg, on ouvre les ponts pour laisser passer les bateaux.",
+   "say": {
+    "nóch'yu": "Ночью"
+   }
+  },
+  {
+   "words": [
+    [
+     "c'est",
+     "Это"
+    ],
+    [
+     "très",
+     "очень"
+    ],
+    [
+     "beau",
+     "красиво"
+    ],
+    [
+     "surtout",
+     "особенно"
+    ],
+    [
+     "en été",
+     "летом"
+    ]
+   ],
+   "note": "En été se dit « létam ». C'est un seul mot, sans préposition.",
+   "say": {
+    "létam": "летом"
+   }
+  },
+  {
+   "words": [
+    [
+     "rester",
+     "Останемся"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "quai",
+     "набережной"
+    ],
+    [
+     "jusqu'à",
+     "до"
+    ],
+    [
+     "heure",
+     "часа"
+    ],
+    [
+     "nuit",
+     "ночи"
+    ]
+   ],
+   "note": "Quai se dit « náberezhnay ». Une heure du matin se dit une heure de la nuit.",
+   "say": {
+    "náberezhnay": "набережной"
+   }
+  }
+ ],
+ "0-1-9": [
+  {
+   "words": [
+    [
+     "je",
+     "Я"
+    ],
+    [
+     "aller à pied",
+     "иду"
+    ],
+    [
+     "dans",
+     "в"
+    ],
+    [
+     "musée",
+     "музей"
+    ],
+    [
+     "à pied",
+     "пешком"
+    ]
+   ],
+   "note": "Pour aller à pied, on dit « idú ». Mot à mot, je marche au musée.",
+   "say": {
+    "idú": "иду"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "А"
+    ],
+    [
+     "vous",
+     "вы"
+    ],
+    [
+     "aller en véhicule",
+     "едете"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "taxi",
+     "такси"
+    ]
+   ],
+   "note": "Pour aller en véhicule, vous allez se dit « yédete ». C'est un autre verbe que pour marcher.",
+   "say": {
+    "yédete": "едете"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "Нет"
+    ],
+    [
+     "je",
+     "я"
+    ],
+    [
+     "aussi",
+     "тоже"
+    ],
+    [
+     "aller à pied",
+     "иду"
+    ],
+    [
+     "à pied",
+     "пешком"
+    ]
+   ],
+   "note": "À pied se dit « peshkóm ». On l'ajoute souvent pour bien insister.",
+   "say": {
+    "peshkóm": "пешком"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "А"
+    ],
+    [
+     "où",
+     "куда"
+    ],
+    [
+     "vous",
+     "вы"
+    ],
+    [
+     "aller à pied",
+     "идёте"
+    ],
+    [
+     "le soir",
+     "вечером"
+    ]
+   ],
+   "note": "Où, avec un mouvement, se dit « kudá ». Sans mouvement, on emploie un autre mot.",
+   "say": {
+    "kudá": "куда"
+   }
+  },
+  {
+   "words": [
+    [
+     "le soir",
+     "Вечером"
+    ],
+    [
+     "je",
+     "я"
+    ],
+    [
+     "aller à pied",
+     "иду"
+    ],
+    [
+     "dans",
+     "в"
+    ],
+    [
+     "théâtre",
+     "театр"
+    ]
+   ],
+   "note": "Théâtre se dit « teátr ». Pour une sortie en ville, on emploie le verbe à pied.",
+   "say": {
+    "teátr": "театр"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "Завтра"
+    ],
+    [
+     "je",
+     "я"
+    ],
+    [
+     "aller en véhicule",
+     "еду"
+    ],
+    [
+     "à",
+     "в"
+    ],
+    [
+     "Peterhof",
+     "Петергоф"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "bus",
+     "автобусе"
+    ]
+   ],
+   "note": "En bus se dit « na aftóbuse ». Mot à mot, sur le bus.",
+   "say": {
+    "na aftóbuse": "на автобусе"
+   }
+  },
+  {
+   "words": [
+    [
+     "nous",
+     "Мы"
+    ],
+    [
+     "aller en véhicule",
+     "едем"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "gare",
+     "вокзал"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "métro",
+     "метро"
+    ]
+   ],
+   "note": "En véhicule, nous allons se dit « yédem ». Même le métro compte comme un véhicule.",
+   "say": {
+    "yédem": "едем"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "Я"
+    ],
+    [
+     "aller à pied",
+     "иду"
+    ],
+    [
+     "être",
+     "буду"
+    ],
+    [
+     "dans",
+     "через"
+    ],
+    [
+     "dix",
+     "десять"
+    ],
+    [
+     "minutes",
+     "минут"
+    ]
+   ],
+   "note": "Je serai se dit « búdu ». Dans dix minutes se dit à travers dix minutes.",
+   "say": {
+    "búdu": "буду"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "Мой"
+    ],
+    [
+     "ami",
+     "друг"
+    ],
+    [
+     "aller en véhicule",
+     "едет"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "voiture",
+     "машине"
+    ]
+   ],
+   "note": "En voiture se dit « na mashíne ». Mot à mot, sur la voiture.",
+   "say": {
+    "na mashíne": "на машине"
+   }
+  },
+  {
+   "words": [
+    [
+     "aller à pied",
+     "Идём"
+    ],
+    [
+     "à pied",
+     "пешком"
+    ],
+    [
+     "ou",
+     "или"
+    ],
+    [
+     "aller en véhicule",
+     "едем"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "taxi",
+     "такси"
+    ]
+   ],
+   "note": "Pour proposer d'y aller ensemble à pied, on dit simplement « idyóm ». Mot à mot, allons.",
+   "say": {
+    "idyóm": "Идём"
+   }
+  }
+ ],
+ "0-1-10": [
+  {
+   "words": [
+    [
+     "Ermitage",
+     "Эрмитаж"
+    ],
+    [
+     "très",
+     "очень"
+    ],
+    [
+     "grand",
+     "большой"
+    ]
+   ],
+   "note": "Ermitage se dit « Ermitásh ». C'est un des plus grands musées du monde.",
+   "say": {
+    "Ermitásh": "Эрмитаж"
+   }
+  },
+  {
+   "words": [
+    [
+     "un",
+     "Один"
+    ],
+    [
+     "adulte",
+     "взрослый"
+    ],
+    [
+     "billet",
+     "билет"
+    ],
+    [
+     "dans",
+     "в"
+    ],
+    [
+     "Ermitage",
+     "Эрмитаж"
+    ],
+    [
+     "s'il vous plaît",
+     "пожалуйста"
+    ]
+   ],
+   "note": "Adulte se dit « vzróslyy ». Il se place avant billet, comme un adjectif.",
+   "say": {
+    "vzróslyy": "взрослый"
+   }
+  },
+  {
+   "words": [
+    [
+     "pour",
+     "Для"
+    ],
+    [
+     "étudiants",
+     "студентов"
+    ],
+    [
+     "il y a",
+     "есть"
+    ],
+    [
+     "réduction",
+     "скидка"
+    ]
+   ],
+   "note": "Réduction se dit « skítka ». La question commence par pour les étudiants.",
+   "say": {
+    "skítka": "скидка"
+   }
+  },
+  {
+   "words": [
+    [
+     "où",
+     "Где"
+    ],
+    [
+     "vestiaire",
+     "гардероб"
+    ]
+   ],
+   "note": "Vestiaire se dit « garderóp ». En Russie, on y laisse toujours son manteau.",
+   "say": {
+    "garderóp": "гардероб"
+   }
+  },
+  {
+   "words": [
+    [
+     "manteau",
+     "Пальто"
+    ],
+    [
+     "il faut",
+     "нужно"
+    ],
+    [
+     "remettre",
+     "сдать"
+    ],
+    [
+     "dans",
+     "в"
+    ],
+    [
+     "vestiaire",
+     "гардероб"
+    ]
+   ],
+   "note": "Il faut se dit « núzhna ». Mot à mot, le manteau il faut remettre au vestiaire.",
+   "say": {
+    "núzhna": "нужно"
+   }
+  },
+  {
+   "words": [
+    [
+     "tableaux",
+     "Картины"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "deuxième",
+     "втором"
+    ],
+    [
+     "étage",
+     "этаже"
+    ]
+   ],
+   "note": "Deuxième se dit « ftaróm ». Mot à mot, sur le deuxième étage.",
+   "say": {
+    "ftaróm": "втором"
+   }
+  },
+  {
+   "words": [
+    [
+     "cette",
+     "Эта"
+    ],
+    [
+     "tableau",
+     "картина"
+    ],
+    [
+     "magnifique",
+     "прекрасна"
+    ]
+   ],
+   "note": "Magnifique se dit « prekrásna ». Ici, c'est la forme courte de l'adjectif.",
+   "say": {
+    "prekrásna": "прекрасна"
+   }
+  },
+  {
+   "words": [
+    [
+     "dans",
+     "В"
+    ],
+    [
+     "musée",
+     "музее"
+    ],
+    [
+     "il y a",
+     "есть"
+    ],
+    [
+     "café",
+     "кафе"
+    ]
+   ],
+   "note": "Il y a se dit « yest' ». Mot à mot, dans le musée il y a un café.",
+   "say": {
+    "yest'": "есть"
+   }
+  },
+  {
+   "words": [
+    [
+     "dans",
+     "В"
+    ],
+    [
+     "Ermitage",
+     "Эрмитаже"
+    ],
+    [
+     "vivre",
+     "живут"
+    ],
+    [
+     "chats",
+     "коты"
+    ],
+    [
+     "c'est",
+     "это"
+    ],
+    [
+     "vrai",
+     "правда"
+    ]
+   ],
+   "note": "C'est vrai se dit « éta právda ». Mot à mot, c'est la vérité.",
+   "say": {
+    "éta právda": "это правда"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "Да"
+    ],
+    [
+     "ils",
+     "они"
+    ],
+    [
+     "garder",
+     "охраняют"
+    ],
+    [
+     "musée",
+     "музей"
+    ]
+   ],
+   "note": "Garder se dit ici « akhranyáyut ». Les chats protègent les tableaux des souris.",
+   "say": {
+    "akhranyáyut": "охраняют"
+   }
+  }
+ ],
+ "0-1-11": [
+  {
+   "words": [
+    [
+     "excuser",
+     "Извините"
+    ],
+    [
+     "où",
+     "где"
+    ],
+    [
+     "russe",
+     "Русский"
+    ],
+    [
+     "musée",
+     "музей"
+    ]
+   ],
+   "note": "Russe, comme adjectif, se dit « Rússkiy ». Il se place avant musée.",
+   "say": {
+    "Rússkiy": "Русский"
+   }
+  },
+  {
+   "words": [
+    [
+     "aller",
+     "Идите"
+    ],
+    [
+     "tout droit",
+     "прямо"
+    ],
+    [
+     "puis",
+     "потом"
+    ],
+    [
+     "à gauche",
+     "налево"
+    ]
+   ],
+   "note": "Allez se dit « idíte ». C'est l'ordre poli pour indiquer le chemin.",
+   "say": {
+    "idíte": "Идите"
+   }
+  },
+  {
+   "words": [
+    [
+     "c'est",
+     "Это"
+    ],
+    [
+     "à droite",
+     "направо"
+    ],
+    [
+     "après",
+     "после"
+    ],
+    [
+     "pont",
+     "моста"
+    ]
+   ],
+   "note": "À droite se dit « napráva ». Le mot après se place devant pont, comme en français.",
+   "say": {
+    "napráva": "направо"
+   }
+  },
+  {
+   "words": [
+    [
+     "gare",
+     "Вокзал"
+    ],
+    [
+     "à gauche",
+     "налево"
+    ],
+    [
+     "ou",
+     "или"
+    ],
+    [
+     "à droite",
+     "направо"
+    ]
+   ],
+   "note": "À gauche se dit « naléva ». Gauche et droite commencent tous les deux par le même son.",
+   "say": {
+    "naléva": "налево"
+   }
+  },
+  {
+   "words": [
+    [
+     "tout droit",
+     "Прямо"
+    ],
+    [
+     "puis",
+     "потом"
+    ],
+    [
+     "deuxième",
+     "вторая"
+    ],
+    [
+     "rue",
+     "улица"
+    ],
+    [
+     "à droite",
+     "направо"
+    ]
+   ],
+   "note": "Tout droit se dit « pryáma ». Le mot veut aussi dire directement.",
+   "say": {
+    "pryáma": "Прямо"
+   }
+  },
+  {
+   "words": [
+    [
+     "sur",
+     "На"
+    ],
+    [
+     "feu",
+     "светофоре"
+    ],
+    [
+     "à gauche",
+     "налево"
+    ]
+   ],
+   "note": "Au feu se dit « na svetafóre ». Le verbe tourner est sous-entendu.",
+   "say": {
+    "na svetafóre": "На светофоре"
+   }
+  },
+  {
+   "words": [
+    [
+     "pharmacie",
+     "Аптека"
+    ],
+    [
+     "tout droit",
+     "прямо"
+    ],
+    [
+     "dans",
+     "через"
+    ],
+    [
+     "cent",
+     "сто"
+    ],
+    [
+     "mètres",
+     "метров"
+    ]
+   ],
+   "note": "Dans cent mètres se dit « chéres sto métraf ». Mot à mot, à travers cent mètres.",
+   "say": {
+    "chéres sto métraf": "через сто метров"
+   }
+  },
+  {
+   "words": [
+    [
+     "ne pas",
+     "Не"
+    ],
+    [
+     "comprendre",
+     "понимаю"
+    ],
+    [
+     "à gauche",
+     "налево"
+    ]
+   ],
+   "note": "Je ne comprends pas se dit « ne panimáyu ». On peut laisser tomber je.",
+   "say": {
+    "ne panimáyu": "Не понимаю"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "Нет"
+    ],
+    [
+     "ne pas",
+     "не"
+    ],
+    [
+     "à gauche",
+     "налево"
+    ],
+    [
+     "mais",
+     "а"
+    ],
+    [
+     "à droite",
+     "направо"
+    ]
+   ],
+   "note": "Pour corriger, on dit « a ». Mot à mot, pas à gauche, mais à droite.",
+   "say": {
+    "a": "а"
+   }
+  },
+  {
+   "words": [
+    [
+     "ah",
+     "Ага"
+    ],
+    [
+     "merci",
+     "спасибо"
+    ],
+    [
+     "maintenant",
+     "теперь"
+    ],
+    [
+     "compréhensible",
+     "понятно"
+    ]
+   ],
+   "note": "C'est clair se dit « panyátna ». Mot à mot, c'est compréhensible.",
+   "say": {
+    "panyátna": "понятно"
+   }
+  }
+ ],
+ "0-1-12": [
+  {
+   "words": [
+    [
+     "bonjour",
+     "Здравствуйте"
+    ],
+    [
+     "voici",
+     "вот"
+    ],
+    [
+     "selon",
+     "по"
+    ],
+    [
+     "cette",
+     "этому"
+    ],
+    [
+     "adresse",
+     "адресу"
+    ],
+    [
+     "s'il vous plaît",
+     "пожалуйста"
+    ]
+   ],
+   "note": "Adresse se dit « ádresu ». Mot à mot, voici, selon cette adresse.",
+   "say": {
+    "ádresu": "адресу"
+   }
+  },
+  {
+   "words": [
+    [
+     "combien",
+     "Сколько"
+    ],
+    [
+     "rouler",
+     "ехать"
+    ]
+   ],
+   "note": "Pour demander la durée, on dit « skól'ka yékhat' ». Mot à mot, combien rouler.",
+   "say": {
+    "skól'ka yékhat'": "Сколько ехать"
+   }
+  },
+  {
+   "words": [
+    [
+     "minutes",
+     "Минут"
+    ],
+    [
+     "vingt",
+     "двадцать"
+    ]
+   ],
+   "note": "Environ vingt minutes se dit « minút dvátsat' ». En inversant les mots, on dit environ.",
+   "say": {
+    "minút dvátsat'": "Минут двадцать"
+   }
+  },
+  {
+   "words": [
+    [
+     "aujourd'hui",
+     "Сегодня"
+    ],
+    [
+     "le soir",
+     "вечером"
+    ],
+    [
+     "gros",
+     "большие"
+    ],
+    [
+     "bouchons",
+     "пробки"
+    ]
+   ],
+   "note": "Bouchons se dit « própki ». C'est le même mot que bouchon de bouteille.",
+   "say": {
+    "própki": "пробки"
+   }
+  },
+  {
+   "words": [
+    [
+     "on peut",
+     "Можно"
+    ],
+    [
+     "valise",
+     "чемодан"
+    ],
+    [
+     "dans",
+     "в"
+    ],
+    [
+     "coffre",
+     "багажник"
+    ]
+   ],
+   "note": "Coffre se dit « bagázhnik ». Le mot vient de bagage.",
+   "say": {
+    "bagázhnik": "багажник"
+   }
+  },
+  {
+   "words": [
+    [
+     "on peut",
+     "Можно"
+    ],
+    [
+     "plus lentement",
+     "помедленнее"
+    ]
+   ],
+   "note": "Pour une demande polie, on dit « mózhna ». Ici, le verbe rouler est sous-entendu.",
+   "say": {
+    "mózhna": "Можно"
+   }
+  },
+  {
+   "words": [
+    [
+     "arrêter",
+     "Остановите"
+    ],
+    [
+     "ici",
+     "здесь"
+    ],
+    [
+     "s'il vous plaît",
+     "пожалуйста"
+    ]
+   ],
+   "note": "Arrêtez se dit « astanavíte ». C'est la phrase à dire au chauffeur.",
+   "say": {
+    "astanavíte": "Остановите"
+   }
+  },
+  {
+   "words": [
+    [
+     "combien",
+     "Сколько"
+    ],
+    [
+     "de",
+     "с"
+    ],
+    [
+     "moi",
+     "меня"
+    ],
+    [
+     "pour",
+     "за"
+    ],
+    [
+     "trajet",
+     "поездку"
+    ]
+   ],
+   "note": "Combien je vous dois se dit « skól'ka s menyá ». Mot à mot, combien de moi.",
+   "say": {
+    "skól'ka s menyá": "Сколько с меня"
+   }
+  },
+  {
+   "words": [
+    [
+     "quatre cents",
+     "Четыреста"
+    ],
+    [
+     "roubles",
+     "рублей"
+    ]
+   ],
+   "note": "Quatre cents se dit « chetýresta ». C'est quatre et cent collés en un mot.",
+   "say": {
+    "chetýresta": "Четыреста"
+   }
+  },
+  {
+   "words": [
+    [
+     "voici",
+     "Вот"
+    ],
+    [
+     "monnaie",
+     "сдачи"
+    ],
+    [
+     "ne pas",
+     "не"
+    ],
+    [
+     "il faut",
+     "надо"
+    ]
+   ],
+   "note": "La monnaie rendue se dit « zdáchi ». Mot à mot, de monnaie pas besoin.",
+   "say": {
+    "zdáchi": "сдачи"
+   }
+  }
+ ],
+ "0-1-13": [
+  {
+   "words": [
+    [
+     "vous",
+     "Вы"
+    ],
+    [
+     "savoir",
+     "умеете"
+    ],
+    [
+     "faire",
+     "делать"
+    ],
+    [
+     "pelmeni",
+     "пельмени"
+    ]
+   ],
+   "note": "Avec vous, savoir faire se dit « uméyete ». C'est un savoir-faire appris.",
+   "say": {
+    "uméyete": "умеете"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "Нет"
+    ],
+    [
+     "je",
+     "я"
+    ],
+    [
+     "ne pas",
+     "не"
+    ],
+    [
+     "savoir",
+     "умею"
+    ],
+    [
+     "cuisiner",
+     "готовить"
+    ]
+   ],
+   "note": "Cuisiner se dit « gatóvit' ». Le même verbe veut aussi dire préparer.",
+   "say": {
+    "gatóvit'": "готовить"
+   }
+  },
+  {
+   "words": [
+    [
+     "rien",
+     "Ничего"
+    ],
+    [
+     "je",
+     "я"
+    ],
+    [
+     "pouvoir",
+     "могу"
+    ],
+    [
+     "montrer",
+     "показать"
+    ]
+   ],
+   "note": "Je peux se dit « magú ». C'est pouvoir, avoir la possibilité de faire.",
+   "say": {
+    "magú": "могу"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "Я"
+    ],
+    [
+     "pouvoir",
+     "могу"
+    ],
+    [
+     "couper",
+     "порезать"
+    ],
+    [
+     "viande",
+     "мясо"
+    ]
+   ],
+   "note": "Couper se dit « parézat' ». La question se fait juste avec la voix.",
+   "say": {
+    "parézat'": "порезать"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "Да"
+    ],
+    [
+     "et",
+     "а"
+    ],
+    [
+     "votre",
+     "ваша"
+    ],
+    [
+     "femme",
+     "жена"
+    ],
+    [
+     "pouvoir",
+     "может"
+    ],
+    [
+     "faire",
+     "сделать"
+    ],
+    [
+     "pâte",
+     "тесто"
+    ]
+   ],
+   "note": "Elle peut se dit « mózhet ». Le verbe pouvoir change beaucoup selon la personne.",
+   "say": {
+    "mózhet": "может"
+   }
+  },
+  {
+   "words": [
+    [
+     "ma",
+     "Моя"
+    ],
+    [
+     "femme",
+     "жена"
+    ],
+    [
+     "savoir",
+     "умеет"
+    ],
+    [
+     "délicieusement",
+     "вкусно"
+    ],
+    [
+     "cuisiner",
+     "готовить"
+    ]
+   ],
+   "note": "Ici, très bien se dit « fkúsna ». Mot à mot, ma femme sait cuisiner délicieusement.",
+   "say": {
+    "fkúsna": "вкусно"
+   }
+  },
+  {
+   "words": [
+    [
+     "mon",
+     "Мой"
+    ],
+    [
+     "fils",
+     "сын"
+    ],
+    [
+     "savoir",
+     "умеет"
+    ],
+    [
+     "compter",
+     "считать"
+    ],
+    [
+     "en russe",
+     "по-русски"
+    ]
+   ],
+   "note": "Compter se dit « shchitát' ». Il sait se dit avec le verbe du savoir-faire.",
+   "say": {
+    "shchitát'": "считать"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "Я"
+    ],
+    [
+     "ne pas",
+     "не"
+    ],
+    [
+     "pouvoir",
+     "могу"
+    ],
+    [
+     "chez",
+     "у"
+    ],
+    [
+     "moi",
+     "меня"
+    ],
+    [
+     "sales",
+     "грязные"
+    ],
+    [
+     "mains",
+     "руки"
+    ]
+   ],
+   "note": "Mains se dit « rúki ». Mot à mot, chez moi sales mains.",
+   "say": {
+    "rúki": "руки"
+   }
+  },
+  {
+   "words": [
+    [
+     "quand",
+     "Когда"
+    ],
+    [
+     "les",
+     "их"
+    ],
+    [
+     "on peut",
+     "можно"
+    ],
+    [
+     "manger",
+     "есть"
+    ]
+   ],
+   "note": "Manger se dit « yest' ». Attention, c'est le même son que il y a.",
+   "say": {
+    "yest'": "есть"
+   }
+  },
+  {
+   "words": [
+    [
+     "dans",
+     "Через"
+    ],
+    [
+     "dix",
+     "десять"
+    ],
+    [
+     "minutes",
+     "минут"
+    ],
+    [
+     "avec",
+     "со"
+    ],
+    [
+     "crème aigre",
+     "сметаной"
+    ]
+   ],
+   "note": "Avec de la crème aigre se dit « sa smetánay ». Les pelmeni se mangent souvent ainsi.",
+   "say": {
+    "sa smetánay": "со сметаной"
+   }
+  }
+ ],
+ "0-1-14": [
+  {
+   "words": [
+    [
+     "bon",
+     "Добрый"
+    ],
+    [
+     "soir",
+     "вечер"
+    ],
+    [
+     "petite table",
+     "столик"
+    ],
+    [
+     "pour",
+     "на"
+    ],
+    [
+     "deux",
+     "двоих"
+    ],
+    [
+     "près",
+     "у"
+    ],
+    [
+     "fenêtre",
+     "окна"
+    ]
+   ],
+   "note": "Pour deux personnes se dit « na dvaíkh ». C'est une forme spéciale pour un groupe.",
+   "say": {
+    "na dvaíkh": "на двоих"
+   }
+  },
+  {
+   "words": [
+    [
+     "voici",
+     "Вот"
+    ],
+    [
+     "menu",
+     "меню"
+    ],
+    [
+     "en",
+     "на"
+    ],
+    [
+     "russe",
+     "русском"
+    ],
+    [
+     "et",
+     "и"
+    ],
+    [
+     "français",
+     "французском"
+    ]
+   ],
+   "note": "Carte se dit « menyú ». Le mot ne change jamais de forme.",
+   "say": {
+    "menyú": "меню"
+   }
+  },
+  {
+   "words": [
+    [
+     "à moi",
+     "Мне"
+    ],
+    [
+     "bortsch",
+     "борщ"
+    ],
+    [
+     "s'il vous plaît",
+     "пожалуйста"
+    ]
+   ],
+   "note": "Bortsch se dit « borshch ». On le prononce en une seule syllabe.",
+   "say": {
+    "borshch": "борщ"
+   }
+  },
+  {
+   "words": [
+    [
+     "bortsch",
+     "Борщ"
+    ],
+    [
+     "on sert",
+     "подают"
+    ],
+    [
+     "avec",
+     "с"
+    ],
+    [
+     "noir",
+     "чёрным"
+    ],
+    [
+     "pain",
+     "хлебом"
+    ]
+   ],
+   "note": "On sert se dit « padayút ». Le verbe sans sujet veut dire on.",
+   "say": {
+    "padayút": "подают"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "А"
+    ],
+    [
+     "à moi",
+     "мне"
+    ],
+    [
+     "pelmeni",
+     "пельмени"
+    ]
+   ],
+   "note": "Pelmeni se dit « pel'méni ». Ce sont des raviolis à la viande.",
+   "say": {
+    "pel'méni": "пельмени"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "А"
+    ],
+    [
+     "quoi",
+     "что"
+    ],
+    [
+     "être",
+     "будете"
+    ],
+    [
+     "boire",
+     "пить"
+    ]
+   ],
+   "note": "Boire se dit « pit' ». Mot à mot, et quoi serez-vous boire.",
+   "say": {
+    "pit'": "пить"
+   }
+  },
+  {
+   "words": [
+    [
+     "froid",
+     "Холодный"
+    ],
+    [
+     "kvas",
+     "квас"
+    ],
+    [
+     "s'il vous plaît",
+     "пожалуйста"
+    ]
+   ],
+   "note": "Le kvas est une boisson de pain fermenté. Bien frais se dit ici froid, « khalódnyy ».",
+   "say": {
+    "khalódnyy": "Холодный"
+   }
+  },
+  {
+   "words": [
+    [
+     "bortsch",
+     "Борщ"
+    ],
+    [
+     "très",
+     "очень"
+    ],
+    [
+     "délicieux",
+     "вкусный"
+    ]
+   ],
+   "note": "Délicieux se dit « fkúsnyy ». C'est le compliment idéal pour le cuisinier.",
+   "say": {
+    "fkúsnyy": "вкусный"
+   }
+  },
+  {
+   "words": [
+    [
+     "on peut",
+     "Можно"
+    ],
+    [
+     "addition",
+     "счёт"
+    ],
+    [
+     "et",
+     "и"
+    ],
+    [
+     "encore",
+     "ещё"
+    ],
+    [
+     "thé",
+     "чай"
+    ]
+   ],
+   "note": "L'addition se dit « shchot ». Pour la demander, on dit juste je peux l'addition.",
+   "say": {
+    "shchot": "счёт"
+   }
+  },
+  {
+   "words": [
+    [
+     "merci",
+     "Спасибо"
+    ],
+    [
+     "tout",
+     "всё"
+    ],
+    [
+     "être",
+     "было"
+    ],
+    [
+     "très",
+     "очень"
+    ],
+    [
+     "bon",
+     "вкусно"
+    ]
+   ],
+   "note": "Tout était se dit « fsyo býla ». Le verbe être revient au passé.",
+   "say": {
+    "fsyo býla": "всё было"
+   }
+  }
+ ],
+ "0-1-15": [
+  {
+   "words": [
+    [
+     "je",
+     "Я"
+    ],
+    [
+     "aller en véhicule",
+     "еду"
+    ],
+    [
+     "dans",
+     "в"
+    ],
+    [
+     "musée",
+     "музей"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "métro",
+     "метро"
+    ]
+   ],
+   "note": "En métro se dit « na metró ». Avec les transports, on dit sur.",
+   "say": {
+    "na metró": "на метро"
+   }
+  },
+  {
+   "words": [
+    [
+     "métro",
+     "Метро"
+    ],
+    [
+     "à",
+     "в"
+    ],
+    [
+     "Pétersbourg",
+     "Петербурге"
+    ],
+    [
+     "très",
+     "очень"
+    ],
+    [
+     "profond",
+     "глубокое"
+    ]
+   ],
+   "note": "Profond se dit « glubókaye ». Le métro est neutre, d'où cette fin.",
+   "say": {
+    "glubókaye": "глубокое"
+   }
+  },
+  {
+   "words": [
+    [
+     "escalator",
+     "Эскалатор"
+    ],
+    [
+     "si",
+     "такой"
+    ],
+    [
+     "long",
+     "длинный"
+    ]
+   ],
+   "note": "Si long se dit « takóy dlínnyy ». Mot à mot, tel long.",
+   "say": {
+    "takóy dlínnyy": "такой длинный"
+   }
+  },
+  {
+   "words": [
+    [
+     "où",
+     "Где"
+    ],
+    [
+     "on peut",
+     "можно"
+    ],
+    [
+     "acheter",
+     "купить"
+    ],
+    [
+     "carte de transport",
+     "проездной"
+    ]
+   ],
+   "note": "Carte de transport se dit « prayezdnóy ». C'est un adjectif employé comme nom.",
+   "say": {
+    "prayezdnóy": "проездной"
+   }
+  },
+  {
+   "words": [
+    [
+     "puis",
+     "Потом"
+    ],
+    [
+     "je",
+     "я"
+    ],
+    [
+     "aller en véhicule",
+     "еду"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "bus",
+     "автобусе"
+    ]
+   ],
+   "note": "Ensuite se dit « patóm ». Avec un bus, on dit sur le bus.",
+   "say": {
+    "patóm": "Потом"
+   }
+  },
+  {
+   "words": [
+    [
+     "vous",
+     "Вы"
+    ],
+    [
+     "aller en véhicule",
+     "едете"
+    ],
+    [
+     "dans",
+     "в"
+    ],
+    [
+     "hôtel",
+     "гостиницу"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "tram",
+     "трамвае"
+    ]
+   ],
+   "note": "En tram se dit « na tramváye ». Mot à mot, sur le tram.",
+   "say": {
+    "na tramváye": "на трамвае"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "Нет"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "taxi",
+     "такси"
+    ],
+    [
+     "ainsi",
+     "так"
+    ],
+    [
+     "plus simple",
+     "проще"
+    ]
+   ],
+   "note": "Plus simple se dit « próshche ». Mot à mot, ainsi c'est plus simple.",
+   "say": {
+    "próshche": "проще"
+   }
+  },
+  {
+   "words": [
+    [
+     "demain",
+     "Завтра"
+    ],
+    [
+     "nous",
+     "мы"
+    ],
+    [
+     "aller en véhicule",
+     "едем"
+    ],
+    [
+     "à",
+     "в"
+    ],
+    [
+     "Moscou",
+     "Москву"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "train",
+     "поезде"
+    ]
+   ],
+   "note": "Vers Moscou se dit « v Maskvú ». Avec un mouvement, le nom finit par ou.",
+   "say": {
+    "v Maskvú": "в Москву"
+   }
+  },
+  {
+   "words": [
+    [
+     "rouler",
+     "Ехать"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "de nuit",
+     "ночном"
+    ],
+    [
+     "train",
+     "поезде"
+    ],
+    [
+     "très",
+     "очень"
+    ],
+    [
+     "pratique",
+     "удобно"
+    ]
+   ],
+   "note": "Train de nuit se dit « nachnóm póyezde ». La nuit devient un adjectif placé avant.",
+   "say": {
+    "nachnóm póyezde": "ночном поезде"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "А"
+    ],
+    [
+     "à",
+     "в"
+    ],
+    [
+     "Moscou",
+     "Москве"
+    ],
+    [
+     "on peut",
+     "можно"
+    ],
+    [
+     "circuler",
+     "ездить"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "vélo",
+     "велосипеде"
+    ]
+   ],
+   "note": "À vélo se dit « na velasipéde ». Mot à mot, sur le vélo.",
+   "say": {
+    "na velasipéde": "на велосипеде"
+   }
+  }
+ ],
+ "0-1-16": [
+  {
+   "words": [
+    [
+     "à moi",
+     "Мне"
+    ],
+    [
+     "billet",
+     "билет"
+    ],
+    [
+     "jusqu'à",
+     "до"
+    ],
+    [
+     "Moscou",
+     "Москвы"
+    ]
+   ],
+   "note": "Pour Moscou se dit « da Maskvý ». Mot à mot, jusqu'à Moscou.",
+   "say": {
+    "da Maskvý": "до Москвы"
+   }
+  },
+  {
+   "words": [
+    [
+     "pour",
+     "На"
+    ],
+    [
+     "quelle",
+     "какое"
+    ],
+    [
+     "date",
+     "число"
+    ]
+   ],
+   "note": "Date se dit « chisló ». Le même mot veut aussi dire nombre.",
+   "say": {
+    "chisló": "число"
+   }
+  },
+  {
+   "words": [
+    [
+     "pour",
+     "На"
+    ],
+    [
+     "vendredi",
+     "пятницу"
+    ],
+    [
+     "pour",
+     "на"
+    ],
+    [
+     "de nuit",
+     "ночной"
+    ],
+    [
+     "train",
+     "поезд"
+    ]
+   ],
+   "note": "Vendredi se dit « pyátnitsu ». Le mot vient de cinq, le cinquième jour.",
+   "say": {
+    "pyátnitsu": "пятницу"
+   }
+  },
+  {
+   "words": [
+    [
+     "il y a",
+     "Есть"
+    ],
+    [
+     "places",
+     "места"
+    ],
+    [
+     "dans",
+     "в"
+    ],
+    [
+     "compartiment",
+     "купе"
+    ]
+   ],
+   "note": "Compartiment se dit « kupé ». C'est un mot venu du français.",
+   "say": {
+    "kupé": "купе"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "Да"
+    ],
+    [
+     "rester",
+     "осталось"
+    ],
+    [
+     "deux",
+     "два"
+    ],
+    [
+     "places",
+     "места"
+    ]
+   ],
+   "note": "Il reste se dit « astálas' ». Mot à mot, il est resté deux places.",
+   "say": {
+    "astálas'": "осталось"
+   }
+  },
+  {
+   "words": [
+    [
+     "du haut",
+     "Верхняя"
+    ],
+    [
+     "ou",
+     "или"
+    ],
+    [
+     "du bas",
+     "нижняя"
+    ],
+    [
+     "couchette",
+     "полка"
+    ]
+   ],
+   "note": "Couchette se dit « pólka ». Le même mot veut aussi dire étagère.",
+   "say": {
+    "pólka": "полка"
+   }
+  },
+  {
+   "words": [
+    [
+     "du bas",
+     "Нижнюю"
+    ],
+    [
+     "s'il vous plaît",
+     "пожалуйста"
+    ]
+   ],
+   "note": "Celle du bas se dit « nízhnyuyu ». Le mot couchette est sous-entendu.",
+   "say": {
+    "nízhnyuyu": "Нижнюю"
+   }
+  },
+  {
+   "words": [
+    [
+     "billet",
+     "Билет"
+    ],
+    [
+     "coûter",
+     "стоит"
+    ],
+    [
+     "quatre",
+     "четыре"
+    ],
+    [
+     "mille",
+     "тысячи"
+    ],
+    [
+     "roubles",
+     "рублей"
+    ]
+   ],
+   "note": "Quatre mille se dit « chetýre týsyachi ». Après quatre, mille prend la même forme qu'après deux.",
+   "say": {
+    "chetýre týsyachi": "четыре тысячи"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "А"
+    ],
+    [
+     "à",
+     "во"
+    ],
+    [
+     "combien",
+     "сколько"
+    ],
+    [
+     "exactement",
+     "точно"
+    ],
+    [
+     "partir",
+     "отправляется"
+    ],
+    [
+     "train",
+     "поезд"
+    ]
+   ],
+   "note": "Exactement se dit « tóchna ». Il se place juste avant le verbe partir.",
+   "say": {
+    "tóchna": "точно"
+   }
+  },
+  {
+   "words": [
+    [
+     "à",
+     "В"
+    ],
+    [
+     "vingt",
+     "двадцать"
+    ],
+    [
+     "trois",
+     "три"
+    ],
+    [
+     "dix",
+     "десять"
+    ]
+   ],
+   "note": "Les horaires de train se disent sur vingt-quatre heures. Vingt-trois se dit « dvátsat' tri ».",
+   "say": {
+    "dvátsat' tri": "двадцать три"
+   }
+  }
+ ],
+ "0-1-17": [
+  {
+   "words": [
+    [
+     "Peterhof",
+     "Петергоф"
+    ],
+    [
+     "loin",
+     "далеко"
+    ],
+    [
+     "d'ici",
+     "отсюда"
+    ]
+   ],
+   "note": "Loin se dit « dalekó ». Mot à mot, Peterhof loin d'ici.",
+   "say": {
+    "dalekó": "далеко"
+   }
+  },
+  {
+   "words": [
+    [
+     "non",
+     "Нет"
+    ],
+    [
+     "assez",
+     "довольно"
+    ],
+    [
+     "près",
+     "близко"
+    ],
+    [
+     "heure",
+     "час"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "bateau",
+     "катере"
+    ]
+   ],
+   "note": "Assez près se dit « davól'na blízka ». Mot à mot, suffisamment près.",
+   "say": {
+    "davól'na blízka": "довольно близко"
+   }
+  },
+  {
+   "words": [
+    [
+     "palais",
+     "Дворец"
+    ],
+    [
+     "près",
+     "близко"
+    ],
+    [
+     "de",
+     "от"
+    ],
+    [
+     "embarcadère",
+     "пристани"
+    ]
+   ],
+   "note": "Palais se dit « dvaréts ». Près de se dit près depuis.",
+   "say": {
+    "dvaréts": "Дворец"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "Да"
+    ],
+    [
+     "tout à fait",
+     "совсем"
+    ],
+    [
+     "près",
+     "близко"
+    ],
+    [
+     "cinq",
+     "пять"
+    ],
+    [
+     "minutes",
+     "минут"
+    ]
+   ],
+   "note": "Tout près se dit « safsém blízka ». Mot à mot, tout à fait près.",
+   "say": {
+    "safsém blízka": "совсем близко"
+   }
+  },
+  {
+   "words": [
+    [
+     "fontaines",
+     "Фонтаны"
+    ],
+    [
+     "simplement",
+     "просто"
+    ],
+    [
+     "merveilleuses",
+     "чудесные"
+    ]
+   ],
+   "note": "Merveilleux se dit « chudésnyye ». Le mot vient de miracle.",
+   "say": {
+    "chudésnyye": "чудесные"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "А"
+    ],
+    [
+     "ville",
+     "город"
+    ],
+    [
+     "Pouchkine",
+     "Пушкин"
+    ],
+    [
+     "loin",
+     "далеко"
+    ]
+   ],
+   "note": "Ville se dit « górat ». Pouchkine est le nom d'une ville près de Pétersbourg.",
+   "say": {
+    "górat": "город"
+   }
+  },
+  {
+   "words": [
+    [
+     "assez",
+     "Довольно"
+    ],
+    [
+     "loin",
+     "далеко"
+    ],
+    [
+     "il faut",
+     "надо"
+    ],
+    [
+     "rouler",
+     "ехать"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "bus",
+     "автобусе"
+    ]
+   ],
+   "note": "Il faut se dit « náda ». C'est très courant et ne change jamais.",
+   "say": {
+    "náda": "надо"
+   }
+  },
+  {
+   "words": [
+    [
+     "métro",
+     "Метро"
+    ],
+    [
+     "près",
+     "близко"
+    ],
+    [
+     "de",
+     "от"
+    ],
+    [
+     "hôtel",
+     "гостиницы"
+    ]
+   ],
+   "note": "Près de l'hôtel se dit « blízka at gastínitsy ». Mot à mot, près depuis l'hôtel.",
+   "say": {
+    "blízka at gastínitsy": "близко от гостиницы"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "Да"
+    ],
+    [
+     "station",
+     "станция"
+    ],
+    [
+     "tout à fait",
+     "совсем"
+    ],
+    [
+     "à côté",
+     "рядом"
+    ]
+   ],
+   "note": "Station se dit « stántsiya ». Mot à mot, la station tout à fait à côté.",
+   "say": {
+    "stántsiya": "станция"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "А"
+    ],
+    [
+     "voici",
+     "вот"
+    ],
+    [
+     "Moscou",
+     "Москва"
+    ],
+    [
+     "très",
+     "очень"
+    ],
+    [
+     "loin",
+     "далеко"
+    ]
+   ],
+   "note": "Pour opposer, on dit « a vot ». Mot à mot, et voici Moscou très loin.",
+   "say": {
+    "a vot": "А вот"
+   }
+  }
+ ],
+ "0-1-18": [
+  {
+   "words": [
+    [
+     "notre",
+     "Наш"
+    ],
+    [
+     "train",
+     "поезд"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "cinquième",
+     "пятом"
+    ],
+    [
+     "voie",
+     "пути"
+    ]
+   ],
+   "note": "Voie se dit « putí ». Pour un quai de gare, on dit sur la voie.",
+   "say": {
+    "putí": "пути"
+   }
+  },
+  {
+   "words": [
+    [
+     "voici",
+     "Вот"
+    ],
+    [
+     "notre",
+     "наш"
+    ],
+    [
+     "wagon",
+     "вагон"
+    ],
+    [
+     "septième",
+     "седьмой"
+    ]
+   ],
+   "note": "Septième se dit « sed'móy ». Le wagon se désigne par son numéro.",
+   "say": {
+    "sed'móy": "седьмой"
+   }
+  },
+  {
+   "words": [
+    [
+     "hôtesse de wagon",
+     "Проводница"
+    ],
+    [
+     "vérifier",
+     "проверяет"
+    ],
+    [
+     "billets",
+     "билеты"
+    ]
+   ],
+   "note": "L'hôtesse du wagon se dit « pravadnítsa ». Elle sert aussi le thé pendant le voyage.",
+   "say": {
+    "pravadnítsa": "Проводница"
+   }
+  },
+  {
+   "words": [
+    [
+     "compartiment",
+     "Купе"
+    ],
+    [
+     "petit",
+     "маленькое"
+    ],
+    [
+     "mais",
+     "но"
+    ],
+    [
+     "douillet",
+     "уютное"
+    ]
+   ],
+   "note": "Petit se dit ici « málen'kaye ». C'est la forme neutre, comme compartiment.",
+   "say": {
+    "málen'kaye": "маленькое"
+   }
+  },
+  {
+   "words": [
+    [
+     "dans",
+     "В"
+    ],
+    [
+     "train",
+     "поезде"
+    ],
+    [
+     "il y a",
+     "есть"
+    ],
+    [
+     "thé",
+     "чай"
+    ]
+   ],
+   "note": "Dans le train se dit « v póyezde ». Le thé y est une vraie tradition.",
+   "say": {
+    "v póyezde": "В поезде"
+   }
+  },
+  {
+   "words": [
+    [
+     "oui",
+     "Да"
+    ],
+    [
+     "thé",
+     "чай"
+    ],
+    [
+     "on sert",
+     "подают"
+    ],
+    [
+     "dans",
+     "в"
+    ],
+    [
+     "porte-verre",
+     "подстаканнике"
+    ]
+   ],
+   "note": "Dans un porte-verre se dit « v patstakánnike ». C'est un support de métal autour du verre, typique des trains.",
+   "say": {
+    "v patstakánnike": "в подстаканнике"
+   }
+  },
+  {
+   "words": [
+    [
+     "linge",
+     "Бельё"
+    ],
+    [
+     "déjà",
+     "уже"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "couchette",
+     "полке"
+    ]
+   ],
+   "note": "Les draps se disent « bel'yó ». C'est un mot pour tout le linge.",
+   "say": {
+    "bel'yó": "Бельё"
+   }
+  },
+  {
+   "words": [
+    [
+     "à tous",
+     "Всем"
+    ],
+    [
+     "calme",
+     "спокойной"
+    ],
+    [
+     "nuit",
+     "ночи"
+    ],
+    [
+     "jusqu'à",
+     "до"
+    ],
+    [
+     "matin",
+     "утра"
+    ]
+   ],
+   "note": "Bonne nuit se dit « spakóynay nóchi ». Mot à mot, une nuit calme.",
+   "say": {
+    "spakóynay nóchi": "спокойной ночи"
+   }
+  },
+  {
+   "words": [
+    [
+     "train",
+     "Поезд"
+    ],
+    [
+     "arriver",
+     "приходит"
+    ],
+    [
+     "à",
+     "в"
+    ],
+    [
+     "Moscou",
+     "Москву"
+    ],
+    [
+     "à",
+     "в"
+    ],
+    [
+     "huit",
+     "восемь"
+    ],
+    [
+     "matin",
+     "утра"
+    ]
+   ],
+   "note": "Pour un train, arriver se dit « prikhódit ». Mot à mot, il vient.",
+   "say": {
+    "prikhódit": "приходит"
+   }
+  },
+  {
+   "words": [
+    [
+     "bon",
+     "Доброе"
+    ],
+    [
+     "matin",
+     "утро"
+    ],
+    [
+     "Moscou",
+     "Москва"
+    ],
+    [
+     "quel",
+     "Какая"
+    ],
+    [
+     "merveilleux",
+     "чудесная"
+    ],
+    [
+     "voyage",
+     "поездка"
+    ]
+   ],
+   "note": "Bonjour, le matin, se dit « dóbraye útra ». Mot à mot, bon matin.",
+   "say": {
+    "dóbraye útra": "Доброе утро"
+   }
+  }
+ ],
+ "0-1-19": [
+  {
+   "words": [
+    [
+     "mon",
+     "Моя"
+    ],
+    [
+     "voyage",
+     "поездка"
+    ],
+    [
+     "à",
+     "в"
+    ],
+    [
+     "Pétersbourg",
+     "Петербург"
+    ],
+    [
+     "se terminer",
+     "закончилась"
+    ]
+   ],
+   "note": "Se terminer se dit ici « zakónchilas' ». C'est un passé, au féminin comme voyage.",
+   "say": {
+    "zakónchilas'": "закончилась"
+   }
+  },
+  {
+   "words": [
+    [
+     "maintenant",
+     "Теперь"
+    ],
+    [
+     "je",
+     "я"
+    ],
+    [
+     "aller en véhicule",
+     "еду"
+    ],
+    [
+     "à",
+     "в"
+    ],
+    [
+     "Kazan",
+     "Казань"
+    ]
+   ],
+   "note": "Maintenant se dit « tepér' ». Pour un voyage, on emploie aller en véhicule.",
+   "say": {
+    "tepér'": "Теперь"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "А"
+    ],
+    [
+     "puis",
+     "потом"
+    ],
+    [
+     "je",
+     "я"
+    ],
+    [
+     "aller en véhicule",
+     "еду"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "Baïkal",
+     "Байкал"
+    ]
+   ],
+   "note": "Pour aller au lac Baïkal, on dit « na Baykál ». Mot à mot, sur le Baïkal.",
+   "say": {
+    "na Baykál": "на Байкал"
+   }
+  },
+  {
+   "words": [
+    [
+     "le soir",
+     "Вечером"
+    ],
+    [
+     "je",
+     "я"
+    ],
+    [
+     "aller à pied",
+     "иду"
+    ],
+    [
+     "dans",
+     "в"
+    ],
+    [
+     "restaurant",
+     "ресторан"
+    ]
+   ],
+   "note": "Pour une sortie en ville, aller se dit « idú ». Mot à mot, je marche au restaurant.",
+   "say": {
+    "idú": "иду"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "Я"
+    ],
+    [
+     "savoir",
+     "умею"
+    ],
+    [
+     "demander",
+     "спрашивать"
+    ],
+    [
+     "chemin",
+     "дорогу"
+    ],
+    [
+     "en russe",
+     "по-русски"
+    ]
+   ],
+   "note": "Chemin se dit « darógu ». Demander son chemin se dit demander la route.",
+   "say": {
+    "darógu": "дорогу"
+   }
+  },
+  {
+   "words": [
+    [
+     "je",
+     "Я"
+    ],
+    [
+     "pouvoir",
+     "могу"
+    ],
+    [
+     "moi-même",
+     "сам"
+    ],
+    [
+     "acheter",
+     "купить"
+    ],
+    [
+     "billet",
+     "билет"
+    ],
+    [
+     "pour",
+     "на"
+    ],
+    [
+     "train",
+     "поезд"
+    ]
+   ],
+   "note": "Tout seul se dit « sam ». Une femme ajoute un a à la fin.",
+   "say": {
+    "sam": "сам"
+   }
+  },
+  {
+   "words": [
+    [
+     "et",
+     "И"
+    ],
+    [
+     "je",
+     "я"
+    ],
+    [
+     "savoir",
+     "умею"
+    ],
+    [
+     "demander",
+     "спросить"
+    ],
+    [
+     "combien",
+     "сколько"
+    ],
+    [
+     "coûter",
+     "стоит"
+    ]
+   ],
+   "note": "Demander se dit ici « sprasít' ». C'est la forme pour une question ponctuelle.",
+   "say": {
+    "sprasít'": "спросить"
+   }
+  },
+  {
+   "words": [
+    [
+     "russe",
+     "Русский"
+    ],
+    [
+     "langue",
+     "язык"
+    ],
+    [
+     "ne pas",
+     "не"
+    ],
+    [
+     "si",
+     "такой"
+    ],
+    [
+     "vraiment",
+     "уж"
+    ],
+    [
+     "difficile",
+     "трудный"
+    ]
+   ],
+   "note": "Pas si se dit « ne takóy ». Le petit mot qui suit renforce, comme quand même.",
+   "say": {
+    "ne takóy": "не такой"
+   }
+  },
+  {
+   "words": [
+    [
+     "mes",
+     "Мои"
+    ],
+    [
+     "amis",
+     "друзья"
+    ],
+    [
+     "aller en véhicule",
+     "едут"
+    ],
+    [
+     "à",
+     "в"
+    ],
+    [
+     "Sotchi",
+     "Сочи"
+    ],
+    [
+     "sur",
+     "на"
+    ],
+    [
+     "mer",
+     "море"
+    ]
+   ],
+   "note": "À la mer se dit « na móre ». Sotchi est la grande station balnéaire russe.",
+   "say": {
+    "na móre": "на море"
+   }
+  },
+  {
+   "words": [
+    [
+     "jusqu'à",
+     "До"
+    ],
+    [
+     "revoir",
+     "свидания"
+    ],
+    [
+     "Russie",
+     "Россия"
+    ],
+    [
+     "jusqu'à",
+     "до"
+    ],
+    [
+     "prochaine",
+     "скорой"
+    ],
+    [
+     "rencontre",
+     "встречи"
+    ]
+   ],
+   "note": "Russie se dit « Rassíya ». L'accent tombe sur le i.",
+   "say": {
+    "Rassíya": "Россия"
+   }
+  }
+ ]
+}
