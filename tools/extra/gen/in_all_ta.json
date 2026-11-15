@@ -1,0 +1,4022 @@
+{
+ "0-0-0": {
+  "module": "Le quotidien",
+  "title": "Une nouvelle vie à Chennai",
+  "grammaire_de_la_lecon": "Le verbe à la fin : sujet, objet, verbe",
+  "phrases": [
+   {
+    "fr": "Je vis à Chennai.",
+    "tgt": "நான் சென்னையில் வசிக்கிறேன்.",
+    "ro": "Nāṉ Chennaiyil vachikkiṛēṉ.",
+    "lit": "je · Chennai [dans] (-il) · habite"
+   },
+   {
+    "fr": "Chaque matin, je bois du café.",
+    "tgt": "தினமும் காலையில் நான் காப்பி குடிக்கிறேன்.",
+    "ro": "Tiṉamum kālaiyil nāṉ kāppi kuḍikkiṛēṉ.",
+    "lit": "chaque jour · matin [dans] (-il) · je · café · bois"
+   },
+   {
+    "fr": "Ma femme mange des idlis.",
+    "tgt": "என் மனைவி இட்லி சாப்பிடுகிறாள்.",
+    "ro": "Eṉ maṉaivi iṭli chāppiḍugiṛāḷ.",
+    "lit": "ma · épouse · idli · mange (elle)"
+   },
+   {
+    "fr": "Je vais au bureau.",
+    "tgt": "நான் அலுவலகத்துக்குப் போகிறேன்.",
+    "ro": "Nāṉ aluvalagattukkup pōgiṛēṉ.",
+    "lit": "je · bureau [à] (-ukku) · vais"
+   },
+   {
+    "fr": "Mon petit frère lit le journal.",
+    "tgt": "என் தம்பி செய்தித்தாள் படிக்கிறான்.",
+    "ro": "Eṉ tambi cheydittāḷ paḍikkiṛāṉ.",
+    "lit": "mon · petit frère · journal · lit (il)"
+   },
+   {
+    "fr": "Le chauffeur conduit le bus.",
+    "tgt": "ஓட்டுநர் பேருந்தை ஓட்டுகிறார்.",
+    "ro": "Ōṭṭunar pērundai ōṭṭugiṛār.",
+    "lit": "chauffeur · bus [objet] (-ai) · conduit [respect]"
+   },
+   {
+    "fr": "Maman prépare le café.",
+    "tgt": "அம்மா காப்பி போடுகிறார்.",
+    "ro": "Ammā kāppi pōḍugiṛār.",
+    "lit": "maman · café · prépare [respect]"
+   },
+   {
+    "fr": "Le matin, j'achète des légumes.",
+    "tgt": "காலையில் நான் காய்கறி வாங்குகிறேன்.",
+    "ro": "Kālaiyil nāṉ kāykaṛi vāngugiṛēṉ.",
+    "lit": "matin [dans] (-il) · je · légumes · achète"
+   },
+   {
+    "fr": "Le soir, nous marchons sur la plage.",
+    "tgt": "மாலையில் நாங்கள் கடற்கரையில் நடக்கிறோம்.",
+    "ro": "Mālaiyil nāngaḷ kaḍaṛkaraiyil naḍakkiṛōm.",
+    "lit": "soir [dans] (-il) · nous · plage [dans] (-il) · marchons"
+   },
+   {
+    "fr": "En tamoul, le verbe vient à la fin.",
+    "tgt": "தமிழில் வினைச்சொல் கடைசியில் வரும்.",
+    "ro": "Tamiḻil viṉaichchol kaḍaichiyil varum.",
+    "lit": "tamoul [dans] (-il) · verbe · fin [dans] (-il) · vient"
+   }
+  ]
+ },
+ "0-0-1": {
+  "module": "Le quotidien",
+  "title": "Les voisins de Mylapore",
+  "grammaire_de_la_lecon": "Pas de verbe être : « Nāṉ māṇavaṉ », je étudiant",
+  "phrases": [
+   {
+    "fr": "Je suis ingénieur à Chennai.",
+    "tgt": "நான் சென்னையில் பொறியாளர்.",
+    "ro": "Nāṉ Chennaiyil poṛiyāḷar.",
+    "lit": "je · Chennai [dans] (-il) · ingénieur"
+   },
+   {
+    "fr": "Mon voisin est professeur.",
+    "tgt": "என் பக்கத்து வீட்டுக்காரர் ஆசிரியர்.",
+    "ro": "Eṉ pakkattu vīṭṭukkārar āchiriyar.",
+    "lit": "mon · d'à côté · voisin [respect] · professeur"
+   },
+   {
+    "fr": "Sa fille est étudiante.",
+    "tgt": "அவருடைய மகள் மாணவி.",
+    "ro": "Avaruḍaiya magaḷ māṇavi.",
+    "lit": "lui [respect] [de] (-uḍaiya) · fille · étudiante"
+   },
+   {
+    "fr": "Notre immeuble est neuf.",
+    "tgt": "எங்கள் கட்டடம் புதியது.",
+    "ro": "Engaḷ kaṭṭaḍam pudiyadu.",
+    "lit": "notre · immeuble · neuf (chose)"
+   },
+   {
+    "fr": "Mylapore est un vieux quartier.",
+    "tgt": "மயிலாப்பூர் ஒரு பழைய பகுதி.",
+    "ro": "Mayilāppūr oru paḻaiya pagudi.",
+    "lit": "Mylapore · un · vieux · quartier"
+   },
+   {
+    "fr": "Cet appartement est grand.",
+    "tgt": "இந்த வீடு பெரியது.",
+    "ro": "Inda vīḍu periyadu.",
+    "lit": "ce · logement · grand (chose)"
+   },
+   {
+    "fr": "La cuisine est un peu petite.",
+    "tgt": "சமையலறை கொஞ்சம் சிறியது.",
+    "ro": "Chamaiyalaṛai koncham chiṛiyadu.",
+    "lit": "cuisine · un peu · petite (chose)"
+   },
+   {
+    "fr": "Le café est brûlant.",
+    "tgt": "காப்பி மிகவும் சூடு.",
+    "ro": "Kāppi migavum chūḍu.",
+    "lit": "café · très · chaud"
+   },
+   {
+    "fr": "Ma grande sœur est médecin.",
+    "tgt": "என் அக்கா மருத்துவர்.",
+    "ro": "Eṉ akkā maruttuvar.",
+    "lit": "ma · grande sœur · médecin"
+   },
+   {
+    "fr": "Nous sommes une famille française.",
+    "tgt": "நாங்கள் ஒரு பிரெஞ்சுக் குடும்பம்.",
+    "ro": "Nāngaḷ oru pirenchuk kuḍumbam.",
+    "lit": "nous · une · française · famille"
+   }
+  ]
+ },
+ "0-0-2": {
+  "module": "Le quotidien",
+  "title": "Les gens de l'immeuble",
+  "grammaire_de_la_lecon": "Les pronoms : « nāṉ », « nīngaḷ », « avaṉ », « avaḷ »",
+  "phrases": [
+   {
+    "fr": "Il s'appelle Ravi.",
+    "tgt": "அவன் பெயர் ரவி.",
+    "ro": "Avaṉ peyar Ravi.",
+    "lit": "lui · nom · Ravi"
+   },
+   {
+    "fr": "Elle s'appelle Meena.",
+    "tgt": "அவள் பெயர் மீனா.",
+    "ro": "Avaḷ peyar Mīṉā.",
+    "lit": "elle · nom · Meena"
+   },
+   {
+    "fr": "Vous êtes quelqu'un de bien.",
+    "tgt": "நீங்கள் ரொம்ப நல்லவர்.",
+    "ro": "Nīngaḷ romba nallavar.",
+    "lit": "vous · très · bonne personne [respect]"
+   },
+   {
+    "fr": "Il travaille avec moi.",
+    "tgt": "அவன் என்னோடு வேலை செய்கிறான்.",
+    "ro": "Avaṉ eṉṉōḍu vēlai cheygiṛāṉ.",
+    "lit": "lui · moi [avec] (-ōḍu) · travail · fait (il)"
+   },
+   {
+    "fr": "Elle est vraiment adorable.",
+    "tgt": "அவள் மிகவும் அன்பானவள்.",
+    "ro": "Avaḷ migavum aṉbāṉavaḷ.",
+    "lit": "elle · très · affectueuse"
+   },
+   {
+    "fr": "Je suis nouveau ici.",
+    "tgt": "நான் இங்கே புதியவன்.",
+    "ro": "Nāṉ ingē pudiyavaṉ.",
+    "lit": "je · ici · nouveau (homme)"
+   },
+   {
+    "fr": "Vous parlez bien français.",
+    "tgt": "நீங்கள் நன்றாகப் பிரெஞ்சு பேசுகிறீர்கள்.",
+    "ro": "Nīngaḷ naṉṛāgap pirenchu pēchugiṛīrgaḷ.",
+    "lit": "vous · bien · français · parlez"
+   },
+   {
+    "fr": "Il habite au premier étage.",
+    "tgt": "அவன் முதல் மாடியில் இருக்கிறான்.",
+    "ro": "Avaṉ mudal māḍiyil irukkiṛāṉ.",
+    "lit": "lui · premier · étage [dans] (-il) · se trouve (il)"
+   },
+   {
+    "fr": "Elle va au marché.",
+    "tgt": "அவள் சந்தைக்குப் போகிறாள்.",
+    "ro": "Avaḷ chandaikkup pōgiṛāḷ.",
+    "lit": "elle · marché [à] (-ukku) · va (elle)"
+   },
+   {
+    "fr": "Nous sommes voisins, vous et moi.",
+    "tgt": "நாம் பக்கத்து வீட்டுக்காரர்கள்.",
+    "ro": "Nām pakkattu vīṭṭukkārargaḷ.",
+    "lit": "nous (vous et moi) · d'à côté · voisins"
+   }
+  ]
+ },
+ "0-0-3": {
+  "module": "Le quotidien",
+  "title": "Idli et café filtre au petit-déjeuner",
+  "grammaire_de_la_lecon": "« -ā » : transformer une phrase en question",
+  "phrases": [
+   {
+    "fr": "C'est du café ?",
+    "tgt": "இது காப்பியா?",
+    "ro": "Idu kāppiyā?",
+    "lit": "ceci · café [question] (-ā)"
+   },
+   {
+    "fr": "Oui, c'est du café.",
+    "tgt": "ஆமாம், இது காப்பி.",
+    "ro": "Āmām, idu kāppi.",
+    "lit": "oui · ceci · café"
+   },
+   {
+    "fr": "Les idlis sont chauds ?",
+    "tgt": "இட்லி சூடாக இருக்கிறதா?",
+    "ro": "Iṭli chūḍāga irukkiṛadā?",
+    "lit": "idli · chaud · est [question] (-ā)"
+   },
+   {
+    "fr": "C'est du sambar ?",
+    "tgt": "இது சாம்பாரா?",
+    "ro": "Idu chāmbārā?",
+    "lit": "ceci · sambar [question] (-ā)"
+   },
+   {
+    "fr": "Vous mangez des dosas ?",
+    "tgt": "நீங்கள் தோசை சாப்பிடுகிறீர்களா?",
+    "ro": "Nīngaḷ tōchai chāppiḍugiṛīrgaḷā?",
+    "lit": "vous · dosa · mangez [question] (-ā)"
+   },
+   {
+    "fr": "Il y a du sucre dans le café ?",
+    "tgt": "காப்பியில் சர்க்கரை இருக்கிறதா?",
+    "ro": "Kāppiyil charkkarai irukkiṛadā?",
+    "lit": "café [dans] (-il) · sucre · il y a [question] (-ā)"
+   },
+   {
+    "fr": "Vous êtes prêt pour le petit-déjeuner ?",
+    "tgt": "காலை உணவுக்கு நீங்கள் தயாரா?",
+    "ro": "Kālai uṇavukku nīngaḷ tayārā?",
+    "lit": "matin · repas [pour] (-ukku) · vous · prêt [question] (-ā)"
+   },
+   {
+    "fr": "C'est bon ?",
+    "tgt": "நன்றாக இருக்கிறதா?",
+    "ro": "Naṉṛāga irukkiṛadā?",
+    "lit": "bien · est [question] (-ā)"
+   },
+   {
+    "fr": "Oui, c'est très savoureux.",
+    "tgt": "ஆமாம், ரொம்ப ருசியாக இருக்கிறது.",
+    "ro": "Āmām, romba ruchiyāga irukkiṛadu.",
+    "lit": "oui · très · savoureux · est"
+   },
+   {
+    "fr": "Vous voulez un autre idli ?",
+    "tgt": "இன்னொரு இட்லி வேண்டுமா?",
+    "ro": "Iṉṉoru iṭli vēṇḍumā?",
+    "lit": "un autre · idli · il faut [question] (-ā)"
+   }
+  ]
+ },
+ "0-0-4": {
+  "module": "Le quotidien",
+  "title": "Premier jour au bureau",
+  "grammaire_de_la_lecon": "« Illai » : la négation, ce n'est pas",
+  "phrases": [
+   {
+    "fr": "Cette table n'est pas la mienne.",
+    "tgt": "இந்த மேசை என்னுடையது இல்லை.",
+    "ro": "Inda mēchai eṉṉuḍaiyadu illai.",
+    "lit": "cette · table · la mienne · pas"
+   },
+   {
+    "fr": "Je ne suis pas le chef.",
+    "tgt": "நான் மேலாளர் இல்லை.",
+    "ro": "Nāṉ mēlāḷar illai.",
+    "lit": "je · responsable · pas"
+   },
+   {
+    "fr": "Il n'y a pas de café ici.",
+    "tgt": "இங்கே காப்பி இல்லை.",
+    "ro": "Ingē kāppi illai.",
+    "lit": "ici · café · pas"
+   },
+   {
+    "fr": "Monsieur Kumar n'est pas là aujourd'hui.",
+    "tgt": "இன்று குமார் இங்கே இல்லை.",
+    "ro": "Iṉṛu Kumār ingē illai.",
+    "lit": "aujourd'hui · Kumar · ici · pas"
+   },
+   {
+    "fr": "Ce n'est pas difficile.",
+    "tgt": "இது கஷ்டம் இல்லை.",
+    "ro": "Idu kashṭam illai.",
+    "lit": "ceci · difficile · pas"
+   },
+   {
+    "fr": "Aujourd'hui, ce n'est pas un jour de congé.",
+    "tgt": "இன்று விடுமுறை இல்லை.",
+    "ro": "Iṉṛu viḍumuṛai illai.",
+    "lit": "aujourd'hui · congé · pas"
+   },
+   {
+    "fr": "L'ordinateur ne marche pas.",
+    "tgt": "கணினி வேலை செய்யவில்லை.",
+    "ro": "Kaṇiṉi vēlai cheyyavillai.",
+    "lit": "ordinateur · travail · ne fait pas (-illai)"
+   },
+   {
+    "fr": "Non, je ne suis pas fatigué.",
+    "tgt": "இல்லை, எனக்குக் களைப்பு இல்லை.",
+    "ro": "Illai, eṉakkuk kaḷaippu illai.",
+    "lit": "non · moi [à] (-ukku) · fatigue · pas"
+   },
+   {
+    "fr": "Le bureau n'est pas loin.",
+    "tgt": "அலுவலகம் தூரம் இல்லை.",
+    "ro": "Aluvalagam tūram illai.",
+    "lit": "bureau · loin · pas"
+   },
+   {
+    "fr": "Il n'y a aucun problème.",
+    "tgt": "பிரச்சினை இல்லை.",
+    "ro": "Pirachchiṉai illai.",
+    "lit": "problème · pas"
+   }
+  ]
+ },
+ "0-0-5": {
+  "module": "Le quotidien",
+  "title": "Saluer dans le quartier",
+  "grammaire_de_la_lecon": "« Vaṇakkam » : saluer en toute occasion",
+  "phrases": [
+   {
+    "fr": "Bonjour, monsieur !",
+    "tgt": "வணக்கம், ஐயா!",
+    "ro": "Vaṇakkam, aiyā!",
+    "lit": "salutation · monsieur"
+   },
+   {
+    "fr": "Bonjour à vous, madame !",
+    "tgt": "வணக்கம், அம்மா!",
+    "ro": "Vaṇakkam, ammā!",
+    "lit": "salutation · madame (mère)"
+   },
+   {
+    "fr": "Bonjour à tout le monde !",
+    "tgt": "எல்லோருக்கும் வணக்கம்!",
+    "ro": "Ellōrukkum vaṇakkam!",
+    "lit": "tous [à] (-ukku) [aussi] (-um) · salutation"
+   },
+   {
+    "fr": "Comment allez-vous ?",
+    "tgt": "எப்படி இருக்கிறீர்கள்?",
+    "ro": "Eppaḍi irukkiṛīrgaḷ?",
+    "lit": "comment · êtes (vous)"
+   },
+   {
+    "fr": "Moi, je vais bien, merci.",
+    "tgt": "நான் நன்றாக இருக்கிறேன், நன்றி.",
+    "ro": "Nāṉ naṉṛāga irukkiṛēṉ, naṉṛi.",
+    "lit": "je · bien · suis · merci"
+   },
+   {
+    "fr": "Et vous, ça va ?",
+    "tgt": "நீங்கள் நலமா?",
+    "ro": "Nīngaḷ nalamā?",
+    "lit": "vous · bien-être [question] (-ā)"
+   },
+   {
+    "fr": "Bonsoir, Meena !",
+    "tgt": "வணக்கம், மீனா!",
+    "ro": "Vaṇakkam, Mīṉā!",
+    "lit": "salutation · Meena"
+   },
+   {
+    "fr": "Au revoir, à demain.",
+    "tgt": "போய் வருகிறேன், நாளை பார்க்கலாம்.",
+    "ro": "Pōy varugiṛēṉ, nāḷai pārkkalām.",
+    "lit": "étant parti · je reviens · demain · on peut se voir"
+   },
+   {
+    "fr": "On peut dire bonjour matin et soir.",
+    "tgt": "காலையிலும் மாலையிலும் வணக்கம் சொல்லலாம்.",
+    "ro": "Kālaiyilum mālaiyilum vaṇakkam chollalām.",
+    "lit": "matin [dans] [et] (-um) · soir [dans] [et] (-um) · salutation · on peut dire"
+   },
+   {
+    "fr": "Les enfants saluent le professeur.",
+    "tgt": "குழந்தைகள் ஆசிரியருக்கு வணக்கம் சொல்கிறார்கள்.",
+    "ro": "Kuḻandaigaḷ āchiriyarukku vaṇakkam cholgiṛārgaḷ.",
+    "lit": "enfants · professeur [à] (-ukku) · salutation · disent"
+   }
+  ]
+ },
+ "0-0-6": {
+  "module": "Le quotidien",
+  "title": "Se présenter aux collègues",
+  "grammaire_de_la_lecon": "« Eṉ peyar » : se présenter, mon nom est",
+  "phrases": [
+   {
+    "fr": "Je m'appelle Thomas.",
+    "tgt": "என் பெயர் தாமஸ்.",
+    "ro": "Eṉ peyar Tāmas.",
+    "lit": "mon · nom · Thomas"
+   },
+   {
+    "fr": "Quel est votre nom ?",
+    "tgt": "உங்கள் பெயர் என்ன?",
+    "ro": "Ungaḷ peyar eṉṉa?",
+    "lit": "votre · nom · quoi"
+   },
+   {
+    "fr": "Moi, je m'appelle Karthik.",
+    "tgt": "என் பெயர் கார்த்திக்.",
+    "ro": "Eṉ peyar Kārttik.",
+    "lit": "mon · nom · Karthik"
+   },
+   {
+    "fr": "Mon nom de famille est Martin.",
+    "tgt": "என் குடும்பப் பெயர் மார்ட்டின்.",
+    "ro": "Eṉ kuḍumbap peyar Mārṭṭiṉ.",
+    "lit": "mon · famille · nom · Martin"
+   },
+   {
+    "fr": "Je viens du sud de la France.",
+    "tgt": "நான் தென் பிரான்சிலிருந்து வருகிறேன்.",
+    "ro": "Nāṉ teṉ Pirāṉchilirundu varugiṛēṉ.",
+    "lit": "je · sud · France [depuis] (-ilirundu) · viens"
+   },
+   {
+    "fr": "Je suis le nouvel ingénieur.",
+    "tgt": "நான் புதிய பொறியாளர்.",
+    "ro": "Nāṉ pudiya poṛiyāḷar.",
+    "lit": "je · nouveau · ingénieur"
+   },
+   {
+    "fr": "Ravi est mon collègue.",
+    "tgt": "ரவி என் சக ஊழியர்.",
+    "ro": "Ravi eṉ chaga ūḻiyar.",
+    "lit": "Ravi · mon · co- · employé [respect]"
+   },
+   {
+    "fr": "Ma femme s'appelle Marie.",
+    "tgt": "என் மனைவியின் பெயர் மேரி.",
+    "ro": "Eṉ maṉaiviyiṉ peyar Mēri.",
+    "lit": "mon · épouse [de] (-iṉ) · nom · Marie"
+   },
+   {
+    "fr": "Je suis content de vous rencontrer.",
+    "tgt": "உங்களைச் சந்தித்ததில் மகிழ்ச்சி.",
+    "ro": "Ungaḷaich chandittadil magiḻchchi.",
+    "lit": "vous [objet] (-ai) · avoir rencontré [dans] (-il) · joie"
+   },
+   {
+    "fr": "Votre nom est très joli.",
+    "tgt": "உங்கள் பெயர் மிகவும் அழகு.",
+    "ro": "Ungaḷ peyar migavum aḻagu.",
+    "lit": "votre · nom · très · beauté"
+   }
+  ]
+ },
+ "0-0-7": {
+  "module": "Le quotidien",
+  "title": "La visite de l'appartement",
+  "grammaire_de_la_lecon": "« Idu » et « adu », « ingē » et « angē » : ceci, cela, ici, là",
+  "phrases": [
+   {
+    "fr": "Ceci, c'est le salon.",
+    "tgt": "இது வரவேற்பறை.",
+    "ro": "Idu varavēṛpaṛai.",
+    "lit": "ceci · salon"
+   },
+   {
+    "fr": "Cela, c'est la chambre.",
+    "tgt": "அது படுக்கையறை.",
+    "ro": "Adu paḍukkaiyaṛai.",
+    "lit": "cela · chambre"
+   },
+   {
+    "fr": "La cuisine est ici.",
+    "tgt": "சமையலறை இங்கே.",
+    "ro": "Chamaiyalaṛai ingē.",
+    "lit": "cuisine · ici"
+   },
+   {
+    "fr": "La salle de bain est là-bas.",
+    "tgt": "குளியலறை அங்கே.",
+    "ro": "Kuḷiyalaṛai angē.",
+    "lit": "salle de bain · là-bas"
+   },
+   {
+    "fr": "Et ça, là-bas, c'est quoi ?",
+    "tgt": "அங்கே அது என்ன?",
+    "ro": "Angē adu eṉṉa?",
+    "lit": "là-bas · cela · quoi"
+   },
+   {
+    "fr": "Ça, c'est un ventilateur.",
+    "tgt": "அது மின்விசிறி.",
+    "ro": "Adu miṉvichiṛi.",
+    "lit": "cela · ventilateur"
+   },
+   {
+    "fr": "Cette fenêtre est grande.",
+    "tgt": "இந்த ஜன்னல் பெரியது.",
+    "ro": "Inda jaṉṉal periyadu.",
+    "lit": "ce · fenêtre · grande (chose)"
+   },
+   {
+    "fr": "Asseyez-vous ici.",
+    "tgt": "இங்கே உட்காருங்கள்.",
+    "ro": "Ingē uṭkārungaḷ.",
+    "lit": "ici · asseyez-vous [respect]"
+   },
+   {
+    "fr": "Posez les sacs là-bas.",
+    "tgt": "பைகளை அங்கே வையுங்கள்.",
+    "ro": "Paigaḷai angē vaiyungaḷ.",
+    "lit": "sacs [objet] (-ai) · là-bas · posez [respect]"
+   },
+   {
+    "fr": "Cet appartement me plaît.",
+    "tgt": "எனக்கு இந்த வீடு பிடித்திருக்கிறது.",
+    "ro": "Eṉakku inda vīḍu piḍittirukkiṛadu.",
+    "lit": "moi [à] (-ukku) · ce · logement · plaît"
+   }
+  ]
+ },
+ "0-0-8": {
+  "module": "Le quotidien",
+  "title": "Au marché aux légumes",
+  "grammaire_de_la_lecon": "Les sons rétroflexes : la langue retournée pour « ṭ », « ṇ », « ḷ » et « ḻ »",
+  "phrases": [
+   {
+    "fr": "Il me faut des tomates.",
+    "tgt": "எனக்குத் தக்காளி வேண்டும்.",
+    "ro": "Eṉakkut takkāḷi vēṇḍum.",
+    "lit": "moi [à] (-ukku) · tomate · il faut"
+   },
+   {
+    "fr": "Les bananes sont très fraîches.",
+    "tgt": "வாழைப்பழங்கள் மிகவும் புதியவை.",
+    "ro": "Vāḻaippaḻangaḷ migavum pudiyavai.",
+    "lit": "bananes · très · fraîches (choses)"
+   },
+   {
+    "fr": "Un kilo de gombos, s'il vous plaît.",
+    "tgt": "ஒரு கிலோ வெண்டைக்காய் கொடுங்கள்.",
+    "ro": "Oru kilō veṇḍaikkāy koḍungaḷ.",
+    "lit": "un · kilo · gombo · donnez [respect]"
+   },
+   {
+    "fr": "Les mangues sont mûres ?",
+    "tgt": "மாம்பழம் பழுத்திருக்கிறதா?",
+    "ro": "Māmbaḻam paḻuttirukkiṛadā?",
+    "lit": "mangue · est mûre [question] (-ā)"
+   },
+   {
+    "fr": "Ces piments sont forts.",
+    "tgt": "இந்த மிளகாய் காரமாக இருக்கிறது.",
+    "ro": "Inda miḷagāy kāramāga irukkiṛadu.",
+    "lit": "ce · piment · piquant · est"
+   },
+   {
+    "fr": "Je prends aussi des pommes de terre.",
+    "tgt": "உருளைக்கிழங்கும் வாங்குகிறேன்.",
+    "ro": "Uruḷaikkiḻangum vāngugiṛēṉ.",
+    "lit": "pomme de terre [aussi] (-um) · j'achète"
+   },
+   {
+    "fr": "Une noix de coco, c'est combien ?",
+    "tgt": "ஒரு தேங்காய் எவ்வளவு?",
+    "ro": "Oru tēngāy evvaḷavu?",
+    "lit": "une · noix de coco · combien"
+   },
+   {
+    "fr": "Le marchand est très aimable.",
+    "tgt": "கடைக்காரர் மிகவும் நல்லவர்.",
+    "ro": "Kaḍaikkārar migavum nallavar.",
+    "lit": "marchand [respect] · très · bonne personne"
+   },
+   {
+    "fr": "Le marché est plein de monde.",
+    "tgt": "சந்தையில் நிறைய கூட்டம்.",
+    "ro": "Chandaiyil niṛaiya kūṭṭam.",
+    "lit": "marché [dans] (-il) · beaucoup · foule"
+   },
+   {
+    "fr": "Le tamoul est une belle langue.",
+    "tgt": "தமிழ் ஓர் அழகான மொழி.",
+    "ro": "Tamiḻ ōr aḻagāṉa moḻi.",
+    "lit": "tamoul · une · belle · langue"
+   }
+  ]
+ },
+ "0-0-9": {
+  "module": "Le quotidien",
+  "title": "Prendre l'autobus",
+  "grammaire_de_la_lecon": "« Eṉṉa », « engē », « yār » : les mots interrogatifs",
+  "phrases": [
+   {
+    "fr": "Où est l'arrêt de bus ?",
+    "tgt": "பேருந்து நிறுத்தம் எங்கே?",
+    "ro": "Pērundu niṛuttam engē?",
+    "lit": "bus · arrêt · où"
+   },
+   {
+    "fr": "Quel bus va à la plage de Marina ?",
+    "tgt": "எந்தப் பேருந்து மெரினாவுக்குப் போகும்?",
+    "ro": "Endap pērundu Meriṉāvukkup pōgum?",
+    "lit": "quel · bus · Marina [à] (-ukku) · ira"
+   },
+   {
+    "fr": "Qui est le receveur ?",
+    "tgt": "நடத்துநர் யார்?",
+    "ro": "Naḍattunar yār?",
+    "lit": "receveur · qui"
+   },
+   {
+    "fr": "Qu'est-ce que vous dites ?",
+    "tgt": "நீங்கள் என்ன சொல்கிறீர்கள்?",
+    "ro": "Nīngaḷ eṉṉa cholgiṛīrgaḷ?",
+    "lit": "vous · quoi · dites"
+   },
+   {
+    "fr": "Où allez-vous ce matin ?",
+    "tgt": "இன்று காலை நீங்கள் எங்கே போகிறீர்கள்?",
+    "ro": "Iṉṛu kālai nīngaḷ engē pōgiṛīrgaḷ?",
+    "lit": "aujourd'hui · matin · vous · où · allez"
+   },
+   {
+    "fr": "Je vais à Mylapore.",
+    "tgt": "நான் மயிலாப்பூருக்குப் போகிறேன்.",
+    "ro": "Nāṉ Mayilāppūrukkup pōgiṛēṉ.",
+    "lit": "je · Mylapore [à] (-ukku) · vais"
+   },
+   {
+    "fr": "C'est combien, le billet ?",
+    "tgt": "டிக்கெட் எவ்வளவு?",
+    "ro": "Ṭikkeṭ evvaḷavu?",
+    "lit": "billet · combien"
+   },
+   {
+    "fr": "Qui est ce monsieur, là-bas ?",
+    "tgt": "அந்த நபர் யார்?",
+    "ro": "Anda nabar yār?",
+    "lit": "ce (là-bas) · personne · qui"
+   },
+   {
+    "fr": "Quel est le prochain arrêt ?",
+    "tgt": "அடுத்த நிறுத்தம் எது?",
+    "ro": "Aḍutta niṛuttam edu?",
+    "lit": "prochain · arrêt · lequel"
+   },
+   {
+    "fr": "Pourquoi le bus est-il en retard ?",
+    "tgt": "பேருந்து ஏன் தாமதம்?",
+    "ro": "Pērundu ēṉ tāmadam?",
+    "lit": "bus · pourquoi · retard"
+   }
+  ]
+ },
+ "0-0-10": {
+  "module": "Le quotidien",
+  "title": "Compter au marché",
+  "grammaire_de_la_lecon": "Compter de un à dix : « oṉṛu », « iraṇḍu », « mūṉṛu »",
+  "phrases": [
+   {
+    "fr": "Pour moi, un café, s'il vous plaît.",
+    "tgt": "எனக்கு ஒரு காப்பி, தயவுசெய்து.",
+    "ro": "Eṉakku oru kāppi, tayavucheydu.",
+    "lit": "moi [à] (-ukku) · un · café · s'il vous plaît"
+   },
+   {
+    "fr": "Deux idlis et un dosa.",
+    "tgt": "இரண்டு இட்லி, ஒரு தோசை.",
+    "ro": "Iraṇḍu iṭli, oru tōchai.",
+    "lit": "deux · idli · un · dosa"
+   },
+   {
+    "fr": "Trois bananes, c'est combien ?",
+    "tgt": "மூன்று வாழைப்பழம் எவ்வளவு?",
+    "ro": "Mūṉṛu vāḻaippaḻam evvaḷavu?",
+    "lit": "trois · banane · combien"
+   },
+   {
+    "fr": "Le citron coûte quatre roupies.",
+    "tgt": "ஒரு எலுமிச்சை நான்கு ரூபாய்.",
+    "ro": "Oru elumichchai nāṉgu rūbāy.",
+    "lit": "un · citron · quatre · roupies"
+   },
+   {
+    "fr": "Cinq tomates, s'il vous plaît.",
+    "tgt": "ஐந்து தக்காளி கொடுங்கள்.",
+    "ro": "Aindu takkāḷi koḍungaḷ.",
+    "lit": "cinq · tomate · donnez [respect]"
+   },
+   {
+    "fr": "Donnez-moi six œufs.",
+    "tgt": "ஆறு முட்டை கொடுங்கள்.",
+    "ro": "Āṛu muṭṭai koḍungaḷ.",
+    "lit": "six · œuf · donnez [respect]"
+   },
+   {
+    "fr": "Il y a sept mangues dans le sac.",
+    "tgt": "பையில் ஏழு மாம்பழம் இருக்கிறது.",
+    "ro": "Paiyil ēḻu māmbaḻam irukkiṛadu.",
+    "lit": "sac [dans] (-il) · sept · mangue · il y a"
+   },
+   {
+    "fr": "Combien de dosas ? Un seul.",
+    "tgt": "எத்தனை தோசை? ஒன்று மட்டும்.",
+    "ro": "Ettaṉai tōchai? Oṉṛu maṭṭum.",
+    "lit": "combien · dosa · un · seulement"
+   },
+   {
+    "fr": "Je prends neuf citrons.",
+    "tgt": "நான் ஒன்பது எலுமிச்சை வாங்குகிறேன்.",
+    "ro": "Nāṉ oṉbadu elumichchai vāngugiṛēṉ.",
+    "lit": "je · neuf · citron · achète"
+   },
+   {
+    "fr": "Voici dix roupies.",
+    "tgt": "இதோ பத்து ரூபாய்.",
+    "ro": "Idō pattu rūbāy.",
+    "lit": "voici · dix · roupies"
+   }
+  ]
+ },
+ "0-0-11": {
+  "module": "Le quotidien",
+  "title": "Le trajet vers le bureau",
+  "grammaire_de_la_lecon": "« -ukku » : à, pour, vers",
+  "phrases": [
+   {
+    "fr": "Ce bus va à la gare.",
+    "tgt": "இந்தப் பேருந்து ரயில் நிலையத்துக்குப் போகும்.",
+    "ro": "Indap pērundu rayil nilaiyattukkup pōgum.",
+    "lit": "ce · bus · train · station [à] (-ukku) · ira"
+   },
+   {
+    "fr": "J'envoie un message à mon chef.",
+    "tgt": "நான் மேலாளருக்குச் செய்தி அனுப்புகிறேன்.",
+    "ro": "Nāṉ mēlāḷarukkuch cheydi aṉuppugiṛēṉ.",
+    "lit": "je · responsable [à] (-ukku) · message · envoie"
+   },
+   {
+    "fr": "Ce café est pour vous.",
+    "tgt": "இந்தக் காப்பி உங்களுக்கு.",
+    "ro": "Indak kāppi ungaḷukku.",
+    "lit": "ce · café · vous [pour] (-ukku)"
+   },
+   {
+    "fr": "J'ai faim.",
+    "tgt": "எனக்குப் பசிக்கிறது.",
+    "ro": "Eṉakkup pachikkiṛadu.",
+    "lit": "moi [à] (-ukku) · ça a faim"
+   },
+   {
+    "fr": "Je donne le document à Ravi.",
+    "tgt": "நான் ரவிக்கு ஆவணத்தைக் கொடுக்கிறேன்.",
+    "ro": "Nāṉ Ravikku āvaṇattaik koḍukkiṛēṉ.",
+    "lit": "je · Ravi [à] (-ukku) · document [objet] (-ai) · donne"
+   },
+   {
+    "fr": "Le cadeau est pour ma fille.",
+    "tgt": "பரிசு என் மகளுக்கு.",
+    "ro": "Parichu eṉ magaḷukku.",
+    "lit": "cadeau · ma · fille [pour] (-ukku)"
+   },
+   {
+    "fr": "J'arrive au bureau vers neuf heures.",
+    "tgt": "நான் சுமார் ஒன்பது மணிக்கு அலுவலகத்துக்கு வருகிறேன்.",
+    "ro": "Nāṉ chumār oṉbadu maṇikku aluvalagattukku varugiṛēṉ.",
+    "lit": "je · environ · neuf · heure [à] (-ukku) · bureau [à] (-ukku) · viens"
+   },
+   {
+    "fr": "Ravi a mal à la tête.",
+    "tgt": "ரவிக்குத் தலைவலி.",
+    "ro": "Ravikkut talaivali.",
+    "lit": "Ravi [à] (-ukku) · mal de tête"
+   },
+   {
+    "fr": "On va à la plage ce soir ?",
+    "tgt": "இன்று மாலை கடற்கரைக்குப் போகலாமா?",
+    "ro": "Iṉṛu mālai kaḍaṛkaraikkup pōgalāmā?",
+    "lit": "aujourd'hui · soir · plage [à] (-ukku) · on peut aller [question] (-ā)"
+   },
+   {
+    "fr": "Le tamoul me plaît.",
+    "tgt": "எனக்குத் தமிழ் பிடிக்கும்.",
+    "ro": "Eṉakkut tamiḻ piḍikkum.",
+    "lit": "moi [à] (-ukku) · tamoul · plaît"
+   }
+  ]
+ },
+ "0-0-12": {
+  "module": "Le quotidien",
+  "title": "Dans le quartier de Mylapore",
+  "grammaire_de_la_lecon": "« -il » : dans, à un endroit",
+  "phrases": [
+   {
+    "fr": "J'habite à Mylapore.",
+    "tgt": "நான் மயிலாப்பூரில் வசிக்கிறேன்.",
+    "ro": "Nāṉ Mayilāppūril vachikkiṛēṉ.",
+    "lit": "je · Mylapore [dans] (-il) · habite"
+   },
+   {
+    "fr": "Le lait est dans le frigo.",
+    "tgt": "பால் குளிர்சாதனப் பெட்டியில் இருக்கிறது.",
+    "ro": "Pāl kuḷirchādaṉap peṭṭiyil irukkiṛadu.",
+    "lit": "lait · réfrigérateur [dans] (-il) · se trouve"
+   },
+   {
+    "fr": "Les clés sont dans mon sac.",
+    "tgt": "சாவி என் பையில் இருக்கிறது.",
+    "ro": "Chāvi eṉ paiyil irukkiṛadu.",
+    "lit": "clé · mon · sac [dans] (-il) · se trouve"
+   },
+   {
+    "fr": "Mon bureau est au deuxième étage.",
+    "tgt": "என் அலுவலகம் இரண்டாவது மாடியில் இருக்கிறது.",
+    "ro": "Eṉ aluvalagam iraṇḍāvadu māḍiyil irukkiṛadu.",
+    "lit": "mon · bureau · deuxième · étage [dans] (-il) · se trouve"
+   },
+   {
+    "fr": "Les enfants jouent dans notre rue.",
+    "tgt": "குழந்தைகள் எங்கள் தெருவில் விளையாடுகிறார்கள்.",
+    "ro": "Kuḻandaigaḷ engaḷ teruvil viḷaiyāḍugiṛārgaḷ.",
+    "lit": "enfants · notre · rue [dans] (-il) · jouent"
+   },
+   {
+    "fr": "Il y a beaucoup de boutiques dans ce quartier.",
+    "tgt": "இந்தப் பகுதியில் நிறைய கடைகள் இருக்கின்றன.",
+    "ro": "Indap pagudiyil niṛaiya kaḍaigaḷ irukkiṉṛaṉa.",
+    "lit": "ce · quartier [dans] (-il) · beaucoup · boutiques · il y a"
+   },
+   {
+    "fr": "Le matin, je bois mon café dans la cuisine.",
+    "tgt": "காலையில் நான் சமையலறையில் காப்பி குடிக்கிறேன்.",
+    "ro": "Kālaiyil nāṉ chamaiyalaṛaiyil kāppi kuḍikkiṛēṉ.",
+    "lit": "matin [dans] (-il) · je · cuisine [dans] (-il) · café · bois"
+   },
+   {
+    "fr": "En novembre, il pleut beaucoup.",
+    "tgt": "நவம்பரில் நிறைய மழை பெய்கிறது.",
+    "ro": "Navambaril niṛaiya maḻai peygiṛadu.",
+    "lit": "novembre [dans] (-il) · beaucoup · pluie · tombe"
+   },
+   {
+    "fr": "Je travaille dans une grande entreprise.",
+    "tgt": "நான் ஒரு பெரிய நிறுவனத்தில் வேலை செய்கிறேன்.",
+    "ro": "Nāṉ oru periya niṛuvaṉattil vēlai cheygiṛēṉ.",
+    "lit": "je · une · grande · entreprise [dans] (-il) · travail · fais"
+   },
+   {
+    "fr": "À Chennai, on parle tamoul.",
+    "tgt": "சென்னையில் தமிழ் பேசுகிறார்கள்.",
+    "ro": "Chennaiyil tamiḻ pēchugiṛārgaḷ.",
+    "lit": "Chennai [dans] (-il) · tamoul · parlent (ils)"
+   }
+  ]
+ },
+ "0-0-13": {
+  "module": "Le quotidien",
+  "title": "Ce qu'on trouve près de chez soi",
+  "grammaire_de_la_lecon": "« Irukkiṛadu » : il y a, se trouver",
+  "phrases": [
+   {
+    "fr": "Il y a une pharmacie tout près d'ici.",
+    "tgt": "இங்கே பக்கத்தில் ஒரு மருந்துக்கடை இருக்கிறது.",
+    "ro": "Ingē pakkattil oru marundukkaḍai irukkiṛadu.",
+    "lit": "ici · à côté [dans] (-il) · une · pharmacie · il y a"
+   },
+   {
+    "fr": "Il y a une banque dans cette rue.",
+    "tgt": "இந்தத் தெருவில் ஒரு வங்கி இருக்கிறது.",
+    "ro": "Indat teruvil oru vangi irukkiṛadu.",
+    "lit": "cette · rue [dans] (-il) · une · banque · il y a"
+   },
+   {
+    "fr": "Où se trouve le marché ?",
+    "tgt": "சந்தை எங்கே இருக்கிறது?",
+    "ro": "Chandai engē irukkiṛadu?",
+    "lit": "marché · où · se trouve"
+   },
+   {
+    "fr": "Le marché se trouve derrière la gare.",
+    "tgt": "சந்தை ரயில் நிலையத்துக்குப் பின்னால் இருக்கிறது.",
+    "ro": "Chandai rayil nilaiyattukkup piṉṉāl irukkiṛadu.",
+    "lit": "marché · train · station [à] (-ukku) · derrière · se trouve"
+   },
+   {
+    "fr": "Y a-t-il un restaurant près d'ici ?",
+    "tgt": "பக்கத்தில் உணவகம் இருக்கிறதா?",
+    "ro": "Pakkattil uṇavagam irukkiṛadā?",
+    "lit": "à côté [dans] (-il) · restaurant · il y a [question] (-ā)"
+   },
+   {
+    "fr": "Oui, il y a un petit restaurant.",
+    "tgt": "ஆமாம், ஒரு சின்ன உணவகம் இருக்கிறது.",
+    "ro": "Āmām, oru chiṉṉa uṇavagam irukkiṛadu.",
+    "lit": "oui · un · petit · restaurant · il y a"
+   },
+   {
+    "fr": "Il n'y a pas de jardin public ici.",
+    "tgt": "இங்கே பூங்கா இல்லை.",
+    "ro": "Ingē pūngā illai.",
+    "lit": "ici · jardin public · pas"
+   },
+   {
+    "fr": "La plage est toute proche.",
+    "tgt": "கடற்கரை மிக அருகில் இருக்கிறது.",
+    "ro": "Kaḍaṛkarai miga arugil irukkiṛadu.",
+    "lit": "plage · très · proximité [dans] (-il) · se trouve"
+   },
+   {
+    "fr": "Il y a un arbre devant la maison.",
+    "tgt": "வீட்டின் முன்னால் ஒரு மரம் இருக்கிறது.",
+    "ro": "Vīṭṭiṉ muṉṉāl oru maram irukkiṛadu.",
+    "lit": "maison [de] (-iṉ) · devant · un · arbre · il y a"
+   },
+   {
+    "fr": "Papa est à la maison.",
+    "tgt": "அப்பா வீட்டில் இருக்கிறார்.",
+    "ro": "Appā vīṭṭil irukkiṛār.",
+    "lit": "papa · maison [dans] (-il) · est [respect]"
+   }
+  ]
+ },
+ "0-0-14": {
+  "module": "Le quotidien",
+  "title": "Ce que j'ai sur moi",
+  "grammaire_de_la_lecon": "Avoir : « eṉṉiḍam ... irukkiṛadu », chez moi il y a",
+  "phrases": [
+   {
+    "fr": "J'ai une voiture.",
+    "tgt": "என்னிடம் ஒரு கார் இருக்கிறது.",
+    "ro": "Eṉṉiḍam oru kār irukkiṛadu.",
+    "lit": "moi [chez] (-iḍam) · une · voiture · il y a"
+   },
+   {
+    "fr": "J'ai toujours un parapluie.",
+    "tgt": "என்னிடம் எப்போதும் குடை இருக்கிறது.",
+    "ro": "Eṉṉiḍam eppōdum kuḍai irukkiṛadu.",
+    "lit": "moi [chez] (-iḍam) · toujours · parapluie · il y a"
+   },
+   {
+    "fr": "Vous avez de la petite monnaie ?",
+    "tgt": "உங்களிடம் சில்லறை இருக்கிறதா?",
+    "ro": "Ungaḷiḍam chillaṛai irukkiṛadā?",
+    "lit": "vous [chez] (-iḍam) · monnaie · il y a [question] (-ā)"
+   },
+   {
+    "fr": "Non, je n'ai pas de monnaie.",
+    "tgt": "இல்லை, என்னிடம் சில்லறை இல்லை.",
+    "ro": "Illai, eṉṉiḍam chillaṛai illai.",
+    "lit": "non · moi [chez] (-iḍam) · monnaie · pas"
+   },
+   {
+    "fr": "Elle a un nouveau téléphone.",
+    "tgt": "அவளிடம் ஒரு புதிய கைபேசி இருக்கிறது.",
+    "ro": "Avaḷiḍam oru pudiya kaibēchi irukkiṛadu.",
+    "lit": "elle [chez] (-iḍam) · un · nouveau · téléphone · il y a"
+   },
+   {
+    "fr": "Il a beaucoup de livres.",
+    "tgt": "அவனிடம் நிறைய புத்தகங்கள் இருக்கின்றன.",
+    "ro": "Avaṉiḍam niṛaiya puttagangaḷ irukkiṉṛaṉa.",
+    "lit": "lui [chez] (-iḍam) · beaucoup · livres · il y a"
+   },
+   {
+    "fr": "Nous avons deux enfants.",
+    "tgt": "எங்களுக்கு இரண்டு குழந்தைகள் இருக்கிறார்கள்.",
+    "ro": "Engaḷukku iraṇḍu kuḻandaigaḷ irukkiṛārgaḷ.",
+    "lit": "nous [à] (-ukku) · deux · enfants · il y a (personnes)"
+   },
+   {
+    "fr": "Aujourd'hui, je n'ai pas le temps.",
+    "tgt": "இன்று எனக்கு நேரம் இல்லை.",
+    "ro": "Iṉṛu eṉakku nēram illai.",
+    "lit": "aujourd'hui · moi [à] (-ukku) · temps · pas"
+   },
+   {
+    "fr": "Vous avez un stylo, par hasard ?",
+    "tgt": "உங்களிடம் பேனா இருக்கிறதா?",
+    "ro": "Ungaḷiḍam pēṉā irukkiṛadā?",
+    "lit": "vous [chez] (-iḍam) · stylo · il y a [question] (-ā)"
+   },
+   {
+    "fr": "Oui, j'ai un stylo bleu.",
+    "tgt": "ஆமாம், என்னிடம் ஒரு நீலப் பேனா இருக்கிறது.",
+    "ro": "Āmām, eṉṉiḍam oru nīlap pēṉā irukkiṛadu.",
+    "lit": "oui · moi [chez] (-iḍam) · un · bleu · stylo · il y a"
+   }
+  ]
+ },
+ "0-0-15": {
+  "module": "Le quotidien",
+  "title": "Les horaires de la journée",
+  "grammaire_de_la_lecon": "L'heure : « maṇi », et quelle heure est-il",
+  "phrases": [
+   {
+    "fr": "Excusez-moi, quelle heure est-il ?",
+    "tgt": "மன்னிக்கவும், மணி என்ன?",
+    "ro": "Maṉṉikkavum, maṇi eṉṉa?",
+    "lit": "pardonnez · heure · quoi"
+   },
+   {
+    "fr": "Il est sept heures.",
+    "tgt": "மணி ஏழு.",
+    "ro": "Maṇi ēḻu.",
+    "lit": "heure · sept"
+   },
+   {
+    "fr": "Je me lève tous les jours à six heures.",
+    "tgt": "நான் தினமும் ஆறு மணிக்கு எழுந்திருக்கிறேன்.",
+    "ro": "Nāṉ tiṉamum āṛu maṇikku eḻundirukkiṛēṉ.",
+    "lit": "je · chaque jour · six · heure [à] (-ukku) · me lève"
+   },
+   {
+    "fr": "Le bus passe à huit heures.",
+    "tgt": "பேருந்து எட்டு மணிக்கு வரும்.",
+    "ro": "Pērundu eṭṭu maṇikku varum.",
+    "lit": "bus · huit · heure [à] (-ukku) · viendra"
+   },
+   {
+    "fr": "Notre bureau ouvre à neuf heures.",
+    "tgt": "எங்கள் அலுவலகம் ஒன்பது மணிக்குத் திறக்கும்.",
+    "ro": "Engaḷ aluvalagam oṉbadu maṇikkut tiṛakkum.",
+    "lit": "notre · bureau · neuf · heure [à] (-ukku) · ouvrira"
+   },
+   {
+    "fr": "Je prends mon déjeuner à une heure.",
+    "tgt": "நான் ஒரு மணிக்கு மதிய உணவு சாப்பிடுகிறேன்.",
+    "ro": "Nāṉ oru maṇikku madiya uṇavu chāppiḍugiṛēṉ.",
+    "lit": "je · une · heure [à] (-ukku) · midi · repas · mange"
+   },
+   {
+    "fr": "Il est cinq heures et demie.",
+    "tgt": "மணி ஐந்தரை.",
+    "ro": "Maṇi aindarai.",
+    "lit": "heure · cinq et demie"
+   },
+   {
+    "fr": "On se voit à six heures ?",
+    "tgt": "ஆறு மணிக்குப் பார்க்கலாமா?",
+    "ro": "Āṛu maṇikkup pārkkalāmā?",
+    "lit": "six · heure [à] (-ukku) · on peut se voir [question] (-ā)"
+   },
+   {
+    "fr": "Le soir, je rentre à sept heures.",
+    "tgt": "மாலையில் நான் ஏழு மணிக்கு வீட்டுக்கு வருகிறேன்.",
+    "ro": "Mālaiyil nāṉ ēḻu maṇikku vīṭṭukku varugiṛēṉ.",
+    "lit": "soir [dans] (-il) · je · sept · heure [à] (-ukku) · maison [à] (-ukku) · viens"
+   },
+   {
+    "fr": "Il est déjà dix heures !",
+    "tgt": "மணி ஏற்கனவே பத்து!",
+    "ro": "Maṇi ēṛkaṉavē pattu!",
+    "lit": "heure · déjà · dix"
+   }
+  ]
+ },
+ "0-0-16": {
+  "module": "Le quotidien",
+  "title": "Au petit restaurant du coin",
+  "grammaire_de_la_lecon": "« Vēṇḍum » : vouloir, avoir besoin de",
+  "phrases": [
+   {
+    "fr": "Je voudrais un dosa.",
+    "tgt": "எனக்கு ஒரு தோசை வேண்டும்.",
+    "ro": "Eṉakku oru tōchai vēṇḍum.",
+    "lit": "moi [à] (-ukku) · un · dosa · il faut"
+   },
+   {
+    "fr": "Que désirez-vous ?",
+    "tgt": "உங்களுக்கு என்ன வேண்டும்?",
+    "ro": "Ungaḷukku eṉṉa vēṇḍum?",
+    "lit": "vous [à] (-ukku) · quoi · il faut"
+   },
+   {
+    "fr": "Nous voulons un repas sur feuille de bananier.",
+    "tgt": "எங்களுக்கு வாழை இலைச் சாப்பாடு வேண்டும்.",
+    "ro": "Engaḷukku vāḻai ilaich chāppāḍu vēṇḍum.",
+    "lit": "nous [à] (-ukku) · bananier · feuille · repas · il faut"
+   },
+   {
+    "fr": "Vous voulez de l'eau ?",
+    "tgt": "தண்ணீர் வேண்டுமா?",
+    "ro": "Taṇṇīr vēṇḍumā?",
+    "lit": "eau · il faut [question] (-ā)"
+   },
+   {
+    "fr": "Non, ça ira, merci.",
+    "tgt": "வேண்டாம், நன்றி.",
+    "ro": "Vēṇḍām, naṉṛi.",
+    "lit": "pas besoin · merci"
+   },
+   {
+    "fr": "Je voudrais un café sans sucre.",
+    "tgt": "எனக்குச் சர்க்கரை இல்லாத காப்பி வேண்டும்.",
+    "ro": "Eṉakkuch charkkarai illāda kāppi vēṇḍum.",
+    "lit": "moi [à] (-ukku) · sucre · sans · café · il faut"
+   },
+   {
+    "fr": "Il me faut une cuillère.",
+    "tgt": "எனக்கு ஒரு கரண்டி வேண்டும்.",
+    "ro": "Eṉakku oru karaṇḍi vēṇḍum.",
+    "lit": "moi [à] (-ukku) · une · cuillère · il faut"
+   },
+   {
+    "fr": "Ma fille veut une glace.",
+    "tgt": "என் மகளுக்கு ஐஸ்கிரீம் வேண்டும்.",
+    "ro": "Eṉ magaḷukku aiskirīm vēṇḍum.",
+    "lit": "ma · fille [à] (-ukku) · glace · il faut"
+   },
+   {
+    "fr": "Il faut payer à la caisse.",
+    "tgt": "காசாளரிடம் பணம் கட்ட வேண்டும்.",
+    "ro": "Kāchāḷariḍam paṇam kaṭṭa vēṇḍum.",
+    "lit": "caissier [chez] (-iḍam) · argent · payer · il faut"
+   },
+   {
+    "fr": "Encore un peu de chutney, s'il vous plaît.",
+    "tgt": "இன்னும் கொஞ்சம் சட்னி வேண்டும்.",
+    "ro": "Iṉṉum koncham chaṭṉi vēṇḍum.",
+    "lit": "encore · un peu · chutney · il faut"
+   }
+  ]
+ },
+ "0-0-17": {
+  "module": "Le quotidien",
+  "title": "Ma journée ordinaire",
+  "grammaire_de_la_lecon": "Le présent : « -kiṛēṉ », je fais",
+  "phrases": [
+   {
+    "fr": "Je me réveille tôt le matin.",
+    "tgt": "நான் காலையில் சீக்கிரம் எழுந்திருக்கிறேன்.",
+    "ro": "Nāṉ kālaiyil chīkkiram eḻundirukkiṛēṉ.",
+    "lit": "je · matin [dans] (-il) · tôt · me lève"
+   },
+   {
+    "fr": "Je prends une douche.",
+    "tgt": "நான் குளிக்கிறேன்.",
+    "ro": "Nāṉ kuḷikkiṛēṉ.",
+    "lit": "je · me lave"
+   },
+   {
+    "fr": "Je prépare le café.",
+    "tgt": "நான் காப்பி போடுகிறேன்.",
+    "ro": "Nāṉ kāppi pōḍugiṛēṉ.",
+    "lit": "je · café · prépare"
+   },
+   {
+    "fr": "Ensuite, je lis le journal.",
+    "tgt": "பிறகு நான் செய்தித்தாள் படிக்கிறேன்.",
+    "ro": "Piṛagu nāṉ cheydittāḷ paḍikkiṛēṉ.",
+    "lit": "ensuite · je · journal · lis"
+   },
+   {
+    "fr": "Je mange deux idlis.",
+    "tgt": "நான் இரண்டு இட்லி சாப்பிடுகிறேன்.",
+    "ro": "Nāṉ iraṇḍu iṭli chāppiḍugiṛēṉ.",
+    "lit": "je · deux · idli · mange"
+   },
+   {
+    "fr": "Je sors de chez moi à huit heures.",
+    "tgt": "நான் எட்டு மணிக்கு வீட்டிலிருந்து கிளம்புகிறேன்.",
+    "ro": "Nāṉ eṭṭu maṇikku vīṭṭilirundu kiḷambugiṛēṉ.",
+    "lit": "je · huit · heure [à] (-ukku) · maison [depuis] (-ilirundu) · pars"
+   },
+   {
+    "fr": "Que faites-vous ?",
+    "tgt": "நீங்கள் என்ன செய்கிறீர்கள்?",
+    "ro": "Nīngaḷ eṉṉa cheygiṛīrgaḷ?",
+    "lit": "vous · quoi · faites"
+   },
+   {
+    "fr": "Je travaille sur l'ordinateur.",
+    "tgt": "நான் கணினியில் வேலை செய்கிறேன்.",
+    "ro": "Nāṉ kaṇiṉiyil vēlai cheygiṛēṉ.",
+    "lit": "je · ordinateur [dans] (-il) · travail · fais"
+   },
+   {
+    "fr": "Ma femme cuisine très bien.",
+    "tgt": "என் மனைவி நன்றாகச் சமைக்கிறாள்.",
+    "ro": "Eṉ maṉaivi naṉṛāgach chamaikkiṛāḷ.",
+    "lit": "mon · épouse · bien · cuisine (elle)"
+   },
+   {
+    "fr": "J'apprends le tamoul tous les jours.",
+    "tgt": "நான் தினமும் தமிழ் கற்றுக்கொள்கிறேன்.",
+    "ro": "Nāṉ tiṉamum tamiḻ kaṛṛukkoḷgiṛēṉ.",
+    "lit": "je · chaque jour · tamoul · apprends"
+   }
+  ]
+ },
+ "0-0-18": {
+  "module": "Le quotidien",
+  "title": "La promenade du soir à Marina",
+  "grammaire_de_la_lecon": "« -um » : et, aussi",
+  "phrases": [
+   {
+    "fr": "Ma femme et moi, nous marchons sur la plage.",
+    "tgt": "நானும் என் மனைவியும் கடற்கரையில் நடக்கிறோம்.",
+    "ro": "Nāṉum eṉ maṉaiviyum kaḍaṛkaraiyil naḍakkiṛōm.",
+    "lit": "je [et] (-um) · mon · épouse [et] (-um) · plage [dans] (-il) · marchons"
+   },
+   {
+    "fr": "Le vent et la mer sont agréables.",
+    "tgt": "காற்றும் கடலும் இனிமையாக இருக்கின்றன.",
+    "ro": "Kāṛṛum kaḍalum iṉimaiyāga irukkiṉṛaṉa.",
+    "lit": "vent [et] (-um) · mer [et] (-um) · agréables · sont"
+   },
+   {
+    "fr": "Moi aussi, j'aime la mer.",
+    "tgt": "எனக்கும் கடல் பிடிக்கும்.",
+    "ro": "Eṉakkum kaḍal piḍikkum.",
+    "lit": "moi [à] [aussi] (-um) · mer · plaît"
+   },
+   {
+    "fr": "Les enfants viennent aussi.",
+    "tgt": "குழந்தைகளும் வருகிறார்கள்.",
+    "ro": "Kuḻandaigaḷum varugiṛārgaḷ.",
+    "lit": "enfants [aussi] (-um) · viennent"
+   },
+   {
+    "fr": "Nous achetons des cacahuètes et du thé.",
+    "tgt": "நாங்கள் வேர்க்கடலையும் டீயும் வாங்குகிறோம்.",
+    "ro": "Nāngaḷ vērkkaḍalaiyum ṭīyum vāngugiṛōm.",
+    "lit": "nous · cacahuète [et] (-um) · thé [et] (-um) · achetons"
+   },
+   {
+    "fr": "Ravi vient aussi ce soir.",
+    "tgt": "இன்று மாலை ரவியும் வருகிறான்.",
+    "ro": "Iṉṛu mālai Raviyum varugiṛāṉ.",
+    "lit": "aujourd'hui · soir · Ravi [aussi] (-um) · vient"
+   },
+   {
+    "fr": "Sur la plage, il y a des marchands et des familles.",
+    "tgt": "கடற்கரையில் வியாபாரிகளும் குடும்பங்களும் இருக்கிறார்கள்.",
+    "ro": "Kaḍaṛkaraiyil viyābārigaḷum kuḍumbangaḷum irukkiṛārgaḷ.",
+    "lit": "plage [dans] (-il) · marchands [et] (-um) · familles [et] (-um) · il y a (personnes)"
+   },
+   {
+    "fr": "Le matin aussi, la plage est belle.",
+    "tgt": "காலையிலும் கடற்கரை அழகாக இருக்கிறது.",
+    "ro": "Kālaiyilum kaḍaṛkarai aḻagāga irukkiṛadu.",
+    "lit": "matin [dans] [aussi] (-um) · plage · belle · est"
+   },
+   {
+    "fr": "Mon ami et sa femme attendent là-bas.",
+    "tgt": "என் நண்பரும் அவர் மனைவியும் அங்கே காத்திருக்கிறார்கள்.",
+    "ro": "Eṉ naṇbarum avar maṉaiviyum angē kāttirukkiṛārgaḷ.",
+    "lit": "mon · ami [et] (-um) · son · épouse [et] (-um) · là-bas · attendent"
+   },
+   {
+    "fr": "Je parle français et un peu tamoul.",
+    "tgt": "நான் பிரெஞ்சும் கொஞ்சம் தமிழும் பேசுகிறேன்.",
+    "ro": "Nāṉ pirenchum koncham tamiḻum pēchugiṛēṉ.",
+    "lit": "je · français [et] (-um) · un peu · tamoul [et] (-um) · parle"
+   }
+  ]
+ },
+ "0-0-19": {
+  "module": "Le quotidien",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "Les formules magiques : « naṉṛi », « maṉṉikkavum », « paravāyillai »",
+  "phrases": [
+   {
+    "fr": "Un grand merci pour tout !",
+    "tgt": "எல்லாவற்றுக்கும் மிக்க நன்றி!",
+    "ro": "Ellāvaṛṛukkum mikka naṉṛi!",
+    "lit": "tout [pour] (-ukku) [aussi] (-um) · grand · merci"
+   },
+   {
+    "fr": "Excusez-moi, je n'ai pas compris.",
+    "tgt": "மன்னிக்கவும், எனக்குப் புரியவில்லை.",
+    "ro": "Maṉṉikkavum, eṉakkup puriyavillai.",
+    "lit": "pardonnez · moi [à] (-ukku) · pas compris (-illai)"
+   },
+   {
+    "fr": "Ce n'est pas grave, ne vous inquiétez pas.",
+    "tgt": "பரவாயில்லை, கவலைப்படாதீர்கள்.",
+    "ro": "Paravāyillai, kavalaippaḍādīrgaḷ.",
+    "lit": "ça ne fait rien · ne vous inquiétez pas"
+   },
+   {
+    "fr": "Le premier module est terminé.",
+    "tgt": "முதல் பகுதி முடிந்தது.",
+    "ro": "Mudal pagudi muḍindadu.",
+    "lit": "premier · partie · s'est terminée"
+   },
+   {
+    "fr": "Maintenant, nous parlons un peu tamoul.",
+    "tgt": "இப்போது நாம் கொஞ்சம் தமிழ் பேசுகிறோம்.",
+    "ro": "Ippōdu nām koncham tamiḻ pēchugiṛōm.",
+    "lit": "maintenant · nous · un peu · tamoul · parlons"
+   },
+   {
+    "fr": "Chennai, c'est maintenant notre maison.",
+    "tgt": "சென்னை இப்போது நம் வீடு.",
+    "ro": "Chennai ippōdu nam vīḍu.",
+    "lit": "Chennai · maintenant · notre · maison"
+   },
+   {
+    "fr": "Merci à vous, et à la prochaine !",
+    "tgt": "உங்களுக்கு நன்றி, மீண்டும் சந்திப்போம்!",
+    "ro": "Ungaḷukku naṉṛi, mīṇḍum chandippōm!",
+    "lit": "vous [à] (-ukku) · merci · de nouveau · nous nous rencontrerons"
+   },
+   {
+    "fr": "Pardon, répétez, s'il vous plaît.",
+    "tgt": "மன்னிக்கவும், மீண்டும் சொல்லுங்கள்.",
+    "ro": "Maṉṉikkavum, mīṇḍum chollungaḷ.",
+    "lit": "pardonnez · de nouveau · dites [respect]"
+   },
+   {
+    "fr": "Bientôt, nous partons en voyage à Pondichéry.",
+    "tgt": "விரைவில் நாம் புதுச்சேரிக்குப் பயணம் போகிறோம்.",
+    "ro": "Viraivil nām Puduchchērikkup payaṇam pōgiṛōm.",
+    "lit": "bientôt · nous · Pondichéry [à] (-ukku) · voyage · allons"
+   },
+   {
+    "fr": "Bravo, continuez vos efforts !",
+    "tgt": "பாராட்டுகள், தொடர்ந்து முயற்சி செய்யுங்கள்!",
+    "ro": "Pārāṭṭugaḷ, toḍarndu muyaṛchi cheyyungaḷ!",
+    "lit": "félicitations · en continuant · effort · faites [respect]"
+   }
+  ]
+ },
+ "0-1-0": {
+  "module": "En voyage",
+  "title": "À la gare d'Egmore, à Chennai",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Où est la gare d'Egmore ?",
+    "tgt": "எழும்பூர் ரயில் நிலையம் எங்கே?",
+    "ro": "Eḻumpūr rayil nilaiyam enkē?",
+    "lit": "Egmore · train · gare · où"
+   },
+   {
+    "fr": "La voilà, juste en face.",
+    "tgt": "அதோ, எதிரே இருக்கிறது.",
+    "ro": "Atō, etirē irukkiratu.",
+    "lit": "la voilà · en face · [elle] se trouve"
+   },
+   {
+    "fr": "Le guichet des billets, il est où ?",
+    "tgt": "டிக்கெட் கவுண்டர் எங்கே?",
+    "ro": "Ṭikkeṭ kavuṇḍar enkē?",
+    "lit": "billet · guichet · où"
+   },
+   {
+    "fr": "Le guichet est sur la gauche.",
+    "tgt": "கவுண்டர் இடது பக்கம் இருக்கிறது.",
+    "ro": "Kavuṇḍar iḍatu pakkam irukkiratu.",
+    "lit": "guichet · gauche · côté · se trouve"
+   },
+   {
+    "fr": "La file d'attente est très longue.",
+    "tgt": "வரிசை ரொம்ப நீளமாக இருக்கிறது.",
+    "ro": "Varichai rompa nīḷamāka irukkiratu.",
+    "lit": "file · très · long[-ment] · est"
+   },
+   {
+    "fr": "J'ai une grosse valise.",
+    "tgt": "என்னிடம் ஒரு பெரிய பெட்டி இருக்கிறது.",
+    "ro": "Eṉṉiḍam oru periya peṭṭi irukkiratu.",
+    "lit": "moi[chez] · une · grande · valise · se trouve"
+   },
+   {
+    "fr": "Où sont les toilettes, s'il vous plaît ?",
+    "tgt": "கழிப்பறை எங்கே?",
+    "ro": "Kaḻipparai enkē?",
+    "lit": "toilettes · où"
+   },
+   {
+    "fr": "Il y a un stand de café ici ?",
+    "tgt": "இங்கே காபி கடை இருக்கிறதா?",
+    "ro": "Inkē kāpi kaḍai irukkiratā?",
+    "lit": "ici · café · boutique · se trouve[question] (-ā)"
+   },
+   {
+    "fr": "Je voudrais un café bien chaud.",
+    "tgt": "எனக்கு ஒரு சூடான காபி வேண்டும்.",
+    "ro": "Eṉakku oru chūḍāṉa kāpi vēṇḍum.",
+    "lit": "moi[à] (-ukku) · un · chaud · café · [il faut]"
+   },
+   {
+    "fr": "Le train part à sept heures du matin.",
+    "tgt": "ரயில் காலை ஏழு மணிக்குப் புறப்படுகிறது.",
+    "ro": "Rayil kālai ēḻu maṇikkup purappaḍukiratu.",
+    "lit": "train · matin · sept · heure[à] (-ukku) · part"
+   }
+  ]
+ },
+ "0-1-1": {
+  "module": "En voyage",
+  "title": "Un billet pour Pondichéry",
+  "grammaire_de_la_lecon": "« Iṉru », « nāḷai », « nērru » : aujourd'hui, demain, hier",
+  "phrases": [
+   {
+    "fr": "Je voudrais un billet pour Pondichéry.",
+    "tgt": "எனக்குப் பாண்டிச்சேரிக்கு ஒரு டிக்கெட் வேண்டும்.",
+    "ro": "Eṉakkup Pāṇḍichchērikku oru ṭikkeṭ vēṇḍum.",
+    "lit": "moi[à] (-ukku) · Pondichéry[pour] (-ukku) · un · billet · [il faut]"
+   },
+   {
+    "fr": "Pour aujourd'hui ou pour demain ?",
+    "tgt": "இன்றைக்கா, நாளைக்கா?",
+    "ro": "Iṉraikkā, nāḷaikkā?",
+    "lit": "aujourd'hui[pour][question] · demain[pour][question]"
+   },
+   {
+    "fr": "Aujourd'hui, il n'y a plus de place.",
+    "tgt": "இன்று இடம் இல்லை.",
+    "ro": "Iṉru iḍam illai.",
+    "lit": "aujourd'hui · place · [il n'y a] pas"
+   },
+   {
+    "fr": "Demain matin, il reste des places.",
+    "tgt": "நாளை காலையில் இடம் இருக்கிறது.",
+    "ro": "Nāḷai kālaiyil iḍam irukkiratu.",
+    "lit": "demain · matin[dans] (-il) · place · se trouve"
+   },
+   {
+    "fr": "Alors un billet pour demain matin.",
+    "tgt": "அப்படியென்றால் நாளை காலைக்கு ஒரு டிக்கெட்.",
+    "ro": "Appaḍiyeṉrāl nāḷai kālaikku oru ṭikkeṭ.",
+    "lit": "alors · demain · matin[pour] (-ukku) · un · billet"
+   },
+   {
+    "fr": "Je suis arrivé à Chennai hier.",
+    "tgt": "நான் நேற்று சென்னைக்கு வந்தேன்.",
+    "ro": "Nāṉ nērru Cheṉṉaikku vantēṉ.",
+    "lit": "je · hier · Chennai[à] (-ukku) · suis venu"
+   },
+   {
+    "fr": "Aujourd'hui, je suis encore à Chennai.",
+    "tgt": "இன்று நான் இன்னும் சென்னையில் இருக்கிறேன்.",
+    "ro": "Iṉru nāṉ iṉṉum Cheṉṉaiyil irukkirēṉ.",
+    "lit": "aujourd'hui · je · encore · Chennai[dans] (-il) · suis"
+   },
+   {
+    "fr": "Demain, je pars pour Pondichéry.",
+    "tgt": "நாளை நான் பாண்டிச்சேரிக்குப் போகிறேன்.",
+    "ro": "Nāḷai nāṉ Pāṇḍichchērikkup pōkirēṉ.",
+    "lit": "demain · je · Pondichéry[à] (-ukku) · vais"
+   },
+   {
+    "fr": "Hier, il faisait une chaleur terrible.",
+    "tgt": "நேற்று ரொம்ப வெயில்.",
+    "ro": "Nērru rompa veyil.",
+    "lit": "hier · très · soleil"
+   },
+   {
+    "fr": "Et aujourd'hui, toujours ce soleil !",
+    "tgt": "இன்றும் வெயில்தான்!",
+    "ro": "Iṉrum veyiltāṉ!",
+    "lit": "aujourd'hui[aussi] (-um) · soleil[justement] (-tāṉ)"
+   }
+  ]
+ },
+ "0-1-2": {
+  "module": "En voyage",
+  "title": "En bus sur la route de la côte",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ce bus va bien à Pondichéry ?",
+    "tgt": "இந்தப் பஸ் பாண்டிச்சேரிக்குப் போகுமா?",
+    "ro": "Intap pas Pāṇḍichchērikkup pōkumā?",
+    "lit": "ce · bus · Pondichéry[à] (-ukku) · ira[question] (-ā)"
+   },
+   {
+    "fr": "Oui, montez vite.",
+    "tgt": "ஆமாம், சீக்கிரம் ஏறுங்கள்.",
+    "ro": "Āmām, chīkkiram ērunkaḷ.",
+    "lit": "oui · vite · montez [respect]"
+   },
+   {
+    "fr": "Cette place-là est libre ?",
+    "tgt": "இந்த இடம் காலியா?",
+    "ro": "Inta iḍam kāliyā?",
+    "lit": "cette · place · vide[question] (-ā)"
+   },
+   {
+    "fr": "Merci, je m'assois ici.",
+    "tgt": "நன்றி, நான் இங்கே உட்கார்கிறேன்.",
+    "ro": "Naṉri, nāṉ inkē uṭkārkirēṉ.",
+    "lit": "merci · je · ici · m'assois"
+   },
+   {
+    "fr": "Le trajet dure combien de temps, à peu près ?",
+    "tgt": "எவ்வளவு நேரம் ஆகும்?",
+    "ro": "Evvaḷavu nēram ākum?",
+    "lit": "combien · temps · prendra"
+   },
+   {
+    "fr": "À peu près trois heures.",
+    "tgt": "சுமார் மூன்று மணி நேரம்.",
+    "ro": "Chumār mūṉru maṇi nēram.",
+    "lit": "environ · trois · heure · temps"
+   },
+   {
+    "fr": "La route longe la mer.",
+    "tgt": "சாலை கடல் ஓரமாகப் போகிறது.",
+    "ro": "Chālai kaḍal ōramākap pōkiratu.",
+    "lit": "route · mer · bord[le long] · va"
+   },
+   {
+    "fr": "Regardez, la mer est superbe !",
+    "tgt": "பாருங்கள், கடல் ரொம்ப அழகு!",
+    "ro": "Pārunkaḷ, kaḍal rompa aḻaku!",
+    "lit": "regardez [respect] · mer · très · beauté"
+   },
+   {
+    "fr": "Le bus s'arrête à Mahabalipuram ?",
+    "tgt": "பஸ் மாமல்லபுரத்தில் நிற்குமா?",
+    "ro": "Pas Māmallapurattil nirkumā?",
+    "lit": "bus · Mahabalipuram[dans] (-il) · s'arrêtera[question] (-ā)"
+   },
+   {
+    "fr": "Cinq minutes seulement, pas plus.",
+    "tgt": "ஐந்து நிமிடம் மட்டும்தான்.",
+    "ro": "Aintu nimiḍam maṭṭumtāṉ.",
+    "lit": "cinq · minute · seulement[justement] (-tāṉ)"
+   }
+  ]
+ },
+ "0-1-3": {
+  "module": "En voyage",
+  "title": "La petite pension près de la mer",
+  "grammaire_de_la_lecon": "« -unkaḷ » : demander poliment, « koḍunkaḷ », donnez-moi",
+  "phrases": [
+   {
+    "fr": "Bonjour, une chambre est réservée à mon nom.",
+    "tgt": "வணக்கம், என் பெயரில் ஒரு அறை இருக்கிறது.",
+    "ro": "Vaṇakkam, eṉ peyaril oru arai irukkiratu.",
+    "lit": "bonjour · mon · nom[dans] (-il) · une · chambre · se trouve"
+   },
+   {
+    "fr": "Donnez-moi votre passeport, s'il vous plaît.",
+    "tgt": "உங்கள் பாஸ்போர்ட்டைக் கொடுங்கள்.",
+    "ro": "Unkaḷ pāspōrṭṭaik koḍunkaḷ.",
+    "lit": "votre · passeport[objet] (-ai) · donnez [respect]"
+   },
+   {
+    "fr": "Voici, tenez.",
+    "tgt": "இதோ, எடுத்துக்கொள்ளுங்கள்.",
+    "ro": "Itō, eḍuttukkoḷḷunkaḷ.",
+    "lit": "voici · prenez [respect]"
+   },
+   {
+    "fr": "Montrez-moi la chambre d'abord, s'il vous plaît.",
+    "tgt": "முதலில் அறையைக் காட்டுங்கள்.",
+    "ro": "Mutalil araiyaik kāṭṭunkaḷ.",
+    "lit": "d'abord · chambre[objet] (-ai) · montrez [respect]"
+   },
+   {
+    "fr": "De la chambre, on voit la mer.",
+    "tgt": "அறையிலிருந்து கடல் தெரியும்.",
+    "ro": "Araiyiliruntu kaḍal teriyum.",
+    "lit": "chambre[depuis] (-iliruntu) · mer · se voit"
+   },
+   {
+    "fr": "Donnez-moi la clé de la chambre, s'il vous plaît.",
+    "tgt": "அறைச் சாவியைக் கொடுங்கள்.",
+    "ro": "Araich chāviyaik koḍunkaḷ.",
+    "lit": "chambre · clé[objet] (-ai) · donnez [respect]"
+   },
+   {
+    "fr": "Donnez-moi aussi une serviette.",
+    "tgt": "ஒரு டவலும் கொடுங்கள்.",
+    "ro": "Oru ṭavalum koḍunkaḷ.",
+    "lit": "une · serviette[aussi] (-um) · donnez [respect]"
+   },
+   {
+    "fr": "Le petit-déjeuner est servi à quelle heure ?",
+    "tgt": "காலை உணவு எத்தனை மணிக்கு?",
+    "ro": "Kālai uṇavu ettaṉai maṇikku?",
+    "lit": "matin · repas · combien · heure[à] (-ukku)"
+   },
+   {
+    "fr": "De sept heures à dix heures.",
+    "tgt": "ஏழு மணியிலிருந்து பத்து மணி வரை.",
+    "ro": "Ēḻu maṇiyiliruntu pattu maṇi varai.",
+    "lit": "sept · heure[depuis] (-iliruntu) · dix · heure · jusqu'à"
+   },
+   {
+    "fr": "Reposez-vous bien après le voyage.",
+    "tgt": "பயணத்துக்குப் பிறகு நன்றாக ஓய்வு எடுங்கள்.",
+    "ro": "Payaṇattukkup piraku naṉrāka ōyvu eḍunkaḷ.",
+    "lit": "voyage[à] (-ukku) · après · bien · repos · prenez [respect]"
+   }
+  ]
+ },
+ "0-1-4": {
+  "module": "En voyage",
+  "title": "En auto-rickshaw dans Pondichéry",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Auto ! Vous êtes libre ?",
+    "tgt": "ஆட்டோ! வருகிறீர்களா?",
+    "ro": "Āṭṭō! Varukirīrkaḷā?",
+    "lit": "auto · venez [respect][question] (-ā)"
+   },
+   {
+    "fr": "Vous allez où ?",
+    "tgt": "எங்கே போக வேண்டும்?",
+    "ro": "Enkē pōka vēṇḍum?",
+    "lit": "où · aller · [il faut]"
+   },
+   {
+    "fr": "Au quartier français, s'il vous plaît.",
+    "tgt": "பிரெஞ்சுப் பகுதிக்குப் போங்கள்.",
+    "ro": "Pirenchup pakutikkup pōnkaḷ.",
+    "lit": "français · quartier[à] (-ukku) · allez [respect]"
+   },
+   {
+    "fr": "C'est combien pour y aller ?",
+    "tgt": "அங்கே போக எவ்வளவு?",
+    "ro": "Ankē pōka evvaḷavu?",
+    "lit": "là-bas · aller · combien"
+   },
+   {
+    "fr": "Ça fera cent roupies.",
+    "tgt": "நூறு ரூபாய்.",
+    "ro": "Nūru rūpāy.",
+    "lit": "cent · roupie"
+   },
+   {
+    "fr": "C'est beaucoup trop !",
+    "tgt": "ரொம்ப அதிகம்!",
+    "ro": "Rompa atikam!",
+    "lit": "très · excessif"
+   },
+   {
+    "fr": "Soixante-dix roupies, ça vous va ?",
+    "tgt": "எழுபது ரூபாய், சரியா?",
+    "ro": "Eḻupatu rūpāy, chariyā?",
+    "lit": "soixante-dix · roupie · correct[question] (-ā)"
+   },
+   {
+    "fr": "Bon, d'accord, montez.",
+    "tgt": "சரி, ஏறுங்கள்.",
+    "ro": "Chari, ērunkaḷ.",
+    "lit": "d'accord · montez [respect]"
+   },
+   {
+    "fr": "Roulez doucement, s'il vous plaît.",
+    "tgt": "மெதுவாகப் போங்கள்.",
+    "ro": "Metuvākap pōnkaḷ.",
+    "lit": "lentement · allez [respect]"
+   },
+   {
+    "fr": "Arrêtez-vous ici, s'il vous plaît.",
+    "tgt": "இங்கே நிறுத்துங்கள்.",
+    "ro": "Inkē niruttunkaḷ.",
+    "lit": "ici · arrêtez [respect]"
+   }
+  ]
+ },
+ "0-1-5": {
+  "module": "En voyage",
+  "title": "Au bazar de Pondichéry",
+  "grammaire_de_la_lecon": "« Evvaḷavu » : demander un prix, les roupies",
+  "phrases": [
+   {
+    "fr": "Combien coûte ce châle ?",
+    "tgt": "இந்தச் சால்வை எவ்வளவு?",
+    "ro": "Intach chālvai evvaḷavu?",
+    "lit": "ce · châle · combien"
+   },
+   {
+    "fr": "Trois cents roupies.",
+    "tgt": "முந்நூறு ரூபாய்.",
+    "ro": "Munnūru rūpāy.",
+    "lit": "trois cents · roupie"
+   },
+   {
+    "fr": "Et celui-ci, c'est combien ?",
+    "tgt": "இது எவ்வளவு?",
+    "ro": "Itu evvaḷavu?",
+    "lit": "ceci · combien"
+   },
+   {
+    "fr": "Celui-ci fait deux cents roupies.",
+    "tgt": "இது இருநூறு ரூபாய்.",
+    "ro": "Itu irunūru rūpāy.",
+    "lit": "ceci · deux cents · roupie"
+   },
+   {
+    "fr": "Baissez un peu le prix, s'il vous plaît.",
+    "tgt": "கொஞ்சம் குறைத்துக் கொடுங்கள்.",
+    "ro": "Koncham kuraittuk koḍunkaḷ.",
+    "lit": "un peu · en baissant · donnez [respect]"
+   },
+   {
+    "fr": "Deux cent cinquante, c'est mon dernier prix.",
+    "tgt": "இருநூற்று ஐம்பது, இதுதான் கடைசி விலை.",
+    "ro": "Irunūrru aimpatu, itutāṉ kaḍaichi vilai.",
+    "lit": "deux cent · cinquante · ceci[justement] (-tāṉ) · dernier · prix"
+   },
+   {
+    "fr": "Et les deux châles ensemble, c'est combien ?",
+    "tgt": "இரண்டு சால்வைக்கும் சேர்த்து எவ்வளவு?",
+    "ro": "Iraṇḍu chālvaikkum chērttu evvaḷavu?",
+    "lit": "deux · châle[pour][tous] (-ukkum) · en comptant ensemble · combien"
+   },
+   {
+    "fr": "Quatre cents roupies pour les deux.",
+    "tgt": "இரண்டும் நானூறு ரூபாய்.",
+    "ro": "Iraṇḍum nāṉūru rūpāy.",
+    "lit": "deux[tous] (-um) · quatre cents · roupie"
+   },
+   {
+    "fr": "D'accord, je les achète.",
+    "tgt": "சரி, நான் வாங்குகிறேன்.",
+    "ro": "Chari, nāṉ vānkukirēṉ.",
+    "lit": "d'accord · je · achète"
+   },
+   {
+    "fr": "Je vous paie en liquide.",
+    "tgt": "நான் பணமாகக் கொடுக்கிறேன்.",
+    "ro": "Nāṉ paṇamākak koḍukkirēṉ.",
+    "lit": "je · argent[en] (-āka) · donne"
+   }
+  ]
+ },
+ "0-1-6": {
+  "module": "En voyage",
+  "title": "À la banque",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Il y a une banque près d'ici ?",
+    "tgt": "இங்கே பக்கத்தில் வங்கி இருக்கிறதா?",
+    "ro": "Inkē pakkattil vanki irukkiratā?",
+    "lit": "ici · côté[dans] (-il) · banque · se trouve[question] (-ā)"
+   },
+   {
+    "fr": "La banque est dans cette rue.",
+    "tgt": "வங்கி இந்தத் தெருவில் இருக்கிறது.",
+    "ro": "Vanki intat teruvil irukkiratu.",
+    "lit": "banque · cette · rue[dans] (-il) · se trouve"
+   },
+   {
+    "fr": "Je voudrais changer des euros.",
+    "tgt": "எனக்கு யூரோ மாற்ற வேண்டும்.",
+    "ro": "Eṉakku yūrō mārra vēṇḍum.",
+    "lit": "moi[à] (-ukku) · euro · changer · [il faut]"
+   },
+   {
+    "fr": "Combien de roupies pour un euro ?",
+    "tgt": "ஒரு யூரோவுக்கு எத்தனை ரூபாய்?",
+    "ro": "Oru yūrōvukku ettaṉai rūpāy?",
+    "lit": "un · euro[pour] (-ukku) · combien · roupie"
+   },
+   {
+    "fr": "Environ quatre-vingt-dix roupies.",
+    "tgt": "சுமார் தொண்ணூறு ரூபாய்.",
+    "ro": "Chumār toṇṇūru rūpāy.",
+    "lit": "environ · quatre-vingt-dix · roupie"
+   },
+   {
+    "fr": "Montrez-moi votre passeport, s'il vous plaît.",
+    "tgt": "உங்கள் பாஸ்போர்ட்டைக் காட்டுங்கள்.",
+    "ro": "Unkaḷ pāspōrṭṭaik kāṭṭunkaḷ.",
+    "lit": "votre · passeport[objet] (-ai) · montrez [respect]"
+   },
+   {
+    "fr": "Mettez votre signature ici, s'il vous plaît.",
+    "tgt": "இங்கே கையெழுத்துப் போடுங்கள்.",
+    "ro": "Inkē kaiyeḻuttup pōḍunkaḷ.",
+    "lit": "ici · signature · mettez [respect]"
+   },
+   {
+    "fr": "Voici vos roupies.",
+    "tgt": "இதோ உங்கள் ரூபாய்.",
+    "ro": "Itō unkaḷ rūpāy.",
+    "lit": "voici · votre · roupie"
+   },
+   {
+    "fr": "Il me faut aussi de la petite monnaie.",
+    "tgt": "எனக்குச் சில்லறையும் வேண்டும்.",
+    "ro": "Eṉakkuch chillaraiyum vēṇḍum.",
+    "lit": "moi[à] (-ukku) · monnaie[aussi] (-um) · [il faut]"
+   },
+   {
+    "fr": "Les chauffeurs de rickshaw n'ont jamais de monnaie.",
+    "tgt": "ஆட்டோக்காரர்களிடம் சில்லறை இருக்காது.",
+    "ro": "Āṭṭōkkārarkaḷiḍam chillarai irukkātu.",
+    "lit": "chauffeurs d'auto[chez] (-iḍam) · monnaie · ne sera pas"
+   }
+  ]
+ },
+ "0-1-7": {
+  "module": "En voyage",
+  "title": "En route pour Mahabalipuram",
+  "grammaire_de_la_lecon": "« -iliruntu » : depuis, en partant de",
+  "phrases": [
+   {
+    "fr": "Je viens tout droit de France.",
+    "tgt": "நான் பிரான்சிலிருந்து வருகிறேன்.",
+    "ro": "Nāṉ Pirāṉchiliruntu varukirēṉ.",
+    "lit": "je · France[depuis] (-iliruntu) · viens"
+   },
+   {
+    "fr": "Et vous, vous venez de quel endroit ?",
+    "tgt": "நீங்கள் எங்கிருந்து வருகிறீர்கள்?",
+    "ro": "Nīnkaḷ enkiruntu varukirīrkaḷ?",
+    "lit": "vous · où[depuis] (-iruntu) · venez"
+   },
+   {
+    "fr": "Ma ville à moi, c'est Pondichéry.",
+    "tgt": "என் ஊர் பாண்டிச்சேரிதான்.",
+    "ro": "Eṉ ūr Pāṇḍichchēritāṉ.",
+    "lit": "ma · ville natale · Pondichéry[justement] (-tāṉ)"
+   },
+   {
+    "fr": "Le bus part de la gare routière de Pondichéry.",
+    "tgt": "பாண்டிச்சேரி பேருந்து நிலையத்திலிருந்து பஸ் கிளம்புகிறது.",
+    "ro": "Pāṇḍichchēri pēruntu nilaiyattiliruntu pas kiḷampukiratu.",
+    "lit": "Pondichéry · bus · station[depuis] (-iliruntu) · bus · part"
+   },
+   {
+    "fr": "D'ici, c'est à combien de kilomètres ?",
+    "tgt": "இங்கிருந்து எத்தனை கிலோமீட்டர்?",
+    "ro": "Inkiruntu ettaṉai kilōmīṭṭar?",
+    "lit": "ici[depuis] (-iruntu) · combien · kilomètre"
+   },
+   {
+    "fr": "Ça doit faire cent kilomètres.",
+    "tgt": "நூறு கிலோமீட்டர் இருக்கும்.",
+    "ro": "Nūru kilōmīṭṭar irukkum.",
+    "lit": "cent · kilomètre · il y aura (environ)"
+   },
+   {
+    "fr": "De Pondichéry à Mahabalipuram, il faut deux heures.",
+    "tgt": "பாண்டிச்சேரியிலிருந்து மாமல்லபுரத்துக்கு இரண்டு மணி நேரம் ஆகும்.",
+    "ro": "Pāṇḍichchēriyiliruntu Māmallapurattukku iraṇḍu maṇi nēram ākum.",
+    "lit": "Pondichéry[depuis] (-iliruntu) · Mahabalipuram[à] (-ukku) · deux · heure · temps · prendra"
+   },
+   {
+    "fr": "Je quitte la pension à six heures.",
+    "tgt": "நான் ஆறு மணிக்கு விடுதியிலிருந்து கிளம்புகிறேன்.",
+    "ro": "Nāṉ āru maṇikku viḍutiyiliruntu kiḷampukirēṉ.",
+    "lit": "je · six · heure[à] (-ukku) · pension[depuis] (-iliruntu) · pars"
+   },
+   {
+    "fr": "Le soleil sort de la mer.",
+    "tgt": "கடலிலிருந்து சூரியன் உதிக்கிறது.",
+    "ro": "Kaḍaliliruntu chūriyaṉ utikkiratu.",
+    "lit": "mer[depuis] (-iliruntu) · soleil · se lève"
+   },
+   {
+    "fr": "Quelle belle vue depuis le bus !",
+    "tgt": "பஸ்ஸிலிருந்து என்ன அழகான காட்சி!",
+    "ro": "Passiliruntu eṉṉa aḻakāṉa kāṭchi!",
+    "lit": "bus[depuis] (-iliruntu) · quelle · belle · vue"
+   }
+  ]
+ },
+ "0-1-8": {
+  "module": "En voyage",
+  "title": "Les rues du quartier français",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ici, les rues sont très calmes.",
+    "tgt": "இங்கே தெருக்கள் ரொம்ப அமைதியாக இருக்கின்றன.",
+    "ro": "Inkē terukkaḷ rompa amaitiyāka irukkiṉraṉa.",
+    "lit": "ici · rues · très · calme[-ment] (-āka) · sont"
+   },
+   {
+    "fr": "Les maisons sont jaunes et blanches.",
+    "tgt": "வீடுகள் மஞ்சளும் வெள்ளையுமாக இருக்கின்றன.",
+    "ro": "Vīḍukaḷ manchaḷum veḷḷaiyumāka irukkiṉraṉa.",
+    "lit": "maisons · jaune[et] (-um) · blanc[et] (-um)[-ment] · sont"
+   },
+   {
+    "fr": "Cette rue porte un nom français.",
+    "tgt": "இந்தத் தெருவுக்குப் பிரெஞ்சுப் பெயர்.",
+    "ro": "Intat teruvukkup pirenchup peyar.",
+    "lit": "cette · rue[à] (-ukku) · français · nom"
+   },
+   {
+    "fr": "Il y a des fleurs partout.",
+    "tgt": "எல்லா இடத்திலும் பூக்கள் இருக்கின்றன.",
+    "ro": "Ellā iḍattilum pūkkaḷ irukkiṉraṉa.",
+    "lit": "tous · endroit[dans][aussi] (-ilum) · fleurs · se trouvent"
+   },
+   {
+    "fr": "On marche jusqu'à la plage ?",
+    "tgt": "கடற்கரை வரை நடக்கலாமா?",
+    "ro": "Kaḍarkarai varai naḍakkalāmā?",
+    "lit": "plage · jusqu'à · marcher[on peut][question] (-ā)"
+   },
+   {
+    "fr": "Le front de mer est au bout de la rue.",
+    "tgt": "கடற்கரை தெருவின் கடைசியில் இருக்கிறது.",
+    "ro": "Kaḍarkarai teruviṉ kaḍaichiyil irukkiratu.",
+    "lit": "plage · rue[de] (-iṉ) · bout[dans] (-il) · se trouve"
+   },
+   {
+    "fr": "Ce petit café est vraiment joli.",
+    "tgt": "இந்தக் காபிக் கடை ரொம்ப அழகாக இருக்கிறது.",
+    "ro": "Intak kāpik kaḍai rompa aḻakāka irukkiratu.",
+    "lit": "ce · café · boutique · très · joli[-ment] (-āka) · est"
+   },
+   {
+    "fr": "On s'assoit un petit moment ?",
+    "tgt": "கொஞ்சம் உட்காரலாமா?",
+    "ro": "Koncham uṭkāralāmā?",
+    "lit": "un peu · s'asseoir[on peut][question] (-ā)"
+   },
+   {
+    "fr": "Ce quartier me plaît beaucoup.",
+    "tgt": "எனக்கு இந்தப் பகுதி ரொம்பப் பிடிக்கும்.",
+    "ro": "Eṉakku intap pakuti rompap piḍikkum.",
+    "lit": "moi[à] (-ukku) · ce · quartier · très · plaît"
+   },
+   {
+    "fr": "On prend une photo ici ?",
+    "tgt": "இங்கே ஒரு போட்டோ எடுக்கலாமா?",
+    "ro": "Inkē oru pōṭṭō eḍukkalāmā?",
+    "lit": "ici · une · photo · prendre[on peut][question] (-ā)"
+   }
+  ]
+ },
+ "0-1-9": {
+  "module": "En voyage",
+  "title": "Un repas sur feuille de bananier",
+  "grammaire_de_la_lecon": "« -ai » : le complément d'objet direct",
+  "phrases": [
+   {
+    "fr": "Une table pour deux personnes, s'il vous plaît.",
+    "tgt": "இரண்டு பேருக்கு ஒரு மேசை வேண்டும்.",
+    "ro": "Iraṇḍu pērukku oru mēchai vēṇḍum.",
+    "lit": "deux · personne[pour] (-ukku) · une · table · [il faut]"
+   },
+   {
+    "fr": "Je voudrais le repas complet.",
+    "tgt": "எனக்கு ஒரு சாப்பாடு வேண்டும்.",
+    "ro": "Eṉakku oru chāppāḍu vēṇḍum.",
+    "lit": "moi[à] (-ukku) · un · repas · [il faut]"
+   },
+   {
+    "fr": "Ici, on sert le repas sur une feuille de bananier.",
+    "tgt": "இங்கே வாழை இலையில் சாப்பாடு போடுவார்கள்.",
+    "ro": "Inkē vāḻai ilaiyil chāppāḍu pōḍuvārkaḷ.",
+    "lit": "ici · bananier · feuille[dans] (-il) · repas · ils servent"
+   },
+   {
+    "fr": "Je mange avec la main droite.",
+    "tgt": "நான் வலது கையால் சாப்பிடுகிறேன்.",
+    "ro": "Nāṉ valatu kaiyāl chāppiḍukirēṉ.",
+    "lit": "je · droite · main[avec] (-āl) · mange"
+   },
+   {
+    "fr": "Encore un peu de riz, s'il vous plaît.",
+    "tgt": "இன்னும் கொஞ்சம் சாதம் போடுங்கள்.",
+    "ro": "Iṉṉum koncham chātam pōḍunkaḷ.",
+    "lit": "encore · un peu · riz · servez [respect]"
+   },
+   {
+    "fr": "Passez-moi le sambar, s'il vous plaît.",
+    "tgt": "சாம்பாரைக் கொடுங்கள்.",
+    "ro": "Chāmpāraik koḍunkaḷ.",
+    "lit": "sambar[objet] (-ai) · donnez [respect]"
+   },
+   {
+    "fr": "Je bois le rasam.",
+    "tgt": "நான் ரசத்தைக் குடிக்கிறேன்.",
+    "ro": "Nāṉ rachattaik kuḍikkirēṉ.",
+    "lit": "je · rasam[objet] (-ai) · bois"
+   },
+   {
+    "fr": "Je ne mange jamais de piment.",
+    "tgt": "நான் மிளகாயைச் சாப்பிடுவதில்லை.",
+    "ro": "Nāṉ miḷakāyaich chāppiḍuvatillai.",
+    "lit": "je · piment[objet] (-ai) · ne mange pas"
+   },
+   {
+    "fr": "Apportez l'addition, s'il vous plaît.",
+    "tgt": "பில்லைக் கொண்டு வாருங்கள்.",
+    "ro": "Pillaik koṇḍu vārunkaḷ.",
+    "lit": "addition[objet] (-ai) · en apportant · venez [respect]"
+   },
+   {
+    "fr": "Le repas était délicieux.",
+    "tgt": "சாப்பாடு ரொம்ப ருசியாக இருந்தது.",
+    "ro": "Chāppāḍu rompa ruchiyāka iruntatu.",
+    "lit": "repas · très · délicieux[-ment] (-āka) · était"
+   }
+  ]
+ },
+ "0-1-10": {
+  "module": "En voyage",
+  "title": "Les sculptures de Mahabalipuram",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ces sculptures sont très anciennes.",
+    "tgt": "இந்தச் சிற்பங்கள் ரொம்பப் பழமையானவை.",
+    "ro": "Intach chirpankaḷ rompap paḻamaiyāṉavai.",
+    "lit": "ces · sculptures · très · anciennes"
+   },
+   {
+    "fr": "Elles ont plus de mille ans.",
+    "tgt": "இவை ஆயிரம் வருடங்களுக்கு மேல் பழமையானவை.",
+    "ro": "Ivai āyiram varuḍankaḷukku mēl paḻamaiyāṉavai.",
+    "lit": "celles-ci · mille · ans[à] (-ukku) · au-dessus · anciennes"
+   },
+   {
+    "fr": "Regardez cet éléphant en pierre !",
+    "tgt": "இந்தக் கல் யானையைப் பாருங்கள்!",
+    "ro": "Intak kal yāṉaiyaip pārunkaḷ!",
+    "lit": "cet · pierre · éléphant[objet] (-ai) · regardez [respect]"
+   },
+   {
+    "fr": "Il est aussi grand qu'un vrai !",
+    "tgt": "உண்மையான யானை மாதிரி பெரியது!",
+    "ro": "Uṇmaiyāṉa yāṉai mātiri periyatu!",
+    "lit": "vrai · éléphant · comme · grand"
+   },
+   {
+    "fr": "Ce gros rocher ne tombe jamais.",
+    "tgt": "இந்தப் பெரிய பாறை விழுவதே இல்லை.",
+    "ro": "Intap periya pārai viḻuvatē illai.",
+    "lit": "ce · grand · rocher · tomber[même] · pas"
+   },
+   {
+    "fr": "Des sculpteurs travaillent encore ici.",
+    "tgt": "சிற்பிகள் இன்னும் இங்கே வேலை செய்கிறார்கள்.",
+    "ro": "Chirpikaḷ iṉṉum inkē vēlai cheykirārkaḷ.",
+    "lit": "sculpteurs · encore · ici · travail · font"
+   },
+   {
+    "fr": "J'entends le bruit des marteaux.",
+    "tgt": "சுத்தியல் சத்தம் கேட்கிறது.",
+    "ro": "Chuttiyal chattam kēṭkiratu.",
+    "lit": "marteau · bruit · s'entend"
+   },
+   {
+    "fr": "Il y a un guide qui parle le français, ici ?",
+    "tgt": "இங்கே பிரெஞ்சு பேசும் வழிகாட்டி இருக்கிறாரா?",
+    "ro": "Inkē pirenchu pēchum vaḻikāṭṭi irukkirārā?",
+    "lit": "ici · français · parlant · guide · est là [respect][question] (-ā)"
+   },
+   {
+    "fr": "À midi, le soleil tape fort.",
+    "tgt": "மதியம் ரொம்ப வெயிலாக இருக்கிறது.",
+    "ro": "Matiyam rompa veyilāka irukkiratu.",
+    "lit": "midi · très · ensoleillé (-āka) · est"
+   },
+   {
+    "fr": "On peut se reposer à l'ombre.",
+    "tgt": "நிழலில் ஓய்வு எடுக்கலாம்.",
+    "ro": "Niḻalil ōyvu eḍukkalām.",
+    "lit": "ombre[dans] (-il) · repos · prendre[on peut]"
+   }
+  ]
+ },
+ "0-1-11": {
+  "module": "En voyage",
+  "title": "Demander son chemin",
+  "grammaire_de_la_lecon": "« Eppaḍi » : comment, et comment aller quelque part",
+  "phrases": [
+   {
+    "fr": "Pardon, comment va-t-on à la plage ?",
+    "tgt": "மன்னிக்கவும், கடற்கரைக்கு எப்படிப் போவது?",
+    "ro": "Maṉṉikkavum, kaḍarkaraikku eppaḍip pōvatu?",
+    "lit": "pardon · plage[à] (-ukku) · comment · aller"
+   },
+   {
+    "fr": "Continuez bien tout droit.",
+    "tgt": "நேராகவே போங்கள்.",
+    "ro": "Nērākavē pōnkaḷ.",
+    "lit": "droit[-ment] (-āka)[bien] (-ē) · allez [respect]"
+   },
+   {
+    "fr": "Après, vous tournez sur la gauche.",
+    "tgt": "பிறகு இடது பக்கம் திரும்புங்கள்.",
+    "ro": "Piraku iḍatu pakkam tirumpunkaḷ.",
+    "lit": "ensuite · gauche · côté · tournez [respect]"
+   },
+   {
+    "fr": "Et pour aller à la gare routière ?",
+    "tgt": "பஸ் நிலையத்துக்கு எப்படிப் போவது?",
+    "ro": "Pas nilaiyattukku eppaḍip pōvatu?",
+    "lit": "bus · station[à] (-ukku) · comment · aller"
+   },
+   {
+    "fr": "On peut y aller à pied ?",
+    "tgt": "நடந்து போக முடியுமா?",
+    "ro": "Naḍantu pōka muḍiyumā?",
+    "lit": "en marchant · aller · possible[question] (-ā)"
+   },
+   {
+    "fr": "Allez-y plutôt en rickshaw.",
+    "tgt": "ஆட்டோவில் போங்கள்.",
+    "ro": "Āṭṭōvil pōnkaḷ.",
+    "lit": "auto[dans] (-il) · allez [respect]"
+   },
+   {
+    "fr": "Comment dit-on ça en tamoul ?",
+    "tgt": "தமிழில் இதை எப்படிச் சொல்வது?",
+    "ro": "Tamiḻil itai eppaḍich cholvatu?",
+    "lit": "tamoul[dans] (-il) · ceci[objet] (-ai) · comment · dire"
+   },
+   {
+    "fr": "Et vous, comment allez-vous aujourd'hui ?",
+    "tgt": "நீங்கள் இன்று எப்படி இருக்கிறீர்கள்?",
+    "ro": "Nīnkaḷ iṉru eppaḍi irukkirīrkaḷ?",
+    "lit": "vous · aujourd'hui · comment · êtes [respect]"
+   },
+   {
+    "fr": "Moi, je vais très bien, merci.",
+    "tgt": "நான் நன்றாக இருக்கிறேன், நன்றி.",
+    "ro": "Nāṉ naṉrāka irukkirēṉ, naṉri.",
+    "lit": "je · bien · suis · merci"
+   },
+   {
+    "fr": "Montrez-moi la plage sur le plan, s'il vous plaît.",
+    "tgt": "கடற்கரையை வரைபடத்தில் காட்டுங்கள்.",
+    "ro": "Kaḍarkaraiyai varaipaḍattil kāṭṭunkaḷ.",
+    "lit": "plage[objet] (-ai) · plan[dans] (-il) · montrez [respect]"
+   }
+  ]
+ },
+ "0-1-12": {
+  "module": "En voyage",
+  "title": "Un petit souci de santé",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Je ne me sens pas très bien aujourd'hui.",
+    "tgt": "இன்று எனக்கு உடம்பு சரியில்லை.",
+    "ro": "Iṉru eṉakku uḍampu chariyillai.",
+    "lit": "aujourd'hui · moi[à] (-ukku) · corps · pas correct"
+   },
+   {
+    "fr": "Et j'ai mal à la tête depuis ce matin.",
+    "tgt": "காலையிலிருந்து தலைவலி.",
+    "ro": "Kālaiyiliruntu talaivali.",
+    "lit": "matin[depuis] (-iliruntu) · tête-douleur"
+   },
+   {
+    "fr": "J'ai un peu de fièvre aussi.",
+    "tgt": "கொஞ்சம் காய்ச்சலும் இருக்கிறது.",
+    "ro": "Koncham kāychchalum irukkiratu.",
+    "lit": "un peu · fièvre[aussi] (-um) · se trouve"
+   },
+   {
+    "fr": "Où se trouve la pharmacie ?",
+    "tgt": "மருந்துக் கடை எங்கே?",
+    "ro": "Maruntuk kaḍai enkē?",
+    "lit": "médicament · boutique · où"
+   },
+   {
+    "fr": "Il y a une pharmacie là, au coin.",
+    "tgt": "முனையில் ஒரு மருந்துக் கடை இருக்கிறது.",
+    "ro": "Muṉaiyil oru maruntuk kaḍai irukkiratu.",
+    "lit": "coin[dans] (-il) · une · médicament · boutique · se trouve"
+   },
+   {
+    "fr": "Donnez-moi un médicament contre la fièvre.",
+    "tgt": "காய்ச்சலுக்கு மருந்து கொடுங்கள்.",
+    "ro": "Kāychchalukku maruntu koḍunkaḷ.",
+    "lit": "fièvre[pour] (-ukku) · médicament · donnez [respect]"
+   },
+   {
+    "fr": "Prenez ceci après le repas.",
+    "tgt": "சாப்பாட்டுக்குப் பிறகு இதைச் சாப்பிடுங்கள்.",
+    "ro": "Chāppāṭṭukkup piraku itaich chāppiḍunkaḷ.",
+    "lit": "repas[à] (-ukku) · après · ceci[objet] (-ai) · prenez [respect]"
+   },
+   {
+    "fr": "Buvez beaucoup d'eau, surtout avec cette chaleur.",
+    "tgt": "இந்த வெயிலில் நிறையத் தண்ணீர் குடியுங்கள்.",
+    "ro": "Inta veyilil niraiyat taṇṇīr kuḍiyunkaḷ.",
+    "lit": "ce · soleil[dans] (-il) · beaucoup · eau · buvez [respect]"
+   },
+   {
+    "fr": "C'est à cause du soleil.",
+    "tgt": "இது வெயிலால்தான்.",
+    "ro": "Itu veyilāltāṉ.",
+    "lit": "ceci · soleil[à cause de] (-āl)[justement] (-tāṉ)"
+   },
+   {
+    "fr": "Aujourd'hui, restez au calme.",
+    "tgt": "இன்று ஓய்வு எடுங்கள்.",
+    "ro": "Iṉru ōyvu eḍunkaḷ.",
+    "lit": "aujourd'hui · repos · prenez [respect]"
+   }
+  ]
+ },
+ "0-1-13": {
+  "module": "En voyage",
+  "title": "Une journée à la plage",
+  "grammaire_de_la_lecon": "« Muḍiyum » : pouvoir, c'est possible",
+  "phrases": [
+   {
+    "fr": "On peut se baigner à cet endroit ?",
+    "tgt": "இங்கே குளிக்க முடியுமா?",
+    "ro": "Inkē kuḷikka muḍiyumā?",
+    "lit": "ici · se baigner · possible[question] (-ā)"
+   },
+   {
+    "fr": "Non, les vagues sont trop grosses.",
+    "tgt": "இல்லை, அலைகள் ரொம்பப் பெரியவை.",
+    "ro": "Illai, alaikaḷ rompap periyavai.",
+    "lit": "non · vagues · très · grandes"
+   },
+   {
+    "fr": "On peut marcher sur le sable.",
+    "tgt": "மணலில் நடக்க முடியும்.",
+    "ro": "Maṇalil naḍakka muḍiyum.",
+    "lit": "sable[dans] (-il) · marcher · possible"
+   },
+   {
+    "fr": "Je ne sais pas nager.",
+    "tgt": "என்னால் நீந்த முடியாது.",
+    "ro": "Eṉṉāl nīnta muḍiyātu.",
+    "lit": "moi[par] (-āl) · nager · impossible"
+   },
+   {
+    "fr": "Pouvez-vous surveiller mon sac ?",
+    "tgt": "என் பையைப் பார்த்துக்கொள்ள முடியுமா?",
+    "ro": "Eṉ paiyaip pārttukkoḷḷa muḍiyumā?",
+    "lit": "mon · sac[objet] (-ai) · surveiller · possible[question] (-ā)"
+   },
+   {
+    "fr": "Bien sûr, aucun souci.",
+    "tgt": "நிச்சயமாக, பரவாயில்லை.",
+    "ro": "Nichchayamāka, paravāyillai.",
+    "lit": "certainement · pas de souci"
+   },
+   {
+    "fr": "On peut louer un vélo par ici ?",
+    "tgt": "இங்கே சைக்கிள் வாடகைக்குக் கிடைக்குமா?",
+    "ro": "Inkē chaikkiḷ vāḍakaikkuk kiḍaikkumā?",
+    "lit": "ici · vélo · location[pour] (-ukku) · se trouvera[question] (-ā)"
+   },
+   {
+    "fr": "Demain, je ne peux pas venir.",
+    "tgt": "நாளை என்னால் வர முடியாது.",
+    "ro": "Nāḷai eṉṉāl vara muḍiyātu.",
+    "lit": "demain · moi[par] (-āl) · venir · impossible"
+   },
+   {
+    "fr": "Ici, on peut manger du poisson frit.",
+    "tgt": "இங்கே வறுத்த மீன் சாப்பிட முடியும்.",
+    "ro": "Inkē varutta mīṉ chāppiḍa muḍiyum.",
+    "lit": "ici · frit · poisson · manger · possible"
+   },
+   {
+    "fr": "Le ciel du soir est magnifique.",
+    "tgt": "மாலை வானம் ரொம்ப அழகு.",
+    "ro": "Mālai vāṉam rompa aḻaku.",
+    "lit": "soir · ciel · très · beauté"
+   }
+  ]
+ },
+ "0-1-14": {
+  "module": "En voyage",
+  "title": "Des billets pour les sites",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Où est-ce qu'on achète les billets ?",
+    "tgt": "டிக்கெட் எங்கே வாங்குவது?",
+    "ro": "Ṭikkeṭ enkē vānkuvatu?",
+    "lit": "billet · où · acheter"
+   },
+   {
+    "fr": "Deux billets d'entrée, s'il vous plaît.",
+    "tgt": "இரண்டு டிக்கெட் கொடுங்கள்.",
+    "ro": "Iraṇḍu ṭikkeṭ koḍunkaḷ.",
+    "lit": "deux · billet · donnez [respect]"
+   },
+   {
+    "fr": "Pour les étrangers, le billet est plus cher.",
+    "tgt": "வெளிநாட்டவர்களுக்கு டிக்கெட் விலை அதிகம்.",
+    "ro": "Veḷināṭṭavarkaḷukku ṭikkeṭ vilai atikam.",
+    "lit": "étrangers[pour] (-ukku) · billet · prix · élevé"
+   },
+   {
+    "fr": "Il y a une réduction pour les étudiants ?",
+    "tgt": "மாணவர்களுக்குத் தள்ளுபடி உண்டா?",
+    "ro": "Māṇavarkaḷukkut taḷḷupaḍi uṇḍā?",
+    "lit": "étudiants[pour] (-ukku) · réduction · il y a[question] (-ā)"
+   },
+   {
+    "fr": "Pour les enfants, l'entrée ne coûte rien.",
+    "tgt": "குழந்தைகளுக்கு இலவசம்.",
+    "ro": "Kuḻantaikaḷukku ilavacham.",
+    "lit": "enfants[pour] (-ukku) · gratuit"
+   },
+   {
+    "fr": "Ce billet est valable toute la journée.",
+    "tgt": "இந்த டிக்கெட் நாள் முழுவதும் செல்லும்.",
+    "ro": "Inta ṭikkeṭ nāḷ muḻuvatum chellum.",
+    "lit": "ce · billet · jour · entier · est valable"
+   },
+   {
+    "fr": "On ferme à six heures du soir.",
+    "tgt": "மாலை ஆறு மணிக்கு மூடுவார்கள்.",
+    "ro": "Mālai āru maṇikku mūḍuvārkaḷ.",
+    "lit": "soir · six · heure[à] (-ukku) · ils fermeront"
+   },
+   {
+    "fr": "Les photos sont permises sur le site ?",
+    "tgt": "புகைப்படம் எடுக்க அனுமதி உண்டா?",
+    "ro": "Pukaippaḍam eḍukka aṉumati uṇḍā?",
+    "lit": "photo · prendre · permission · il y a[question] (-ā)"
+   },
+   {
+    "fr": "Gardez bien votre billet.",
+    "tgt": "டிக்கெட்டைப் பத்திரமாக வைத்துக்கொள்ளுங்கள்.",
+    "ro": "Ṭikkeṭṭaip pattiramāka vaittukkoḷḷunkaḷ.",
+    "lit": "billet[objet] (-ai) · soigneusement · gardez [respect]"
+   },
+   {
+    "fr": "Voici la sortie.",
+    "tgt": "இதோ வெளியே போகும் வழி.",
+    "ro": "Itō veḷiyē pōkum vaḻi.",
+    "lit": "voici · dehors · allant · chemin"
+   }
+  ]
+ },
+ "0-1-15": {
+  "module": "En voyage",
+  "title": "Rentrer à Chennai",
+  "grammaire_de_la_lecon": "« -il » + transport : en bus, en train, en rickshaw",
+  "phrases": [
+   {
+    "fr": "Demain, je rentre à Chennai.",
+    "tgt": "நான் நாளை சென்னைக்குத் திரும்புகிறேன்.",
+    "ro": "Nāṉ nāḷai Cheṉṉaikkut tirumpukirēṉ.",
+    "lit": "je · demain · Chennai[à] (-ukku) · retourne"
+   },
+   {
+    "fr": "En bus ou en train ?",
+    "tgt": "பஸ்ஸிலா, ரயிலிலா?",
+    "ro": "Passilā, rayililā?",
+    "lit": "bus[dans][question] (-ilā) · train[dans][question] (-ilā)"
+   },
+   {
+    "fr": "En train, c'est plus confortable.",
+    "tgt": "ரயிலில் வசதியாக இருக்கும்.",
+    "ro": "Rayilil vachatiyāka irukkum.",
+    "lit": "train[dans] (-il) · confortable[-ment] (-āka) · sera"
+   },
+   {
+    "fr": "En bus, ça coûte moins cher.",
+    "tgt": "பஸ்ஸில் செலவு குறைவு.",
+    "ro": "Passil chelavu kuraivu.",
+    "lit": "bus[dans] (-il) · dépense · faible"
+   },
+   {
+    "fr": "Je vais à la gare en rickshaw.",
+    "tgt": "நான் ஆட்டோவில் ரயில் நிலையத்துக்குப் போகிறேன்.",
+    "ro": "Nāṉ āṭṭōvil rayil nilaiyattukkup pōkirēṉ.",
+    "lit": "je · auto[dans] (-il) · train · gare[à] (-ukku) · vais"
+   },
+   {
+    "fr": "Mon ami vient à moto.",
+    "tgt": "என் நண்பன் பைக்கில் வருகிறான்.",
+    "ro": "Eṉ naṇpaṉ paikkil varukirāṉ.",
+    "lit": "mon · ami · moto[dans] (-il) · vient"
+   },
+   {
+    "fr": "Dans le train, je lis un livre.",
+    "tgt": "ரயிலில் நான் புத்தகம் படிக்கிறேன்.",
+    "ro": "Rayilil nāṉ puttakam paḍikkirēṉ.",
+    "lit": "train[dans] (-il) · je · livre · lis"
+   },
+   {
+    "fr": "Le train pour Chennai part à quelle heure ?",
+    "tgt": "சென்னை ரயில் எத்தனை மணிக்குக் கிளம்புகிறது?",
+    "ro": "Cheṉṉai rayil ettaṉai maṇikkuk kiḷampukiratu?",
+    "lit": "Chennai · train · combien · heure[à] (-ukku) · part"
+   },
+   {
+    "fr": "On peut acheter le billet dans le bus ?",
+    "tgt": "பஸ்ஸில் டிக்கெட் வாங்க முடியுமா?",
+    "ro": "Passil ṭikkeṭ vānka muḍiyumā?",
+    "lit": "bus[dans] (-il) · billet · acheter · possible[question] (-ā)"
+   },
+   {
+    "fr": "Oui, c'est le receveur qui donne les billets.",
+    "tgt": "ஆமாம், கண்டக்டர் டிக்கெட் கொடுப்பார்.",
+    "ro": "Āmām, kaṇḍakṭar ṭikkeṭ koḍuppār.",
+    "lit": "oui · receveur · billet · donnera [respect]"
+   }
+  ]
+ },
+ "0-1-16": {
+  "module": "En voyage",
+  "title": "Café filtre et douceurs",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "J'adore le café de cette ville.",
+    "tgt": "எனக்கு இந்த ஊர் காபி ரொம்பப் பிடிக்கும்.",
+    "ro": "Eṉakku inta ūr kāpi rompap piḍikkum.",
+    "lit": "moi[à] (-ukku) · cette · ville · café · très · plaît"
+   },
+   {
+    "fr": "On le verse de très haut.",
+    "tgt": "உயரத்திலிருந்து ஊற்றுகிறார்கள்.",
+    "ro": "Uyarattiliruntu ūrrukirārkaḷ.",
+    "lit": "hauteur[depuis] (-iliruntu) · ils versent"
+   },
+   {
+    "fr": "Comme ça, il y a de la mousse.",
+    "tgt": "அப்போது நுரை வருகிறது.",
+    "ro": "Appōtu nurai varukiratu.",
+    "lit": "alors · mousse · vient"
+   },
+   {
+    "fr": "Mettez peu de sucre, s'il vous plaît.",
+    "tgt": "சர்க்கரை கொஞ்சமாகப் போடுங்கள்.",
+    "ro": "Charkkarai konchamākap pōḍunkaḷ.",
+    "lit": "sucre · peu[-ment] (-āka) · mettez [respect]"
+   },
+   {
+    "fr": "Je voudrais aussi un vada.",
+    "tgt": "எனக்கு ஒரு வடையும் வேண்டும்.",
+    "ro": "Eṉakku oru vaḍaiyum vēṇḍum.",
+    "lit": "moi[à] (-ukku) · un · vada[aussi] (-um) · [il faut]"
+   },
+   {
+    "fr": "Cette douceur est très sucrée.",
+    "tgt": "இந்த இனிப்பு ரொம்பத் தித்திப்பு.",
+    "ro": "Inta iṉippu rompat tittippu.",
+    "lit": "cette · douceur · très · sucrée"
+   },
+   {
+    "fr": "Comment ça s'appelle ?",
+    "tgt": "இதன் பெயர் என்ன?",
+    "ro": "Itaṉ peyar eṉṉa?",
+    "lit": "ceci[de] (-aṉ) · nom · quoi"
+   },
+   {
+    "fr": "C'est du mysore pak.",
+    "tgt": "இது மைசூர் பாக்.",
+    "ro": "Itu Maichūr pāk.",
+    "lit": "ceci · mysore pak"
+   },
+   {
+    "fr": "J'en prends une boîte pour ma famille.",
+    "tgt": "என் குடும்பத்துக்கு ஒரு பெட்டி வாங்குகிறேன்.",
+    "ro": "Eṉ kuḍumpattukku oru peṭṭi vānkukirēṉ.",
+    "lit": "ma · famille[pour] (-ukku) · une · boîte · achète"
+   },
+   {
+    "fr": "Le café ne coûte que vingt roupies.",
+    "tgt": "காபி இருபது ரூபாய்தான்.",
+    "ro": "Kāpi irupatu rūpāytāṉ.",
+    "lit": "café · vingt · roupie[seulement] (-tāṉ)"
+   }
+  ]
+ },
+ "0-1-17": {
+  "module": "En voyage",
+  "title": "Autour de la pension",
+  "grammaire_de_la_lecon": "« Tūram » et « pakkam » : loin et près",
+  "phrases": [
+   {
+    "fr": "La plage, c'est loin d'ici ?",
+    "tgt": "கடற்கரை இங்கிருந்து தூரமா?",
+    "ro": "Kaḍarkarai inkiruntu tūramā?",
+    "lit": "plage · ici[depuis] (-iruntu) · loin[question] (-ā)"
+   },
+   {
+    "fr": "Non, non, elle est toute proche.",
+    "tgt": "இல்லை, ரொம்பப் பக்கம்.",
+    "ro": "Illai, rompap pakkam.",
+    "lit": "non · très · près"
+   },
+   {
+    "fr": "Le marché est un peu loin.",
+    "tgt": "சந்தை கொஞ்சம் தூரம்.",
+    "ro": "Chantai koncham tūram.",
+    "lit": "marché · un peu · loin"
+   },
+   {
+    "fr": "La pharmacie est à côté de la pension.",
+    "tgt": "மருந்துக் கடை விடுதிக்குப் பக்கத்தில் இருக்கிறது.",
+    "ro": "Maruntuk kaḍai viḍutikkup pakkattil irukkiratu.",
+    "lit": "médicament · boutique · pension[à] (-ukku) · côté[dans] (-il) · se trouve"
+   },
+   {
+    "fr": "Il y a un petit restaurant près d'ici ?",
+    "tgt": "இங்கே பக்கத்தில் ஒரு சின்ன உணவகம் இருக்கிறதா?",
+    "ro": "Inkē pakkattil oru chiṉṉa uṇavakam irukkiratā?",
+    "lit": "ici · côté[dans] (-il) · un · petit · restaurant · se trouve[question] (-ā)"
+   },
+   {
+    "fr": "Oui, il y en a un juste à côté.",
+    "tgt": "ஆமாம், பக்கத்திலேயே.",
+    "ro": "Āmām, pakkattilēyē.",
+    "lit": "oui · côté[dans] (-il)[même] (-ē)"
+   },
+   {
+    "fr": "C'est trop loin pour y aller à pied.",
+    "tgt": "நடந்து போக ரொம்பத் தூரம்.",
+    "ro": "Naḍantu pōka rompat tūram.",
+    "lit": "en marchant · aller · très · loin"
+   },
+   {
+    "fr": "Il faut combien de minutes ?",
+    "tgt": "எத்தனை நிமிடம் ஆகும்?",
+    "ro": "Ettaṉai nimiḍam ākum?",
+    "lit": "combien · minute · prendra"
+   },
+   {
+    "fr": "Ma chambre est près de la mer.",
+    "tgt": "என் அறை கடலுக்குப் பக்கத்தில் இருக்கிறது.",
+    "ro": "Eṉ arai kaḍalukkup pakkattil irukkiratu.",
+    "lit": "ma · chambre · mer[à] (-ukku) · côté[dans] (-il) · se trouve"
+   },
+   {
+    "fr": "La France, c'est très loin d'ici.",
+    "tgt": "பிரான்ஸ் இங்கிருந்து ரொம்பத் தூரம்.",
+    "ro": "Pirāṉs inkiruntu rompat tūram.",
+    "lit": "France · ici[depuis] (-iruntu) · très · loin"
+   }
+  ]
+ },
+ "0-1-18": {
+  "module": "En voyage",
+  "title": "Un bus en retard",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Le bus n'est pas encore arrivé.",
+    "tgt": "பஸ் இன்னும் வரவில்லை.",
+    "ro": "Pas iṉṉum varavillai.",
+    "lit": "bus · encore · pas venu"
+   },
+   {
+    "fr": "Il a une demi-heure de retard.",
+    "tgt": "அரை மணி நேரம் தாமதம்.",
+    "ro": "Arai maṇi nēram tāmatam.",
+    "lit": "demi · heure · temps · retard"
+   },
+   {
+    "fr": "Pourquoi un tel retard ?",
+    "tgt": "ஏன் இவ்வளவு தாமதம்?",
+    "ro": "Ēṉ ivvaḷavu tāmatam?",
+    "lit": "pourquoi · autant · retard"
+   },
+   {
+    "fr": "Il y a beaucoup de circulation.",
+    "tgt": "போக்குவரத்து நெரிசல் அதிகம்.",
+    "ro": "Pōkkuvarattu nerichal atikam.",
+    "lit": "circulation · encombrement · beaucoup"
+   },
+   {
+    "fr": "Le prochain bus passe à quelle heure ?",
+    "tgt": "அடுத்த பஸ் எத்தனை மணிக்கு?",
+    "ro": "Aḍutta pas ettaṉai maṇikku?",
+    "lit": "prochain · bus · combien · heure[à] (-ukku)"
+   },
+   {
+    "fr": "Dans vingt minutes à peu près.",
+    "tgt": "சுமார் இருபது நிமிடத்தில்.",
+    "ro": "Chumār irupatu nimiḍattil.",
+    "lit": "environ · vingt · minute[dans] (-il)"
+   },
+   {
+    "fr": "Alors j'attends ici.",
+    "tgt": "அப்படியென்றால் நான் இங்கேயே காத்திருக்கிறேன்.",
+    "ro": "Appaḍiyeṉrāl nāṉ inkēyē kāttirukkirēṉ.",
+    "lit": "alors · je · ici[même] (-ē) · attends"
+   },
+   {
+    "fr": "Je me sens fatigué.",
+    "tgt": "எனக்குக் களைப்பாக இருக்கிறது.",
+    "ro": "Eṉakkuk kaḷaippāka irukkiratu.",
+    "lit": "moi[à] (-ukku) · fatigue[-ment] (-āka) · est"
+   },
+   {
+    "fr": "Le voilà enfin !",
+    "tgt": "அதோ, கடைசியில் வந்துவிட்டது!",
+    "ro": "Atō, kaḍaichiyil vantuviṭṭatu!",
+    "lit": "le voilà · finalement · est arrivé"
+   },
+   {
+    "fr": "Vite, on monte !",
+    "tgt": "சீக்கிரம் ஏறுவோம்!",
+    "ro": "Chīkkiram ēruvōm!",
+    "lit": "vite · montons"
+   }
+  ]
+ },
+ "0-1-19": {
+  "module": "En voyage",
+  "title": "Fin du module : un bilan de voyage",
+  "grammaire_de_la_lecon": "« -ōḍu » : avec quelqu'un",
+  "phrases": [
+   {
+    "fr": "J'ai voyagé avec mon ami.",
+    "tgt": "நான் என் நண்பனோடு பயணம் செய்தேன்.",
+    "ro": "Nāṉ eṉ naṇpaṉōḍu payaṇam cheytēṉ.",
+    "lit": "je · mon · ami[avec] (-ōḍu) · voyage · ai fait"
+   },
+   {
+    "fr": "Nous avons vu Pondichéry et Mahabalipuram.",
+    "tgt": "நாங்கள் பாண்டிச்சேரியையும் மாமல்லபுரத்தையும் பார்த்தோம்.",
+    "ro": "Nānkaḷ Pāṇḍichchēriyaiyum Māmallapurattaiyum pārttōm.",
+    "lit": "nous · Pondichéry[objet][et] (-aiyum) · Mahabalipuram[objet][et] (-aiyum) · avons vu"
+   },
+   {
+    "fr": "J'ai parlé tamoul avec les gens.",
+    "tgt": "நான் மக்களோடு தமிழ் பேசினேன்.",
+    "ro": "Nāṉ makkaḷōḍu Tamiḻ pēchiṉēṉ.",
+    "lit": "je · gens[avec] (-ōḍu) · tamoul · ai parlé"
+   },
+   {
+    "fr": "J'ai même parlé avec le chauffeur de rickshaw !",
+    "tgt": "ஆட்டோக்காரரோடும் பேசினேன்!",
+    "ro": "Āṭṭōkkārarōḍum pēchiṉēṉ!",
+    "lit": "chauffeur d'auto[avec][aussi] (-ōḍum) · [j']ai parlé"
+   },
+   {
+    "fr": "Dans ce module, on a appris les mots du voyage.",
+    "tgt": "இந்தப் பாடத்தில் பயணச் சொற்களைக் கற்றோம்.",
+    "ro": "Intap pāḍattil payaṇach chorkaḷaik karrōm.",
+    "lit": "cette · leçon[dans] (-il) · voyage · mots[objet] (-ai) · avons appris"
+   },
+   {
+    "fr": "On sait demander un prix en tamoul.",
+    "tgt": "தமிழில் விலை கேட்கத் தெரியும்.",
+    "ro": "Tamiḻil vilai kēṭkat teriyum.",
+    "lit": "tamoul[dans] (-il) · prix · demander · [on] sait"
+   },
+   {
+    "fr": "On sait aussi demander son chemin.",
+    "tgt": "வழி கேட்கவும் தெரியும்.",
+    "ro": "Vaḻi kēṭkavum teriyum.",
+    "lit": "chemin · demander[aussi] (-um) · [on] sait"
+   },
+   {
+    "fr": "Ces petits mots sont très utiles.",
+    "tgt": "இந்தச் சின்ன சொற்கள் ரொம்பப் பயனுள்ளவை.",
+    "ro": "Intach chiṉṉa chorkaḷ rompap payaṉuḷḷavai.",
+    "lit": "ces · petits · mots · très · utiles"
+   },
+   {
+    "fr": "Le tamoul devient facile, petit à petit !",
+    "tgt": "தமிழ் கொஞ்சம் கொஞ்சமாக எளிதாகிறது!",
+    "ro": "Tamiḻ koncham konchamāka eḷitākiratu!",
+    "lit": "tamoul · peu · peu[-ment] (-āka) · devient facile"
+   },
+   {
+    "fr": "La prochaine fois, je viens avec ma famille.",
+    "tgt": "அடுத்த முறை என் குடும்பத்தோடு வருவேன்.",
+    "ro": "Aḍutta murai eṉ kuḍumpattōḍu varuvēṉ.",
+    "lit": "prochaine · fois · ma · famille[avec] (-ōḍu) · viendrai"
+   }
+  ]
+ },
+ "0-2-0": {
+  "module": "Conversation sociale",
+  "title": "La rencontre chez Ravi",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Bonsoir, moi, c'est Lucas.",
+    "tgt": "வணக்கம், என் பெயர் லூக்காஸ்.",
+    "ro": "Vaṇakkam, eṉ peyar Lūkkās.",
+    "lit": "bonjour · mon · nom · Lucas"
+   },
+   {
+    "fr": "Et moi, Meena. Enchantée !",
+    "tgt": "நான் மீனா. மகிழ்ச்சி!",
+    "ro": "Nāṉ Mīṉā. Magiḻcchi!",
+    "lit": "je · Meena · joie"
+   },
+   {
+    "fr": "Tu travailles avec Ravi, c'est ça ?",
+    "tgt": "நீ ரவியுடன் வேலை செய்கிறாயா?",
+    "ro": "Nī Raviyuḍaṉ vēlai cheygiṛāyā?",
+    "lit": "toi · Ravi-[avec] · travail · fais-[question]"
+   },
+   {
+    "fr": "Oui, Ravi et moi, on travaille ensemble.",
+    "tgt": "ஆமாம், நானும் ரவியும் ஒன்றாக வேலை செய்கிறோம்.",
+    "ro": "Āmām, nāṉum Raviyum oṉṛāga vēlai cheygiṛōm.",
+    "lit": "oui · moi-et · Ravi-et · ensemble · travail · faisons"
+   },
+   {
+    "fr": "Tu es la petite sœur de Ravi ?",
+    "tgt": "நீ ரவியின் தங்கையா?",
+    "ro": "Nī Raviyiṉ tangaiyā?",
+    "lit": "toi · Ravi-[de] · petite sœur-[question]"
+   },
+   {
+    "fr": "Oui, c'est mon grand frère.",
+    "tgt": "ஆமாம், அவன் என் அண்ணன்.",
+    "ro": "Āmām, avaṉ eṉ aṇṇaṉ.",
+    "lit": "oui · lui · mon · grand frère"
+   },
+   {
+    "fr": "Et toi, tu viens de quelle ville ?",
+    "tgt": "நீ எந்த ஊர்?",
+    "ro": "Nī enda ūr?",
+    "lit": "toi · quelle · ville"
+   },
+   {
+    "fr": "Ma ville, c'est Lyon, en France.",
+    "tgt": "என் ஊர் லியோன், பிரான்ஸில்.",
+    "ro": "Eṉ ūr Liyōṉ, Pirāṉsil.",
+    "lit": "ma · ville · Lyon · France-[dans]"
+   },
+   {
+    "fr": "Moi, je suis une vraie fille de Madurai.",
+    "tgt": "நான் மதுரைக்காரி.",
+    "ro": "Nāṉ Maduraikkāri.",
+    "lit": "je · Madurai-[femme de]"
+   },
+   {
+    "fr": "Très heureux de te connaître, Meena.",
+    "tgt": "ரொம்ப மகிழ்ச்சி, மீனா.",
+    "ro": "Romba magiḻcchi, Mīṉā.",
+    "lit": "très · joie · Meena"
+   }
+  ]
+ },
+ "0-2-1": {
+  "module": "Conversation sociale",
+  "title": "Dans la maison de Ravi",
+  "grammaire_de_la_lecon": "Le possessif : « eṉ », « ungaḷ » et « -uḍaiya »",
+  "phrases": [
+   {
+    "fr": "Voici ma maison, entre donc !",
+    "tgt": "இது என் வீடு, உள்ளே வா!",
+    "ro": "Idu eṉ vīḍu, uḷḷē vā!",
+    "lit": "ceci · ma · maison · dedans · viens"
+   },
+   {
+    "fr": "Ta maison est vraiment jolie.",
+    "tgt": "உன் வீடு ரொம்ப அழகு.",
+    "ro": "Uṉ vīḍu romba aḻagu.",
+    "lit": "ta · maison · très · beauté"
+   },
+   {
+    "fr": "C'est le scooter de Ravi ?",
+    "tgt": "இது ரவியுடைய வண்டியா?",
+    "ro": "Idu Raviyuḍaiya vaṇḍiyā?",
+    "lit": "ceci · Ravi-[de] · scooter-[question]"
+   },
+   {
+    "fr": "Non, c'est le scooter de mon père.",
+    "tgt": "இல்லை, இது என் அப்பாவுடைய வண்டி.",
+    "ro": "Illai, idu eṉ appāvuḍaiya vaṇḍi.",
+    "lit": "non · ceci · mon · père-[de] · scooter"
+   },
+   {
+    "fr": "Et ici, c'est ma chambre.",
+    "tgt": "இது என் அறை.",
+    "ro": "Idu eṉ aṛai.",
+    "lit": "ceci · ma · chambre"
+   },
+   {
+    "fr": "Votre maison est grande, monsieur.",
+    "tgt": "உங்கள் வீடு பெரியது, ஐயா.",
+    "ro": "Ungaḷ vīḍu periyadu, aiyā.",
+    "lit": "votre · maison · grande · monsieur [respect]"
+   },
+   {
+    "fr": "Où est passé mon téléphone ?",
+    "tgt": "என் போன் எங்கே?",
+    "ro": "Eṉ pōṉ engē?",
+    "lit": "mon · téléphone · où"
+   },
+   {
+    "fr": "Ton téléphone est sur la table.",
+    "tgt": "உன் போன் மேஜை மேல் இருக்கிறது.",
+    "ro": "Uṉ pōṉ mējai mēl irukkiṛadu.",
+    "lit": "ton · téléphone · table · sur · se trouve"
+   },
+   {
+    "fr": "Ce petit chat, c'est celui de Meena.",
+    "tgt": "இது மீனாவுடைய பூனை.",
+    "ro": "Idu Mīṉāvuḍaiya pūṉai.",
+    "lit": "ceci · Meena-[de] · chat"
+   },
+   {
+    "fr": "Ma maison est juste à côté d'ici.",
+    "tgt": "என் வீடு இங்கே பக்கத்தில்.",
+    "ro": "Eṉ vīḍu ingē pakkattil.",
+    "lit": "ma · maison · ici · à côté-[dans]"
+   }
+  ]
+ },
+ "0-2-2": {
+  "module": "Conversation sociale",
+  "title": "D'où viens-tu ?",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Tu viens de quel pays, exactement ?",
+    "tgt": "நீ எந்த நாட்டிலிருந்து வருகிறாய்?",
+    "ro": "Nī enda nāṭṭilirundu varugiṛāy?",
+    "lit": "toi · quel · pays-[depuis] · viens"
+   },
+   {
+    "fr": "Je viens de France, du côté de Lyon.",
+    "tgt": "நான் பிரான்ஸிலிருந்து வருகிறேன், லியோன் பக்கம்.",
+    "ro": "Nāṉ Pirāṉsilirundu varugiṛēṉ, Liyōṉ pakkam.",
+    "lit": "je · France-[depuis] · viens · Lyon · côté"
+   },
+   {
+    "fr": "Tu vis à Madurai maintenant ?",
+    "tgt": "இப்போது மதுரையில் இருக்கிறாயா?",
+    "ro": "Ippōdu Maduraiyil irukkiṛāyā?",
+    "lit": "maintenant · Madurai-[dans] · es-[question]"
+   },
+   {
+    "fr": "Oui, j'habite près du marché aux fleurs.",
+    "tgt": "ஆமாம், பூச்சந்தை பக்கத்தில் இருக்கிறேன்.",
+    "ro": "Āmām, pūcchandai pakkattil irukkiṛēṉ.",
+    "lit": "oui · marché aux fleurs · à côté-[dans] · suis"
+   },
+   {
+    "fr": "Ta famille est restée en France ?",
+    "tgt": "உன் குடும்பம் பிரான்ஸிலா?",
+    "ro": "Uṉ kuḍumbam Pirāṉsilā?",
+    "lit": "ta · famille · France-[dans]-[question]"
+   },
+   {
+    "fr": "Oui, mes parents vivent à Lyon.",
+    "tgt": "ஆமாம், என் அப்பா அம்மா லியோனில் இருக்கிறார்கள்.",
+    "ro": "Āmām, eṉ appā ammā Liyōṉil irukkiṛārgaḷ.",
+    "lit": "oui · mon · père · mère · Lyon-[dans] · sont"
+   },
+   {
+    "fr": "Tu parles un peu tamoul ?",
+    "tgt": "நீ கொஞ்சம் தமிழ் பேசுகிறாயா?",
+    "ro": "Nī konjam tamiḻ pēchugiṛāyā?",
+    "lit": "toi · un peu · tamoul · parles-[question]"
+   },
+   {
+    "fr": "Un petit peu, j'apprends encore.",
+    "tgt": "கொஞ்சம், நான் இன்னும் கற்றுக்கொள்கிறேன்.",
+    "ro": "Konjam, nāṉ iṉṉum kaṛṛukkoḷgiṛēṉ.",
+    "lit": "un peu · je · encore · apprends"
+   },
+   {
+    "fr": "Ton tamoul est déjà plutôt bon !",
+    "tgt": "உன் தமிழ் நன்றாக இருக்கிறது!",
+    "ro": "Uṉ tamiḻ naṉṛāga irukkiṛadu!",
+    "lit": "ton · tamoul · bien · est"
+   },
+   {
+    "fr": "Madurai est une ville très ancienne.",
+    "tgt": "மதுரை ரொம்ப பழைய ஊர்.",
+    "ro": "Madurai romba paḻaiya ūr.",
+    "lit": "Madurai · très · vieille · ville"
+   }
+  ]
+ },
+ "0-2-3": {
+  "module": "Conversation sociale",
+  "title": "Les dosas partagés",
+  "grammaire_de_la_lecon": "« Piḍikkum » : aimer, ça me plaît",
+  "phrases": [
+   {
+    "fr": "Tu aimes les dosas, toi ?",
+    "tgt": "உனக்கு தோசை பிடிக்குமா?",
+    "ro": "Uṉakku tōchai piḍikkumā?",
+    "lit": "toi-[à] · dosa · plaît-[question]"
+   },
+   {
+    "fr": "Oui, j'adore les dosas bien croustillants.",
+    "tgt": "ஆமாம், எனக்கு மொறுமொறு தோசை ரொம்ப பிடிக்கும்.",
+    "ro": "Āmām, eṉakku moṛumoṛu tōchai romba piḍikkum.",
+    "lit": "oui · moi-[à] · croustillant · dosa · très · plaît"
+   },
+   {
+    "fr": "Je n'aime pas les plats trop piquants.",
+    "tgt": "எனக்கு ரொம்ப காரம் பிடிக்காது.",
+    "ro": "Eṉakku romba kāram piḍikkādu.",
+    "lit": "moi-[à] · trop · piquant · ne plaît pas"
+   },
+   {
+    "fr": "Tu aimes le chutney de noix de coco ?",
+    "tgt": "உனக்கு தேங்காய் சட்னி பிடிக்குமா?",
+    "ro": "Uṉakku tēngāy chaṭṉi piḍikkumā?",
+    "lit": "toi-[à] · noix de coco · chutney · plaît-[question]"
+   },
+   {
+    "fr": "Meena adore le sambar.",
+    "tgt": "மீனாவுக்கு சாம்பார் ரொம்ப பிடிக்கும்.",
+    "ro": "Mīṉāvukku chāmbār romba piḍikkum.",
+    "lit": "Meena-[à] · sambar · très · plaît"
+   },
+   {
+    "fr": "On partage ce dosa tous les deux ?",
+    "tgt": "இந்த தோசையை பகிர்ந்து சாப்பிடலாமா?",
+    "ro": "Inda tōchaiyai pagirndu chāppiḍalāmā?",
+    "lit": "ce · dosa-[objet] · en partageant · manger-on peut-[question]"
+   },
+   {
+    "fr": "Bien sûr, il est délicieux !",
+    "tgt": "கண்டிப்பாக, ரொம்ப ருசியாக இருக்கிறது!",
+    "ro": "Kaṇḍippāga, romba ruchiyāga irukkiṛadu!",
+    "lit": "bien sûr · très · savoureux · est"
+   },
+   {
+    "fr": "Et le café, tu aimes ?",
+    "tgt": "காபி உனக்கு பிடிக்குமா?",
+    "ro": "Kāpi uṉakku piḍikkumā?",
+    "lit": "café · toi-[à] · plaît-[question]"
+   },
+   {
+    "fr": "Non, moi, j'aime le thé.",
+    "tgt": "இல்லை, எனக்கு டீ பிடிக்கும்.",
+    "ro": "Illai, eṉakku ṭī piḍikkum.",
+    "lit": "non · moi-[à] · thé · plaît"
+   },
+   {
+    "fr": "Ici, tout le monde aime les dosas.",
+    "tgt": "இங்கே எல்லோருக்கும் தோசை பிடிக்கும்.",
+    "ro": "Ingē ellōrukkum tōchai piḍikkum.",
+    "lit": "ici · tous-[à] · dosa · plaît"
+   }
+  ]
+ },
+ "0-2-4": {
+  "module": "Conversation sociale",
+  "title": "Le travail de chacun",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Tu fais quoi, comme travail ?",
+    "tgt": "நீ என்ன வேலை செய்கிறாய்?",
+    "ro": "Nī eṉṉa vēlai cheygiṛāy?",
+    "lit": "toi · quel · travail · fais"
+   },
+   {
+    "fr": "J'enseigne le français dans une école.",
+    "tgt": "நான் ஒரு பள்ளியில் பிரெஞ்சு கற்பிக்கிறேன்.",
+    "ro": "Nāṉ oru paḷḷiyil pirenju kaṛpikkiṛēṉ.",
+    "lit": "je · une · école-[dans] · français · enseigne"
+   },
+   {
+    "fr": "Ravi, lui, travaille dans une banque.",
+    "tgt": "ரவி ஒரு வங்கியில் வேலை செய்கிறார்.",
+    "ro": "Ravi oru vangiyil vēlai cheygiṛār.",
+    "lit": "Ravi · une · banque-[dans] · travail · fait [respect]"
+   },
+   {
+    "fr": "Meena est étudiante en médecine.",
+    "tgt": "மீனா மருத்துவ மாணவி.",
+    "ro": "Mīṉā maruttuva māṇavi.",
+    "lit": "Meena · médecine · étudiante"
+   },
+   {
+    "fr": "Et ton boulot, il te plaît ?",
+    "tgt": "உனக்கு உன் வேலை பிடிக்குமா?",
+    "ro": "Uṉakku uṉ vēlai piḍikkumā?",
+    "lit": "toi-[à] · ton · travail · plaît-[question]"
+   },
+   {
+    "fr": "Oui, même si c'est un peu fatigant.",
+    "tgt": "ஆமாம், ஆனால் கொஞ்சம் களைப்பு.",
+    "ro": "Āmām, āṉāl konjam kaḷaippu.",
+    "lit": "oui · mais · un peu · fatigue"
+   },
+   {
+    "fr": "Mon bureau est près de la gare.",
+    "tgt": "என் அலுவலகம் ரயில் நிலையம் பக்கத்தில்.",
+    "ro": "Eṉ aluvalagam rayil nilaiyam pakkattil.",
+    "lit": "mon · bureau · train · gare · à côté-[dans]"
+   },
+   {
+    "fr": "Le matin, tu commences à quelle heure ?",
+    "tgt": "காலையில் எத்தனை மணிக்கு வேலை?",
+    "ro": "Kālaiyil ettaṉai maṇikku vēlai?",
+    "lit": "matin-[dans] · combien · heure-[à] · travail"
+   },
+   {
+    "fr": "Je commence à neuf heures et je finis à cinq.",
+    "tgt": "ஒன்பது மணிக்கு ஆரம்பம், ஐந்து மணிக்கு முடிவு.",
+    "ro": "Oṉbadu maṇikku ārambam, aindu maṇikku muḍivu.",
+    "lit": "neuf · heure-[à] · début · cinq · heure-[à] · fin"
+   },
+   {
+    "fr": "Le samedi, je suis en repos.",
+    "tgt": "சனிக்கிழமை எனக்கு வேலை இல்லை.",
+    "ro": "Chaṉikkiḻamai eṉakku vēlai illai.",
+    "lit": "samedi · moi-[à] · travail · il n'y a pas"
+   }
+  ]
+ },
+ "0-2-5": {
+  "module": "Conversation sociale",
+  "title": "La famille qui reçoit",
+  "grammaire_de_la_lecon": "La famille : « appā », « ammā », « aṇṇaṉ », « akkā »",
+  "phrases": [
+   {
+    "fr": "Voilà mon père et ma mère.",
+    "tgt": "இவர்கள் என் அப்பா, அம்மா.",
+    "ro": "Ivargaḷ eṉ appā, ammā.",
+    "lit": "ceux-ci · mon · père · mère"
+   },
+   {
+    "fr": "Bonsoir, monsieur, bonsoir, madame.",
+    "tgt": "வணக்கம் ஐயா, வணக்கம் அம்மா.",
+    "ro": "Vaṇakkam aiyā, vaṇakkam ammā.",
+    "lit": "bonjour · monsieur · bonjour · madame (mère)"
+   },
+   {
+    "fr": "Voici mon grand frère, Arun.",
+    "tgt": "இவர் என் அண்ணன் அருண்.",
+    "ro": "Ivar eṉ aṇṇaṉ Aruṇ.",
+    "lit": "celui-ci [respect] · mon · grand frère · Arun"
+   },
+   {
+    "fr": "Et voici ma grande sœur, Kavitha.",
+    "tgt": "இவர் என் அக்கா கவிதா.",
+    "ro": "Ivar eṉ akkā Kavidā.",
+    "lit": "celle-ci [respect] · ma · grande sœur · Kavitha"
+   },
+   {
+    "fr": "Tu as un grand frère ou une grande sœur ?",
+    "tgt": "உனக்கு அண்ணன், அக்கா இருக்கிறார்களா?",
+    "ro": "Uṉakku aṇṇaṉ, akkā irukkiṛārgaḷā?",
+    "lit": "toi-[à] · grand frère · grande sœur · il y a-[question]"
+   },
+   {
+    "fr": "J'ai une grande sœur, elle vit en France.",
+    "tgt": "எனக்கு பிரான்ஸில் ஒரு அக்கா இருக்கிறார்.",
+    "ro": "Eṉakku Pirāṉsil oru akkā irukkiṛār.",
+    "lit": "moi-[à] · France-[dans] · une · grande sœur · il y a"
+   },
+   {
+    "fr": "Ta mère cuisine merveilleusement bien, Ravi.",
+    "tgt": "உன் அம்மா ரொம்ப நன்றாக சமைக்கிறார், ரவி.",
+    "ro": "Uṉ ammā romba naṉṛāga chamaikkiṛār, Ravi.",
+    "lit": "ta · mère · très · bien · cuisine [respect] · Ravi"
+   },
+   {
+    "fr": "Mon grand frère est fou de cricket.",
+    "tgt": "என் அண்ணனுக்கு கிரிக்கெட் ரொம்ப பிடிக்கும்.",
+    "ro": "Eṉ aṇṇaṉukku kirikkeṭ romba piḍikkum.",
+    "lit": "mon · grand frère-[à] · cricket · très · plaît"
+   },
+   {
+    "fr": "Papa, voici mon ami Lucas.",
+    "tgt": "அப்பா, இவர் என் நண்பர் லூக்காஸ்.",
+    "ro": "Appā, ivar eṉ naṇbar Lūkkās.",
+    "lit": "papa · celui-ci [respect] · mon · ami · Lucas"
+   },
+   {
+    "fr": "Ta famille est si affectueuse.",
+    "tgt": "உன் குடும்பம் ரொம்ப அன்பானது.",
+    "ro": "Uṉ kuḍumbam romba aṉbāṉadu.",
+    "lit": "ta · famille · très · affectueuse"
+   }
+  ]
+ },
+ "0-2-6": {
+  "module": "Conversation sociale",
+  "title": "Un café sur la terrasse",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Quel soleil aujourd'hui !",
+    "tgt": "இன்று ரொம்ப வெயில்!",
+    "ro": "Iṉṛu romba veyil!",
+    "lit": "aujourd'hui · très · soleil"
+   },
+   {
+    "fr": "À Madurai, il fait chaud toute l'année.",
+    "tgt": "மதுரையில் எப்போதும் வெயில்.",
+    "ro": "Maduraiyil eppōdum veyil.",
+    "lit": "Madurai-[dans] · toujours · soleil"
+   },
+   {
+    "fr": "On boit un petit café ?",
+    "tgt": "ஒரு காபி குடிக்கலாமா?",
+    "ro": "Oru kāpi kuḍikkalāmā?",
+    "lit": "un · café · boire-on peut-[question]"
+   },
+   {
+    "fr": "D'accord, juste un peu de sucre.",
+    "tgt": "சரி, சர்க்கரை கொஞ்சம் போதும்.",
+    "ro": "Chari, charkkarai konjam pōdum.",
+    "lit": "d'accord · sucre · un peu · suffit"
+   },
+   {
+    "fr": "Le soir, il y a un peu de vent.",
+    "tgt": "மாலையில் கொஞ்சம் காற்று வரும்.",
+    "ro": "Mālaiyil konjam kāṛṛu varum.",
+    "lit": "soir-[dans] · un peu · vent · vient"
+   },
+   {
+    "fr": "La pluie, ça te plaît ?",
+    "tgt": "உனக்கு மழை பிடிக்குமா?",
+    "ro": "Uṉakku maḻai piḍikkumā?",
+    "lit": "toi-[à] · pluie · plaît-[question]"
+   },
+   {
+    "fr": "Oui, ici, la pluie est un vrai bonheur.",
+    "tgt": "ஆமாம், இங்கே மழை ஒரு சந்தோஷம்.",
+    "ro": "Āmām, ingē maḻai oru chandōsham.",
+    "lit": "oui · ici · pluie · un · bonheur"
+   },
+   {
+    "fr": "En France, l'hiver est très froid.",
+    "tgt": "பிரான்ஸில் குளிர் காலத்தில் ரொம்ப குளிர்.",
+    "ro": "Pirāṉsil kuḷir kālattil romba kuḷir.",
+    "lit": "France-[dans] · froid · saison-[dans] · très · froid"
+   },
+   {
+    "fr": "Il neige à Lyon ?",
+    "tgt": "லியோனில் பனி பெய்யுமா?",
+    "ro": "Liyōṉil paṉi peyyumā?",
+    "lit": "Lyon-[dans] · neige · tombe-[question]"
+   },
+   {
+    "fr": "Oui, un peu, au mois de janvier.",
+    "tgt": "ஆமாம், ஜனவரியில் கொஞ்சம்.",
+    "ro": "Āmām, jaṉavariyil konjam.",
+    "lit": "oui · janvier-[dans] · un peu"
+   }
+  ]
+ },
+ "0-2-7": {
+  "module": "Conversation sociale",
+  "title": "Tutoyer un nouvel ami",
+  "grammaire_de_la_lecon": "« Nī » et « nīngaḷ » : tutoyer et vouvoyer",
+  "phrases": [
+   {
+    "fr": "Comment vas-tu, Arun ?",
+    "tgt": "நீ எப்படி இருக்கிறாய், அருண்?",
+    "ro": "Nī eppaḍi irukkiṛāy, Aruṇ?",
+    "lit": "toi · comment · es · Arun"
+   },
+   {
+    "fr": "Et vous, monsieur, comment allez-vous ?",
+    "tgt": "நீங்கள் எப்படி இருக்கிறீர்கள், ஐயா?",
+    "ro": "Nīngaḷ eppaḍi irukkiṛīrgaḷ, aiyā?",
+    "lit": "vous · comment · êtes · monsieur [respect]"
+   },
+   {
+    "fr": "Tu peux me tutoyer, Lucas.",
+    "tgt": "என்னை நீ என்று கூப்பிடலாம், லூக்காஸ்.",
+    "ro": "Eṉṉai nī eṉṛu kūppiḍalām, Lūkkās.",
+    "lit": "moi-[objet] · toi · [en disant] · appeler-on peut · Lucas"
+   },
+   {
+    "fr": "Tu passes ce soir ?",
+    "tgt": "இன்று இரவு நீ வருகிறாயா?",
+    "ro": "Iṉṛu iravu nī varugiṛāyā?",
+    "lit": "aujourd'hui · nuit · toi · viens-[question]"
+   },
+   {
+    "fr": "Vous venez aussi, madame ?",
+    "tgt": "நீங்களும் வருகிறீர்களா, அம்மா?",
+    "ro": "Nīngaḷum varugiṛīrgaḷā, ammā?",
+    "lit": "vous-aussi · venez-[question] · madame"
+   },
+   {
+    "fr": "Tu as un moment demain ?",
+    "tgt": "நாளை உனக்கு நேரம் இருக்கிறதா?",
+    "ro": "Nāḷai uṉakku nēram irukkiṛadā?",
+    "lit": "demain · toi-[à] · temps · il y a-[question]"
+   },
+   {
+    "fr": "Vous êtes de Madurai, monsieur ?",
+    "tgt": "நீங்கள் மதுரைக்காரரா, ஐயா?",
+    "ro": "Nīngaḷ Maduraikkārarā, aiyā?",
+    "lit": "vous · Madurai-[homme de]-[question] · monsieur"
+   },
+   {
+    "fr": "Dis, tu as faim ?",
+    "tgt": "உனக்கு பசிக்கிறதா?",
+    "ro": "Uṉakku pachikkiṛadā?",
+    "lit": "toi-[à] · a faim-[question]"
+   },
+   {
+    "fr": "Et vous, madame, vous avez faim ?",
+    "tgt": "உங்களுக்கு பசிக்கிறதா, அம்மா?",
+    "ro": "Ungaḷukku pachikkiṛadā, ammā?",
+    "lit": "vous-[à] · a faim-[question] · madame"
+   },
+   {
+    "fr": "Toi et moi, on est amis maintenant.",
+    "tgt": "இப்போது நீயும் நானும் நண்பர்கள்.",
+    "ro": "Ippōdu nīyum nāṉum naṇbargaḷ.",
+    "lit": "maintenant · toi-et · moi-et · amis"
+   }
+  ]
+ },
+ "0-2-8": {
+  "module": "Conversation sociale",
+  "title": "Au marché aux fleurs",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Le marché aux fleurs ouvre à l'aube.",
+    "tgt": "பூச்சந்தை அதிகாலையில் திறக்கும்.",
+    "ro": "Pūcchandai adigālaiyil tiṛakkum.",
+    "lit": "marché aux fleurs · aube-[dans] · ouvre"
+   },
+   {
+    "fr": "Ce jasmin est vraiment magnifique !",
+    "tgt": "இந்த மல்லிகைப்பூ ரொம்ப அழகு!",
+    "ro": "Inda malligaippū romba aḻagu!",
+    "lit": "ce · jasmin-fleur · très · beauté"
+   },
+   {
+    "fr": "Le jasmin de Madurai est très célèbre.",
+    "tgt": "மதுரை மல்லி ரொம்ப பிரபலம்.",
+    "ro": "Madurai malli romba pirapalam.",
+    "lit": "Madurai · jasmin · très · célèbre"
+   },
+   {
+    "fr": "Combien pour une coudée de jasmin ?",
+    "tgt": "ஒரு முழம் எவ்வளவு?",
+    "ro": "Oru muḻam evvaḷavu?",
+    "lit": "une · coudée · combien"
+   },
+   {
+    "fr": "Trente roupies la coudée.",
+    "tgt": "ஒரு முழம் முப்பது ரூபாய்.",
+    "ro": "Oru muḻam muppadu rūpāy.",
+    "lit": "une · coudée · trente · roupie"
+   },
+   {
+    "fr": "C'est un cadeau pour la mère de Ravi.",
+    "tgt": "இது ரவியுடைய அம்மாவுக்கு.",
+    "ro": "Idu Raviyuḍaiya ammāvukku.",
+    "lit": "ceci · Ravi-[de] · mère-[pour]"
+   },
+   {
+    "fr": "Elle adore les fleurs.",
+    "tgt": "அவருக்கு பூ ரொம்ப பிடிக்கும்.",
+    "ro": "Avarukku pū romba piḍikkum.",
+    "lit": "elle [respect]-[à] · fleur · très · plaît"
+   },
+   {
+    "fr": "Et ces roses rouges, c'est combien ?",
+    "tgt": "இந்த சிவப்பு ரோஜா எவ்வளவு?",
+    "ro": "Inda chivappu rōjā evvaḷavu?",
+    "lit": "ce · rouge · rose · combien"
+   },
+   {
+    "fr": "Dix roupies la rose.",
+    "tgt": "ஒன்று பத்து ரூபாய்.",
+    "ro": "Oṉṛu pattu rūpāy.",
+    "lit": "une · dix · roupie"
+   },
+   {
+    "fr": "Quelle foule ce matin !",
+    "tgt": "இன்று காலை நிறைய கூட்டம்!",
+    "ro": "Iṉṛu kālai niṛaiya kūṭṭam!",
+    "lit": "aujourd'hui · matin · beaucoup · foule"
+   }
+  ]
+ },
+ "0-2-9": {
+  "module": "Conversation sociale",
+  "title": "Madurai ou Chennai ?",
+  "grammaire_de_la_lecon": "Comparer avec « -ai viḍa », plus que",
+  "phrases": [
+   {
+    "fr": "Chennai est plus grande que Madurai.",
+    "tgt": "மதுரையை விட சென்னை பெரியது.",
+    "ro": "Maduraiyai viḍa Cheṉṉai periyadu.",
+    "lit": "Madurai-[objet] · que · Chennai · grande"
+   },
+   {
+    "fr": "Mais Madurai est plus calme que Chennai.",
+    "tgt": "ஆனால் சென்னையை விட மதுரை அமைதியானது.",
+    "ro": "Āṉāl Cheṉṉaiyai viḍa Madurai amaidiyāṉadu.",
+    "lit": "mais · Chennai-[objet] · que · Madurai · calme"
+   },
+   {
+    "fr": "Le jigarthanda est meilleur que le café.",
+    "tgt": "காபியை விட ஜிகர்தண்டா நல்லது.",
+    "ro": "Kāpiyai viḍa jigartaṇḍā nalladu.",
+    "lit": "café-[objet] · que · jigarthanda · bon"
+   },
+   {
+    "fr": "Ton grand frère est plus grand que toi ?",
+    "tgt": "உன்னை விட உன் அண்ணன் உயரமா?",
+    "ro": "Uṉṉai viḍa uṉ aṇṇaṉ uyaramā?",
+    "lit": "toi-[objet] · que · ton · grand frère · grand-[question]"
+   },
+   {
+    "fr": "Oui, lui, il est plus grand que moi.",
+    "tgt": "ஆமாம், அவன் என்னை விட உயரம்.",
+    "ro": "Āmām, avaṉ eṉṉai viḍa uyaram.",
+    "lit": "oui · lui · moi-[objet] · que · grand"
+   },
+   {
+    "fr": "Ici, les dosas sont meilleurs qu'en France.",
+    "tgt": "பிரான்ஸை விட இங்கே தோசை ருசி.",
+    "ro": "Pirāṉsai viḍa ingē tōchai ruchi.",
+    "lit": "France-[objet] · que · ici · dosa · saveur"
+   },
+   {
+    "fr": "Le train coûte moins cher que le taxi.",
+    "tgt": "டாக்ஸியை விட ரயில் மலிவு.",
+    "ro": "Ṭāksiyai viḍa rayil malivu.",
+    "lit": "taxi-[objet] · que · train · bon marché"
+   },
+   {
+    "fr": "Je préfère le cinéma à la télé.",
+    "tgt": "எனக்கு டிவியை விட சினிமா பிடிக்கும்.",
+    "ro": "Eṉakku ṭiviyai viḍa chiṉimā piḍikkum.",
+    "lit": "moi-[à] · télé-[objet] · que · cinéma · plaît"
+   },
+   {
+    "fr": "Ta petite sœur est plus jeune que toi ?",
+    "tgt": "உன் தங்கை உன்னை விட சின்னவளா?",
+    "ro": "Uṉ tangai uṉṉai viḍa chiṉṉavaḷā?",
+    "lit": "ta · petite sœur · toi-[objet] · que · petite-elle-[question]"
+   },
+   {
+    "fr": "Oui, elle a deux ans de moins.",
+    "tgt": "ஆமாம், இரண்டு வயது சின்னவள்.",
+    "ro": "Āmām, iraṇḍu vayadu chiṉṉavaḷ.",
+    "lit": "oui · deux · ans · petite-elle"
+   }
+  ]
+ },
+ "0-2-10": {
+  "module": "Conversation sociale",
+  "title": "Le cinéma du soir",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ce soir, on se fait un cinéma ?",
+    "tgt": "இன்று இரவு சினிமாவுக்கு போகலாமா?",
+    "ro": "Iṉṛu iravu chiṉimāvukku pōgalāmā?",
+    "lit": "aujourd'hui · nuit · cinéma-[à] · aller-on peut-[question]"
+   },
+   {
+    "fr": "Il y a un nouveau film tamoul.",
+    "tgt": "ஒரு புதிய தமிழ் படம் இருக்கிறது.",
+    "ro": "Oru pudiya tamiḻ paḍam irukkiṛadu.",
+    "lit": "un · nouveau · tamoul · film · il y a"
+   },
+   {
+    "fr": "Le film démarre à neuf heures.",
+    "tgt": "படம் ஒன்பது மணிக்கு ஆரம்பம்.",
+    "ro": "Paḍam oṉbadu maṇikku ārambam.",
+    "lit": "film · neuf · heure-[à] · début"
+   },
+   {
+    "fr": "Le billet, c'est combien ?",
+    "tgt": "டிக்கெட் எவ்வளவு?",
+    "ro": "Ṭikkeṭ evvaḷavu?",
+    "lit": "billet · combien"
+   },
+   {
+    "fr": "Cent cinquante roupies par personne.",
+    "tgt": "ஒருவருக்கு நூற்றைம்பது ரூபாய்.",
+    "ro": "Oruvarukku nūṛṛaimbadu rūpāy.",
+    "lit": "une personne-[à] · cent cinquante · roupie"
+   },
+   {
+    "fr": "J'adore les films d'action.",
+    "tgt": "எனக்கு ஆக்ஷன் படங்கள் ரொம்ப பிடிக்கும்.",
+    "ro": "Eṉakku ākshaṉ paḍangaḷ romba piḍikkum.",
+    "lit": "moi-[à] · action · films · très · plaît"
+   },
+   {
+    "fr": "Moi, j'aime surtout les comédies.",
+    "tgt": "எனக்கு காமெடி படம் பிடிக்கும்.",
+    "ro": "Eṉakku kāmeḍi paḍam piḍikkum.",
+    "lit": "moi-[à] · comédie · film · plaît"
+   },
+   {
+    "fr": "On prend du pop-corn ?",
+    "tgt": "பாப்கார்ன் வாங்கலாமா?",
+    "ro": "Pāpkārṉ vāngalāmā?",
+    "lit": "pop-corn · acheter-on peut-[question]"
+   },
+   {
+    "fr": "Dans ce film, le héros chante très bien.",
+    "tgt": "இந்த படத்தில் ஹீரோ ரொம்ப நன்றாக பாடுகிறார்.",
+    "ro": "Inda paḍattil hīrō romba naṉṛāga pāḍugiṛār.",
+    "lit": "ce · film-[dans] · héros · très · bien · chante [respect]"
+   },
+   {
+    "fr": "Les chansons sont superbes.",
+    "tgt": "பாடல்கள் ரொம்ப அழகு.",
+    "ro": "Pāḍalgaḷ romba aḻagu.",
+    "lit": "chansons · très · beauté"
+   }
+  ]
+ },
+ "0-2-11": {
+  "module": "Conversation sociale",
+  "title": "Pourquoi pas ce soir ?",
+  "grammaire_de_la_lecon": "« Ēṉeṉṛāl » : parce que",
+  "phrases": [
+   {
+    "fr": "Pourquoi tu restes à la maison ?",
+    "tgt": "நீ ஏன் வீட்டில் இருக்கிறாய்?",
+    "ro": "Nī ēṉ vīṭṭil irukkiṛāy?",
+    "lit": "toi · pourquoi · maison-[dans] · es"
+   },
+   {
+    "fr": "Parce que j'ai du travail demain.",
+    "tgt": "ஏனென்றால் நாளை எனக்கு வேலை இருக்கிறது.",
+    "ro": "Ēṉeṉṛāl nāḷai eṉakku vēlai irukkiṛadu.",
+    "lit": "parce que · demain · moi-[à] · travail · il y a"
+   },
+   {
+    "fr": "Pourquoi Madurai te plaît autant ?",
+    "tgt": "உனக்கு ஏன் மதுரை பிடிக்கும்?",
+    "ro": "Uṉakku ēṉ Madurai piḍikkum?",
+    "lit": "toi-[à] · pourquoi · Madurai · plaît"
+   },
+   {
+    "fr": "Parce que les gens sont très chaleureux.",
+    "tgt": "ஏனென்றால் இங்கே மக்கள் ரொம்ப அன்பானவர்கள்.",
+    "ro": "Ēṉeṉṛāl ingē makkaḷ romba aṉbāṉavargaḷ.",
+    "lit": "parce que · ici · gens · très · affectueux"
+   },
+   {
+    "fr": "Je suis fatigué parce qu'il fait trop chaud.",
+    "tgt": "நான் களைப்பாக இருக்கிறேன், ஏனென்றால் ரொம்ப வெயில்.",
+    "ro": "Nāṉ kaḷaippāga irukkiṛēṉ, ēṉeṉṛāl romba veyil.",
+    "lit": "je · fatigué · suis · parce que · trop · soleil"
+   },
+   {
+    "fr": "Pourquoi Meena n'est pas là ?",
+    "tgt": "மீனா ஏன் இங்கே இல்லை?",
+    "ro": "Mīṉā ēṉ ingē illai?",
+    "lit": "Meena · pourquoi · ici · n'est pas"
+   },
+   {
+    "fr": "Parce qu'elle a un examen demain.",
+    "tgt": "ஏனென்றால் நாளை அவளுக்கு பரீட்சை.",
+    "ro": "Ēṉeṉṛāl nāḷai avaḷukku parīṭchai.",
+    "lit": "parce que · demain · elle-[à] · examen"
+   },
+   {
+    "fr": "J'apprends le tamoul parce que cette langue me plaît.",
+    "tgt": "நான் தமிழ் கற்றுக்கொள்கிறேன், ஏனென்றால் எனக்கு தமிழ் பிடிக்கும்.",
+    "ro": "Nāṉ tamiḻ kaṛṛukkoḷgiṛēṉ, ēṉeṉṛāl eṉakku tamiḻ piḍikkum.",
+    "lit": "je · tamoul · apprends · parce que · moi-[à] · tamoul · plaît"
+   },
+   {
+    "fr": "Mais pourquoi tu rigoles ?",
+    "tgt": "நீ ஏன் சிரிக்கிறாய்?",
+    "ro": "Nī ēṉ chirikkiṛāy?",
+    "lit": "toi · pourquoi · ris"
+   },
+   {
+    "fr": "Parce que ton histoire est trop drôle !",
+    "tgt": "ஏனென்றால் உன் கதை ரொம்ப வேடிக்கை!",
+    "ro": "Ēṉeṉṛāl uṉ kadai romba vēḍikkai!",
+    "lit": "parce que · ton · histoire · très · amusement"
+   }
+  ]
+ },
+ "0-2-12": {
+  "module": "Conversation sociale",
+  "title": "Les loisirs du week-end",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Qu'est-ce que tu fais de tes week-ends ?",
+    "tgt": "வார இறுதியில் நீ என்ன செய்கிறாய்?",
+    "ro": "Vāra iṛudiyil nī eṉṉa cheygiṛāy?",
+    "lit": "semaine · fin-[dans] · toi · quoi · fais"
+   },
+   {
+    "fr": "Je lis des livres et je dessine.",
+    "tgt": "நான் புத்தகம் படிக்கிறேன், படம் வரைகிறேன்.",
+    "ro": "Nāṉ puttagam paḍikkiṛēṉ, paḍam varaigiṛēṉ.",
+    "lit": "je · livre · lis · image · dessine"
+   },
+   {
+    "fr": "Tu joues d'un instrument de musique ?",
+    "tgt": "நீ ஏதாவது இசைக்கருவி வாசிக்கிறாயா?",
+    "ro": "Nī ēdāvadu ichaikkaruvi vāchikkiṛāyā?",
+    "lit": "toi · quelque · instrument de musique · joues-[question]"
+   },
+   {
+    "fr": "Oui, je joue un peu du violon.",
+    "tgt": "ஆமாம், நான் கொஞ்சம் வயலின் வாசிக்கிறேன்.",
+    "ro": "Āmām, nāṉ konjam vayaliṉ vāchikkiṛēṉ.",
+    "lit": "oui · je · un peu · violon · joue"
+   },
+   {
+    "fr": "Ma petite sœur apprend la danse.",
+    "tgt": "என் தங்கை நடனம் கற்றுக்கொள்கிறாள்.",
+    "ro": "Eṉ tangai naḍaṉam kaṛṛukkoḷgiṛāḷ.",
+    "lit": "ma · petite sœur · danse · apprend"
+   },
+   {
+    "fr": "J'aime marcher en fin de journée.",
+    "tgt": "எனக்கு மாலையில் நடக்க பிடிக்கும்.",
+    "ro": "Eṉakku mālaiyil naḍakka piḍikkum.",
+    "lit": "moi-[à] · soir-[dans] · marcher · plaît"
+   },
+   {
+    "fr": "Faire la cuisine, ça te plaît ?",
+    "tgt": "உனக்கு சமைக்க பிடிக்குமா?",
+    "ro": "Uṉakku chamaikka piḍikkumā?",
+    "lit": "toi-[à] · cuisiner · plaît-[question]"
+   },
+   {
+    "fr": "Je cuisine surtout des plats français.",
+    "tgt": "நான் பெரும்பாலும் பிரெஞ்சு சாப்பாடு சமைக்கிறேன்.",
+    "ro": "Nāṉ perumbālum pirenju chāppāḍu chamaikkiṛēṉ.",
+    "lit": "je · surtout · français · repas · cuisine"
+   },
+   {
+    "fr": "Le week-end, je dors beaucoup.",
+    "tgt": "வார இறுதியில் நான் நிறைய தூங்குகிறேன்.",
+    "ro": "Vāra iṛudiyil nāṉ niṛaiya tūngugiṛēṉ.",
+    "lit": "semaine · fin-[dans] · je · beaucoup · dors"
+   },
+   {
+    "fr": "Moi, je fais du vélo avec des amis.",
+    "tgt": "நான் நண்பர்களுடன் சைக்கிள் ஓட்டுகிறேன்.",
+    "ro": "Nāṉ naṇbargaḷuḍaṉ chaikkiḷ ōṭṭugiṛēṉ.",
+    "lit": "je · amis-[avec] · vélo · conduis"
+   }
+  ]
+ },
+ "0-2-13": {
+  "module": "Conversation sociale",
+  "title": "Ce que je sais faire",
+  "grammaire_de_la_lecon": "« Teriyum » : savoir, connaître",
+  "phrases": [
+   {
+    "fr": "Tu sais nager ?",
+    "tgt": "உனக்கு நீந்த தெரியுமா?",
+    "ro": "Uṉakku nīnda teriyumā?",
+    "lit": "toi-[à] · nager · connu-[question]"
+   },
+   {
+    "fr": "Oui, je nage très bien.",
+    "tgt": "ஆமாம், எனக்கு நன்றாக நீந்த தெரியும்.",
+    "ro": "Āmām, eṉakku naṉṛāga nīnda teriyum.",
+    "lit": "oui · moi-[à] · bien · nager · connu"
+   },
+   {
+    "fr": "Tu connais ce petit restaurant ?",
+    "tgt": "உனக்கு இந்த உணவகம் தெரியுமா?",
+    "ro": "Uṉakku inda uṇavagam teriyumā?",
+    "lit": "toi-[à] · ce · restaurant · connu-[question]"
+   },
+   {
+    "fr": "Oui, je connais bien le patron.",
+    "tgt": "ஆமாம், எனக்கு அதன் முதலாளியை நன்றாக தெரியும்.",
+    "ro": "Āmām, eṉakku adaṉ mudalāḷiyai naṉṛāga teriyum.",
+    "lit": "oui · moi-[à] · son · patron-[objet] · bien · connu"
+   },
+   {
+    "fr": "Moi, je ne sais pas conduire un scooter.",
+    "tgt": "எனக்கு வண்டி ஓட்ட தெரியாது.",
+    "ro": "Eṉakku vaṇḍi ōṭṭa teriyādu.",
+    "lit": "moi-[à] · scooter · conduire · pas connu"
+   },
+   {
+    "fr": "Ravi parle un peu français.",
+    "tgt": "ரவிக்கு கொஞ்சம் பிரெஞ்சு தெரியும்.",
+    "ro": "Ravikku konjam pirenju teriyum.",
+    "lit": "Ravi-[à] · un peu · français · connu"
+   },
+   {
+    "fr": "Tu connais Kodaikanal ?",
+    "tgt": "உனக்கு கொடைக்கானல் தெரியுமா?",
+    "ro": "Uṉakku Koḍaikkāṉal teriyumā?",
+    "lit": "toi-[à] · Kodaikanal · connu-[question]"
+   },
+   {
+    "fr": "Non, je ne connais pas encore les montagnes d'ici.",
+    "tgt": "இல்லை, இங்கே மலைகள் எனக்கு இன்னும் தெரியாது.",
+    "ro": "Illai, ingē malaigaḷ eṉakku iṉṉum teriyādu.",
+    "lit": "non · ici · montagnes · moi-[à] · encore · pas connu"
+   },
+   {
+    "fr": "Tu sais faire des dosas ?",
+    "tgt": "உனக்கு தோசை சுட தெரியுமா?",
+    "ro": "Uṉakku tōchai chuḍa teriyumā?",
+    "lit": "toi-[à] · dosa · cuire · connu-[question]"
+   },
+   {
+    "fr": "Pas encore, malheureusement.",
+    "tgt": "இன்னும் தெரியாது.",
+    "ro": "Iṉṉum teriyādu.",
+    "lit": "encore · pas connu"
+   }
+  ]
+ },
+ "0-2-14": {
+  "module": "Conversation sociale",
+  "title": "Le cricket entre voisins",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Les voisins jouent au cricket dans la rue.",
+    "tgt": "பக்கத்து வீட்டுக்காரர்கள் தெருவில் கிரிக்கெட் விளையாடுகிறார்கள்.",
+    "ro": "Pakkattu vīṭṭukkārargaḷ teruvil kirikkeṭ viḷaiyāḍugiṛārgaḷ.",
+    "lit": "d'à côté · maison-gens · rue-[dans] · cricket · jouent"
+   },
+   {
+    "fr": "Tu viens jouer avec nous ?",
+    "tgt": "எங்களுடன் விளையாட வருகிறாயா?",
+    "ro": "Engaḷuḍaṉ viḷaiyāḍa varugiṛāyā?",
+    "lit": "nous-[avec] · jouer · viens-[question]"
+   },
+   {
+    "fr": "Je ne connais pas bien les règles.",
+    "tgt": "எனக்கு விதிகள் சரியாக தெரியாது.",
+    "ro": "Eṉakku vidigaḷ chariyāga teriyādu.",
+    "lit": "moi-[à] · règles · correctement · pas connu"
+   },
+   {
+    "fr": "Pas de souci, c'est facile !",
+    "tgt": "பரவாயில்லை, இது சுலபம்!",
+    "ro": "Paravāyillai, idu chulapam!",
+    "lit": "pas grave · ceci · facile"
+   },
+   {
+    "fr": "Tiens, prends la batte.",
+    "tgt": "இந்தா, பேட்டை பிடி.",
+    "ro": "Indā, pēṭṭai piḍi.",
+    "lit": "tiens · batte-[objet] · prends"
+   },
+   {
+    "fr": "Lance la balle doucement !",
+    "tgt": "பந்தை மெதுவாக போடு!",
+    "ro": "Pandai meduvāga pōḍu!",
+    "lit": "balle-[objet] · doucement · lance"
+   },
+   {
+    "fr": "Bravo, quatre points !",
+    "tgt": "அருமை, நான்கு ரன்!",
+    "ro": "Arumai, nāṉgu raṉ!",
+    "lit": "superbe · quatre · points"
+   },
+   {
+    "fr": "Attention à la fenêtre !",
+    "tgt": "ஜன்னல் ஜாக்கிரதை!",
+    "ro": "Jaṉṉal jākkiradai!",
+    "lit": "fenêtre · attention"
+   },
+   {
+    "fr": "Notre équipe est en train de gagner !",
+    "tgt": "நம் அணி ஜெயிக்கிறது!",
+    "ro": "Nam aṇi jeyikkiṛadu!",
+    "lit": "notre · équipe · gagne"
+   },
+   {
+    "fr": "On refait une partie demain soir ?",
+    "tgt": "நாளை மாலை மறுபடியும் விளையாடலாமா?",
+    "ro": "Nāḷai mālai maṛupaḍiyum viḷaiyāḍalāmā?",
+    "lit": "demain · soir · de nouveau · jouer-on peut-[question]"
+   }
+  ]
+ },
+ "0-2-15": {
+  "module": "Conversation sociale",
+  "title": "Faire des compliments",
+  "grammaire_de_la_lecon": "« Romba » : très, beaucoup",
+  "phrases": [
+   {
+    "fr": "Votre sari est très beau, Kavitha.",
+    "tgt": "உங்கள் புடவை ரொம்ப அழகு, கவிதா.",
+    "ro": "Ungaḷ puḍavai romba aḻagu, Kavidā.",
+    "lit": "votre · sari · très · beauté · Kavitha"
+   },
+   {
+    "fr": "Merci beaucoup, Lucas.",
+    "tgt": "ரொம்ப நன்றி, லூக்காஸ்.",
+    "ro": "Romba naṉṛi, Lūkkās.",
+    "lit": "très · merci · Lucas"
+   },
+   {
+    "fr": "Ce repas est vraiment délicieux.",
+    "tgt": "இந்த சாப்பாடு ரொம்ப ருசி.",
+    "ro": "Inda chāppāḍu romba ruchi.",
+    "lit": "ce · repas · très · saveur"
+   },
+   {
+    "fr": "Tu parles très bien français, Ravi !",
+    "tgt": "ரவி, நீ ரொம்ப நன்றாக பிரெஞ்சு பேசுகிறாய்!",
+    "ro": "Ravi, nī romba naṉṛāga pirenju pēchugiṛāy!",
+    "lit": "Ravi · toi · très · bien · français · parles"
+   },
+   {
+    "fr": "Ce quartier est plein d'animation.",
+    "tgt": "இந்த பகுதி ரொம்ப கலகலப்பாக இருக்கிறது.",
+    "ro": "Inda pagudi romba kalagalappāga irukkiṛadu.",
+    "lit": "ce · quartier · très · animé · est"
+   },
+   {
+    "fr": "Je suis tellement heureux d'être ici.",
+    "tgt": "இங்கே இருப்பதில் எனக்கு ரொம்ப சந்தோஷம்.",
+    "ro": "Ingē iruppadil eṉakku romba chandōsham.",
+    "lit": "ici · être-[dans] · moi-[à] · très · bonheur"
+   },
+   {
+    "fr": "Ta mère est d'une grande gentillesse.",
+    "tgt": "உன் அம்மா ரொம்ப அன்பானவர்.",
+    "ro": "Uṉ ammā romba aṉbāṉavar.",
+    "lit": "ta · mère · très · affectueuse [respect]"
+   },
+   {
+    "fr": "Tu chantes vraiment bien !",
+    "tgt": "நீ ரொம்ப நன்றாக பாடுகிறாய்!",
+    "ro": "Nī romba naṉṛāga pāḍugiṛāy!",
+    "lit": "toi · très · bien · chantes"
+   },
+   {
+    "fr": "Pas tant que ça, mais merci.",
+    "tgt": "அவ்வளவு இல்லை, நன்றி.",
+    "ro": "Avvaḷavu illai, naṉṛi.",
+    "lit": "tant · pas · merci"
+   },
+   {
+    "fr": "Madurai me plaît énormément.",
+    "tgt": "எனக்கு மதுரை ரொம்ப ரொம்ப பிடிக்கும்.",
+    "ro": "Eṉakku Madurai romba romba piḍikkum.",
+    "lit": "moi-[à] · Madurai · très · très · plaît"
+   }
+  ]
+ },
+ "0-2-16": {
+  "module": "Conversation sociale",
+  "title": "Échanger nos numéros",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Tu as un numéro de téléphone ici ?",
+    "tgt": "உனக்கு இங்கே போன் நம்பர் இருக்கிறதா?",
+    "ro": "Uṉakku ingē pōṉ nambar irukkiṛadā?",
+    "lit": "toi-[à] · ici · téléphone · numéro · il y a-[question]"
+   },
+   {
+    "fr": "Oui, je te l'écris tout de suite.",
+    "tgt": "ஆமாம், இப்போதே எழுதி தருகிறேன்.",
+    "ro": "Āmām, ippōdē eḻudi tarugiṛēṉ.",
+    "lit": "oui · maintenant-[même] · en écrivant · donne"
+   },
+   {
+    "fr": "Je t'envoie un message ce soir.",
+    "tgt": "இன்று இரவு உனக்கு குறுஞ்செய்தி அனுப்புகிறேன்.",
+    "ro": "Iṉṛu iravu uṉakku kuṛunjeydi aṉuppugiṛēṉ.",
+    "lit": "aujourd'hui · nuit · toi-[à] · message · envoie"
+   },
+   {
+    "fr": "Appelle-moi quand tu veux.",
+    "tgt": "எப்போது வேண்டுமானாலும் கூப்பிடு.",
+    "ro": "Eppōdu vēṇḍumāṉālum kūppiḍu.",
+    "lit": "quand · que tu veuilles · appelle"
+   },
+   {
+    "fr": "On se retrouve samedi ?",
+    "tgt": "சனிக்கிழமை சந்திக்கலாமா?",
+    "ro": "Chaṉikkiḻamai chandikkalāmā?",
+    "lit": "samedi · se rencontrer-on peut-[question]"
+   },
+   {
+    "fr": "Désolé, samedi, je suis à Ooty.",
+    "tgt": "மன்னிக்கவும், சனிக்கிழமை நான் ஊட்டியில் இருக்கிறேன்.",
+    "ro": "Maṉṉikkavum, chaṉikkiḻamai nāṉ Ūṭṭiyil irukkiṛēṉ.",
+    "lit": "pardon · samedi · je · Ooty-[dans] · suis"
+   },
+   {
+    "fr": "Alors lundi soir, ça te va ?",
+    "tgt": "அப்படியானால் திங்கள் மாலை, சரியா?",
+    "ro": "Appaḍiyāṉāl tingaḷ mālai, chariyā?",
+    "lit": "dans ce cas · lundi · soir · d'accord-[question]"
+   },
+   {
+    "fr": "D'accord, à lundi soir.",
+    "tgt": "சரி, திங்கள் மாலை.",
+    "ro": "Chari, tingaḷ mālai.",
+    "lit": "d'accord · lundi · soir"
+   },
+   {
+    "fr": "Mon numéro commence par neuf.",
+    "tgt": "என் நம்பர் ஒன்பதில் ஆரம்பிக்கிறது.",
+    "ro": "Eṉ nambar oṉbadil ārambikkiṛadu.",
+    "lit": "mon · numéro · neuf-[dans] · commence"
+   },
+   {
+    "fr": "Je t'appelle demain matin.",
+    "tgt": "நாளை காலை உன்னை கூப்பிடுகிறேன்.",
+    "ro": "Nāḷai kālai uṉṉai kūppiḍugiṛēṉ.",
+    "lit": "demain · matin · toi-[objet] · appelle"
+   }
+  ]
+ },
+ "0-2-17": {
+  "module": "Conversation sociale",
+  "title": "Les amis de Ravi",
+  "grammaire_de_la_lecon": "Le pluriel en « -kaḷ »",
+  "phrases": [
+   {
+    "fr": "Voici mes amis de la fac.",
+    "tgt": "இவர்கள் என் கல்லூரி நண்பர்கள்.",
+    "ro": "Ivargaḷ eṉ kallūri naṇbargaḷ.",
+    "lit": "ceux-ci · mes · université · amis"
+   },
+   {
+    "fr": "Les enfants jouent dehors.",
+    "tgt": "குழந்தைகள் வெளியே விளையாடுகிறார்கள்.",
+    "ro": "Kuḻandaigaḷ veḷiyē viḷaiyāḍugiṛārgaḷ.",
+    "lit": "enfants · dehors · jouent"
+   },
+   {
+    "fr": "Ces fleurs sont pour toi.",
+    "tgt": "இந்த பூக்கள் உனக்கு.",
+    "ro": "Inda pūkkaḷ uṉakku.",
+    "lit": "ces · fleurs · toi-[pour]"
+   },
+   {
+    "fr": "Tu as beaucoup de livres !",
+    "tgt": "உன்னிடம் நிறைய புத்தகங்கள்!",
+    "ro": "Uṉṉiḍam niṛaiya puttagangaḷ!",
+    "lit": "toi-[chez] · beaucoup · livres"
+   },
+   {
+    "fr": "Mes voisins sont très sympathiques.",
+    "tgt": "என் பக்கத்து வீட்டுக்காரர்கள் ரொம்ப நல்லவர்கள்.",
+    "ro": "Eṉ pakkattu vīṭṭukkārargaḷ romba nallavargaḷ.",
+    "lit": "mes · d'à côté · maison-gens · très · gentils"
+   },
+   {
+    "fr": "Le soir, les rues de Madurai sont pleines de vie.",
+    "tgt": "மதுரை தெருக்கள் மாலையில் கலகலப்பாக இருக்கும்.",
+    "ro": "Madurai terukkaḷ mālaiyil kalagalappāga irukkum.",
+    "lit": "Madurai · rues · soir-[dans] · animées · sont"
+   },
+   {
+    "fr": "J'aime les films tamouls.",
+    "tgt": "எனக்கு தமிழ் படங்கள் பிடிக்கும்.",
+    "ro": "Eṉakku tamiḻ paḍangaḷ piḍikkum.",
+    "lit": "moi-[à] · tamoul · films · plaît"
+   },
+   {
+    "fr": "Les étudiants arrivent à huit heures.",
+    "tgt": "மாணவர்கள் எட்டு மணிக்கு வருகிறார்கள்.",
+    "ro": "Māṇavargaḷ eṭṭu maṇikku varugiṛārgaḷ.",
+    "lit": "étudiants · huit · heure-[à] · viennent"
+   },
+   {
+    "fr": "Ces bananes, c'est combien ?",
+    "tgt": "இந்த வாழைப்பழங்கள் எவ்வளவு?",
+    "ro": "Inda vāḻaippaḻangaḷ evvaḷavu?",
+    "lit": "ces · bananes · combien"
+   },
+   {
+    "fr": "Maintenant, nous sommes tous amis.",
+    "tgt": "இப்போது நாம் எல்லோரும் நண்பர்கள்.",
+    "ro": "Ippōdu nām ellōrum naṇbargaḷ.",
+    "lit": "maintenant · nous · tous · amis"
+   }
+  ]
+ },
+ "0-2-18": {
+  "module": "Conversation sociale",
+  "title": "Au revoir après la soirée",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Il se fait tard, je dois rentrer.",
+    "tgt": "நேரம் ஆகிறது, நான் வீட்டுக்கு போக வேண்டும்.",
+    "ro": "Nēram āgiṛadu, nāṉ vīṭṭukku pōga vēṇḍum.",
+    "lit": "temps · devient · je · maison-[à] · aller · il faut"
+   },
+   {
+    "fr": "Merci pour ce merveilleux repas.",
+    "tgt": "அருமையான சாப்பாட்டுக்கு நன்றி.",
+    "ro": "Arumaiyāṉa chāppāṭṭukku naṉṛi.",
+    "lit": "merveilleux · repas-[pour] · merci"
+   },
+   {
+    "fr": "Reviens vite nous voir !",
+    "tgt": "மறுபடியும் சீக்கிரம் வா!",
+    "ro": "Maṛupaḍiyum chīkkiram vā!",
+    "lit": "de nouveau · vite · viens"
+   },
+   {
+    "fr": "Bien sûr, je reviendrai.",
+    "tgt": "கண்டிப்பாக வருகிறேன்.",
+    "ro": "Kaṇḍippāga varugiṛēṉ.",
+    "lit": "bien sûr · viens"
+   },
+   {
+    "fr": "Bon, j'y vais, à bientôt !",
+    "tgt": "சரி, போய்விட்டு வருகிறேன்!",
+    "ro": "Chari, pōyviṭṭu varugiṛēṉ!",
+    "lit": "bon · étant parti · reviens"
+   },
+   {
+    "fr": "Rentre bien, sois prudent.",
+    "tgt": "பத்திரமாக போ.",
+    "ro": "Pattiramāga pō.",
+    "lit": "prudemment · va"
+   },
+   {
+    "fr": "Il y a des rickshaws dans la rue.",
+    "tgt": "தெருவில் ஆட்டோ இருக்கிறது.",
+    "ro": "Teruvil āṭṭō irukkiṛadu.",
+    "lit": "rue-[dans] · rickshaw · se trouve"
+   },
+   {
+    "fr": "Écris-moi un message quand tu es arrivé.",
+    "tgt": "வீட்டுக்கு போனதும் குறுஞ்செய்தி அனுப்பு.",
+    "ro": "Vīṭṭukku pōṉadum kuṛunjeydi aṉuppu.",
+    "lit": "maison-[à] · dès arrivé · message · envoie"
+   },
+   {
+    "fr": "Merci pour tout, Ravi.",
+    "tgt": "எல்லாவற்றுக்கும் நன்றி, ரவி.",
+    "ro": "Ellāvaṛṛukkum naṉṛi, Ravi.",
+    "lit": "tout-[pour] · merci · Ravi"
+   },
+   {
+    "fr": "À la prochaine, mon ami !",
+    "tgt": "மீண்டும் சந்திப்போம், நண்பா!",
+    "ro": "Mīṇḍum chandippōm, naṇbā!",
+    "lit": "de nouveau · nous nous verrons · ami"
+   }
+  ]
+ },
+ "0-2-19": {
+  "module": "Conversation sociale",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "« -tāṉ » et « -ē » : insister sur un mot",
+  "phrases": [
+   {
+    "fr": "Voilà, c'est la fin de ce module.",
+    "tgt": "இது இந்த பாடத்தின் முடிவு.",
+    "ro": "Idu inda pāḍattiṉ muḍivu.",
+    "lit": "ceci · ce · leçon-[de] · fin"
+   },
+   {
+    "fr": "Maintenant, je sais parler un peu tamoul.",
+    "tgt": "இப்போது எனக்கு கொஞ்சம் தமிழ் பேச தெரியும்.",
+    "ro": "Ippōdu eṉakku konjam tamiḻ pēcha teriyum.",
+    "lit": "maintenant · moi-[à] · un peu · tamoul · parler · connu"
+   },
+   {
+    "fr": "Le tamoul, voilà une belle langue !",
+    "tgt": "தமிழ்தான் அழகான மொழி!",
+    "ro": "Tamiḻtāṉ aḻagāṉa moḻi!",
+    "lit": "tamoul-[c'est bien] · belle · langue"
+   },
+   {
+    "fr": "Ce sont les amis qui comptent vraiment.",
+    "tgt": "நண்பர்கள்தான் முக்கியம்.",
+    "ro": "Naṇbargaḷtāṉ mukkiyam.",
+    "lit": "amis-[c'est bien] · important"
+   },
+   {
+    "fr": "Je parle tamoul tous les jours.",
+    "tgt": "நான் தினமும் தமிழ் பேசுகிறேன்.",
+    "ro": "Nāṉ tiṉamum tamiḻ pēchugiṛēṉ.",
+    "lit": "je · chaque jour · tamoul · parle"
+   },
+   {
+    "fr": "Je peux parler de ma famille et de mes loisirs.",
+    "tgt": "என் குடும்பம், என் பொழுதுபோக்குகள் பற்றி பேச முடியும்.",
+    "ro": "Eṉ kuḍumbam, eṉ poḻudupōkkugaḷ paṛṛi pēcha muḍiyum.",
+    "lit": "ma · famille · mes · loisirs · au sujet de · parler · possible"
+   },
+   {
+    "fr": "Madurai, c'est ma deuxième maison.",
+    "tgt": "மதுரைதான் என் இரண்டாவது வீடு.",
+    "ro": "Maduraitāṉ eṉ iraṇḍāvadu vīḍu.",
+    "lit": "Madurai-[c'est bien] · ma · deuxième · maison"
+   },
+   {
+    "fr": "J'appelle Ravi aujourd'hui même.",
+    "tgt": "இன்றே ரவியை கூப்பிடுகிறேன்.",
+    "ro": "Iṉṛē Raviyai kūppiḍugiṛēṉ.",
+    "lit": "aujourd'hui-[même] · Ravi-[objet] · appelle"
+   },
+   {
+    "fr": "La prochaine fois, c'est moi qui invite tout le monde.",
+    "tgt": "அடுத்த முறை நான்தான் எல்லோரையும் அழைக்கிறேன்.",
+    "ro": "Aḍutta muṛai nāṉtāṉ ellōraiyum aḻaikkiṛēṉ.",
+    "lit": "prochaine · fois · moi-[c'est bien] · tous-[objet] · invite"
+   },
+   {
+    "fr": "Félicitations, on se retrouve au prochain module !",
+    "tgt": "வாழ்த்துக்கள்! அடுத்த பாடத்தில் சந்திப்போம்.",
+    "ro": "Vāḻttukkaḷ! Aḍutta pāḍattil chandippōm.",
+    "lit": "félicitations · prochaine · leçon-[dans] · nous nous verrons"
+   }
+  ]
+ }
+}

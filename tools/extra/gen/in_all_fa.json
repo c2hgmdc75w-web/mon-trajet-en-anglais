@@ -1,0 +1,4022 @@
+{
+ "0-0-0": {
+  "module": "Le quotidien",
+  "title": "Arrivée à Téhéran",
+  "grammaire_de_la_lecon": "« Salâm » et « khodâ hâfez » : saluer et dire au revoir",
+  "phrases": [
+   {
+    "fr": "Bonjour, bienvenue à Téhéran !",
+    "tgt": "سلام، به تهران خوش آمدید!",
+    "ro": "Salâm, be Tehrân khosh âmadid!",
+    "lit": "bonjour · [à] · Téhéran · bien · êtes venus"
+   },
+   {
+    "fr": "Bonjour, je m'appelle Thomas.",
+    "tgt": "سلام، اسم من توماس است.",
+    "ro": "Salâm, esm-e man Tomâs ast.",
+    "lit": "bonjour · nom · [de] · moi · Thomas · est"
+   },
+   {
+    "fr": "Bonjour, comment allez-vous ?",
+    "tgt": "سلام، حال شما چطور است؟",
+    "ro": "Salâm, hâl-e shomâ chetor ast?",
+    "lit": "bonjour · état · [de] · vous · comment · est"
+   },
+   {
+    "fr": "Très bien, merci.",
+    "tgt": "خیلی خوب، ممنون.",
+    "ro": "Kheyli khub, mamnun.",
+    "lit": "très · bien · merci"
+   },
+   {
+    "fr": "Bonjour monsieur, je suis le nouveau voisin.",
+    "tgt": "سلام آقا، من همسایه‌ی جدید هستم.",
+    "ro": "Salâm âghâ, man hamsâye-ye jadid hastam.",
+    "lit": "bonjour · monsieur · moi · voisin · [de] · nouveau · suis"
+   },
+   {
+    "fr": "Bonjour, monsieur Karimi !",
+    "tgt": "صبح بخیر آقای کریمی!",
+    "ro": "Sobh bekheyr âghâ-ye Karimi!",
+    "lit": "matin · [à] · bien · monsieur · [de] · Karimi"
+   },
+   {
+    "fr": "Bonne nuit, et à demain !",
+    "tgt": "شب بخیر، تا فردا!",
+    "ro": "Shab bekheyr, tâ fardâ!",
+    "lit": "nuit · [à] · bien · jusqu'à · demain"
+   },
+   {
+    "fr": "Au revoir, madame Rezaï.",
+    "tgt": "خداحافظ خانم رضایی.",
+    "ro": "Khodâhâfez khânom-e Rezâyi.",
+    "lit": "au revoir · madame · [de] · Rezaï"
+   },
+   {
+    "fr": "Au revoir, et à très bientôt !",
+    "tgt": "خداحافظ، به امید دیدار!",
+    "ro": "Khodâhâfez, be omid-e didâr!",
+    "lit": "au revoir · [à] · espoir · [de] · revoir"
+   },
+   {
+    "fr": "Bonjour à tout le monde !",
+    "tgt": "سلام به همه!",
+    "ro": "Salâm be hame!",
+    "lit": "bonjour · [à] · tous"
+   }
+  ]
+ },
+ "0-0-1": {
+  "module": "Le quotidien",
+  "title": "Les voisins de l'immeuble",
+  "grammaire_de_la_lecon": "Les pronoms : « man », « to », « u », « mâ », « shomâ », « ânhâ »",
+  "phrases": [
+   {
+    "fr": "Je suis étudiant.",
+    "tgt": "من دانشجو هستم.",
+    "ro": "Man dâneshju hastam.",
+    "lit": "moi · étudiant · suis"
+   },
+   {
+    "fr": "Tu es prêt ?",
+    "tgt": "تو آماده هستی؟",
+    "ro": "To âmâde hasti?",
+    "lit": "toi · prêt · es"
+   },
+   {
+    "fr": "Il est notre voisin.",
+    "tgt": "او همسایه‌ی ماست.",
+    "ro": "U hamsâye-ye mâst.",
+    "lit": "lui · voisin · [de] · nous · est"
+   },
+   {
+    "fr": "Elle est vraiment très gentille.",
+    "tgt": "او خیلی مهربان است.",
+    "ro": "U kheyli mehrabân ast.",
+    "lit": "elle · très · gentille · est"
+   },
+   {
+    "fr": "Nous sommes français.",
+    "tgt": "ما فرانسوی هستیم.",
+    "ro": "Mâ farânsavi hastim.",
+    "lit": "nous · français · sommes"
+   },
+   {
+    "fr": "Vous êtes de Téhéran ?",
+    "tgt": "شما اهل تهران هستید؟",
+    "ro": "Shomâ ahl-e Tehrân hastid?",
+    "lit": "vous · originaire · [de] · Téhéran · êtes"
+   },
+   {
+    "fr": "Ils sont au travail.",
+    "tgt": "آن‌ها سر کار هستند.",
+    "ro": "Ânhâ sar-e kâr hastand.",
+    "lit": "eux · tête · [de] · travail · sont"
+   },
+   {
+    "fr": "Moi, je suis Thomas, et vous ?",
+    "tgt": "من توماس هستم، و شما؟",
+    "ro": "Man Tomâs hastam, va shomâ?",
+    "lit": "moi · Thomas · suis · et · vous"
+   },
+   {
+    "fr": "Toi et moi, nous sommes voisins.",
+    "tgt": "من و تو همسایه هستیم.",
+    "ro": "Man o to hamsâye hastim.",
+    "lit": "moi · et · toi · voisin · sommes"
+   },
+   {
+    "fr": "Ils sont très accueillants.",
+    "tgt": "آن‌ها خیلی مهمان‌نواز هستند.",
+    "ro": "Ânhâ kheyli mehmânnavâz hastand.",
+    "lit": "eux · très · accueillants · sont"
+   }
+  ]
+ },
+ "0-0-2": {
+  "module": "Le quotidien",
+  "title": "Le nouvel appartement",
+  "grammaire_de_la_lecon": "« Hastam », « hasti », « hast » : le verbe être",
+  "phrases": [
+   {
+    "fr": "Moi, je suis très content.",
+    "tgt": "من خیلی خوشحال هستم.",
+    "ro": "Man kheyli khoshhâl hastam.",
+    "lit": "moi · très · content · suis"
+   },
+   {
+    "fr": "L'appartement est grand.",
+    "tgt": "آپارتمان بزرگ است.",
+    "ro": "Âpârtemân bozorg ast.",
+    "lit": "appartement · grand · est"
+   },
+   {
+    "fr": "La cuisine est toute petite.",
+    "tgt": "آشپزخانه خیلی کوچک است.",
+    "ro": "Âshpazkhâne kheyli kuchek ast.",
+    "lit": "cuisine · très · petite · est"
+   },
+   {
+    "fr": "Tu es à la maison ?",
+    "tgt": "تو در خانه هستی؟",
+    "ro": "To dar khâne hasti?",
+    "lit": "toi · dans · maison · es"
+   },
+   {
+    "fr": "Oui, je suis à la maison.",
+    "tgt": "بله، در خانه هستم.",
+    "ro": "Bale, dar khâne hastam.",
+    "lit": "oui · dans · maison · suis"
+   },
+   {
+    "fr": "La chambre est très claire.",
+    "tgt": "اتاق خواب خیلی روشن است.",
+    "ro": "Otâgh-e khâb kheyli roshan ast.",
+    "lit": "chambre · [de] · sommeil · très · claire · est"
+   },
+   {
+    "fr": "Il y a aussi un balcon.",
+    "tgt": "یک بالکن هم هست.",
+    "ro": "Yek bâlkon ham hast.",
+    "lit": "un · balcon · aussi · est"
+   },
+   {
+    "fr": "Nous sommes au troisième étage.",
+    "tgt": "ما در طبقه‌ی سوم هستیم.",
+    "ro": "Mâ dar tabaghe-ye sevvom hastim.",
+    "lit": "nous · dans · étage · [de] · troisième · sommes"
+   },
+   {
+    "fr": "Vous êtes fatigué, monsieur ?",
+    "tgt": "شما خسته هستید، آقا؟",
+    "ro": "Shomâ khaste hastid, âghâ?",
+    "lit": "vous · fatigué · êtes · monsieur"
+   },
+   {
+    "fr": "Ils sont dans le salon.",
+    "tgt": "آن‌ها در پذیرایی هستند.",
+    "ro": "Ânhâ dar pazirâyi hastand.",
+    "lit": "eux · dans · salon · sont"
+   }
+  ]
+ },
+ "0-0-3": {
+  "module": "Le quotidien",
+  "title": "La boulangerie et le pain sangak",
+  "grammaire_de_la_lecon": "Le verbe toujours à la fin de la phrase",
+  "phrases": [
+   {
+    "fr": "Le pain est encore chaud.",
+    "tgt": "نان هنوز گرم است.",
+    "ro": "Nân hanuz garm ast.",
+    "lit": "pain · encore · chaud · est"
+   },
+   {
+    "fr": "La boulangerie est au coin de la rue.",
+    "tgt": "نانوایی سر کوچه است.",
+    "ro": "Nânvâyi sar-e kuche ast.",
+    "lit": "boulangerie · tête · [de] · ruelle · est"
+   },
+   {
+    "fr": "Le boulanger travaille tôt le matin.",
+    "tgt": "نانوا صبح زود کار می‌کند.",
+    "ro": "Nânvâ sobh-e zud kâr mikonad.",
+    "lit": "boulanger · matin · [de] · tôt · travail · fait"
+   },
+   {
+    "fr": "J'achète du pain chaque matin.",
+    "tgt": "من هر روز صبح نان می‌خرم.",
+    "ro": "Man har ruz sobh nân mikharam.",
+    "lit": "moi · chaque · jour · matin · pain · achète"
+   },
+   {
+    "fr": "La file est longue aujourd'hui.",
+    "tgt": "امروز صف طولانی است.",
+    "ro": "Emruz saf tulâni ast.",
+    "lit": "aujourd'hui · file · longue · est"
+   },
+   {
+    "fr": "Le pain sangak est délicieux.",
+    "tgt": "نان سنگک خوشمزه است.",
+    "ro": "Nân-e sangak khoshmaze ast.",
+    "lit": "pain · [de] · sangak · délicieux · est"
+   },
+   {
+    "fr": "Le boulanger est quelqu'un de bien.",
+    "tgt": "نانوا آدم خوبی است.",
+    "ro": "Nânvâ âdam-e khubi ast.",
+    "lit": "boulanger · personne · [de] · bonne · est"
+   },
+   {
+    "fr": "Je mange du pain et du fromage.",
+    "tgt": "من نان و پنیر می‌خورم.",
+    "ro": "Man nân o panir mikhoram.",
+    "lit": "moi · pain · et · fromage · mange"
+   },
+   {
+    "fr": "Nous prenons le petit-déjeuner à la maison.",
+    "tgt": "ما در خانه صبحانه می‌خوریم.",
+    "ro": "Mâ dar khâne sobhâne mikhorim.",
+    "lit": "nous · dans · maison · petit-déjeuner · mangeons"
+   },
+   {
+    "fr": "La boulangerie ouvre à six heures.",
+    "tgt": "نانوایی ساعت شش باز می‌شود.",
+    "ro": "Nânvâyi sâ'at-e shesh bâz mishavad.",
+    "lit": "boulangerie · heure · [de] · six · ouverte · devient"
+   }
+  ]
+ },
+ "0-0-4": {
+  "module": "Le quotidien",
+  "title": "Le thé du matin",
+  "grammaire_de_la_lecon": "« Nist » et « na- » : la négation",
+  "phrases": [
+   {
+    "fr": "Le thé n'est pas chaud.",
+    "tgt": "چای گرم نیست.",
+    "ro": "Chây garm nist.",
+    "lit": "thé · chaud · n'est pas"
+   },
+   {
+    "fr": "Je ne suis pas fatigué.",
+    "tgt": "من خسته نیستم.",
+    "ro": "Man khaste nistam.",
+    "lit": "moi · fatigué · ne suis pas"
+   },
+   {
+    "fr": "Je ne bois pas de café.",
+    "tgt": "من قهوه نمی‌خورم.",
+    "ro": "Man ghahve nemikhoram.",
+    "lit": "moi · café · [ne… pas] · bois"
+   },
+   {
+    "fr": "Le sucre n'est pas sur la table.",
+    "tgt": "قند روی میز نیست.",
+    "ro": "Ghand ru-ye miz nist.",
+    "lit": "sucre · dessus · [de] · table · n'est pas"
+   },
+   {
+    "fr": "Ce thé n'est pas trop fort ?",
+    "tgt": "این چای خیلی پررنگ نیست؟",
+    "ro": "In chây kheyli porrang nist?",
+    "lit": "ce · thé · très · foncé · n'est pas"
+   },
+   {
+    "fr": "Non, il n'est pas fort du tout.",
+    "tgt": "نه، اصلا پررنگ نیست.",
+    "ro": "Na, aslan porrang nist.",
+    "lit": "non · du tout · foncé · n'est pas"
+   },
+   {
+    "fr": "Nous n'avons pas de lait.",
+    "tgt": "ما شیر نداریم.",
+    "ro": "Mâ shir nadârim.",
+    "lit": "nous · lait · [ne… pas] · avons"
+   },
+   {
+    "fr": "Je ne mange rien le matin.",
+    "tgt": "من صبح‌ها چیزی نمی‌خورم.",
+    "ro": "Man sobhhâ chizi nemikhoram.",
+    "lit": "moi · matins · quelque chose · [ne… pas] · mange"
+   },
+   {
+    "fr": "Mon frère ne boit pas de thé.",
+    "tgt": "برادرم چای نمی‌خورد.",
+    "ro": "Barâdaram chây nemikhorad.",
+    "lit": "frère-mon · thé · [ne… pas] · boit"
+   },
+   {
+    "fr": "Pas de problème, ça ne fait rien.",
+    "tgt": "اشکالی ندارد.",
+    "ro": "Eshkâli nadârad.",
+    "lit": "problème · [ne… pas] · a"
+   }
+  ]
+ },
+ "0-0-5": {
+  "module": "Le quotidien",
+  "title": "Découvrir le quartier",
+  "grammaire_de_la_lecon": "« Âyâ » et l'intonation : poser une question",
+  "phrases": [
+   {
+    "fr": "Est-ce que vous êtes français ?",
+    "tgt": "آیا شما فرانسوی هستید؟",
+    "ro": "Âyâ shomâ farânsavi hastid?",
+    "lit": "[question] · vous · français · êtes"
+   },
+   {
+    "fr": "Vous habitez dans ce quartier ?",
+    "tgt": "شما در این محله زندگی می‌کنید؟",
+    "ro": "Shomâ dar in mahalle zendegi mikonid?",
+    "lit": "vous · dans · ce · quartier · vie · faites"
+   },
+   {
+    "fr": "Est-ce qu'il y a une pharmacie près d'ici ?",
+    "tgt": "آیا این نزدیکی داروخانه هست؟",
+    "ro": "Âyâ in nazdiki dârukhâne hast?",
+    "lit": "[question] · ce · proximité · pharmacie · est"
+   },
+   {
+    "fr": "Oui, il y a une pharmacie au bout de la rue.",
+    "tgt": "بله، ته خیابان یک داروخانه هست.",
+    "ro": "Bale, tah-e khiyâbân yek dârukhâne hast.",
+    "lit": "oui · bout · [de] · rue · une · pharmacie · est"
+   },
+   {
+    "fr": "Le parc est loin ?",
+    "tgt": "پارک دور است؟",
+    "ro": "Pârk dur ast?",
+    "lit": "parc · loin · est"
+   },
+   {
+    "fr": "Non, il est tout près.",
+    "tgt": "نه، خیلی نزدیک است.",
+    "ro": "Na, kheyli nazdik ast.",
+    "lit": "non · très · proche · est"
+   },
+   {
+    "fr": "Est-ce que le supermarché est ouvert ?",
+    "tgt": "آیا سوپرمارکت باز است؟",
+    "ro": "Âyâ supermârket bâz ast?",
+    "lit": "[question] · supermarché · ouvert · est"
+   },
+   {
+    "fr": "Vous parlez un peu français ?",
+    "tgt": "شما کمی فرانسه صحبت می‌کنید؟",
+    "ro": "Shomâ kami farânse sohbat mikonid?",
+    "lit": "vous · un peu · français · conversation · faites"
+   },
+   {
+    "fr": "Est-ce que ce quartier est calme ?",
+    "tgt": "آیا این محله آرام است؟",
+    "ro": "Âyâ in mahalle ârâm ast?",
+    "lit": "[question] · ce · quartier · calme · est"
+   },
+   {
+    "fr": "Oui, c'est un quartier très calme.",
+    "tgt": "بله، محله‌ی خیلی آرامی است.",
+    "ro": "Bale, mahalle-ye kheyli ârâmi ast.",
+    "lit": "oui · quartier · [de] · très · calme · est"
+   }
+  ]
+ },
+ "0-0-6": {
+  "module": "Le quotidien",
+  "title": "Le grand bazar de Téhéran",
+  "grammaire_de_la_lecon": "L'ezâfe « -e » : relier le nom et l'adjectif",
+  "phrases": [
+   {
+    "fr": "Le grand bazar est très animé.",
+    "tgt": "بازار بزرگ خیلی شلوغ است.",
+    "ro": "Bâzâr-e bozorg kheyli sholugh ast.",
+    "lit": "bazar · [de] · grand · très · animé · est"
+   },
+   {
+    "fr": "Je cherche un tapis rouge.",
+    "tgt": "من دنبال یک فرش قرمز هستم.",
+    "ro": "Man donbâl-e yek farsh-e ghermez hastam.",
+    "lit": "moi · suite · [de] · un · tapis · [de] · rouge · suis"
+   },
+   {
+    "fr": "Ce tapis persan est magnifique.",
+    "tgt": "این فرش ایرانی خیلی زیباست.",
+    "ro": "In farsh-e irâni kheyli zibâst.",
+    "lit": "ce · tapis · [de] · iranien · très · beau-est"
+   },
+   {
+    "fr": "J'aime le thé noir.",
+    "tgt": "من چای سیاه دوست دارم.",
+    "ro": "Man chây-e siyâh dust dâram.",
+    "lit": "moi · thé · [de] · noir · ami · ai"
+   },
+   {
+    "fr": "Le safran iranien est célèbre.",
+    "tgt": "زعفران ایرانی معروف است.",
+    "ro": "Za'farân-e irâni ma'ruf ast.",
+    "lit": "safran · [de] · iranien · célèbre · est"
+   },
+   {
+    "fr": "Je voudrais une écharpe bleue.",
+    "tgt": "من یک شال آبی می‌خواهم.",
+    "ro": "Man yek shâl-e âbi mikhâham.",
+    "lit": "moi · une · écharpe · [de] · bleue · veux"
+   },
+   {
+    "fr": "Ces pistaches fraîches sont délicieuses.",
+    "tgt": "این پسته‌های تازه خوشمزه هستند.",
+    "ro": "In pestehâ-ye tâze khoshmaze hastand.",
+    "lit": "ces · pistaches · [de] · fraîches · délicieuses · sont"
+   },
+   {
+    "fr": "Le vieux marchand est très patient.",
+    "tgt": "فروشنده‌ی پیر خیلی صبور است.",
+    "ro": "Forushande-ye pir kheyli sabur ast.",
+    "lit": "marchand · [de] · vieux · très · patient · est"
+   },
+   {
+    "fr": "C'est une jolie boutique.",
+    "tgt": "این مغازه‌ی قشنگی است.",
+    "ro": "In maghâze-ye ghashangi ast.",
+    "lit": "ceci · boutique · [de] · jolie · est"
+   },
+   {
+    "fr": "Il fait chaud dans le vieux bazar.",
+    "tgt": "در بازار قدیمی هوا گرم است.",
+    "ro": "Dar bâzâr-e ghadimi havâ garm ast.",
+    "lit": "dans · bazar · [de] · ancien · air · chaud · est"
+   }
+  ]
+ },
+ "0-0-7": {
+  "module": "Le quotidien",
+  "title": "À qui est-ce ?",
+  "grammaire_de_la_lecon": "L'ezâfe du possessif : « ketâb-e man »",
+  "phrases": [
+   {
+    "fr": "C'est mon livre.",
+    "tgt": "این کتاب من است.",
+    "ro": "In ketâb-e man ast.",
+    "lit": "ceci · livre · [de] · moi · est"
+   },
+   {
+    "fr": "Où est la clé de l'appartement ?",
+    "tgt": "کلید آپارتمان کجاست؟",
+    "ro": "Kelid-e âpârtemân kojâst?",
+    "lit": "clé · [de] · appartement · où-est"
+   },
+   {
+    "fr": "La maison de Reza est grande.",
+    "tgt": "خانه‌ی رضا بزرگ است.",
+    "ro": "Khâne-ye Rezâ bozorg ast.",
+    "lit": "maison · [de] · Reza · grande · est"
+   },
+   {
+    "fr": "Notre rue est très longue.",
+    "tgt": "خیابان ما خیلی طولانی است.",
+    "ro": "Khiyâbân-e mâ kheyli tulâni ast.",
+    "lit": "rue · [de] · nous · très · longue · est"
+   },
+   {
+    "fr": "Tenez, voici votre clé.",
+    "tgt": "بفرمایید، این کلید شماست.",
+    "ro": "Befarmâyid, in kelid-e shomâst.",
+    "lit": "je vous en prie · ceci · clé · [de] · vous-est"
+   },
+   {
+    "fr": "Le père de Sara est médecin.",
+    "tgt": "پدر سارا دکتر است.",
+    "ro": "Pedar-e Sârâ doktor ast.",
+    "lit": "père · [de] · Sara · médecin · est"
+   },
+   {
+    "fr": "La voiture de notre voisin est blanche.",
+    "tgt": "ماشین همسایه‌ی ما سفید است.",
+    "ro": "Mâshin-e hamsâye-ye mâ sefid ast.",
+    "lit": "voiture · [de] · voisin · [de] · nous · blanche · est"
+   },
+   {
+    "fr": "Le téléphone de Thomas est sur la table.",
+    "tgt": "گوشی توماس روی میز است.",
+    "ro": "Gushi-ye Tomâs ru-ye miz ast.",
+    "lit": "téléphone · [de] · Thomas · dessus · [de] · table · est"
+   },
+   {
+    "fr": "Ma chambre est à côté de la cuisine.",
+    "tgt": "اتاق من کنار آشپزخانه است.",
+    "ro": "Otâgh-e man kenâr-e âshpazkhâne ast.",
+    "lit": "chambre · [de] · moi · côté · [de] · cuisine · est"
+   },
+   {
+    "fr": "Comment s'appelle votre ami ?",
+    "tgt": "اسم دوست شما چیست؟",
+    "ro": "Esm-e dust-e shomâ chist?",
+    "lit": "nom · [de] · ami · [de] · vous · quoi-est"
+   }
+  ]
+ },
+ "0-0-8": {
+  "module": "Le quotidien",
+  "title": "Parler de sa famille",
+  "grammaire_de_la_lecon": "Les pronoms suffixés « -am », « -et », « -esh » : mon, ton, son",
+  "phrases": [
+   {
+    "fr": "Ma sœur habite à Paris.",
+    "tgt": "خواهرم در پاریس زندگی می‌کند.",
+    "ro": "Khâharam dar Pâris zendegi mikonad.",
+    "lit": "sœur-ma · dans · Paris · vie · fait"
+   },
+   {
+    "fr": "Ton thé est prêt.",
+    "tgt": "چایت آماده است.",
+    "ro": "Châyet âmâde ast.",
+    "lit": "thé-ton · prêt · est"
+   },
+   {
+    "fr": "Son bureau est près d'ici.",
+    "tgt": "دفترش نزدیک اینجاست.",
+    "ro": "Daftaresh nazdik-e injâst.",
+    "lit": "bureau-son · près · [de] · ici-est"
+   },
+   {
+    "fr": "Mon frère est ingénieur.",
+    "tgt": "برادرم مهندس است.",
+    "ro": "Barâdaram mohandes ast.",
+    "lit": "frère-mon · ingénieur · est"
+   },
+   {
+    "fr": "Comment va ta mère ?",
+    "tgt": "مادرت چطور است؟",
+    "ro": "Mâdaret chetor ast?",
+    "lit": "mère-ta · comment · est"
+   },
+   {
+    "fr": "Ta voiture est neuve ?",
+    "tgt": "ماشینت نو است؟",
+    "ro": "Mâshinet no ast?",
+    "lit": "voiture-ta · neuve · est"
+   },
+   {
+    "fr": "Son fils a cinq ans.",
+    "tgt": "پسرش پنج سال دارد.",
+    "ro": "Pesaresh panj sâl dârad.",
+    "lit": "fils-son · cinq · an · a"
+   },
+   {
+    "fr": "Mon appartement est petit mais joli.",
+    "tgt": "آپارتمانم کوچک ولی قشنگ است.",
+    "ro": "Âpârtemânam kuchek vali ghashang ast.",
+    "lit": "appartement-mon · petit · mais · joli · est"
+   },
+   {
+    "fr": "Son mari travaille au bazar.",
+    "tgt": "شوهرش در بازار کار می‌کند.",
+    "ro": "Shoharesh dar bâzâr kâr mikonad.",
+    "lit": "mari-son · dans · bazar · travail · fait"
+   },
+   {
+    "fr": "Ma clé est dans mon sac.",
+    "tgt": "کلیدم در کیفم است.",
+    "ro": "Kelidam dar kifam ast.",
+    "lit": "clé-ma · dans · sac-mon · est"
+   }
+  ]
+ },
+ "0-0-9": {
+  "module": "Le quotidien",
+  "title": "Au marché aux fruits",
+  "grammaire_de_la_lecon": "« In » et « ân » : ceci et cela",
+  "phrases": [
+   {
+    "fr": "Ceci est une grenade.",
+    "tgt": "این انار است.",
+    "ro": "In anâr ast.",
+    "lit": "ceci · grenade · est"
+   },
+   {
+    "fr": "Et ça, là-bas, c'est quoi ?",
+    "tgt": "و آن چیست؟",
+    "ro": "Va ân chist?",
+    "lit": "et · cela · quoi-est"
+   },
+   {
+    "fr": "Ces abricots sont très sucrés.",
+    "tgt": "این زردآلوها خیلی شیرین هستند.",
+    "ro": "In zardâluhâ kheyli shirin hastand.",
+    "lit": "ces · abricots · très · sucrés · sont"
+   },
+   {
+    "fr": "Je préfère celui-là.",
+    "tgt": "من آن یکی را بیشتر دوست دارم.",
+    "ro": "Man ân yeki râ bishtar dust dâram.",
+    "lit": "moi · cela · un · [objet] · plus · ami · ai"
+   },
+   {
+    "fr": "Combien coûte ce melon ?",
+    "tgt": "این خربزه چند است؟",
+    "ro": "In kharboze chand ast?",
+    "lit": "ce · melon · combien · est"
+   },
+   {
+    "fr": "Ce marchand-là est très aimable.",
+    "tgt": "آن فروشنده خیلی خوش‌اخلاق است.",
+    "ro": "Ân forushande kheyli khoshakhlâgh ast.",
+    "lit": "ce-là · marchand · très · aimable · est"
+   },
+   {
+    "fr": "Ces pommes-ci ou celles-là ?",
+    "tgt": "این سیب‌ها یا آن سیب‌ها؟",
+    "ro": "In sibhâ yâ ân sibhâ?",
+    "lit": "ces · pommes · ou · ces-là · pommes"
+   },
+   {
+    "fr": "Cette rue est très animée.",
+    "tgt": "این خیابان خیلی شلوغ است.",
+    "ro": "In khiyâbân kheyli sholugh ast.",
+    "lit": "cette · rue · très · animée · est"
+   },
+   {
+    "fr": "Ce n'est pas mon sac, c'est celui-là.",
+    "tgt": "این کیف من نیست، آن است.",
+    "ro": "In kif-e man nist, ân ast.",
+    "lit": "ceci · sac · [de] · moi · n'est pas · cela · est"
+   },
+   {
+    "fr": "Ici c'est cher, là-bas c'est moins cher.",
+    "tgt": "اینجا گران است، آنجا ارزان‌تر است.",
+    "ro": "Injâ gerân ast, ânjâ arzântar ast.",
+    "lit": "ici · cher · est · là-bas · moins cher · est"
+   }
+  ]
+ },
+ "0-0-10": {
+  "module": "Le quotidien",
+  "title": "Les courses de la semaine",
+  "grammaire_de_la_lecon": "Compter de un à dix : « yek », « do », « se »",
+  "phrases": [
+   {
+    "fr": "Un kilo de tomates, s'il vous plaît.",
+    "tgt": "یک کیلو گوجه، لطفا.",
+    "ro": "Yek kilo gowje, lotfan.",
+    "lit": "un · kilo · tomate · s'il vous plaît"
+   },
+   {
+    "fr": "Deux pains sangak, s'il vous plaît.",
+    "tgt": "دو نان سنگک، لطفا.",
+    "ro": "Do nân-e sangak, lotfan.",
+    "lit": "deux · pain · [de] · sangak · s'il vous plaît"
+   },
+   {
+    "fr": "Il me faut trois kilos de riz.",
+    "tgt": "سه کیلو برنج لازم دارم.",
+    "ro": "Se kilo berenj lâzem dâram.",
+    "lit": "trois · kilo · riz · nécessaire · ai"
+   },
+   {
+    "fr": "Je prends quatre bouteilles d'eau.",
+    "tgt": "چهار بطری آب برمی‌دارم.",
+    "ro": "Chahâr botri âb barmidâram.",
+    "lit": "quatre · bouteille · eau · prends"
+   },
+   {
+    "fr": "Cinq œufs, ça suffit.",
+    "tgt": "پنج تخم‌مرغ کافی است.",
+    "ro": "Panj tokhm-e morgh kâfi ast.",
+    "lit": "cinq · œuf · [de] · poule · suffisant · est"
+   },
+   {
+    "fr": "Six oranges, s'il vous plaît.",
+    "tgt": "شش پرتقال، لطفا.",
+    "ro": "Shesh porteghâl, lotfan.",
+    "lit": "six · orange · s'il vous plaît"
+   },
+   {
+    "fr": "Le magasin ouvre à sept heures.",
+    "tgt": "مغازه ساعت هفت باز می‌شود.",
+    "ro": "Maghâze sâ'at-e haft bâz mishavad.",
+    "lit": "magasin · heure · [de] · sept · ouvert · devient"
+   },
+   {
+    "fr": "La fille de la voisine a huit ans.",
+    "tgt": "دختر همسایه هشت سال دارد.",
+    "ro": "Dokhtar-e hamsâye hasht sâl dârad.",
+    "lit": "fille · [de] · voisine · huit · an · a"
+   },
+   {
+    "fr": "Ça fait neuf mille tomans.",
+    "tgt": "می‌شود نه هزار تومان.",
+    "ro": "Mishavad noh hezâr tomân.",
+    "lit": "devient · neuf · mille · toman"
+   },
+   {
+    "fr": "Un, deux, trois, jusqu'à dix !",
+    "tgt": "یک، دو، سه، تا ده!",
+    "ro": "Yek, do, se, tâ dah!",
+    "lit": "un · deux · trois · jusqu'à · dix"
+   }
+  ]
+ },
+ "0-0-11": {
+  "module": "Le quotidien",
+  "title": "S'installer pour de bon",
+  "grammaire_de_la_lecon": "« Dâram » et « nadâram » : avoir et ne pas avoir",
+  "phrases": [
+   {
+    "fr": "J'ai un petit appartement.",
+    "tgt": "من یک آپارتمان کوچک دارم.",
+    "ro": "Man yek âpârtemân-e kuchek dâram.",
+    "lit": "moi · un · appartement · [de] · petit · ai"
+   },
+   {
+    "fr": "Je n'ai pas de télévision.",
+    "tgt": "من تلویزیون ندارم.",
+    "ro": "Man televiziyon nadâram.",
+    "lit": "moi · télévision · [ne… pas] · ai"
+   },
+   {
+    "fr": "Vous avez internet chez vous ?",
+    "tgt": "شما در خانه اینترنت دارید؟",
+    "ro": "Shomâ dar khâne internet dârid?",
+    "lit": "vous · dans · maison · internet · avez"
+   },
+   {
+    "fr": "Nous avons deux chambres.",
+    "tgt": "ما دو اتاق خواب داریم.",
+    "ro": "Mâ do otâgh-e khâb dârim.",
+    "lit": "nous · deux · chambre · [de] · sommeil · avons"
+   },
+   {
+    "fr": "L'appartement a un grand balcon.",
+    "tgt": "آپارتمان یک بالکن بزرگ دارد.",
+    "ro": "Âpârtemân yek bâlkon-e bozorg dârad.",
+    "lit": "appartement · un · balcon · [de] · grand · a"
+   },
+   {
+    "fr": "Je n'ai pas encore de rideaux.",
+    "tgt": "هنوز پرده ندارم.",
+    "ro": "Hanuz parde nadâram.",
+    "lit": "encore · rideau · [ne… pas] · ai"
+   },
+   {
+    "fr": "Tu as un marteau ?",
+    "tgt": "تو چکش داری؟",
+    "ro": "To chakosh dâri?",
+    "lit": "toi · marteau · as"
+   },
+   {
+    "fr": "Il n'a pas la clé.",
+    "tgt": "او کلید ندارد.",
+    "ro": "U kelid nadârad.",
+    "lit": "lui · clé · [ne… pas] · a"
+   },
+   {
+    "fr": "Ils ont un beau tapis.",
+    "tgt": "آن‌ها یک فرش قشنگ دارند.",
+    "ro": "Ânhâ yek farsh-e ghashang dârand.",
+    "lit": "eux · un · tapis · [de] · beau · ont"
+   },
+   {
+    "fr": "La cuisine n'a pas de fenêtre.",
+    "tgt": "آشپزخانه پنجره ندارد.",
+    "ro": "Âshpazkhâne panjare nadârad.",
+    "lit": "cuisine · fenêtre · [ne… pas] · a"
+   }
+  ]
+ },
+ "0-0-12": {
+  "module": "Le quotidien",
+  "title": "Dans le métro de Téhéran",
+  "grammaire_de_la_lecon": "Les mots interrogatifs : « kojâ », « chi », « ki », « key »",
+  "phrases": [
+   {
+    "fr": "Où se trouve la station de métro ?",
+    "tgt": "ایستگاه مترو کجاست؟",
+    "ro": "Istgâh-e metro kojâst?",
+    "lit": "station · [de] · métro · où-est"
+   },
+   {
+    "fr": "Quand part le prochain train ?",
+    "tgt": "قطار بعدی کی حرکت می‌کند؟",
+    "ro": "Ghatâr-e ba'di key harekat mikonad?",
+    "lit": "train · [de] · suivant · quand · départ · fait"
+   },
+   {
+    "fr": "Qui est ce monsieur, là-bas ?",
+    "tgt": "آن آقا کیست؟",
+    "ro": "Ân âghâ kist?",
+    "lit": "ce · monsieur · qui-est"
+   },
+   {
+    "fr": "Comment s'appelle cette station ?",
+    "tgt": "اسم این ایستگاه چیست؟",
+    "ro": "Esm-e in istgâh chist?",
+    "lit": "nom · [de] · cette · station · quoi-est"
+   },
+   {
+    "fr": "Vous allez où, madame ?",
+    "tgt": "خانم، کجا می‌روید؟",
+    "ro": "Khânom, kojâ miravid?",
+    "lit": "madame · où · allez"
+   },
+   {
+    "fr": "Qu'est-ce que vous cherchez ?",
+    "tgt": "دنبال چی هستید؟",
+    "ro": "Donbâl-e chi hastid?",
+    "lit": "suite · [de] · quoi · êtes"
+   },
+   {
+    "fr": "Qui vient avec nous ?",
+    "tgt": "کی با ما می‌آید؟",
+    "ro": "Ki bâ mâ miâyad?",
+    "lit": "qui · avec · nous · vient"
+   },
+   {
+    "fr": "Quand est-ce que vous arrivez ?",
+    "tgt": "کی می‌رسید؟",
+    "ro": "Key miresid?",
+    "lit": "quand · arrivez"
+   },
+   {
+    "fr": "La sortie, c'est par où ?",
+    "tgt": "خروجی کجاست؟",
+    "ro": "Khoruji kojâst?",
+    "lit": "sortie · où-est"
+   },
+   {
+    "fr": "Qu'est-ce que c'est, cette carte ?",
+    "tgt": "این کارت چیست؟",
+    "ro": "In kârt chist?",
+    "lit": "cette · carte · quoi-est"
+   }
+  ]
+ },
+ "0-0-13": {
+  "module": "Le quotidien",
+  "title": "Le marché aux épices",
+  "grammaire_de_la_lecon": "« Chand » et « tâ » : combien, et le petit mot pour compter",
+  "phrases": [
+   {
+    "fr": "Combien coûte le safran ?",
+    "tgt": "زعفران چند است؟",
+    "ro": "Za'farân chand ast?",
+    "lit": "safran · combien · est"
+   },
+   {
+    "fr": "Je veux deux paquets de thé.",
+    "tgt": "دو تا بسته چای می‌خواهم.",
+    "ro": "Do tâ baste chây mikhâham.",
+    "lit": "deux · [unités] · paquet · thé · veux"
+   },
+   {
+    "fr": "Combien de paquets voulez-vous ?",
+    "tgt": "چند تا بسته می‌خواهید؟",
+    "ro": "Chand tâ baste mikhâhid?",
+    "lit": "combien · [unités] · paquet · voulez"
+   },
+   {
+    "fr": "Cinq, s'il vous plaît.",
+    "tgt": "پنج تا، لطفا.",
+    "ro": "Panj tâ, lotfan.",
+    "lit": "cinq · [unités] · s'il vous plaît"
+   },
+   {
+    "fr": "Combien d'enfants avez-vous ?",
+    "tgt": "چند تا بچه دارید؟",
+    "ro": "Chand tâ bachche dârid?",
+    "lit": "combien · [unités] · enfant · avez"
+   },
+   {
+    "fr": "J'ai deux enfants, un fils et une fille.",
+    "tgt": "دو تا بچه دارم، یک پسر و یک دختر.",
+    "ro": "Do tâ bachche dâram, yek pesar o yek dokhtar.",
+    "lit": "deux · [unités] · enfant · ai · un · fils · et · une · fille"
+   },
+   {
+    "fr": "En tout, ça fait combien ?",
+    "tgt": "روی هم چند می‌شود؟",
+    "ro": "Ru-ye ham chand mishavad?",
+    "lit": "dessus · [de] · ensemble · combien · devient"
+   },
+   {
+    "fr": "Ça fait trois cent mille tomans.",
+    "tgt": "می‌شود سیصد هزار تومان.",
+    "ro": "Mishavad sisad hezâr tomân.",
+    "lit": "devient · trois cents · mille · toman"
+   },
+   {
+    "fr": "Je prends quatre grenades.",
+    "tgt": "چهار تا انار برمی‌دارم.",
+    "ro": "Chahâr tâ anâr barmidâram.",
+    "lit": "quatre · [unités] · grenade · prends"
+   },
+   {
+    "fr": "Vous restez combien de temps à Téhéran ?",
+    "tgt": "چند وقت در تهران می‌مانید؟",
+    "ro": "Chand vaght dar Tehrân mimânid?",
+    "lit": "combien · temps · dans · Téhéran · restez"
+   }
+  ]
+ },
+ "0-0-14": {
+  "module": "Le quotidien",
+  "title": "L'heure et les horaires",
+  "grammaire_de_la_lecon": "L'heure : « sâ'at chande ? »",
+  "phrases": [
+   {
+    "fr": "Pardon, quelle heure est-il ?",
+    "tgt": "ببخشید، ساعت چند است؟",
+    "ro": "Bebakhshid, sâ'at chand ast?",
+    "lit": "pardon · heure · combien · est"
+   },
+   {
+    "fr": "Il est quelle heure ?",
+    "tgt": "ساعت چنده؟",
+    "ro": "Sâ'at chande?",
+    "lit": "heure · combien-est"
+   },
+   {
+    "fr": "Il est huit heures.",
+    "tgt": "ساعت هشت است.",
+    "ro": "Sâ'at hasht ast.",
+    "lit": "heure · huit · est"
+   },
+   {
+    "fr": "Il est neuf heures et demie.",
+    "tgt": "ساعت نه و نیم است.",
+    "ro": "Sâ'at noh o nim ast.",
+    "lit": "heure · neuf · et · demi · est"
+   },
+   {
+    "fr": "Je vais au bureau à sept heures.",
+    "tgt": "من ساعت هفت به اداره می‌روم.",
+    "ro": "Man sâ'at-e haft be edâre miravam.",
+    "lit": "moi · heure · [de] · sept · [à] · bureau · vais"
+   },
+   {
+    "fr": "Notre réunion est à dix heures.",
+    "tgt": "جلسه‌ی ما ساعت ده است.",
+    "ro": "Jalase-ye mâ sâ'at-e dah ast.",
+    "lit": "réunion · [de] · nous · heure · [de] · dix · est"
+   },
+   {
+    "fr": "Je rentre à cinq heures et quart.",
+    "tgt": "ساعت پنج و ربع به خانه برمی‌گردم.",
+    "ro": "Sâ'at-e panj o rob' be khâne barmigardam.",
+    "lit": "heure · [de] · cinq · et · quart · [à] · maison · reviens"
+   },
+   {
+    "fr": "Il est dix heures moins le quart.",
+    "tgt": "یک ربع به ده است.",
+    "ro": "Yek rob' be dah ast.",
+    "lit": "un · quart · [à] · dix · est"
+   },
+   {
+    "fr": "Le métro arrive dans cinq minutes.",
+    "tgt": "مترو پنج دقیقه‌ی دیگر می‌رسد.",
+    "ro": "Metro panj daghighe-ye digar miresad.",
+    "lit": "métro · cinq · minute · [de] · autre · arrive"
+   },
+   {
+    "fr": "Il est sept heures du soir.",
+    "tgt": "ساعت هفت شب است.",
+    "ro": "Sâ'at haft-e shab ast.",
+    "lit": "heure · sept · [de] · nuit · est"
+   }
+  ]
+ },
+ "0-0-15": {
+  "module": "Le quotidien",
+  "title": "Une journée de travail",
+  "grammaire_de_la_lecon": "Le présent avec « mi- » : « miravam », « mikhoram »",
+  "phrases": [
+   {
+    "fr": "Je prends le métro pour aller au bureau.",
+    "tgt": "من با مترو به اداره می‌روم.",
+    "ro": "Man bâ metro be edâre miravam.",
+    "lit": "moi · avec · métro · [à] · bureau · vais"
+   },
+   {
+    "fr": "Je mange à midi avec mes collègues.",
+    "tgt": "ظهر با همکارانم غذا می‌خورم.",
+    "ro": "Zohr bâ hamkârânam ghazâ mikhoram.",
+    "lit": "midi · avec · collègues-mes · repas · mange"
+   },
+   {
+    "fr": "Tu travailles où, toi ?",
+    "tgt": "تو کجا کار می‌کنی؟",
+    "ro": "To kojâ kâr mikoni?",
+    "lit": "toi · où · travail · fais"
+   },
+   {
+    "fr": "Elle parle très bien français.",
+    "tgt": "او خیلی خوب فرانسه صحبت می‌کند.",
+    "ro": "U kheyli khub farânse sohbat mikonad.",
+    "lit": "elle · très · bien · français · conversation · fait"
+   },
+   {
+    "fr": "Nous buvons du thé à dix heures.",
+    "tgt": "ما ساعت ده چای می‌خوریم.",
+    "ro": "Mâ sâ'at-e dah chây mikhorim.",
+    "lit": "nous · heure · [de] · dix · thé · buvons"
+   },
+   {
+    "fr": "Mon collègue arrive toujours en retard.",
+    "tgt": "همکارم همیشه دیر می‌آید.",
+    "ro": "Hamkâram hamishe dir miâyad.",
+    "lit": "collègue-mon · toujours · tard · vient"
+   },
+   {
+    "fr": "Je lis mes e-mails le matin.",
+    "tgt": "صبح‌ها ایمیل‌هایم را می‌خوانم.",
+    "ro": "Sobhhâ imeylhâyam râ mikhânam.",
+    "lit": "matins · e-mails-mes · [objet] · lis"
+   },
+   {
+    "fr": "Ils rentrent à six heures.",
+    "tgt": "آن‌ها ساعت شش به خانه برمی‌گردند.",
+    "ro": "Ânhâ sâ'at-e shesh be khâne barmigardand.",
+    "lit": "eux · heure · [de] · six · [à] · maison · reviennent"
+   },
+   {
+    "fr": "Vous comprenez le persan ?",
+    "tgt": "شما فارسی می‌فهمید؟",
+    "ro": "Shomâ fârsi mifahmid?",
+    "lit": "vous · persan · comprenez"
+   },
+   {
+    "fr": "Je comprends un peu.",
+    "tgt": "کمی می‌فهمم.",
+    "ro": "Kami mifahmam.",
+    "lit": "un peu · comprends"
+   }
+  ]
+ },
+ "0-0-16": {
+  "module": "Le quotidien",
+  "title": "Une pause au salon de thé",
+  "grammaire_de_la_lecon": "« Mikhâham » : je veux, suivi d'un nom",
+  "phrases": [
+   {
+    "fr": "Je voudrais un thé, s'il vous plaît.",
+    "tgt": "یک چای می‌خواهم، لطفا.",
+    "ro": "Yek chây mikhâham, lotfan.",
+    "lit": "un · thé · veux · s'il vous plaît"
+   },
+   {
+    "fr": "Qu'est-ce que vous voulez ?",
+    "tgt": "شما چه می‌خواهید؟",
+    "ro": "Shomâ che mikhâhid?",
+    "lit": "vous · quoi · voulez"
+   },
+   {
+    "fr": "Je voudrais un verre d'eau.",
+    "tgt": "یک لیوان آب می‌خواهم.",
+    "ro": "Yek livân âb mikhâham.",
+    "lit": "un · verre · eau · veux"
+   },
+   {
+    "fr": "Nous voulons deux thés et des dattes.",
+    "tgt": "ما دو چای و خرما می‌خواهیم.",
+    "ro": "Mâ do chây o khormâ mikhâhim.",
+    "lit": "nous · deux · thé · et · datte · voulons"
+   },
+   {
+    "fr": "Tu veux un sucre ?",
+    "tgt": "قند می‌خواهی؟",
+    "ro": "Ghand mikhâhi?",
+    "lit": "sucre · veux"
+   },
+   {
+    "fr": "Non merci, je ne veux pas de sucre.",
+    "tgt": "نه ممنون، قند نمی‌خواهم.",
+    "ro": "Na mamnun, ghand nemikhâham.",
+    "lit": "non · merci · sucre · [ne… pas] · veux"
+   },
+   {
+    "fr": "Il veut un gâteau au safran.",
+    "tgt": "او یک کیک زعفرانی می‌خواهد.",
+    "ro": "U yek keyk-e za'farâni mikhâhad.",
+    "lit": "lui · un · gâteau · [de] · safrané · veut"
+   },
+   {
+    "fr": "Je voudrais l'addition.",
+    "tgt": "صورت‌حساب را می‌خواهم.",
+    "ro": "Surat hesâb râ mikhâham.",
+    "lit": "addition · [objet] · veux"
+   },
+   {
+    "fr": "Elle veut un thé bien chaud.",
+    "tgt": "او یک چای داغ می‌خواهد.",
+    "ro": "U yek chây-e dâgh mikhâhad.",
+    "lit": "elle · un · thé · [de] · brûlant · veut"
+   },
+   {
+    "fr": "Vous voulez autre chose ?",
+    "tgt": "چیز دیگری می‌خواهید؟",
+    "ro": "Chiz-e digari mikhâhid?",
+    "lit": "chose · [de] · autre · voulez"
+   }
+  ]
+ },
+ "0-0-17": {
+  "module": "Le quotidien",
+  "title": "Au bureau",
+  "grammaire_de_la_lecon": "« Râ » : marquer l'objet précis",
+  "phrases": [
+   {
+    "fr": "Je vois le directeur demain.",
+    "tgt": "فردا مدیر را می‌بینم.",
+    "ro": "Fardâ modir râ mibinam.",
+    "lit": "demain · directeur · [objet] · vois"
+   },
+   {
+    "fr": "Je ne trouve pas le dossier bleu.",
+    "tgt": "پرونده‌ی آبی را پیدا نمی‌کنم.",
+    "ro": "Parvande-ye âbi râ peydâ nemikonam.",
+    "lit": "dossier · [de] · bleu · [objet] · trouvé · [ne… pas] · fais"
+   },
+   {
+    "fr": "Vous connaissez madame Ahmadi ?",
+    "tgt": "خانم احمدی را می‌شناسید؟",
+    "ro": "Khânom-e Ahmadi râ mishenâsid?",
+    "lit": "madame · [de] · Ahmadi · [objet] · connaissez"
+   },
+   {
+    "fr": "J'ouvre la fenêtre.",
+    "tgt": "پنجره را باز می‌کنم.",
+    "ro": "Panjare râ bâz mikonam.",
+    "lit": "fenêtre · [objet] · ouvert · fais"
+   },
+   {
+    "fr": "Je lis ce rapport aujourd'hui.",
+    "tgt": "امروز این گزارش را می‌خوانم.",
+    "ro": "Emruz in gozâresh râ mikhânam.",
+    "lit": "aujourd'hui · ce · rapport · [objet] · lis"
+   },
+   {
+    "fr": "J'écris une lettre à mon ami.",
+    "tgt": "یک نامه به دوستم می‌نویسم.",
+    "ro": "Yek nâme be dustam minevisam.",
+    "lit": "une · lettre · [à] · ami-mon · écris"
+   },
+   {
+    "fr": "J'envoie la lettre ce soir.",
+    "tgt": "امشب نامه را می‌فرستم.",
+    "ro": "Emshab nâme râ miferestam.",
+    "lit": "ce soir · lettre · [objet] · envoie"
+   },
+   {
+    "fr": "Je ne vois pas mon téléphone.",
+    "tgt": "گوشی‌ام را نمی‌بینم.",
+    "ro": "Gushiam râ nemibinam.",
+    "lit": "téléphone-mon · [objet] · [ne… pas] · vois"
+   },
+   {
+    "fr": "Mon collègue apporte les gâteaux.",
+    "tgt": "همکارم شیرینی‌ها را می‌آورد.",
+    "ro": "Hamkâram shirinihâ râ miâvarad.",
+    "lit": "collègue-mon · gâteaux · [objet] · apporte"
+   },
+   {
+    "fr": "Nous finissons le travail à cinq heures.",
+    "tgt": "ما کار را ساعت پنج تمام می‌کنیم.",
+    "ro": "Mâ kâr râ sâ'at-e panj tamâm mikonim.",
+    "lit": "nous · travail · [objet] · heure · [de] · cinq · fini · faisons"
+   }
+  ]
+ },
+ "0-0-18": {
+  "module": "Le quotidien",
+  "title": "Se déplacer en ville",
+  "grammaire_de_la_lecon": "Les prépositions de base : « dar », « be », « az »",
+  "phrases": [
+   {
+    "fr": "J'habite à Téhéran.",
+    "tgt": "من در تهران زندگی می‌کنم.",
+    "ro": "Man dar Tehrân zendegi mikonam.",
+    "lit": "moi · dans · Téhéran · vie · fais"
+   },
+   {
+    "fr": "Je reviens du bazar.",
+    "tgt": "از بازار برمی‌گردم.",
+    "ro": "Az bâzâr barmigardam.",
+    "lit": "de · bazar · reviens"
+   },
+   {
+    "fr": "On va au parc ce soir.",
+    "tgt": "امشب به پارک می‌رویم.",
+    "ro": "Emshab be pârk miravim.",
+    "lit": "ce soir · [à] · parc · allons"
+   },
+   {
+    "fr": "Le bureau est dans ce bâtiment.",
+    "tgt": "دفتر در این ساختمان است.",
+    "ro": "Daftar dar in sâkhtemân ast.",
+    "lit": "bureau · dans · ce · bâtiment · est"
+   },
+   {
+    "fr": "Je vais à Tajrish en taxi.",
+    "tgt": "با تاکسی به تجریش می‌روم.",
+    "ro": "Bâ tâksi be Tajrish miravam.",
+    "lit": "avec · taxi · [à] · Tajrish · vais"
+   },
+   {
+    "fr": "De chez moi au bureau, il y a vingt minutes.",
+    "tgt": "از خانه‌ام تا اداره بیست دقیقه راه است.",
+    "ro": "Az khâneam tâ edâre bist daghighe râh ast.",
+    "lit": "de · maison-ma · jusqu'à · bureau · vingt · minute · chemin · est"
+   },
+   {
+    "fr": "Le livre est dans le sac.",
+    "tgt": "کتاب در کیف است.",
+    "ro": "Ketâb dar kif ast.",
+    "lit": "livre · dans · sac · est"
+   },
+   {
+    "fr": "Je donne le pain à la voisine.",
+    "tgt": "نان را به همسایه می‌دهم.",
+    "ro": "Nân râ be hamsâye midaham.",
+    "lit": "pain · [objet] · [à] · voisine · donne"
+   },
+   {
+    "fr": "Elle sort de la boulangerie.",
+    "tgt": "او از نانوایی بیرون می‌آید.",
+    "ro": "U az nânvâyi birun miâyad.",
+    "lit": "elle · de · boulangerie · dehors · vient"
+   },
+   {
+    "fr": "Le soir, je téléphone à ma mère.",
+    "tgt": "شب‌ها به مادرم زنگ می‌زنم.",
+    "ro": "Shabhâ be mâdaram zang mizanam.",
+    "lit": "nuits · [à] · mère-ma · sonnerie · frappe"
+   }
+  ]
+ },
+ "0-0-19": {
+  "module": "Le quotidien",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "Les formules magiques : « mersi », « mamnun », « bebakhshid », « khâhesh mikonam »",
+  "phrases": [
+   {
+    "fr": "Mille mercis pour votre aide.",
+    "tgt": "خیلی ممنون از کمک شما.",
+    "ro": "Kheyli mamnun az komak-e shomâ.",
+    "lit": "très · reconnaissant · de · aide · [de] · vous"
+   },
+   {
+    "fr": "Je vous en prie.",
+    "tgt": "خواهش می‌کنم.",
+    "ro": "Khâhesh mikonam.",
+    "lit": "demande · fais"
+   },
+   {
+    "fr": "Excusez-moi, mon persan n'est pas encore très bon.",
+    "tgt": "ببخشید، فارسی من هنوز خیلی خوب نیست.",
+    "ro": "Bebakhshid, fârsi-ye man hanuz kheyli khub nist.",
+    "lit": "pardonnez · persan · [de] · moi · encore · très · bon · n'est pas"
+   },
+   {
+    "fr": "Merci, et à vous de même.",
+    "tgt": "مرسی، همچنین.",
+    "ro": "Mersi, hamchenin.",
+    "lit": "merci · de même"
+   },
+   {
+    "fr": "J'apprends le persan chaque jour.",
+    "tgt": "من هر روز فارسی یاد می‌گیرم.",
+    "ro": "Man har ruz fârsi yâd migiram.",
+    "lit": "moi · chaque · jour · persan · souvenir · prends"
+   },
+   {
+    "fr": "Le persan est une belle langue.",
+    "tgt": "فارسی زبان قشنگی است.",
+    "ro": "Fârsi zabân-e ghashangi ast.",
+    "lit": "persan · langue · [de] · belle · est"
+   },
+   {
+    "fr": "Maintenant, je compte jusqu'à dix en persan.",
+    "tgt": "حالا تا ده به فارسی می‌شمارم.",
+    "ro": "Hâlâ tâ dah be fârsi mishomâram.",
+    "lit": "maintenant · jusqu'à · dix · [à] · persan · compte"
+   },
+   {
+    "fr": "Pardon, vous pouvez répéter ?",
+    "tgt": "ببخشید، می‌شود تکرار کنید؟",
+    "ro": "Bebakhshid, mishavad tekrâr konid?",
+    "lit": "pardonnez · devient · répétition · fassiez"
+   },
+   {
+    "fr": "Merci, c'est très gentil à vous.",
+    "tgt": "ممنون، شما خیلی لطف دارید.",
+    "ro": "Mamnun, shomâ kheyli lotf dârid.",
+    "lit": "merci · vous · très · gentillesse · avez"
+   },
+   {
+    "fr": "Au revoir, à la prochaine leçon !",
+    "tgt": "خداحافظ، تا درس بعدی!",
+    "ro": "Khodâhâfez, tâ dars-e ba'di!",
+    "lit": "au revoir · jusqu'à · leçon · [de] · suivante"
+   }
+  ]
+ },
+ "0-1-0": {
+  "module": "En voyage",
+  "title": "Arrivée à la gare routière d'Ispahan",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Bonjour, nous sommes à Ispahan.",
+    "tgt": "سلام، ما در اصفهان هستیم.",
+    "ro": "Salâm, mâ dar Esfahân hastim.",
+    "lit": "salut · nous · dans · Ispahan · sommes"
+   },
+   {
+    "fr": "Ce terminal est très grand.",
+    "tgt": "این ترمینال خیلی بزرگ است.",
+    "ro": "In terminâl kheyli bozorg ast.",
+    "lit": "ce · terminal · très · grand · est"
+   },
+   {
+    "fr": "Pardon, la sortie, c'est par où ?",
+    "tgt": "ببخشید، خروجی کجاست؟",
+    "ro": "Bebakhshid, khoruji kojâst?",
+    "lit": "excusez · sortie · où-est"
+   },
+   {
+    "fr": "La sortie est de ce côté-là.",
+    "tgt": "خروجی آن طرف است.",
+    "ro": "Khoruji ân taraf ast.",
+    "lit": "sortie · ce · côté · est"
+   },
+   {
+    "fr": "Mon sac est très lourd.",
+    "tgt": "کیفم خیلی سنگین است.",
+    "ro": "Kifam kheyli sangin ast.",
+    "lit": "sac-mon · très · lourd · est"
+   },
+   {
+    "fr": "Où sont les taxis ?",
+    "tgt": "تاکسی‌ها کجا هستند؟",
+    "ro": "Tâksihâ kojâ hastand?",
+    "lit": "taxis · où · sont"
+   },
+   {
+    "fr": "Les taxis sont devant la porte.",
+    "tgt": "تاکسی‌ها جلوی در هستند.",
+    "ro": "Tâksihâ jelo-ye dar hastand.",
+    "lit": "taxis · devant · [de] · porte · sont"
+   },
+   {
+    "fr": "Vous avez une bouteille d'eau ?",
+    "tgt": "یک بطری آب دارید؟",
+    "ro": "Yek botri âb dârid?",
+    "lit": "une · bouteille · eau · avez"
+   },
+   {
+    "fr": "Oui, voici de l'eau bien fraîche.",
+    "tgt": "بله، بفرمایید، آب خنک.",
+    "ro": "Bale, befarmâyid, âb-e khonak.",
+    "lit": "oui · je-vous-en-prie · eau · [de] · fraîche"
+   },
+   {
+    "fr": "Ispahan est vraiment belle.",
+    "tgt": "اصفهان خیلی زیباست.",
+    "ro": "Esfahân kheyli zibâst.",
+    "lit": "Ispahan · très · belle-est"
+   }
+  ]
+ },
+ "0-1-1": {
+  "module": "En voyage",
+  "title": "Des billets de bus pour Kashan",
+  "grammaire_de_la_lecon": "« Emruz », « fardâ », « diruz » : aujourd'hui, demain, hier",
+  "phrases": [
+   {
+    "fr": "Je voudrais un billet pour Kashan.",
+    "tgt": "یک بلیت برای کاشان می‌خواهم.",
+    "ro": "Yek belit barâye Kâshân mikhâham.",
+    "lit": "un · billet · pour · Kashan · veux"
+   },
+   {
+    "fr": "Pour aujourd'hui ou pour demain ?",
+    "tgt": "برای امروز یا فردا؟",
+    "ro": "Barâye emruz yâ fardâ?",
+    "lit": "pour · aujourd'hui · ou · demain"
+   },
+   {
+    "fr": "Pour demain matin, s'il vous plaît.",
+    "tgt": "برای فردا صبح، لطفا.",
+    "ro": "Barâye fardâ sobh, lotfan.",
+    "lit": "pour · demain · matin · s'il-vous-plaît"
+   },
+   {
+    "fr": "Aujourd'hui, nous n'avons plus de place.",
+    "tgt": "امروز جا نداریم.",
+    "ro": "Emruz jâ nadârim.",
+    "lit": "aujourd'hui · place · [ne… pas]-avons"
+   },
+   {
+    "fr": "Demain, il y a un bus à huit heures.",
+    "tgt": "فردا ساعت هشت یک اتوبوس هست.",
+    "ro": "Fardâ sâ'at-e hasht yek otobus hast.",
+    "lit": "demain · heure · [de] · huit · un · bus · il-y-a"
+   },
+   {
+    "fr": "Hier, j'étais à Téhéran.",
+    "tgt": "دیروز در تهران بودم.",
+    "ro": "Diruz dar Tehrân budam.",
+    "lit": "hier · dans · Téhéran · étais"
+   },
+   {
+    "fr": "Aujourd'hui, je suis à Ispahan.",
+    "tgt": "امروز در اصفهان هستم.",
+    "ro": "Emruz dar Esfahân hastam.",
+    "lit": "aujourd'hui · dans · Ispahan · suis"
+   },
+   {
+    "fr": "Et demain, je vais à Kashan.",
+    "tgt": "و فردا به کاشان می‌روم.",
+    "ro": "Va fardâ be Kâshân miravam.",
+    "lit": "et · demain · [à] · Kashan · vais"
+   },
+   {
+    "fr": "Le bus part de quel terminal ?",
+    "tgt": "اتوبوس از کدام ترمینال حرکت می‌کند؟",
+    "ro": "Otobus az kodâm terminâl harekat mikonad?",
+    "lit": "bus · de · quel · terminal · départ · fait"
+   },
+   {
+    "fr": "Merci, alors à demain matin.",
+    "tgt": "ممنون، پس تا فردا صبح.",
+    "ro": "Mamnun, pas tâ fardâ sobh.",
+    "lit": "merci · donc · jusqu'à · demain · matin"
+   }
+  ]
+ },
+ "0-1-2": {
+  "module": "En voyage",
+  "title": "En taxi jusqu'à l'hôtel",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Monsieur, vous êtes libre ?",
+    "tgt": "آقا، آزاد هستید؟",
+    "ro": "Âghâ, âzâd hastid?",
+    "lit": "monsieur · libre · êtes"
+   },
+   {
+    "fr": "Oui, montez, je vous en prie.",
+    "tgt": "بله، بفرمایید سوار شوید.",
+    "ro": "Bale, befarmâyid savâr shavid.",
+    "lit": "oui · je-vous-en-prie · monté · devenez"
+   },
+   {
+    "fr": "À la place Naghsh-e Jahan, s'il vous plaît.",
+    "tgt": "میدان نقش جهان، لطفا.",
+    "ro": "Meydân-e Naghsh-e Jahân, lotfan.",
+    "lit": "place · [de] · Naghsh-e Jahan · s'il-vous-plaît"
+   },
+   {
+    "fr": "Mon hôtel est à côté du bazar.",
+    "tgt": "هتلم کنار بازار است.",
+    "ro": "Hotelam kenâr-e bâzâr ast.",
+    "lit": "hôtel-mon · à-côté · [de] · bazar · est"
+   },
+   {
+    "fr": "Le trajet prend combien de temps ?",
+    "tgt": "چقدر طول می‌کشد؟",
+    "ro": "Cheghadr tul mikeshad?",
+    "lit": "combien · longueur · tire"
+   },
+   {
+    "fr": "Environ vingt minutes.",
+    "tgt": "حدود بیست دقیقه.",
+    "ro": "Hodud-e bist daghighe.",
+    "lit": "environ · [de] · vingt · minute"
+   },
+   {
+    "fr": "Aujourd'hui, la circulation est dense.",
+    "tgt": "امروز ترافیک سنگین است.",
+    "ro": "Emruz terâfik sangin ast.",
+    "lit": "aujourd'hui · circulation · lourde · est"
+   },
+   {
+    "fr": "L'hôtel est là-bas, sur la droite.",
+    "tgt": "هتل آنجاست، سمت راست.",
+    "ro": "Hotel ânjâst, samt-e râst.",
+    "lit": "hôtel · là-bas-est · côté · [de] · droite"
+   },
+   {
+    "fr": "Arrêtez-vous ici, s'il vous plaît.",
+    "tgt": "لطفا اینجا نگه دارید.",
+    "ro": "Lotfan injâ negah dârid.",
+    "lit": "s'il-vous-plaît · ici · arrêt · tenez"
+   },
+   {
+    "fr": "Merci, monsieur, au revoir.",
+    "tgt": "ممنون آقا، خداحافظ.",
+    "ro": "Mamnun âghâ, khodâhâfez.",
+    "lit": "merci · monsieur · au-revoir"
+   }
+  ]
+ },
+ "0-1-3": {
+  "module": "En voyage",
+  "title": "À la réception de l'hôtel",
+  "grammaire_de_la_lecon": "« Lotfan » : s'il vous plaît",
+  "phrases": [
+   {
+    "fr": "Bonjour, j'ai réservé au nom de Martin.",
+    "tgt": "سلام، به اسم مارتن رزرو دارم.",
+    "ro": "Salâm, be esm-e Mârten rezerv dâram.",
+    "lit": "bonjour · [à] · nom · [de] · Martin · réservation · ai"
+   },
+   {
+    "fr": "Votre nom de famille, s'il vous plaît ?",
+    "tgt": "فامیلی شما، لطفا؟",
+    "ro": "Fâmili-ye shomâ, lotfan?",
+    "lit": "nom-de-famille · [de] · vous · s'il-vous-plaît"
+   },
+   {
+    "fr": "Votre passeport aussi, s'il vous plaît.",
+    "tgt": "پاسپورتتان را هم، لطفا.",
+    "ro": "Pâsportetân râ ham, lotfan.",
+    "lit": "passeport-votre · [objet] · aussi · s'il-vous-plaît"
+   },
+   {
+    "fr": "Le voici, c'est mon passeport.",
+    "tgt": "بفرمایید، این پاسپورت من است.",
+    "ro": "Befarmâyid, in pâsport-e man ast.",
+    "lit": "je-vous-en-prie · ceci · passeport · [de] · moi · est"
+   },
+   {
+    "fr": "Une chambre pour deux nuits, s'il vous plaît.",
+    "tgt": "یک اتاق برای دو شب، لطفا.",
+    "ro": "Yek otâgh barâye do shab, lotfan.",
+    "lit": "une · chambre · pour · deux · nuit · s'il-vous-plaît"
+   },
+   {
+    "fr": "Avec le petit-déjeuner, s'il vous plaît.",
+    "tgt": "لطفا با صبحانه.",
+    "ro": "Lotfan bâ sobhâne.",
+    "lit": "s'il-vous-plaît · avec · petit-déjeuner"
+   },
+   {
+    "fr": "Votre chambre est au deuxième étage.",
+    "tgt": "اتاقتان در طبقه دوم است.",
+    "ro": "Otâghetân dar tabaghe-ye dovvom ast.",
+    "lit": "chambre-votre · dans · étage · [de] · deuxième · est"
+   },
+   {
+    "fr": "Et voici la clé de votre chambre.",
+    "tgt": "این هم کلید اتاقتان.",
+    "ro": "In ham kelid-e otâghetân.",
+    "lit": "ceci · aussi · clé · [de] · chambre-votre"
+   },
+   {
+    "fr": "Le code du wifi, s'il vous plaît ?",
+    "tgt": "رمز وای‌فای، لطفا؟",
+    "ro": "Ramz-e vâyfây, lotfan?",
+    "lit": "code · [de] · wifi · s'il-vous-plaît"
+   },
+   {
+    "fr": "Un thé bien chaud pour moi, s'il vous plaît.",
+    "tgt": "لطفا یک چای داغ برای من.",
+    "ro": "Lotfan yek chây-e dâgh barâye man.",
+    "lit": "s'il-vous-plaît · un · thé · [de] · brûlant · pour · moi"
+   }
+  ]
+ },
+ "0-1-4": {
+  "module": "En voyage",
+  "title": "Dans la chambre d'hôtel",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Notre chambre est propre et calme.",
+    "tgt": "اتاق ما تمیز و آرام است.",
+    "ro": "Otâgh-e mâ tamiz va ârâm ast.",
+    "lit": "chambre · [de] · nous · propre · et · calme · est"
+   },
+   {
+    "fr": "La fenêtre donne sur la place.",
+    "tgt": "پنجره رو به میدان است.",
+    "ro": "Panjare ru be meydân ast.",
+    "lit": "fenêtre · face · [à] · place · est"
+   },
+   {
+    "fr": "Le lit est très confortable.",
+    "tgt": "تخت خیلی راحت است.",
+    "ro": "Takht kheyli râhat ast.",
+    "lit": "lit · très · confortable · est"
+   },
+   {
+    "fr": "Il n'y a pas de serviette dans la salle de bain.",
+    "tgt": "در حمام حوله نیست.",
+    "ro": "Dar hammâm hole nist.",
+    "lit": "dans · salle-de-bain · serviette · [ne… pas]-est"
+   },
+   {
+    "fr": "Le climatiseur de la chambre ne marche pas.",
+    "tgt": "کولر اتاق کار نمی‌کند.",
+    "ro": "Kuler-e otâgh kâr nemikonad.",
+    "lit": "climatiseur · [de] · chambre · travail · [ne… pas]-fait"
+   },
+   {
+    "fr": "L'eau chaude ne vient pas.",
+    "tgt": "آب گرم نمی‌آید.",
+    "ro": "Âb-e garm nemiâyad.",
+    "lit": "eau · [de] · chaude · [ne… pas]-vient"
+   },
+   {
+    "fr": "Je voudrais une autre couverture.",
+    "tgt": "یک پتوی دیگر می‌خواهم.",
+    "ro": "Yek patu-ye digar mikhâham.",
+    "lit": "une · couverture · [de] · autre · veux"
+   },
+   {
+    "fr": "Le petit-déjeuner, c'est à quelle heure ?",
+    "tgt": "صبحانه ساعت چند است؟",
+    "ro": "Sobhâne sâ'at-e chand ast?",
+    "lit": "petit-déjeuner · heure · [de] · combien · est"
+   },
+   {
+    "fr": "À sept heures, au rez-de-chaussée.",
+    "tgt": "ساعت هفت، در طبقه همکف.",
+    "ro": "Sâ'at-e haft, dar tabaghe-ye hamkaf.",
+    "lit": "heure · [de] · sept · dans · étage · [de] · rez-de-chaussée"
+   },
+   {
+    "fr": "La vue sur la place est superbe.",
+    "tgt": "منظره میدان خیلی زیباست.",
+    "ro": "Manzare-ye meydân kheyli zibâst.",
+    "lit": "vue · [de] · place · très · belle-est"
+   }
+  ]
+ },
+ "0-1-5": {
+  "module": "En voyage",
+  "title": "Au bazar des artisans",
+  "grammaire_de_la_lecon": "« Chand tomân ? » : demander un prix, les tomans",
+  "phrases": [
+   {
+    "fr": "Ce plateau en cuivre est très joli.",
+    "tgt": "این سینی مسی خیلی قشنگ است.",
+    "ro": "In sini-ye mesi kheyli ghashang ast.",
+    "lit": "ce · plateau · [de] · en-cuivre · très · joli · est"
+   },
+   {
+    "fr": "Ça coûte combien de tomans ?",
+    "tgt": "چند تومان است؟",
+    "ro": "Chand tomân ast?",
+    "lit": "combien · toman · est"
+   },
+   {
+    "fr": "Ce plateau fait huit cent mille tomans.",
+    "tgt": "این سینی هشتصد هزار تومان است.",
+    "ro": "In sini hashtsad hezâr tomân ast.",
+    "lit": "ce · plateau · huit-cents · mille · toman · est"
+   },
+   {
+    "fr": "C'est un peu cher pour moi.",
+    "tgt": "برای من کمی گران است.",
+    "ro": "Barâye man kami gerân ast.",
+    "lit": "pour · moi · un-peu · cher · est"
+   },
+   {
+    "fr": "Et ce petit vase, combien de tomans ?",
+    "tgt": "و این گلدان کوچک چند تومان است؟",
+    "ro": "Va in goldân-e kuchak chand tomân ast?",
+    "lit": "et · ce · vase · [de] · petit · combien · toman · est"
+   },
+   {
+    "fr": "Seulement trois cent mille tomans.",
+    "tgt": "فقط سیصد هزار تومان.",
+    "ro": "Faghat sisad hezâr tomân.",
+    "lit": "seulement · trois-cents · mille · toman"
+   },
+   {
+    "fr": "Ce petit tapis coûte combien ?",
+    "tgt": "این قالیچه چند است؟",
+    "ro": "In ghâliche chand ast?",
+    "lit": "ce · petit-tapis · combien · est"
+   },
+   {
+    "fr": "C'est combien, votre dernier prix ?",
+    "tgt": "آخرش چند؟",
+    "ro": "Âkharesh chand?",
+    "lit": "fin-sa · combien"
+   },
+   {
+    "fr": "Pour vous, quatre cent mille tomans.",
+    "tgt": "برای شما، چهارصد هزار تومان.",
+    "ro": "Barâye shomâ, chahârsad hezâr tomân.",
+    "lit": "pour · vous · quatre-cents · mille · toman"
+   },
+   {
+    "fr": "Bon, je prends le vase.",
+    "tgt": "خب، گلدان را می‌خرم.",
+    "ro": "Khob, goldân râ mikharam.",
+    "lit": "bon · vase · [objet] · achète"
+   }
+  ]
+ },
+ "0-1-6": {
+  "module": "En voyage",
+  "title": "Changer de l'argent et payer",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Où se trouve un bureau de change ?",
+    "tgt": "صرافی کجاست؟",
+    "ro": "Sarrâfi kojâst?",
+    "lit": "bureau-de-change · où-est"
+   },
+   {
+    "fr": "Il y a un bureau de change près du bazar.",
+    "tgt": "نزدیک بازار یک صرافی هست.",
+    "ro": "Nazdik-e bâzâr yek sarrâfi hast.",
+    "lit": "près · [de] · bazar · un · bureau-de-change · il-y-a"
+   },
+   {
+    "fr": "Je voudrais changer cent euros.",
+    "tgt": "می‌خواهم صد یورو عوض کنم.",
+    "ro": "Mikhâham sad yuro avaz konam.",
+    "lit": "veux · cent · euro · échange · que-je-fasse"
+   },
+   {
+    "fr": "Les prix sont en tomans ou en rials ?",
+    "tgt": "قیمت‌ها به تومان است یا ریال؟",
+    "ro": "Gheymathâ be tomân ast yâ riyâl?",
+    "lit": "prix · [à] · toman · est · ou · rial"
+   },
+   {
+    "fr": "En tomans, bien sûr.",
+    "tgt": "البته به تومان.",
+    "ro": "Albatte be tomân.",
+    "lit": "bien-sûr · [à] · toman"
+   },
+   {
+    "fr": "Un toman, c'est dix rials.",
+    "tgt": "هر تومان ده ریال است.",
+    "ro": "Har tomân dah riyâl ast.",
+    "lit": "chaque · toman · dix · rial · est"
+   },
+   {
+    "fr": "Désolé, je n'ai pas de monnaie sur moi.",
+    "tgt": "ببخشید، پول خرد ندارم.",
+    "ro": "Bebakhshid, pul-e khord nadâram.",
+    "lit": "excusez · argent · [de] · menu · [ne… pas]-ai"
+   },
+   {
+    "fr": "Je paie en liquide.",
+    "tgt": "نقد می‌دهم.",
+    "ro": "Naghd midaham.",
+    "lit": "comptant · donne"
+   },
+   {
+    "fr": "Tenez, voici votre reçu.",
+    "tgt": "بفرمایید، این رسید شماست.",
+    "ro": "Befarmâyid, in resid-e shomâst.",
+    "lit": "je-vous-en-prie · ceci · reçu · [de] · vous-est"
+   },
+   {
+    "fr": "Cet argent suffit pour aujourd'hui.",
+    "tgt": "این پول برای امروز کافی است.",
+    "ro": "In pul barâye emruz kâfi ast.",
+    "lit": "cet · argent · pour · aujourd'hui · suffisant · est"
+   }
+  ]
+ },
+ "0-1-7": {
+  "module": "En voyage",
+  "title": "Sur la place Naghsh-e Jahan",
+  "grammaire_de_la_lecon": "« Az... tâ... » : de... à...",
+  "phrases": [
+   {
+    "fr": "La place Naghsh-e Jahan est immense.",
+    "tgt": "میدان نقش جهان خیلی بزرگ است.",
+    "ro": "Meydân-e Naghsh-e Jahân kheyli bozorg ast.",
+    "lit": "place · [de] · Naghsh-e Jahan · très · grande · est"
+   },
+   {
+    "fr": "De l'hôtel jusqu'à la place, nous allons à pied.",
+    "tgt": "از هتل تا میدان پیاده می‌رویم.",
+    "ro": "Az hotel tâ meydân piyâde miravim.",
+    "lit": "de · hôtel · jusqu'à · place · à-pied · allons"
+   },
+   {
+    "fr": "La place est animée du matin au soir.",
+    "tgt": "میدان از صبح تا شب شلوغ است.",
+    "ro": "Meydân az sobh tâ shab sholugh ast.",
+    "lit": "place · de · matin · jusqu'à · nuit · animée · est"
+   },
+   {
+    "fr": "Le palais Ali Qapu est juste en face.",
+    "tgt": "کاخ عالی‌قاپو روبه‌رو است.",
+    "ro": "Kâkh-e Âli Ghâpu ruberu ast.",
+    "lit": "palais · [de] · Ali-Qapu · en-face · est"
+   },
+   {
+    "fr": "C'est ouvert de neuf heures à cinq heures.",
+    "tgt": "از ساعت نه تا پنج باز است.",
+    "ro": "Az sâ'at-e noh tâ panj bâz ast.",
+    "lit": "de · heure · [de] · neuf · jusqu'à · cinq · ouvert · est"
+   },
+   {
+    "fr": "Les calèches font le tour de la place.",
+    "tgt": "درشکه‌ها دور میدان می‌چرخند.",
+    "ro": "Doroshkehâ dor-e meydân micharkhand.",
+    "lit": "calèches · autour · [de] · place · tournent"
+   },
+   {
+    "fr": "Nous marchons du palais jusqu'au bazar.",
+    "tgt": "از کاخ تا بازار قدم می‌زنیم.",
+    "ro": "Az kâkh tâ bâzâr ghadam mizanim.",
+    "lit": "de · palais · jusqu'à · bazar · pas · frappons"
+   },
+   {
+    "fr": "Les fontaines sont très belles.",
+    "tgt": "فواره‌ها خیلی زیبا هستند.",
+    "ro": "Favvârehâ kheyli zibâ hastand.",
+    "lit": "fontaines · très · belles · sont"
+   },
+   {
+    "fr": "Le soir, il y a beaucoup de familles ici.",
+    "tgt": "شب‌ها اینجا خانواده‌های زیادی هستند.",
+    "ro": "Shabhâ injâ khânevâdehâ-ye ziyâdi hastand.",
+    "lit": "nuits · ici · familles · [de] · nombreuses · sont"
+   },
+   {
+    "fr": "De Téhéran à Ispahan, il y a cinq heures de route.",
+    "tgt": "از تهران تا اصفهان پنج ساعت راه است.",
+    "ro": "Az Tehrân tâ Esfahân panj sâ'at râh ast.",
+    "lit": "de · Téhéran · jusqu'à · Ispahan · cinq · heure · route · est"
+   }
+  ]
+ },
+ "0-1-8": {
+  "module": "En voyage",
+  "title": "Les ponts sur la rivière",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "La rivière s'appelle Zayandeh Roud.",
+    "tgt": "اسم رودخانه زاینده‌رود است.",
+    "ro": "Esm-e rudkhâne Zâyande-rud ast.",
+    "lit": "nom · [de] · rivière · Zayandeh-Roud · est"
+   },
+   {
+    "fr": "Le pont Si-o-se Pol a trente-trois arches.",
+    "tgt": "سی‌وسه‌پل سی و سه دهانه دارد.",
+    "ro": "Si-o-se pol si-o-se dahâne dârad.",
+    "lit": "Si-o-se-Pol · trente · et · trois · arche · a"
+   },
+   {
+    "fr": "Le pont Khadjou est très ancien.",
+    "tgt": "پل خواجو خیلی قدیمی است.",
+    "ro": "Pol-e Khâju kheyli ghadimi ast.",
+    "lit": "pont · [de] · Khadjou · très · ancien · est"
+   },
+   {
+    "fr": "Il y a de l'eau dans la rivière aujourd'hui ?",
+    "tgt": "امروز رودخانه آب دارد؟",
+    "ro": "Emruz rudkhâne âb dârad?",
+    "lit": "aujourd'hui · rivière · eau · a"
+   },
+   {
+    "fr": "Oui, aujourd'hui, il y a de l'eau.",
+    "tgt": "بله، امروز آب دارد.",
+    "ro": "Bale, emruz âb dârad.",
+    "lit": "oui · aujourd'hui · eau · a"
+   },
+   {
+    "fr": "Des gens chantent sous le pont.",
+    "tgt": "مردم زیر پل آواز می‌خوانند.",
+    "ro": "Mardom zir-e pol âvâz mikhânand.",
+    "lit": "gens · sous · [de] · pont · chant · lisent"
+   },
+   {
+    "fr": "Le soir, les lumières du pont sont jolies.",
+    "tgt": "شب‌ها چراغ‌های پل قشنگ است.",
+    "ro": "Shabhâ cherâghhâ-ye pol ghashang ast.",
+    "lit": "nuits · lumières · [de] · pont · joli · est"
+   },
+   {
+    "fr": "Nous nous asseyons ici un moment.",
+    "tgt": "کمی اینجا می‌نشینیم.",
+    "ro": "Kami injâ mineshinim.",
+    "lit": "un-peu · ici · asseyons"
+   },
+   {
+    "fr": "Il y a une maison de thé près du pont.",
+    "tgt": "نزدیک پل یک چای‌خانه هست.",
+    "ro": "Nazdik-e pol yek châykhâne hast.",
+    "lit": "près · [de] · pont · une · maison-de-thé · il-y-a"
+   },
+   {
+    "fr": "Un thé avec vue sur la rivière !",
+    "tgt": "چای با منظره رودخانه!",
+    "ro": "Chây bâ manzare-ye rudkhâne!",
+    "lit": "thé · avec · vue · [de] · rivière"
+   }
+  ]
+ },
+ "0-1-9": {
+  "module": "En voyage",
+  "title": "Trouver un hôtel",
+  "grammaire_de_la_lecon": "Le « -i » indéfini : « hotel-i », un hôtel",
+  "phrases": [
+   {
+    "fr": "Je cherche un hôtel près d'ici.",
+    "tgt": "دنبال هتلی نزدیک اینجا هستم.",
+    "ro": "Donbâl-e hoteli nazdik-e injâ hastam.",
+    "lit": "recherche · [de] · hôtel-[un] · près · [de] · ici · suis"
+   },
+   {
+    "fr": "Il y a un hôtel derrière le bazar.",
+    "tgt": "پشت بازار هتلی هست.",
+    "ro": "Posht-e bâzâr hoteli hast.",
+    "lit": "derrière · [de] · bazar · hôtel-[un] · il-y-a"
+   },
+   {
+    "fr": "Excusez-moi, j'ai une petite question.",
+    "tgt": "ببخشید، سوالی دارم.",
+    "ro": "Bebakhshid, so'âli dâram.",
+    "lit": "excusez · question-[une] · ai"
+   },
+   {
+    "fr": "Vous avez une chambre avec vue sur la rivière ?",
+    "tgt": "اتاقی با منظره رودخانه دارید؟",
+    "ro": "Otâghi bâ manzare-ye rudkhâne dârid?",
+    "lit": "chambre-[une] · avec · vue · [de] · rivière · avez"
+   },
+   {
+    "fr": "Nous n'avons qu'une chambre pour ce soir.",
+    "tgt": "فقط یک اتاق برای امشب داریم.",
+    "ro": "Faghat yek otâgh barâye emshab dârim.",
+    "lit": "seulement · une · chambre · pour · ce-soir · avons"
+   },
+   {
+    "fr": "Ici, c'est une vieille maison.",
+    "tgt": "اینجا خانه‌ای قدیمی است.",
+    "ro": "Injâ khâne'i ghadimi ast.",
+    "lit": "ici · maison-[une] · ancienne · est"
+   },
+   {
+    "fr": "La cour a un petit bassin.",
+    "tgt": "حیاط یک حوض کوچک دارد.",
+    "ro": "Hayât yek hoz-e kuchak dârad.",
+    "lit": "cour · un · bassin · [de] · petit · a"
+   },
+   {
+    "fr": "Y a-t-il une pharmacie dans le coin ?",
+    "tgt": "این نزدیکی داروخانه‌ای هست؟",
+    "ro": "In nazdiki dârukhâne'i hast?",
+    "lit": "ce · voisinage · pharmacie-[une] · il-y-a"
+   },
+   {
+    "fr": "Je connais un bon hôtel à Kashan.",
+    "tgt": "هتل خوبی در کاشان می‌شناسم.",
+    "ro": "Hotel-e khubi dar Kâshân mishenâsam.",
+    "lit": "hôtel · [de] · bon-[un] · dans · Kashan · connais"
+   },
+   {
+    "fr": "C'est une très bonne idée.",
+    "tgt": "فکر خیلی خوبی است.",
+    "ro": "Fekr-e kheyli khubi ast.",
+    "lit": "idée · [de] · très · bonne-[une] · est"
+   }
+  ]
+ },
+ "0-1-10": {
+  "module": "En voyage",
+  "title": "Au restaurant traditionnel",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Une table pour deux personnes, près de la fenêtre.",
+    "tgt": "یک میز برای دو نفر، کنار پنجره.",
+    "ro": "Yek miz barâye do nafar, kenâr-e panjare.",
+    "lit": "une · table · pour · deux · personne · à-côté · [de] · fenêtre"
+   },
+   {
+    "fr": "Le menu est seulement en persan.",
+    "tgt": "منو فقط فارسی است.",
+    "ro": "Menu faghat fârsi ast.",
+    "lit": "menu · seulement · persan · est"
+   },
+   {
+    "fr": "Quel plat nous conseillez-vous ?",
+    "tgt": "چه غذایی پیشنهاد می‌کنید؟",
+    "ro": "Che ghazâyi pishnahâd mikonid?",
+    "lit": "quel · plat-[un] · suggestion · faites"
+   },
+   {
+    "fr": "Le beryan d'Ispahan est célèbre.",
+    "tgt": "بریان اصفهان معروف است.",
+    "ro": "Beryân-e Esfahân ma'ruf ast.",
+    "lit": "beryan · [de] · Ispahan · célèbre · est"
+   },
+   {
+    "fr": "Alors, moi, je prends le beryan.",
+    "tgt": "پس من بریان می‌خواهم.",
+    "ro": "Pas man beryân mikhâham.",
+    "lit": "donc · moi · beryan · veux"
+   },
+   {
+    "fr": "Et comme boisson, que voulez-vous ?",
+    "tgt": "نوشیدنی چه می‌خواهید؟",
+    "ro": "Nushidani che mikhâhid?",
+    "lit": "boisson · quoi · voulez"
+   },
+   {
+    "fr": "Un doogh bien frais, s'il vous plaît.",
+    "tgt": "یک دوغ خنک، لطفا.",
+    "ro": "Yek dugh-e khonak, lotfan.",
+    "lit": "un · doogh · [de] · frais · s'il-vous-plaît"
+   },
+   {
+    "fr": "Le pain est chaud et délicieux.",
+    "tgt": "نان گرم و خوشمزه است.",
+    "ro": "Nân garm va khoshmaze ast.",
+    "lit": "pain · chaud · et · délicieux · est"
+   },
+   {
+    "fr": "Mon amie ne mange pas de viande.",
+    "tgt": "دوستم گوشت نمی‌خورد.",
+    "ro": "Dustam gusht nemikhorad.",
+    "lit": "amie-mon · viande · [ne… pas]-mange"
+   },
+   {
+    "fr": "On paie à la caisse ?",
+    "tgt": "سر صندوق حساب می‌کنیم؟",
+    "ro": "Sar-e sandugh hesâb mikonim?",
+    "lit": "tête · [de] · caisse · compte · faisons"
+   }
+  ]
+ },
+ "0-1-11": {
+  "module": "En voyage",
+  "title": "Demander son chemin",
+  "grammaire_de_la_lecon": "« Chetor » : comment, et comment aller quelque part",
+  "phrases": [
+   {
+    "fr": "Excusez-moi, comment aller au bazar ?",
+    "tgt": "ببخشید، چطور به بازار بروم؟",
+    "ro": "Bebakhshid, chetor be bâzâr beravam?",
+    "lit": "excusez · comment · [à] · bazar · que-j'aille"
+   },
+   {
+    "fr": "Allez tout droit, puis à gauche.",
+    "tgt": "مستقیم بروید، بعد دست چپ.",
+    "ro": "Mostaghim beravid, ba'd dast-e chap.",
+    "lit": "droit · allez · après · main · [de] · gauche"
+   },
+   {
+    "fr": "Comment allons-nous jusqu'au pont Khadjou ?",
+    "tgt": "تا پل خواجو چطور برویم؟",
+    "ro": "Tâ pol-e Khâju chetor beravim?",
+    "lit": "jusqu'à · pont · [de] · Khadjou · comment · que-nous-allions"
+   },
+   {
+    "fr": "Comment est votre hôtel ?",
+    "tgt": "هتلتان چطور است؟",
+    "ro": "Hoteletân chetor ast?",
+    "lit": "hôtel-votre · comment · est"
+   },
+   {
+    "fr": "Il est très bien, merci.",
+    "tgt": "خیلی خوب است، ممنون.",
+    "ro": "Kheyli khub ast, mamnun.",
+    "lit": "très · bien · est · merci"
+   },
+   {
+    "fr": "Et vous, comment allez-vous aujourd'hui ?",
+    "tgt": "شما امروز حالتان چطور است؟",
+    "ro": "Shomâ emruz hâletân chetor ast?",
+    "lit": "vous · aujourd'hui · état-votre · comment · est"
+   },
+   {
+    "fr": "La deuxième rue, à droite.",
+    "tgt": "خیابان دوم، دست راست.",
+    "ro": "Khiyâbân-e dovvom, dast-e râst.",
+    "lit": "rue · [de] · deuxième · main · [de] · droite"
+   },
+   {
+    "fr": "Le bazar est juste derrière la place.",
+    "tgt": "بازار درست پشت میدان است.",
+    "ro": "Bâzâr dorost posht-e meydân ast.",
+    "lit": "bazar · juste · derrière · [de] · place · est"
+   },
+   {
+    "fr": "Et comment je vais au terminal de bus ?",
+    "tgt": "و چطور به ترمینال اتوبوس بروم؟",
+    "ro": "Va chetor be terminâl-e otobus beravam?",
+    "lit": "et · comment · [à] · terminal · [de] · bus · que-j'aille"
+   },
+   {
+    "fr": "Merci, c'est très gentil de votre part.",
+    "tgt": "خیلی لطف دارید.",
+    "ro": "Kheyli lotf dârid.",
+    "lit": "beaucoup · gentillesse · avez"
+   }
+  ]
+ },
+ "0-1-12": {
+  "module": "En voyage",
+  "title": "Le kebab et le riz au safran",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ça sent bon le kebab ici.",
+    "tgt": "اینجا بوی کباب می‌آید.",
+    "ro": "Injâ bu-ye kabâb miâyad.",
+    "lit": "ici · odeur · [de] · kebab · vient"
+   },
+   {
+    "fr": "Je voudrais un chelow kebab.",
+    "tgt": "یک چلوکباب می‌خواهم.",
+    "ro": "Yek chelokabâb mikhâham.",
+    "lit": "un · chelow-kebab · veux"
+   },
+   {
+    "fr": "Le riz au safran est très bon.",
+    "tgt": "برنج زعفرانی خیلی خوشمزه است.",
+    "ro": "Berenj-e za'farâni kheyli khoshmaze ast.",
+    "lit": "riz · [de] · safrané · très · délicieux · est"
+   },
+   {
+    "fr": "Avec une tomate grillée, s'il vous plaît.",
+    "tgt": "با گوجه کبابی، لطفا.",
+    "ro": "Bâ goje-ye kabâbi, lotfan.",
+    "lit": "avec · tomate · [de] · grillée · s'il-vous-plaît"
+   },
+   {
+    "fr": "Le kebab koobideh est tendre.",
+    "tgt": "کباب کوبیده نرم است.",
+    "ro": "Kabâb-e kubide narm ast.",
+    "lit": "kebab · [de] · haché · tendre · est"
+   },
+   {
+    "fr": "Vous avez aussi du yaourt ?",
+    "tgt": "ماست هم دارید؟",
+    "ro": "Mâst ham dârid?",
+    "lit": "yaourt · aussi · avez"
+   },
+   {
+    "fr": "Le safran d'ici est très célèbre.",
+    "tgt": "زعفران ایران معروف است.",
+    "ro": "Za'farân-e Irân ma'ruf ast.",
+    "lit": "safran · [de] · Iran · célèbre · est"
+   },
+   {
+    "fr": "Je n'ai plus faim du tout.",
+    "tgt": "دیگر اصلا گرسنه نیستم.",
+    "ro": "Digar aslan gorosne nistam.",
+    "lit": "plus · du-tout · affamé · [ne… pas]-suis"
+   },
+   {
+    "fr": "C'était vraiment délicieux.",
+    "tgt": "واقعا خوشمزه بود.",
+    "ro": "Vâghe'an khoshmaze bud.",
+    "lit": "vraiment · délicieux · était"
+   },
+   {
+    "fr": "Vous prenez un thé après le repas ?",
+    "tgt": "بعد از غذا چای می‌خورید؟",
+    "ro": "Ba'd az ghazâ chây mikhorid?",
+    "lit": "après · de · repas · thé · prenez"
+   }
+  ]
+ },
+ "0-1-13": {
+  "module": "En voyage",
+  "title": "Au palais Chehel Sotoun",
+  "grammaire_de_la_lecon": "« Mitavânam » : pouvoir, je peux",
+  "phrases": [
+   {
+    "fr": "Je peux acheter deux billets ?",
+    "tgt": "می‌توانم دو بلیت بخرم؟",
+    "ro": "Mitavânam do belit bekharam?",
+    "lit": "peux · deux · billet · que-j'achète"
+   },
+   {
+    "fr": "Oui, vous pouvez payer ici.",
+    "tgt": "بله، می‌توانید اینجا پول بدهید.",
+    "ro": "Bale, mitavânid injâ pul bedahid.",
+    "lit": "oui · pouvez · ici · argent · que-vous-donniez"
+   },
+   {
+    "fr": "Est-ce que je peux prendre une photo du jardin ?",
+    "tgt": "می‌توانم از باغ عکس بگیرم؟",
+    "ro": "Mitavânam az bâgh aks begiram?",
+    "lit": "peux · de · jardin · photo · que-je-prenne"
+   },
+   {
+    "fr": "Oui, mais sans flash.",
+    "tgt": "بله، ولی بدون فلاش.",
+    "ro": "Bale, vali bedun-e felâsh.",
+    "lit": "oui · mais · sans · [de] · flash"
+   },
+   {
+    "fr": "Le palais a vingt colonnes en bois.",
+    "tgt": "کاخ بیست ستون چوبی دارد.",
+    "ro": "Kâkh bist sotun-e chubi dârad.",
+    "lit": "palais · vingt · colonne · [de] · en-bois · a"
+   },
+   {
+    "fr": "Avec leur reflet dans l'eau, on en voit quarante.",
+    "tgt": "با عکسشان در آب، چهل ستون می‌بینیم.",
+    "ro": "Bâ aksashân dar âb, chehel sotun mibinim.",
+    "lit": "avec · reflet-leur · dans · eau · quarante · colonne · voyons"
+   },
+   {
+    "fr": "Je ne peux pas voir les peintures.",
+    "tgt": "نمی‌توانم نقاشی‌ها را ببینم.",
+    "ro": "Nemitavânam naghghâshihâ râ bebinam.",
+    "lit": "[ne… pas]-peux · peintures · [objet] · que-je-voie"
+   },
+   {
+    "fr": "Vous pouvez avancer un peu.",
+    "tgt": "می‌توانید کمی جلوتر بروید.",
+    "ro": "Mitavânid kami jelotar beravid.",
+    "lit": "pouvez · un-peu · plus-avant · que-vous-alliez"
+   },
+   {
+    "fr": "Je peux m'asseoir dans le jardin ?",
+    "tgt": "می‌توانم در باغ بنشینم؟",
+    "ro": "Mitavânam dar bâgh beneshinam?",
+    "lit": "peux · dans · jardin · que-je-m'asseye"
+   },
+   {
+    "fr": "Bien sûr, le jardin est ouvert à tous.",
+    "tgt": "البته، باغ برای همه باز است.",
+    "ro": "Albatte, bâgh barâye hame bâz ast.",
+    "lit": "bien-sûr · jardin · pour · tous · ouvert · est"
+   }
+  ]
+ },
+ "0-1-14": {
+  "module": "En voyage",
+  "title": "Un petit souci de santé",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ce matin, je ne me sens pas bien.",
+    "tgt": "امروز صبح حالم خوب نیست.",
+    "ro": "Emruz sobh hâlam khub nist.",
+    "lit": "aujourd'hui · matin · état-mon · bien · [ne… pas]-est"
+   },
+   {
+    "fr": "J'ai mal au ventre depuis hier soir.",
+    "tgt": "از دیشب دلم درد می‌کند.",
+    "ro": "Az dishab delam dard mikonad.",
+    "lit": "depuis · hier-soir · ventre-mon · douleur · fait"
+   },
+   {
+    "fr": "Et j'ai aussi un peu de fièvre.",
+    "tgt": "و کمی هم تب دارم.",
+    "ro": "Va kami ham tab dâram.",
+    "lit": "et · un-peu · aussi · fièvre · ai"
+   },
+   {
+    "fr": "Il fait très chaud à Ispahan.",
+    "tgt": "هوای اصفهان خیلی گرم است.",
+    "ro": "Havâ-ye Esfahân kheyli garm ast.",
+    "lit": "air · [de] · Ispahan · très · chaud · est"
+   },
+   {
+    "fr": "Buvez beaucoup d'eau fraîche.",
+    "tgt": "زیاد آب خنک بخورید.",
+    "ro": "Ziyâd âb-e khonak bekhorid.",
+    "lit": "beaucoup · eau · [de] · fraîche · prenez"
+   },
+   {
+    "fr": "Avez-vous un médicament contre la fièvre ?",
+    "tgt": "داروی تب دارید؟",
+    "ro": "Dâru-ye tab dârid?",
+    "lit": "médicament · [de] · fièvre · avez"
+   },
+   {
+    "fr": "Prenez ce comprimé deux fois par jour.",
+    "tgt": "روزی دو بار این قرص را بخورید.",
+    "ro": "Ruzi do bâr in ghors râ bekhorid.",
+    "lit": "jour-[un] · deux · fois · ce · comprimé · [objet] · prenez"
+   },
+   {
+    "fr": "Je le prends avant ou après le repas ?",
+    "tgt": "قبل از غذا بخورم یا بعد از غذا؟",
+    "ro": "Ghabl az ghazâ bekhoram yâ ba'd az ghazâ?",
+    "lit": "avant · de · repas · que-je-prenne · ou · après · de · repas"
+   },
+   {
+    "fr": "Après le repas, avec de l'eau.",
+    "tgt": "بعد از غذا، با آب.",
+    "ro": "Ba'd az ghazâ, bâ âb.",
+    "lit": "après · de · repas · avec · eau"
+   },
+   {
+    "fr": "Reposez-vous bien à l'hôtel.",
+    "tgt": "در هتل خوب استراحت کنید.",
+    "ro": "Dar hotel khub esterâhat konid.",
+    "lit": "dans · hôtel · bien · repos · faites"
+   }
+  ]
+ },
+ "0-1-15": {
+  "module": "En voyage",
+  "title": "En bus, en train ou en taxi ?",
+  "grammaire_de_la_lecon": "« Bâ » + moyen de transport : en bus, en train, en taxi",
+  "phrases": [
+   {
+    "fr": "Nous allons à Kashan en bus.",
+    "tgt": "با اتوبوس به کاشان می‌رویم.",
+    "ro": "Bâ otobus be Kâshân miravim.",
+    "lit": "avec · bus · [à] · Kashan · allons"
+   },
+   {
+    "fr": "Le train pour Kashan part le matin.",
+    "tgt": "قطار کاشان صبح حرکت می‌کند.",
+    "ro": "Ghatâr-e Kâshân sobh harekat mikonad.",
+    "lit": "train · [de] · Kashan · matin · départ · fait"
+   },
+   {
+    "fr": "En train, c'est plus calme.",
+    "tgt": "با قطار آرام‌تر است.",
+    "ro": "Bâ ghatâr ârâmtar ast.",
+    "lit": "avec · train · plus-calme · est"
+   },
+   {
+    "fr": "Moi, je préfère le taxi.",
+    "tgt": "من تاکسی را ترجیح می‌دهم.",
+    "ro": "Man tâksi râ tarjih midaham.",
+    "lit": "moi · taxi · [objet] · préférence · donne"
+   },
+   {
+    "fr": "En taxi, c'est plus cher.",
+    "tgt": "با تاکسی گران‌تر است.",
+    "ro": "Bâ tâksi gerântar ast.",
+    "lit": "avec · taxi · plus-cher · est"
+   },
+   {
+    "fr": "Vous venez en voiture ?",
+    "tgt": "با ماشین می‌آیید؟",
+    "ro": "Bâ mâshin miâyid?",
+    "lit": "avec · voiture · venez"
+   },
+   {
+    "fr": "Non, nous venons à pied.",
+    "tgt": "نه، پیاده می‌آییم.",
+    "ro": "Na, piyâde miâyim.",
+    "lit": "non · à-pied · venons"
+   },
+   {
+    "fr": "À Ispahan, il y a aussi un métro.",
+    "tgt": "اصفهان مترو هم دارد.",
+    "ro": "Esfahân metro ham dârad.",
+    "lit": "Ispahan · métro · aussi · a"
+   },
+   {
+    "fr": "En métro, nous arrivons vite au centre-ville.",
+    "tgt": "با مترو زود به مرکز شهر می‌رسیم.",
+    "ro": "Bâ metro zud be markaz-e shahr miresim.",
+    "lit": "avec · métro · vite · [à] · centre · [de] · ville · arrivons"
+   },
+   {
+    "fr": "Ce soir, nous rentrons à l'hôtel à vélo.",
+    "tgt": "امشب با دوچرخه به هتل برمی‌گردیم.",
+    "ro": "Emshab bâ docharkhe be hotel barmigardim.",
+    "lit": "ce-soir · avec · vélo · [à] · hôtel · revenons"
+   }
+  ]
+ },
+ "0-1-16": {
+  "module": "En voyage",
+  "title": "Une excursion à Kashan",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Kashan est une ville au bord du désert.",
+    "tgt": "کاشان شهری کویری است.",
+    "ro": "Kâshân shahri kaviri ast.",
+    "lit": "Kashan · ville-[une] · désertique · est"
+   },
+   {
+    "fr": "Le jardin de Fin est très célèbre.",
+    "tgt": "باغ فین خیلی معروف است.",
+    "ro": "Bâgh-e Fin kheyli ma'ruf ast.",
+    "lit": "jardin · [de] · Fin · très · célèbre · est"
+   },
+   {
+    "fr": "Dans le jardin, l'eau coule partout.",
+    "tgt": "در باغ همه‌جا آب جاری است.",
+    "ro": "Dar bâgh hamejâ âb jâri ast.",
+    "lit": "dans · jardin · partout · eau · courante · est"
+   },
+   {
+    "fr": "Les maisons anciennes de Kashan sont splendides.",
+    "tgt": "خانه‌های قدیمی کاشان خیلی زیبا هستند.",
+    "ro": "Khânehâ-ye ghadimi-ye Kâshân kheyli zibâ hastand.",
+    "lit": "maisons · [de] · anciennes · [de] · Kashan · très · belles · sont"
+   },
+   {
+    "fr": "Kashan est connue pour son eau de rose.",
+    "tgt": "کاشان به گلاب معروف است.",
+    "ro": "Kâshân be golâb ma'ruf ast.",
+    "lit": "Kashan · [à] · eau-de-rose · célèbre · est"
+   },
+   {
+    "fr": "Je voudrais une petite bouteille d'eau de rose.",
+    "tgt": "یک شیشه گلاب کوچک می‌خواهم.",
+    "ro": "Yek shishe golâb-e kuchak mikhâham.",
+    "lit": "une · bouteille · eau-de-rose · [de] · petite · veux"
+   },
+   {
+    "fr": "Il fait chaud, mais l'air est sec.",
+    "tgt": "هوا گرم است، ولی خشک است.",
+    "ro": "Havâ garm ast, vali khoshk ast.",
+    "lit": "air · chaud · est · mais · sec · est"
+   },
+   {
+    "fr": "Le bazar de Kashan est couvert.",
+    "tgt": "بازار کاشان سرپوشیده است.",
+    "ro": "Bâzâr-e Kâshân sarpushide ast.",
+    "lit": "bazar · [de] · Kashan · couvert · est"
+   },
+   {
+    "fr": "En fin d'après-midi, nous rentrons à Ispahan.",
+    "tgt": "عصر به اصفهان برمی‌گردیم.",
+    "ro": "Asr be Esfahân barmigardim.",
+    "lit": "fin-d'après-midi · [à] · Ispahan · revenons"
+   },
+   {
+    "fr": "Kashan me plaît beaucoup.",
+    "tgt": "از کاشان خیلی خوشم می‌آید.",
+    "ro": "Az Kâshân kheyli khosham miâyad.",
+    "lit": "de · Kashan · beaucoup · plaisir-mon · vient"
+   }
+  ]
+ },
+ "0-1-17": {
+  "module": "En voyage",
+  "title": "Loin ou près ?",
+  "grammaire_de_la_lecon": "« Dur » et « nazdik » : loin et près",
+  "phrases": [
+   {
+    "fr": "Notre hôtel est tout près de la place.",
+    "tgt": "هتل ما خیلی نزدیک میدان است.",
+    "ro": "Hotel-e mâ kheyli nazdik-e meydân ast.",
+    "lit": "hôtel · [de] · nous · très · près · [de] · place · est"
+   },
+   {
+    "fr": "Le bazar est loin d'ici ?",
+    "tgt": "بازار از اینجا دور است؟",
+    "ro": "Bâzâr az injâ dur ast?",
+    "lit": "bazar · de · ici · loin · est"
+   },
+   {
+    "fr": "Non, ce n'est pas loin.",
+    "tgt": "نه، دور نیست.",
+    "ro": "Na, dur nist.",
+    "lit": "non · loin · [ne… pas]-est"
+   },
+   {
+    "fr": "C'est tout près, à cinq minutes.",
+    "tgt": "خیلی نزدیک است، پنج دقیقه.",
+    "ro": "Kheyli nazdik ast, panj daghighe.",
+    "lit": "très · près · est · cinq · minute"
+   },
+   {
+    "fr": "Kashan est loin d'Ispahan ?",
+    "tgt": "کاشان از اصفهان دور است؟",
+    "ro": "Kâshân az Esfahân dur ast?",
+    "lit": "Kashan · de · Ispahan · loin · est"
+   },
+   {
+    "fr": "Pas très loin, environ trois heures.",
+    "tgt": "خیلی دور نیست، حدود سه ساعت.",
+    "ro": "Kheyli dur nist, hodud-e se sâ'at.",
+    "lit": "très · loin · [ne… pas]-est · environ · [de] · trois · heure"
+   },
+   {
+    "fr": "Y a-t-il une boulangerie près de l'hôtel ?",
+    "tgt": "نزدیک هتل نانوایی هست؟",
+    "ro": "Nazdik-e hotel nânvâyi hast?",
+    "lit": "près · [de] · hôtel · boulangerie · il-y-a"
+   },
+   {
+    "fr": "Le désert est loin de la ville.",
+    "tgt": "کویر از شهر دور است.",
+    "ro": "Kavir az shahr dur ast.",
+    "lit": "désert · de · ville · loin · est"
+   },
+   {
+    "fr": "La gare ferroviaire est loin du centre-ville.",
+    "tgt": "ایستگاه قطار از مرکز شهر دور است.",
+    "ro": "Istgâh-e ghatâr az markaz-e shahr dur ast.",
+    "lit": "gare · [de] · train · de · centre · [de] · ville · loin · est"
+   },
+   {
+    "fr": "Avec le métro, rien n'est loin.",
+    "tgt": "با مترو هیچ‌جا دور نیست.",
+    "ro": "Bâ metro hichjâ dur nist.",
+    "lit": "avec · métro · nulle-part · loin · [ne… pas]-est"
+   }
+  ]
+ },
+ "0-1-18": {
+  "module": "En voyage",
+  "title": "Souvenirs du bazar",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Le bazar d'Ispahan est très ancien.",
+    "tgt": "بازار اصفهان خیلی قدیمی است.",
+    "ro": "Bâzâr-e Esfahân kheyli ghadimi ast.",
+    "lit": "bazar · [de] · Ispahan · très · ancien · est"
+   },
+   {
+    "fr": "Cet artisan grave le cuivre.",
+    "tgt": "این استاد روی مس قلم‌زنی می‌کند.",
+    "ro": "In ostâd ru-ye mes ghalamzani mikonad.",
+    "lit": "ce · maître · sur · [de] · cuivre · gravure · fait"
+   },
+   {
+    "fr": "Son atelier est petit mais charmant.",
+    "tgt": "کارگاهش کوچک ولی قشنگ است.",
+    "ro": "Kârgâhash kuchak vali ghashang ast.",
+    "lit": "atelier-son · petit · mais · joli · est"
+   },
+   {
+    "fr": "Ces miniatures sont faites à la main.",
+    "tgt": "این مینیاتورها کار دست است.",
+    "ro": "In miniyâtorhâ kâr-e dast ast.",
+    "lit": "ces · miniatures · travail · [de] · main · est"
+   },
+   {
+    "fr": "Je voudrais du gaz, le nougat d'Ispahan.",
+    "tgt": "گز اصفهان می‌خواهم.",
+    "ro": "Gaz-e Esfahân mikhâham.",
+    "lit": "gaz · [de] · Ispahan · veux"
+   },
+   {
+    "fr": "Vous pouvez l'emballer en cadeau ?",
+    "tgt": "می‌توانید کادو کنید؟",
+    "ro": "Mitavânid kâdo konid?",
+    "lit": "pouvez · cadeau · que-vous-fassiez"
+   },
+   {
+    "fr": "C'est pour ma mère, en France.",
+    "tgt": "برای مادرم در فرانسه است.",
+    "ro": "Barâye mâdaram dar Farânse ast.",
+    "lit": "pour · mère-ma · dans · France · est"
+   },
+   {
+    "fr": "Cette nappe imprimée à la main est très jolie.",
+    "tgt": "این رومیزی قلمکار خیلی قشنگ است.",
+    "ro": "In rumizi-ye ghalamkâr kheyli ghashang ast.",
+    "lit": "cette · nappe · [de] · imprimée-main · très · jolie · est"
+   },
+   {
+    "fr": "Je prends la nappe et deux boîtes de gaz.",
+    "tgt": "رومیزی و دو جعبه گز را می‌خرم.",
+    "ro": "Rumizi va do ja'be gaz râ mikharam.",
+    "lit": "nappe · et · deux · boîte · gaz · [objet] · achète"
+   },
+   {
+    "fr": "Mon sac est plein de souvenirs.",
+    "tgt": "کیفم پر از سوغاتی است.",
+    "ro": "Kifam por az soghâti ast.",
+    "lit": "sac-mon · plein · de · souvenir · est"
+   }
+  ]
+ },
+ "0-1-19": {
+  "module": "En voyage",
+  "title": "Fin du module : un bilan du voyage",
+  "grammaire_de_la_lecon": "Les nombres au-delà de dix : « bist », « sad », « hezâr »",
+  "phrases": [
+   {
+    "fr": "Ce module compte vingt leçons.",
+    "tgt": "این بخش بیست درس دارد.",
+    "ro": "In bakhsh bist dars dârad.",
+    "lit": "cette · partie · vingt · leçon · a"
+   },
+   {
+    "fr": "Et deux cents phrases en persan !",
+    "tgt": "و دویست جمله به فارسی!",
+    "ro": "Va devist jomle be fârsi!",
+    "lit": "et · deux-cents · phrase · [à] · persan"
+   },
+   {
+    "fr": "Maintenant, je connais cent mots de persan.",
+    "tgt": "حالا صد کلمه فارسی بلدم.",
+    "ro": "Hâlâ sad kalame-ye fârsi baladam.",
+    "lit": "maintenant · cent · mot · [de] · persan · sais"
+   },
+   {
+    "fr": "Je sais demander un prix en tomans.",
+    "tgt": "می‌توانم قیمت را به تومان بپرسم.",
+    "ro": "Mitavânam gheymat râ be tomân beporsam.",
+    "lit": "peux · prix · [objet] · [à] · toman · que-je-demande"
+   },
+   {
+    "fr": "Le billet pour Kashan coûte trois cent mille tomans.",
+    "tgt": "بلیت کاشان سیصد هزار تومان است.",
+    "ro": "Belit-e Kâshân sisad hezâr tomân ast.",
+    "lit": "billet · [de] · Kashan · trois-cents · mille · toman · est"
+   },
+   {
+    "fr": "Le pont Si-o-se Pol a plus de quatre cents ans.",
+    "tgt": "سی‌وسه‌پل بیش از چهارصد سال دارد.",
+    "ro": "Si-o-se pol bish az chahârsad sâl dârad.",
+    "lit": "Si-o-se-Pol · plus · de · quatre-cents · an · a"
+   },
+   {
+    "fr": "Un déjeuner au restaurant coûte environ cinq cent mille tomans.",
+    "tgt": "ناهار در رستوران حدود پانصد هزار تومان است.",
+    "ro": "Nâhâr dar resturân hodud-e pânsad hezâr tomân ast.",
+    "lit": "déjeuner · dans · restaurant · environ · [de] · cinq-cents · mille · toman · est"
+   },
+   {
+    "fr": "Vingt, trente, quarante, cinquante !",
+    "tgt": "بیست، سی، چهل، پنجاه!",
+    "ro": "Bist, si, chehel, panjâh!",
+    "lit": "vingt · trente · quarante · cinquante"
+   },
+   {
+    "fr": "Le persan devient plus facile chaque jour.",
+    "tgt": "فارسی هر روز آسان‌تر می‌شود.",
+    "ro": "Fârsi har ruz âsântar mishavad.",
+    "lit": "persan · chaque · jour · plus-facile · devient"
+   },
+   {
+    "fr": "Au revoir, et à bientôt pour le module suivant !",
+    "tgt": "تا بخش بعدی، خداحافظ!",
+    "ro": "Tâ bakhsh-e ba'di, khodâhâfez!",
+    "lit": "jusqu'à · partie · [de] · suivante · au-revoir"
+   }
+  ]
+ },
+ "0-2-0": {
+  "module": "Conversation sociale",
+  "title": "Une invitation à la maison",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Salut Maryam, merci pour l'invitation !",
+    "tgt": "سلام مریم، مرسی بابت دعوت!",
+    "ro": "Salâm Maryam, mersi bâbat-e da'vat!",
+    "lit": "salut · Maryam · merci · pour · [de] · invitation"
+   },
+   {
+    "fr": "Bienvenue, entre donc !",
+    "tgt": "خوش اومدی، بیا تو!",
+    "ro": "Khosh umadi, biyâ tu!",
+    "lit": "bien · tu es venu · viens · dedans"
+   },
+   {
+    "fr": "Ta maison est vraiment belle.",
+    "tgt": "خونه‌ت خیلی قشنگه.",
+    "ro": "Khunat kheyli ghashange.",
+    "lit": "maison-ta · très · belle-est"
+   },
+   {
+    "fr": "Ces fleurs sont pour ta mère.",
+    "tgt": "این گل‌ها برای مادرته.",
+    "ro": "In golhâ barâye mâdarete.",
+    "lit": "ces · fleurs · pour · mère-ta-est"
+   },
+   {
+    "fr": "Tout le monde est dans le salon.",
+    "tgt": "همه تو سالن هستن.",
+    "ro": "Hame tu sâlon hastan.",
+    "lit": "tous · dans · salon · sont"
+   },
+   {
+    "fr": "Assieds-toi, je t'en prie.",
+    "tgt": "بشین، خواهش می‌کنم.",
+    "ro": "Beshin, khâhesh mikonam.",
+    "lit": "assieds-toi · prière · je fais"
+   },
+   {
+    "fr": "Tu veux un thé ?",
+    "tgt": "چای می‌خوای؟",
+    "ro": "Châi mikhâi?",
+    "lit": "thé · tu veux"
+   },
+   {
+    "fr": "Oui, avec grand plaisir.",
+    "tgt": "آره، با کمال میل.",
+    "ro": "Âre, bâ kamâl-e meyl.",
+    "lit": "oui · avec · perfection · [de] · envie"
+   },
+   {
+    "fr": "Il fait chaud à Chiraz aujourd'hui.",
+    "tgt": "امروز هوای شیراز گرمه.",
+    "ro": "Emruz havâ-ye Shirâz garme.",
+    "lit": "aujourd'hui · air · [de] · Chiraz · chaud-est"
+   },
+   {
+    "fr": "Je suis très heureux d'être ici.",
+    "tgt": "خیلی خوشحالم که اینجام.",
+    "ro": "Kheyli khoshhâlam ke injâm.",
+    "lit": "très · heureux-suis · que · ici-suis"
+   }
+  ]
+ },
+ "0-2-1": {
+  "module": "Conversation sociale",
+  "title": "Se présenter",
+  "grammaire_de_la_lecon": "Se présenter : « esm-e man... e » et « esmetun chie ? »",
+  "phrases": [
+   {
+    "fr": "Comment tu t'appelles ?",
+    "tgt": "اسمت چیه؟",
+    "ro": "Esmet chie?",
+    "lit": "nom-ton · quoi-est"
+   },
+   {
+    "fr": "Je m'appelle Marc.",
+    "tgt": "اسم من مارکه.",
+    "ro": "Esm-e man Mârk-e.",
+    "lit": "nom · [de] · moi · Marc-est"
+   },
+   {
+    "fr": "Et vous, quel est votre nom ?",
+    "tgt": "شما چی؟ اسمتون چیه؟",
+    "ro": "Shomâ chi? Esmetun chie?",
+    "lit": "vous · quoi · nom-votre · quoi-est"
+   },
+   {
+    "fr": "Je m'appelle Dariush, je suis le père de Maryam.",
+    "tgt": "اسم من داریوشه، پدر مریمم.",
+    "ro": "Esm-e man Dâriush-e, pedar-e Maryamam.",
+    "lit": "nom · [de] · moi · Dariush-est · père · [de] · Maryam-suis"
+   },
+   {
+    "fr": "Très heureux de vous connaître.",
+    "tgt": "از آشنایی‌تون خوشوقتم.",
+    "ro": "Az âshnâyitun khoshvaghtam.",
+    "lit": "de · connaissance-votre · enchanté-suis"
+   },
+   {
+    "fr": "Moi de même.",
+    "tgt": "منم همین‌طور.",
+    "ro": "Manam hamintor.",
+    "lit": "moi-aussi · de même"
+   },
+   {
+    "fr": "Mon nom de famille, c'est Dupont.",
+    "tgt": "فامیلی من دوپونه.",
+    "ro": "Fâmili-ye man Dupon-e.",
+    "lit": "nom de famille · [de] · moi · Dupont-est"
+   },
+   {
+    "fr": "Comment s'appelle ta sœur ?",
+    "tgt": "اسم خواهرت چیه؟",
+    "ro": "Esm-e khâharet chie?",
+    "lit": "nom · [de] · sœur-ta · quoi-est"
+   },
+   {
+    "fr": "Elle s'appelle Shirin.",
+    "tgt": "اسمش شیرینه.",
+    "ro": "Esmesh Shirin-e.",
+    "lit": "nom-son · Shirin-est"
+   },
+   {
+    "fr": "Shirin, c'est un très joli prénom.",
+    "tgt": "شیرین اسم خیلی قشنگیه.",
+    "ro": "Shirin esm-e kheyli ghashangie.",
+    "lit": "Shirin · nom · [de] · très · joli-un-est"
+   }
+  ]
+ },
+ "0-2-2": {
+  "module": "Conversation sociale",
+  "title": "Parler de soi et de la France",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Et toi, tu es originaire d'où ?",
+    "tgt": "اهل کجایی؟",
+    "ro": "Ahl-e kojâi?",
+    "lit": "originaire · [de] · où-es-tu"
+   },
+   {
+    "fr": "Je suis français, originaire de Lyon.",
+    "tgt": "فرانسوی‌ام، اهل لیون.",
+    "ro": "Farânsavi-am, ahl-e Liyon.",
+    "lit": "français-suis · originaire · [de] · Lyon"
+   },
+   {
+    "fr": "Lyon, c'est une grande ville ?",
+    "tgt": "لیون شهر بزرگیه؟",
+    "ro": "Liyon shahr-e bozorgie?",
+    "lit": "Lyon · ville · [de] · grande-une-est"
+   },
+   {
+    "fr": "Oui, et on y mange très bien.",
+    "tgt": "آره، غذاش هم خیلی خوبه.",
+    "ro": "Âre, ghazâsh ham kheyli khube.",
+    "lit": "oui · nourriture-sa · aussi · très · bonne-est"
+   },
+   {
+    "fr": "Tu habites à Paris maintenant ?",
+    "tgt": "الان پاریس زندگی می‌کنی؟",
+    "ro": "Alân Pâris zendegi mikoni?",
+    "lit": "maintenant · Paris · vie · tu fais"
+   },
+   {
+    "fr": "Non, j'habite toujours à Lyon.",
+    "tgt": "نه، هنوز لیون زندگی می‌کنم.",
+    "ro": "Na, hanuz Liyon zendegi mikonam.",
+    "lit": "non · encore · Lyon · vie · je fais"
+   },
+   {
+    "fr": "La France est très loin d'ici.",
+    "tgt": "فرانسه از اینجا خیلی دوره.",
+    "ro": "Farânse az injâ kheyli dure.",
+    "lit": "France · de · ici · très · loin-est"
+   },
+   {
+    "fr": "C'est ton premier voyage en Iran ?",
+    "tgt": "اولین سفرت به ایرانه؟",
+    "ro": "Avvalin safaret be Irân-e?",
+    "lit": "premier · voyage-ton · [à] · Iran-est"
+   },
+   {
+    "fr": "Oui, et j'adore déjà Chiraz.",
+    "tgt": "آره، از الان عاشق شیرازم.",
+    "ro": "Âre, az alân âshegh-e Shirâzam.",
+    "lit": "oui · dès · maintenant · amoureux · [de] · Chiraz-suis"
+   },
+   {
+    "fr": "Je parle un petit peu persan.",
+    "tgt": "یه کم فارسی حرف می‌زنم.",
+    "ro": "Ye kam fârsi harf mizanam.",
+    "lit": "un · peu · persan · parole · je frappe"
+   }
+  ]
+ },
+ "0-2-3": {
+  "module": "Conversation sociale",
+  "title": "Parler de ses loisirs",
+  "grammaire_de_la_lecon": "« Dust dâram » : aimer",
+  "phrases": [
+   {
+    "fr": "Qu'est-ce que tu aimes, toi ?",
+    "tgt": "تو چی دوست داری؟",
+    "ro": "To chi dust dâri?",
+    "lit": "toi · quoi · ami · tu as"
+   },
+   {
+    "fr": "J'aime la musique et la lecture.",
+    "tgt": "موسیقی و کتاب خوندن رو دوست دارم.",
+    "ro": "Musighi o ketâb khundan ro dust dâram.",
+    "lit": "musique · et · livre · lire · [objet] · ami · j'ai"
+   },
+   {
+    "fr": "Tu aimes le football ?",
+    "tgt": "فوتبال دوست داری؟",
+    "ro": "Futbâl dust dâri?",
+    "lit": "football · ami · tu as"
+   },
+   {
+    "fr": "Pas trop, je préfère la marche.",
+    "tgt": "نه زیاد، پیاده‌روی رو بیشتر دوست دارم.",
+    "ro": "Na ziyâd, piyâderavi ro bishtar dust dâram.",
+    "lit": "non · beaucoup · marche · [objet] · plus · ami · j'ai"
+   },
+   {
+    "fr": "Mon frère adore la natation.",
+    "tgt": "برادرم شنا رو خیلی دوست داره.",
+    "ro": "Barâdaram shenâ ro kheyli dust dâre.",
+    "lit": "frère-mon · natation · [objet] · très · ami · a"
+   },
+   {
+    "fr": "Je n'aime pas la télévision.",
+    "tgt": "تلویزیون رو دوست ندارم.",
+    "ro": "Televiziyon ro dust nadâram.",
+    "lit": "télévision · [objet] · ami · [ne… pas]-j'ai"
+   },
+   {
+    "fr": "Le vendredi, je me balade à vélo.",
+    "tgt": "جمعه‌ها دوچرخه‌سواری می‌کنم.",
+    "ro": "Jom'ehâ docharkhesavâri mikonam.",
+    "lit": "vendredis · vélo · je fais"
+   },
+   {
+    "fr": "Tu aimes la cuisine iranienne ?",
+    "tgt": "غذای ایرانی دوست داری؟",
+    "ro": "Ghazâ-ye irâni dust dâri?",
+    "lit": "nourriture · [de] · iranienne · ami · tu as"
+   },
+   {
+    "fr": "Oui, j'aime beaucoup le kebab.",
+    "tgt": "آره، کباب رو خیلی دوست دارم.",
+    "ro": "Âre, kabâb ro kheyli dust dâram.",
+    "lit": "oui · kebab · [objet] · très · ami · j'ai"
+   },
+   {
+    "fr": "Nous aimons tous les deux la photographie.",
+    "tgt": "هر دوتامون عکاسی رو دوست داریم.",
+    "ro": "Har dotâmun akkâsi ro dust dârim.",
+    "lit": "chaque · deux-de-nous · photographie · [objet] · ami · nous avons"
+   }
+  ]
+ },
+ "0-2-4": {
+  "module": "Conversation sociale",
+  "title": "Le travail et les études",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Quel est ton métier, au fait ?",
+    "tgt": "چی‌کاره‌ای؟",
+    "ro": "Chikâre-i?",
+    "lit": "quel-métier-es-tu"
+   },
+   {
+    "fr": "Moi, je suis prof de français.",
+    "tgt": "معلم فرانسه‌ام.",
+    "ro": "Mo'allem-e farânse-am.",
+    "lit": "professeur · [de] · français-suis"
+   },
+   {
+    "fr": "Et toi, tu travailles ?",
+    "tgt": "تو چی؟ کار می‌کنی؟",
+    "ro": "To chi? Kâr mikoni?",
+    "lit": "toi · quoi · travail · tu fais"
+   },
+   {
+    "fr": "Non, je suis encore étudiante.",
+    "tgt": "نه، هنوز دانشجوام.",
+    "ro": "Na, hanuz dâneshju-am.",
+    "lit": "non · encore · étudiante-suis"
+   },
+   {
+    "fr": "J'étudie l'architecture à Chiraz.",
+    "tgt": "تو شیراز معماری می‌خونم.",
+    "ro": "Tu Shirâz me'mâri mikhunam.",
+    "lit": "dans · Chiraz · architecture · je lis"
+   },
+   {
+    "fr": "C'est un métier passionnant.",
+    "tgt": "شغل جالبیه.",
+    "ro": "Shoghl-e jâlebie.",
+    "lit": "métier · [de] · intéressant-un-est"
+   },
+   {
+    "fr": "Mon bureau est près de la maison.",
+    "tgt": "دفترم نزدیک خونه‌ست.",
+    "ro": "Daftaram nazdik-e khunast.",
+    "lit": "bureau-mon · près · [de] · maison-est"
+   },
+   {
+    "fr": "Tu travailles le jeudi ?",
+    "tgt": "پنجشنبه‌ها کار می‌کنی؟",
+    "ro": "Panjshanbehâ kâr mikoni?",
+    "lit": "jeudis · travail · tu fais"
+   },
+   {
+    "fr": "Seulement le matin.",
+    "tgt": "فقط صبح‌ها.",
+    "ro": "Faghat sobhhâ.",
+    "lit": "seulement · matins"
+   },
+   {
+    "fr": "J'aime beaucoup mon travail.",
+    "tgt": "کارم رو خیلی دوست دارم.",
+    "ro": "Kâram ro kheyli dust dâram.",
+    "lit": "travail-mon · [objet] · très · ami · j'ai"
+   }
+  ]
+ },
+ "0-2-5": {
+  "module": "Conversation sociale",
+  "title": "Parler de sa famille",
+  "grammaire_de_la_lecon": "La famille : « pedar », « mâdar », « barâdar », « khâhar »",
+  "phrases": [
+   {
+    "fr": "Voici mon père et ma mère.",
+    "tgt": "اینا پدر و مادرم هستن.",
+    "ro": "Inâ pedar o mâdaram hastan.",
+    "lit": "ceux-ci · père · et · mère-ma · sont"
+   },
+   {
+    "fr": "Tu as des frères et sœurs ?",
+    "tgt": "خواهر و برادر داری؟",
+    "ro": "Khâhar o barâdar dâri?",
+    "lit": "sœur · et · frère · tu as"
+   },
+   {
+    "fr": "J'ai un frère, et aussi une sœur.",
+    "tgt": "یه برادر و یه خواهر دارم.",
+    "ro": "Ye barâdar o ye khâhar dâram.",
+    "lit": "un · frère · et · une · sœur · j'ai"
+   },
+   {
+    "fr": "Mon frère habite à Téhéran.",
+    "tgt": "برادرم تهران زندگی می‌کنه.",
+    "ro": "Barâdaram Tehrân zendegi mikone.",
+    "lit": "frère-mon · Téhéran · vie · fait"
+   },
+   {
+    "fr": "Ma sœur a dix-neuf ans.",
+    "tgt": "خواهرم نوزده سالشه.",
+    "ro": "Khâharam nuzdah sâleshe.",
+    "lit": "sœur-ma · dix-neuf · an-son-est"
+   },
+   {
+    "fr": "Ta mère est très gentille.",
+    "tgt": "مادرت خیلی مهربونه.",
+    "ro": "Mâdaret kheyli mehrabune.",
+    "lit": "mère-ta · très · gentille-est"
+   },
+   {
+    "fr": "Mon père, lui, est médecin.",
+    "tgt": "پدرم دکتره.",
+    "ro": "Pedaram doktore.",
+    "lit": "père-mon · médecin-est"
+   },
+   {
+    "fr": "Tes parents habitent à Lyon ?",
+    "tgt": "پدر و مادرت لیون زندگی می‌کنن؟",
+    "ro": "Pedar o mâdaret Liyon zendegi mikonan?",
+    "lit": "père · et · mère-ta · Lyon · vie · font"
+   },
+   {
+    "fr": "Oui, avec ma grand-mère.",
+    "tgt": "آره، با مادربزرگم.",
+    "ro": "Âre, bâ mâdarbozorgam.",
+    "lit": "oui · avec · grand-mère-ma"
+   },
+   {
+    "fr": "Ma famille n'est pas très grande.",
+    "tgt": "خانواده‌م خیلی بزرگ نیست.",
+    "ro": "Khânevâdam kheyli bozorg nist.",
+    "lit": "famille-ma · très · grande · n'est pas"
+   }
+  ]
+ },
+ "0-2-6": {
+  "module": "Conversation sociale",
+  "title": "Visiter la maison",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Elle est où, ta chambre ?",
+    "tgt": "اتاقت کجاست؟",
+    "ro": "Otâghet kojâst?",
+    "lit": "chambre-ta · où-est"
+   },
+   {
+    "fr": "En haut, à côté de la cuisine.",
+    "tgt": "بالاست، کنار آشپزخونه.",
+    "ro": "Bâlâst, kenâr-e âshpazkhune.",
+    "lit": "en haut-est · à côté · [de] · cuisine"
+   },
+   {
+    "fr": "La maison a une petite cour.",
+    "tgt": "خونه یه حیاط کوچیک داره.",
+    "ro": "Khune ye hayât-e kuchik dâre.",
+    "lit": "maison · une · cour · [de] · petite · a"
+   },
+   {
+    "fr": "Il y a un bassin au milieu de la cour.",
+    "tgt": "وسط حیاط یه حوض هست.",
+    "ro": "Vasat-e hayât ye hoz hast.",
+    "lit": "milieu · [de] · cour · un · bassin · il y a"
+   },
+   {
+    "fr": "J'aime beaucoup ces tapis.",
+    "tgt": "این فرش‌ها رو خیلی دوست دارم.",
+    "ro": "In farshhâ ro kheyli dust dâram.",
+    "lit": "ces · tapis · [objet] · très · ami · j'ai"
+   },
+   {
+    "fr": "Ce tapis vient de Chiraz ?",
+    "tgt": "این فرش مال شیرازه؟",
+    "ro": "In farsh mâl-e Shirâz-e?",
+    "lit": "ce · tapis · propriété · [de] · Chiraz-est"
+   },
+   {
+    "fr": "Oui, il est à ma grand-mère.",
+    "tgt": "آره، مال مادربزرگمه.",
+    "ro": "Âre, mâl-e mâdarbozorgame.",
+    "lit": "oui · propriété · [de] · grand-mère-ma-est"
+   },
+   {
+    "fr": "Le salon est très lumineux.",
+    "tgt": "سالن خیلی روشنه.",
+    "ro": "Sâlon kheyli roshane.",
+    "lit": "salon · très · lumineux-est"
+   },
+   {
+    "fr": "On s'assoit par terre ou sur le canapé ?",
+    "tgt": "رو زمین می‌شینیم یا رو مبل؟",
+    "ro": "Ru zamin mishinim yâ ru mobl?",
+    "lit": "sur · sol · nous nous asseyons · ou · sur · canapé"
+   },
+   {
+    "fr": "Ici, tu es comme chez toi.",
+    "tgt": "اینجا مثل خونه‌ی خودته.",
+    "ro": "Injâ mesl-e khune-ye khodete.",
+    "lit": "ici · comme · maison · [de] · toi-même-est"
+   }
+  ]
+ },
+ "0-2-7": {
+  "module": "Conversation sociale",
+  "title": "Qu'est-ce que tu fais en ce moment ?",
+  "grammaire_de_la_lecon": "« Dâram mikhoram » : être en train de",
+  "phrases": [
+   {
+    "fr": "Tu es en train de faire quoi ?",
+    "tgt": "داری چی کار می‌کنی؟",
+    "ro": "Dâri chi kâr mikoni?",
+    "lit": "tu as · quoi · travail · tu fais"
+   },
+   {
+    "fr": "Je suis en train de préparer le thé.",
+    "tgt": "دارم چای درست می‌کنم.",
+    "ro": "Dâram châi dorost mikonam.",
+    "lit": "j'ai · thé · prêt · je fais"
+   },
+   {
+    "fr": "Maman est en train de cuisiner.",
+    "tgt": "مامان داره غذا می‌پزه.",
+    "ro": "Mâmân dâre ghazâ mipaze.",
+    "lit": "maman · a · nourriture · cuit"
+   },
+   {
+    "fr": "Les enfants sont en train de jouer dans la cour.",
+    "tgt": "بچه‌ها دارن تو حیاط بازی می‌کنن.",
+    "ro": "Bachehâ dâran tu hayât bâzi mikonan.",
+    "lit": "enfants · ont · dans · cour · jeu · font"
+   },
+   {
+    "fr": "Mon père est en train de lire le journal.",
+    "tgt": "پدرم داره روزنامه می‌خونه.",
+    "ro": "Pedaram dâre ruznâme mikhune.",
+    "lit": "père-mon · a · journal · lit"
+   },
+   {
+    "fr": "Tu es en train de manger ?",
+    "tgt": "داری غذا می‌خوری؟",
+    "ro": "Dâri ghazâ mikhori?",
+    "lit": "tu as · nourriture · tu manges"
+   },
+   {
+    "fr": "Non, j'envoie un message à ma sœur.",
+    "tgt": "نه، دارم به خواهرم پیام می‌دم.",
+    "ro": "Na, dâram be khâharam payâm midam.",
+    "lit": "non · j'ai · [à] · sœur-ma · message · je donne"
+   },
+   {
+    "fr": "Regarde, il commence à pleuvoir.",
+    "tgt": "نگاه کن، داره بارون میاد.",
+    "ro": "Negâh kon, dâre bârun miyâd.",
+    "lit": "regard · fais · a · pluie · vient"
+   },
+   {
+    "fr": "Nous sommes en train d'écouter de la musique.",
+    "tgt": "داریم موسیقی گوش می‌دیم.",
+    "ro": "Dârim musighi gush midim.",
+    "lit": "nous avons · musique · oreille · nous donnons"
+   },
+   {
+    "fr": "J'arrive, je mets mes chaussures.",
+    "tgt": "دارم میام، دارم کفش می‌پوشم.",
+    "ro": "Dâram miyâm, dâram kafsh mipusham.",
+    "lit": "j'ai · je viens · j'ai · chaussure · je mets"
+   }
+  ]
+ },
+ "0-2-8": {
+  "module": "Conversation sociale",
+  "title": "Le thé et les douceurs",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Le thé est prêt !",
+    "tgt": "چای حاضره!",
+    "ro": "Châi hâzere!",
+    "lit": "thé · prêt-est"
+   },
+   {
+    "fr": "Tu prends du sucre ?",
+    "tgt": "شکر می‌خوای؟",
+    "ro": "Shekar mikhâi?",
+    "lit": "sucre · tu veux"
+   },
+   {
+    "fr": "Non merci, je veux du nabat.",
+    "tgt": "نه مرسی، نبات می‌خوام.",
+    "ro": "Na mersi, nabât mikhâm.",
+    "lit": "non · merci · sucre candi · je veux"
+   },
+   {
+    "fr": "Ce thé sent vraiment bon.",
+    "tgt": "این چای خیلی بوی خوبی داره.",
+    "ro": "In châi kheyli bu-ye khubi dâre.",
+    "lit": "ce · thé · très · odeur · [de] · bonne-une · a"
+   },
+   {
+    "fr": "Ta mère fait ces gâteaux elle-même ?",
+    "tgt": "مادرت این شیرینی‌ها رو خودش درست می‌کنه؟",
+    "ro": "Mâdaret in shirinihâ ro khodesh dorost mikone?",
+    "lit": "mère-ta · ces · gâteaux · [objet] · elle-même · prêt · fait"
+   },
+   {
+    "fr": "Goûte ce gâteau, il est délicieux.",
+    "tgt": "این شیرینی رو بخور، خیلی خوشمزه‌ست.",
+    "ro": "In shirini ro bokhor, kheyli khoshmazast.",
+    "lit": "ce · gâteau · [objet] · mange · très · délicieux-est"
+   },
+   {
+    "fr": "Encore un verre de thé ?",
+    "tgt": "یه چای دیگه؟",
+    "ro": "Ye châi-ye dige?",
+    "lit": "un · thé · [de] · autre"
+   },
+   {
+    "fr": "Merci, ça me suffit.",
+    "tgt": "مرسی، دیگه بسه.",
+    "ro": "Mersi, dige basse.",
+    "lit": "merci · désormais · suffisant-est"
+   },
+   {
+    "fr": "Les Iraniens boivent du thé toute la journée.",
+    "tgt": "ایرانی‌ها تمام روز چای می‌خورن.",
+    "ro": "Irânihâ tamâm-e ruz châi mikhoran.",
+    "lit": "Iraniens · toute · [de] · journée · thé · mangent"
+   },
+   {
+    "fr": "Chez nous, on boit plutôt du café.",
+    "tgt": "ما تو خونه بیشتر قهوه می‌خوریم.",
+    "ro": "Mâ tu khune bishtar ghahve mikhorim.",
+    "lit": "nous · dans · maison · plus · café · mangeons"
+   }
+  ]
+ },
+ "0-2-9": {
+  "module": "Conversation sociale",
+  "title": "Les jardins de Chiraz",
+  "grammaire_de_la_lecon": "Comparer avec « -tar » et « az »",
+  "phrases": [
+   {
+    "fr": "Le jardin d'Eram est magnifique.",
+    "tgt": "باغ ارم خیلی قشنگه.",
+    "ro": "Bâgh-e Eram kheyli ghashange.",
+    "lit": "jardin · [de] · Eram · très · beau-est"
+   },
+   {
+    "fr": "Il est plus grand que le jardin de Narenjestan.",
+    "tgt": "از باغ نارنجستان بزرگ‌تره.",
+    "ro": "Az bâgh-e Nârenjestân bozorgtare.",
+    "lit": "de · jardin · [de] · Narenjestan · grand-plus-est"
+   },
+   {
+    "fr": "Ce jardin est plus calme que la rue.",
+    "tgt": "این باغ از خیابون آروم‌تره.",
+    "ro": "In bâgh az khiyâbun ârumtare.",
+    "lit": "ce · jardin · de · rue · calme-plus-est"
+   },
+   {
+    "fr": "Ici, l'air est plus frais.",
+    "tgt": "اینجا هوا خنک‌تره.",
+    "ro": "Injâ havâ khonaktare.",
+    "lit": "ici · air · frais-plus-est"
+   },
+   {
+    "fr": "Les fleurs d'ici sentent meilleur que les nôtres.",
+    "tgt": "گل‌های اینجا از گل‌های ما خوشبوترن.",
+    "ro": "Golhâ-ye injâ az golhâ-ye mâ khoshbutaran.",
+    "lit": "fleurs · [de] · ici · de · fleurs · [de] · nous · parfumées-plus-sont"
+   },
+   {
+    "fr": "Ici, le printemps est plus beau que l'été.",
+    "tgt": "اینجا بهار از تابستون قشنگ‌تره.",
+    "ro": "Injâ bahâr az tâbestun ghashangtare.",
+    "lit": "ici · printemps · de · été · beau-plus-est"
+   },
+   {
+    "fr": "Ce cyprès est plus vieux que la maison.",
+    "tgt": "این سرو از خونه قدیمی‌تره.",
+    "ro": "In sarv az khune ghadimitare.",
+    "lit": "ce · cyprès · de · maison · vieux-plus-est"
+   },
+   {
+    "fr": "Mon jardin à Lyon est plus petit.",
+    "tgt": "باغچه‌ی من تو لیون کوچیک‌تره.",
+    "ro": "Bâghche-ye man tu Liyon kuchiktare.",
+    "lit": "jardinet · [de] · moi · dans · Lyon · petit-plus-est"
+   },
+   {
+    "fr": "À ton avis, quel jardin est le plus beau ?",
+    "tgt": "به نظرت کدوم باغ قشنگ‌تره؟",
+    "ro": "Be nazaret kodum bâgh ghashangtare?",
+    "lit": "[à] · avis-ton · quel · jardin · beau-plus-est"
+   },
+   {
+    "fr": "Pour moi, le jardin d'Eram est mieux.",
+    "tgt": "به نظر من باغ ارم بهتره.",
+    "ro": "Be nazar-e man bâgh-e Eram behtare.",
+    "lit": "[à] · avis · [de] · moi · jardin · [de] · Eram · meilleur-est"
+   }
+  ]
+ },
+ "0-2-10": {
+  "module": "Conversation sociale",
+  "title": "Parler du temps et des saisons",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Qu'il fait beau aujourd'hui !",
+    "tgt": "امروز هوا چه خوبه!",
+    "ro": "Emruz havâ che khube!",
+    "lit": "aujourd'hui · air · comme · bon-est"
+   },
+   {
+    "fr": "Au printemps, Chiraz sent la fleur d'oranger.",
+    "tgt": "بهار، شیراز بوی بهارنارنج می‌ده.",
+    "ro": "Bahâr, Shirâz bu-ye bahârnârenj mide.",
+    "lit": "printemps · Chiraz · odeur · [de] · fleur d'oranger · donne"
+   },
+   {
+    "fr": "En été, il fait très chaud ici.",
+    "tgt": "تابستون اینجا خیلی گرمه.",
+    "ro": "Tâbestun injâ kheyli garme.",
+    "lit": "été · ici · très · chaud-est"
+   },
+   {
+    "fr": "Est-ce qu'il neige à Chiraz en hiver ?",
+    "tgt": "زمستون تو شیراز برف میاد؟",
+    "ro": "Zemestun tu Shirâz barf miyâd?",
+    "lit": "hiver · dans · Chiraz · neige · vient"
+   },
+   {
+    "fr": "Très rarement, mais les nuits sont froides.",
+    "tgt": "خیلی کم، ولی شب‌ها سرده.",
+    "ro": "Kheyli kam, vali shabhâ sarde.",
+    "lit": "très · peu · mais · nuits · froid-est"
+   },
+   {
+    "fr": "À Lyon, il pleut souvent.",
+    "tgt": "لیون زیاد بارون میاد.",
+    "ro": "Liyon ziyâd bârun miyâd.",
+    "lit": "Lyon · beaucoup · pluie · vient"
+   },
+   {
+    "fr": "Quelle saison tu préfères ?",
+    "tgt": "کدوم فصل رو بیشتر دوست داری؟",
+    "ro": "Kodum fasl ro bishtar dust dâri?",
+    "lit": "quelle · saison · [objet] · plus · ami · tu as"
+   },
+   {
+    "fr": "Moi, je préfère l'automne.",
+    "tgt": "من پاییز رو بیشتر دوست دارم.",
+    "ro": "Man pâiz ro bishtar dust dâram.",
+    "lit": "moi · automne · [objet] · plus · ami · j'ai"
+   },
+   {
+    "fr": "Le ciel est tout bleu aujourd'hui.",
+    "tgt": "امروز آسمون خیلی آبیه.",
+    "ro": "Emruz âsemun kheyli âbie.",
+    "lit": "aujourd'hui · ciel · très · bleu-est"
+   },
+   {
+    "fr": "Le soir, il fait bon dans la cour.",
+    "tgt": "عصرها تو حیاط هوا خوبه.",
+    "ro": "Asrhâ tu hayât havâ khube.",
+    "lit": "soirs · dans · cour · air · bon-est"
+   }
+  ]
+ },
+ "0-2-11": {
+  "module": "Conversation sociale",
+  "title": "Les projets du week-end",
+  "grammaire_de_la_lecon": "« Chon » et « barâye hamin » : parce que, donc",
+  "phrases": [
+   {
+    "fr": "Qu'est-ce que tu fais vendredi ?",
+    "tgt": "جمعه چی کار می‌کنی؟",
+    "ro": "Jom'e chi kâr mikoni?",
+    "lit": "vendredi · quoi · travail · tu fais"
+   },
+   {
+    "fr": "Je vais à Persépolis avec mes amis.",
+    "tgt": "با دوستام می‌رم تخت جمشید.",
+    "ro": "Bâ dustâm miram Takht-e Jamshid.",
+    "lit": "avec · amis-mes · je vais · Persépolis"
+   },
+   {
+    "fr": "On part tôt, parce qu'il fait chaud.",
+    "tgt": "زود می‌ریم، چون هوا گرمه.",
+    "ro": "Zud mirim, chon havâ garme.",
+    "lit": "tôt · nous allons · parce que · air · chaud-est"
+   },
+   {
+    "fr": "Je reste à la maison, parce que je suis fatigué.",
+    "tgt": "خونه می‌مونم، چون خسته‌ام.",
+    "ro": "Khune mimunam, chon khaste-am.",
+    "lit": "maison · je reste · parce que · fatigué-suis"
+   },
+   {
+    "fr": "Mon frère vient, donc on prépare des kebabs.",
+    "tgt": "برادرم میاد، برای همین کباب درست می‌کنیم.",
+    "ro": "Barâdaram miyâd, barâye hamin kabâb dorost mikonim.",
+    "lit": "frère-mon · vient · pour · cela même · kebab · prêt · nous faisons"
+   },
+   {
+    "fr": "Pourquoi tu ne viens pas avec nous ?",
+    "tgt": "چرا با ما نمیای؟",
+    "ro": "Cherâ bâ mâ nemiyâi?",
+    "lit": "pourquoi · avec · nous · [ne… pas]-tu viens"
+   },
+   {
+    "fr": "Parce que j'ai du travail samedi.",
+    "tgt": "چون شنبه کار دارم.",
+    "ro": "Chon shanbe kâr dâram.",
+    "lit": "parce que · samedi · travail · j'ai"
+   },
+   {
+    "fr": "Il pleut, donc on reste à l'intérieur.",
+    "tgt": "بارون میاد، برای همین تو خونه می‌مونیم.",
+    "ro": "Bârun miyâd, barâye hamin tu khune mimunim.",
+    "lit": "pluie · vient · pour · cela même · dans · maison · nous restons"
+   },
+   {
+    "fr": "J'aime le vendredi, parce qu'on se repose.",
+    "tgt": "جمعه رو دوست دارم، چون استراحت می‌کنیم.",
+    "ro": "Jom'e ro dust dâram, chon esterâhat mikonim.",
+    "lit": "vendredi · [objet] · ami · j'ai · parce que · repos · nous faisons"
+   },
+   {
+    "fr": "Le jardin ferme tard, donc on a le temps.",
+    "tgt": "باغ دیر می‌بنده، برای همین وقت داریم.",
+    "ro": "Bâgh dir mibande, barâye hamin vaght dârim.",
+    "lit": "jardin · tard · ferme · pour · cela même · temps · nous avons"
+   }
+  ]
+ },
+ "0-2-12": {
+  "module": "Conversation sociale",
+  "title": "Parler de musique",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Tu joues d'un instrument ?",
+    "tgt": "سازی می‌زنی؟",
+    "ro": "Sâzi mizani?",
+    "lit": "instrument-un · tu frappes"
+   },
+   {
+    "fr": "Oui, je joue du setar.",
+    "tgt": "آره، سه‌تار می‌زنم.",
+    "ro": "Âre, setâr mizanam.",
+    "lit": "oui · setar · je frappe"
+   },
+   {
+    "fr": "Mon oncle joue du tar.",
+    "tgt": "دایی‌م تار می‌زنه.",
+    "ro": "Dâyim târ mizane.",
+    "lit": "oncle-mon · tar · frappe"
+   },
+   {
+    "fr": "J'adore la musique traditionnelle.",
+    "tgt": "موسیقی سنتی رو خیلی دوست دارم.",
+    "ro": "Musighi-ye sonnati ro kheyli dust dâram.",
+    "lit": "musique · [de] · traditionnelle · [objet] · très · ami · j'ai"
+   },
+   {
+    "fr": "Ce chanteur a une voix superbe.",
+    "tgt": "این خواننده صدای خیلی قشنگی داره.",
+    "ro": "In khânande sedâ-ye kheyli ghashangi dâre.",
+    "lit": "ce · chanteur · voix · [de] · très · belle-une · a"
+   },
+   {
+    "fr": "Tu écoutes quoi, d'habitude ?",
+    "tgt": "معمولا چی گوش می‌دی؟",
+    "ro": "Ma'mulan chi gush midi?",
+    "lit": "d'habitude · quoi · oreille · tu donnes"
+   },
+   {
+    "fr": "J'écoute de la musique française.",
+    "tgt": "موسیقی فرانسوی گوش می‌دم.",
+    "ro": "Musighi-ye farânsavi gush midam.",
+    "lit": "musique · [de] · française · oreille · je donne"
+   },
+   {
+    "fr": "Tu nous joues un morceau ?",
+    "tgt": "یه آهنگ برامون می‌زنی؟",
+    "ro": "Ye âhang barâmun mizani?",
+    "lit": "un · morceau · pour-nous · tu frappes"
+   },
+   {
+    "fr": "Volontiers, mais je ne joue pas très bien.",
+    "tgt": "با کمال میل، ولی خیلی خوب نمی‌زنم.",
+    "ro": "Bâ kamâl-e meyl, vali kheyli khub nemizanam.",
+    "lit": "avec · perfection · [de] · envie · mais · très · bien · [ne… pas]-je frappe"
+   },
+   {
+    "fr": "Ici, la musique et la poésie vont toujours ensemble.",
+    "tgt": "اینجا موسیقی و شعر همیشه با هم‌ان.",
+    "ro": "Injâ musighi o she'r hamishe bâ ham-an.",
+    "lit": "ici · musique · et · poésie · toujours · avec · ensemble-sont"
+   }
+  ]
+ },
+ "0-2-13": {
+  "module": "Conversation sociale",
+  "title": "Le dîner en famille",
+  "grammaire_de_la_lecon": "Le pluriel : « -hâ » et « -ân »",
+  "phrases": [
+   {
+    "fr": "Le dîner est prêt !",
+    "tgt": "شام حاضره!",
+    "ro": "Shâm hâzere!",
+    "lit": "dîner · prêt-est"
+   },
+   {
+    "fr": "Mesdames et messieurs, à table !",
+    "tgt": "خانم‌ها و آقایان، بفرمایید شام!",
+    "ro": "Khânomhâ va âghâyân, befarmâyid shâm!",
+    "lit": "dames · et · messieurs · je vous en prie · dîner"
+   },
+   {
+    "fr": "Les enfants, venez dîner !",
+    "tgt": "بچه‌ها، بیاین شام!",
+    "ro": "Bachehâ, biyâin shâm!",
+    "lit": "enfants · venez · dîner"
+   },
+   {
+    "fr": "Les assiettes sont sur la nappe.",
+    "tgt": "بشقاب‌ها رو سفره‌ان.",
+    "ro": "Boshghâbhâ ru sofre-an.",
+    "lit": "assiettes · sur · nappe-sont"
+   },
+   {
+    "fr": "On a du riz aux baies d'épine-vinette avec du poulet.",
+    "tgt": "زرشک‌پلو با مرغ داریم.",
+    "ro": "Zereshkpolo bâ morgh dârim.",
+    "lit": "riz-épine-vinette · avec · poulet · nous avons"
+   },
+   {
+    "fr": "Les invités sont dans le salon.",
+    "tgt": "مهمون‌ها تو سالنن.",
+    "ro": "Mehmunhâ tu sâlonan.",
+    "lit": "invités · dans · salon-sont"
+   },
+   {
+    "fr": "Ces plats sont délicieux.",
+    "tgt": "این غذاها خیلی خوشمزه‌ان.",
+    "ro": "In ghazâhâ kheyli khoshmaze-an.",
+    "lit": "ces · plats · très · délicieux-sont"
+   },
+   {
+    "fr": "Les arbres du jardin sont très vieux.",
+    "tgt": "درختان باغ خیلی قدیمی‌ان.",
+    "ro": "Derakhtân-e bâgh kheyli ghadimi-an.",
+    "lit": "arbres · [de] · jardin · très · vieux-sont"
+   },
+   {
+    "fr": "Chers amis, soyez les bienvenus !",
+    "tgt": "دوستان عزیز، خوش اومدین!",
+    "ro": "Dustân-e aziz, khosh umadin!",
+    "lit": "amis · [de] · chers · bien · vous êtes venus"
+   },
+   {
+    "fr": "Les fruits sont dans la cuisine.",
+    "tgt": "میوه‌ها تو آشپزخونه‌ان.",
+    "ro": "Mivehâ tu âshpazkhune-an.",
+    "lit": "fruits · dans · cuisine-sont"
+   }
+  ]
+ },
+ "0-2-14": {
+  "module": "Conversation sociale",
+  "title": "La poésie de Hafez",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Tu connais Hafez ?",
+    "tgt": "حافظ رو می‌شناسی؟",
+    "ro": "Hâfez ro mishenâsi?",
+    "lit": "Hafez · [objet] · tu connais"
+   },
+   {
+    "fr": "Oui, c'est le grand poète de Chiraz.",
+    "tgt": "آره، شاعر بزرگ شیرازه.",
+    "ro": "Âre, shâ'er-e bozorg-e Shirâz-e.",
+    "lit": "oui · poète · [de] · grand · [de] · Chiraz-est"
+   },
+   {
+    "fr": "Le tombeau de Hafez est près d'ici.",
+    "tgt": "آرامگاه حافظ نزدیک اینجاست.",
+    "ro": "Ârâmgâh-e Hâfez nazdik-e injâst.",
+    "lit": "tombeau · [de] · Hafez · près · [de] · ici-est"
+   },
+   {
+    "fr": "Le soir, il y a beaucoup de monde là-bas.",
+    "tgt": "عصرها اونجا خیلی شلوغه.",
+    "ro": "Asrhâ unjâ kheyli sholughe.",
+    "lit": "soirs · là-bas · très · animé-est"
+   },
+   {
+    "fr": "Mon père lit Hafez tous les soirs.",
+    "tgt": "پدرم هر شب حافظ می‌خونه.",
+    "ro": "Pedaram har shab Hâfez mikhune.",
+    "lit": "père-mon · chaque · nuit · Hafez · lit"
+   },
+   {
+    "fr": "Dans chaque maison, il y a un recueil de Hafez.",
+    "tgt": "تو هر خونه یه دیوان حافظ هست.",
+    "ro": "Tu har khune ye divân-e Hâfez hast.",
+    "lit": "dans · chaque · maison · un · recueil · [de] · Hafez · il y a"
+   },
+   {
+    "fr": "Tu me lis un poème ?",
+    "tgt": "یه شعر برام می‌خونی؟",
+    "ro": "Ye she'r barâm mikhuni?",
+    "lit": "un · poème · pour-moi · tu lis"
+   },
+   {
+    "fr": "Je ne comprends pas tous les mots.",
+    "tgt": "همه‌ی کلمه‌ها رو نمی‌فهمم.",
+    "ro": "Hame-ye kalamehâ ro nemifahmam.",
+    "lit": "tous · [de] · mots · [objet] · [ne… pas]-je comprends"
+   },
+   {
+    "fr": "Pas grave, la musique des mots suffit.",
+    "tgt": "مهم نیست، آهنگ کلمه‌ها کافیه.",
+    "ro": "Mohem nist, âhang-e kalamehâ kâfie.",
+    "lit": "important · n'est pas · musique · [de] · mots · suffisante-est"
+   },
+   {
+    "fr": "Les Iraniens aiment beaucoup la poésie.",
+    "tgt": "ایرانی‌ها شعر رو خیلی دوست دارن.",
+    "ro": "Irânihâ she'r ro kheyli dust dâran.",
+    "lit": "Iraniens · poésie · [objet] · très · ami · ont"
+   }
+  ]
+ },
+ "0-2-15": {
+  "module": "Conversation sociale",
+  "title": "Entre amis ou avec les aînés",
+  "grammaire_de_la_lecon": "« To » et « shomâ » : tutoyer ou vouvoyer",
+  "phrases": [
+   {
+    "fr": "Tu peux me tutoyer.",
+    "tgt": "می‌تونی به من «تو» بگی.",
+    "ro": "Mituni be man «to» begi.",
+    "lit": "tu peux · [à] · moi · « tu » · que tu dises"
+   },
+   {
+    "fr": "Vous êtes la mère de Maryam ?",
+    "tgt": "شما مادر مریم هستین؟",
+    "ro": "Shomâ mâdar-e Maryam hastin?",
+    "lit": "vous · mère · [de] · Maryam · êtes"
+   },
+   {
+    "fr": "Oui. Et toi, tu es Marc ?",
+    "tgt": "بله. تو مارکی؟",
+    "ro": "Bale. To Mârki?",
+    "lit": "oui · toi · Marc-es"
+   },
+   {
+    "fr": "Comment allez-vous, madame ?",
+    "tgt": "حالتون چطوره، خانم؟",
+    "ro": "Hâletun chetore, khânom?",
+    "lit": "état-votre · comment-est · madame"
+   },
+   {
+    "fr": "Et toi, ça va ?",
+    "tgt": "تو چطوری؟",
+    "ro": "To chetori?",
+    "lit": "toi · comment-es"
+   },
+   {
+    "fr": "Avec les amis, on dit « to ».",
+    "tgt": "با دوستا «تو» می‌گیم.",
+    "ro": "Bâ dustâ «to» migim.",
+    "lit": "avec · amis · « tu » · nous disons"
+   },
+   {
+    "fr": "Avec les grands-parents, on dit « shomâ ».",
+    "tgt": "با پدربزرگ و مادربزرگ «شما» می‌گیم.",
+    "ro": "Bâ pedarbozorg o mâdarbozorg «shomâ» migim.",
+    "lit": "avec · grand-père · et · grand-mère · « vous » · nous disons"
+   },
+   {
+    "fr": "Monsieur, vous désirez un thé ?",
+    "tgt": "آقا، چای میل دارین؟",
+    "ro": "Âghâ, châi meyl dârin?",
+    "lit": "monsieur · thé · envie · vous avez"
+   },
+   {
+    "fr": "Tu veux un fruit ?",
+    "tgt": "میوه می‌خوای؟",
+    "ro": "Mive mikhâi?",
+    "lit": "fruit · tu veux"
+   },
+   {
+    "fr": "Vous comprenez un peu le français ?",
+    "tgt": "شما یه کم فرانسه می‌فهمین؟",
+    "ro": "Shomâ ye kam farânse mifahmin?",
+    "lit": "vous · un · peu · français · vous comprenez"
+   }
+  ]
+ },
+ "0-2-16": {
+  "module": "Conversation sociale",
+  "title": "Faire un compliment",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ce repas est vraiment délicieux.",
+    "tgt": "این غذا واقعا خوشمزه‌ست.",
+    "ro": "In ghazâ vâghe'an khoshmazast.",
+    "lit": "ce · repas · vraiment · délicieux-est"
+   },
+   {
+    "fr": "Tu cuisines très bien.",
+    "tgt": "خیلی خوب آشپزی می‌کنی.",
+    "ro": "Kheyli khub âshpazi mikoni.",
+    "lit": "très · bien · cuisine · tu fais"
+   },
+   {
+    "fr": "Ta chemise te va très bien.",
+    "tgt": "پیرهنت خیلی بهت میاد.",
+    "ro": "Pirhanet kheyli behet miyâd.",
+    "lit": "chemise-ta · très · à-toi · vient"
+   },
+   {
+    "fr": "Ton persan est déjà très bon.",
+    "tgt": "فارسیت خیلی خوبه.",
+    "ro": "Fârsit kheyli khube.",
+    "lit": "persan-ton · très · bon-est"
+   },
+   {
+    "fr": "Vraiment ? Tu me gênes, là.",
+    "tgt": "واقعا؟ شرمنده‌م می‌کنی.",
+    "ro": "Vâghe'an? Sharmandam mikoni.",
+    "lit": "vraiment · confus-me · tu fais"
+   },
+   {
+    "fr": "Tes enfants sont très polis.",
+    "tgt": "بچه‌هات خیلی مؤدبن.",
+    "ro": "Bachehât kheyli mo'addaban.",
+    "lit": "enfants-tes · très · polis-sont"
+   },
+   {
+    "fr": "Votre maison est pleine de lumière.",
+    "tgt": "خونه‌تون پر از نوره.",
+    "ro": "Khunatun por az nure.",
+    "lit": "maison-votre · pleine · de · lumière-est"
+   },
+   {
+    "fr": "Tu as une jolie voix.",
+    "tgt": "صدات قشنگه.",
+    "ro": "Sedât ghashange.",
+    "lit": "voix-ta · jolie-est"
+   },
+   {
+    "fr": "Tes photos de Chiraz sont superbes.",
+    "tgt": "عکس‌هات از شیراز معرکه‌ان.",
+    "ro": "Akshât az Shirâz ma'reke-an.",
+    "lit": "photos-tes · de · Chiraz · superbes-sont"
+   },
+   {
+    "fr": "Merci, tu es trop gentil.",
+    "tgt": "مرسی، خیلی لطف داری.",
+    "ro": "Mersi, kheyli lotf dâri.",
+    "lit": "merci · très · bonté · tu as"
+   }
+  ]
+ },
+ "0-2-17": {
+  "module": "Conversation sociale",
+  "title": "Une promenade au bazar",
+  "grammaire_de_la_lecon": "« Kheyli » et « ziyâd » : très et beaucoup",
+  "phrases": [
+   {
+    "fr": "Ça me fait très plaisir de te voir.",
+    "tgt": "از دیدنت خیلی خوشحالم.",
+    "ro": "Az didanet kheyli khoshhâlam.",
+    "lit": "de · voir-te · très · content-suis"
+   },
+   {
+    "fr": "Le bazar Vakil est très animé.",
+    "tgt": "بازار وکیل خیلی شلوغه.",
+    "ro": "Bâzâr-e Vakil kheyli sholughe.",
+    "lit": "bazar · [de] · Vakil · très · animé-est"
+   },
+   {
+    "fr": "Non, ce n'est pas très loin.",
+    "tgt": "خیلی دور نیست.",
+    "ro": "Kheyli dur nist.",
+    "lit": "très · loin · n'est pas"
+   },
+   {
+    "fr": "Tu marches beaucoup ?",
+    "tgt": "زیاد پیاده‌روی می‌کنی؟",
+    "ro": "Ziyâd piyâderavi mikoni?",
+    "lit": "beaucoup · marche · tu fais"
+   },
+   {
+    "fr": "Oui, à Lyon, je marche beaucoup.",
+    "tgt": "آره، تو لیون خیلی پیاده‌روی می‌کنم.",
+    "ro": "Âre, tu Liyon kheyli piyâderavi mikonam.",
+    "lit": "oui · dans · Lyon · beaucoup · marche · je fais"
+   },
+   {
+    "fr": "Chiraz a beaucoup de jardins.",
+    "tgt": "شیراز خیلی باغ داره.",
+    "ro": "Shirâz kheyli bâgh dâre.",
+    "lit": "Chiraz · beaucoup · jardin · a"
+   },
+   {
+    "fr": "Le soir, je ne mange pas beaucoup.",
+    "tgt": "شب‌ها زیاد غذا نمی‌خورم.",
+    "ro": "Shabhâ ziyâd ghazâ nemikhoram.",
+    "lit": "nuits · beaucoup · nourriture · [ne… pas]-je mange"
+   },
+   {
+    "fr": "Ne mets pas trop de sucre.",
+    "tgt": "زیاد شکر نریز.",
+    "ro": "Ziyâd shekar nariz.",
+    "lit": "beaucoup · sucre · [ne… pas]-verse"
+   },
+   {
+    "fr": "Aujourd'hui, je n'ai pas beaucoup de temps.",
+    "tgt": "امروز زیاد وقت ندارم.",
+    "ro": "Emruz ziyâd vaght nadâram.",
+    "lit": "aujourd'hui · beaucoup · temps · [ne… pas]-j'ai"
+   },
+   {
+    "fr": "Un grand merci pour tout.",
+    "tgt": "خیلی ممنون بابت همه‌چیز.",
+    "ro": "Kheyli mamnun bâbat-e hame chiz.",
+    "lit": "très · reconnaissant · pour · [de] · toute · chose"
+   }
+  ]
+ },
+ "0-2-18": {
+  "module": "Conversation sociale",
+  "title": "Se dire au revoir après la soirée",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Il est tard, je dois y aller.",
+    "tgt": "دیروقته، باید برم.",
+    "ro": "Dirvaghte, bâyad beram.",
+    "lit": "tard-est · il faut · que j'aille"
+   },
+   {
+    "fr": "Déjà ? Reste encore un peu !",
+    "tgt": "به این زودی؟ یه کم دیگه بمون!",
+    "ro": "Be in zudi? Ye kam dige bemun!",
+    "lit": "[à] · cette · rapidité · un · peu · autre · reste"
+   },
+   {
+    "fr": "Merci pour cette si belle soirée.",
+    "tgt": "مرسی بابت این شب قشنگ.",
+    "ro": "Mersi bâbat-e in shab-e ghashang.",
+    "lit": "merci · pour · [de] · cette · soirée · [de] · belle"
+   },
+   {
+    "fr": "Je t'appelle un taxi.",
+    "tgt": "برات تاکسی می‌گیرم.",
+    "ro": "Barât tâksi migiram.",
+    "lit": "pour-toi · taxi · je prends"
+   },
+   {
+    "fr": "Non merci, mon hôtel est tout près.",
+    "tgt": "نه مرسی، هتلم همین نزدیکیه.",
+    "ro": "Na mersi, hotelam hamin nazdikie.",
+    "lit": "non · merci · hôtel-mon · juste · tout près-est"
+   },
+   {
+    "fr": "Passe le bonjour à tes parents de ma part.",
+    "tgt": "سلام منو به پدر و مادرت برسون.",
+    "ro": "Salâm-e mano be pedar o mâdaret berasun.",
+    "lit": "salut · [de] · moi-[objet] · [à] · père · et · mère-ta · fais parvenir"
+   },
+   {
+    "fr": "Reviens nous voir bientôt.",
+    "tgt": "بازم به ما سر بزن.",
+    "ro": "Bâzam be mâ sar bezan.",
+    "lit": "encore · [à] · nous · tête · frappe"
+   },
+   {
+    "fr": "C'est promis, je reviens au printemps.",
+    "tgt": "حتما، بهار برمی‌گردم.",
+    "ro": "Hatman, bahâr barmigardam.",
+    "lit": "sûrement · printemps · je reviens"
+   },
+   {
+    "fr": "Bonne nuit, et à vendredi !",
+    "tgt": "شب بخیر، تا جمعه!",
+    "ro": "Shab bekheyr, tâ jom'e!",
+    "lit": "nuit · au bien · jusqu'à · vendredi"
+   },
+   {
+    "fr": "Au revoir, prends soin de toi.",
+    "tgt": "خداحافظ، مواظب خودت باش.",
+    "ro": "Khodâhâfez, movâzeb-e khodet bâsh.",
+    "lit": "au revoir · attentif · [de] · toi-même · sois"
+   }
+  ]
+ },
+ "0-2-19": {
+  "module": "Conversation sociale",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "Le ta'ârof : « befarmâyid », « ghâbel nadâre »",
+  "phrases": [
+   {
+    "fr": "Maintenant, je sais me présenter en persan.",
+    "tgt": "الان می‌تونم به فارسی خودم رو معرفی کنم.",
+    "ro": "Alân mitunam be fârsi khodam ro mo'arrefi konam.",
+    "lit": "maintenant · je peux · [à] · persan · moi-même · [objet] · présentation · que je fasse"
+   },
+   {
+    "fr": "Ce n'est pas digne de vous.",
+    "tgt": "قابل شما رو نداره.",
+    "ro": "Ghâbel-e shomâ ro nadâre.",
+    "lit": "digne · [de] · vous · [objet] · [ne… pas]-a"
+   },
+   {
+    "fr": "Asseyez-vous, je vous en prie.",
+    "tgt": "بفرمایید بشینین.",
+    "ro": "Befarmâyid beshinin.",
+    "lit": "je vous en prie · asseyez-vous"
+   },
+   {
+    "fr": "Après vous, je vous en prie.",
+    "tgt": "بفرمایید، اول شما.",
+    "ro": "Befarmâyid, avval shomâ.",
+    "lit": "je vous en prie · d'abord · vous"
+   },
+   {
+    "fr": "Merci pour ce joli cadeau !",
+    "tgt": "مرسی بابت این هدیه‌ی قشنگ!",
+    "ro": "Mersi bâbat-e in hedye-ye ghashang!",
+    "lit": "merci · pour · [de] · ce · cadeau · [de] · joli"
+   },
+   {
+    "fr": "Oh, ce n'est pas grand-chose.",
+    "tgt": "قابل نداره.",
+    "ro": "Ghâbel nadâre.",
+    "lit": "digne · [ne… pas]-a"
+   },
+   {
+    "fr": "Je vous en prie, servez-vous.",
+    "tgt": "بفرمایید، میل کنین.",
+    "ro": "Befarmâyid, meyl konin.",
+    "lit": "je vous en prie · envie · faites"
+   },
+   {
+    "fr": "En Iran, le ta'arof est un véritable art.",
+    "tgt": "تعارف تو ایران یه هنره.",
+    "ro": "Ta'ârof tu Irân ye honare.",
+    "lit": "ta'arof · dans · Iran · un · art-est"
+   },
+   {
+    "fr": "J'aime beaucoup parler persan avec toi.",
+    "tgt": "حرف زدن به فارسی با تو رو خیلی دوست دارم.",
+    "ro": "Harf zadan be fârsi bâ to ro kheyli dust dâram.",
+    "lit": "parole · frapper · [à] · persan · avec · toi · [objet] · très · ami · j'ai"
+   },
+   {
+    "fr": "Mon persan s'améliore chaque jour.",
+    "tgt": "فارسیم هر روز بهتر می‌شه.",
+    "ro": "Fârsim har ruz behtar mishe.",
+    "lit": "persan-mon · chaque · jour · meilleur · devient"
+   }
+  ]
+ }
+}

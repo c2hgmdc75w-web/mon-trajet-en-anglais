@@ -1,0 +1,4022 @@
+{
+ "0-0-0": {
+  "module": "Le quotidien",
+  "title": "Premiers mots à Shinjuku",
+  "grammaire_de_la_lecon": "Pas besoin de « je » : le japonais omet le sujet",
+  "phrases": [
+   {
+    "fr": "Bonjour !",
+    "tgt": "こんにちは！",
+    "ro": "Konnichiwa!",
+    "lit": "bonjour (littéralement : quant à aujourd'hui)"
+   },
+   {
+    "fr": "Enchanté.",
+    "tgt": "はじめまして。",
+    "ro": "Hajimemashite.",
+    "lit": "pour la première fois"
+   },
+   {
+    "fr": "Je m'appelle Léa.",
+    "tgt": "レアです。",
+    "ro": "Rea desu.",
+    "lit": "Léa · être (poli)"
+   },
+   {
+    "fr": "Je suis français.",
+    "tgt": "フランス人です。",
+    "ro": "Furansujin desu.",
+    "lit": "France-personne · être (poli)"
+   },
+   {
+    "fr": "Ravi de faire votre connaissance.",
+    "tgt": "よろしくお願いします。",
+    "ro": "Yoroshiku onegaishimasu.",
+    "lit": "bien · je vous le demande humblement"
+   },
+   {
+    "fr": "J'ai sommeil.",
+    "tgt": "眠いです。",
+    "ro": "Nemui desu.",
+    "lit": "avoir sommeil · être (poli)"
+   },
+   {
+    "fr": "J'ai faim.",
+    "tgt": "お腹がすきました。",
+    "ro": "Onaka ga sukimashita.",
+    "lit": "honorable-ventre · [sujet] · s'est vidé (poli)"
+   },
+   {
+    "fr": "Je suis fatiguée.",
+    "tgt": "疲れました。",
+    "ro": "Tsukaremashita.",
+    "lit": "s'être fatigué (poli)"
+   },
+   {
+    "fr": "Je suis tellement content !",
+    "tgt": "とてもうれしいです！",
+    "ro": "Totemo ureshii desu!",
+    "lit": "très · content · être (poli)"
+   },
+   {
+    "fr": "Shinjuku, c'est immense !",
+    "tgt": "新宿は大きいですね！",
+    "ro": "Shinjuku wa ōkii desu ne!",
+    "lit": "Shinjuku · [thème] · grand · être (poli) · [n'est-ce pas]"
+   }
+  ]
+ },
+ "0-0-1": {
+  "module": "Le quotidien",
+  "title": "Au konbini du quartier",
+  "grammaire_de_la_lecon": "« Desu » : le verbe être poli",
+  "phrases": [
+   {
+    "fr": "Le konbini est juste là.",
+    "tgt": "コンビニはそこです。",
+    "ro": "Konbini wa soko desu.",
+    "lit": "konbini · [thème] · là · être (poli)"
+   },
+   {
+    "fr": "Le konbini est pratique.",
+    "tgt": "コンビニは便利です。",
+    "ro": "Konbini wa benri desu.",
+    "lit": "konbini · [thème] · pratique · être (poli)"
+   },
+   {
+    "fr": "C'est un onigiri au thon.",
+    "tgt": "ツナのおにぎりです。",
+    "ro": "Tsuna no onigiri desu.",
+    "lit": "thon · [de] · onigiri · être (poli)"
+   },
+   {
+    "fr": "Le thé vert, c'est cent cinquante yens.",
+    "tgt": "お茶は百五十円です。",
+    "ro": "Ocha wa hyakugojū en desu.",
+    "lit": "honorable-thé · [thème] · cent-cinquante yens · être (poli)"
+   },
+   {
+    "fr": "Mademoiselle Tanaka est vendeuse.",
+    "tgt": "田中さんは店員です。",
+    "ro": "Tanaka-san wa ten'in desu.",
+    "lit": "Tanaka-mademoiselle · [thème] · employée de magasin · être (poli)"
+   },
+   {
+    "fr": "Le bentō, c'est cinq cents yens.",
+    "tgt": "お弁当は五百円です。",
+    "ro": "Obentō wa gohyaku en desu.",
+    "lit": "honorable-bentō · [thème] · cinq-cents yens · être (poli)"
+   },
+   {
+    "fr": "L'onigiri est délicieux.",
+    "tgt": "おにぎりはおいしいです。",
+    "ro": "Onigiri wa oishii desu.",
+    "lit": "onigiri · [thème] · délicieux · être (poli)"
+   },
+   {
+    "fr": "Aujourd'hui, c'est lundi.",
+    "tgt": "今日は月曜日です。",
+    "ro": "Kyō wa getsuyōbi desu.",
+    "lit": "aujourd'hui · [thème] · lundi · être (poli)"
+   },
+   {
+    "fr": "Il est sept heures.",
+    "tgt": "七時です。",
+    "ro": "Shichiji desu.",
+    "lit": "sept-heure · être (poli)"
+   },
+   {
+    "fr": "Ce konbini est tout neuf.",
+    "tgt": "このコンビニは新しいです。",
+    "ro": "Kono konbini wa atarashii desu.",
+    "lit": "ce · konbini · [thème] · neuf · être (poli)"
+   }
+  ]
+ },
+ "0-0-2": {
+  "module": "Le quotidien",
+  "title": "Le carrefour de Shibuya",
+  "grammaire_de_la_lecon": "« Wa » : la particule du thème, de quoi on parle",
+  "phrases": [
+   {
+    "fr": "Ici, c'est Shibuya.",
+    "tgt": "ここは渋谷です。",
+    "ro": "Koko wa Shibuya desu.",
+    "lit": "ici · [thème] · Shibuya · être (poli)"
+   },
+   {
+    "fr": "Ce carrefour est très célèbre.",
+    "tgt": "この交差点はとても有名です。",
+    "ro": "Kono kōsaten wa totemo yūmei desu.",
+    "lit": "ce · carrefour · [thème] · très · célèbre · être (poli)"
+   },
+   {
+    "fr": "Hachikō est un chien.",
+    "tgt": "ハチ公は犬です。",
+    "ro": "Hachikō wa inu desu.",
+    "lit": "Hachikō · [thème] · chien · être (poli)"
+   },
+   {
+    "fr": "La statue de Hachikō est par là.",
+    "tgt": "ハチ公の像はあちらです。",
+    "ro": "Hachikō no zō wa achira desu.",
+    "lit": "Hachikō · [de] · statue · [thème] · par là-bas · être (poli)"
+   },
+   {
+    "fr": "Moi, je suis Marc.",
+    "tgt": "私はマルクです。",
+    "ro": "Watashi wa Maruku desu.",
+    "lit": "moi · [thème] · Marc · être (poli)"
+   },
+   {
+    "fr": "Pour moi, ce sera un café.",
+    "tgt": "私はコーヒーです。",
+    "ro": "Watashi wa kōhī desu.",
+    "lit": "moi · [thème] · café · être (poli)"
+   },
+   {
+    "fr": "Aujourd'hui, il fait beau.",
+    "tgt": "今日はいい天気です。",
+    "ro": "Kyō wa ii tenki desu.",
+    "lit": "aujourd'hui · [thème] · bon · temps · être (poli)"
+   },
+   {
+    "fr": "Shibuya est très animé.",
+    "tgt": "渋谷はとてもにぎやかです。",
+    "ro": "Shibuya wa totemo nigiyaka desu.",
+    "lit": "Shibuya · [thème] · très · animé · être (poli)"
+   },
+   {
+    "fr": "Mon ami, c'est Kenji.",
+    "tgt": "友達は健二さんです。",
+    "ro": "Tomodachi wa Kenji-san desu.",
+    "lit": "ami · [thème] · Kenji-monsieur · être (poli)"
+   },
+   {
+    "fr": "Kenji est étudiant.",
+    "tgt": "健二さんは学生です。",
+    "ro": "Kenji-san wa gakusei desu.",
+    "lit": "Kenji-monsieur · [thème] · étudiant · être (poli)"
+   }
+  ]
+ },
+ "0-0-3": {
+  "module": "Le quotidien",
+  "title": "Une promenade à Ueno",
+  "grammaire_de_la_lecon": "« Ka » : transformer une phrase en question",
+  "phrases": [
+   {
+    "fr": "Vous allez bien ?",
+    "tgt": "お元気ですか？",
+    "ro": "Ogenki desu ka?",
+    "lit": "honorable-santé · être (poli) · [question]"
+   },
+   {
+    "fr": "Oui, je vais très bien.",
+    "tgt": "はい、とても元気です。",
+    "ro": "Hai, totemo genki desu.",
+    "lit": "oui · très · en forme · être (poli)"
+   },
+   {
+    "fr": "C'est bien ici, le parc d'Ueno ?",
+    "tgt": "ここは上野公園ですか？",
+    "ro": "Koko wa Ueno kōen desu ka?",
+    "lit": "ici · [thème] · Ueno-parc · être (poli) · [question]"
+   },
+   {
+    "fr": "Oui, c'est ça.",
+    "tgt": "はい、そうです。",
+    "ro": "Hai, sō desu.",
+    "lit": "oui · ainsi · être (poli)"
+   },
+   {
+    "fr": "Où est le musée d'art ?",
+    "tgt": "美術館はどこですか？",
+    "ro": "Bijutsukan wa doko desu ka?",
+    "lit": "musée d'art · [thème] · où · être (poli) · [question]"
+   },
+   {
+    "fr": "C'est loin ?",
+    "tgt": "遠いですか？",
+    "ro": "Tōi desu ka?",
+    "lit": "loin · être (poli) · [question]"
+   },
+   {
+    "fr": "Non, c'est tout près.",
+    "tgt": "いいえ、すぐそこです。",
+    "ro": "Iie, sugu soko desu.",
+    "lit": "non · tout de suite · là · être (poli)"
+   },
+   {
+    "fr": "Vous êtes étudiant ?",
+    "tgt": "学生ですか？",
+    "ro": "Gakusei desu ka?",
+    "lit": "étudiant · être (poli) · [question]"
+   },
+   {
+    "fr": "Non, je suis employé de bureau.",
+    "tgt": "いいえ、会社員です。",
+    "ro": "Iie, kaishain desu.",
+    "lit": "non · employé d'entreprise · être (poli)"
+   },
+   {
+    "fr": "L'entrée du parc est gratuite ?",
+    "tgt": "公園は無料ですか？",
+    "ro": "Kōen wa muryō desu ka?",
+    "lit": "parc · [thème] · gratuit · être (poli) · [question]"
+   }
+  ]
+ },
+ "0-0-4": {
+  "module": "Le quotidien",
+  "title": "Sur la ligne Yamanote",
+  "grammaire_de_la_lecon": "Le verbe à la fin : l'ordre des mots japonais",
+  "phrases": [
+   {
+    "fr": "Je prends la ligne Yamanote.",
+    "tgt": "山手線に乗ります。",
+    "ro": "Yamanotesen ni norimasu.",
+    "lit": "ligne Yamanote · [dans] · monter (poli)"
+   },
+   {
+    "fr": "Le train arrive.",
+    "tgt": "電車が来ます。",
+    "ro": "Densha ga kimasu.",
+    "lit": "train · [sujet] · venir (poli)"
+   },
+   {
+    "fr": "Je vais à Akihabara.",
+    "tgt": "秋葉原に行きます。",
+    "ro": "Akihabara ni ikimasu.",
+    "lit": "Akihabara · [direction] · aller (poli)"
+   },
+   {
+    "fr": "Je descends à Shinjuku.",
+    "tgt": "新宿で降ります。",
+    "ro": "Shinjuku de orimasu.",
+    "lit": "Shinjuku · [lieu] · descendre (poli)"
+   },
+   {
+    "fr": "Je lis un livre dans le train.",
+    "tgt": "電車で本を読みます。",
+    "ro": "Densha de hon o yomimasu.",
+    "lit": "train · [lieu] · livre · [objet] · lire (poli)"
+   },
+   {
+    "fr": "J'écoute de la musique.",
+    "tgt": "音楽を聞きます。",
+    "ro": "Ongaku o kikimasu.",
+    "lit": "musique · [objet] · écouter (poli)"
+   },
+   {
+    "fr": "Je regarde par la fenêtre.",
+    "tgt": "窓の外を見ます。",
+    "ro": "Mado no soto o mimasu.",
+    "lit": "fenêtre · [de] · extérieur · [objet] · regarder (poli)"
+   },
+   {
+    "fr": "J'attends le prochain train.",
+    "tgt": "次の電車を待ちます。",
+    "ro": "Tsugi no densha o machimasu.",
+    "lit": "suivant · [de] · train · [objet] · attendre (poli)"
+   },
+   {
+    "fr": "Je rentre à la maison.",
+    "tgt": "家に帰ります。",
+    "ro": "Ie ni kaerimasu.",
+    "lit": "maison · [direction] · rentrer (poli)"
+   },
+   {
+    "fr": "Demain, je vais à Ueno en train.",
+    "tgt": "明日、電車で上野に行きます。",
+    "ro": "Ashita, densha de Ueno ni ikimasu.",
+    "lit": "demain · train · [moyen] · Ueno · [direction] · aller (poli)"
+   }
+  ]
+ },
+ "0-0-5": {
+  "module": "Le quotidien",
+  "title": "Les boutiques d'Akihabara",
+  "grammaire_de_la_lecon": "« Kore, sore, are » : ceci, cela, ce là-bas",
+  "phrases": [
+   {
+    "fr": "Qu'est-ce que c'est, ceci ?",
+    "tgt": "これは何ですか？",
+    "ro": "Kore wa nan desu ka?",
+    "lit": "ceci · [thème] · quoi · être (poli) · [question]"
+   },
+   {
+    "fr": "Cela, c'est un appareil photo.",
+    "tgt": "それはカメラです。",
+    "ro": "Sore wa kamera desu.",
+    "lit": "cela · [thème] · appareil photo · être (poli)"
+   },
+   {
+    "fr": "Combien coûte ceci ?",
+    "tgt": "これはいくらですか？",
+    "ro": "Kore wa ikura desu ka?",
+    "lit": "ceci · [thème] · combien · être (poli) · [question]"
+   },
+   {
+    "fr": "Ça fait trente mille yens.",
+    "tgt": "三万円です。",
+    "ro": "Sanman en desu.",
+    "lit": "trois-dix-mille yens · être (poli)"
+   },
+   {
+    "fr": "C'est cher, dites donc !",
+    "tgt": "高いですね！",
+    "ro": "Takai desu ne!",
+    "lit": "cher · être (poli) · [n'est-ce pas]"
+   },
+   {
+    "fr": "Et là-bas, qu'est-ce que c'est ?",
+    "tgt": "あれは何ですか？",
+    "ro": "Are wa nan desu ka?",
+    "lit": "ce là-bas · [thème] · quoi · être (poli) · [question]"
+   },
+   {
+    "fr": "Là-bas, c'est un robot.",
+    "tgt": "あれはロボットです。",
+    "ro": "Are wa robotto desu.",
+    "lit": "ce là-bas · [thème] · robot · être (poli)"
+   },
+   {
+    "fr": "Ce jeu est amusant.",
+    "tgt": "このゲームはおもしろいです。",
+    "ro": "Kono gēmu wa omoshiroi desu.",
+    "lit": "ce · jeu · [thème] · amusant · être (poli)"
+   },
+   {
+    "fr": "Celui-ci, s'il vous plaît.",
+    "tgt": "これをください。",
+    "ro": "Kore o kudasai.",
+    "lit": "ceci · [objet] · donnez-moi (poli)"
+   },
+   {
+    "fr": "Akihabara est le quartier de l'électronique.",
+    "tgt": "秋葉原は電気の町です。",
+    "ro": "Akihabara wa denki no machi desu.",
+    "lit": "Akihabara · [thème] · électricité · [de] · quartier · être (poli)"
+   }
+  ]
+ },
+ "0-0-6": {
+  "module": "Le quotidien",
+  "title": "Mon petit appartement",
+  "grammaire_de_la_lecon": "« No » : de, à moi, le possessif",
+  "phrases": [
+   {
+    "fr": "Voici mon appartement.",
+    "tgt": "ここは私のアパートです。",
+    "ro": "Koko wa watashi no apāto desu.",
+    "lit": "ici · [thème] · moi · [possessif] · appartement · être (poli)"
+   },
+   {
+    "fr": "C'est ma clé.",
+    "tgt": "これは私の鍵です。",
+    "ro": "Kore wa watashi no kagi desu.",
+    "lit": "ceci · [thème] · moi · [possessif] · clé · être (poli)"
+   },
+   {
+    "fr": "Ma chambre est petite.",
+    "tgt": "私の部屋は小さいです。",
+    "ro": "Watashi no heya wa chiisai desu.",
+    "lit": "moi · [possessif] · chambre · [thème] · petit · être (poli)"
+   },
+   {
+    "fr": "C'est le vélo de Monsieur Satō.",
+    "tgt": "それは佐藤さんの自転車です。",
+    "ro": "Sore wa Satō-san no jitensha desu.",
+    "lit": "cela · [thème] · Satō-monsieur · [possessif] · vélo · être (poli)"
+   },
+   {
+    "fr": "Mon appartement est près de la gare.",
+    "tgt": "私のアパートは駅の近くです。",
+    "ro": "Watashi no apāto wa eki no chikaku desu.",
+    "lit": "moi · [possessif] · appartement · [thème] · gare · [de] · proximité · être (poli)"
+   },
+   {
+    "fr": "La salle de bain est neuve.",
+    "tgt": "お風呂は新しいです。",
+    "ro": "Ofuro wa atarashii desu.",
+    "lit": "honorable-bain · [thème] · neuf · être (poli)"
+   },
+   {
+    "fr": "C'est le parapluie de qui ?",
+    "tgt": "これはだれの傘ですか？",
+    "ro": "Kore wa dare no kasa desu ka?",
+    "lit": "ceci · [thème] · qui · [possessif] · parapluie · être (poli) · [question]"
+   },
+   {
+    "fr": "C'est le mien.",
+    "tgt": "私のです。",
+    "ro": "Watashi no desu.",
+    "lit": "moi · [possessif] · être (poli)"
+   },
+   {
+    "fr": "Le loyer est de quatre-vingt mille yens.",
+    "tgt": "家賃は八万円です。",
+    "ro": "Yachin wa hachiman en desu.",
+    "lit": "loyer · [thème] · huit-dix-mille yens · être (poli)"
+   },
+   {
+    "fr": "La propriétaire est gentille.",
+    "tgt": "大家さんは優しいです。",
+    "ro": "Ōya-san wa yasashii desu.",
+    "lit": "propriétaire-madame · [thème] · gentil · être (poli)"
+   }
+  ]
+ },
+ "0-0-7": {
+  "module": "Le quotidien",
+  "title": "Un bol de ramen",
+  "grammaire_de_la_lecon": "« Ja arimasen » : dire « ce n'est pas »",
+  "phrases": [
+   {
+    "fr": "Ce restaurant de ramen est célèbre.",
+    "tgt": "このラーメン屋は有名です。",
+    "ro": "Kono rāmen-ya wa yūmei desu.",
+    "lit": "ce · ramen-boutique · [thème] · célèbre · être (poli)"
+   },
+   {
+    "fr": "Mais ce n'est pas un restaurant cher.",
+    "tgt": "でも、高い店じゃありません。",
+    "ro": "Demo, takai mise ja arimasen.",
+    "lit": "mais · cher · restaurant · ne pas être (poli)"
+   },
+   {
+    "fr": "C'est du ramen au miso, ça ?",
+    "tgt": "これは味噌ラーメンですか？",
+    "ro": "Kore wa miso rāmen desu ka?",
+    "lit": "ceci · [thème] · miso-ramen · être (poli) · [question]"
+   },
+   {
+    "fr": "Non, ce n'est pas du miso.",
+    "tgt": "いいえ、味噌じゃありません。",
+    "ro": "Iie, miso ja arimasen.",
+    "lit": "non · miso · ne pas être (poli)"
+   },
+   {
+    "fr": "C'est du ramen à la sauce soja.",
+    "tgt": "醤油ラーメンです。",
+    "ro": "Shōyu rāmen desu.",
+    "lit": "sauce soja-ramen · être (poli)"
+   },
+   {
+    "fr": "Ce n'est pas ma commande.",
+    "tgt": "それは私の注文じゃありません。",
+    "ro": "Sore wa watashi no chūmon ja arimasen.",
+    "lit": "cela · [thème] · moi · [possessif] · commande · ne pas être (poli)"
+   },
+   {
+    "fr": "Pardon, ma commande, ce sont les gyōza.",
+    "tgt": "すみません、私のは餃子です。",
+    "ro": "Sumimasen, watashi no wa gyōza desu.",
+    "lit": "pardon · moi · [possessif] · [thème] · gyōza · être (poli)"
+   },
+   {
+    "fr": "Ce n'est pas un plat épicé.",
+    "tgt": "辛い料理じゃありません。",
+    "ro": "Karai ryōri ja arimasen.",
+    "lit": "épicé · plat · ne pas être (poli)"
+   },
+   {
+    "fr": "Ce n'est pas la première fois.",
+    "tgt": "初めてじゃありません。",
+    "ro": "Hajimete ja arimasen.",
+    "lit": "première fois · ne pas être (poli)"
+   },
+   {
+    "fr": "Ça fait neuf cents yens.",
+    "tgt": "九百円です。",
+    "ro": "Kyūhyaku en desu.",
+    "lit": "neuf-cents yens · être (poli)"
+   }
+  ]
+ },
+ "0-0-8": {
+  "module": "Le quotidien",
+  "title": "La routine du matin",
+  "grammaire_de_la_lecon": "Les verbes polis en « -masu » : présent et futur",
+  "phrases": [
+   {
+    "fr": "Je me lève à six heures.",
+    "tgt": "六時に起きます。",
+    "ro": "Rokuji ni okimasu.",
+    "lit": "six-heure · [à : moment] · se lever (poli)"
+   },
+   {
+    "fr": "Je me brosse les dents.",
+    "tgt": "歯を磨きます。",
+    "ro": "Ha o migakimasu.",
+    "lit": "dents · [objet] · brosser (poli)"
+   },
+   {
+    "fr": "Je prends une douche.",
+    "tgt": "シャワーを浴びます。",
+    "ro": "Shawā o abimasu.",
+    "lit": "douche · [objet] · recevoir sur soi (poli)"
+   },
+   {
+    "fr": "Je prends mon petit-déjeuner.",
+    "tgt": "朝ごはんを食べます。",
+    "ro": "Asagohan o tabemasu.",
+    "lit": "matin-repas · [objet] · manger (poli)"
+   },
+   {
+    "fr": "Je bois du thé vert.",
+    "tgt": "お茶を飲みます。",
+    "ro": "Ocha o nomimasu.",
+    "lit": "honorable-thé · [objet] · boire (poli)"
+   },
+   {
+    "fr": "Je sors à huit heures.",
+    "tgt": "八時に出かけます。",
+    "ro": "Hachiji ni dekakemasu.",
+    "lit": "huit-heure · [à : moment] · sortir (poli)"
+   },
+   {
+    "fr": "Demain, je vais à Asakusa.",
+    "tgt": "明日、浅草に行きます。",
+    "ro": "Ashita, Asakusa ni ikimasu.",
+    "lit": "demain · Asakusa · [direction] · aller (poli)"
+   },
+   {
+    "fr": "Le week-end, je fais le ménage.",
+    "tgt": "週末、掃除をします。",
+    "ro": "Shūmatsu, sōji o shimasu.",
+    "lit": "week-end · ménage · [objet] · faire (poli)"
+   },
+   {
+    "fr": "Ce soir, je regarde la télé.",
+    "tgt": "今晩、テレビを見ます。",
+    "ro": "Konban, terebi o mimasu.",
+    "lit": "ce soir · télé · [objet] · regarder (poli)"
+   },
+   {
+    "fr": "Je me couche à onze heures.",
+    "tgt": "十一時に寝ます。",
+    "ro": "Jūichiji ni nemasu.",
+    "lit": "onze-heure · [à : moment] · dormir (poli)"
+   }
+  ]
+ },
+ "0-0-9": {
+  "module": "Le quotidien",
+  "title": "Un bentō pour midi",
+  "grammaire_de_la_lecon": "« O » : la particule du complément d'objet",
+  "phrases": [
+   {
+    "fr": "J'achète un bentō.",
+    "tgt": "お弁当を買います。",
+    "ro": "Obentō o kaimasu.",
+    "lit": "honorable-bentō · [objet] · acheter (poli)"
+   },
+   {
+    "fr": "Je mange un onigiri.",
+    "tgt": "おにぎりを食べます。",
+    "ro": "Onigiri o tabemasu.",
+    "lit": "onigiri · [objet] · manger (poli)"
+   },
+   {
+    "fr": "Je bois de l'eau.",
+    "tgt": "水を飲みます。",
+    "ro": "Mizu o nomimasu.",
+    "lit": "eau · [objet] · boire (poli)"
+   },
+   {
+    "fr": "Je vous réchauffe le bentō ?",
+    "tgt": "お弁当を温めますか？",
+    "ro": "Obentō o atatamemasu ka?",
+    "lit": "honorable-bentō · [objet] · réchauffer (poli) · [question]"
+   },
+   {
+    "fr": "Oui, s'il vous plaît.",
+    "tgt": "はい、お願いします。",
+    "ro": "Hai, onegaishimasu.",
+    "lit": "oui · je vous le demande (poli)"
+   },
+   {
+    "fr": "Je choisis un bentō au poulet frit.",
+    "tgt": "唐揚げ弁当を選びます。",
+    "ro": "Karaage bentō o erabimasu.",
+    "lit": "poulet frit-bentō · [objet] · choisir (poli)"
+   },
+   {
+    "fr": "Je sors mon porte-monnaie.",
+    "tgt": "財布を出します。",
+    "ro": "Saifu o dashimasu.",
+    "lit": "porte-monnaie · [objet] · sortir (poli)"
+   },
+   {
+    "fr": "Je regarde les prix.",
+    "tgt": "値段を見ます。",
+    "ro": "Nedan o mimasu.",
+    "lit": "prix · [objet] · regarder (poli)"
+   },
+   {
+    "fr": "Je prends le bentō en photo.",
+    "tgt": "お弁当の写真を撮ります。",
+    "ro": "Obentō no shashin o torimasu.",
+    "lit": "honorable-bentō · [de] · photo · [objet] · prendre (poli)"
+   },
+   {
+    "fr": "Qu'est-ce que vous mangez ?",
+    "tgt": "何を食べますか？",
+    "ro": "Nani o tabemasu ka?",
+    "lit": "quoi · [objet] · manger (poli) · [question]"
+   }
+  ]
+ },
+ "0-0-10": {
+  "module": "Le quotidien",
+  "title": "Rendez-vous à Asakusa",
+  "grammaire_de_la_lecon": "« Ni » et « e » : aller vers un lieu, à une heure",
+  "phrases": [
+   {
+    "fr": "Nous allons au temple Sensō-ji.",
+    "tgt": "浅草寺へ行きます。",
+    "ro": "Sensōji e ikimasu.",
+    "lit": "temple Sensō-ji · [direction] · aller (poli)"
+   },
+   {
+    "fr": "Je pars à dix heures.",
+    "tgt": "十時に出ます。",
+    "ro": "Jūji ni demasu.",
+    "lit": "dix-heure · [à : moment] · partir (poli)"
+   },
+   {
+    "fr": "J'arrive à Asakusa à dix heures et demie.",
+    "tgt": "十時半に浅草に着きます。",
+    "ro": "Jūji han ni Asakusa ni tsukimasu.",
+    "lit": "dix-heure · demie · [à : moment] · Asakusa · [direction] · arriver (poli)"
+   },
+   {
+    "fr": "Mon ami arrive à onze heures.",
+    "tgt": "友達は十一時に来ます。",
+    "ro": "Tomodachi wa jūichiji ni kimasu.",
+    "lit": "ami · [thème] · onze-heure · [à : moment] · venir (poli)"
+   },
+   {
+    "fr": "Où allez-vous ?",
+    "tgt": "どこへ行きますか？",
+    "ro": "Doko e ikimasu ka?",
+    "lit": "où · [direction] · aller (poli) · [question]"
+   },
+   {
+    "fr": "Je vais à la porte Kaminarimon.",
+    "tgt": "雷門へ行きます。",
+    "ro": "Kaminarimon e ikimasu.",
+    "lit": "porte du Tonnerre · [direction] · aller (poli)"
+   },
+   {
+    "fr": "Ensuite, nous allons à la Skytree.",
+    "tgt": "それから、スカイツリーに行きます。",
+    "ro": "Sorekara, Sukaitsurī ni ikimasu.",
+    "lit": "ensuite · Skytree · [direction] · aller (poli)"
+   },
+   {
+    "fr": "Je rentre chez moi à six heures.",
+    "tgt": "六時に家へ帰ります。",
+    "ro": "Rokuji ni ie e kaerimasu.",
+    "lit": "six-heure · [à : moment] · maison · [direction] · rentrer (poli)"
+   },
+   {
+    "fr": "Le samedi, je vais à la piscine.",
+    "tgt": "土曜日にプールへ行きます。",
+    "ro": "Doyōbi ni pūru e ikimasu.",
+    "lit": "samedi · [à : moment] · piscine · [direction] · aller (poli)"
+   },
+   {
+    "fr": "Les boutiques de Nakamise ouvrent à dix heures.",
+    "tgt": "仲見世のお店は十時に開きます。",
+    "ro": "Nakamise no omise wa jūji ni akimasu.",
+    "lit": "Nakamise · [de] · honorables-boutiques · [thème] · dix-heure · [à : moment] · ouvrir (poli)"
+   }
+  ]
+ },
+ "0-0-11": {
+  "module": "Le quotidien",
+  "title": "Le métro de Tokyo",
+  "grammaire_de_la_lecon": "« De » : le lieu où l'on fait quelque chose, et le moyen",
+  "phrases": [
+   {
+    "fr": "Je vais au travail en métro.",
+    "tgt": "地下鉄で会社に行きます。",
+    "ro": "Chikatetsu de kaisha ni ikimasu.",
+    "lit": "métro · [moyen] · entreprise · [direction] · aller (poli)"
+   },
+   {
+    "fr": "Je change à Ueno.",
+    "tgt": "上野で乗り換えます。",
+    "ro": "Ueno de norikaemasu.",
+    "lit": "Ueno · [lieu] · changer de train (poli)"
+   },
+   {
+    "fr": "J'achète un ticket au distributeur.",
+    "tgt": "券売機で切符を買います。",
+    "ro": "Kenbaiki de kippu o kaimasu.",
+    "lit": "distributeur de tickets · [lieu] · ticket · [objet] · acheter (poli)"
+   },
+   {
+    "fr": "Je paie avec mon téléphone.",
+    "tgt": "スマホで払います。",
+    "ro": "Sumaho de haraimasu.",
+    "lit": "smartphone · [moyen] · payer (poli)"
+   },
+   {
+    "fr": "Je dors dans le métro.",
+    "tgt": "地下鉄で寝ます。",
+    "ro": "Chikatetsu de nemasu.",
+    "lit": "métro · [lieu] · dormir (poli)"
+   },
+   {
+    "fr": "Je vais à Ginza en taxi.",
+    "tgt": "タクシーで銀座に行きます。",
+    "ro": "Takushī de Ginza ni ikimasu.",
+    "lit": "taxi · [moyen] · Ginza · [direction] · aller (poli)"
+   },
+   {
+    "fr": "Je déjeune à la gare de Tokyo.",
+    "tgt": "東京駅で昼ごはんを食べます。",
+    "ro": "Tōkyō-eki de hirugohan o tabemasu.",
+    "lit": "Tokyo-gare · [lieu] · midi-repas · [objet] · manger (poli)"
+   },
+   {
+    "fr": "Je fais les courses à Ikebukuro.",
+    "tgt": "池袋で買い物をします。",
+    "ro": "Ikebukuro de kaimono o shimasu.",
+    "lit": "Ikebukuro · [lieu] · courses · [objet] · faire (poli)"
+   },
+   {
+    "fr": "Où est-ce qu'on change ?",
+    "tgt": "どこで乗り換えますか？",
+    "ro": "Doko de norikaemasu ka?",
+    "lit": "où · [lieu] · changer de train (poli) · [question]"
+   },
+   {
+    "fr": "Je vais au konbini à vélo.",
+    "tgt": "自転車でコンビニに行きます。",
+    "ro": "Jitensha de konbini ni ikimasu.",
+    "lit": "vélo · [moyen] · konbini · [direction] · aller (poli)"
+   }
+  ]
+ },
+ "0-0-12": {
+  "module": "Le quotidien",
+  "title": "Un dimanche tranquille",
+  "grammaire_de_la_lecon": "La négation des verbes : « -masen »",
+  "phrases": [
+   {
+    "fr": "Aujourd'hui, je ne vais pas au travail.",
+    "tgt": "今日は仕事に行きません。",
+    "ro": "Kyō wa shigoto ni ikimasen.",
+    "lit": "aujourd'hui · [thème] · travail · [direction] · ne pas aller (poli)"
+   },
+   {
+    "fr": "Je ne me lève pas tôt.",
+    "tgt": "早く起きません。",
+    "ro": "Hayaku okimasen.",
+    "lit": "tôt · ne pas se lever (poli)"
+   },
+   {
+    "fr": "Je ne prends pas le train.",
+    "tgt": "電車に乗りません。",
+    "ro": "Densha ni norimasen.",
+    "lit": "train · [dans] · ne pas monter (poli)"
+   },
+   {
+    "fr": "Je ne bois pas d'alcool.",
+    "tgt": "お酒を飲みません。",
+    "ro": "Osake o nomimasen.",
+    "lit": "honorable-alcool · [objet] · ne pas boire (poli)"
+   },
+   {
+    "fr": "Ce soir, je ne fais pas la cuisine.",
+    "tgt": "今晩は料理をしません。",
+    "ro": "Konban wa ryōri o shimasen.",
+    "lit": "ce soir · [thème] · cuisine · [objet] · ne pas faire (poli)"
+   },
+   {
+    "fr": "Je regarde un film à la maison.",
+    "tgt": "家で映画を見ます。",
+    "ro": "Ie de eiga o mimasu.",
+    "lit": "maison · [lieu] · film · [objet] · regarder (poli)"
+   },
+   {
+    "fr": "Je ne regarde pas la télé.",
+    "tgt": "テレビは見ません。",
+    "ro": "Terebi wa mimasen.",
+    "lit": "télé · [thème] · ne pas regarder (poli)"
+   },
+   {
+    "fr": "Je ne comprends pas très bien.",
+    "tgt": "よくわかりません。",
+    "ro": "Yoku wakarimasen.",
+    "lit": "bien · ne pas comprendre (poli)"
+   },
+   {
+    "fr": "Demain, il ne pleuvra pas.",
+    "tgt": "明日は雨が降りません。",
+    "ro": "Ashita wa ame ga furimasen.",
+    "lit": "demain · [thème] · pluie · [sujet] · ne pas tomber (poli)"
+   },
+   {
+    "fr": "Je ne vais nulle part.",
+    "tgt": "どこへも行きません。",
+    "ro": "Doko e mo ikimasen.",
+    "lit": "où · [direction] · [même] · ne pas aller (poli)"
+   }
+  ]
+ },
+ "0-0-13": {
+  "module": "Le quotidien",
+  "title": "L'heure et les nombres",
+  "grammaire_de_la_lecon": "Compter en japonais : « ichi, ni, san », et les heures en « -ji »",
+  "phrases": [
+   {
+    "fr": "Un, deux, trois !",
+    "tgt": "いち、に、さん！",
+    "ro": "Ichi, ni, san!",
+    "lit": "un · deux · trois"
+   },
+   {
+    "fr": "Quelle heure est-il maintenant ?",
+    "tgt": "今、何時ですか？",
+    "ro": "Ima, nanji desu ka?",
+    "lit": "maintenant · quelle-heure · être (poli) · [question]"
+   },
+   {
+    "fr": "Il est quatre heures.",
+    "tgt": "四時です。",
+    "ro": "Yoji desu.",
+    "lit": "quatre-heure · être (poli)"
+   },
+   {
+    "fr": "Il est neuf heures et demie.",
+    "tgt": "九時半です。",
+    "ro": "Kuji han desu.",
+    "lit": "neuf-heure · demie · être (poli)"
+   },
+   {
+    "fr": "Le train part à sept heures.",
+    "tgt": "電車は七時に出ます。",
+    "ro": "Densha wa shichiji ni demasu.",
+    "lit": "train · [thème] · sept-heure · [à : moment] · partir (poli)"
+   },
+   {
+    "fr": "Quel est votre numéro de téléphone ?",
+    "tgt": "電話番号は何番ですか？",
+    "ro": "Denwa bangō wa nanban desu ka?",
+    "lit": "téléphone-numéro · [thème] · quel-numéro · être (poli) · [question]"
+   },
+   {
+    "fr": "Un ramen, c'est huit cents yens.",
+    "tgt": "ラーメンは八百円です。",
+    "ro": "Rāmen wa happyaku en desu.",
+    "lit": "ramen · [thème] · huit-cents yens · être (poli)"
+   },
+   {
+    "fr": "Le cours commence à une heure.",
+    "tgt": "授業は一時に始まります。",
+    "ro": "Jugyō wa ichiji ni hajimarimasu.",
+    "lit": "cours · [thème] · une-heure · [à : moment] · commencer (poli)"
+   },
+   {
+    "fr": "Dix, onze, douze.",
+    "tgt": "十、十一、十二。",
+    "ro": "Jū, jūichi, jūni.",
+    "lit": "dix · dix-un · dix-deux"
+   },
+   {
+    "fr": "Il est midi pile.",
+    "tgt": "ちょうど十二時です。",
+    "ro": "Chōdo jūniji desu.",
+    "lit": "pile · douze-heure · être (poli)"
+   }
+  ]
+ },
+ "0-0-14": {
+  "module": "Le quotidien",
+  "title": "Autour de chez moi",
+  "grammaire_de_la_lecon": "« Arimasu » et « imasu » : il y a, pour les objets et pour les êtres vivants",
+  "phrases": [
+   {
+    "fr": "Il y a un konbini près de chez moi.",
+    "tgt": "家の近くにコンビニがあります。",
+    "ro": "Ie no chikaku ni konbini ga arimasu.",
+    "lit": "maison · [de] · proximité · [lieu] · konbini · [sujet] · il y a, objet (poli)"
+   },
+   {
+    "fr": "Il y a aussi un petit parc.",
+    "tgt": "小さい公園もあります。",
+    "ro": "Chiisai kōen mo arimasu.",
+    "lit": "petit · parc · [aussi] · il y a, objet (poli)"
+   },
+   {
+    "fr": "Il y a un chat dans le parc.",
+    "tgt": "公園に猫がいます。",
+    "ro": "Kōen ni neko ga imasu.",
+    "lit": "parc · [lieu] · chat · [sujet] · il y a, être vivant (poli)"
+   },
+   {
+    "fr": "Il y a beaucoup de monde à la gare.",
+    "tgt": "駅に人がたくさんいます。",
+    "ro": "Eki ni hito ga takusan imasu.",
+    "lit": "gare · [lieu] · gens · [sujet] · beaucoup · il y a, être vivant (poli)"
+   },
+   {
+    "fr": "Est-ce qu'il y a une banque ?",
+    "tgt": "銀行はありますか？",
+    "ro": "Ginkō wa arimasu ka?",
+    "lit": "banque · [thème] · il y a, objet (poli) · [question]"
+   },
+   {
+    "fr": "Il n'y a pas de supermarché.",
+    "tgt": "スーパーはありません。",
+    "ro": "Sūpā wa arimasen.",
+    "lit": "supermarché · [thème] · il n'y a pas, objet (poli)"
+   },
+   {
+    "fr": "Mon grand frère est à la maison.",
+    "tgt": "兄は家にいます。",
+    "ro": "Ani wa ie ni imasu.",
+    "lit": "grand frère · [thème] · maison · [lieu] · être là, être vivant (poli)"
+   },
+   {
+    "fr": "Il y a une télé dans ma chambre.",
+    "tgt": "部屋にテレビがあります。",
+    "ro": "Heya ni terebi ga arimasu.",
+    "lit": "chambre · [lieu] · télé · [sujet] · il y a, objet (poli)"
+   },
+   {
+    "fr": "Il y a un policier au petit poste de police.",
+    "tgt": "交番に警察官がいます。",
+    "ro": "Kōban ni keisatsukan ga imasu.",
+    "lit": "poste de police · [lieu] · policier · [sujet] · il y a, être vivant (poli)"
+   },
+   {
+    "fr": "Il y a du lait dans le frigo.",
+    "tgt": "冷蔵庫に牛乳があります。",
+    "ro": "Reizōko ni gyūnyū ga arimasu.",
+    "lit": "frigo · [lieu] · lait · [sujet] · il y a, objet (poli)"
+   }
+  ]
+ },
+ "0-0-15": {
+  "module": "Le quotidien",
+  "title": "Il fait chaud, il fait froid",
+  "grammaire_de_la_lecon": "Les adjectifs en « -i » : « takai, oishii »",
+  "phrases": [
+   {
+    "fr": "Aujourd'hui, il fait très chaud.",
+    "tgt": "今日はとても暑いです。",
+    "ro": "Kyō wa totemo atsui desu.",
+    "lit": "aujourd'hui · [thème] · très · chaud · être (poli)"
+   },
+   {
+    "fr": "L'hiver à Tokyo est froid.",
+    "tgt": "東京の冬は寒いです。",
+    "ro": "Tōkyō no fuyu wa samui desu.",
+    "lit": "Tokyo · [de] · hiver · [thème] · froid · être (poli)"
+   },
+   {
+    "fr": "Le ciel est bleu.",
+    "tgt": "空が青いです。",
+    "ro": "Sora ga aoi desu.",
+    "lit": "ciel · [sujet] · bleu · être (poli)"
+   },
+   {
+    "fr": "Le vent est fort.",
+    "tgt": "風が強いです。",
+    "ro": "Kaze ga tsuyoi desu.",
+    "lit": "vent · [sujet] · fort · être (poli)"
+   },
+   {
+    "fr": "Une glace bien froide, c'est délicieux.",
+    "tgt": "冷たいアイスはおいしいです。",
+    "ro": "Tsumetai aisu wa oishii desu.",
+    "lit": "froid · glace · [thème] · délicieux · être (poli)"
+   },
+   {
+    "fr": "Ce parapluie est cher.",
+    "tgt": "この傘は高いです。",
+    "ro": "Kono kasa wa takai desu.",
+    "lit": "ce · parapluie · [thème] · cher · être (poli)"
+   },
+   {
+    "fr": "Ce parapluie-là est bon marché.",
+    "tgt": "あの傘は安いです。",
+    "ro": "Ano kasa wa yasui desu.",
+    "lit": "ce là-bas · parapluie · [thème] · bon marché · être (poli)"
+   },
+   {
+    "fr": "Aujourd'hui, il ne fait pas froid.",
+    "tgt": "今日は寒くないです。",
+    "ro": "Kyō wa samukunai desu.",
+    "lit": "aujourd'hui · [thème] · pas froid · être (poli)"
+   },
+   {
+    "fr": "En été, les journées sont longues.",
+    "tgt": "夏は日が長いです。",
+    "ro": "Natsu wa hi ga nagai desu.",
+    "lit": "été · [thème] · jour · [sujet] · long · être (poli)"
+   },
+   {
+    "fr": "Qu'il fait lourd !",
+    "tgt": "蒸し暑いですね！",
+    "ro": "Mushiatsui desu ne!",
+    "lit": "chaud et humide · être (poli) · [n'est-ce pas]"
+   }
+  ]
+ },
+ "0-0-16": {
+  "module": "Le quotidien",
+  "title": "Le jardin de Shinjuku",
+  "grammaire_de_la_lecon": "Les adjectifs en « -na » : « kirei, shizuka »",
+  "phrases": [
+   {
+    "fr": "Le jardin de Shinjuku est beau.",
+    "tgt": "新宿御苑はきれいです。",
+    "ro": "Shinjuku Gyoen wa kirei desu.",
+    "lit": "Shinjuku-jardin impérial · [thème] · beau · être (poli)"
+   },
+   {
+    "fr": "C'est un endroit calme.",
+    "tgt": "静かな所です。",
+    "ro": "Shizuka na tokoro desu.",
+    "lit": "calme-na · endroit · être (poli)"
+   },
+   {
+    "fr": "C'est un jardin très célèbre.",
+    "tgt": "とても有名な庭園です。",
+    "ro": "Totemo yūmei na teien desu.",
+    "lit": "très · célèbre-na · jardin · être (poli)"
+   },
+   {
+    "fr": "Ici, ce n'est pas animé.",
+    "tgt": "ここはにぎやかじゃありません。",
+    "ro": "Koko wa nigiyaka ja arimasen.",
+    "lit": "ici · [thème] · animé · ne pas être (poli)"
+   },
+   {
+    "fr": "Les allées sont très propres.",
+    "tgt": "道がとてもきれいです。",
+    "ro": "Michi ga totemo kirei desu.",
+    "lit": "chemin · [sujet] · très · propre · être (poli)"
+   },
+   {
+    "fr": "Aujourd'hui, je suis libre.",
+    "tgt": "今日は暇です。",
+    "ro": "Kyō wa hima desu.",
+    "lit": "aujourd'hui · [thème] · libre · être (poli)"
+   },
+   {
+    "fr": "Le métro de Tokyo est pratique.",
+    "tgt": "東京の地下鉄は便利です。",
+    "ro": "Tōkyō no chikatetsu wa benri desu.",
+    "lit": "Tokyo · [de] · métro · [thème] · pratique · être (poli)"
+   },
+   {
+    "fr": "Mademoiselle Yamada est une personne gentille.",
+    "tgt": "山田さんは親切な人です。",
+    "ro": "Yamada-san wa shinsetsu na hito desu.",
+    "lit": "Yamada-mademoiselle · [thème] · gentil-na · personne · être (poli)"
+   },
+   {
+    "fr": "Quel endroit magnifique !",
+    "tgt": "すてきな所ですね！",
+    "ro": "Suteki na tokoro desu ne!",
+    "lit": "magnifique-na · endroit · être (poli) · [n'est-ce pas]"
+   },
+   {
+    "fr": "Le japonais, c'est facile ?",
+    "tgt": "日本語は簡単ですか？",
+    "ro": "Nihongo wa kantan desu ka?",
+    "lit": "japonais · [thème] · facile · être (poli) · [question]"
+   }
+  ]
+ },
+ "0-0-17": {
+  "module": "Le quotidien",
+  "title": "Des vêtements à Shibuya",
+  "grammaire_de_la_lecon": "« Mo » : aussi, moi aussi",
+  "phrases": [
+   {
+    "fr": "Cette jupe est mignonne.",
+    "tgt": "このスカートはかわいいです。",
+    "ro": "Kono sukāto wa kawaii desu.",
+    "lit": "ce · jupe · [thème] · mignon · être (poli)"
+   },
+   {
+    "fr": "Cette veste aussi est mignonne.",
+    "tgt": "このジャケットもかわいいです。",
+    "ro": "Kono jaketto mo kawaii desu.",
+    "lit": "ce · veste · [aussi] · mignon · être (poli)"
+   },
+   {
+    "fr": "J'achète un pull.",
+    "tgt": "セーターを買います。",
+    "ro": "Sētā o kaimasu.",
+    "lit": "pull · [objet] · acheter (poli)"
+   },
+   {
+    "fr": "Moi aussi, j'en achète un.",
+    "tgt": "私も買います。",
+    "ro": "Watashi mo kaimasu.",
+    "lit": "moi · [aussi] · acheter (poli)"
+   },
+   {
+    "fr": "Je regarde aussi les chaussures.",
+    "tgt": "靴も見ます。",
+    "ro": "Kutsu mo mimasu.",
+    "lit": "chaussures · [aussi] · regarder (poli)"
+   },
+   {
+    "fr": "Vous l'avez aussi en bleu ?",
+    "tgt": "青もありますか？",
+    "ro": "Ao mo arimasu ka?",
+    "lit": "bleu · [aussi] · il y a, objet (poli) · [question]"
+   },
+   {
+    "fr": "Oui, et aussi en noir.",
+    "tgt": "はい、黒もあります。",
+    "ro": "Hai, kuro mo arimasu.",
+    "lit": "oui · noir · [aussi] · il y a, objet (poli)"
+   },
+   {
+    "fr": "Le manteau aussi est cher.",
+    "tgt": "コートも高いです。",
+    "ro": "Kōto mo takai desu.",
+    "lit": "manteau · [aussi] · cher · être (poli)"
+   },
+   {
+    "fr": "Où est la cabine d'essayage ?",
+    "tgt": "試着室はどこですか？",
+    "ro": "Shichakushitsu wa doko desu ka?",
+    "lit": "cabine d'essayage · [thème] · où · être (poli) · [question]"
+   },
+   {
+    "fr": "Aujourd'hui aussi, il y a foule à Shibuya.",
+    "tgt": "今日も渋谷は人が多いです。",
+    "ro": "Kyō mo Shibuya wa hito ga ōi desu.",
+    "lit": "aujourd'hui · [aussi] · Shibuya · [thème] · gens · [sujet] · nombreux · être (poli)"
+   }
+  ]
+ },
+ "0-0-18": {
+  "module": "Le quotidien",
+  "title": "Une soirée à Shinjuku",
+  "grammaire_de_la_lecon": "« -mashō » et « -masen ka » : proposer et inviter",
+  "phrases": [
+   {
+    "fr": "On mange des ramen ensemble ?",
+    "tgt": "一緒にラーメンを食べませんか？",
+    "ro": "Issho ni rāmen o tabemasen ka?",
+    "lit": "ensemble · ramen · [objet] · ne pas manger (poli) · [question]"
+   },
+   {
+    "fr": "Bonne idée, allons-y !",
+    "tgt": "いいですね、行きましょう！",
+    "ro": "Ii desu ne, ikimashō!",
+    "lit": "bon · être (poli) · [n'est-ce pas] · allons-y (poli)"
+   },
+   {
+    "fr": "On se retrouve où ?",
+    "tgt": "どこで会いましょうか？",
+    "ro": "Doko de aimashō ka?",
+    "lit": "où · [lieu] · retrouvons-nous (poli) · [question]"
+   },
+   {
+    "fr": "Retrouvons-nous à la sortie est de la gare de Shinjuku.",
+    "tgt": "新宿駅の東口で会いましょう。",
+    "ro": "Shinjuku-eki no higashiguchi de aimashō.",
+    "lit": "Shinjuku-gare · [de] · est-sortie · [lieu] · retrouvons-nous (poli)"
+   },
+   {
+    "fr": "Sept heures, ça vous va ?",
+    "tgt": "七時はどうですか？",
+    "ro": "Shichiji wa dō desu ka?",
+    "lit": "sept-heure · [thème] · comment · être (poli) · [question]"
+   },
+   {
+    "fr": "Ensuite, on va à l'observatoire de la mairie ?",
+    "tgt": "それから、都庁の展望台に行きませんか？",
+    "ro": "Sorekara, Tochō no tenbōdai ni ikimasen ka?",
+    "lit": "ensuite · mairie de Tokyo · [de] · observatoire · [direction] · ne pas aller (poli) · [question]"
+   },
+   {
+    "fr": "Prenons un taxi.",
+    "tgt": "タクシーに乗りましょう。",
+    "ro": "Takushī ni norimashō.",
+    "lit": "taxi · [dans] · montons (poli)"
+   },
+   {
+    "fr": "On fait une photo ensemble ?",
+    "tgt": "一緒に写真を撮りませんか？",
+    "ro": "Issho ni shashin o torimasen ka?",
+    "lit": "ensemble · photo · [objet] · ne pas prendre (poli) · [question]"
+   },
+   {
+    "fr": "Bon, on rentre ?",
+    "tgt": "そろそろ帰りましょうか？",
+    "ro": "Sorosoro kaerimashō ka?",
+    "lit": "bientôt · rentrons (poli) · [question]"
+   },
+   {
+    "fr": "Retournons-y la semaine prochaine.",
+    "tgt": "来週もまた行きましょう。",
+    "ro": "Raishū mo mata ikimashō.",
+    "lit": "semaine prochaine · [aussi] · encore · allons-y (poli)"
+   }
+  ]
+ },
+ "0-0-19": {
+  "module": "Le quotidien",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "Les mots magiques : « sumimasen, onegaishimasu, arigatō gozaimasu »",
+  "phrases": [
+   {
+    "fr": "Merci beaucoup !",
+    "tgt": "ありがとうございます！",
+    "ro": "Arigatō gozaimasu!",
+    "lit": "merci (poli)"
+   },
+   {
+    "fr": "Le premier module se termine.",
+    "tgt": "最初のモジュールはこれで終わりです。",
+    "ro": "Saisho no mojūru wa kore de owari desu.",
+    "lit": "premier · [de] · module · [thème] · ceci · [moyen] · fin · être (poli)"
+   },
+   {
+    "fr": "Le japonais est difficile, mais amusant.",
+    "tgt": "日本語は難しいですが、楽しいです。",
+    "ro": "Nihongo wa muzukashii desu ga, tanoshii desu.",
+    "lit": "japonais · [thème] · difficile · être (poli) · mais · amusant · être (poli)"
+   },
+   {
+    "fr": "Excusez-moi, encore une fois, s'il vous plaît.",
+    "tgt": "すみません、もう一度お願いします。",
+    "ro": "Sumimasen, mō ichido onegaishimasu.",
+    "lit": "excusez-moi · encore · une fois · je vous le demande (poli)"
+   },
+   {
+    "fr": "Je comprends un peu le japonais.",
+    "tgt": "日本語が少しわかります。",
+    "ro": "Nihongo ga sukoshi wakarimasu.",
+    "lit": "japonais · [sujet] · un peu · comprendre (poli)"
+   },
+   {
+    "fr": "Les particules sont importantes.",
+    "tgt": "助詞は大切です。",
+    "ro": "Joshi wa taisetsu desu.",
+    "lit": "particules · [thème] · important · être (poli)"
+   },
+   {
+    "fr": "« Sumimasen » est un mot très pratique.",
+    "tgt": "「すみません」はとても便利な言葉です。",
+    "ro": "« Sumimasen » wa totemo benri na kotoba desu.",
+    "lit": "« sumimasen » · [thème] · très · pratique-na · mot · être (poli)"
+   },
+   {
+    "fr": "Un café, s'il vous plaît.",
+    "tgt": "コーヒーをお願いします。",
+    "ro": "Kōhī o onegaishimasu.",
+    "lit": "café · [objet] · je vous le demande (poli)"
+   },
+   {
+    "fr": "Le prochain module, c'est le voyage.",
+    "tgt": "次のモジュールは旅行です。",
+    "ro": "Tsugi no mojūru wa ryokō desu.",
+    "lit": "suivant · [de] · module · [thème] · voyage · être (poli)"
+   },
+   {
+    "fr": "Merci pour tout, et à la prochaine !",
+    "tgt": "どうもありがとうございました。また会いましょう！",
+    "ro": "Dōmo arigatō gozaimashita. Mata aimashō!",
+    "lit": "vraiment · merci (poli, pour ce qui a été fait) · encore · retrouvons-nous (poli)"
+   }
+  ]
+ },
+ "0-1-0": {
+  "module": "En voyage",
+  "title": "Arrivée à l'aéroport du Kansai",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Votre passeport, s'il vous plaît.",
+    "tgt": "パスポートをお願いします。",
+    "ro": "Pasupōto o onegaishimasu.",
+    "lit": "passeport · [objet] · s'il vous plaît (poli)"
+   },
+   {
+    "fr": "Oui, le voici.",
+    "tgt": "はい、どうぞ。",
+    "ro": "Hai, dōzo.",
+    "lit": "oui · je vous en prie"
+   },
+   {
+    "fr": "Vous venez pour du tourisme ?",
+    "tgt": "観光ですか？",
+    "ro": "Kankō desu ka?",
+    "lit": "tourisme · être (poli) · [question]"
+   },
+   {
+    "fr": "Oui, c'est pour du tourisme.",
+    "tgt": "はい、観光です。",
+    "ro": "Hai, kankō desu.",
+    "lit": "oui · tourisme · être (poli)"
+   },
+   {
+    "fr": "Je reste dix jours au Japon.",
+    "tgt": "日本に十日間います。",
+    "ro": "Nihon ni tōkakan imasu.",
+    "lit": "Japon · [lieu] · dix-jours (durée) · être (vivants, poli)"
+   },
+   {
+    "fr": "Les bagages sont là-bas.",
+    "tgt": "荷物はあそこです。",
+    "ro": "Nimotsu wa asoko desu.",
+    "lit": "bagages · [thème] · là-bas · être (poli)"
+   },
+   {
+    "fr": "Ma valise est rouge.",
+    "tgt": "私のスーツケースは赤いです。",
+    "ro": "Watashi no sūtsukēsu wa akai desu.",
+    "lit": "moi · [possessif] · valise · [thème] · rouge · être (poli)"
+   },
+   {
+    "fr": "Je vais à Kyoto en train.",
+    "tgt": "電車で京都へ行きます。",
+    "ro": "Densha de Kyōto e ikimasu.",
+    "lit": "train · [moyen] · Kyoto · [direction] · aller (poli)"
+   },
+   {
+    "fr": "Le train part à trois heures.",
+    "tgt": "電車は三時に出ます。",
+    "ro": "Densha wa sanji ni demasu.",
+    "lit": "train · [thème] · trois-heures · [moment] · partir (poli)"
+   },
+   {
+    "fr": "Bienvenue au Japon !",
+    "tgt": "日本へようこそ！",
+    "ro": "Nihon e yōkoso!",
+    "lit": "Japon · [direction] · bienvenue"
+   }
+  ]
+ },
+ "0-1-1": {
+  "module": "En voyage",
+  "title": "Dans le train pour Kyoto",
+  "grammaire_de_la_lecon": "Trois écritures : hiragana, katakana et kanji",
+  "phrases": [
+   {
+    "fr": "Ce train va à Kyoto ?",
+    "tgt": "この電車は京都へ行きますか？",
+    "ro": "Kono densha wa Kyōto e ikimasu ka?",
+    "lit": "ce · train · [thème] · Kyoto · [direction] · aller (poli) · [question]"
+   },
+   {
+    "fr": "Oui, il y va.",
+    "tgt": "はい、行きます。",
+    "ro": "Hai, ikimasu.",
+    "lit": "oui · aller (poli)"
+   },
+   {
+    "fr": "Je peux m'asseoir ici ?",
+    "tgt": "この席、いいですか？",
+    "ro": "Kono seki, ii desu ka?",
+    "lit": "ce · siège · bien · être (poli) · [question]"
+   },
+   {
+    "fr": "Bien sûr, allez-y.",
+    "tgt": "ええ、どうぞ。",
+    "ro": "Ee, dōzo.",
+    "lit": "oui · je vous en prie"
+   },
+   {
+    "fr": "Le café est à trois cents yens.",
+    "tgt": "コーヒーは三百円です。",
+    "ro": "Kōhī wa sanbyaku en desu.",
+    "lit": "café · [thème] · trois-cents-yens · être (poli)"
+   },
+   {
+    "fr": "Un thé vert, s'il vous plaît.",
+    "tgt": "お茶をお願いします。",
+    "ro": "Ocha o onegaishimasu.",
+    "lit": "honorable-thé · [objet] · s'il vous plaît (poli)"
+   },
+   {
+    "fr": "Les kanji sont difficiles.",
+    "tgt": "漢字は難しいです。",
+    "ro": "Kanji wa muzukashii desu.",
+    "lit": "kanji · [thème] · difficile · être (poli)"
+   },
+   {
+    "fr": "Mais les hiragana sont faciles.",
+    "tgt": "でも、ひらがなは易しいです。",
+    "ro": "Demo, hiragana wa yasashii desu.",
+    "lit": "mais · hiragana · [thème] · facile · être (poli)"
+   },
+   {
+    "fr": "La prochaine gare, c'est Kyoto.",
+    "tgt": "次は京都です。",
+    "ro": "Tsugi wa Kyōto desu.",
+    "lit": "prochain · [thème] · Kyoto · être (poli)"
+   },
+   {
+    "fr": "On descend ici ?",
+    "tgt": "ここで降りますか？",
+    "ro": "Koko de orimasu ka?",
+    "lit": "ici · [lieu] · descendre (poli) · [question]"
+   }
+  ]
+ },
+ "0-1-2": {
+  "module": "En voyage",
+  "title": "À la gare de Kyoto",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "La gare de Kyoto est très grande.",
+    "tgt": "京都駅はとても大きいです。",
+    "ro": "Kyōto eki wa totemo ōkii desu.",
+    "lit": "Kyoto-gare · [thème] · très · grand · être (poli)"
+   },
+   {
+    "fr": "Il y a énormément de gens.",
+    "tgt": "人がたくさんいます。",
+    "ro": "Hito ga takusan imasu.",
+    "lit": "gens · [sujet] · beaucoup · il y a (vivants, poli)"
+   },
+   {
+    "fr": "Les casiers à bagages sont au sous-sol.",
+    "tgt": "コインロッカーは地下にあります。",
+    "ro": "Koin rokkā wa chika ni arimasu.",
+    "lit": "casier-à-pièces · [thème] · sous-sol · [lieu] · se trouver (objets, poli)"
+   },
+   {
+    "fr": "Je laisse ma valise ici.",
+    "tgt": "ここにスーツケースを置きます。",
+    "ro": "Koko ni sūtsukēsu o okimasu.",
+    "lit": "ici · [lieu] · valise · [objet] · poser (poli)"
+   },
+   {
+    "fr": "Ça coûte sept cents yens.",
+    "tgt": "七百円です。",
+    "ro": "Nanahyaku en desu.",
+    "lit": "sept-cents-yens · être (poli)"
+   },
+   {
+    "fr": "Le bus cent un va au Kinkaku-ji.",
+    "tgt": "百一番のバスは金閣寺へ行きます。",
+    "ro": "Hyakuichi ban no basu wa Kinkakuji e ikimasu.",
+    "lit": "numéro-cent-un · [possessif] · bus · [thème] · Kinkaku-ji · [direction] · aller (poli)"
+   },
+   {
+    "fr": "On prend le bus ?",
+    "tgt": "バスに乗りましょうか？",
+    "ro": "Basu ni norimashō ka?",
+    "lit": "bus · [dans] · monter (proposition) · [question]"
+   },
+   {
+    "fr": "Non, allons-y en métro.",
+    "tgt": "いいえ、地下鉄で行きましょう。",
+    "ro": "Iie, chikatetsu de ikimashō.",
+    "lit": "non · métro · [moyen] · aller (proposition)"
+   },
+   {
+    "fr": "Le métro est pratique.",
+    "tgt": "地下鉄は便利です。",
+    "ro": "Chikatetsu wa benri desu.",
+    "lit": "métro · [thème] · pratique · être (poli)"
+   },
+   {
+    "fr": "Allez, on y va !",
+    "tgt": "行きましょう！",
+    "ro": "Ikimashō!",
+    "lit": "aller (proposition)"
+   }
+  ]
+ },
+ "0-1-3": {
+  "module": "En voyage",
+  "title": "Au guichet des billets",
+  "grammaire_de_la_lecon": "« Kudasai » : donnez-moi, s'il vous plaît",
+  "phrases": [
+   {
+    "fr": "Excusez-moi, un billet, s'il vous plaît.",
+    "tgt": "すみません、切符をください。",
+    "ro": "Sumimasen, kippu o kudasai.",
+    "lit": "excusez-moi · billet · [objet] · donnez-moi"
+   },
+   {
+    "fr": "Deux billets pour Nara, s'il vous plaît.",
+    "tgt": "奈良の切符を二枚ください。",
+    "ro": "Nara no kippu o nimai kudasai.",
+    "lit": "Nara · [possessif] · billet · [objet] · deux-feuilles · donnez-moi"
+   },
+   {
+    "fr": "Un aller simple ?",
+    "tgt": "片道ですか？",
+    "ro": "Katamichi desu ka?",
+    "lit": "aller-simple · être (poli) · [question]"
+   },
+   {
+    "fr": "Non, un aller-retour.",
+    "tgt": "いいえ、往復です。",
+    "ro": "Iie, ōfuku desu.",
+    "lit": "non · aller-retour · être (poli)"
+   },
+   {
+    "fr": "Ça fait deux mille huit cent quatre-vingts yens.",
+    "tgt": "二千八百八十円です。",
+    "ro": "Nisen happyaku hachijū en desu.",
+    "lit": "deux-mille-huit-cent-quatre-vingts-yens · être (poli)"
+   },
+   {
+    "fr": "Tenez, trois mille yens.",
+    "tgt": "はい、三千円です。",
+    "ro": "Hai, sanzen en desu.",
+    "lit": "oui · trois-mille-yens · être (poli)"
+   },
+   {
+    "fr": "Voici votre monnaie.",
+    "tgt": "おつりです。",
+    "ro": "Otsuri desu.",
+    "lit": "honorable-monnaie · être (poli)"
+   },
+   {
+    "fr": "Un plan du métro aussi, s'il vous plaît.",
+    "tgt": "地下鉄の地図もください。",
+    "ro": "Chikatetsu no chizu mo kudasai.",
+    "lit": "métro · [possessif] · plan · [aussi] · donnez-moi"
+   },
+   {
+    "fr": "Et deux bentō aussi, s'il vous plaît.",
+    "tgt": "お弁当も二つください。",
+    "ro": "Obentō mo futatsu kudasai.",
+    "lit": "honorable-bentō · [aussi] · deux (objets) · donnez-moi"
+   },
+   {
+    "fr": "Le train est sur la voie deux.",
+    "tgt": "電車は二番線です。",
+    "ro": "Densha wa nibansen desu.",
+    "lit": "train · [thème] · voie-numéro-deux · être (poli)"
+   }
+  ]
+ },
+ "0-1-4": {
+  "module": "En voyage",
+  "title": "Une nuit au ryokan",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Bonsoir, je suis Martin, j'ai une réservation.",
+    "tgt": "こんばんは。予約のマルタンです。",
+    "ro": "Konbanwa. Yoyaku no Marutan desu.",
+    "lit": "bonsoir · réservation · [possessif] · Martin · être (poli)"
+   },
+   {
+    "fr": "Bienvenue, entrez donc.",
+    "tgt": "いらっしゃいませ。どうぞ。",
+    "ro": "Irasshaimase. Dōzo.",
+    "lit": "bienvenue (poli) · je vous en prie"
+   },
+   {
+    "fr": "Ici, on enlève ses chaussures.",
+    "tgt": "ここで靴を脱ぎます。",
+    "ro": "Koko de kutsu o nugimasu.",
+    "lit": "ici · [lieu] · chaussures · [objet] · enlever (poli)"
+   },
+   {
+    "fr": "La chambre est très jolie.",
+    "tgt": "部屋はとてもきれいです。",
+    "ro": "Heya wa totemo kirei desu.",
+    "lit": "chambre · [thème] · très · joli · être (poli)"
+   },
+   {
+    "fr": "Il y a des tatamis et un futon.",
+    "tgt": "畳と布団があります。",
+    "ro": "Tatami to futon ga arimasu.",
+    "lit": "tatami · [et] · futon · [sujet] · il y a (objets, poli)"
+   },
+   {
+    "fr": "Le dîner est à sept heures.",
+    "tgt": "夕食は七時です。",
+    "ro": "Yūshoku wa shichiji desu.",
+    "lit": "dîner · [thème] · sept-heures · être (poli)"
+   },
+   {
+    "fr": "Le bain est au premier étage.",
+    "tgt": "お風呂は二階です。",
+    "ro": "Ofuro wa nikai desu.",
+    "lit": "honorable-bain · [thème] · deuxième-niveau · être (poli)"
+   },
+   {
+    "fr": "Au ryokan, on porte un yukata.",
+    "tgt": "旅館では浴衣を着ます。",
+    "ro": "Ryokan de wa yukata o kimasu.",
+    "lit": "ryokan · [lieu] · [thème] · yukata · [objet] · porter (poli)"
+   },
+   {
+    "fr": "Le petit-déjeuner est japonais ?",
+    "tgt": "朝ご飯は和食ですか？",
+    "ro": "Asagohan wa washoku desu ka?",
+    "lit": "petit-déjeuner · [thème] · cuisine-japonaise · être (poli) · [question]"
+   },
+   {
+    "fr": "Oui, du riz et une soupe miso.",
+    "tgt": "はい、ご飯とみそ汁です。",
+    "ro": "Hai, gohan to misoshiru desu.",
+    "lit": "oui · riz · [et] · soupe-miso · être (poli)"
+   }
+  ]
+ },
+ "0-1-5": {
+  "module": "En voyage",
+  "title": "À l'office du tourisme",
+  "grammaire_de_la_lecon": "Les mots interrogatifs : « doko, nani, itsu, dare, ikura »",
+  "phrases": [
+   {
+    "fr": "Où est l'office du tourisme ?",
+    "tgt": "観光案内所はどこですか？",
+    "ro": "Kankō annaijo wa doko desu ka?",
+    "lit": "tourisme-bureau-d'information · [thème] · où · être (poli) · [question]"
+   },
+   {
+    "fr": "Il est dans la gare.",
+    "tgt": "駅の中です。",
+    "ro": "Eki no naka desu.",
+    "lit": "gare · [possessif] · intérieur · être (poli)"
+   },
+   {
+    "fr": "Qu'est-ce qu'il y a à voir à Kyoto ?",
+    "tgt": "京都には何がありますか？",
+    "ro": "Kyōto ni wa nani ga arimasu ka?",
+    "lit": "Kyoto · [lieu] · [thème] · quoi · [sujet] · il y a (objets, poli) · [question]"
+   },
+   {
+    "fr": "Il y a beaucoup de temples.",
+    "tgt": "お寺がたくさんあります。",
+    "ro": "Otera ga takusan arimasu.",
+    "lit": "honorable-temple · [sujet] · beaucoup · il y a (objets, poli)"
+   },
+   {
+    "fr": "Combien coûte l'entrée du Kinkaku-ji ?",
+    "tgt": "金閣寺の入場料はいくらですか？",
+    "ro": "Kinkakuji no nyūjōryō wa ikura desu ka?",
+    "lit": "Kinkaku-ji · [possessif] · droit-d'entrée · [thème] · combien · être (poli) · [question]"
+   },
+   {
+    "fr": "C'est cinq cents yens.",
+    "tgt": "五百円です。",
+    "ro": "Gohyaku en desu.",
+    "lit": "cinq-cents-yens · être (poli)"
+   },
+   {
+    "fr": "Quand a lieu la fête de Gion ?",
+    "tgt": "祇園祭はいつですか？",
+    "ro": "Gion matsuri wa itsu desu ka?",
+    "lit": "Gion-fête · [thème] · quand · être (poli) · [question]"
+   },
+   {
+    "fr": "C'est en juillet.",
+    "tgt": "七月です。",
+    "ro": "Shichigatsu desu.",
+    "lit": "juillet · être (poli)"
+   },
+   {
+    "fr": "Qui est la personne sur cette affiche ?",
+    "tgt": "このポスターの人は誰ですか？",
+    "ro": "Kono posutā no hito wa dare desu ka?",
+    "lit": "ce · affiche · [possessif] · personne · [thème] · qui · être (poli) · [question]"
+   },
+   {
+    "fr": "C'est une maiko de Gion.",
+    "tgt": "祇園の舞妓さんです。",
+    "ro": "Gion no maiko san desu.",
+    "lit": "Gion · [possessif] · maiko · madame · être (poli)"
+   }
+  ]
+ },
+ "0-1-6": {
+  "module": "En voyage",
+  "title": "Au Kinkaku-ji, le pavillon d'or",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Le Kinkaku-ji est vraiment beau.",
+    "tgt": "金閣寺は本当にきれいです。",
+    "ro": "Kinkakuji wa hontō ni kirei desu.",
+    "lit": "Kinkaku-ji · [thème] · vraiment · beau · être (poli)"
+   },
+   {
+    "fr": "Il est couleur or.",
+    "tgt": "金色です。",
+    "ro": "Kin'iro desu.",
+    "lit": "or-couleur · être (poli)"
+   },
+   {
+    "fr": "L'étang est très calme.",
+    "tgt": "池はとても静かです。",
+    "ro": "Ike wa totemo shizuka desu.",
+    "lit": "étang · [thème] · très · calme · être (poli)"
+   },
+   {
+    "fr": "On prend une photo ?",
+    "tgt": "写真を撮りましょうか？",
+    "ro": "Shashin o torimashō ka?",
+    "lit": "photo · [objet] · prendre (proposition) · [question]"
+   },
+   {
+    "fr": "Aujourd'hui, il y a beaucoup de touristes.",
+    "tgt": "今日は観光客が多いです。",
+    "ro": "Kyō wa kankōkyaku ga ōi desu.",
+    "lit": "aujourd'hui · [thème] · touristes · [sujet] · nombreux · être (poli)"
+   },
+   {
+    "fr": "On n'entre pas dans le pavillon.",
+    "tgt": "建物には入りません。",
+    "ro": "Tatemono ni wa hairimasen.",
+    "lit": "bâtiment · [direction] · [thème] · entrer (négatif, poli)"
+   },
+   {
+    "fr": "Le jardin aussi est magnifique.",
+    "tgt": "庭もすばらしいです。",
+    "ro": "Niwa mo subarashii desu.",
+    "lit": "jardin · [aussi] · magnifique · être (poli)"
+   },
+   {
+    "fr": "Et si on achetait une amulette ?",
+    "tgt": "お守りを買いませんか？",
+    "ro": "Omamori o kaimasen ka?",
+    "lit": "honorable-protection · [objet] · acheter (négatif, poli) · [question]"
+   },
+   {
+    "fr": "Cette amulette coûte huit cents yens.",
+    "tgt": "このお守りは八百円です。",
+    "ro": "Kono omamori wa happyaku en desu.",
+    "lit": "ce · honorable-protection · [thème] · huit-cents-yens · être (poli)"
+   },
+   {
+    "fr": "C'est un joli souvenir de Kyoto.",
+    "tgt": "京都のいいお土産です。",
+    "ro": "Kyōto no ii omiyage desu.",
+    "lit": "Kyoto · [possessif] · bon · souvenir-cadeau · être (poli)"
+   }
+  ]
+ },
+ "0-1-7": {
+  "module": "En voyage",
+  "title": "Les mille torii de Fushimi Inari",
+  "grammaire_de_la_lecon": "« Kara » et « made » : de… à…",
+  "phrases": [
+   {
+    "fr": "De Kyoto à Inari, c'est à deux gares.",
+    "tgt": "京都から稲荷まで二駅です。",
+    "ro": "Kyōto kara Inari made futaeki desu.",
+    "lit": "Kyoto · [de… à… : depuis] · Inari · [de… à… : jusqu'à] · deux-gares · être (poli)"
+   },
+   {
+    "fr": "En train, c'est cinq minutes.",
+    "tgt": "電車で五分です。",
+    "ro": "Densha de gofun desu.",
+    "lit": "train · [moyen] · cinq-minutes · être (poli)"
+   },
+   {
+    "fr": "La gare est juste devant le sanctuaire.",
+    "tgt": "駅は神社の前です。",
+    "ro": "Eki wa jinja no mae desu.",
+    "lit": "gare · [thème] · sanctuaire · [possessif] · devant · être (poli)"
+   },
+   {
+    "fr": "Il y a énormément de torii.",
+    "tgt": "鳥居がたくさんあります。",
+    "ro": "Torii ga takusan arimasu.",
+    "lit": "torii · [sujet] · beaucoup · il y a (objets, poli)"
+   },
+   {
+    "fr": "Ils sont tous orange.",
+    "tgt": "全部オレンジ色です。",
+    "ro": "Zenbu orenji iro desu.",
+    "lit": "tout · orange-couleur · être (poli)"
+   },
+   {
+    "fr": "On monte jusqu'en haut de la montagne ?",
+    "tgt": "山の上まで登りましょうか？",
+    "ro": "Yama no ue made noborimashō ka?",
+    "lit": "montagne · [possessif] · dessus · [de… à… : jusqu'à] · grimper (proposition) · [question]"
+   },
+   {
+    "fr": "Du bas jusqu'en haut, ça prend deux heures.",
+    "tgt": "下から上まで二時間かかります。",
+    "ro": "Shita kara ue made nijikan kakarimasu.",
+    "lit": "bas · [de… à… : depuis] · haut · [de… à… : jusqu'à] · deux-heures (durée) · prendre du temps (poli)"
+   },
+   {
+    "fr": "Les boutiques ouvrent de neuf heures à cinq heures.",
+    "tgt": "店は九時から五時までです。",
+    "ro": "Mise wa kuji kara goji made desu.",
+    "lit": "boutique · [thème] · neuf-heures · [de… à… : depuis] · cinq-heures · [de… à… : jusqu'à] · être (poli)"
+   },
+   {
+    "fr": "Et si on se reposait ici ?",
+    "tgt": "ここで休みましょうか？",
+    "ro": "Koko de yasumimashō ka?",
+    "lit": "ici · [lieu] · se reposer (proposition) · [question]"
+   },
+   {
+    "fr": "D'ici, la vue est superbe.",
+    "tgt": "ここからの景色はすばらしいです。",
+    "ro": "Koko kara no keshiki wa subarashii desu.",
+    "lit": "ici · [de… à… : depuis] · [possessif] · paysage · [thème] · superbe · être (poli)"
+   }
+  ]
+ },
+ "0-1-8": {
+  "module": "En voyage",
+  "title": "Une soirée à Gion",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ce soir, on va à Gion.",
+    "tgt": "今晩、祇園へ行きます。",
+    "ro": "Konban, Gion e ikimasu.",
+    "lit": "ce soir · Gion · [direction] · aller (poli)"
+   },
+   {
+    "fr": "Les vieilles maisons sont très belles.",
+    "tgt": "古い家はとてもきれいです。",
+    "ro": "Furui ie wa totemo kirei desu.",
+    "lit": "vieux · maison · [thème] · très · beau · être (poli)"
+   },
+   {
+    "fr": "Regarde, il y a une maiko là-bas !",
+    "tgt": "あそこに舞妓さんがいます！",
+    "ro": "Asoko ni maiko san ga imasu!",
+    "lit": "là-bas · [lieu] · maiko · madame · [sujet] · il y a (vivants, poli)"
+   },
+   {
+    "fr": "Dans cette rue, les photos sont interdites.",
+    "tgt": "この道では写真はだめです。",
+    "ro": "Kono michi de wa shashin wa dame desu.",
+    "lit": "ce · rue · [lieu] · [thème] · photo · [thème] · interdit · être (poli)"
+   },
+   {
+    "fr": "On dîne dans un petit restaurant.",
+    "tgt": "小さいレストランで晩ご飯を食べます。",
+    "ro": "Chiisai resutoran de bangohan o tabemasu.",
+    "lit": "petit · restaurant · [lieu] · dîner · [objet] · manger (poli)"
+   },
+   {
+    "fr": "Le tofu de Kyoto est délicieux.",
+    "tgt": "京都の豆腐はおいしいです。",
+    "ro": "Kyōto no tōfu wa oishii desu.",
+    "lit": "Kyoto · [possessif] · tofu · [thème] · délicieux · être (poli)"
+   },
+   {
+    "fr": "Le saké aussi est bon.",
+    "tgt": "お酒もおいしいです。",
+    "ro": "Osake mo oishii desu.",
+    "lit": "honorable-alcool · [aussi] · bon · être (poli)"
+   },
+   {
+    "fr": "Je ne bois pas beaucoup.",
+    "tgt": "あまり飲みません。",
+    "ro": "Amari nomimasen.",
+    "lit": "pas beaucoup · boire (négatif, poli)"
+   },
+   {
+    "fr": "La rivière Kamo est juste là.",
+    "tgt": "鴨川はすぐそこです。",
+    "ro": "Kamogawa wa sugu soko desu.",
+    "lit": "Kamo-rivière · [thème] · tout près · là · être (poli)"
+   },
+   {
+    "fr": "Et si on marchait un peu ?",
+    "tgt": "少し歩きませんか？",
+    "ro": "Sukoshi arukimasen ka?",
+    "lit": "un peu · marcher (négatif, poli) · [question]"
+   }
+  ]
+ },
+ "0-1-9": {
+  "module": "En voyage",
+  "title": "Une journée chez les daims de Nara",
+  "grammaire_de_la_lecon": "Le passé poli : « -mashita » et « -masen deshita »",
+  "phrases": [
+   {
+    "fr": "Hier, je suis allé à Nara.",
+    "tgt": "昨日、奈良へ行きました。",
+    "ro": "Kinō, Nara e ikimashita.",
+    "lit": "hier · Nara · [direction] · aller (passé, poli)"
+   },
+   {
+    "fr": "J'ai vu beaucoup de daims.",
+    "tgt": "鹿をたくさん見ました。",
+    "ro": "Shika o takusan mimashita.",
+    "lit": "daim · [objet] · beaucoup · voir (passé, poli)"
+   },
+   {
+    "fr": "J'ai acheté des galettes pour les daims.",
+    "tgt": "鹿せんべいを買いました。",
+    "ro": "Shika senbei o kaimashita.",
+    "lit": "daim-galette · [objet] · acheter (passé, poli)"
+   },
+   {
+    "fr": "Un daim a fait une révérence.",
+    "tgt": "鹿がおじぎをしました。",
+    "ro": "Shika ga ojigi o shimashita.",
+    "lit": "daim · [sujet] · révérence · [objet] · faire (passé, poli)"
+   },
+   {
+    "fr": "Ensuite, j'ai vu le Tōdai-ji.",
+    "tgt": "それから、東大寺を見ました。",
+    "ro": "Sorekara, Tōdaiji o mimashita.",
+    "lit": "ensuite · Tōdai-ji · [objet] · voir (passé, poli)"
+   },
+   {
+    "fr": "Le grand bouddha est immense.",
+    "tgt": "大仏はとても大きいです。",
+    "ro": "Daibutsu wa totemo ōkii desu.",
+    "lit": "grand-bouddha · [thème] · très · grand · être (poli)"
+   },
+   {
+    "fr": "Je n'ai pas pris de photo.",
+    "tgt": "写真は撮りませんでした。",
+    "ro": "Shashin wa torimasen deshita.",
+    "lit": "photo · [thème] · prendre (négatif passé, poli)"
+   },
+   {
+    "fr": "Je n'ai pas mangé à midi.",
+    "tgt": "昼ご飯は食べませんでした。",
+    "ro": "Hirugohan wa tabemasen deshita.",
+    "lit": "déjeuner · [thème] · manger (négatif passé, poli)"
+   },
+   {
+    "fr": "Je suis rentré à Kyoto à six heures.",
+    "tgt": "六時に京都へ帰りました。",
+    "ro": "Rokuji ni Kyōto e kaerimashita.",
+    "lit": "six-heures · [moment] · Kyoto · [direction] · rentrer (passé, poli)"
+   },
+   {
+    "fr": "C'était une très bonne journée.",
+    "tgt": "とてもいい一日でした。",
+    "ro": "Totemo ii ichinichi deshita.",
+    "lit": "très · bon · une-journée · être (passé, poli)"
+   }
+  ]
+ },
+ "0-1-10": {
+  "module": "En voyage",
+  "title": "Un bagage égaré",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Excusez-moi, ma valise n'est pas arrivée.",
+    "tgt": "すみません、スーツケースが来ませんでした。",
+    "ro": "Sumimasen, sūtsukēsu ga kimasen deshita.",
+    "lit": "excusez-moi · valise · [sujet] · venir (négatif passé, poli)"
+   },
+   {
+    "fr": "Votre nom, s'il vous plaît.",
+    "tgt": "お名前をお願いします。",
+    "ro": "Onamae o onegaishimasu.",
+    "lit": "honorable-nom · [objet] · s'il vous plaît (poli)"
+   },
+   {
+    "fr": "Je m'appelle Claire Dubois.",
+    "tgt": "クレール・デュボワです。",
+    "ro": "Kurēru Dyubowa desu.",
+    "lit": "Claire Dubois · être (poli)"
+   },
+   {
+    "fr": "La valise est de quelle couleur ?",
+    "tgt": "スーツケースは何色ですか？",
+    "ro": "Sūtsukēsu wa naniiro desu ka?",
+    "lit": "valise · [thème] · quelle-couleur · être (poli) · [question]"
+   },
+   {
+    "fr": "Elle est bleue.",
+    "tgt": "青いです。",
+    "ro": "Aoi desu.",
+    "lit": "bleu · être (poli)"
+   },
+   {
+    "fr": "Et elle est assez grande.",
+    "tgt": "かなり大きいです。",
+    "ro": "Kanari ōkii desu.",
+    "lit": "assez · grand · être (poli)"
+   },
+   {
+    "fr": "J'ai pris l'avion à Paris.",
+    "tgt": "パリで飛行機に乗りました。",
+    "ro": "Pari de hikōki ni norimashita.",
+    "lit": "Paris · [lieu] · avion · [dans] · monter (passé, poli)"
+   },
+   {
+    "fr": "Nous la livrerons à votre hôtel demain.",
+    "tgt": "明日、ホテルに届けます。",
+    "ro": "Ashita, hoteru ni todokemasu.",
+    "lit": "demain · hôtel · [direction] · livrer (poli)"
+   },
+   {
+    "fr": "Voici l'adresse de mon hôtel.",
+    "tgt": "これはホテルの住所です。",
+    "ro": "Kore wa hoteru no jūsho desu.",
+    "lit": "ceci · [thème] · hôtel · [possessif] · adresse · être (poli)"
+   },
+   {
+    "fr": "Merci, me voilà rassurée.",
+    "tgt": "ありがとうございます。安心しました。",
+    "ro": "Arigatō gozaimasu. Anshin shimashita.",
+    "lit": "merci (très poli) · soulagement · faire (passé, poli)"
+   }
+  ]
+ },
+ "0-1-11": {
+  "module": "En voyage",
+  "title": "Dōtonbori, le soir",
+  "grammaire_de_la_lecon": "« -tai desu » : dire ce qu'on veut faire",
+  "phrases": [
+   {
+    "fr": "Je veux voir Dōtonbori.",
+    "tgt": "道頓堀を見たいです。",
+    "ro": "Dōtonbori o mitai desu.",
+    "lit": "Dōtonbori · [objet] · voir-vouloir · être (poli)"
+   },
+   {
+    "fr": "Les néons sont vraiment lumineux.",
+    "tgt": "ネオンは本当に明るいです。",
+    "ro": "Neon wa hontō ni akarui desu.",
+    "lit": "néon · [thème] · vraiment · lumineux · être (poli)"
+   },
+   {
+    "fr": "Je veux une photo devant la grande enseigne.",
+    "tgt": "大きい看板の前で写真を撮りたいです。",
+    "ro": "Ōkii kanban no mae de shashin o toritai desu.",
+    "lit": "grand · enseigne · [possessif] · devant · [lieu] · photo · [objet] · prendre-vouloir · être (poli)"
+   },
+   {
+    "fr": "J'ai un petit creux.",
+    "tgt": "おなかがすきました。",
+    "ro": "Onaka ga sukimashita.",
+    "lit": "ventre · [sujet] · se vider (passé, poli)"
+   },
+   {
+    "fr": "Qu'est-ce que tu veux manger ?",
+    "tgt": "何を食べたいですか？",
+    "ro": "Nani o tabetai desu ka?",
+    "lit": "quoi · [objet] · manger-vouloir · être (poli) · [question]"
+   },
+   {
+    "fr": "Je veux manger des takoyaki.",
+    "tgt": "たこ焼きを食べたいです。",
+    "ro": "Takoyaki o tabetai desu.",
+    "lit": "takoyaki · [objet] · manger-vouloir · être (poli)"
+   },
+   {
+    "fr": "Moi, je veux boire une bière.",
+    "tgt": "私はビールを飲みたいです。",
+    "ro": "Watashi wa bīru o nomitai desu.",
+    "lit": "moi · [thème] · bière · [objet] · boire-vouloir · être (poli)"
+   },
+   {
+    "fr": "Je ne veux pas faire une longue queue.",
+    "tgt": "長い列には並びたくないです。",
+    "ro": "Nagai retsu ni wa narabitakunai desu.",
+    "lit": "long · file · [lieu] · [thème] · faire-la-queue-ne-pas-vouloir · être (poli)"
+   },
+   {
+    "fr": "Je veux monter sur le bateau.",
+    "tgt": "船に乗りたいです。",
+    "ro": "Fune ni noritai desu.",
+    "lit": "bateau · [dans] · monter-vouloir · être (poli)"
+   },
+   {
+    "fr": "Osaka est vraiment animée.",
+    "tgt": "大阪は本当ににぎやかです。",
+    "ro": "Ōsaka wa hontō ni nigiyaka desu.",
+    "lit": "Osaka · [thème] · vraiment · animé · être (poli)"
+   }
+  ]
+ },
+ "0-1-12": {
+  "module": "En voyage",
+  "title": "Takoyaki et okonomiyaki",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Deux barquettes de takoyaki, s'il vous plaît.",
+    "tgt": "たこ焼きを二つください。",
+    "ro": "Takoyaki o futatsu kudasai.",
+    "lit": "takoyaki · [objet] · deux (objets) · donnez-moi"
+   },
+   {
+    "fr": "Attention, c'est brûlant !",
+    "tgt": "とても熱いです！",
+    "ro": "Totemo atsui desu!",
+    "lit": "très · chaud · être (poli)"
+   },
+   {
+    "fr": "À l'intérieur, c'est du poulpe.",
+    "tgt": "中はたこです。",
+    "ro": "Naka wa tako desu.",
+    "lit": "intérieur · [thème] · poulpe · être (poli)"
+   },
+   {
+    "fr": "Ce soir, on mange des okonomiyaki.",
+    "tgt": "今晩はお好み焼きを食べます。",
+    "ro": "Konban wa okonomiyaki o tabemasu.",
+    "lit": "ce soir · [thème] · okonomiyaki · [objet] · manger (poli)"
+   },
+   {
+    "fr": "On les fait cuire soi-même.",
+    "tgt": "自分で焼きます。",
+    "ro": "Jibun de yakimasu.",
+    "lit": "soi-même · [moyen] · faire cuire (poli)"
+   },
+   {
+    "fr": "Je mets du chou et du porc.",
+    "tgt": "キャベツと豚肉を入れます。",
+    "ro": "Kyabetsu to butaniku o iremasu.",
+    "lit": "chou · [et] · porc · [objet] · mettre (poli)"
+   },
+   {
+    "fr": "Ensuite, on verse la sauce.",
+    "tgt": "それから、ソースをかけます。",
+    "ro": "Sorekara, sōsu o kakemasu.",
+    "lit": "ensuite · sauce · [objet] · verser (poli)"
+   },
+   {
+    "fr": "Ça sent vraiment bon.",
+    "tgt": "いいにおいです。",
+    "ro": "Ii nioi desu.",
+    "lit": "bon · odeur · être (poli)"
+   },
+   {
+    "fr": "C'est la spécialité d'Osaka.",
+    "tgt": "大阪の名物です。",
+    "ro": "Ōsaka no meibutsu desu.",
+    "lit": "Osaka · [possessif] · spécialité · être (poli)"
+   },
+   {
+    "fr": "J'ai envie d'en remanger demain.",
+    "tgt": "明日もまた食べたいです。",
+    "ro": "Ashita mo mata tabetai desu.",
+    "lit": "demain · [aussi] · encore · manger-vouloir · être (poli)"
+   }
+  ]
+ },
+ "0-1-13": {
+  "module": "En voyage",
+  "title": "À la pharmacie",
+  "grammaire_de_la_lecon": "« Ga » : la particule du sujet, et la différence avec « wa »",
+  "phrases": [
+   {
+    "fr": "Il y a une pharmacie près d'ici ?",
+    "tgt": "この近くに薬局がありますか？",
+    "ro": "Kono chikaku ni yakkyoku ga arimasu ka?",
+    "lit": "ce · environs · [lieu] · pharmacie · [sujet] · il y a (objets, poli) · [question]"
+   },
+   {
+    "fr": "Oui, à côté de la gare.",
+    "tgt": "はい、駅の隣にあります。",
+    "ro": "Hai, eki no tonari ni arimasu.",
+    "lit": "oui · gare · [possessif] · à côté · [lieu] · se trouver (objets, poli)"
+   },
+   {
+    "fr": "J'ai mal à la tête.",
+    "tgt": "頭が痛いです。",
+    "ro": "Atama ga itai desu.",
+    "lit": "tête · [sujet] · douloureux · être (poli)"
+   },
+   {
+    "fr": "J'ai aussi un peu de fièvre.",
+    "tgt": "少し熱もあります。",
+    "ro": "Sukoshi netsu mo arimasu.",
+    "lit": "un peu · fièvre · [aussi] · il y a (objets, poli)"
+   },
+   {
+    "fr": "Depuis quand ?",
+    "tgt": "いつからですか？",
+    "ro": "Itsu kara desu ka?",
+    "lit": "quand · [de… à… : depuis] · être (poli) · [question]"
+   },
+   {
+    "fr": "Depuis hier soir.",
+    "tgt": "昨日の夜からです。",
+    "ro": "Kinō no yoru kara desu.",
+    "lit": "hier · [possessif] · soir · [de… à… : depuis] · être (poli)"
+   },
+   {
+    "fr": "C'est ce médicament-ci qu'il vous faut.",
+    "tgt": "この薬がいいです。",
+    "ro": "Kono kusuri ga ii desu.",
+    "lit": "ce · médicament · [sujet] · bon · être (poli)"
+   },
+   {
+    "fr": "On en prend un après chaque repas.",
+    "tgt": "食後に一錠飲みます。",
+    "ro": "Shokugo ni ichijō nomimasu.",
+    "lit": "après-repas · [moment] · un-comprimé · avaler (poli)"
+   },
+   {
+    "fr": "Mon ami, lui, a mal au ventre.",
+    "tgt": "友達はおなかが痛いです。",
+    "ro": "Tomodachi wa onaka ga itai desu.",
+    "lit": "ami · [thème] · ventre · [sujet] · douloureux · être (poli)"
+   },
+   {
+    "fr": "Qui va à la pharmacie ?",
+    "tgt": "誰が薬局へ行きますか？",
+    "ro": "Dare ga yakkyoku e ikimasu ka?",
+    "lit": "qui · [sujet] · pharmacie · [direction] · aller (poli) · [question]"
+   }
+  ]
+ },
+ "0-1-14": {
+  "module": "En voyage",
+  "title": "Changer de l'argent",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Je voudrais changer des euros en yens.",
+    "tgt": "ユーロを円に両替したいです。",
+    "ro": "Yūro o en ni ryōgae shitai desu.",
+    "lit": "euro · [objet] · yen · [direction] · change · faire-vouloir · être (poli)"
+   },
+   {
+    "fr": "Le bureau de change est au premier étage.",
+    "tgt": "両替所は二階です。",
+    "ro": "Ryōgaejo wa nikai desu.",
+    "lit": "bureau-de-change · [thème] · deuxième-niveau · être (poli)"
+   },
+   {
+    "fr": "Cent euros, ça fait combien de yens ?",
+    "tgt": "百ユーロは何円ですか？",
+    "ro": "Hyaku yūro wa nan'en desu ka?",
+    "lit": "cent-euros · [thème] · combien-de-yens · être (poli) · [question]"
+   },
+   {
+    "fr": "Environ seize mille yens.",
+    "tgt": "約一万六千円です。",
+    "ro": "Yaku ichiman rokusen en desu.",
+    "lit": "environ · seize-mille-yens · être (poli)"
+   },
+   {
+    "fr": "Au Japon, on paie souvent en liquide.",
+    "tgt": "日本では現金をよく使います。",
+    "ro": "Nihon de wa genkin o yoku tsukaimasu.",
+    "lit": "Japon · [lieu] · [thème] · argent-liquide · [objet] · souvent · utiliser (poli)"
+   },
+   {
+    "fr": "Il y a une banque près de la gare.",
+    "tgt": "駅の近くに銀行があります。",
+    "ro": "Eki no chikaku ni ginkō ga arimasu.",
+    "lit": "gare · [possessif] · environs · [lieu] · banque · [sujet] · il y a (objets, poli)"
+   },
+   {
+    "fr": "Cette carte ne marche pas ?",
+    "tgt": "このカードはだめですか？",
+    "ro": "Kono kādo wa dame desu ka?",
+    "lit": "ce · carte · [thème] · pas bon · être (poli) · [question]"
+   },
+   {
+    "fr": "Alors je paie en espèces.",
+    "tgt": "じゃあ、現金で払います。",
+    "ro": "Jā, genkin de haraimasu.",
+    "lit": "alors · argent-liquide · [moyen] · payer (poli)"
+   },
+   {
+    "fr": "Je n'ai pas de petite monnaie.",
+    "tgt": "小銭がありません。",
+    "ro": "Kozeni ga arimasen.",
+    "lit": "petite-monnaie · [sujet] · il y a (négatif, poli)"
+   },
+   {
+    "fr": "Un billet de dix mille yens, ça va ?",
+    "tgt": "一万円札でいいですか？",
+    "ro": "Ichiman en satsu de ii desu ka?",
+    "lit": "dix-mille-yens-billet · [moyen] · bien · être (poli) · [question]"
+   }
+  ]
+ },
+ "0-1-15": {
+  "module": "En voyage",
+  "title": "En bus ou en taxi ?",
+  "grammaire_de_la_lecon": "Les mots étrangers en katakana : « hoteru, basu, takushī »",
+  "phrases": [
+   {
+    "fr": "Je vais à l'hôtel en bus.",
+    "tgt": "バスでホテルへ行きます。",
+    "ro": "Basu de hoteru e ikimasu.",
+    "lit": "bus · [moyen] · hôtel · [direction] · aller (poli)"
+   },
+   {
+    "fr": "L'arrêt de bus est en face.",
+    "tgt": "バス停は向こうです。",
+    "ro": "Basutei wa mukō desu.",
+    "lit": "bus-arrêt · [thème] · en face · être (poli)"
+   },
+   {
+    "fr": "Le bus coûte deux cent trente yens.",
+    "tgt": "バスは二百三十円です。",
+    "ro": "Basu wa nihyaku sanjū en desu.",
+    "lit": "bus · [thème] · deux-cent-trente-yens · être (poli)"
+   },
+   {
+    "fr": "On monte par la porte arrière.",
+    "tgt": "後ろのドアから乗ります。",
+    "ro": "Ushiro no doa kara norimasu.",
+    "lit": "arrière · [possessif] · porte · [de… à… : depuis] · monter (poli)"
+   },
+   {
+    "fr": "Oh non, le bus est plein.",
+    "tgt": "あ、バスは満員です。",
+    "ro": "A, basu wa man'in desu.",
+    "lit": "oh · bus · [thème] · plein · être (poli)"
+   },
+   {
+    "fr": "Alors, prenons un taxi.",
+    "tgt": "じゃあ、タクシーに乗りましょう。",
+    "ro": "Jā, takushī ni norimashō.",
+    "lit": "alors · taxi · [dans] · monter (proposition)"
+   },
+   {
+    "fr": "La portière est automatique.",
+    "tgt": "ドアは自動です。",
+    "ro": "Doa wa jidō desu.",
+    "lit": "portière · [thème] · automatique · être (poli)"
+   },
+   {
+    "fr": "À la gare de Kyoto, s'il vous plaît.",
+    "tgt": "京都駅までお願いします。",
+    "ro": "Kyōto eki made onegaishimasu.",
+    "lit": "Kyoto-gare · [de… à… : jusqu'à] · s'il vous plaît (poli)"
+   },
+   {
+    "fr": "La carte de crédit, c'est possible ?",
+    "tgt": "クレジットカードは大丈夫ですか？",
+    "ro": "Kurejitto kādo wa daijōbu desu ka?",
+    "lit": "carte-de-crédit · [thème] · ça va · être (poli) · [question]"
+   },
+   {
+    "fr": "Oui, aucun problème.",
+    "tgt": "はい、大丈夫です。",
+    "ro": "Hai, daijōbu desu.",
+    "lit": "oui · ça va · être (poli)"
+   }
+  ]
+ },
+ "0-1-16": {
+  "module": "En voyage",
+  "title": "Un retard de shinkansen",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Le shinkansen est en retard.",
+    "tgt": "新幹線が遅れました。",
+    "ro": "Shinkansen ga okuremashita.",
+    "lit": "shinkansen · [sujet] · prendre du retard (passé, poli)"
+   },
+   {
+    "fr": "Le vent est fort aujourd'hui.",
+    "tgt": "今日は風が強いです。",
+    "ro": "Kyō wa kaze ga tsuyoi desu.",
+    "lit": "aujourd'hui · [thème] · vent · [sujet] · fort · être (poli)"
+   },
+   {
+    "fr": "Combien de minutes de retard ?",
+    "tgt": "何分遅れますか？",
+    "ro": "Nanpun okuremasu ka?",
+    "lit": "combien-de-minutes · prendre du retard (poli) · [question]"
+   },
+   {
+    "fr": "Environ trente minutes.",
+    "tgt": "三十分ぐらいです。",
+    "ro": "Sanjuppun gurai desu.",
+    "lit": "trente-minutes · environ · être (poli)"
+   },
+   {
+    "fr": "Au Japon, c'est rare.",
+    "tgt": "日本ではめずらしいです。",
+    "ro": "Nihon de wa mezurashii desu.",
+    "lit": "Japon · [lieu] · [thème] · rare · être (poli)"
+   },
+   {
+    "fr": "Je vais rater ma correspondance.",
+    "tgt": "乗り換えに間に合いません。",
+    "ro": "Norikae ni maniaimasen.",
+    "lit": "correspondance · [pour] · être à temps (négatif, poli)"
+   },
+   {
+    "fr": "Allons au guichet.",
+    "tgt": "窓口へ行きましょう。",
+    "ro": "Madoguchi e ikimashō.",
+    "lit": "guichet · [direction] · aller (proposition)"
+   },
+   {
+    "fr": "Le prochain train est à quelle heure ?",
+    "tgt": "次の電車は何時ですか？",
+    "ro": "Tsugi no densha wa nanji desu ka?",
+    "lit": "prochain · [possessif] · train · [thème] · quelle-heure · être (poli) · [question]"
+   },
+   {
+    "fr": "C'est à quatre heures dix.",
+    "tgt": "四時十分です。",
+    "ro": "Yoji juppun desu.",
+    "lit": "quatre-heures · dix-minutes · être (poli)"
+   },
+   {
+    "fr": "Bon, j'attends au café.",
+    "tgt": "じゃあ、喫茶店で待ちます。",
+    "ro": "Jā, kissaten de machimasu.",
+    "lit": "alors · café · [lieu] · attendre (poli)"
+   }
+  ]
+ },
+ "0-1-17": {
+  "module": "En voyage",
+  "title": "Perdu dans Osaka",
+  "grammaire_de_la_lecon": "La forme en « -te » + « kudasai » : demander poliment",
+  "phrases": [
+   {
+    "fr": "Excusez-moi, je me suis perdu.",
+    "tgt": "すみません、道に迷いました。",
+    "ro": "Sumimasen, michi ni mayoimashita.",
+    "lit": "excusez-moi · chemin · [lieu] · s'égarer (passé, poli)"
+   },
+   {
+    "fr": "Le château d'Osaka, c'est par où ?",
+    "tgt": "大阪城はどちらですか？",
+    "ro": "Ōsakajō wa dochira desu ka?",
+    "lit": "Osaka-château · [thème] · quelle direction · être (poli) · [question]"
+   },
+   {
+    "fr": "Attendez un petit instant, s'il vous plaît.",
+    "tgt": "ちょっと待ってください。",
+    "ro": "Chotto matte kudasai.",
+    "lit": "un peu · attendre (forme en -te) · s'il vous plaît"
+   },
+   {
+    "fr": "Montrez-moi sur le plan, s'il vous plaît.",
+    "tgt": "地図で教えてください。",
+    "ro": "Chizu de oshiete kudasai.",
+    "lit": "plan · [moyen] · indiquer (forme en -te) · s'il vous plaît"
+   },
+   {
+    "fr": "Répétez encore une fois, s'il vous plaît.",
+    "tgt": "もう一度言ってください。",
+    "ro": "Mō ichido itte kudasai.",
+    "lit": "encore · une-fois · dire (forme en -te) · s'il vous plaît"
+   },
+   {
+    "fr": "Parlez lentement, s'il vous plaît.",
+    "tgt": "ゆっくり話してください。",
+    "ro": "Yukkuri hanashite kudasai.",
+    "lit": "lentement · parler (forme en -te) · s'il vous plaît"
+   },
+   {
+    "fr": "Allez tout droit.",
+    "tgt": "まっすぐ行ってください。",
+    "ro": "Massugu itte kudasai.",
+    "lit": "tout droit · aller (forme en -te) · s'il vous plaît"
+   },
+   {
+    "fr": "Au feu, tournez à droite.",
+    "tgt": "信号を右に曲がってください。",
+    "ro": "Shingō o migi ni magatte kudasai.",
+    "lit": "feu · [objet : lieu traversé] · droite · [direction] · tourner (forme en -te) · s'il vous plaît"
+   },
+   {
+    "fr": "Le temple est loin d'ici ?",
+    "tgt": "お寺はここから遠いですか？",
+    "ro": "Otera wa koko kara tōi desu ka?",
+    "lit": "honorable-temple · [thème] · ici · [à partir de] · loin · être (poli) · [question]"
+   },
+   {
+    "fr": "Non, c'est à dix minutes à pied.",
+    "tgt": "いいえ、歩いて十分です。",
+    "ro": "Iie, aruite juppun desu.",
+    "lit": "non · en marchant · dix-minutes · être (poli)"
+   }
+  ]
+ },
+ "0-1-18": {
+  "module": "En voyage",
+  "title": "Des souvenirs pour la famille",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Je veux acheter des souvenirs.",
+    "tgt": "お土産を買いたいです。",
+    "ro": "Omiyage o kaitai desu.",
+    "lit": "souvenir-cadeau · [objet] · acheter-vouloir · être (poli)"
+   },
+   {
+    "fr": "Les gâteaux de Kyoto ont beaucoup de succès.",
+    "tgt": "京都のお菓子は人気があります。",
+    "ro": "Kyōto no okashi wa ninki ga arimasu.",
+    "lit": "Kyoto · [possessif] · honorable-gâteau · [thème] · popularité · [sujet] · il y a (objets, poli)"
+   },
+   {
+    "fr": "Ces yatsuhashi, s'il vous plaît.",
+    "tgt": "この八つ橋をください。",
+    "ro": "Kono yatsuhashi o kudasai.",
+    "lit": "ce · yatsuhashi · [objet] · donnez-moi"
+   },
+   {
+    "fr": "C'est un cadeau pour ma famille.",
+    "tgt": "家族のお土産です。",
+    "ro": "Kazoku no omiyage desu.",
+    "lit": "famille · [possessif] · souvenir-cadeau · être (poli)"
+   },
+   {
+    "fr": "Pouvez-vous l'emballer, s'il vous plaît ?",
+    "tgt": "包んでください。",
+    "ro": "Tsutsunde kudasai.",
+    "lit": "emballer (forme en -te) · s'il vous plaît"
+   },
+   {
+    "fr": "Un sac de plus, s'il vous plaît.",
+    "tgt": "袋をもう一枚ください。",
+    "ro": "Fukuro o mō ichimai kudasai.",
+    "lit": "sac · [objet] · encore · une-feuille · donnez-moi"
+   },
+   {
+    "fr": "Cet éventail est très joli.",
+    "tgt": "この扇子はとてもきれいです。",
+    "ro": "Kono sensu wa totemo kirei desu.",
+    "lit": "ce · éventail · [thème] · très · joli · être (poli)"
+   },
+   {
+    "fr": "Il coûte trois mille cinq cents yens.",
+    "tgt": "三千五百円です。",
+    "ro": "Sanzen gohyaku en desu.",
+    "lit": "trois-mille-cinq-cents-yens · être (poli)"
+   },
+   {
+    "fr": "Hum, c'est un peu cher.",
+    "tgt": "うーん、ちょっと高いです。",
+    "ro": "Ūn, chotto takai desu.",
+    "lit": "hum · un peu · cher · être (poli)"
+   },
+   {
+    "fr": "Tant pis, je l'achète !",
+    "tgt": "でも、買います！",
+    "ro": "Demo, kaimasu!",
+    "lit": "mais · acheter (poli)"
+   }
+  ]
+ },
+ "0-1-19": {
+  "module": "En voyage",
+  "title": "Fin du module : un bilan de voyage",
+  "grammaire_de_la_lecon": "« Yo » et « ne » : les petites particules de fin de phrase",
+  "phrases": [
+   {
+    "fr": "C'était un beau voyage, hein ?",
+    "tgt": "いい旅行でしたね。",
+    "ro": "Ii ryokō deshita ne.",
+    "lit": "bon · voyage · être (passé, poli) · [n'est-ce pas]"
+   },
+   {
+    "fr": "Les daims de Nara sont mignons, hein ?",
+    "tgt": "奈良の鹿はかわいいですね。",
+    "ro": "Nara no shika wa kawaii desu ne.",
+    "lit": "Nara · [possessif] · daim · [thème] · mignon · être (poli) · [n'est-ce pas]"
+   },
+   {
+    "fr": "Et les takoyaki sont délicieux, tu sais !",
+    "tgt": "たこ焼きもおいしいですよ。",
+    "ro": "Takoyaki mo oishii desu yo.",
+    "lit": "takoyaki · [aussi] · délicieux · être (poli) · [tu sais]"
+   },
+   {
+    "fr": "J'ai retenu beaucoup de mots japonais.",
+    "tgt": "日本語の言葉をたくさん覚えました。",
+    "ro": "Nihongo no kotoba o takusan oboemashita.",
+    "lit": "japonais · [possessif] · mot · [objet] · beaucoup · retenir (passé, poli)"
+   },
+   {
+    "fr": "Les katakana, maintenant, ça va.",
+    "tgt": "カタカナはもう大丈夫です。",
+    "ro": "Katakana wa mō daijōbu desu.",
+    "lit": "katakana · [thème] · désormais · ça va · être (poli)"
+   },
+   {
+    "fr": "Le japonais, c'est difficile, hein ?",
+    "tgt": "日本語は難しいですね。",
+    "ro": "Nihongo wa muzukashii desu ne.",
+    "lit": "japonais · [thème] · difficile · être (poli) · [n'est-ce pas]"
+   },
+   {
+    "fr": "Mais c'est passionnant, je t'assure !",
+    "tgt": "でも、おもしろいですよ。",
+    "ro": "Demo, omoshiroi desu yo.",
+    "lit": "mais · intéressant · être (poli) · [tu sais]"
+   },
+   {
+    "fr": "J'ai souvent utilisé « kudasai ».",
+    "tgt": "「ください」をよく使いました。",
+    "ro": "« Kudasai » o yoku tsukaimashita.",
+    "lit": "kudasai · [objet] · souvent · utiliser (passé, poli)"
+   },
+   {
+    "fr": "La prochaine fois, je veux rester plus longtemps.",
+    "tgt": "今度はもっと長くいたいです。",
+    "ro": "Kondo wa motto nagaku itai desu.",
+    "lit": "la prochaine fois · [thème] · plus · longtemps · rester-vouloir · être (poli)"
+   },
+   {
+    "fr": "On aimerait bien revenir un jour, hein ?",
+    "tgt": "またいつか来たいですね。",
+    "ro": "Mata itsuka kitai desu ne.",
+    "lit": "encore · un jour · venir-vouloir · être (poli) · [n'est-ce pas]"
+   }
+  ]
+ },
+ "0-2-0": {
+  "module": "Conversation sociale",
+  "title": "Se présenter à Yokohama",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Enchantée, je m'appelle Marie.",
+    "tgt": "はじめまして、マリーです。",
+    "ro": "Hajimemashite, Marī desu.",
+    "lit": "enchanté (première fois) · Marie · être (poli)"
+   },
+   {
+    "fr": "Je suis française, je viens de Lyon.",
+    "tgt": "フランス人です。リヨンから来ました。",
+    "ro": "Furansujin desu. Riyon kara kimashita.",
+    "lit": "Français-personne · être (poli) · Lyon · [depuis] · venir (passé poli)"
+   },
+   {
+    "fr": "Moi, c'est Kenji Tanaka.",
+    "tgt": "田中健二です。",
+    "ro": "Tanaka Kenji desu.",
+    "lit": "Tanaka Kenji · être (poli)"
+   },
+   {
+    "fr": "Vous êtes de Yokohama ?",
+    "tgt": "横浜の人ですか？",
+    "ro": "Yokohama no hito desu ka?",
+    "lit": "Yokohama · [possessif] · personne · être (poli) · [question]"
+   },
+   {
+    "fr": "Oui, je suis né à Yokohama.",
+    "tgt": "はい、横浜生まれです。",
+    "ro": "Hai, Yokohama umare desu.",
+    "lit": "oui · Yokohama · naissance · être (poli)"
+   },
+   {
+    "fr": "Vous êtes venue au Japon pour le travail ?",
+    "tgt": "仕事で日本に来ましたか？",
+    "ro": "Shigoto de Nihon ni kimashita ka?",
+    "lit": "travail · [moyen] · Japon · [direction] · venir (passé poli) · [question]"
+   },
+   {
+    "fr": "Oui, je travaille pour une entreprise de Yokohama.",
+    "tgt": "はい、横浜の会社員です。",
+    "ro": "Hai, Yokohama no kaishain desu.",
+    "lit": "oui · Yokohama · [possessif] · employé d'entreprise · être (poli)"
+   },
+   {
+    "fr": "C'est la première fois que je viens au Japon.",
+    "tgt": "日本は初めてです。",
+    "ro": "Nihon wa hajimete desu.",
+    "lit": "Japon · [thème] · première fois · être (poli)"
+   },
+   {
+    "fr": "Je parle un petit peu japonais.",
+    "tgt": "日本語を少し話します。",
+    "ro": "Nihongo o sukoshi hanashimasu.",
+    "lit": "japonais · [objet] · un peu · parler (poli)"
+   },
+   {
+    "fr": "Je compte sur votre bienveillance.",
+    "tgt": "どうぞよろしくお願いします。",
+    "ro": "Dōzo yoroshiku onegaishimasu.",
+    "lit": "je vous en prie · bien · je vous le demande (poli)"
+   }
+  ]
+ },
+ "0-2-1": {
+  "module": "Conversation sociale",
+  "title": "Les collègues du bureau",
+  "grammaire_de_la_lecon": "« San, kun, chan, sama » : les suffixes après les noms",
+  "phrases": [
+   {
+    "fr": "Voici Monsieur Satō, mon chef.",
+    "tgt": "こちらは佐藤さんです。私の上司です。",
+    "ro": "Kochira wa Satō-san desu. Watashi no jōshi desu.",
+    "lit": "ce côté-ci · [thème] · Satō-monsieur · être (poli) · moi · [possessif] · chef · être (poli)"
+   },
+   {
+    "fr": "Madame Yamada est très gentille.",
+    "tgt": "山田さんはとても親切です。",
+    "ro": "Yamada-san wa totemo shinsetsu desu.",
+    "lit": "Yamada-madame · [thème] · très · gentil · être (poli)"
+   },
+   {
+    "fr": "Kenta, on déjeune ensemble ?",
+    "tgt": "健太くん、一緒に昼ご飯を食べませんか？",
+    "ro": "Kenta-kun, issho ni hirugohan o tabemasen ka?",
+    "lit": "Kenta-kun · ensemble · déjeuner · [objet] · manger (négatif poli) · [question]"
+   },
+   {
+    "fr": "Kenta vient d'entrer dans l'entreprise.",
+    "tgt": "健太くんは新入社員です。",
+    "ro": "Kenta-kun wa shinnyū shain desu.",
+    "lit": "Kenta-kun · [thème] · nouvel employé · être (poli)"
+   },
+   {
+    "fr": "La fille de Monsieur Satō s'appelle Yui.",
+    "tgt": "佐藤さんの娘さんはゆいちゃんです。",
+    "ro": "Satō-san no musume-san wa Yui-chan desu.",
+    "lit": "Satō-monsieur · [possessif] · fille-honorable · [thème] · Yui-chan · être (poli)"
+   },
+   {
+    "fr": "La petite Yui a cinq ans.",
+    "tgt": "ゆいちゃんは五歳です。",
+    "ro": "Yui-chan wa gosai desu.",
+    "lit": "Yui-chan · [thème] · cinq-ans · être (poli)"
+   },
+   {
+    "fr": "Le client arrive à trois heures.",
+    "tgt": "お客様は三時に来ます。",
+    "ro": "Okyakusama wa sanji ni kimasu.",
+    "lit": "honorable-client-sama · [thème] · trois-heures · [temps] · venir (poli)"
+   },
+   {
+    "fr": "Notre directeur s'appelle Monsieur Mori.",
+    "tgt": "部長は森さんです。",
+    "ro": "Buchō wa Mori-san desu.",
+    "lit": "directeur · [thème] · Mori-monsieur · être (poli)"
+   },
+   {
+    "fr": "Appelez-moi simplement Marie.",
+    "tgt": "マリーと呼んでください。",
+    "ro": "Marī to yonde kudasai.",
+    "lit": "Marie · [citation] · appeler (forme -te) · s'il vous plaît"
+   },
+   {
+    "fr": "Madame Yamada, merci encore pour aujourd'hui.",
+    "tgt": "山田さん、今日もありがとうございます。",
+    "ro": "Yamada-san, kyō mo arigatō gozaimasu.",
+    "lit": "Yamada-madame · aujourd'hui · [aussi] · merci (très poli)"
+   }
+  ]
+ },
+ "0-2-2": {
+  "module": "Conversation sociale",
+  "title": "Parler de son travail",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Quel est votre métier ?",
+    "tgt": "お仕事は何ですか？",
+    "ro": "Oshigoto wa nan desu ka?",
+    "lit": "honorable-travail · [thème] · quoi · être (poli) · [question]"
+   },
+   {
+    "fr": "Je suis ingénieure.",
+    "tgt": "エンジニアです。",
+    "ro": "Enjinia desu.",
+    "lit": "ingénieur · être (poli)"
+   },
+   {
+    "fr": "Moi, je suis employé de banque.",
+    "tgt": "私は銀行員です。",
+    "ro": "Watashi wa ginkōin desu.",
+    "lit": "moi · [thème] · employé de banque · être (poli)"
+   },
+   {
+    "fr": "Où se trouve votre entreprise ?",
+    "tgt": "会社はどこですか？",
+    "ro": "Kaisha wa doko desu ka?",
+    "lit": "entreprise · [thème] · où · être (poli) · [question]"
+   },
+   {
+    "fr": "Elle est près de la gare de Yokohama.",
+    "tgt": "横浜駅の近くです。",
+    "ro": "Yokohama eki no chikaku desu.",
+    "lit": "Yokohama-gare · [possessif] · proximité · être (poli)"
+   },
+   {
+    "fr": "Je prends le train chaque matin.",
+    "tgt": "毎朝、電車に乗ります。",
+    "ro": "Maiasa, densha ni norimasu.",
+    "lit": "chaque matin · train · [dans] · monter (poli)"
+   },
+   {
+    "fr": "Je commence le travail à neuf heures.",
+    "tgt": "九時から働きます。",
+    "ro": "Kuji kara hatarakimasu.",
+    "lit": "neuf-heures · [depuis] · travailler (poli)"
+   },
+   {
+    "fr": "Le travail finit à sept heures du soir.",
+    "tgt": "仕事は夜七時までです。",
+    "ro": "Shigoto wa yoru shichiji made desu.",
+    "lit": "travail · [thème] · soir · sept-heures · [jusqu'à] · être (poli)"
+   },
+   {
+    "fr": "Votre travail est intéressant ?",
+    "tgt": "仕事はおもしろいですか？",
+    "ro": "Shigoto wa omoshiroi desu ka?",
+    "lit": "travail · [thème] · intéressant · être (poli) · [question]"
+   },
+   {
+    "fr": "Oui, mais c'est un peu dur.",
+    "tgt": "はい、でも少し大変です。",
+    "ro": "Hai, demo sukoshi taihen desu.",
+    "lit": "oui · mais · un peu · pénible · être (poli)"
+   }
+  ]
+ },
+ "0-2-3": {
+  "module": "Conversation sociale",
+  "title": "Ce qu'on aime manger",
+  "grammaire_de_la_lecon": "« Suki » et « kirai » : dire ce qu'on aime",
+  "phrases": [
+   {
+    "fr": "Vous aimez la cuisine japonaise ?",
+    "tgt": "日本料理が好きですか？",
+    "ro": "Nihon ryōri ga suki desu ka?",
+    "lit": "Japon-cuisine · [sujet] · aimé · être (poli) · [question]"
+   },
+   {
+    "fr": "Oui, j'adore les sushis.",
+    "tgt": "はい、お寿司が大好きです。",
+    "ro": "Hai, osushi ga daisuki desu.",
+    "lit": "oui · honorable-sushi · [sujet] · très aimé · être (poli)"
+   },
+   {
+    "fr": "Le nattō, je déteste ça.",
+    "tgt": "納豆は嫌いです。",
+    "ro": "Nattō wa kirai desu.",
+    "lit": "nattō · [thème] · détesté · être (poli)"
+   },
+   {
+    "fr": "Quel plat n'aimez-vous pas ?",
+    "tgt": "嫌いな料理は何ですか？",
+    "ro": "Kirai na ryōri wa nan desu ka?",
+    "lit": "détesté · [na] · plat · [thème] · quoi · être (poli) · [question]"
+   },
+   {
+    "fr": "Je n'aime pas trop le poisson cru.",
+    "tgt": "生の魚はあまり好きじゃありません。",
+    "ro": "Nama no sakana wa amari suki ja arimasen.",
+    "lit": "cru · [possessif] · poisson · [thème] · pas tellement · aimé · ne pas être (poli)"
+   },
+   {
+    "fr": "Ma femme adore les douceurs.",
+    "tgt": "妻は甘いものが大好きです。",
+    "ro": "Tsuma wa amai mono ga daisuki desu.",
+    "lit": "ma femme · [thème] · sucré · chose · [sujet] · très aimé · être (poli)"
+   },
+   {
+    "fr": "Quel est votre plat préféré ?",
+    "tgt": "好きな料理は何ですか？",
+    "ro": "Suki na ryōri wa nan desu ka?",
+    "lit": "aimé · [na] · plat · [thème] · quoi · être (poli) · [question]"
+   },
+   {
+    "fr": "C'est la soupe miso de ma mère.",
+    "tgt": "母の味噌汁です。",
+    "ro": "Haha no misoshiru desu.",
+    "lit": "ma mère · [possessif] · soupe miso · être (poli)"
+   },
+   {
+    "fr": "Et la bière, vous aimez ?",
+    "tgt": "ビールは好きですか？",
+    "ro": "Bīru wa suki desu ka?",
+    "lit": "bière · [thème] · aimé · être (poli) · [question]"
+   },
+   {
+    "fr": "Oui, une bière bien fraîche, c'est parfait !",
+    "tgt": "はい、冷たいビールは最高です！",
+    "ro": "Hai, tsumetai bīru wa saikō desu!",
+    "lit": "oui · froid · bière · [thème] · le top · être (poli)"
+   }
+  ]
+ },
+ "0-2-4": {
+  "module": "Conversation sociale",
+  "title": "Une soirée à l'izakaya",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ce soir, on va à l'izakaya ?",
+    "tgt": "今晩、居酒屋に行きませんか？",
+    "ro": "Konban, izakaya ni ikimasen ka?",
+    "lit": "ce soir · izakaya · [direction] · aller (négatif poli) · [question]"
+   },
+   {
+    "fr": "Bonne idée, allons-y tous ensemble !",
+    "tgt": "いいですね。みんなで行きましょう！",
+    "ro": "Ii desu ne. Minna de ikimashō!",
+    "lit": "bien · être (poli) · [n'est-ce pas] · tout le monde · [avec] · aller (proposition)"
+   },
+   {
+    "fr": "Deux pressions, s'il vous plaît.",
+    "tgt": "生ビールを二つください。",
+    "ro": "Nama bīru o futatsu kudasai.",
+    "lit": "bière pression · [objet] · deux (objets) · donnez-moi"
+   },
+   {
+    "fr": "À la santé de toute l'équipe !",
+    "tgt": "みなさん、乾杯！",
+    "ro": "Minasan, kanpai!",
+    "lit": "tout le monde · coupe vidée (santé)"
+   },
+   {
+    "fr": "Les brochettes de poulet sont délicieuses.",
+    "tgt": "焼き鳥がおいしいですね。",
+    "ro": "Yakitori ga oishii desu ne.",
+    "lit": "brochettes de poulet · [sujet] · délicieux · être (poli) · [n'est-ce pas]"
+   },
+   {
+    "fr": "Encore un peu d'edamame ?",
+    "tgt": "枝豆、もう少しどうですか？",
+    "ro": "Edamame, mō sukoshi dō desu ka?",
+    "lit": "edamame · encore · un peu · comment · être (poli) · [question]"
+   },
+   {
+    "fr": "On commande du saké chaud ?",
+    "tgt": "熱燗を頼みましょうか？",
+    "ro": "Atsukan o tanomimashō ka?",
+    "lit": "saké chaud · [objet] · commander (proposition) · [question]"
+   },
+   {
+    "fr": "Tous les collègues sont là ce soir.",
+    "tgt": "今晩は同僚がみんないます。",
+    "ro": "Konban wa dōryō ga minna imasu.",
+    "lit": "ce soir · [thème] · collègues · [sujet] · tous · être présent (poli)"
+   },
+   {
+    "fr": "Le patron de l'izakaya est très drôle.",
+    "tgt": "居酒屋のマスターはとてもおもしろいです。",
+    "ro": "Izakaya no masutā wa totemo omoshiroi desu.",
+    "lit": "izakaya · [possessif] · patron · [thème] · très · amusant · être (poli)"
+   },
+   {
+    "fr": "On partage l'addition ?",
+    "tgt": "割り勘にしましょうか？",
+    "ro": "Warikan ni shimashō ka?",
+    "lit": "addition partagée · [résultat] · faire (proposition) · [question]"
+   }
+  ]
+ },
+ "0-2-5": {
+  "module": "Conversation sociale",
+  "title": "Au karaoké",
+  "grammaire_de_la_lecon": "« Jōzu », « heta » et « dekimasu » : dire ce qu'on sait faire",
+  "phrases": [
+   {
+    "fr": "Après, on va au karaoké ?",
+    "tgt": "このあと、カラオケに行きませんか？",
+    "ro": "Kono ato, karaoke ni ikimasen ka?",
+    "lit": "ce · après · karaoké · [direction] · aller (négatif poli) · [question]"
+   },
+   {
+    "fr": "Je chante vraiment mal.",
+    "tgt": "歌がとても下手です。",
+    "ro": "Uta ga totemo heta desu.",
+    "lit": "chant · [sujet] · très · maladroit · être (poli)"
+   },
+   {
+    "fr": "Mais non, vous chantez bien !",
+    "tgt": "いいえ、歌が上手ですよ！",
+    "ro": "Iie, uta ga jōzu desu yo!",
+    "lit": "non · chant · [sujet] · habile · être (poli) · [tu sais]"
+   },
+   {
+    "fr": "Monsieur Satō chante vraiment bien.",
+    "tgt": "佐藤さんは歌がとても上手です。",
+    "ro": "Satō-san wa uta ga totemo jōzu desu.",
+    "lit": "Satō-monsieur · [thème] · chant · [sujet] · très · habile · être (poli)"
+   },
+   {
+    "fr": "Vous savez jouer de la guitare ?",
+    "tgt": "ギターができますか？",
+    "ro": "Gitā ga dekimasu ka?",
+    "lit": "guitare · [sujet] · savoir faire (poli) · [question]"
+   },
+   {
+    "fr": "Oui, je sais en jouer un peu.",
+    "tgt": "はい、少しできます。",
+    "ro": "Hai, sukoshi dekimasu.",
+    "lit": "oui · un peu · savoir faire (poli)"
+   },
+   {
+    "fr": "La danse, je ne sais pas du tout.",
+    "tgt": "ダンスは全然できません。",
+    "ro": "Dansu wa zenzen dekimasen.",
+    "lit": "danse · [thème] · pas du tout · savoir faire (négatif poli)"
+   },
+   {
+    "fr": "La petite Yui dessine très bien.",
+    "tgt": "ゆいちゃんは絵がとても上手です。",
+    "ro": "Yui-chan wa e ga totemo jōzu desu.",
+    "lit": "Yui-chan · [thème] · dessin · [sujet] · très · habile · être (poli)"
+   },
+   {
+    "fr": "Votre japonais est vraiment bon !",
+    "tgt": "日本語が本当に上手ですね！",
+    "ro": "Nihongo ga hontō ni jōzu desu ne!",
+    "lit": "japonais · [sujet] · vraiment · habile · être (poli) · [n'est-ce pas]"
+   },
+   {
+    "fr": "Oh non, j'ai encore beaucoup à apprendre.",
+    "tgt": "いいえ、まだまだです。",
+    "ro": "Iie, mada mada desu.",
+    "lit": "non · encore encore · être (poli)"
+   }
+  ]
+ },
+ "0-2-6": {
+  "module": "Conversation sociale",
+  "title": "Parler de ses loisirs",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Que faites-vous le week-end, en général ?",
+    "tgt": "週末は何をしますか？",
+    "ro": "Shūmatsu wa nani o shimasu ka?",
+    "lit": "week-end · [thème] · quoi · [objet] · faire (poli) · [question]"
+   },
+   {
+    "fr": "Je joue souvent au tennis.",
+    "tgt": "よくテニスをします。",
+    "ro": "Yoku tenisu o shimasu.",
+    "lit": "souvent · tennis · [objet] · faire (poli)"
+   },
+   {
+    "fr": "À la maison, je lis des mangas.",
+    "tgt": "うちで漫画を読みます。",
+    "ro": "Uchi de manga o yomimasu.",
+    "lit": "maison · [lieu] · manga · [objet] · lire (poli)"
+   },
+   {
+    "fr": "Le dimanche, je cours le long de la mer.",
+    "tgt": "日曜日は海のそばを走ります。",
+    "ro": "Nichiyōbi wa umi no soba o hashirimasu.",
+    "lit": "dimanche · [thème] · mer · [possessif] · bord · [parcours] · courir (poli)"
+   },
+   {
+    "fr": "Vous allez parfois au cinéma ?",
+    "tgt": "ときどき映画館に行きますか？",
+    "ro": "Tokidoki eigakan ni ikimasu ka?",
+    "lit": "parfois · cinéma · [direction] · aller (poli) · [question]"
+   },
+   {
+    "fr": "Je fais du yoga avec une amie.",
+    "tgt": "友達とヨガをします。",
+    "ro": "Tomodachi to yoga o shimasu.",
+    "lit": "ami · [avec] · yoga · [objet] · faire (poli)"
+   },
+   {
+    "fr": "Le week-end dernier, je suis allée à Kamakura.",
+    "tgt": "先週末、鎌倉に行きました。",
+    "ro": "Senshūmatsu, Kamakura ni ikimashita.",
+    "lit": "week-end dernier · Kamakura · [direction] · aller (passé poli)"
+   },
+   {
+    "fr": "J'ai pris plein de photos là-bas.",
+    "tgt": "そこで写真をたくさん撮りました。",
+    "ro": "Soko de shashin o takusan torimashita.",
+    "lit": "là · [lieu] · photo · [objet] · beaucoup · prendre (passé poli)"
+   },
+   {
+    "fr": "Mon passe-temps, c'est la photo.",
+    "tgt": "趣味は写真です。",
+    "ro": "Shumi wa shashin desu.",
+    "lit": "passe-temps · [thème] · photo · être (poli)"
+   },
+   {
+    "fr": "Et vous, quel est votre passe-temps ?",
+    "tgt": "ご趣味は何ですか？",
+    "ro": "Goshumi wa nan desu ka?",
+    "lit": "honorable-passe-temps · [thème] · quoi · être (poli) · [question]"
+   }
+  ]
+ },
+ "0-2-7": {
+  "module": "Conversation sociale",
+  "title": "Parler de sa famille",
+  "grammaire_de_la_lecon": "La famille : « haha » pour ma mère, « okāsan » pour la vôtre",
+  "phrases": [
+   {
+    "fr": "Combien êtes-vous dans votre famille ?",
+    "tgt": "何人家族ですか？",
+    "ro": "Nannin kazoku desu ka?",
+    "lit": "combien-personnes · famille · être (poli) · [question]"
+   },
+   {
+    "fr": "Nous sommes quatre à la maison.",
+    "tgt": "四人家族です。",
+    "ro": "Yonin kazoku desu.",
+    "lit": "quatre-personnes · famille · être (poli)"
+   },
+   {
+    "fr": "Ma mère est enseignante.",
+    "tgt": "母は教師です。",
+    "ro": "Haha wa kyōshi desu.",
+    "lit": "ma mère · [thème] · enseignant · être (poli)"
+   },
+   {
+    "fr": "Et votre mère, que fait-elle ?",
+    "tgt": "お母さんのお仕事は何ですか？",
+    "ro": "Okāsan no oshigoto wa nan desu ka?",
+    "lit": "votre mère · [possessif] · honorable-travail · [thème] · quoi · être (poli) · [question]"
+   },
+   {
+    "fr": "Mon père est salarié à Yokohama.",
+    "tgt": "父は横浜の会社員です。",
+    "ro": "Chichi wa Yokohama no kaishain desu.",
+    "lit": "mon père · [thème] · Yokohama · [possessif] · employé d'entreprise · être (poli)"
+   },
+   {
+    "fr": "Votre père va bien ?",
+    "tgt": "お父さんはお元気ですか？",
+    "ro": "Otōsan wa ogenki desu ka?",
+    "lit": "votre père · [thème] · honorable-santé · être (poli) · [question]"
+   },
+   {
+    "fr": "J'ai un grand frère et une petite sœur.",
+    "tgt": "兄と妹がいます。",
+    "ro": "Ani to imōto ga imasu.",
+    "lit": "mon grand frère · [et] · ma petite sœur · [sujet] · il y a (êtres vivants, poli)"
+   },
+   {
+    "fr": "Votre grand frère est à Tokyo ?",
+    "tgt": "お兄さんは東京ですか？",
+    "ro": "Onīsan wa Tōkyō desu ka?",
+    "lit": "votre grand frère · [thème] · Tokyo · être (poli) · [question]"
+   },
+   {
+    "fr": "Non, il est à Kamakura.",
+    "tgt": "いいえ、鎌倉にいます。",
+    "ro": "Iie, Kamakura ni imasu.",
+    "lit": "non · Kamakura · [lieu] · être présent (poli)"
+   },
+   {
+    "fr": "Ma petite sœur a vingt ans.",
+    "tgt": "妹は二十歳です。",
+    "ro": "Imōto wa hatachi desu.",
+    "lit": "ma petite sœur · [thème] · vingt ans · être (poli)"
+   }
+  ]
+ },
+ "0-2-8": {
+  "module": "Conversation sociale",
+  "title": "Parler de ses enfants",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Vous avez des enfants ?",
+    "tgt": "お子さんはいますか？",
+    "ro": "Okosan wa imasu ka?",
+    "lit": "honorable-enfant · [thème] · il y a (êtres vivants, poli) · [question]"
+   },
+   {
+    "fr": "Oui, un garçon et une fille.",
+    "tgt": "はい、息子と娘がいます。",
+    "ro": "Hai, musuko to musume ga imasu.",
+    "lit": "oui · mon fils · [et] · ma fille · [sujet] · il y a (êtres vivants, poli)"
+   },
+   {
+    "fr": "Mon fils a sept ans.",
+    "tgt": "息子は七歳です。",
+    "ro": "Musuko wa nanasai desu.",
+    "lit": "mon fils · [thème] · sept-ans · être (poli)"
+   },
+   {
+    "fr": "Il est fou des trains.",
+    "tgt": "電車が大好きです。",
+    "ro": "Densha ga daisuki desu.",
+    "lit": "train · [sujet] · très aimé · être (poli)"
+   },
+   {
+    "fr": "Ma fille est encore toute petite.",
+    "tgt": "娘はまだ小さいです。",
+    "ro": "Musume wa mada chiisai desu.",
+    "lit": "ma fille · [thème] · encore · petit · être (poli)"
+   },
+   {
+    "fr": "Le dimanche, nous allons tous au parc.",
+    "tgt": "日曜日はみんなで公園に行きます。",
+    "ro": "Nichiyōbi wa minna de kōen ni ikimasu.",
+    "lit": "dimanche · [thème] · tout le monde · [avec] · parc · [direction] · aller (poli)"
+   },
+   {
+    "fr": "On déjeune chez mes grands-parents.",
+    "tgt": "祖父母の家で昼ご飯を食べます。",
+    "ro": "Sofubo no ie de hirugohan o tabemasu.",
+    "lit": "mes grands-parents · [possessif] · maison · [lieu] · déjeuner · [objet] · manger (poli)"
+   },
+   {
+    "fr": "Ma grand-mère cuisine à merveille.",
+    "tgt": "祖母は料理がとても上手です。",
+    "ro": "Sobo wa ryōri ga totemo jōzu desu.",
+    "lit": "ma grand-mère · [thème] · cuisine · [sujet] · très · habile · être (poli)"
+   },
+   {
+    "fr": "Votre fille est vraiment mignonne.",
+    "tgt": "娘さんは本当にかわいいですね。",
+    "ro": "Musume-san wa hontō ni kawaii desu ne.",
+    "lit": "votre fille · [thème] · vraiment · mignon · être (poli) · [n'est-ce pas]"
+   },
+   {
+    "fr": "Merci, mais elle est très bruyante !",
+    "tgt": "ありがとうございます。でも、とてもうるさいですよ。",
+    "ro": "Arigatō gozaimasu. Demo, totemo urusai desu yo.",
+    "lit": "merci (très poli) · mais · très · bruyant · être (poli) · [tu sais]"
+   }
+  ]
+ },
+ "0-2-9": {
+  "module": "Conversation sociale",
+  "title": "Au téléphone : que faites-vous ?",
+  "grammaire_de_la_lecon": "« -te imasu » : être en train de, ou un état",
+  "phrases": [
+   {
+    "fr": "Allô, ici Marie.",
+    "tgt": "もしもし、マリーです。",
+    "ro": "Moshi moshi, Marī desu.",
+    "lit": "allô · Marie · être (poli)"
+   },
+   {
+    "fr": "Qu'est-ce que vous faites en ce moment ?",
+    "tgt": "今、何をしていますか？",
+    "ro": "Ima, nani o shite imasu ka?",
+    "lit": "maintenant · quoi · [objet] · faire (forme -te) · être en train (poli) · [question]"
+   },
+   {
+    "fr": "Je regarde la mer à Kamakura.",
+    "tgt": "鎌倉で海を見ています。",
+    "ro": "Kamakura de umi o mite imasu.",
+    "lit": "Kamakura · [lieu] · mer · [objet] · regarder (forme -te) · être en train (poli)"
+   },
+   {
+    "fr": "Mon mari est en train de cuisiner.",
+    "tgt": "夫は料理をしています。",
+    "ro": "Otto wa ryōri o shite imasu.",
+    "lit": "mon mari · [thème] · cuisine · [objet] · faire (forme -te) · être en train (poli)"
+   },
+   {
+    "fr": "Les enfants dorment déjà.",
+    "tgt": "子どもはもう寝ています。",
+    "ro": "Kodomo wa mō nete imasu.",
+    "lit": "enfants · [thème] · déjà · dormir (forme -te) · être en train (poli)"
+   },
+   {
+    "fr": "J'habite à Yokohama.",
+    "tgt": "横浜に住んでいます。",
+    "ro": "Yokohama ni sunde imasu.",
+    "lit": "Yokohama · [lieu] · habiter (forme -te) · être (état, poli)"
+   },
+   {
+    "fr": "Mon grand frère est marié.",
+    "tgt": "兄は結婚しています。",
+    "ro": "Ani wa kekkon shite imasu.",
+    "lit": "mon grand frère · [thème] · mariage · faire (forme -te) · être (état, poli)"
+   },
+   {
+    "fr": "Vous connaissez Monsieur Mori ?",
+    "tgt": "森さんを知っていますか？",
+    "ro": "Mori-san o shitte imasu ka?",
+    "lit": "Mori-monsieur · [objet] · savoir (forme -te) · être (état, poli) · [question]"
+   },
+   {
+    "fr": "Aujourd'hui, il pleut sur Yokohama.",
+    "tgt": "今日、横浜は雨が降っています。",
+    "ro": "Kyō, Yokohama wa ame ga futte imasu.",
+    "lit": "aujourd'hui · Yokohama · [thème] · pluie · [sujet] · tomber (forme -te) · être en train (poli)"
+   },
+   {
+    "fr": "Je vous rappelle ce soir.",
+    "tgt": "今晩、また電話します。",
+    "ro": "Konban, mata denwa shimasu.",
+    "lit": "ce soir · de nouveau · téléphone · faire (poli)"
+   }
+  ]
+ },
+ "0-2-10": {
+  "module": "Conversation sociale",
+  "title": "Les saisons au Japon",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Quelle saison aimez-vous ?",
+    "tgt": "どの季節が好きですか？",
+    "ro": "Dono kisetsu ga suki desu ka?",
+    "lit": "quel · saison · [sujet] · aimé · être (poli) · [question]"
+   },
+   {
+    "fr": "J'aime le printemps et ses cerisiers.",
+    "tgt": "春と桜が好きです。",
+    "ro": "Haru to sakura ga suki desu.",
+    "lit": "printemps · [et] · cerisier · [sujet] · aimé · être (poli)"
+   },
+   {
+    "fr": "L'été à Kamakura est très chaud.",
+    "tgt": "鎌倉の夏はとても暑いです。",
+    "ro": "Kamakura no natsu wa totemo atsui desu.",
+    "lit": "Kamakura · [possessif] · été · [thème] · très · chaud · être (poli)"
+   },
+   {
+    "fr": "En été, on se baigne dans la mer.",
+    "tgt": "夏は海で泳ぎます。",
+    "ro": "Natsu wa umi de oyogimasu.",
+    "lit": "été · [thème] · mer · [lieu] · nager (poli)"
+   },
+   {
+    "fr": "L'automne, c'est la saison des feuilles rouges.",
+    "tgt": "秋は紅葉の季節です。",
+    "ro": "Aki wa kōyō no kisetsu desu.",
+    "lit": "automne · [thème] · feuilles rouges · [possessif] · saison · être (poli)"
+   },
+   {
+    "fr": "À Kamakura, les érables rouges sont superbes.",
+    "tgt": "鎌倉の紅葉はとてもきれいです。",
+    "ro": "Kamakura no kōyō wa totemo kirei desu.",
+    "lit": "Kamakura · [possessif] · feuilles rouges · [thème] · très · beau · être (poli)"
+   },
+   {
+    "fr": "L'hiver à Yokohama n'est pas très froid.",
+    "tgt": "横浜の冬はあまり寒くありません。",
+    "ro": "Yokohama no fuyu wa amari samuku arimasen.",
+    "lit": "Yokohama · [possessif] · hiver · [thème] · pas tellement · froid · ne pas être (poli)"
+   },
+   {
+    "fr": "Il fait lourd aujourd'hui, hein ?",
+    "tgt": "今日は蒸し暑いですね。",
+    "ro": "Kyō wa mushiatsui desu ne.",
+    "lit": "aujourd'hui · [thème] · chaud et humide · être (poli) · [n'est-ce pas]"
+   },
+   {
+    "fr": "La saison des pluies commence en juin.",
+    "tgt": "梅雨は六月からです。",
+    "ro": "Tsuyu wa rokugatsu kara desu.",
+    "lit": "saison des pluies · [thème] · juin · [depuis] · être (poli)"
+   },
+   {
+    "fr": "Vivement les cerisiers en fleur !",
+    "tgt": "早く桜が見たいです。",
+    "ro": "Hayaku sakura ga mitai desu.",
+    "lit": "vite · cerisier · [objet du désir] · vouloir voir (poli)"
+   }
+  ]
+ },
+ "0-2-11": {
+  "module": "Conversation sociale",
+  "title": "Yokohama ou Kamakura ?",
+  "grammaire_de_la_lecon": "Comparer : « yori » et « no hō ga »",
+  "phrases": [
+   {
+    "fr": "Yokohama est plus grand que Kamakura.",
+    "tgt": "横浜は鎌倉より大きいです。",
+    "ro": "Yokohama wa Kamakura yori ōkii desu.",
+    "lit": "Yokohama · [thème] · Kamakura · [plus que] · grand · être (poli)"
+   },
+   {
+    "fr": "Kamakura est plus calme que Yokohama.",
+    "tgt": "鎌倉は横浜より静かです。",
+    "ro": "Kamakura wa Yokohama yori shizuka desu.",
+    "lit": "Kamakura · [thème] · Yokohama · [plus que] · calme · être (poli)"
+   },
+   {
+    "fr": "La mer ou la montagne, que préférez-vous ?",
+    "tgt": "海と山と、どちらが好きですか？",
+    "ro": "Umi to yama to, dochira ga suki desu ka?",
+    "lit": "mer · [et] · montagne · [et] · lequel · [sujet] · aimé · être (poli) · [question]"
+   },
+   {
+    "fr": "Moi, je préfère la mer.",
+    "tgt": "海のほうが好きです。",
+    "ro": "Umi no hō ga suki desu.",
+    "lit": "mer · [possessif] · côté · [sujet] · aimé · être (poli)"
+   },
+   {
+    "fr": "Le train est plus rapide que le bus.",
+    "tgt": "電車はバスより速いです。",
+    "ro": "Densha wa basu yori hayai desu.",
+    "lit": "train · [thème] · bus · [plus que] · rapide · être (poli)"
+   },
+   {
+    "fr": "Thé vert ou café, qu'est-ce qui vous ferait plaisir ?",
+    "tgt": "緑茶とコーヒーと、どちらがいいですか？",
+    "ro": "Ryokucha to kōhī to, dochira ga ii desu ka?",
+    "lit": "thé vert · [et] · café · [et] · lequel · [sujet] · bien · être (poli) · [question]"
+   },
+   {
+    "fr": "Plutôt du thé vert, merci.",
+    "tgt": "緑茶のほうがいいです。",
+    "ro": "Ryokucha no hō ga ii desu.",
+    "lit": "thé vert · [possessif] · côté · [sujet] · bien · être (poli)"
+   },
+   {
+    "fr": "Ce restaurant-ci est moins cher.",
+    "tgt": "こちらの店のほうが安いです。",
+    "ro": "Kochira no mise no hō ga yasui desu.",
+    "lit": "ce côté-ci · [possessif] · restaurant · [possessif] · côté · [sujet] · bon marché · être (poli)"
+   },
+   {
+    "fr": "J'aime mieux le printemps que l'été.",
+    "tgt": "夏より春のほうが好きです。",
+    "ro": "Natsu yori haru no hō ga suki desu.",
+    "lit": "été · [plus que] · printemps · [possessif] · côté · [sujet] · aimé · être (poli)"
+   },
+   {
+    "fr": "Finalement, les deux sont bien !",
+    "tgt": "どちらもいいですね。",
+    "ro": "Dochira mo ii desu ne.",
+    "lit": "lequel · [aussi] · bien · être (poli) · [n'est-ce pas]"
+   }
+  ]
+ },
+ "0-2-12": {
+  "module": "Conversation sociale",
+  "title": "Une invitation chez des amis",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Vous venez dîner à la maison samedi ?",
+    "tgt": "土曜日、うちで晩ご飯を食べませんか？",
+    "ro": "Doyōbi, uchi de bangohan o tabemasen ka?",
+    "lit": "samedi · maison · [lieu] · dîner · [objet] · manger (négatif poli) · [question]"
+   },
+   {
+    "fr": "Avec joie, c'est très gentil.",
+    "tgt": "ぜひ。ありがとうございます。",
+    "ro": "Zehi. Arigatō gozaimasu.",
+    "lit": "absolument · merci (très poli)"
+   },
+   {
+    "fr": "C'est où, chez vous ?",
+    "tgt": "おうちはどこですか？",
+    "ro": "Ouchi wa doko desu ka?",
+    "lit": "honorable-maison · [thème] · où · être (poli) · [question]"
+   },
+   {
+    "fr": "Tout près de la gare de Kita-Kamakura.",
+    "tgt": "北鎌倉駅のすぐ近くです。",
+    "ro": "Kita-Kamakura eki no sugu chikaku desu.",
+    "lit": "Kita-Kamakura-gare · [possessif] · tout · proximité · être (poli)"
+   },
+   {
+    "fr": "À quelle heure est-ce que je viens ?",
+    "tgt": "何時に行きましょうか？",
+    "ro": "Nanji ni ikimashō ka?",
+    "lit": "quelle-heure · [temps] · aller (proposition) · [question]"
+   },
+   {
+    "fr": "Vers six heures, ça vous va ?",
+    "tgt": "六時ごろはどうですか？",
+    "ro": "Rokuji goro wa dō desu ka?",
+    "lit": "six-heures · environ · [thème] · comment · être (poli) · [question]"
+   },
+   {
+    "fr": "Qu'est-ce que je peux apporter ?",
+    "tgt": "何を持って行きましょうか？",
+    "ro": "Nani o motte ikimashō ka?",
+    "lit": "quoi · [objet] · tenir (forme -te) · aller (proposition) · [question]"
+   },
+   {
+    "fr": "Rien du tout, ce n'est pas la peine.",
+    "tgt": "何もいりませんよ。",
+    "ro": "Nani mo irimasen yo.",
+    "lit": "rien · [aussi] · être nécessaire (négatif poli) · [tu sais]"
+   },
+   {
+    "fr": "Ma femme va préparer un sukiyaki.",
+    "tgt": "妻がすき焼きを作ります。",
+    "ro": "Tsuma ga sukiyaki o tsukurimasu.",
+    "lit": "ma femme · [sujet] · sukiyaki · [objet] · préparer (poli)"
+   },
+   {
+    "fr": "Je me réjouis déjà pour samedi.",
+    "tgt": "土曜日が楽しみです。",
+    "ro": "Doyōbi ga tanoshimi desu.",
+    "lit": "samedi · [sujet] · plaisir attendu · être (poli)"
+   }
+  ]
+ },
+ "0-2-13": {
+  "module": "Conversation sociale",
+  "title": "Décliner et donner une raison",
+  "grammaire_de_la_lecon": "« Kara » : parce que, donner une raison",
+  "phrases": [
+   {
+    "fr": "Désolée, samedi, ça va être difficile…",
+    "tgt": "すみません、土曜日はちょっと…。",
+    "ro": "Sumimasen, doyōbi wa chotto…",
+    "lit": "pardon · samedi · [thème] · un peu…"
+   },
+   {
+    "fr": "C'est que j'ai du travail ce jour-là.",
+    "tgt": "その日は仕事がありますから。",
+    "ro": "Sono hi wa shigoto ga arimasu kara.",
+    "lit": "ce · jour · [thème] · travail · [sujet] · il y a (poli) · [parce que]"
+   },
+   {
+    "fr": "Pourquoi apprenez-vous le japonais ?",
+    "tgt": "どうして日本語を勉強していますか？",
+    "ro": "Dōshite Nihongo o benkyō shite imasu ka?",
+    "lit": "pourquoi · japonais · [objet] · étude · faire (forme -te) · être en train (poli) · [question]"
+   },
+   {
+    "fr": "Parce que j'adore les mangas.",
+    "tgt": "漫画が大好きですから。",
+    "ro": "Manga ga daisuki desu kara.",
+    "lit": "manga · [sujet] · très aimé · être (poli) · [parce que]"
+   },
+   {
+    "fr": "Il fait froid, fermons la fenêtre.",
+    "tgt": "寒いですから、窓を閉めましょう。",
+    "ro": "Samui desu kara, mado o shimemashō.",
+    "lit": "froid · être (poli) · [parce que] · fenêtre · [objet] · fermer (proposition)"
+   },
+   {
+    "fr": "Je me lève tôt demain, alors pas d'alcool pour moi.",
+    "tgt": "明日は早いですから、お酒は飲みません。",
+    "ro": "Ashita wa hayai desu kara, osake wa nomimasen.",
+    "lit": "demain · [thème] · tôt · être (poli) · [parce que] · alcool · [thème] · boire (négatif poli)"
+   },
+   {
+    "fr": "Il est tard, alors je vais y aller.",
+    "tgt": "もう遅いですから、そろそろ失礼します。",
+    "ro": "Mō osoi desu kara, sorosoro shitsurei shimasu.",
+    "lit": "déjà · tard · être (poli) · [parce que] · bientôt · impolitesse · faire (poli)"
+   },
+   {
+    "fr": "Quel dommage, une autre fois alors.",
+    "tgt": "残念ですね。また今度。",
+    "ro": "Zannen desu ne. Mata kondo.",
+    "lit": "regrettable · être (poli) · [n'est-ce pas] · de nouveau · la prochaine fois"
+   },
+   {
+    "fr": "Et dimanche, ça vous irait ?",
+    "tgt": "日曜日はどうですか？",
+    "ro": "Nichiyōbi wa dō desu ka?",
+    "lit": "dimanche · [thème] · comment · être (poli) · [question]"
+   },
+   {
+    "fr": "Dimanche, pas de problème !",
+    "tgt": "日曜日は大丈夫です！",
+    "ro": "Nichiyōbi wa daijōbu desu!",
+    "lit": "dimanche · [thème] · sans problème · être (poli)"
+   }
+  ]
+ },
+ "0-2-14": {
+  "module": "Conversation sociale",
+  "title": "Le grand bouddha de Kamakura",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Voici le grand bouddha de Kamakura.",
+    "tgt": "これが鎌倉の大仏です。",
+    "ro": "Kore ga Kamakura no Daibutsu desu.",
+    "lit": "ceci · [sujet] · Kamakura · [possessif] · grand bouddha · être (poli)"
+   },
+   {
+    "fr": "Il est vraiment immense !",
+    "tgt": "本当に大きいですね！",
+    "ro": "Hontō ni ōkii desu ne!",
+    "lit": "vraiment · grand · être (poli) · [n'est-ce pas]"
+   },
+   {
+    "fr": "L'entrée coûte trois cents yens.",
+    "tgt": "入場料は三百円です。",
+    "ro": "Nyūjōryō wa sanbyaku en desu.",
+    "lit": "droit d'entrée · [thème] · trois-cents-yens · être (poli)"
+   },
+   {
+    "fr": "Il y a beaucoup de visiteurs aujourd'hui.",
+    "tgt": "今日は観光客が多いですね。",
+    "ro": "Kyō wa kankōkyaku ga ōi desu ne.",
+    "lit": "aujourd'hui · [thème] · touristes · [sujet] · nombreux · être (poli) · [n'est-ce pas]"
+   },
+   {
+    "fr": "Prenons une photo devant le bouddha.",
+    "tgt": "大仏の前で写真を撮りましょう。",
+    "ro": "Daibutsu no mae de shashin o torimashō.",
+    "lit": "grand bouddha · [possessif] · devant · [lieu] · photo · [objet] · prendre (proposition)"
+   },
+   {
+    "fr": "Pardon, prenez-nous en photo, s'il vous plaît.",
+    "tgt": "すみません、写真を撮ってください。",
+    "ro": "Sumimasen, shashin o totte kudasai.",
+    "lit": "pardon · photo · [objet] · prendre (forme -te) · s'il vous plaît"
+   },
+   {
+    "fr": "Ensuite, on va au temple Hase-dera ?",
+    "tgt": "それから、長谷寺に行きませんか？",
+    "ro": "Sore kara, Hasedera ni ikimasen ka?",
+    "lit": "ensuite · Hase-temple · [direction] · aller (négatif poli) · [question]"
+   },
+   {
+    "fr": "Le temple est à cinq minutes à pied.",
+    "tgt": "長谷寺は歩いて五分です。",
+    "ro": "Hasedera wa aruite gofun desu.",
+    "lit": "Hase-temple · [thème] · en marchant · cinq-minutes · être (poli)"
+   },
+   {
+    "fr": "En juin, les hortensias y sont magnifiques.",
+    "tgt": "六月はあじさいがとてもきれいです。",
+    "ro": "Rokugatsu wa ajisai ga totemo kirei desu.",
+    "lit": "juin · [thème] · hortensias · [sujet] · très · beau · être (poli)"
+   },
+   {
+    "fr": "Kamakura est vraiment une ville agréable.",
+    "tgt": "鎌倉は本当にいい町です。",
+    "ro": "Kamakura wa hontō ni ii machi desu.",
+    "lit": "Kamakura · [thème] · vraiment · bon · ville · être (poli)"
+   }
+  ]
+ },
+ "0-2-15": {
+  "module": "Conversation sociale",
+  "title": "Une journée au bord de la mer",
+  "grammaire_de_la_lecon": "Le passé des adjectifs : « takakatta, kirei deshita »",
+  "phrases": [
+   {
+    "fr": "Hier, nous sommes allés à la plage de Yuigahama.",
+    "tgt": "昨日、由比ヶ浜に行きました。",
+    "ro": "Kinō, Yuigahama ni ikimashita.",
+    "lit": "hier · Yuigahama · [direction] · aller (passé poli)"
+   },
+   {
+    "fr": "Il faisait un temps splendide.",
+    "tgt": "とてもいい天気でした。",
+    "ro": "Totemo ii tenki deshita.",
+    "lit": "très · bon · temps · être (passé poli)"
+   },
+   {
+    "fr": "La mer était un peu froide.",
+    "tgt": "海は少し冷たかったです。",
+    "ro": "Umi wa sukoshi tsumetakatta desu.",
+    "lit": "mer · [thème] · un peu · froid (passé) · (poli)"
+   },
+   {
+    "fr": "Le sable était brûlant.",
+    "tgt": "砂はとても熱かったです。",
+    "ro": "Suna wa totemo atsukatta desu.",
+    "lit": "sable · [thème] · très · brûlant (passé) · (poli)"
+   },
+   {
+    "fr": "Le coucher de soleil était superbe.",
+    "tgt": "夕日はとてもきれいでした。",
+    "ro": "Yūhi wa totemo kirei deshita.",
+    "lit": "soleil couchant · [thème] · très · beau · être (passé poli)"
+   },
+   {
+    "fr": "Le bol de shirasu était délicieux.",
+    "tgt": "しらす丼はおいしかったです。",
+    "ro": "Shirasudon wa oishikatta desu.",
+    "lit": "bol de shirasu · [thème] · délicieux (passé) · (poli)"
+   },
+   {
+    "fr": "Et ce n'était pas cher du tout.",
+    "tgt": "全然高くなかったです。",
+    "ro": "Zenzen takaku nakatta desu.",
+    "lit": "pas du tout · cher · ne pas (passé) · (poli)"
+   },
+   {
+    "fr": "Il y avait beaucoup de monde ?",
+    "tgt": "人が多かったですか？",
+    "ro": "Hito ga ōkatta desu ka?",
+    "lit": "gens · [sujet] · nombreux (passé) · (poli) · [question]"
+   },
+   {
+    "fr": "Non, la plage était tranquille.",
+    "tgt": "いいえ、浜辺は静かでした。",
+    "ro": "Iie, hamabe wa shizuka deshita.",
+    "lit": "non · plage · [thème] · calme · être (passé poli)"
+   },
+   {
+    "fr": "On s'est vraiment bien amusés.",
+    "tgt": "本当に楽しかったです。",
+    "ro": "Hontō ni tanoshikatta desu.",
+    "lit": "vraiment · amusant (passé) · (poli)"
+   }
+  ]
+ },
+ "0-2-16": {
+  "module": "Conversation sociale",
+  "title": "Arriver chez quelqu'un",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Bienvenue, entrez donc !",
+    "tgt": "いらっしゃい。どうぞ、上がってください。",
+    "ro": "Irasshai. Dōzo, agatte kudasai.",
+    "lit": "bienvenue · je vous en prie · monter (forme -te) · s'il vous plaît"
+   },
+   {
+    "fr": "Merci, pardon de vous déranger.",
+    "tgt": "お邪魔します。",
+    "ro": "Ojama shimasu.",
+    "lit": "honorable-dérangement · faire (poli)"
+   },
+   {
+    "fr": "J'enlève mes chaussures ici ?",
+    "tgt": "靴はここで脱ぎますか？",
+    "ro": "Kutsu wa koko de nugimasu ka?",
+    "lit": "chaussures · [thème] · ici · [lieu] · enlever (poli) · [question]"
+   },
+   {
+    "fr": "Oui, voici des pantoufles.",
+    "tgt": "はい、スリッパをどうぞ。",
+    "ro": "Hai, surippa o dōzo.",
+    "lit": "oui · pantoufles · [objet] · je vous en prie"
+   },
+   {
+    "fr": "Quelle jolie maison !",
+    "tgt": "すてきなお宅ですね。",
+    "ro": "Suteki na otaku desu ne.",
+    "lit": "charmant · [na] · honorable-maison · être (poli) · [n'est-ce pas]"
+   },
+   {
+    "fr": "Asseyez-vous ici, je vous en prie.",
+    "tgt": "どうぞ、こちらに座ってください。",
+    "ro": "Dōzo, kochira ni suwatte kudasai.",
+    "lit": "je vous en prie · ce côté-ci · [lieu] · s'asseoir (forme -te) · s'il vous plaît"
+   },
+   {
+    "fr": "Je vous sers un peu de thé ?",
+    "tgt": "お茶はいかがですか？",
+    "ro": "Ocha wa ikaga desu ka?",
+    "lit": "honorable-thé · [thème] · comment (poli) · être (poli) · [question]"
+   },
+   {
+    "fr": "Merci pour ce repas, je commence.",
+    "tgt": "いただきます。",
+    "ro": "Itadakimasu.",
+    "lit": "recevoir humblement (poli)"
+   },
+   {
+    "fr": "Tout est vraiment délicieux.",
+    "tgt": "全部本当においしいです。",
+    "ro": "Zenbu hontō ni oishii desu.",
+    "lit": "tout · vraiment · délicieux · être (poli)"
+   },
+   {
+    "fr": "C'était un vrai festin, merci.",
+    "tgt": "ごちそうさまでした。",
+    "ro": "Gochisōsama deshita.",
+    "lit": "honorable-festin · être (passé poli)"
+   }
+  ]
+ },
+ "0-2-17": {
+  "module": "Conversation sociale",
+  "title": "Offrir un cadeau",
+  "grammaire_de_la_lecon": "Donner et recevoir : « agemasu », « kuremasu », « moraimasu »",
+  "phrases": [
+   {
+    "fr": "Voici un petit quelque chose pour vous.",
+    "tgt": "つまらないものですが、どうぞ。",
+    "ro": "Tsumaranai mono desu ga, dōzo.",
+    "lit": "sans intérêt · chose · être (poli) · [mais] · je vous en prie"
+   },
+   {
+    "fr": "Oh, il ne fallait pas, merci beaucoup !",
+    "tgt": "あ、すみません。ありがとうございます。",
+    "ro": "A, sumimasen. Arigatō gozaimasu.",
+    "lit": "ah · pardon · merci (très poli)"
+   },
+   {
+    "fr": "J'ai offert du vin à Madame Yamada.",
+    "tgt": "山田さんにワインをあげました。",
+    "ro": "Yamada-san ni wain o agemashita.",
+    "lit": "Yamada-madame · [à] · vin · [objet] · donner (passé poli)"
+   },
+   {
+    "fr": "Monsieur Satō m'a offert un éventail.",
+    "tgt": "佐藤さんが扇子をくれました。",
+    "ro": "Satō-san ga sensu o kuremashita.",
+    "lit": "Satō-monsieur · [sujet] · éventail · [objet] · donner à moi (passé poli)"
+   },
+   {
+    "fr": "Mon mari m'a offert des fleurs.",
+    "tgt": "夫に花をもらいました。",
+    "ro": "Otto ni hana o moraimashita.",
+    "lit": "mon mari · [de la part de] · fleurs · [objet] · recevoir (passé poli)"
+   },
+   {
+    "fr": "Mon fils m'a fait un dessin.",
+    "tgt": "息子が絵をくれました。",
+    "ro": "Musuko ga e o kuremashita.",
+    "lit": "mon fils · [sujet] · dessin · [objet] · donner à moi (passé poli)"
+   },
+   {
+    "fr": "Qu'est-ce qu'on offre à Kenta pour son anniversaire ?",
+    "tgt": "健太くんの誕生日に何をあげましょうか？",
+    "ro": "Kenta-kun no tanjōbi ni nani o agemashō ka?",
+    "lit": "Kenta-kun · [possessif] · anniversaire · [temps] · quoi · [objet] · donner (proposition) · [question]"
+   },
+   {
+    "fr": "Pourquoi pas un livre ?",
+    "tgt": "本はどうですか？",
+    "ro": "Hon wa dō desu ka?",
+    "lit": "livre · [thème] · comment · être (poli) · [question]"
+   },
+   {
+    "fr": "En France, on ouvre les cadeaux tout de suite.",
+    "tgt": "フランスではプレゼントをすぐ開けます。",
+    "ro": "Furansu de wa purezento o sugu akemasu.",
+    "lit": "France · [lieu] · [thème] · cadeau · [objet] · tout de suite · ouvrir (poli)"
+   },
+   {
+    "fr": "Au Japon, on les ouvre souvent plus tard.",
+    "tgt": "日本ではよくあとで開けます。",
+    "ro": "Nihon de wa yoku ato de akemasu.",
+    "lit": "Japon · [lieu] · [thème] · souvent · plus tard · ouvrir (poli)"
+   }
+  ]
+ },
+ "0-2-18": {
+  "module": "Conversation sociale",
+  "title": "Se dire au revoir après la soirée",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Oh, il est déjà onze heures !",
+    "tgt": "あ、もう十一時ですね。",
+    "ro": "A, mō jūichiji desu ne.",
+    "lit": "ah · déjà · onze-heures · être (poli) · [n'est-ce pas]"
+   },
+   {
+    "fr": "Je rentre bientôt, à cause du dernier train.",
+    "tgt": "終電がありますから、そろそろ帰ります。",
+    "ro": "Shūden ga arimasu kara, sorosoro kaerimasu.",
+    "lit": "dernier train · [sujet] · il y a (poli) · [parce que] · bientôt · rentrer (poli)"
+   },
+   {
+    "fr": "Merci infiniment pour aujourd'hui.",
+    "tgt": "今日は本当にありがとうございました。",
+    "ro": "Kyō wa hontō ni arigatō gozaimashita.",
+    "lit": "aujourd'hui · [thème] · vraiment · merci (passé, très poli)"
+   },
+   {
+    "fr": "Votre cuisine était délicieuse.",
+    "tgt": "お料理、とてもおいしかったです。",
+    "ro": "Oryōri, totemo oishikatta desu.",
+    "lit": "honorable-cuisine · très · délicieux (passé) · (poli)"
+   },
+   {
+    "fr": "Revenez quand vous voulez.",
+    "tgt": "またいつでも来てください。",
+    "ro": "Mata itsu demo kite kudasai.",
+    "lit": "de nouveau · n'importe quand · venir (forme -te) · s'il vous plaît"
+   },
+   {
+    "fr": "La prochaine fois, venez chez nous.",
+    "tgt": "今度はうちに来てください。",
+    "ro": "Kondo wa uchi ni kite kudasai.",
+    "lit": "la prochaine fois · [thème] · maison · [direction] · venir (forme -te) · s'il vous plaît"
+   },
+   {
+    "fr": "Rentrez bien, soyez prudents.",
+    "tgt": "気をつけて帰ってください。",
+    "ro": "Ki o tsukete kaette kudasai.",
+    "lit": "attention · [objet] · porter (forme -te) · rentrer (forme -te) · s'il vous plaît"
+   },
+   {
+    "fr": "Mes amitiés à votre épouse.",
+    "tgt": "奥さんによろしくお伝えください。",
+    "ro": "Okusan ni yoroshiku otsutae kudasai.",
+    "lit": "votre épouse · [à] · bien · honorable-transmettre · s'il vous plaît"
+   },
+   {
+    "fr": "Bonne nuit à tous !",
+    "tgt": "みなさん、おやすみなさい。",
+    "ro": "Minasan, oyasuminasai.",
+    "lit": "tout le monde · bonne nuit"
+   },
+   {
+    "fr": "Allez, à lundi au bureau !",
+    "tgt": "じゃあ、また月曜日に会社で。",
+    "ro": "Jā, mata getsuyōbi ni kaisha de.",
+    "lit": "alors · de nouveau · lundi · [temps] · bureau · [lieu]"
+   }
+  ]
+ },
+ "0-2-19": {
+  "module": "Conversation sociale",
+  "title": "Fin du module : bilan du niveau 1",
+  "grammaire_de_la_lecon": "« Sō desu ne » et les petites réactions qui rythment la conversation",
+  "phrases": [
+   {
+    "fr": "Le niveau débutant est terminé !",
+    "tgt": "初級が終わりました！",
+    "ro": "Shokyū ga owarimashita!",
+    "lit": "niveau débutant · [sujet] · se terminer (passé poli)"
+   },
+   {
+    "fr": "Le japonais, c'est difficile, n'est-ce pas ?",
+    "tgt": "日本語は難しいですね。",
+    "ro": "Nihongo wa muzukashii desu ne.",
+    "lit": "japonais · [thème] · difficile · être (poli) · [n'est-ce pas]"
+   },
+   {
+    "fr": "Oui, c'est vrai, mais c'est passionnant.",
+    "tgt": "そうですね。でも、おもしろいです。",
+    "ro": "Sō desu ne. Demo, omoshiroi desu.",
+    "lit": "ainsi · être (poli) · [n'est-ce pas] · mais · intéressant · être (poli)"
+   },
+   {
+    "fr": "Je comprends les phrases simples en japonais.",
+    "tgt": "日本語の簡単な文がわかります。",
+    "ro": "Nihongo no kantan na bun ga wakarimasu.",
+    "lit": "japonais · [possessif] · simple · [na] · phrase · [sujet] · comprendre (poli)"
+   },
+   {
+    "fr": "Je sais me présenter en japonais.",
+    "tgt": "日本語で自己紹介ができます。",
+    "ro": "Nihongo de jiko shōkai ga dekimasu.",
+    "lit": "japonais · [moyen] · présentation de soi · [sujet] · savoir faire (poli)"
+   },
+   {
+    "fr": "Je connais les hiragana et les katakana.",
+    "tgt": "ひらがなとカタカナがわかります。",
+    "ro": "Hiragana to katakana ga wakarimasu.",
+    "lit": "hiragana · [et] · katakana · [sujet] · comprendre (poli)"
+   },
+   {
+    "fr": "Les particules sont plus faciles qu'avant.",
+    "tgt": "助詞は前より簡単です。",
+    "ro": "Joshi wa mae yori kantan desu.",
+    "lit": "particules · [thème] · avant · [plus que] · facile · être (poli)"
+   },
+   {
+    "fr": "Ah bon ? Vraiment ?",
+    "tgt": "へえ、本当ですか？",
+    "ro": "Hē, hontō desu ka?",
+    "lit": "oh · vrai · être (poli) · [question]"
+   },
+   {
+    "fr": "Bientôt, le niveau intermédiaire !",
+    "tgt": "もうすぐ中級です。",
+    "ro": "Mō sugu chūkyū desu.",
+    "lit": "bientôt · niveau intermédiaire · être (poli)"
+   },
+   {
+    "fr": "Continuons nos efforts ensemble !",
+    "tgt": "これからも一緒にがんばりましょう！",
+    "ro": "Kore kara mo issho ni ganbarimashō!",
+    "lit": "à partir de maintenant · [aussi] · ensemble · faire des efforts (proposition)"
+   }
+  ]
+ }
+}

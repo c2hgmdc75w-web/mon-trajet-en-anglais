@@ -1,0 +1,4022 @@
+{
+ "0-0-0": {
+  "module": "Le quotidien",
+  "title": "Un petit appartement à Mapo",
+  "grammaire_de_la_lecon": "L'ordre des mots : sujet, objet, et le verbe toujours à la fin",
+  "phrases": [
+   {
+    "fr": "J'habite à Mapo.",
+    "tgt": "저는 마포에 살아요.",
+    "ro": "Jeoneun Mapoe sarayo.",
+    "lit": "moi-[thème] · Mapo-[à] · habite-[politesse]"
+   },
+   {
+    "fr": "Je mange du riz le matin.",
+    "tgt": "저는 아침에 밥을 먹어요.",
+    "ro": "Jeoneun achime babeul meogeoyo.",
+    "lit": "moi-[thème] · matin-[à] · riz-[objet] · mange-[politesse]"
+   },
+   {
+    "fr": "Mon logement est tout petit.",
+    "tgt": "제 집은 아주 작아요.",
+    "ro": "Je jibeun aju jagayo.",
+    "lit": "mon · logement-[thème] · très · est petit-[politesse]"
+   },
+   {
+    "fr": "Chaque matin, je bois du thé au maïs.",
+    "tgt": "매일 아침 옥수수차를 마셔요.",
+    "ro": "Maeil achim oksusuchareul masyeoyo.",
+    "lit": "chaque jour · matin · thé au maïs-[objet] · bois-[politesse]"
+   },
+   {
+    "fr": "Mon petit frère habite à Hongdae.",
+    "tgt": "남동생은 홍대에 살아요.",
+    "ro": "Namdongsaengeun Hongdaee sarayo.",
+    "lit": "petit frère-[thème] · Hongdae-[à] · habite-[politesse]"
+   },
+   {
+    "fr": "Le soir, je regarde une série coréenne.",
+    "tgt": "저녁에 한국 드라마를 봐요.",
+    "ro": "Jeonyeoge Hanguk deuramareul bwayo.",
+    "lit": "soir-[à] · Corée · série-[objet] · regarde-[politesse]"
+   },
+   {
+    "fr": "Le monsieur d'à côté lit le journal.",
+    "tgt": "옆집 아저씨는 신문을 읽어요.",
+    "ro": "Yeopjip ajeossineun sinmuneul ilgeoyo.",
+    "lit": "maison d'à côté · monsieur-[thème] · journal-[objet] · lit-[politesse]"
+   },
+   {
+    "fr": "J'ouvre la fenêtre de ma chambre.",
+    "tgt": "제 방 창문을 열어요.",
+    "ro": "Je bang changmuneul yeoreoyo.",
+    "lit": "ma · chambre · fenêtre-[objet] · ouvre-[politesse]"
+   },
+   {
+    "fr": "Le samedi, je fais le ménage.",
+    "tgt": "토요일에 청소를 해요.",
+    "ro": "Toyoire cheongsoreul haeyo.",
+    "lit": "samedi-[à] · ménage-[objet] · fais-[politesse]"
+   },
+   {
+    "fr": "Mapo est un quartier calme.",
+    "tgt": "마포는 조용한 동네예요.",
+    "ro": "Maponeun joyonghan dongneyeyo.",
+    "lit": "Mapo-[thème] · calme · quartier-est"
+   }
+  ]
+ },
+ "0-0-1": {
+  "module": "Le quotidien",
+  "title": "Saluer ses voisins",
+  "grammaire_de_la_lecon": "« Annyeonghaseyo » : bonjour, à toute heure de la journée",
+  "phrases": [
+   {
+    "fr": "Bonjour, j'habite à côté.",
+    "tgt": "안녕하세요, 옆집에 살아요.",
+    "ro": "Annyeonghaseyo, yeopjibe sarayo.",
+    "lit": "bonjour · maison d'à côté-[à] · habite-[politesse]"
+   },
+   {
+    "fr": "Bonjour, monsieur le gardien !",
+    "tgt": "안녕하세요, 경비 아저씨!",
+    "ro": "Annyeonghaseyo, gyeongbi ajeossi!",
+    "lit": "bonjour · gardien · monsieur"
+   },
+   {
+    "fr": "Bonjour, j'habite juste au-dessus.",
+    "tgt": "안녕하세요, 바로 위층에 살아요.",
+    "ro": "Annyeonghaseyo, baro wicheunge sarayo.",
+    "lit": "bonjour · juste · étage du dessus-[à] · habite-[politesse]"
+   },
+   {
+    "fr": "Bonsoir, il fait froid ce soir.",
+    "tgt": "안녕하세요, 오늘 저녁은 추워요.",
+    "ro": "Annyeonghaseyo, oneul jeonyeogeun chuwoyo.",
+    "lit": "bonjour · aujourd'hui · soir-[thème] · fait froid-[politesse]"
+   },
+   {
+    "fr": "Au revoir, monsieur, je m'en vais !",
+    "tgt": "안녕히 계세요, 아저씨!",
+    "ro": "Annyeonghi gyeseyo, ajeossi!",
+    "lit": "en paix · restez-[politesse] · monsieur"
+   },
+   {
+    "fr": "Au revoir, à la semaine prochaine !",
+    "tgt": "안녕히 가세요, 다음 주에 봐요!",
+    "ro": "Annyeonghi gaseyo, daeum jue bwayo!",
+    "lit": "en paix · allez-[politesse] · prochaine · semaine-[à] · voyons-[politesse]"
+   },
+   {
+    "fr": "Bonjour à toute l'équipe !",
+    "tgt": "여러분, 안녕하세요!",
+    "ro": "Yeoreobun, annyeonghaseyo!",
+    "lit": "tout le monde · bonjour"
+   },
+   {
+    "fr": "Chaque matin, je salue mes voisins.",
+    "tgt": "매일 아침 이웃에게 인사해요.",
+    "ro": "Maeil achim iuseege insahaeyo.",
+    "lit": "chaque jour · matin · voisin-[à] · salue-[politesse]"
+   },
+   {
+    "fr": "Bonjour, vous habitez ici ?",
+    "tgt": "안녕하세요, 여기 살아요?",
+    "ro": "Annyeonghaseyo, yeogi sarayo?",
+    "lit": "bonjour · ici · habitez-[politesse][question]"
+   },
+   {
+    "fr": "Bonjour, il fait beau à Séoul aujourd'hui.",
+    "tgt": "안녕하세요, 오늘 서울은 날씨가 좋아요.",
+    "ro": "Annyeonghaseyo, oneul Seoureun nalssiga joayo.",
+    "lit": "bonjour · aujourd'hui · Séoul-[thème] · temps-[sujet] · est bon-[politesse]"
+   }
+  ]
+ },
+ "0-0-2": {
+  "module": "Le quotidien",
+  "title": "Le matin avant le travail",
+  "grammaire_de_la_lecon": "« -ayo » et « -eoyo » : la forme polie du verbe",
+  "phrases": [
+   {
+    "fr": "En semaine, je me lève tôt.",
+    "tgt": "평일에는 일찍 일어나요.",
+    "ro": "Pyeongireneun iljjik ireonayo.",
+    "lit": "jour de semaine-[à]-[thème] · tôt · me lève-[politesse]"
+   },
+   {
+    "fr": "Au petit-déjeuner, je mange du kimchi.",
+    "tgt": "아침에 김치를 먹어요.",
+    "ro": "Achime gimchireul meogeoyo.",
+    "lit": "matin-[à] · kimchi-[objet] · mange-[politesse]"
+   },
+   {
+    "fr": "Je bois d'abord un verre d'eau.",
+    "tgt": "먼저 물을 한 잔 마셔요.",
+    "ro": "Meonjeo mureul han jan masyeoyo.",
+    "lit": "d'abord · eau-[objet] · un · verre · bois-[politesse]"
+   },
+   {
+    "fr": "Je prends le métro pour aller au bureau.",
+    "tgt": "지하철로 회사에 가요.",
+    "ro": "Jihacheollo hoesae gayo.",
+    "lit": "métro-[par] · société-[à] · vais-[politesse]"
+   },
+   {
+    "fr": "Le métro de la ligne deux arrive.",
+    "tgt": "이호선 지하철이 와요.",
+    "ro": "Ihoseon jihacheori wayo.",
+    "lit": "ligne deux · métro-[sujet] · vient-[politesse]"
+   },
+   {
+    "fr": "Je lis un livre dans le métro.",
+    "tgt": "지하철에서 책을 읽어요.",
+    "ro": "Jihacheoreseo chaegeul ilgeoyo.",
+    "lit": "métro-[dans] · livre-[objet] · lis-[politesse]"
+   },
+   {
+    "fr": "J'écoute de la musique coréenne dans le bus.",
+    "tgt": "버스에서 한국 음악을 들어요.",
+    "ro": "Beoseueseo Hanguk eumageul deureoyo.",
+    "lit": "bus-[dans] · Corée · musique-[objet] · écoute-[politesse]"
+   },
+   {
+    "fr": "Je travaille près de Hongdae.",
+    "tgt": "홍대 근처에서 일해요.",
+    "ro": "Hongdae geuncheoeseo ilhaeyo.",
+    "lit": "Hongdae · environs-[dans] · travaille-[politesse]"
+   },
+   {
+    "fr": "Il fait chaud dans le bus.",
+    "tgt": "버스 안이 더워요.",
+    "ro": "Beoseu ani deowoyo.",
+    "lit": "bus · intérieur-[sujet] · fait chaud-[politesse]"
+   },
+   {
+    "fr": "Le soir, je rentre à Mapo.",
+    "tgt": "저녁에 마포 집에 가요.",
+    "ro": "Jeonyeoge Mapo jibe gayo.",
+    "lit": "soir-[à] · Mapo · maison-[à] · vais-[politesse]"
+   }
+  ]
+ },
+ "0-0-3": {
+  "module": "Le quotidien",
+  "title": "Premier jour au bureau",
+  "grammaire_de_la_lecon": "« Ieyo » et « yeyo » : être, entre deux noms",
+  "phrases": [
+   {
+    "fr": "Je suis employé de bureau.",
+    "tgt": "저는 회사원이에요.",
+    "ro": "Jeoneun hoesawonieyo.",
+    "lit": "moi-[thème] · employé-suis"
+   },
+   {
+    "fr": "Ici, c'est mon bureau.",
+    "tgt": "여기가 제 사무실이에요.",
+    "ro": "Yeogiga je samusirieyo.",
+    "lit": "ici-[sujet] · mon · bureau-est"
+   },
+   {
+    "fr": "Mon collègue est coréen.",
+    "tgt": "제 동료는 한국 사람이에요.",
+    "ro": "Je dongnyoneun Hanguk saramieyo.",
+    "lit": "mon · collègue-[thème] · Corée · personne-est"
+   },
+   {
+    "fr": "Le déjeuner, c'est du kimbap.",
+    "tgt": "점심은 김밥이에요.",
+    "ro": "Jeomsimeun gimbabieyo.",
+    "lit": "déjeuner-[thème] · kimbap-est"
+   },
+   {
+    "fr": "Je suis de Lyon, en France.",
+    "tgt": "저는 프랑스 리옹 사람이에요.",
+    "ro": "Jeoneun Peurangseu Riong saramieyo.",
+    "lit": "moi-[thème] · France · Lyon · personne-suis"
+   },
+   {
+    "fr": "Aujourd'hui, c'est mon premier jour.",
+    "tgt": "오늘이 첫날이에요.",
+    "ro": "Oneuri cheonnarieyo.",
+    "lit": "aujourd'hui-[sujet] · premier jour-est"
+   },
+   {
+    "fr": "Ma voisine de bureau est designer.",
+    "tgt": "옆자리 동료는 디자이너예요.",
+    "ro": "Yeopjari dongnyoneun dijaineoyeyo.",
+    "lit": "place d'à côté · collègue-[thème] · designer-est"
+   },
+   {
+    "fr": "C'est l'heure de la pause.",
+    "tgt": "쉬는 시간이에요.",
+    "ro": "Swineun siganieyo.",
+    "lit": "se reposer · moment-est"
+   },
+   {
+    "fr": "Ce bâtiment, c'est notre société.",
+    "tgt": "이 건물이 우리 회사예요.",
+    "ro": "I geonmuri uri hoesayeyo.",
+    "lit": "ce · bâtiment-[sujet] · notre · société-est"
+   },
+   {
+    "fr": "Je suis le nouveau stagiaire.",
+    "tgt": "저는 새 인턴이에요.",
+    "ro": "Jeoneun sae inteonieyo.",
+    "lit": "moi-[thème] · nouveau · stagiaire-suis"
+   }
+  ]
+ },
+ "0-0-4": {
+  "module": "Le quotidien",
+  "title": "Faire connaissance au café",
+  "grammaire_de_la_lecon": "« Jeo » et « jeoneun » : moi, et la particule du thème",
+  "phrases": [
+   {
+    "fr": "Moi, j'étudie le coréen.",
+    "tgt": "저는 한국어를 공부해요.",
+    "ro": "Jeoneun Hangugeoreul gongbuhaeyo.",
+    "lit": "moi-[thème] · coréen-[objet] · étudie-[politesse]"
+   },
+   {
+    "fr": "Moi, je bois un café glacé.",
+    "tgt": "저는 아이스 커피를 마셔요.",
+    "ro": "Jeoneun aiseu keopireul masyeoyo.",
+    "lit": "moi-[thème] · glacé · café-[objet] · bois-[politesse]"
+   },
+   {
+    "fr": "Moi, je travaille à Hongdae.",
+    "tgt": "저는 홍대에서 일해요.",
+    "ro": "Jeoneun Hongdaeeseo ilhaeyo.",
+    "lit": "moi-[thème] · Hongdae-[dans] · travaille-[politesse]"
+   },
+   {
+    "fr": "Moi aussi, j'habite à Mapo !",
+    "tgt": "저도 마포에 살아요!",
+    "ro": "Jeodo Mapoe sarayo!",
+    "lit": "moi-aussi · Mapo-[à] · habite-[politesse]"
+   },
+   {
+    "fr": "Moi, c'est Marie.",
+    "tgt": "저는 마리예요.",
+    "ro": "Jeoneun Mariyeyo.",
+    "lit": "moi-[thème] · Marie-suis"
+   },
+   {
+    "fr": "Moi, je ne suis pas d'ici.",
+    "tgt": "저는 여기 사람이 아니에요.",
+    "ro": "Jeoneun yeogi sarami anieyo.",
+    "lit": "moi-[thème] · ici · personne-[sujet] · ne suis pas-[politesse]"
+   },
+   {
+    "fr": "Moi, je viens ici tous les jours.",
+    "tgt": "저는 매일 여기 와요.",
+    "ro": "Jeoneun maeil yeogi wayo.",
+    "lit": "moi-[thème] · chaque jour · ici · viens-[politesse]"
+   },
+   {
+    "fr": "Tenez, c'est ma carte de visite.",
+    "tgt": "제 명함이에요.",
+    "ro": "Je myeonghamieyo.",
+    "lit": "ma · carte de visite-est"
+   },
+   {
+    "fr": "Moi, je suis professeur de français.",
+    "tgt": "저는 프랑스어 선생님이에요.",
+    "ro": "Jeoneun Peurangseueo seonsaengnimieyo.",
+    "lit": "moi-[thème] · français · professeur-suis"
+   },
+   {
+    "fr": "C'est mon amie Sora.",
+    "tgt": "제 친구 소라예요.",
+    "ro": "Je chingu Sorayeyo.",
+    "lit": "mon · amie · Sora-est"
+   }
+  ]
+ },
+ "0-0-5": {
+  "module": "Le quotidien",
+  "title": "À la supérette du coin",
+  "grammaire_de_la_lecon": "« Ne » et « aniyo » : oui et non",
+  "phrases": [
+   {
+    "fr": "Oui, c'est du lait à la banane.",
+    "tgt": "네, 바나나 우유예요.",
+    "ro": "Ne, banana uyuyeyo.",
+    "lit": "oui · banane · lait-est"
+   },
+   {
+    "fr": "Non, ce n'est pas du lait.",
+    "tgt": "아니요, 우유가 아니에요.",
+    "ro": "Aniyo, uyuga anieyo.",
+    "lit": "non · lait-[sujet] · n'est pas-[politesse]"
+   },
+   {
+    "fr": "Il vous faut un sac plastique ?",
+    "tgt": "봉투 필요해요?",
+    "ro": "Bongtu piryohaeyo?",
+    "lit": "sac · est nécessaire-[politesse][question]"
+   },
+   {
+    "fr": "Non merci, pas de sac.",
+    "tgt": "아니요, 봉투는 괜찮아요.",
+    "ro": "Aniyo, bongtuneun gwaenchanayo.",
+    "lit": "non · sac-[thème] · ça va-[politesse]"
+   },
+   {
+    "fr": "Oui, je paie par carte.",
+    "tgt": "네, 카드로 계산해요.",
+    "ro": "Ne, kadeuro gyesanhaeyo.",
+    "lit": "oui · carte-[par] · paie-[politesse]"
+   },
+   {
+    "fr": "Non, je ne suis pas étudiant.",
+    "tgt": "아니요, 학생이 아니에요.",
+    "ro": "Aniyo, haksaengi anieyo.",
+    "lit": "non · étudiant-[sujet] · ne suis pas-[politesse]"
+   },
+   {
+    "fr": "Oui, oui, d'accord, j'ai compris.",
+    "tgt": "네, 네, 알겠어요.",
+    "ro": "Ne, ne, algesseoyo.",
+    "lit": "oui · oui · ai compris-[politesse]"
+   },
+   {
+    "fr": "Oui, ce sont des nouilles instantanées.",
+    "tgt": "네, 라면이에요.",
+    "ro": "Ne, ramyeonieyo.",
+    "lit": "oui · nouilles instantanées-est"
+   },
+   {
+    "fr": "Non, ce n'est pas mon parapluie.",
+    "tgt": "아니요, 제 우산이 아니에요.",
+    "ro": "Aniyo, je usani anieyo.",
+    "lit": "non · mon · parapluie-[sujet] · n'est pas-[politesse]"
+   },
+   {
+    "fr": "Oui, la supérette est ouverte la nuit aussi.",
+    "tgt": "네, 편의점은 밤에도 열어요.",
+    "ro": "Ne, pyeonuijeomeun bamedo yeoreoyo.",
+    "lit": "oui · supérette-[thème] · nuit-[à]-aussi · ouvre-[politesse]"
+   }
+  ]
+ },
+ "0-0-6": {
+  "module": "Le quotidien",
+  "title": "Un jour de pluie à Séoul",
+  "grammaire_de_la_lecon": "« I » et « ga » : la particule du sujet",
+  "phrases": [
+   {
+    "fr": "Il pleut sur Mapo ce matin.",
+    "tgt": "오늘 아침 마포에 비가 와요.",
+    "ro": "Oneul achim Mapoe biga wayo.",
+    "lit": "aujourd'hui · matin · Mapo-[à] · pluie-[sujet] · vient-[politesse]"
+   },
+   {
+    "fr": "Le ciel est tout gris aujourd'hui.",
+    "tgt": "오늘은 하늘이 흐려요.",
+    "ro": "Oneureun haneuri heuryeoyo.",
+    "lit": "aujourd'hui-[thème] · ciel-[sujet] · est couvert-[politesse]"
+   },
+   {
+    "fr": "Il y a beaucoup de vent sur le fleuve Han.",
+    "tgt": "한강에 바람이 많이 불어요.",
+    "ro": "Hangange barami mani bureoyo.",
+    "lit": "fleuve Han-[à] · vent-[sujet] · beaucoup · souffle-[politesse]"
+   },
+   {
+    "fr": "Mon parapluie est trop petit.",
+    "tgt": "우산이 너무 작아요.",
+    "ro": "Usani neomu jagayo.",
+    "lit": "parapluie-[sujet] · trop · est petit-[politesse]"
+   },
+   {
+    "fr": "Le bus vert arrive.",
+    "tgt": "초록색 버스가 와요.",
+    "ro": "Choroksaek beoseuga wayo.",
+    "lit": "vert · bus-[sujet] · vient-[politesse]"
+   },
+   {
+    "fr": "La route est glissante.",
+    "tgt": "길이 미끄러워요.",
+    "ro": "Giri mikkeureowoyo.",
+    "lit": "route-[sujet] · est glissante-[politesse]"
+   },
+   {
+    "fr": "Mon ami arrive bientôt.",
+    "tgt": "친구가 곧 와요.",
+    "ro": "Chinguga got wayo.",
+    "lit": "ami-[sujet] · bientôt · vient-[politesse]"
+   },
+   {
+    "fr": "À Séoul, il fait froid.",
+    "tgt": "서울은 날씨가 추워요.",
+    "ro": "Seoureun nalssiga chuwoyo.",
+    "lit": "Séoul-[thème] · temps-[sujet] · est froid-[politesse]"
+   },
+   {
+    "fr": "Il y a beaucoup de monde dans le métro.",
+    "tgt": "지하철에 사람이 많아요.",
+    "ro": "Jihacheore sarami manayo.",
+    "lit": "métro-[à] · gens-[sujet] · sont nombreux-[politesse]"
+   },
+   {
+    "fr": "Attention, le café est brûlant.",
+    "tgt": "조심하세요, 커피가 뜨거워요.",
+    "ro": "Josimhaseyo, keopiga tteugeowoyo.",
+    "lit": "faites attention-[politesse] · café-[sujet] · est brûlant-[politesse]"
+   }
+  ]
+ },
+ "0-0-7": {
+  "module": "Le quotidien",
+  "title": "Au marché de Mangwon",
+  "grammaire_de_la_lecon": "« Eul » et « reul » : la particule de l'objet",
+  "phrases": [
+   {
+    "fr": "J'achète des pommes au marché de Mangwon.",
+    "tgt": "망원 시장에서 사과를 사요.",
+    "ro": "Mangwon sijangeseo sagwareul sayo.",
+    "lit": "Mangwon · marché-[dans] · pommes-[objet] · achète-[politesse]"
+   },
+   {
+    "fr": "Je cherche du tofu.",
+    "tgt": "두부를 찾아요.",
+    "ro": "Dubureul chajayo.",
+    "lit": "tofu-[objet] · cherche-[politesse]"
+   },
+   {
+    "fr": "Ma mère prépare du kimchi.",
+    "tgt": "어머니가 김치를 만들어요.",
+    "ro": "Eomeoniga gimchireul mandeureoyo.",
+    "lit": "mère-[sujet] · kimchi-[objet] · fait-[politesse]"
+   },
+   {
+    "fr": "J'achète du riz et des œufs.",
+    "tgt": "쌀하고 계란을 사요.",
+    "ro": "Ssalhago gyeraneul sayo.",
+    "lit": "riz-et · œufs-[objet] · achète-[politesse]"
+   },
+   {
+    "fr": "Je mange des tteokbokki au marché.",
+    "tgt": "시장에서 떡볶이를 먹어요.",
+    "ro": "Sijangeseo tteokbokkireul meogeoyo.",
+    "lit": "marché-[dans] · tteokbokki-[objet] · mange-[politesse]"
+   },
+   {
+    "fr": "Le marchand coupe le poisson.",
+    "tgt": "아저씨가 생선을 잘라요.",
+    "ro": "Ajeossiga saengseoneul jallayo.",
+    "lit": "monsieur-[sujet] · poisson-[objet] · coupe-[politesse]"
+   },
+   {
+    "fr": "Je regarde les légumes frais.",
+    "tgt": "신선한 채소를 봐요.",
+    "ro": "Sinseonhan chaesoreul bwayo.",
+    "lit": "frais · légumes-[objet] · regarde-[politesse]"
+   },
+   {
+    "fr": "Je goûte un peu de kimchi.",
+    "tgt": "김치를 조금 맛봐요.",
+    "ro": "Gimchireul jogeum matbwayo.",
+    "lit": "kimchi-[objet] · un peu · goûte-[politesse]"
+   },
+   {
+    "fr": "Mon mari porte le panier.",
+    "tgt": "남편이 장바구니를 들어요.",
+    "ro": "Nampyeoni jangbagunireul deureoyo.",
+    "lit": "mari-[sujet] · panier-[objet] · porte-[politesse]"
+   },
+   {
+    "fr": "J'achète des mandarines de Jeju.",
+    "tgt": "제주 귤을 사요.",
+    "ro": "Jeju gyureul sayo.",
+    "lit": "Jeju · mandarines-[objet] · achète-[politesse]"
+   }
+  ]
+ },
+ "0-0-8": {
+  "module": "Le quotidien",
+  "title": "Un dimanche à la maison",
+  "grammaire_de_la_lecon": "« An » : la négation simple devant le verbe",
+  "phrases": [
+   {
+    "fr": "Je ne travaille pas aujourd'hui.",
+    "tgt": "오늘은 일 안 해요.",
+    "ro": "Oneureun il an haeyo.",
+    "lit": "aujourd'hui-[thème] · travail · ne pas · fais-[politesse]"
+   },
+   {
+    "fr": "Je ne sors pas de chez moi.",
+    "tgt": "집 밖에 안 나가요.",
+    "ro": "Jip bakke an nagayo.",
+    "lit": "maison · dehors-[à] · ne pas · sors-[politesse]"
+   },
+   {
+    "fr": "Le dimanche, je ne mets pas de réveil.",
+    "tgt": "일요일에는 알람을 안 맞춰요.",
+    "ro": "Iryoireneun allameul an matchwoyo.",
+    "lit": "dimanche-[à]-[thème] · réveil-[objet] · ne pas · règle-[politesse]"
+   },
+   {
+    "fr": "Je ne cuisine pas ce soir.",
+    "tgt": "오늘 저녁은 요리 안 해요.",
+    "ro": "Oneul jeonyeogeun yori an haeyo.",
+    "lit": "aujourd'hui · soir-[thème] · cuisine · ne pas · fais-[politesse]"
+   },
+   {
+    "fr": "Ce restaurant n'est pas cher.",
+    "tgt": "이 식당은 안 비싸요.",
+    "ro": "I sikdangeun an bissayo.",
+    "lit": "ce · restaurant-[thème] · ne pas · est cher-[politesse]"
+   },
+   {
+    "fr": "Aujourd'hui, il ne fait pas froid.",
+    "tgt": "오늘은 안 추워요.",
+    "ro": "Oneureun an chuwoyo.",
+    "lit": "aujourd'hui-[thème] · ne pas · fait froid-[politesse]"
+   },
+   {
+    "fr": "Je ne bois pas de soju.",
+    "tgt": "소주를 안 마셔요.",
+    "ro": "Sojureul an masyeoyo.",
+    "lit": "soju-[objet] · ne pas · bois-[politesse]"
+   },
+   {
+    "fr": "Mon colocataire ne mange pas de viande.",
+    "tgt": "룸메이트는 고기를 안 먹어요.",
+    "ro": "Rummeiteuneun gogireul an meogeoyo.",
+    "lit": "colocataire-[thème] · viande-[objet] · ne pas · mange-[politesse]"
+   },
+   {
+    "fr": "Le bus n'arrive toujours pas.",
+    "tgt": "버스가 아직 안 와요.",
+    "ro": "Beoseuga ajik an wayo.",
+    "lit": "bus-[sujet] · encore · ne pas · vient-[politesse]"
+   },
+   {
+    "fr": "Je ne suis pas fatigué du tout.",
+    "tgt": "하나도 안 피곤해요.",
+    "ro": "Hanado an pigonhaeyo.",
+    "lit": "même un peu · ne pas · suis fatigué-[politesse]"
+   }
+  ]
+ },
+ "0-0-9": {
+  "module": "Le quotidien",
+  "title": "Un café à Hongdae",
+  "grammaire_de_la_lecon": "Poser une question : la même phrase, la voix qui monte",
+  "phrases": [
+   {
+    "fr": "Il y a du wifi dans ce café ?",
+    "tgt": "이 카페에 와이파이 있어요?",
+    "ro": "I kapee waipai isseoyo?",
+    "lit": "ce · café-[à] · wifi · il y a-[politesse][question]"
+   },
+   {
+    "fr": "Il est bon, ce gâteau ?",
+    "tgt": "이 케이크 맛있어요?",
+    "ro": "I keikeu masisseoyo?",
+    "lit": "ce · gâteau · est bon-[politesse][question]"
+   },
+   {
+    "fr": "Vous venez souvent ici ?",
+    "tgt": "여기 자주 와요?",
+    "ro": "Yeogi jaju wayo?",
+    "lit": "ici · souvent · venez-[politesse][question]"
+   },
+   {
+    "fr": "C'est un café glacé ?",
+    "tgt": "아이스 커피예요?",
+    "ro": "Aiseu keopiyeyo?",
+    "lit": "glacé · café-est[question]"
+   },
+   {
+    "fr": "Vous travaillez ici ?",
+    "tgt": "여기서 일해요?",
+    "ro": "Yeogiseo ilhaeyo?",
+    "lit": "ici-[dans] · travaillez-[politesse][question]"
+   },
+   {
+    "fr": "Vous apprenez le français ?",
+    "tgt": "프랑스어 공부해요?",
+    "ro": "Peurangseueo gongbuhaeyo?",
+    "lit": "français · étudiez-[politesse][question]"
+   },
+   {
+    "fr": "Cette place est prise ?",
+    "tgt": "여기 자리 있어요?",
+    "ro": "Yeogi jari isseoyo?",
+    "lit": "ici · place · il y a-[politesse][question]"
+   },
+   {
+    "fr": "Oui, je travaille ici.",
+    "tgt": "네, 여기서 일해요.",
+    "ro": "Ne, yeogiseo ilhaeyo.",
+    "lit": "oui · ici-[dans] · travaille-[politesse]"
+   },
+   {
+    "fr": "À Hongdae, le café est cher ?",
+    "tgt": "홍대는 커피가 비싸요?",
+    "ro": "Hongdaeneun keopiga bissayo?",
+    "lit": "Hongdae-[thème] · café-[sujet] · est cher-[politesse][question]"
+   },
+   {
+    "fr": "Le café ferme tard ?",
+    "tgt": "카페가 늦게 닫아요?",
+    "ro": "Kapega neutge dadayo?",
+    "lit": "café-[sujet] · tard · ferme-[politesse][question]"
+   }
+  ]
+ },
+ "0-0-10": {
+  "module": "Le quotidien",
+  "title": "Mon quartier",
+  "grammaire_de_la_lecon": "« Isseoyo » et « eopseoyo » : avoir, il y a, et ne pas avoir",
+  "phrases": [
+   {
+    "fr": "Il y a une supérette au rez-de-chaussée.",
+    "tgt": "건물 일 층에 편의점이 있어요.",
+    "ro": "Geonmul il cheunge pyeonuijeomi isseoyo.",
+    "lit": "immeuble · un · étage-[à] · supérette-[sujet] · il y a-[politesse]"
+   },
+   {
+    "fr": "Mon immeuble n'a pas d'ascenseur.",
+    "tgt": "우리 건물은 엘리베이터가 없어요.",
+    "ro": "Uri geonmureun ellibeiteoga eopseoyo.",
+    "lit": "notre · immeuble-[thème] · ascenseur-[sujet] · il n'y a pas-[politesse]"
+   },
+   {
+    "fr": "Moi, j'ai un vélo.",
+    "tgt": "저는 자전거가 있어요.",
+    "ro": "Jeoneun jajeongeoga isseoyo.",
+    "lit": "moi-[thème] · vélo-[sujet] · il y a-[politesse]"
+   },
+   {
+    "fr": "Je n'ai pas de voiture à Séoul.",
+    "tgt": "서울에서는 차가 없어요.",
+    "ro": "Seoureseoneun chaga eopseoyo.",
+    "lit": "Séoul-[dans]-[thème] · voiture-[sujet] · il n'y a pas-[politesse]"
+   },
+   {
+    "fr": "Il y a un parc près du fleuve Han.",
+    "tgt": "한강 근처에 공원이 있어요.",
+    "ro": "Hangang geuncheoe gongwoni isseoyo.",
+    "lit": "fleuve Han · environs-[à] · parc-[sujet] · il y a-[politesse]"
+   },
+   {
+    "fr": "Vous avez du temps ce soir ?",
+    "tgt": "오늘 저녁에 시간 있어요?",
+    "ro": "Oneul jeonyeoge sigan isseoyo?",
+    "lit": "aujourd'hui · soir-[à] · temps · il y a-[politesse][question]"
+   },
+   {
+    "fr": "Il n'y a plus de place au café.",
+    "tgt": "카페에 자리가 없어요.",
+    "ro": "Kapee jariga eopseoyo.",
+    "lit": "café-[à] · place-[sujet] · il n'y a pas-[politesse]"
+   },
+   {
+    "fr": "Il y a un bon restaurant de barbecue ici.",
+    "tgt": "여기 맛있는 고깃집이 있어요.",
+    "ro": "Yeogi masinneun gogitjibi isseoyo.",
+    "lit": "ici · délicieux · restaurant de viande-[sujet] · il y a-[politesse]"
+   },
+   {
+    "fr": "Je n'ai pas d'espèces sur moi.",
+    "tgt": "현금이 없어요.",
+    "ro": "Hyeongeumi eopseoyo.",
+    "lit": "espèces-[sujet] · il n'y a pas-[politesse]"
+   },
+   {
+    "fr": "Il n'y a pas de bruit la nuit.",
+    "tgt": "밤에는 소음이 없어요.",
+    "ro": "Bameneun soeumi eopseoyo.",
+    "lit": "nuit-[à]-[thème] · bruit-[sujet] · il n'y a pas-[politesse]"
+   }
+  ]
+ },
+ "0-0-11": {
+  "module": "Le quotidien",
+  "title": "Du shopping à Hongdae",
+  "grammaire_de_la_lecon": "« I », « geu », « jeo » : ce, ce... là, ce là-bas",
+  "phrases": [
+   {
+    "fr": "Ce t-shirt est vraiment joli.",
+    "tgt": "이 티셔츠 정말 예뻐요.",
+    "ro": "I tisyeocheu jeongmal yeppeoyo.",
+    "lit": "ce · t-shirt · vraiment · est joli-[politesse]"
+   },
+   {
+    "fr": "Le sac que vous avez là est joli.",
+    "tgt": "그 가방 예뻐요.",
+    "ro": "Geu gabang yeppeoyo.",
+    "lit": "ce...là · sac · est joli-[politesse]"
+   },
+   {
+    "fr": "Le magasin là-bas est grand.",
+    "tgt": "저 가게는 커요.",
+    "ro": "Jeo gageneun keoyo.",
+    "lit": "ce là-bas · magasin-[thème] · est grand-[politesse]"
+   },
+   {
+    "fr": "Combien coûte cette casquette ?",
+    "tgt": "이 모자 얼마예요?",
+    "ro": "I moja eolmayeyo?",
+    "lit": "ce · casquette · combien-est[question]"
+   },
+   {
+    "fr": "Ce parapluie-là, c'est le mien.",
+    "tgt": "그 우산은 제 거예요.",
+    "ro": "Geu usaneun je geoyeyo.",
+    "lit": "ce...là · parapluie-[thème] · mon · chose-est"
+   },
+   {
+    "fr": "Le café là-bas est très connu.",
+    "tgt": "저 카페는 유명해요.",
+    "ro": "Jeo kapeneun yumyeonghaeyo.",
+    "lit": "ce là-bas · café-[thème] · est célèbre-[politesse]"
+   },
+   {
+    "fr": "Ce pull est trop petit.",
+    "tgt": "이 스웨터는 너무 작아요.",
+    "ro": "I seuweteoneun neomu jagayo.",
+    "lit": "ce · pull-[thème] · trop · est petit-[politesse]"
+   },
+   {
+    "fr": "Qui est cette personne là-bas ?",
+    "tgt": "저 사람은 누구예요?",
+    "ro": "Jeo sarameun nuguyeyo?",
+    "lit": "ce là-bas · personne-[thème] · qui-est[question]"
+   },
+   {
+    "fr": "Le restaurant dont vous parlez, il est bon ?",
+    "tgt": "그 식당 맛있어요?",
+    "ro": "Geu sikdang masisseoyo?",
+    "lit": "ce...là · restaurant · est bon-[politesse][question]"
+   },
+   {
+    "fr": "Cette rue est pleine de monde la nuit.",
+    "tgt": "이 거리는 밤에 사람이 많아요.",
+    "ro": "I georineun bame sarami manayo.",
+    "lit": "cette · rue-[thème] · nuit-[à] · gens-[sujet] · sont nombreux-[politesse]"
+   }
+  ]
+ },
+ "0-0-12": {
+  "module": "Le quotidien",
+  "title": "Questions entre collègues",
+  "grammaire_de_la_lecon": "« Mwo », « eodi », « nugu », « eonje » : les mots interrogatifs",
+  "phrases": [
+   {
+    "fr": "Qu'est-ce que vous mangez à midi ?",
+    "tgt": "점심에 뭐 먹어요?",
+    "ro": "Jeomsime mwo meogeoyo?",
+    "lit": "déjeuner-[à] · quoi · mangez-[politesse][question]"
+   },
+   {
+    "fr": "Vous habitez où, à Séoul ?",
+    "tgt": "서울 어디에 살아요?",
+    "ro": "Seoul eodie sarayo?",
+    "lit": "Séoul · où-[à] · habitez-[politesse][question]"
+   },
+   {
+    "fr": "C'est qui, sur la photo ?",
+    "tgt": "사진 속 사람은 누구예요?",
+    "ro": "Sajin sok sarameun nuguyeyo?",
+    "lit": "photo · dedans · personne-[thème] · qui-est[question]"
+   },
+   {
+    "fr": "C'est quand, votre anniversaire ?",
+    "tgt": "생일이 언제예요?",
+    "ro": "Saengiri eonjeyeyo?",
+    "lit": "anniversaire-[sujet] · quand-est[question]"
+   },
+   {
+    "fr": "Le samedi, vous faites quoi d'habitude ?",
+    "tgt": "보통 토요일에 뭐 해요?",
+    "ro": "Botong toyoire mwo haeyo?",
+    "lit": "d'habitude · samedi-[à] · quoi · faites-[politesse][question]"
+   },
+   {
+    "fr": "On mange où ce midi ?",
+    "tgt": "오늘 점심 어디서 먹어요?",
+    "ro": "Oneul jeomsim eodiseo meogeoyo?",
+    "lit": "aujourd'hui · déjeuner · où-[dans] · mangeons-[politesse][question]"
+   },
+   {
+    "fr": "Qui vient ce soir ?",
+    "tgt": "오늘 저녁에 누가 와요?",
+    "ro": "Oneul jeonyeoge nuga wayo?",
+    "lit": "aujourd'hui · soir-[à] · qui-[sujet] · vient-[politesse][question]"
+   },
+   {
+    "fr": "Vous partez quand en vacances ?",
+    "tgt": "휴가는 언제 가요?",
+    "ro": "Hyuganeun eonje gayo?",
+    "lit": "vacances-[thème] · quand · allez-[politesse][question]"
+   },
+   {
+    "fr": "C'est quoi, ce plat ?",
+    "tgt": "이 음식은 뭐예요?",
+    "ro": "I eumsigeun mwoyeyo?",
+    "lit": "ce · plat-[thème] · quoi-est[question]"
+   },
+   {
+    "fr": "Votre bureau se trouve où ?",
+    "tgt": "회사가 어디에 있어요?",
+    "ro": "Hoesaga eodie isseoyo?",
+    "lit": "société-[sujet] · où-[à] · se trouve-[politesse][question]"
+   }
+  ]
+ },
+ "0-0-13": {
+  "module": "Le quotidien",
+  "title": "D'un endroit à l'autre",
+  "grammaire_de_la_lecon": "« E » : à, au, dans un lieu ou à un moment",
+  "phrases": [
+   {
+    "fr": "Ce soir, je vais à Hongdae.",
+    "tgt": "오늘 밤에 홍대에 가요.",
+    "ro": "Oneul bame Hongdaee gayo.",
+    "lit": "aujourd'hui · nuit-[à] · Hongdae-[à] · vais-[politesse]"
+   },
+   {
+    "fr": "Ma femme est à la maison.",
+    "tgt": "아내는 집에 있어요.",
+    "ro": "Anaeneun jibe isseoyo.",
+    "lit": "épouse-[thème] · maison-[à] · se trouve-[politesse]"
+   },
+   {
+    "fr": "Je pars au bureau le matin.",
+    "tgt": "아침에 회사에 가요.",
+    "ro": "Achime hoesae gayo.",
+    "lit": "matin-[à] · société-[à] · vais-[politesse]"
+   },
+   {
+    "fr": "Le samedi, je vais au parc.",
+    "tgt": "토요일에 공원에 가요.",
+    "ro": "Toyoire gongwone gayo.",
+    "lit": "samedi-[à] · parc-[à] · vais-[politesse]"
+   },
+   {
+    "fr": "Mon ami habite à Gangnam.",
+    "tgt": "친구는 강남에 살아요.",
+    "ro": "Chinguneun Gangname sarayo.",
+    "lit": "ami-[thème] · Gangnam-[à] · habite-[politesse]"
+   },
+   {
+    "fr": "Le café est au sous-sol.",
+    "tgt": "카페는 지하에 있어요.",
+    "ro": "Kapeneun jihae isseoyo.",
+    "lit": "café-[thème] · sous-sol-[à] · se trouve-[politesse]"
+   },
+   {
+    "fr": "Le vendredi, je rentre tard.",
+    "tgt": "금요일에 늦게 집에 가요.",
+    "ro": "Geumyoire neutge jibe gayo.",
+    "lit": "vendredi-[à] · tard · maison-[à] · vais-[politesse]"
+   },
+   {
+    "fr": "Je vais à la banque à midi.",
+    "tgt": "점심에 은행에 가요.",
+    "ro": "Jeomsime eunhaenge gayo.",
+    "lit": "déjeuner-[à] · banque-[à] · vais-[politesse]"
+   },
+   {
+    "fr": "Les clés sont sur la table de la cuisine.",
+    "tgt": "열쇠는 식탁 위에 있어요.",
+    "ro": "Yeolsoeneun siktak wie isseoyo.",
+    "lit": "clés-[thème] · table · dessus-[à] · se trouvent-[politesse]"
+   },
+   {
+    "fr": "Le jeudi, je vais au cours de coréen.",
+    "tgt": "목요일에 한국어 수업에 가요.",
+    "ro": "Mogyoire Hangugeo sueobe gayo.",
+    "lit": "jeudi-[à] · coréen · cours-[à] · vais-[politesse]"
+   }
+  ]
+ },
+ "0-0-14": {
+  "module": "Le quotidien",
+  "title": "Les prix et les adresses",
+  "grammaire_de_la_lecon": "Les nombres sino-coréens : « il, i, sam, sa, o »",
+  "phrases": [
+   {
+    "fr": "Ça fait mille wons.",
+    "tgt": "천 원이에요.",
+    "ro": "Cheon wonieyo.",
+    "lit": "mille · won-est"
+   },
+   {
+    "fr": "Le kimbap coûte trois mille wons.",
+    "tgt": "김밥은 삼천 원이에요.",
+    "ro": "Gimbabeun samcheon wonieyo.",
+    "lit": "kimbap-[thème] · trois mille · won-est"
+   },
+   {
+    "fr": "Mon anniversaire, c'est le trois juin.",
+    "tgt": "제 생일은 유월 삼 일이에요.",
+    "ro": "Je saengireun yuwol sam irieyo.",
+    "lit": "mon · anniversaire-[thème] · juin · trois · jour-est"
+   },
+   {
+    "fr": "Prenez la ligne deux du métro.",
+    "tgt": "이호선을 타세요.",
+    "ro": "Ihoseoneul taseyo.",
+    "lit": "ligne deux-[objet] · prenez-[politesse]"
+   },
+   {
+    "fr": "Notre appartement, c'est le numéro trois cent deux.",
+    "tgt": "우리 집은 삼백이 호예요.",
+    "ro": "Uri jibeun sambaegi hoyeyo.",
+    "lit": "notre · logement-[thème] · trois cent deux · numéro-est"
+   },
+   {
+    "fr": "Le loyer est de cinq cent mille wons.",
+    "tgt": "월세는 오십만 원이에요.",
+    "ro": "Wolseneun osimman wonieyo.",
+    "lit": "loyer-[thème] · cinquante dix-mille · won-est"
+   },
+   {
+    "fr": "Le café coûte quatre mille cinq cents wons.",
+    "tgt": "커피는 사천오백 원이에요.",
+    "ro": "Keopineun sacheonobaek wonieyo.",
+    "lit": "café-[thème] · quatre mille cinq cents · won-est"
+   },
+   {
+    "fr": "La sortie trois, c'est par ici.",
+    "tgt": "삼 번 출구는 여기예요.",
+    "ro": "Sam beon chulguneun yeogiyeyo.",
+    "lit": "trois · numéro · sortie-[thème] · ici-est"
+   },
+   {
+    "fr": "Ça fait dix mille wons en tout.",
+    "tgt": "모두 만 원이에요.",
+    "ro": "Modu man wonieyo.",
+    "lit": "en tout · dix mille · won-est"
+   },
+   {
+    "fr": "Pour Mapo, c'est la ligne cinq.",
+    "tgt": "마포는 오호선이에요.",
+    "ro": "Maponeun ohoseonieyo.",
+    "lit": "Mapo-[thème] · ligne cinq-est"
+   }
+  ]
+ },
+ "0-0-15": {
+  "module": "Le quotidien",
+  "title": "Compter les choses",
+  "grammaire_de_la_lecon": "Les nombres coréens natifs : « hana, dul, set, net »",
+  "phrases": [
+   {
+    "fr": "J'ai deux petits frères.",
+    "tgt": "남동생이 두 명 있어요.",
+    "ro": "Namdongsaengi du myeong isseoyo.",
+    "lit": "petit frère-[sujet] · deux · personnes · il y a-[politesse]"
+   },
+   {
+    "fr": "Nous sommes trois en tout.",
+    "tgt": "모두 세 명이에요.",
+    "ro": "Modu se myeongieyo.",
+    "lit": "en tout · trois · personnes-est"
+   },
+   {
+    "fr": "J'achète quatre pommes.",
+    "tgt": "사과를 네 개 사요.",
+    "ro": "Sagwareul ne gae sayo.",
+    "lit": "pommes-[objet] · quatre · unités · achète-[politesse]"
+   },
+   {
+    "fr": "Je bois deux cafés par jour.",
+    "tgt": "하루에 커피를 두 잔 마셔요.",
+    "ro": "Harue keopireul du jan masyeoyo.",
+    "lit": "un jour-[à] · café-[objet] · deux · tasses · bois-[politesse]"
+   },
+   {
+    "fr": "Mon fils a cinq ans.",
+    "tgt": "아들은 다섯 살이에요.",
+    "ro": "Adeureun daseot sarieyo.",
+    "lit": "fils-[thème] · cinq · ans-est"
+   },
+   {
+    "fr": "Il y a une boulangerie dans cette rue.",
+    "tgt": "이 길에 빵집이 하나 있어요.",
+    "ro": "I gire ppangjibi hana isseoyo.",
+    "lit": "cette · rue-[à] · boulangerie-[sujet] · une · il y a-[politesse]"
+   },
+   {
+    "fr": "Un, deux, trois, ouistiti !",
+    "tgt": "하나, 둘, 셋, 김치!",
+    "ro": "Hana, dul, set, gimchi!",
+    "lit": "un · deux · trois · kimchi"
+   },
+   {
+    "fr": "Ma grand-mère a quatre-vingts ans.",
+    "tgt": "할머니는 여든 살이에요.",
+    "ro": "Halmeonineun yeodeun sarieyo.",
+    "lit": "grand-mère-[thème] · quatre-vingts · ans-est"
+   },
+   {
+    "fr": "Il me faut trois bouteilles d'eau.",
+    "tgt": "물 세 병이 필요해요.",
+    "ro": "Mul se byeongi piryohaeyo.",
+    "lit": "eau · trois · bouteilles-[sujet] · est nécessaire-[politesse]"
+   },
+   {
+    "fr": "Le soir, je mange deux bols de riz.",
+    "tgt": "저녁에 밥을 두 그릇 먹어요.",
+    "ro": "Jeonyeoge babeul du geureut meogeoyo.",
+    "lit": "soir-[à] · riz-[objet] · deux · bols · mange-[politesse]"
+   }
+  ]
+ },
+ "0-0-16": {
+  "module": "Le quotidien",
+  "title": "Les horaires de la journée",
+  "grammaire_de_la_lecon": "L'heure : « si » avec les nombres natifs, « bun » avec les sino-coréens",
+  "phrases": [
+   {
+    "fr": "Il est quelle heure, maintenant ?",
+    "tgt": "지금 몇 시예요?",
+    "ro": "Jigeum myeot siyeyo?",
+    "lit": "maintenant · combien · heure-est[question]"
+   },
+   {
+    "fr": "Il est neuf heures pile.",
+    "tgt": "아홉 시 정각이에요.",
+    "ro": "Ahop si jeonggagieyo.",
+    "lit": "neuf · heure · pile-est"
+   },
+   {
+    "fr": "J'arrive au bureau à neuf heures.",
+    "tgt": "아홉 시에 출근해요.",
+    "ro": "Ahop sie chulgeunhaeyo.",
+    "lit": "neuf · heure-[à] · vais au travail-[politesse]"
+   },
+   {
+    "fr": "Le dernier métro est à minuit.",
+    "tgt": "막차는 열두 시예요.",
+    "ro": "Makchaneun yeoldu siyeyo.",
+    "lit": "dernier train-[thème] · douze · heure-est"
+   },
+   {
+    "fr": "Il est déjà deux heures et demie.",
+    "tgt": "벌써 두 시 반이에요.",
+    "ro": "Beolsseo du si banieyo.",
+    "lit": "déjà · deux · heure · demie-est"
+   },
+   {
+    "fr": "Le bus passe toutes les dix minutes.",
+    "tgt": "버스는 십 분마다 와요.",
+    "ro": "Beoseuneun sip bunmada wayo.",
+    "lit": "bus-[thème] · dix · minutes-chaque · vient-[politesse]"
+   },
+   {
+    "fr": "On se voit à sept heures ?",
+    "tgt": "일곱 시에 만나요?",
+    "ro": "Ilgop sie mannayo?",
+    "lit": "sept · heure-[à] · rencontrons-[politesse][question]"
+   },
+   {
+    "fr": "Je déjeune à midi et demi.",
+    "tgt": "열두 시 반에 점심을 먹어요.",
+    "ro": "Yeoldu si bane jeomsimeul meogeoyo.",
+    "lit": "douze · heure · demie-[à] · déjeuner-[objet] · mange-[politesse]"
+   },
+   {
+    "fr": "Le cours finit à huit heures vingt.",
+    "tgt": "수업은 여덟 시 이십 분에 끝나요.",
+    "ro": "Sueobeun yeodeol si isip bune kkeunnayo.",
+    "lit": "cours-[thème] · huit · heure · vingt · minute-[à] · finit-[politesse]"
+   },
+   {
+    "fr": "Je me couche vers onze heures.",
+    "tgt": "열한 시쯤 자요.",
+    "ro": "Yeolhan sijjeum jayo.",
+    "lit": "onze · heure-environ · dors-[politesse]"
+   }
+  ]
+ },
+ "0-0-17": {
+  "module": "Le quotidien",
+  "title": "Commander au restaurant",
+  "grammaire_de_la_lecon": "« Juseyo » : donnez-moi, je voudrais",
+  "phrases": [
+   {
+    "fr": "Un bibimbap, s'il vous plaît.",
+    "tgt": "비빔밥 하나 주세요.",
+    "ro": "Bibimbap hana juseyo.",
+    "lit": "bibimbap · un · donnez-moi-[politesse]"
+   },
+   {
+    "fr": "Une bouteille d'eau, s'il vous plaît.",
+    "tgt": "물 한 병 주세요.",
+    "ro": "Mul han byeong juseyo.",
+    "lit": "eau · une · bouteille · donnez-moi-[politesse]"
+   },
+   {
+    "fr": "Le menu, s'il vous plaît.",
+    "tgt": "메뉴판 주세요.",
+    "ro": "Menyupan juseyo.",
+    "lit": "carte · donnez-moi-[politesse]"
+   },
+   {
+    "fr": "Deux rouleaux de kimbap, s'il vous plaît.",
+    "tgt": "김밥 두 줄 주세요.",
+    "ro": "Gimbap du jul juseyo.",
+    "lit": "kimbap · deux · rouleaux · donnez-moi-[politesse]"
+   },
+   {
+    "fr": "Moins épicé, s'il vous plaît.",
+    "tgt": "덜 맵게 해 주세요.",
+    "ro": "Deol maepge hae juseyo.",
+    "lit": "moins · piquant · faire · donnez-moi-[politesse]"
+   },
+   {
+    "fr": "Encore un peu de kimchi, s'il vous plaît.",
+    "tgt": "김치 좀 더 주세요.",
+    "ro": "Gimchi jom deo juseyo.",
+    "lit": "kimchi · un peu · plus · donnez-moi-[politesse]"
+   },
+   {
+    "fr": "Je voudrais payer ici, s'il vous plaît.",
+    "tgt": "여기 계산해 주세요.",
+    "ro": "Yeogi gyesanhae juseyo.",
+    "lit": "ici · payer · donnez-moi-[politesse]"
+   },
+   {
+    "fr": "Il me faudrait une cuillère, s'il vous plaît.",
+    "tgt": "숟가락 하나 주세요.",
+    "ro": "Sutgarak hana juseyo.",
+    "lit": "cuillère · une · donnez-moi-[politesse]"
+   },
+   {
+    "fr": "Un thé chaud, s'il vous plaît.",
+    "tgt": "따뜻한 차 한 잔 주세요.",
+    "ro": "Ttatteutan cha han jan juseyo.",
+    "lit": "chaud · thé · une · tasse · donnez-moi-[politesse]"
+   },
+   {
+    "fr": "Excusez-moi, par ici !",
+    "tgt": "여기요!",
+    "ro": "Yeogiyo!",
+    "lit": "ici-[politesse]"
+   }
+  ]
+ },
+ "0-0-18": {
+  "module": "Le quotidien",
+  "title": "Ce que j'aime à Séoul",
+  "grammaire_de_la_lecon": "« Joayo » : c'est bien, ça me plaît",
+  "phrases": [
+   {
+    "fr": "J'aime beaucoup le kimchi.",
+    "tgt": "김치가 정말 좋아요.",
+    "ro": "Gimchiga jeongmal joayo.",
+    "lit": "kimchi-[sujet] · vraiment · est bien-[politesse]"
+   },
+   {
+    "fr": "Aujourd'hui, la météo est idéale.",
+    "tgt": "오늘 날씨 정말 좋아요.",
+    "ro": "Oneul nalssi jeongmal joayo.",
+    "lit": "aujourd'hui · temps · vraiment · est bien-[politesse]"
+   },
+   {
+    "fr": "Le quartier de Mapo me plaît.",
+    "tgt": "마포가 좋아요.",
+    "ro": "Mapoga joayo.",
+    "lit": "Mapo-[sujet] · est bien-[politesse]"
+   },
+   {
+    "fr": "Bonne idée, ça me va !",
+    "tgt": "좋아요!",
+    "ro": "Joayo!",
+    "lit": "est bien-[politesse]"
+   },
+   {
+    "fr": "Le métro du matin, ce n'est pas agréable.",
+    "tgt": "아침 지하철은 안 좋아요.",
+    "ro": "Achim jihacheoreun an joayo.",
+    "lit": "matin · métro-[thème] · ne pas · est bien-[politesse]"
+   },
+   {
+    "fr": "J'aime les petits cafés de Hongdae.",
+    "tgt": "홍대의 작은 카페들이 좋아요.",
+    "ro": "Hongdaeui jageun kapedeuri joayo.",
+    "lit": "Hongdae-de · petits · cafés-pluriel-[sujet] · sont bien-[politesse]"
+   },
+   {
+    "fr": "J'aime le parc au bord du fleuve Han.",
+    "tgt": "한강 공원이 좋아요.",
+    "ro": "Hangang gongwoni joayo.",
+    "lit": "fleuve Han · parc-[sujet] · est bien-[politesse]"
+   },
+   {
+    "fr": "Votre appartement est très bien.",
+    "tgt": "집이 아주 좋아요.",
+    "ro": "Jibi aju joayo.",
+    "lit": "logement-[sujet] · très · est bien-[politesse]"
+   },
+   {
+    "fr": "J'adore le noraebang.",
+    "tgt": "노래방이 좋아요.",
+    "ro": "Noraebangi joayo.",
+    "lit": "karaoké-[sujet] · est bien-[politesse]"
+   },
+   {
+    "fr": "Qu'est-ce qui vous plaît le plus à Séoul ?",
+    "tgt": "서울에서 뭐가 제일 좋아요?",
+    "ro": "Seoureseo mwoga jeil joayo?",
+    "lit": "Séoul-[dans] · quoi-[sujet] · le plus · est bien-[politesse][question]"
+   }
+  ]
+ },
+ "0-0-19": {
+  "module": "Le quotidien",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "Les formules magiques : « gamsahamnida, joesonghamnida, gwaenchanayo, sillyehamnida »",
+  "phrases": [
+   {
+    "fr": "Merci beaucoup, professeur !",
+    "tgt": "선생님, 정말 감사합니다!",
+    "ro": "Seonsaengnim, jeongmal gamsahamnida!",
+    "lit": "professeur · vraiment · merci-[formel]"
+   },
+   {
+    "fr": "Pardon, je ne parle pas encore bien coréen.",
+    "tgt": "죄송합니다, 한국어를 아직 잘 못해요.",
+    "ro": "Joesonghamnida, Hangugeoreul ajik jal motaeyo.",
+    "lit": "pardon-[formel] · coréen-[objet] · encore · bien · ne sais pas faire-[politesse]"
+   },
+   {
+    "fr": "Ce n'est pas grave, vous parlez bien coréen !",
+    "tgt": "괜찮아요, 한국어 잘해요!",
+    "ro": "Gwaenchanayo, Hangugeo jalhaeyo!",
+    "lit": "ça va-[politesse] · coréen · faites bien-[politesse]"
+   },
+   {
+    "fr": "Excusez-moi, je voudrais passer.",
+    "tgt": "실례합니다, 좀 지나갈게요.",
+    "ro": "Sillyehamnida, jom jinagalgeyo.",
+    "lit": "excusez-moi-[formel] · un peu · vais passer-[politesse]"
+   },
+   {
+    "fr": "Le coréen devient de plus en plus facile.",
+    "tgt": "한국어가 점점 쉬워요.",
+    "ro": "Hangugeoga jeomjeom swiwoyo.",
+    "lit": "coréen-[sujet] · peu à peu · est facile-[politesse]"
+   },
+   {
+    "fr": "Maintenant, je parle un peu coréen.",
+    "tgt": "이제 한국어를 조금 해요.",
+    "ro": "Ije Hangugeoreul jogeum haeyo.",
+    "lit": "maintenant · coréen-[objet] · un peu · fais-[politesse]"
+   },
+   {
+    "fr": "La prochaine étape, c'est le voyage en Corée !",
+    "tgt": "다음은 한국 여행이에요!",
+    "ro": "Daeumeun Hanguk yeohaengieyo!",
+    "lit": "suite-[thème] · Corée · voyage-est"
+   },
+   {
+    "fr": "Merci à tous, et à la prochaine !",
+    "tgt": "감사합니다, 또 만나요!",
+    "ro": "Gamsahamnida, tto mannayo!",
+    "lit": "merci-[formel] · encore · voyons-nous-[politesse]"
+   },
+   {
+    "fr": "Pardon, répétez encore une fois, s'il vous plaît.",
+    "tgt": "죄송합니다, 다시 한번 말해 주세요.",
+    "ro": "Joesonghamnida, dasi hanbeon malhae juseyo.",
+    "lit": "pardon-[formel] · de nouveau · une fois · dire · donnez-moi-[politesse]"
+   },
+   {
+    "fr": "Beau travail, merci pour vos efforts !",
+    "tgt": "수고하셨습니다!",
+    "ro": "Sugohasyeotseumnida!",
+    "lit": "avez peiné-[honorifique][passé][formel]"
+   }
+  ]
+ },
+ "0-1-0": {
+  "module": "En voyage",
+  "title": "Au guichet de la gare de Séoul",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Bonjour, un billet pour Busan, s'il vous plaît.",
+    "tgt": "안녕하세요, 부산 가는 표 한 장 주세요.",
+    "ro": "Annyeonghaseyo, Busan ganeun pyo han jang juseyo.",
+    "lit": "bonjour · Busan · qui-va · billet · un · [feuille] · donnez"
+   },
+   {
+    "fr": "Pour le train de quelle heure ?",
+    "tgt": "몇 시 기차요?",
+    "ro": "Myeot si gichayo?",
+    "lit": "quelle · heure · train-[politesse]"
+   },
+   {
+    "fr": "Le train de dix heures, s'il vous plaît.",
+    "tgt": "열 시 기차요.",
+    "ro": "Yeol si gichayo.",
+    "lit": "dix · heure · train-[politesse]"
+   },
+   {
+    "fr": "Il reste des places ?",
+    "tgt": "자리 있어요?",
+    "ro": "Jari isseoyo?",
+    "lit": "place · il-y-a-[question]"
+   },
+   {
+    "fr": "Oui, il reste une place côté fenêtre.",
+    "tgt": "네, 창가 자리 있어요.",
+    "ro": "Ne, changga jari isseoyo.",
+    "lit": "oui · côté-fenêtre · place · il-y-a"
+   },
+   {
+    "fr": "Le trajet prend combien de temps ?",
+    "tgt": "얼마나 걸려요?",
+    "ro": "Eolmana geollyeoyo?",
+    "lit": "combien · ça-prend-[question]"
+   },
+   {
+    "fr": "Environ deux heures et demie.",
+    "tgt": "두 시간 반쯤 걸려요.",
+    "ro": "Du sigan banjjeum geollyeoyo.",
+    "lit": "deux · heure(durée) · demie-environ · ça-prend"
+   },
+   {
+    "fr": "Tenez, voici ma carte.",
+    "tgt": "카드 여기 있어요.",
+    "ro": "Kadeu yeogi isseoyo.",
+    "lit": "carte · ici · il-y-a"
+   },
+   {
+    "fr": "Il part de quel quai, ce train ?",
+    "tgt": "몇 번 승강장이에요?",
+    "ro": "Myeot beon seunggangjangieyo?",
+    "lit": "quel · numéro · quai-est"
+   },
+   {
+    "fr": "C'est le quai numéro trois.",
+    "tgt": "삼 번 승강장이에요.",
+    "ro": "Sam beon seunggangjangieyo.",
+    "lit": "trois · numéro · quai-est"
+   }
+  ]
+ },
+ "0-1-1": {
+  "module": "En voyage",
+  "title": "Combien coûte le billet ?",
+  "grammaire_de_la_lecon": "« Eolmayeyo » : combien ça coûte, et les prix en wons",
+  "phrases": [
+   {
+    "fr": "Combien coûte le billet pour Busan ?",
+    "tgt": "부산까지 얼마예요?",
+    "ro": "Busankkaji eolmayeyo?",
+    "lit": "Busan-[jusqu'à] · combien-est"
+   },
+   {
+    "fr": "C'est cinquante mille wons.",
+    "tgt": "오만 원이에요.",
+    "ro": "Oman wonieyo.",
+    "lit": "cinquante-mille · won-est"
+   },
+   {
+    "fr": "Et le billet retour, il coûte combien ?",
+    "tgt": "돌아오는 표는 얼마예요?",
+    "ro": "Doraoneun pyoneun eolmayeyo?",
+    "lit": "qui-revient · billet-[thème] · combien-est"
+   },
+   {
+    "fr": "C'est le même prix.",
+    "tgt": "같은 가격이에요.",
+    "ro": "Gateun gagyeogieyo.",
+    "lit": "même · prix-est"
+   },
+   {
+    "fr": "Un café, c'est combien ?",
+    "tgt": "커피 얼마예요?",
+    "ro": "Keopi eolmayeyo?",
+    "lit": "café · combien-est"
+   },
+   {
+    "fr": "Quatre mille cinq cents wons.",
+    "tgt": "사천오백 원이에요.",
+    "ro": "Sacheonobaek wonieyo.",
+    "lit": "quatre-mille-cinq-cents · won-est"
+   },
+   {
+    "fr": "Ce rouleau de riz coûte trois mille wons.",
+    "tgt": "이 김밥은 삼천 원이에요.",
+    "ro": "I gimbabeun samcheon wonieyo.",
+    "lit": "ce · rouleau-de-riz-[thème] · trois-mille · won-est"
+   },
+   {
+    "fr": "C'est un peu cher pour moi.",
+    "tgt": "좀 비싸요.",
+    "ro": "Jom bissayo.",
+    "lit": "un-peu · cher-[politesse]"
+   },
+   {
+    "fr": "Combien pour l'ensemble ?",
+    "tgt": "전부 얼마예요?",
+    "ro": "Jeonbu eolmayeyo?",
+    "lit": "en-tout · combien-est"
+   },
+   {
+    "fr": "Ça fait sept mille cinq cents wons.",
+    "tgt": "칠천오백 원이에요.",
+    "ro": "Chilcheonobaek wonieyo.",
+    "lit": "sept-mille-cinq-cents · won-est"
+   }
+  ]
+ },
+ "0-1-2": {
+  "module": "En voyage",
+  "title": "Dans le train pour Busan",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Excusez-moi, c'est ma place ici.",
+    "tgt": "저기요, 여기 제 자리예요.",
+    "ro": "Jeogiyo, yeogi je jariyeyo.",
+    "lit": "excusez-moi · ici · ma · place-est"
+   },
+   {
+    "fr": "Ah, je suis vraiment désolé !",
+    "tgt": "아, 죄송해요!",
+    "ro": "A, joesonghaeyo!",
+    "lit": "ah · désolé-[politesse]"
+   },
+   {
+    "fr": "Ce train va vraiment vite.",
+    "tgt": "기차가 정말 빨라요.",
+    "ro": "Gichaga jeongmal ppallayo.",
+    "lit": "train-[sujet] · vraiment · rapide-[politesse]"
+   },
+   {
+    "fr": "Vous avez de l'eau ?",
+    "tgt": "물 있어요?",
+    "ro": "Mul isseoyo?",
+    "lit": "eau · il-y-a-[question]"
+   },
+   {
+    "fr": "Les toilettes sont au fond du wagon.",
+    "tgt": "화장실은 뒤에 있어요.",
+    "ro": "Hwajangsireun dwie isseoyo.",
+    "lit": "toilettes-[thème] · arrière-[à] · se-trouver"
+   },
+   {
+    "fr": "Le paysage est vraiment beau.",
+    "tgt": "경치가 정말 좋아요.",
+    "ro": "Gyeongchiga jeongmal joayo.",
+    "lit": "paysage-[sujet] · vraiment · bon-[politesse]"
+   },
+   {
+    "fr": "J'ai un peu sommeil.",
+    "tgt": "좀 졸려요.",
+    "ro": "Jom jollyeoyo.",
+    "lit": "un-peu · avoir-sommeil-[politesse]"
+   },
+   {
+    "fr": "On arrive bientôt à Busan.",
+    "tgt": "곧 부산이에요.",
+    "ro": "Got Busanieyo.",
+    "lit": "bientôt · Busan-est"
+   },
+   {
+    "fr": "Busan, c'est encore loin ?",
+    "tgt": "부산까지 아직 멀어요?",
+    "ro": "Busankkaji ajik meoreoyo?",
+    "lit": "Busan-[jusqu'à] · encore · loin-[question]"
+   },
+   {
+    "fr": "Non, maintenant ce n'est plus loin.",
+    "tgt": "아니요, 이제 안 멀어요.",
+    "ro": "Aniyo, ije an meoreoyo.",
+    "lit": "non · maintenant · [négation] · loin-[politesse]"
+   }
+  ]
+ },
+ "0-1-3": {
+  "module": "En voyage",
+  "title": "À la gare de Busan",
+  "grammaire_de_la_lecon": "« Eodi isseoyo » : où se trouve... ?",
+  "phrases": [
+   {
+    "fr": "Où sont les toilettes, s'il vous plaît ?",
+    "tgt": "화장실 어디 있어요?",
+    "ro": "Hwajangsil eodi isseoyo?",
+    "lit": "toilettes · où · se-trouver-[question]"
+   },
+   {
+    "fr": "Où est-ce qu'on prend le métro ?",
+    "tgt": "지하철 타는 곳 어디 있어요?",
+    "ro": "Jihacheol taneun got eodi isseoyo?",
+    "lit": "métro · où-l'on-prend · endroit · où · se-trouver-[question]"
+   },
+   {
+    "fr": "La station de taxis est dehors.",
+    "tgt": "택시 타는 곳은 밖에 있어요.",
+    "ro": "Taeksi taneun goseun bakke isseoyo.",
+    "lit": "taxi · où-l'on-prend · endroit-[thème] · dehors-[à] · se-trouver"
+   },
+   {
+    "fr": "Où se trouve l'office du tourisme ?",
+    "tgt": "관광 안내소 어디 있어요?",
+    "ro": "Gwangwang annaeso eodi isseoyo?",
+    "lit": "tourisme · bureau-d'information · où · se-trouver-[question]"
+   },
+   {
+    "fr": "Il est juste à côté de la sortie.",
+    "tgt": "출구 옆에 있어요.",
+    "ro": "Chulgu yeope isseoyo.",
+    "lit": "sortie · côté-[à] · se-trouver"
+   },
+   {
+    "fr": "Où est la consigne à bagages ?",
+    "tgt": "물품 보관함 어디 있어요?",
+    "ro": "Mulpum bogwanham eodi isseoyo?",
+    "lit": "objets · casier-de-consigne · où · se-trouver-[question]"
+   },
+   {
+    "fr": "Elle est devant le café.",
+    "tgt": "카페 앞에 있어요.",
+    "ro": "Kape ape isseoyo.",
+    "lit": "café · devant-[à] · se-trouver"
+   },
+   {
+    "fr": "Il y a une supérette dans la gare ?",
+    "tgt": "여기 편의점 있어요?",
+    "ro": "Yeogi pyeonuijeom isseoyo?",
+    "lit": "ici · supérette · il-y-a-[question]"
+   },
+   {
+    "fr": "Oui, elle est au premier étage.",
+    "tgt": "네, 이 층에 있어요.",
+    "ro": "Ne, i cheunge isseoyo.",
+    "lit": "oui · deux · étage-[à] · se-trouver"
+   },
+   {
+    "fr": "Mais où est passé mon billet ?",
+    "tgt": "제 표 어디 있어요?",
+    "ro": "Je pyo eodi isseoyo?",
+    "lit": "mon · billet · où · se-trouver-[question]"
+   }
+  ]
+ },
+ "0-1-4": {
+  "module": "En voyage",
+  "title": "En taxi vers Haeundae",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Bonjour, à Haeundae, s'il vous plaît.",
+    "tgt": "안녕하세요, 해운대 가 주세요.",
+    "ro": "Annyeonghaseyo, Haeundae ga juseyo.",
+    "lit": "bonjour · Haeundae · aller · veuillez"
+   },
+   {
+    "fr": "C'est quel hôtel ?",
+    "tgt": "어느 호텔이에요?",
+    "ro": "Eoneu hoterieyo?",
+    "lit": "quel · hôtel-est"
+   },
+   {
+    "fr": "Voici l'adresse sur mon téléphone.",
+    "tgt": "여기 주소요.",
+    "ro": "Yeogi jusoyo.",
+    "lit": "ici · adresse-[politesse]"
+   },
+   {
+    "fr": "Il faut combien de temps pour y aller ?",
+    "tgt": "시간이 얼마나 걸려요?",
+    "ro": "Sigani eolmana geollyeoyo?",
+    "lit": "temps-[sujet] · combien · ça-prend-[question]"
+   },
+   {
+    "fr": "À peu près une demi-heure.",
+    "tgt": "삼십 분쯤 걸려요.",
+    "ro": "Samsip bunjjeum geollyeoyo.",
+    "lit": "trente · minute-environ · ça-prend"
+   },
+   {
+    "fr": "Il y a beaucoup de voitures aujourd'hui.",
+    "tgt": "오늘 차가 많아요.",
+    "ro": "Oneul chaga manayo.",
+    "lit": "aujourd'hui · voiture-[sujet] · nombreux-[politesse]"
+   },
+   {
+    "fr": "Arrêtez-vous ici, s'il vous plaît.",
+    "tgt": "여기서 세워 주세요.",
+    "ro": "Yeogiseo sewo juseyo.",
+    "lit": "ici-[lieu] · arrêter · veuillez"
+   },
+   {
+    "fr": "C'est combien, la course ?",
+    "tgt": "얼마예요?",
+    "ro": "Eolmayeyo?",
+    "lit": "combien-est"
+   },
+   {
+    "fr": "Ça fait dix-huit mille wons.",
+    "tgt": "만 팔천 원이에요.",
+    "ro": "Man palcheon wonieyo.",
+    "lit": "dix-mille · huit-mille · won-est"
+   },
+   {
+    "fr": "La carte bancaire, ça passe ?",
+    "tgt": "카드 돼요?",
+    "ro": "Kadeu dwaeyo?",
+    "lit": "carte · ça-marche-[question]"
+   }
+  ]
+ },
+ "0-1-5": {
+  "module": "En voyage",
+  "title": "Une journée à la plage de Haeundae",
+  "grammaire_de_la_lecon": "« Eseo » : le lieu où l'on fait quelque chose",
+  "phrases": [
+   {
+    "fr": "Je nage à la plage.",
+    "tgt": "저는 해변에서 수영해요.",
+    "ro": "Jeoneun haebyeoneseo suyeonghaeyo.",
+    "lit": "moi-[thème] · plage-[lieu] · nager-[politesse]"
+   },
+   {
+    "fr": "On mange une glace sur la plage ?",
+    "tgt": "해변에서 아이스크림 먹어요?",
+    "ro": "Haebyeoneseo aiseukeurim meogeoyo?",
+    "lit": "plage-[lieu] · glace · manger-[question]"
+   },
+   {
+    "fr": "Les enfants jouent dans le sable.",
+    "tgt": "아이들이 모래에서 놀아요.",
+    "ro": "Aideuri moraeeseo norayo.",
+    "lit": "enfants-[sujet] · sable-[lieu] · jouer-[politesse]"
+   },
+   {
+    "fr": "Je lis un livre sous le parasol.",
+    "tgt": "파라솔 아래에서 책을 읽어요.",
+    "ro": "Parasol araeeseo chaegeul ilgeoyo.",
+    "lit": "parasol · dessous-[lieu] · livre-[objet] · lire-[politesse]"
+   },
+   {
+    "fr": "Mon ami prend des photos là-bas.",
+    "tgt": "제 친구는 저기에서 사진을 찍어요.",
+    "ro": "Je chinguneun jeogieseo sajineul jjigeoyo.",
+    "lit": "mon · ami-[thème] · là-bas-[lieu] · photo-[objet] · prendre-[politesse]"
+   },
+   {
+    "fr": "Il y a beaucoup de monde à Haeundae.",
+    "tgt": "해운대에 사람이 많아요.",
+    "ro": "Haeundaee sarami manayo.",
+    "lit": "Haeundae-[à] · personne-[sujet] · nombreux-[politesse]"
+   },
+   {
+    "fr": "Où est-ce qu'on se change ?",
+    "tgt": "어디에서 옷을 갈아입어요?",
+    "ro": "Eodieseo oseul garaibeoyo?",
+    "lit": "où-[lieu] · vêtement-[objet] · se-changer-[question]"
+   },
+   {
+    "fr": "Les douches sont juste là-bas.",
+    "tgt": "샤워실은 저기 있어요.",
+    "ro": "Syawosireun jeogi isseoyo.",
+    "lit": "douches-[thème] · là-bas · se-trouver"
+   },
+   {
+    "fr": "Le soir, on marche sur la plage.",
+    "tgt": "저녁에 해변에서 걸어요.",
+    "ro": "Jeonyeoge haebyeoneseo georeoyo.",
+    "lit": "soir-[à] · plage-[lieu] · marcher-[politesse]"
+   },
+   {
+    "fr": "On boit un café au bord de la mer.",
+    "tgt": "바닷가 카페에서 커피를 마셔요.",
+    "ro": "Badatga kapeeseo keopireul masyeoyo.",
+    "lit": "bord-de-mer · café-[lieu] · café-[objet] · boire-[politesse]"
+   }
+  ]
+ },
+ "0-1-6": {
+  "module": "En voyage",
+  "title": "L'arrivée à l'hôtel",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Bonjour, j'ai une réservation à mon nom.",
+    "tgt": "안녕하세요, 예약이 있어요.",
+    "ro": "Annyeonghaseyo, yeyagi isseoyo.",
+    "lit": "bonjour · réservation-[sujet] · il-y-a"
+   },
+   {
+    "fr": "Quel est votre nom ?",
+    "tgt": "이름이 뭐예요?",
+    "ro": "Ireumi mwoyeyo?",
+    "lit": "nom-[sujet] · quoi-est"
+   },
+   {
+    "fr": "Moi, c'est Martin.",
+    "tgt": "저는 마르탱이에요.",
+    "ro": "Jeoneun Mareutaengieyo.",
+    "lit": "moi-[thème] · Martin-suis"
+   },
+   {
+    "fr": "Votre chambre, c'est au huitième.",
+    "tgt": "방은 구 층이에요.",
+    "ro": "Bangeun gu cheungieyo.",
+    "lit": "chambre-[thème] · neuf · étage-est"
+   },
+   {
+    "fr": "Tenez, voilà votre clé.",
+    "tgt": "여기 열쇠요.",
+    "ro": "Yeogi yeolsoeyo.",
+    "lit": "ici · clé-[politesse]"
+   },
+   {
+    "fr": "À quelle heure sert-on le petit-déjeuner ?",
+    "tgt": "아침은 몇 시예요?",
+    "ro": "Achimeun myeot siyeyo?",
+    "lit": "petit-déjeuner-[thème] · quelle · heure-est"
+   },
+   {
+    "fr": "C'est à partir de sept heures.",
+    "tgt": "일곱 시부터예요.",
+    "ro": "Ilgop sibuteoyeyo.",
+    "lit": "sept · heure-[à-partir-de]-est"
+   },
+   {
+    "fr": "On voit la mer depuis la chambre ?",
+    "tgt": "방에서 바다가 보여요?",
+    "ro": "Bangeseo badaga boyeoyo?",
+    "lit": "chambre-[depuis] · mer-[sujet] · être-visible-[question]"
+   },
+   {
+    "fr": "Oui, la vue est superbe.",
+    "tgt": "네, 경치가 아주 좋아요.",
+    "ro": "Ne, gyeongchiga aju joayo.",
+    "lit": "oui · vue-[sujet] · très · bon-[politesse]"
+   },
+   {
+    "fr": "Le wifi est gratuit ?",
+    "tgt": "와이파이 무료예요?",
+    "ro": "Waipai muryoyeyo?",
+    "lit": "wifi · gratuit-est-[question]"
+   }
+  ]
+ },
+ "0-1-7": {
+  "module": "En voyage",
+  "title": "De la gare jusqu'à la plage",
+  "grammaire_de_la_lecon": "« Eseo... kkaji » : de... jusqu'à...",
+  "phrases": [
+   {
+    "fr": "De la gare jusqu'à l'hôtel, c'est loin ?",
+    "tgt": "역에서 호텔까지 멀어요?",
+    "ro": "Yeogeseo hotelkkaji meoreoyo?",
+    "lit": "gare-[depuis] · hôtel-[jusqu'à] · loin-[question]"
+   },
+   {
+    "fr": "De Séoul à Busan, il faut deux heures et demie.",
+    "tgt": "서울에서 부산까지 두 시간 반 걸려요.",
+    "ro": "Seoureseo Busankkaji du sigan ban geollyeoyo.",
+    "lit": "Séoul-[depuis] · Busan-[jusqu'à] · deux · heure · demie · ça-prend"
+   },
+   {
+    "fr": "De l'hôtel à la plage, c'est cinq minutes à pied.",
+    "tgt": "호텔에서 해변까지 걸어서 오 분이에요.",
+    "ro": "Hotereseo haebyeonkkaji georeoseo o bunieyo.",
+    "lit": "hôtel-[depuis] · plage-[jusqu'à] · à-pied · cinq · minute-est"
+   },
+   {
+    "fr": "Ce bus va de Haeundae jusqu'à Jagalchi ?",
+    "tgt": "이 버스 해운대에서 자갈치까지 가요?",
+    "ro": "I beoseu Haeundaeeseo Jagalchikkaji gayo?",
+    "lit": "ce · bus · Haeundae-[depuis] · Jagalchi-[jusqu'à] · aller-[question]"
+   },
+   {
+    "fr": "C'est ouvert de quelle heure à quelle heure ?",
+    "tgt": "몇 시부터 몇 시까지 해요?",
+    "ro": "Myeot sibuteo myeot sikkaji haeyo?",
+    "lit": "quelle · heure-[à-partir-de] · quelle · heure-[jusqu'à] · faire-[question]"
+   },
+   {
+    "fr": "De neuf heures à six heures du soir.",
+    "tgt": "아홉 시부터 여섯 시까지 해요.",
+    "ro": "Ahop sibuteo yeoseot sikkaji haeyo.",
+    "lit": "neuf · heure-[à-partir-de] · six · heure-[jusqu'à] · faire-[politesse]"
+   },
+   {
+    "fr": "D'ici jusqu'au marché, j'y vais à pied.",
+    "tgt": "여기에서 시장까지 걸어가요.",
+    "ro": "Yeogieseo sijangkkaji georeogayo.",
+    "lit": "ici-[depuis] · marché-[jusqu'à] · aller-à-pied-[politesse]"
+   },
+   {
+    "fr": "Jusqu'à Gamcheon, c'est combien en taxi ?",
+    "tgt": "감천까지 택시로 얼마예요?",
+    "ro": "Gamcheonkkaji taeksiro eolmayeyo?",
+    "lit": "Gamcheon-[jusqu'à] · taxi-[par] · combien-est"
+   },
+   {
+    "fr": "De la plage à la gare, il y a un bus.",
+    "tgt": "해변에서 역까지 버스가 있어요.",
+    "ro": "Haebyeoneseo yeokkkaji beoseuga isseoyo.",
+    "lit": "plage-[depuis] · gare-[jusqu'à] · bus-[sujet] · il-y-a"
+   },
+   {
+    "fr": "Je reste à Busan jusqu'à vendredi.",
+    "tgt": "금요일까지 부산에 있어요.",
+    "ro": "Geumyoilkkaji Busane isseoyo.",
+    "lit": "vendredi-[jusqu'à] · Busan-[à] · être"
+   }
+  ]
+ },
+ "0-1-8": {
+  "module": "En voyage",
+  "title": "Le marché aux poissons de Jagalchi",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Le marché de Jagalchi est immense.",
+    "tgt": "자갈치 시장은 정말 커요.",
+    "ro": "Jagalchi sijangeun jeongmal keoyo.",
+    "lit": "Jagalchi · marché-[thème] · vraiment · grand-[politesse]"
+   },
+   {
+    "fr": "Il y a vraiment beaucoup de poissons.",
+    "tgt": "생선이 정말 많아요.",
+    "ro": "Saengseoni jeongmal manayo.",
+    "lit": "poisson-[sujet] · vraiment · nombreux-[politesse]"
+   },
+   {
+    "fr": "Ça sent la mer ici.",
+    "tgt": "바다 냄새가 나요.",
+    "ro": "Bada naemsaega nayo.",
+    "lit": "mer · odeur-[sujet] · sortir-[politesse]"
+   },
+   {
+    "fr": "Ce poisson est très frais.",
+    "tgt": "이 생선은 아주 신선해요.",
+    "ro": "I saengseoneun aju sinseonhaeyo.",
+    "lit": "ce · poisson-[thème] · très · frais-[politesse]"
+   },
+   {
+    "fr": "C'est quoi, ce poisson-là ?",
+    "tgt": "저 생선은 뭐예요?",
+    "ro": "Jeo saengseoneun mwoyeyo?",
+    "lit": "ce-là-bas · poisson-[thème] · quoi-est"
+   },
+   {
+    "fr": "C'est du petit poulpe vivant.",
+    "tgt": "산낙지예요.",
+    "ro": "Sannakjiyeyo.",
+    "lit": "vivant-petit-poulpe-est"
+   },
+   {
+    "fr": "Regardez, ça bouge encore !",
+    "tgt": "아직 움직여요!",
+    "ro": "Ajik umjigyeoyo!",
+    "lit": "encore · bouger-[politesse]"
+   },
+   {
+    "fr": "On le mange à l'étage.",
+    "tgt": "위층에서 먹어요.",
+    "ro": "Wicheungeseo meogeoyo.",
+    "lit": "étage-du-dessus-[lieu] · manger-[politesse]"
+   },
+   {
+    "fr": "Les dames du marché sont très gentilles.",
+    "tgt": "아주머니들이 정말 친절해요.",
+    "ro": "Ajumeonideuri jeongmal chinjeolhaeyo.",
+    "lit": "dames-[sujet] · vraiment · gentil-[politesse]"
+   },
+   {
+    "fr": "Je reviens demain matin.",
+    "tgt": "내일 아침에 또 와요.",
+    "ro": "Naeil achime tto wayo.",
+    "lit": "demain · matin-[à] · encore · venir-[politesse]"
+   }
+  ]
+ },
+ "0-1-9": {
+  "module": "En voyage",
+  "title": "Prendre le métro de Busan",
+  "grammaire_de_la_lecon": "« -ro » et « -euro » : en, par, vers, prendre le métro",
+  "phrases": [
+   {
+    "fr": "Je vais à Seomyeon en métro.",
+    "tgt": "지하철로 서면에 가요.",
+    "ro": "Jihacheollo Seomyeone gayo.",
+    "lit": "métro-[par] · Seomyeon-[à] · aller-[politesse]"
+   },
+   {
+    "fr": "On y va en taxi ou en métro ?",
+    "tgt": "택시로 가요, 지하철로 가요?",
+    "ro": "Taeksiro gayo, jihacheollo gayo?",
+    "lit": "taxi-[par] · aller · métro-[par] · aller-[question]"
+   },
+   {
+    "fr": "Le métro, c'est plus rapide.",
+    "tgt": "지하철이 더 빨라요.",
+    "ro": "Jihacheori deo ppallayo.",
+    "lit": "métro-[sujet] · plus · rapide-[politesse]"
+   },
+   {
+    "fr": "Je paie avec cette carte.",
+    "tgt": "이 카드로 내요.",
+    "ro": "I kadeuro naeyo.",
+    "lit": "cette · carte-[par] · payer-[politesse]"
+   },
+   {
+    "fr": "Prenez la ligne un.",
+    "tgt": "일 호선 타세요.",
+    "ro": "Il hoseon taseyo.",
+    "lit": "un · ligne · prendre-[veuillez]"
+   },
+   {
+    "fr": "Sortez par la sortie numéro cinq.",
+    "tgt": "오 번 출구로 나가세요.",
+    "ro": "O beon chulguro nagaseyo.",
+    "lit": "cinq · numéro · sortie-[par] · sortir-[veuillez]"
+   },
+   {
+    "fr": "Allez vers la gauche.",
+    "tgt": "왼쪽으로 가세요.",
+    "ro": "Oenjjogeuro gaseyo.",
+    "lit": "gauche-[vers] · aller-[veuillez]"
+   },
+   {
+    "fr": "Je descends vers la plage à pied.",
+    "tgt": "해변으로 걸어가요.",
+    "ro": "Haebyeoneuro georeogayo.",
+    "lit": "plage-[vers] · aller-à-pied-[politesse]"
+   },
+   {
+    "fr": "On change de ligne à Seomyeon.",
+    "tgt": "서면에서 갈아타요.",
+    "ro": "Seomyeoneseo garatayo.",
+    "lit": "Seomyeon-[lieu] · changer-[politesse]"
+   },
+   {
+    "fr": "Je rentre à l'hôtel en bus.",
+    "tgt": "버스로 호텔에 가요.",
+    "ro": "Beoseuro hotere gayo.",
+    "lit": "bus-[par] · hôtel-[à] · aller-[politesse]"
+   }
+  ]
+ },
+ "0-1-10": {
+  "module": "En voyage",
+  "title": "Le village coloré de Gamcheon",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Les couleurs du village de Gamcheon sont superbes.",
+    "tgt": "감천 문화 마을은 색이 정말 예뻐요.",
+    "ro": "Gamcheon munhwa maeureun saegi jeongmal yeppeoyo.",
+    "lit": "Gamcheon · culture · village-[thème] · couleur-[sujet] · vraiment · joli-[politesse]"
+   },
+   {
+    "fr": "Les maisons sont sur la colline.",
+    "tgt": "집들이 언덕 위에 있어요.",
+    "ro": "Jipdeuri eondeok wie isseoyo.",
+    "lit": "maisons-[sujet] · colline · dessus-[à] · se-trouver"
+   },
+   {
+    "fr": "Ces petites ruelles sont très étroites.",
+    "tgt": "골목이 아주 좁아요.",
+    "ro": "Golmogi aju jobayo.",
+    "lit": "ruelle-[sujet] · très · étroit-[politesse]"
+   },
+   {
+    "fr": "Ouh, la rue monte beaucoup !",
+    "tgt": "길이 많이 가팔라요!",
+    "ro": "Giri mani gapallayo!",
+    "lit": "rue-[sujet] · beaucoup · raide-[politesse]"
+   },
+   {
+    "fr": "Là-bas, il y a le Petit Prince !",
+    "tgt": "저기 어린 왕자가 있어요!",
+    "ro": "Jeogi eorin wangjaga isseoyo!",
+    "lit": "là-bas · petit · prince-[sujet] · il-y-a"
+   },
+   {
+    "fr": "Et si on prenait une photo ensemble ?",
+    "tgt": "같이 사진 찍어요?",
+    "ro": "Gachi sajin jjigeoyo?",
+    "lit": "ensemble · photo · prendre-[question]"
+   },
+   {
+    "fr": "La vue sur le port est magnifique.",
+    "tgt": "항구 경치가 정말 멋있어요.",
+    "ro": "Hanggu gyeongchiga jeongmal meosisseoyo.",
+    "lit": "port · vue-[sujet] · vraiment · magnifique-[politesse]"
+   },
+   {
+    "fr": "Il y a beaucoup de petites boutiques.",
+    "tgt": "작은 가게가 많아요.",
+    "ro": "Jageun gagega manayo.",
+    "lit": "petit · boutique-[sujet] · nombreux-[politesse]"
+   },
+   {
+    "fr": "On fait une pause dans ce café ?",
+    "tgt": "이 카페에서 좀 쉬어요?",
+    "ro": "I kapeeseo jom swieoyo?",
+    "lit": "ce · café-[lieu] · un-peu · se-reposer-[question]"
+   },
+   {
+    "fr": "J'adore ce village.",
+    "tgt": "이 마을 정말 좋아요.",
+    "ro": "I maeul jeongmal joayo.",
+    "lit": "ce · village · vraiment · bon-[politesse]"
+   }
+  ]
+ },
+ "0-1-11": {
+  "module": "En voyage",
+  "title": "Les demandes polies à l'hôtel",
+  "grammaire_de_la_lecon": "« -seyo » et « -euseyo » : la demande polie, veuillez",
+  "phrases": [
+   {
+    "fr": "Entrez donc, je vous en prie.",
+    "tgt": "어서 들어오세요.",
+    "ro": "Eoseo deureooseyo.",
+    "lit": "vite · entrer-[veuillez]"
+   },
+   {
+    "fr": "Asseyez-vous ici.",
+    "tgt": "여기 앉으세요.",
+    "ro": "Yeogi anjeuseyo.",
+    "lit": "ici · s'asseoir-[veuillez]"
+   },
+   {
+    "fr": "Patientez un instant, s'il vous plaît.",
+    "tgt": "잠깐만 기다리세요.",
+    "ro": "Jamkkanman gidariseyo.",
+    "lit": "un-instant-seulement · attendre-[veuillez]"
+   },
+   {
+    "fr": "Écrivez votre nom ici.",
+    "tgt": "여기에 이름을 쓰세요.",
+    "ro": "Yeogie ireumeul sseuseyo.",
+    "lit": "ici-[à] · nom-[objet] · écrire-[veuillez]"
+   },
+   {
+    "fr": "Prenez l'ascenseur à droite.",
+    "tgt": "오른쪽 엘리베이터를 타세요.",
+    "ro": "Oreunjjok ellibeiteoreul taseyo.",
+    "lit": "droite · ascenseur-[objet] · prendre-[veuillez]"
+   },
+   {
+    "fr": "Vous cherchez quelque chose ?",
+    "tgt": "뭐 찾으세요?",
+    "ro": "Mwo chajeuseyo?",
+    "lit": "quoi · chercher-[honorifique]-[question]"
+   },
+   {
+    "fr": "Faites attention, le sol est glissant.",
+    "tgt": "조심하세요, 바닥이 미끄러워요.",
+    "ro": "Josimhaseyo, badagi mikkeureowoyo.",
+    "lit": "faire-attention-[veuillez] · sol-[sujet] · glissant-[politesse]"
+   },
+   {
+    "fr": "Tenez, prenez ce plan de la ville.",
+    "tgt": "이 지도를 받으세요.",
+    "ro": "I jidoreul badeuseyo.",
+    "lit": "ce · plan-[objet] · recevoir-[veuillez]"
+   },
+   {
+    "fr": "Profitez bien de votre repas.",
+    "tgt": "맛있게 드세요.",
+    "ro": "Masitge deuseyo.",
+    "lit": "délicieusement · manger-[veuillez]"
+   },
+   {
+    "fr": "Bonne journée à Busan !",
+    "tgt": "부산에서 좋은 하루 보내세요!",
+    "ro": "Busaneseo joeun haru bonaeseyo!",
+    "lit": "Busan-[lieu] · bonne · journée · passer-[veuillez]"
+   }
+  ]
+ },
+ "0-1-12": {
+  "module": "En voyage",
+  "title": "Des brochettes de gâteau de riz",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ça sent bon par ici !",
+    "tgt": "여기 냄새 좋아요!",
+    "ro": "Yeogi naemsae joayo!",
+    "lit": "ici · odeur · bon-[politesse]"
+   },
+   {
+    "fr": "Ce sont des brochettes de gâteau de riz.",
+    "tgt": "떡꼬치예요.",
+    "ro": "Tteokkkochiyeyo.",
+    "lit": "gâteau-de-riz-brochette-est"
+   },
+   {
+    "fr": "La sauce est sucrée.",
+    "tgt": "소스가 달아요.",
+    "ro": "Soseuga darayo.",
+    "lit": "sauce-[sujet] · sucré-[politesse]"
+   },
+   {
+    "fr": "C'est épicé ?",
+    "tgt": "매워요?",
+    "ro": "Maewoyo?",
+    "lit": "épicé-[question]"
+   },
+   {
+    "fr": "Juste un peu épicé.",
+    "tgt": "조금 매워요.",
+    "ro": "Jogeum maewoyo.",
+    "lit": "un-peu · épicé-[politesse]"
+   },
+   {
+    "fr": "Deux brochettes, s'il vous plaît.",
+    "tgt": "떡꼬치 두 개 주세요.",
+    "ro": "Tteokkkochi du gae juseyo.",
+    "lit": "brochette-de-riz · deux · unité · donnez"
+   },
+   {
+    "fr": "Attention, ça brûle !",
+    "tgt": "뜨거워요, 조심하세요!",
+    "ro": "Tteugeowoyo, josimhaseyo!",
+    "lit": "brûlant-[politesse] · faire-attention-[veuillez]"
+   },
+   {
+    "fr": "Mmm, c'est délicieux !",
+    "tgt": "음, 맛있어요!",
+    "ro": "Eum, masisseoyo!",
+    "lit": "mmm · délicieux-[politesse]"
+   },
+   {
+    "fr": "Il y a aussi des gâteaux de riz à la sauce piquante.",
+    "tgt": "떡볶이도 있어요.",
+    "ro": "Tteokbokkido isseoyo.",
+    "lit": "gâteaux-de-riz-pimentés-aussi · il-y-a"
+   },
+   {
+    "fr": "Je vais en manger tous les jours !",
+    "tgt": "매일 먹어요!",
+    "ro": "Maeil meogeoyo!",
+    "lit": "chaque-jour · manger-[politesse]"
+   }
+  ]
+ },
+ "0-1-13": {
+  "module": "En voyage",
+  "title": "Du poisson cru entre amis",
+  "grammaire_de_la_lecon": "« Hago » et « i-rang » : et, avec",
+  "phrases": [
+   {
+    "fr": "Je mange du poisson cru et du riz.",
+    "tgt": "회하고 밥을 먹어요.",
+    "ro": "Hoehago bameul meogeoyo.",
+    "lit": "poisson-cru-[et] · riz-[objet] · manger-[politesse]"
+   },
+   {
+    "fr": "Je suis avec mon amie Sora.",
+    "tgt": "친구 소라랑 같이 있어요.",
+    "ro": "Chingu Sorarang gachi isseoyo.",
+    "lit": "amie · Sora-[avec] · ensemble · être"
+   },
+   {
+    "fr": "Du poisson cru et une soupe épicée, s'il vous plaît.",
+    "tgt": "회하고 매운탕 주세요.",
+    "ro": "Hoehago maeuntang juseyo.",
+    "lit": "poisson-cru-[et] · soupe-épicée · donnez"
+   },
+   {
+    "fr": "On le mange avec une sauce pimentée.",
+    "tgt": "초장이랑 먹어요.",
+    "ro": "Chojangirang meogeoyo.",
+    "lit": "sauce-pimentée-[avec] · manger-[politesse]"
+   },
+   {
+    "fr": "Il y a aussi de la salade et de l'ail.",
+    "tgt": "상추하고 마늘도 있어요.",
+    "ro": "Sangchuhago maneuldo isseoyo.",
+    "lit": "salade-[et] · ail-aussi · il-y-a"
+   },
+   {
+    "fr": "Je bois de l'eau et du thé.",
+    "tgt": "물하고 차를 마셔요.",
+    "ro": "Mulhago chareul masyeoyo.",
+    "lit": "eau-[et] · thé-[objet] · boire-[politesse]"
+   },
+   {
+    "fr": "Vous venez avec Minho ?",
+    "tgt": "민호 씨랑 같이 와요?",
+    "ro": "Minho ssirang gachi wayo?",
+    "lit": "Minho · monsieur-[avec] · ensemble · venir-[question]"
+   },
+   {
+    "fr": "Oui, je viens avec Minho.",
+    "tgt": "네, 민호 씨하고 같이 가요.",
+    "ro": "Ne, Minho ssihago gachi gayo.",
+    "lit": "oui · Minho · monsieur-[avec] · ensemble · aller-[politesse]"
+   },
+   {
+    "fr": "Le poisson cru et le soju vont bien ensemble.",
+    "tgt": "회랑 소주는 잘 어울려요.",
+    "ro": "Hoerang sojuneun jal eoullyeoyo.",
+    "lit": "poisson-cru-[et] · soju-[thème] · bien · aller-ensemble-[politesse]"
+   },
+   {
+    "fr": "On mange ensemble, entre amis.",
+    "tgt": "친구들이랑 같이 먹어요.",
+    "ro": "Chingudeurirang gachi meogeoyo.",
+    "lit": "amis-[avec] · ensemble · manger-[politesse]"
+   }
+  ]
+ },
+ "0-1-14": {
+  "module": "En voyage",
+  "title": "Le temps qu'il fait à Busan",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Il fait vraiment beau à Busan aujourd'hui.",
+    "tgt": "오늘 부산 날씨가 정말 좋아요.",
+    "ro": "Oneul Busan nalssiga jeongmal joayo.",
+    "lit": "aujourd'hui · Busan · temps-[sujet] · vraiment · bon-[politesse]"
+   },
+   {
+    "fr": "Ouf, il fait vraiment chaud.",
+    "tgt": "와, 정말 더워요.",
+    "ro": "Wa, jeongmal deowoyo.",
+    "lit": "ouah · vraiment · chaud-[politesse]"
+   },
+   {
+    "fr": "J'ai de la crème solaire dans mon sac.",
+    "tgt": "가방에 선크림 있어요.",
+    "ro": "Gabange seonkeurim isseoyo.",
+    "lit": "sac-[à] · crème-solaire · il-y-a"
+   },
+   {
+    "fr": "Le vent de la mer est agréable.",
+    "tgt": "바닷바람이 시원해요.",
+    "ro": "Badatbarami siwonhaeyo.",
+    "lit": "vent-de-mer-[sujet] · frais-agréable-[politesse]"
+   },
+   {
+    "fr": "Il va pleuvoir demain ?",
+    "tgt": "내일 비가 와요?",
+    "ro": "Naeil biga wayo?",
+    "lit": "demain · pluie-[sujet] · venir-[question]"
+   },
+   {
+    "fr": "Non, demain aussi il fera beau.",
+    "tgt": "아니요, 내일도 맑아요.",
+    "ro": "Aniyo, naeildo malgayo.",
+    "lit": "non · demain-aussi · clair-[politesse]"
+   },
+   {
+    "fr": "Le ciel est d'un bleu magnifique.",
+    "tgt": "하늘이 정말 파래요.",
+    "ro": "Haneuri jeongmal paraeyo.",
+    "lit": "ciel-[sujet] · vraiment · bleu-[politesse]"
+   },
+   {
+    "fr": "La mer est un peu froide.",
+    "tgt": "바다가 조금 차가워요.",
+    "ro": "Badaga jogeum chagawoyo.",
+    "lit": "mer-[sujet] · un-peu · froid-[politesse]"
+   },
+   {
+    "fr": "Le soir, il fait un peu plus frais.",
+    "tgt": "저녁에는 좀 시원해요.",
+    "ro": "Jeonyeogeneun jom siwonhaeyo.",
+    "lit": "soir-[à]-[thème] · un-peu · frais-[politesse]"
+   },
+   {
+    "fr": "J'ai pris un pull avec moi.",
+    "tgt": "스웨터 있어요.",
+    "ro": "Seuweteo isseoyo.",
+    "lit": "pull · il-y-a"
+   }
+  ]
+ },
+ "0-1-15": {
+  "module": "En voyage",
+  "title": "Ce n'est pas mon sac !",
+  "grammaire_de_la_lecon": "« Anieyo » : ce n'est pas, nier entre deux noms",
+  "phrases": [
+   {
+    "fr": "Excusez-moi, ce n'est pas mon sac.",
+    "tgt": "저기요, 이거 제 가방 아니에요.",
+    "ro": "Jeogiyo, igeo je gabang anieyo.",
+    "lit": "excusez-moi · ceci · mon · sac · ne-pas-être"
+   },
+   {
+    "fr": "Ce n'est pas mon café.",
+    "tgt": "이건 제 커피가 아니에요.",
+    "ro": "Igeon je keopiga anieyo.",
+    "lit": "ceci-[thème] · mon · café-[sujet] · ne-pas-être"
+   },
+   {
+    "fr": "Je ne suis pas coréen, je suis français.",
+    "tgt": "저는 한국 사람이 아니에요. 프랑스 사람이에요.",
+    "ro": "Jeoneun Hanguk sarami anieyo. Peurangseu saramieyo.",
+    "lit": "moi-[thème] · Corée · personne-[sujet] · ne-pas-être · France · personne-suis"
+   },
+   {
+    "fr": "Ici, ce n'est pas ma chambre.",
+    "tgt": "여기는 제 방이 아니에요.",
+    "ro": "Yeogineun je bangi anieyo.",
+    "lit": "ici-[thème] · ma · chambre-[sujet] · ne-pas-être"
+   },
+   {
+    "fr": "Ma chambre, c'est la neuf cent cinq.",
+    "tgt": "제 방은 구백오 호예요.",
+    "ro": "Je bangeun gubaeko hoyeyo.",
+    "lit": "ma · chambre-[thème] · neuf-cent-cinq · numéro-est"
+   },
+   {
+    "fr": "Ce n'est pas du poulet, c'est du poisson.",
+    "tgt": "이건 닭고기가 아니에요. 생선이에요.",
+    "ro": "Igeon dakgogiga anieyo. Saengseonieyo.",
+    "lit": "ceci-[thème] · poulet-[sujet] · ne-pas-être · poisson-est"
+   },
+   {
+    "fr": "Ce n'est pas cher, c'est cinq mille wons.",
+    "tgt": "안 비싸요. 오천 원이에요.",
+    "ro": "An bissayo. Ocheon wonieyo.",
+    "lit": "[négation] · cher-[politesse] · cinq-mille · won-est"
+   },
+   {
+    "fr": "Ce n'est pas aujourd'hui, c'est demain.",
+    "tgt": "오늘이 아니에요. 내일이에요.",
+    "ro": "Oneuri anieyo. Naeirieyo.",
+    "lit": "aujourd'hui-[sujet] · ne-pas-être · demain-est"
+   },
+   {
+    "fr": "Ici, ce n'est pas Haeundae ?",
+    "tgt": "여기 해운대 아니에요?",
+    "ro": "Yeogi Haeundae anieyo?",
+    "lit": "ici · Haeundae · ne-pas-être-[question]"
+   },
+   {
+    "fr": "Non, ici c'est Songjeong.",
+    "tgt": "아니요, 여기는 송정이에요.",
+    "ro": "Aniyo, yeogineun Songjeongieyo.",
+    "lit": "non · ici-[thème] · Songjeong-est"
+   }
+  ]
+ },
+ "0-1-16": {
+  "module": "En voyage",
+  "title": "Perdu dans les rues de Busan",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Excusez-moi, où sommes-nous ici ?",
+    "tgt": "저기요, 여기가 어디예요?",
+    "ro": "Jeogiyo, yeogiga eodiyeyo?",
+    "lit": "excusez-moi · ici-[sujet] · où-est"
+   },
+   {
+    "fr": "Je cherche mon hôtel.",
+    "tgt": "호텔을 찾아요.",
+    "ro": "Hotereul chajayo.",
+    "lit": "hôtel-[objet] · chercher-[politesse]"
+   },
+   {
+    "fr": "Vous avez l'adresse ?",
+    "tgt": "주소 있어요?",
+    "ro": "Juso isseoyo?",
+    "lit": "adresse · avoir-[question]"
+   },
+   {
+    "fr": "Oui, regardez mon téléphone.",
+    "tgt": "네, 제 휴대폰 보세요.",
+    "ro": "Ne, je hyudaepon boseyo.",
+    "lit": "oui · mon · téléphone · regarder-[veuillez]"
+   },
+   {
+    "fr": "Ah, c'est tout près d'ici.",
+    "tgt": "아, 여기서 아주 가까워요.",
+    "ro": "A, yeogiseo aju gakkawoyo.",
+    "lit": "ah · ici-[depuis] · très · proche-[politesse]"
+   },
+   {
+    "fr": "Allez tout droit jusqu'au carrefour.",
+    "tgt": "사거리까지 쭉 가세요.",
+    "ro": "Sageorikkaji jjuk gaseyo.",
+    "lit": "carrefour-[jusqu'à] · tout-droit · aller-[veuillez]"
+   },
+   {
+    "fr": "Après, tournez à droite.",
+    "tgt": "그리고 오른쪽으로 가세요.",
+    "ro": "Geurigo oreunjjogeuro gaseyo.",
+    "lit": "ensuite · droite-[vers] · aller-[veuillez]"
+   },
+   {
+    "fr": "L'hôtel est à côté de la banque.",
+    "tgt": "호텔은 은행 옆에 있어요.",
+    "ro": "Hotereun eunhaeng yeope isseoyo.",
+    "lit": "hôtel-[thème] · banque · côté-[à] · se-trouver"
+   },
+   {
+    "fr": "Merci, vous êtes très gentil.",
+    "tgt": "감사해요, 정말 친절하세요.",
+    "ro": "Gamsahaeyo, jeongmal chinjeolhaseyo.",
+    "lit": "merci · vraiment · gentil-[honorifique]"
+   },
+   {
+    "fr": "De rien, faites bon voyage !",
+    "tgt": "아니에요, 즐거운 여행 되세요!",
+    "ro": "Anieyo, jeulgeoun yeohaeng doeseyo!",
+    "lit": "de-rien · agréable · voyage · devenir-[veuillez]"
+   }
+  ]
+ },
+ "0-1-17": {
+  "module": "En voyage",
+  "title": "Je ne peux pas !",
+  "grammaire_de_la_lecon": "« Mot » : ne pas pouvoir",
+  "phrases": [
+   {
+    "fr": "Je ne peux pas manger épicé.",
+    "tgt": "저는 매운 거 못 먹어요.",
+    "ro": "Jeoneun maeun geo mot meogeoyo.",
+    "lit": "moi-[thème] · épicé · chose · [ne-pas-pouvoir] · manger-[politesse]"
+   },
+   {
+    "fr": "Je ne sais pas nager.",
+    "tgt": "저는 수영 못 해요.",
+    "ro": "Jeoneun suyeong mot haeyo.",
+    "lit": "moi-[thème] · natation · [ne-pas-pouvoir] · faire-[politesse]"
+   },
+   {
+    "fr": "Demain, je ne peux pas y aller.",
+    "tgt": "내일은 못 가요.",
+    "ro": "Naeireun mot gayo.",
+    "lit": "demain-[thème] · [ne-pas-pouvoir] · aller-[politesse]"
+   },
+   {
+    "fr": "C'est trop bruyant, je ne peux pas dormir.",
+    "tgt": "너무 시끄러워요. 잠을 못 자요.",
+    "ro": "Neomu sikkeureowoyo. Jameul mot jayo.",
+    "lit": "trop · bruyant-[politesse] · sommeil-[objet] · [ne-pas-pouvoir] · dormir-[politesse]"
+   },
+   {
+    "fr": "Ce soir, je ne peux pas boire d'alcool.",
+    "tgt": "오늘 밤은 술 못 마셔요.",
+    "ro": "Oneul bameun sul mot masyeoyo.",
+    "lit": "ce · soir-[thème] · alcool · [ne-pas-pouvoir] · boire-[politesse]"
+   },
+   {
+    "fr": "Je n'arrive pas à trouver mon billet.",
+    "tgt": "표를 못 찾아요.",
+    "ro": "Pyoreul mot chajayo.",
+    "lit": "billet-[objet] · [ne-pas-pouvoir] · trouver-[politesse]"
+   },
+   {
+    "fr": "Je ne comprends pas bien.",
+    "tgt": "잘 못 알아들어요.",
+    "ro": "Jal mot aradeureoyo.",
+    "lit": "bien · [ne-pas-pouvoir] · comprendre-[politesse]"
+   },
+   {
+    "fr": "Désolé, je ne peux pas.",
+    "tgt": "미안해요, 못 해요.",
+    "ro": "Mianhaeyo, mot haeyo.",
+    "lit": "désolé-[politesse] · [ne-pas-pouvoir] · faire-[politesse]"
+   },
+   {
+    "fr": "Le soir, on ne peut pas se baigner.",
+    "tgt": "저녁에는 수영 못 해요.",
+    "ro": "Jeonyeogeneun suyeong mot haeyo.",
+    "lit": "soir-[à]-[thème] · natation · [ne-pas-pouvoir] · faire-[politesse]"
+   },
+   {
+    "fr": "C'est trop, je ne peux pas tout manger.",
+    "tgt": "너무 많아요. 다 못 먹어요.",
+    "ro": "Neomu manayo. Da mot meogeoyo.",
+    "lit": "trop · nombreux-[politesse] · tout · [ne-pas-pouvoir] · manger-[politesse]"
+   }
+  ]
+ },
+ "0-1-18": {
+  "module": "En voyage",
+  "title": "Acheter des souvenirs",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Je cherche des cadeaux pour ma famille.",
+    "tgt": "가족 선물을 찾아요.",
+    "ro": "Gajok seonmureul chajayo.",
+    "lit": "famille · cadeau-[objet] · chercher-[politesse]"
+   },
+   {
+    "fr": "Cette carte postale est jolie.",
+    "tgt": "이 엽서 예뻐요.",
+    "ro": "I yeopseo yeppeoyo.",
+    "lit": "cette · carte-postale · joli-[politesse]"
+   },
+   {
+    "fr": "Combien coûte ce porte-clés ?",
+    "tgt": "이 열쇠고리 얼마예요?",
+    "ro": "I yeolsoegori eolmayeyo?",
+    "lit": "ce · porte-clés · combien-est"
+   },
+   {
+    "fr": "C'est deux mille wons pièce.",
+    "tgt": "하나에 이천 원이에요.",
+    "ro": "Hanae icheon wonieyo.",
+    "lit": "un-[par] · deux-mille · won-est"
+   },
+   {
+    "fr": "J'en prends cinq, s'il vous plaît.",
+    "tgt": "다섯 개 주세요.",
+    "ro": "Daseot gae juseyo.",
+    "lit": "cinq · unité · donnez"
+   },
+   {
+    "fr": "Vous avez un sachet ?",
+    "tgt": "봉투 있어요?",
+    "ro": "Bongtu isseoyo?",
+    "lit": "sachet · avoir-[question]"
+   },
+   {
+    "fr": "Les algues séchées sont célèbres ici.",
+    "tgt": "여기는 김이 유명해요.",
+    "ro": "Yeogineun gimi yumyeonghaeyo.",
+    "lit": "ici-[thème] · algue-séchée-[sujet] · célèbre-[politesse]"
+   },
+   {
+    "fr": "Ma mère adore le thé.",
+    "tgt": "엄마는 차를 좋아해요.",
+    "ro": "Eommaneun chareul joahaeyo.",
+    "lit": "maman-[thème] · thé-[objet] · aimer-[politesse]"
+   },
+   {
+    "fr": "C'est pour offrir.",
+    "tgt": "선물이에요.",
+    "ro": "Seonmurieyo.",
+    "lit": "cadeau-est"
+   },
+   {
+    "fr": "Vous acceptez les espèces ?",
+    "tgt": "현금 돼요?",
+    "ro": "Hyeongeum dwaeyo?",
+    "lit": "espèces · ça-marche-[question]"
+   }
+  ]
+ },
+ "0-1-19": {
+  "module": "En voyage",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "« Jom » : un peu, pour adoucir une demande",
+  "phrases": [
+   {
+    "fr": "C'est notre dernier jour à Busan.",
+    "tgt": "부산에서 마지막 날이에요.",
+    "ro": "Busaneseo majimak narieyo.",
+    "lit": "Busan-[lieu] · dernier · jour-est"
+   },
+   {
+    "fr": "Maintenant, je parle un petit peu coréen.",
+    "tgt": "이제 한국어 좀 해요.",
+    "ro": "Ije Hangugeo jom haeyo.",
+    "lit": "maintenant · coréen · un-peu · faire-[politesse]"
+   },
+   {
+    "fr": "Parlez un peu plus lentement, s'il vous plaît.",
+    "tgt": "좀 천천히 말해 주세요.",
+    "ro": "Jom cheoncheonhi malhae juseyo.",
+    "lit": "un-peu · lentement · parler · veuillez"
+   },
+   {
+    "fr": "Aidez-moi un peu, s'il vous plaît.",
+    "tgt": "좀 도와주세요.",
+    "ro": "Jom dowajuseyo.",
+    "lit": "un-peu · aider-veuillez"
+   },
+   {
+    "fr": "J'aimerais un peu d'eau, s'il vous plaît.",
+    "tgt": "물 좀 주세요.",
+    "ro": "Mul jom juseyo.",
+    "lit": "eau · un-peu · donnez"
+   },
+   {
+    "fr": "Vous pouvez nous prendre en photo ?",
+    "tgt": "사진 좀 찍어 주세요.",
+    "ro": "Sajin jom jjigeo juseyo.",
+    "lit": "photo · un-peu · prendre · veuillez"
+   },
+   {
+    "fr": "Le coréen, c'est un peu plus facile maintenant.",
+    "tgt": "한국어가 이제 좀 쉬워요.",
+    "ro": "Hangugeoga ije jom swiwoyo.",
+    "lit": "coréen-[sujet] · maintenant · un-peu · facile-[politesse]"
+   },
+   {
+    "fr": "La suite, ce sera la conversation.",
+    "tgt": "다음은 대화예요.",
+    "ro": "Daeumeun daehwayeyo.",
+    "lit": "suite-[thème] · conversation-est"
+   },
+   {
+    "fr": "Busan est une ville formidable.",
+    "tgt": "부산은 정말 멋진 도시예요.",
+    "ro": "Busaneun jeongmal meotjin dosiyeyo.",
+    "lit": "Busan-[thème] · vraiment · formidable · ville-est"
+   },
+   {
+    "fr": "Au revoir Busan, à bientôt !",
+    "tgt": "안녕, 부산! 또 만나요!",
+    "ro": "Annyeong, Busan! Tto mannayo!",
+    "lit": "au-revoir · Busan · encore · se-voir-[politesse]"
+   }
+  ]
+ },
+ "0-2-0": {
+  "module": "Conversation sociale",
+  "title": "Arrivée à Jeonju",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Bonjour ! Ici, c'est Jeonju.",
+    "tgt": "안녕하세요! 여기는 전주예요.",
+    "ro": "Annyeonghaseyo! Yeogineun Jeonjuyeyo.",
+    "lit": "bonjour · ici-[thème] · Jeonju-c'est"
+   },
+   {
+    "fr": "Jeonju est une jolie ville.",
+    "tgt": "전주는 예뻐요.",
+    "ro": "Jeonjuneun yeppeoyo.",
+    "lit": "Jeonju-[thème] · être joli-[politesse]"
+   },
+   {
+    "fr": "Je retrouve un ami.",
+    "tgt": "저는 친구를 만나요.",
+    "ro": "Jeoneun chingureul mannayo.",
+    "lit": "moi-[thème] · ami-[objet] · rencontrer-[politesse]"
+   },
+   {
+    "fr": "Mon ami s'appelle Minsu.",
+    "tgt": "친구 이름은 민수예요.",
+    "ro": "Chingu ireumeun Minsuyeyo.",
+    "lit": "ami · nom-[thème] · Minsu-c'est"
+   },
+   {
+    "fr": "Minsu est originaire de Jeonju.",
+    "tgt": "민수 씨는 전주 사람이에요.",
+    "ro": "Minsu ssineun Jeonju saramieyo.",
+    "lit": "Minsu · M.-[thème] · Jeonju · personne-c'est"
+   },
+   {
+    "fr": "C'est ici, le village des maisons traditionnelles ?",
+    "tgt": "여기가 한옥 마을이에요?",
+    "ro": "Yeogiga hanok maeurieyo?",
+    "lit": "ici-[sujet] · maison traditionnelle · village-c'est ?"
+   },
+   {
+    "fr": "Oui, c'est bien ça.",
+    "tgt": "네, 맞아요.",
+    "ro": "Ne, majayo.",
+    "lit": "oui · être juste-[politesse]"
+   },
+   {
+    "fr": "Il fait beau à Jeonju aujourd'hui.",
+    "tgt": "오늘 전주는 날씨가 좋아요.",
+    "ro": "Oneul Jeonjuneun nalssiga joayo.",
+    "lit": "aujourd'hui · Jeonju-[thème] · temps-[sujet] · être bon-[politesse]"
+   },
+   {
+    "fr": "Mon sac pèse lourd.",
+    "tgt": "가방이 무거워요.",
+    "ro": "Gabangi mugeowoyo.",
+    "lit": "sac-[sujet] · être lourd-[politesse]"
+   },
+   {
+    "fr": "Où est notre hébergement ?",
+    "tgt": "숙소가 어디예요?",
+    "ro": "Suksoga eodiyeyo?",
+    "lit": "hébergement-[sujet] · où-c'est ?"
+   }
+  ]
+ },
+ "0-2-1": {
+  "module": "Conversation sociale",
+  "title": "Se présenter",
+  "grammaire_de_la_lecon": "Se présenter : « ireumi... ieyo » et « mannaseo bangawoyo »",
+  "phrases": [
+   {
+    "fr": "Et vous, quel est votre nom ?",
+    "tgt": "이름이 뭐예요?",
+    "ro": "Ireumi mwoyeyo?",
+    "lit": "nom-[sujet] · quoi-c'est ?"
+   },
+   {
+    "fr": "Je m'appelle Sophie.",
+    "tgt": "제 이름은 소피예요.",
+    "ro": "Je ireumeun Sopiyeyo.",
+    "lit": "mon · nom-[thème] · Sophie-c'est"
+   },
+   {
+    "fr": "Enchantée de faire votre connaissance.",
+    "tgt": "만나서 반가워요.",
+    "ro": "Mannaseo bangawoyo.",
+    "lit": "rencontrer-donc · être content-[politesse]"
+   },
+   {
+    "fr": "Moi aussi, je suis ravie de vous rencontrer.",
+    "tgt": "저도 만나서 반가워요.",
+    "ro": "Jeodo mannaseo bangawoyo.",
+    "lit": "moi-[aussi] · rencontrer-donc · être content-[politesse]"
+   },
+   {
+    "fr": "Moi, c'est Jieun.",
+    "tgt": "저는 지은이에요.",
+    "ro": "Jeoneun Jieunieyo.",
+    "lit": "moi-[thème] · Jieun-c'est"
+   },
+   {
+    "fr": "Le nom de mon ami, c'est Junho.",
+    "tgt": "제 친구 이름이 준호예요.",
+    "ro": "Je chingu ireumi Junhoyeyo.",
+    "lit": "mon · ami · nom-[sujet] · Junho-c'est"
+   },
+   {
+    "fr": "Moi, je suis de Lyon.",
+    "tgt": "저는 리옹 사람이에요.",
+    "ro": "Jeoneun Riong saramieyo.",
+    "lit": "moi-[thème] · Lyon · personne-c'est"
+   },
+   {
+    "fr": "Je suis étudiante en ce moment.",
+    "tgt": "저는 지금 학생이에요.",
+    "ro": "Jeoneun jigeum haksaengieyo.",
+    "lit": "moi-[thème] · maintenant · étudiant-c'est"
+   },
+   {
+    "fr": "Je vous présente mon amie.",
+    "tgt": "이분은 제 친구예요.",
+    "ro": "Ibuneun je chinguyeyo.",
+    "lit": "cette personne-[thème] · mon · ami-c'est"
+   },
+   {
+    "fr": "On se revoit la prochaine fois.",
+    "tgt": "다음에 또 만나요.",
+    "ro": "Daeume tto mannayo.",
+    "lit": "prochaine fois-[à] · encore · se voir-[politesse]"
+   }
+  ]
+ },
+ "0-2-2": {
+  "module": "Conversation sociale",
+  "title": "Au village des maisons traditionnelles",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Les maisons traditionnelles sont belles.",
+    "tgt": "한옥이 예뻐요.",
+    "ro": "Hanogi yeppeoyo.",
+    "lit": "maison traditionnelle-[sujet] · être joli-[politesse]"
+   },
+   {
+    "fr": "Cette maison est grande.",
+    "tgt": "이 집은 커요.",
+    "ro": "I jibeun keoyo.",
+    "lit": "cette · maison-[thème] · être grand-[politesse]"
+   },
+   {
+    "fr": "Le toit a beaucoup d'allure.",
+    "tgt": "지붕이 멋있어요.",
+    "ro": "Jibungi meosisseoyo.",
+    "lit": "toit-[sujet] · être chic-[politesse]"
+   },
+   {
+    "fr": "On prend une photo à cet endroit.",
+    "tgt": "여기서 사진 찍어요.",
+    "ro": "Yeogiseo sajin jjigeoyo.",
+    "lit": "ici-[dans] · photo · prendre-[politesse]"
+   },
+   {
+    "fr": "Vous pouvez me prendre en photo, s'il vous plaît ?",
+    "tgt": "사진 찍어 주세요.",
+    "ro": "Sajin jjigeo juseyo.",
+    "lit": "photo · prendre · donnez-[politesse]"
+   },
+   {
+    "fr": "Aujourd'hui, je porte un hanbok.",
+    "tgt": "오늘은 한복을 입어요.",
+    "ro": "Oneureun hanbogeul ibeoyo.",
+    "lit": "aujourd'hui-[thème] · hanbok-[objet] · porter-[politesse]"
+   },
+   {
+    "fr": "Le hanbok vous va très bien.",
+    "tgt": "한복이 잘 어울려요.",
+    "ro": "Hanbogi jal eoullyeoyo.",
+    "lit": "hanbok-[sujet] · bien · aller-[politesse]"
+   },
+   {
+    "fr": "Cette ruelle-là est calme.",
+    "tgt": "저 골목이 조용해요.",
+    "ro": "Jeo golmogi joyonghaeyo.",
+    "lit": "ce là-bas · ruelle-[sujet] · être calme-[politesse]"
+   },
+   {
+    "fr": "Aujourd'hui, il y a foule.",
+    "tgt": "오늘은 사람이 많아요.",
+    "ro": "Oneureun sarami manayo.",
+    "lit": "aujourd'hui-[thème] · gens-[sujet] · être nombreux-[politesse]"
+   },
+   {
+    "fr": "Marchons un peu ensemble.",
+    "tgt": "같이 걸어요.",
+    "ro": "Gachi georeoyo.",
+    "lit": "ensemble · marcher-[politesse]"
+   }
+  ]
+ },
+ "0-2-3": {
+  "module": "Conversation sociale",
+  "title": "Ce que j'aime",
+  "grammaire_de_la_lecon": "« Joahaeyo » : aimer quelque chose ou quelqu'un",
+  "phrases": [
+   {
+    "fr": "J'aime les maisons traditionnelles.",
+    "tgt": "저는 한옥을 좋아해요.",
+    "ro": "Jeoneun hanogeul joahaeyo.",
+    "lit": "moi-[thème] · maison traditionnelle-[objet] · aimer-[politesse]"
+   },
+   {
+    "fr": "Moi, j'aime bien le bibimbap.",
+    "tgt": "저는 비빔밥을 좋아해요.",
+    "ro": "Jeoneun bibimbabeul joahaeyo.",
+    "lit": "moi-[thème] · bibimbap-[objet] · aimer-[politesse]"
+   },
+   {
+    "fr": "Qu'est-ce que vous aimez ?",
+    "tgt": "뭐 좋아해요?",
+    "ro": "Mwo joahaeyo?",
+    "lit": "quoi · aimer-[politesse] ?"
+   },
+   {
+    "fr": "J'aime la musique.",
+    "tgt": "음악을 좋아해요.",
+    "ro": "Eumageul joahaeyo.",
+    "lit": "musique-[objet] · aimer-[politesse]"
+   },
+   {
+    "fr": "J'aime faire des balades.",
+    "tgt": "저는 산책을 좋아해요.",
+    "ro": "Jeoneun sanchaegeul joahaeyo.",
+    "lit": "moi-[thème] · promenade-[objet] · aimer-[politesse]"
+   },
+   {
+    "fr": "Vous aimez la cuisine épicée ?",
+    "tgt": "매운 음식 좋아해요?",
+    "ro": "Maeun eumsik joahaeyo?",
+    "lit": "épicé · nourriture · aimer-[politesse] ?"
+   },
+   {
+    "fr": "Oui, j'aime ça.",
+    "tgt": "네, 좋아해요.",
+    "ro": "Ne, joahaeyo.",
+    "lit": "oui · aimer-[politesse]"
+   },
+   {
+    "fr": "Je n'aime pas les films d'horreur.",
+    "tgt": "저는 공포 영화를 안 좋아해요.",
+    "ro": "Jeoneun gongpo yeonghwareul an joahaeyo.",
+    "lit": "moi-[thème] · horreur · film-[objet] · ne pas · aimer-[politesse]"
+   },
+   {
+    "fr": "Minsu adore le foot.",
+    "tgt": "민수 씨는 축구를 좋아해요.",
+    "ro": "Minsu ssineun chukgureul joahaeyo.",
+    "lit": "Minsu · M.-[thème] · football-[objet] · aimer-[politesse]"
+   },
+   {
+    "fr": "Cette chanson me plaît.",
+    "tgt": "이 노래 좋아요.",
+    "ro": "I norae joayo.",
+    "lit": "cette · chanson · être bien-[politesse]"
+   }
+  ]
+ },
+ "0-2-4": {
+  "module": "Conversation sociale",
+  "title": "Un bibimbap partagé",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Mangeons un bibimbap ensemble.",
+    "tgt": "같이 비빔밥 먹어요.",
+    "ro": "Gachi bibimbap meogeoyo.",
+    "lit": "ensemble · bibimbap · manger-[politesse]"
+   },
+   {
+    "fr": "Ici, le bibimbap est célèbre.",
+    "tgt": "여기 비빔밥이 유명해요.",
+    "ro": "Yeogi bibimbabi yumyeonghaeyo.",
+    "lit": "ici · bibimbap-[sujet] · être célèbre-[politesse]"
+   },
+   {
+    "fr": "Deux bibimbaps, s'il vous plaît.",
+    "tgt": "비빔밥 두 개 주세요.",
+    "ro": "Bibimbap du gae juseyo.",
+    "lit": "bibimbap · deux · unités · donnez-[politesse]"
+   },
+   {
+    "fr": "On ajoute la pâte de piment.",
+    "tgt": "고추장을 넣어요.",
+    "ro": "Gochujangeul neoeoyo.",
+    "lit": "pâte de piment-[objet] · mettre-[politesse]"
+   },
+   {
+    "fr": "On mélange bien le tout.",
+    "tgt": "잘 비벼요.",
+    "ro": "Jal bibyeoyo.",
+    "lit": "bien · mélanger-[politesse]"
+   },
+   {
+    "fr": "Il y a plein de petits plats d'accompagnement.",
+    "tgt": "반찬이 많아요.",
+    "ro": "Banchani manayo.",
+    "lit": "accompagnements-[sujet] · être nombreux-[politesse]"
+   },
+   {
+    "fr": "C'est bon, ça.",
+    "tgt": "이거 맛있어요.",
+    "ro": "Igeo masisseoyo.",
+    "lit": "ceci · être délicieux-[politesse]"
+   },
+   {
+    "fr": "Un peu plus de kimchi, s'il vous plaît.",
+    "tgt": "김치 좀 더 주세요.",
+    "ro": "Gimchi jom deo juseyo.",
+    "lit": "kimchi · un peu · plus · donnez-[politesse]"
+   },
+   {
+    "fr": "Il y a de l'eau là-bas.",
+    "tgt": "저기 물 있어요.",
+    "ro": "Jeogi mul isseoyo.",
+    "lit": "là-bas · eau · il y a-[politesse]"
+   },
+   {
+    "fr": "On partage le plat.",
+    "tgt": "같이 나눠 먹어요.",
+    "ro": "Gachi nanwo meogeoyo.",
+    "lit": "ensemble · partager · manger-[politesse]"
+   }
+  ]
+ },
+ "0-2-5": {
+  "module": "Conversation sociale",
+  "title": "Parler de sa famille",
+  "grammaire_de_la_lecon": "La famille : « appa, eomma, hyeong, nuna, oppa, eonni »",
+  "phrases": [
+   {
+    "fr": "Nous sommes quatre dans ma famille.",
+    "tgt": "저희 가족은 네 명이에요.",
+    "ro": "Jeohui gajogeun ne myeongieyo.",
+    "lit": "notre · famille-[thème] · quatre · personnes-c'est"
+   },
+   {
+    "fr": "Mon papa est cuisinier.",
+    "tgt": "아빠는 요리사예요.",
+    "ro": "Appaneun yorisayeyo.",
+    "lit": "papa-[thème] · cuisinier-c'est"
+   },
+   {
+    "fr": "Ma maman est professeure.",
+    "tgt": "엄마는 선생님이에요.",
+    "ro": "Eommaneun seonsaengnimieyo.",
+    "lit": "maman-[thème] · professeur-c'est"
+   },
+   {
+    "fr": "Moi, j'ai un grand frère.",
+    "tgt": "저는 오빠가 있어요.",
+    "ro": "Jeoneun oppaga isseoyo.",
+    "lit": "moi-[thème] · grand frère (d'une fille)-[sujet] · il y a-[politesse]"
+   },
+   {
+    "fr": "Minsu a une grande sœur.",
+    "tgt": "민수 씨는 누나가 있어요.",
+    "ro": "Minsu ssineun nunaga isseoyo.",
+    "lit": "Minsu · M.-[thème] · grande sœur (d'un garçon)-[sujet] · il y a-[politesse]"
+   },
+   {
+    "fr": "Mon grand frère vit à Séoul.",
+    "tgt": "우리 형은 서울에 살아요.",
+    "ro": "Uri hyeongeun Seoure sarayo.",
+    "lit": "notre · grand frère (d'un garçon)-[thème] · Séoul-[à] · vivre-[politesse]"
+   },
+   {
+    "fr": "Ma grande sœur est à Busan.",
+    "tgt": "언니는 부산에 있어요.",
+    "ro": "Eonnineun Busane isseoyo.",
+    "lit": "grande sœur (d'une fille)-[thème] · Busan-[à] · être-[politesse]"
+   },
+   {
+    "fr": "Vous avez un frère ou une sœur plus jeune ?",
+    "tgt": "동생이 있어요?",
+    "ro": "Dongsaengi isseoyo?",
+    "lit": "cadet-[sujet] · il y a-[politesse] ?"
+   },
+   {
+    "fr": "Non, je n'ai pas de cadet.",
+    "tgt": "아니요, 동생은 없어요.",
+    "ro": "Aniyo, dongsaengeun eopseoyo.",
+    "lit": "non · cadet-[thème] · il n'y a pas-[politesse]"
+   },
+   {
+    "fr": "Voilà une photo de maman et papa.",
+    "tgt": "엄마, 아빠 사진이에요.",
+    "ro": "Eomma, appa sajinieyo.",
+    "lit": "maman · papa · photo-c'est"
+   }
+  ]
+ },
+ "0-2-6": {
+  "module": "Conversation sociale",
+  "title": "Photos de famille",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ça, c'est une photo de ma famille.",
+    "tgt": "이거 우리 가족 사진이에요.",
+    "ro": "Igeo uri gajok sajinieyo.",
+    "lit": "ceci · notre · famille · photo-c'est"
+   },
+   {
+    "fr": "Qui est cette personne ?",
+    "tgt": "이 사람이 누구예요?",
+    "ro": "I sarami nuguyeyo?",
+    "lit": "cette · personne-[sujet] · qui-c'est ?"
+   },
+   {
+    "fr": "C'est ma grande sœur.",
+    "tgt": "우리 언니예요.",
+    "ro": "Uri eonniyeyo.",
+    "lit": "notre · grande sœur (d'une fille)-c'est"
+   },
+   {
+    "fr": "Ma grande sœur est de grande taille.",
+    "tgt": "언니가 키가 커요.",
+    "ro": "Eonniga kiga keoyo.",
+    "lit": "grande sœur-[sujet] · taille-[sujet] · être grand-[politesse]"
+   },
+   {
+    "fr": "Cet enfant, c'est mon neveu.",
+    "tgt": "이 아이는 제 조카예요.",
+    "ro": "I aineun je jokayeyo.",
+    "lit": "cet · enfant-[thème] · mon · neveu-c'est"
+   },
+   {
+    "fr": "Mon neveu est trop mignon.",
+    "tgt": "조카가 귀여워요.",
+    "ro": "Jokaga gwiyeowoyo.",
+    "lit": "neveu-[sujet] · être mignon-[politesse]"
+   },
+   {
+    "fr": "Chez nous, il y a un petit chien.",
+    "tgt": "우리 집에 강아지가 있어요.",
+    "ro": "Uri jibe gangajiga isseoyo.",
+    "lit": "notre · maison-[à] · chiot-[sujet] · il y a-[politesse]"
+   },
+   {
+    "fr": "Le chien s'appelle Kongi.",
+    "tgt": "강아지 이름은 콩이예요.",
+    "ro": "Gangaji ireumeun Kongiyeyo.",
+    "lit": "chiot · nom-[thème] · Kongi-c'est"
+   },
+   {
+    "fr": "Vous avez une grande famille.",
+    "tgt": "가족이 많아요.",
+    "ro": "Gajogi manayo.",
+    "lit": "famille-[sujet] · être nombreux-[politesse]"
+   },
+   {
+    "fr": "La photo est réussie.",
+    "tgt": "사진이 예뻐요.",
+    "ro": "Sajini yeppeoyo.",
+    "lit": "photo-[sujet] · être joli-[politesse]"
+   }
+  ]
+ },
+ "0-2-7": {
+  "module": "Conversation sociale",
+  "title": "Entre amis",
+  "grammaire_de_la_lecon": "Le style familier entre amis : on enlève le « -yo »",
+  "phrases": [
+   {
+    "fr": "Salut, Minsu !",
+    "tgt": "안녕, 민수야!",
+    "ro": "Annyeong, Minsuya!",
+    "lit": "salut · Minsu-[appel]"
+   },
+   {
+    "fr": "Tu fais quoi ?",
+    "tgt": "뭐 해?",
+    "ro": "Mwo hae?",
+    "lit": "quoi · faire ?"
+   },
+   {
+    "fr": "T'as faim ?",
+    "tgt": "배고파?",
+    "ro": "Baegopa?",
+    "lit": "avoir faim ?"
+   },
+   {
+    "fr": "Ouais, j'ai la dalle.",
+    "tgt": "응, 배고파.",
+    "ro": "Eung, baegopa.",
+    "lit": "ouais · avoir faim"
+   },
+   {
+    "fr": "Allez, on y va ensemble.",
+    "tgt": "같이 가자.",
+    "ro": "Gachi gaja.",
+    "lit": "ensemble · aller-[allons]"
+   },
+   {
+    "fr": "Il est bon, ce truc.",
+    "tgt": "이거 맛있어.",
+    "ro": "Igeo masisseo.",
+    "lit": "ceci · être délicieux"
+   },
+   {
+    "fr": "Merci, l'ami.",
+    "tgt": "고마워, 친구야.",
+    "ro": "Gomawo, chinguya.",
+    "lit": "merci · ami-[appel]"
+   },
+   {
+    "fr": "Pas de souci.",
+    "tgt": "괜찮아.",
+    "ro": "Gwaenchana.",
+    "lit": "ça va"
+   },
+   {
+    "fr": "Jieun, t'es où ?",
+    "tgt": "지은아, 어디야?",
+    "ro": "Jieuna, eodiya?",
+    "lit": "Jieun-[appel] · où-c'est ?"
+   },
+   {
+    "fr": "J'arrive, là.",
+    "tgt": "나 지금 가.",
+    "ro": "Na jigeum ga.",
+    "lit": "moi · maintenant · aller"
+   }
+  ]
+ },
+ "0-2-8": {
+  "module": "Conversation sociale",
+  "title": "Le travail et les études",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Qu'est-ce que vous faites dans la vie ?",
+    "tgt": "무슨 일 해요?",
+    "ro": "Museun il haeyo?",
+    "lit": "quel · travail · faire-[politesse] ?"
+   },
+   {
+    "fr": "Je suis employée de bureau.",
+    "tgt": "저는 회사원이에요.",
+    "ro": "Jeoneun hoesawonieyo.",
+    "lit": "moi-[thème] · employé de bureau-c'est"
+   },
+   {
+    "fr": "Minsu est étudiant à la fac.",
+    "tgt": "민수 씨는 대학생이에요.",
+    "ro": "Minsu ssineun daehaksaengieyo.",
+    "lit": "Minsu · M.-[thème] · étudiant d'université-c'est"
+   },
+   {
+    "fr": "J'apprends le coréen.",
+    "tgt": "한국어를 공부해요.",
+    "ro": "Hangugeoreul gongbuhaeyo.",
+    "lit": "coréen-[objet] · étudier-[politesse]"
+   },
+   {
+    "fr": "Jieun est infirmière.",
+    "tgt": "지은 씨는 간호사예요.",
+    "ro": "Jieun ssineun ganhosayeyo.",
+    "lit": "Jieun · Mme-[thème] · infirmière-c'est"
+   },
+   {
+    "fr": "Elle travaille à l'hôpital.",
+    "tgt": "병원에서 일해요.",
+    "ro": "Byeongwoneseo ilhaeyo.",
+    "lit": "hôpital-[dans] · travailler-[politesse]"
+   },
+   {
+    "fr": "Vous avez beaucoup de travail ?",
+    "tgt": "일이 바빠요?",
+    "ro": "Iri bappayo?",
+    "lit": "travail-[sujet] · être occupé-[politesse] ?"
+   },
+   {
+    "fr": "Oui, je suis débordée en ce moment.",
+    "tgt": "네, 요즘 바빠요.",
+    "ro": "Ne, yojeum bappayo.",
+    "lit": "oui · ces temps-ci · être occupé-[politesse]"
+   },
+   {
+    "fr": "Mon entreprise se trouve à Séoul.",
+    "tgt": "회사가 서울에 있어요.",
+    "ro": "Hoesaga Seoure isseoyo.",
+    "lit": "entreprise-[sujet] · Séoul-[à] · être-[politesse]"
+   },
+   {
+    "fr": "Le week-end, je me repose.",
+    "tgt": "주말에는 쉬어요.",
+    "ro": "Jumareneun swieoyo.",
+    "lit": "week-end-[à]-[thème] · se reposer-[politesse]"
+   }
+  ]
+ },
+ "0-2-9": {
+  "module": "Conversation sociale",
+  "title": "Moi aussi !",
+  "grammaire_de_la_lecon": "« -do » : aussi, moi aussi",
+  "phrases": [
+   {
+    "fr": "Moi aussi, j'aime le bibimbap.",
+    "tgt": "저도 비빔밥 좋아해요.",
+    "ro": "Jeodo bibimbap joahaeyo.",
+    "lit": "moi-[aussi] · bibimbap · aimer-[politesse]"
+   },
+   {
+    "fr": "Pareil pour moi !",
+    "tgt": "저도요!",
+    "ro": "Jeodoyo!",
+    "lit": "moi-[aussi]-[politesse]"
+   },
+   {
+    "fr": "Le kimchi aussi est bon.",
+    "tgt": "김치도 맛있어요.",
+    "ro": "Gimchido masisseoyo.",
+    "lit": "kimchi-[aussi] · être délicieux-[politesse]"
+   },
+   {
+    "fr": "Ma grande sœur vient aussi à Jeonju.",
+    "tgt": "언니도 전주에 와요.",
+    "ro": "Eonnido Jeonjue wayo.",
+    "lit": "grande sœur-[aussi] · Jeonju-[à] · venir-[politesse]"
+   },
+   {
+    "fr": "Vous buvez aussi du café ?",
+    "tgt": "커피도 마셔요?",
+    "ro": "Keopido masyeoyo?",
+    "lit": "café-[aussi] · boire-[politesse] ?"
+   },
+   {
+    "fr": "J'aime aussi les chats.",
+    "tgt": "저는 고양이도 좋아해요.",
+    "ro": "Jeoneun goyangido joahaeyo.",
+    "lit": "moi-[thème] · chat-[aussi] · aimer-[politesse]"
+   },
+   {
+    "fr": "Minsu vient aussi avec nous.",
+    "tgt": "민수 씨도 같이 가요.",
+    "ro": "Minsu ssido gachi gayo.",
+    "lit": "Minsu · M.-[aussi] · ensemble · aller-[politesse]"
+   },
+   {
+    "fr": "Moi aussi, je suis étudiante.",
+    "tgt": "저도 학생이에요.",
+    "ro": "Jeodo haksaengieyo.",
+    "lit": "moi-[aussi] · étudiant-c'est"
+   },
+   {
+    "fr": "Aujourd'hui aussi, il fait beau.",
+    "tgt": "오늘도 날씨가 좋아요.",
+    "ro": "Oneuldo nalssiga joayo.",
+    "lit": "aujourd'hui-[aussi] · temps-[sujet] · être bon-[politesse]"
+   },
+   {
+    "fr": "On prend aussi des photos.",
+    "tgt": "사진도 찍어요.",
+    "ro": "Sajindo jjigeoyo.",
+    "lit": "photo-[aussi] · prendre-[politesse]"
+   }
+  ]
+ },
+ "0-2-10": {
+  "module": "Conversation sociale",
+  "title": "Les loisirs",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Quel est votre passe-temps ?",
+    "tgt": "취미가 뭐예요?",
+    "ro": "Chwimiga mwoyeyo?",
+    "lit": "passe-temps-[sujet] · quoi-c'est ?"
+   },
+   {
+    "fr": "Mon passe-temps, c'est la randonnée.",
+    "tgt": "제 취미는 등산이에요.",
+    "ro": "Je chwimineun deungsanieyo.",
+    "lit": "mon · passe-temps-[thème] · randonnée-c'est"
+   },
+   {
+    "fr": "Le week-end, je vais à la montagne.",
+    "tgt": "주말에 산에 가요.",
+    "ro": "Jumare sane gayo.",
+    "lit": "week-end-[à] · montagne-[à] · aller-[politesse]"
+   },
+   {
+    "fr": "Je regarde souvent des films.",
+    "tgt": "저는 영화를 자주 봐요.",
+    "ro": "Jeoneun yeonghwareul jaju bwayo.",
+    "lit": "moi-[thème] · film-[objet] · souvent · regarder-[politesse]"
+   },
+   {
+    "fr": "Jieun, elle, lit des livres.",
+    "tgt": "지은 씨는 책을 읽어요.",
+    "ro": "Jieun ssineun chaegeul ilgeoyo.",
+    "lit": "Jieun · Mme-[thème] · livre-[objet] · lire-[politesse]"
+   },
+   {
+    "fr": "Moi, je fais la cuisine.",
+    "tgt": "저는 요리를 해요.",
+    "ro": "Jeoneun yorireul haeyo.",
+    "lit": "moi-[thème] · cuisine-[objet] · faire-[politesse]"
+   },
+   {
+    "fr": "Vous chantez bien ?",
+    "tgt": "노래를 잘해요?",
+    "ro": "Noraereul jalhaeyo?",
+    "lit": "chant-[objet] · bien faire-[politesse] ?"
+   },
+   {
+    "fr": "Non, j'aime juste ça.",
+    "tgt": "아니요, 그냥 좋아해요.",
+    "ro": "Aniyo, geunyang joahaeyo.",
+    "lit": "non · juste · aimer-[politesse]"
+   },
+   {
+    "fr": "En ce moment, j'apprends la guitare.",
+    "tgt": "요즘 기타를 배워요.",
+    "ro": "Yojeum gitareul baewoyo.",
+    "lit": "ces temps-ci · guitare-[objet] · apprendre-[politesse]"
+   },
+   {
+    "fr": "Allons faire une randonnée ensemble.",
+    "tgt": "같이 등산 가요.",
+    "ro": "Gachi deungsan gayo.",
+    "lit": "ensemble · randonnée · aller-[politesse]"
+   }
+  ]
+ },
+ "0-2-11": {
+  "module": "Conversation sociale",
+  "title": "Beaucoup et vraiment",
+  "grammaire_de_la_lecon": "« Mani » et « jeongmal » : beaucoup et vraiment",
+  "phrases": [
+   {
+    "fr": "Je mange beaucoup de bibimbap.",
+    "tgt": "비빔밥을 많이 먹어요.",
+    "ro": "Bibimbabeul mani meogeoyo.",
+    "lit": "bibimbap-[objet] · beaucoup · manger-[politesse]"
+   },
+   {
+    "fr": "Jeonju est vraiment belle.",
+    "tgt": "전주는 정말 예뻐요.",
+    "ro": "Jeonjuneun jeongmal yeppeoyo.",
+    "lit": "Jeonju-[thème] · vraiment · être joli-[politesse]"
+   },
+   {
+    "fr": "Ça, c'est vraiment délicieux !",
+    "tgt": "이거 정말 맛있어요!",
+    "ro": "Igeo jeongmal masisseoyo!",
+    "lit": "ceci · vraiment · être délicieux-[politesse]"
+   },
+   {
+    "fr": "Servez-vous bien, mangez à votre faim !",
+    "tgt": "많이 드세요.",
+    "ro": "Mani deuseyo.",
+    "lit": "beaucoup · mangez-[politesse]"
+   },
+   {
+    "fr": "Je prends beaucoup de photos.",
+    "tgt": "사진을 많이 찍어요.",
+    "ro": "Sajineul mani jjigeoyo.",
+    "lit": "photo-[objet] · beaucoup · prendre-[politesse]"
+   },
+   {
+    "fr": "Sérieusement ?",
+    "tgt": "정말이에요?",
+    "ro": "Jeongmarieyo?",
+    "lit": "vrai-c'est ?"
+   },
+   {
+    "fr": "Oui, je vous assure.",
+    "tgt": "네, 정말이에요.",
+    "ro": "Ne, jeongmarieyo.",
+    "lit": "oui · vrai-c'est"
+   },
+   {
+    "fr": "Aujourd'hui, on marche beaucoup.",
+    "tgt": "오늘 많이 걸어요.",
+    "ro": "Oneul mani georeoyo.",
+    "lit": "aujourd'hui · beaucoup · marcher-[politesse]"
+   },
+   {
+    "fr": "J'étudie beaucoup le coréen.",
+    "tgt": "한국어를 많이 공부해요.",
+    "ro": "Hangugeoreul mani gongbuhaeyo.",
+    "lit": "coréen-[objet] · beaucoup · étudier-[politesse]"
+   },
+   {
+    "fr": "Merci vraiment, c'est gentil.",
+    "tgt": "정말 고마워요.",
+    "ro": "Jeongmal gomawoyo.",
+    "lit": "vraiment · être reconnaissant-[politesse]"
+   }
+  ]
+ },
+ "0-2-12": {
+  "module": "Conversation sociale",
+  "title": "Au café du village",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ce café est installé dans une maison traditionnelle.",
+    "tgt": "이 카페는 한옥이에요.",
+    "ro": "I kapeneun hanogieyo.",
+    "lit": "ce · café-[thème] · maison traditionnelle-c'est"
+   },
+   {
+    "fr": "Qu'est-ce que vous buvez ?",
+    "tgt": "뭐 마셔요?",
+    "ro": "Mwo masyeoyo?",
+    "lit": "quoi · boire-[politesse] ?"
+   },
+   {
+    "fr": "Moi, je bois une boisson sucrée au riz.",
+    "tgt": "저는 식혜를 마셔요.",
+    "ro": "Jeoneun sikhyereul masyeoyo.",
+    "lit": "moi-[thème] · boisson au riz-[objet] · boire-[politesse]"
+   },
+   {
+    "fr": "Un thé au yuzu, s'il vous plaît.",
+    "tgt": "유자차 한 잔 주세요.",
+    "ro": "Yujacha han jan juseyo.",
+    "lit": "thé au yuzu · une · tasse · donnez-[politesse]"
+   },
+   {
+    "fr": "On est au calme, ici.",
+    "tgt": "여기 조용해요.",
+    "ro": "Yeogi joyonghaeyo.",
+    "lit": "ici · être calme-[politesse]"
+   },
+   {
+    "fr": "La cour est spacieuse.",
+    "tgt": "마당이 넓어요.",
+    "ro": "Madangi neolbeoyo.",
+    "lit": "cour-[sujet] · être large-[politesse]"
+   },
+   {
+    "fr": "Il y a aussi des gâteaux ?",
+    "tgt": "케이크도 있어요?",
+    "ro": "Keikeudo isseoyo?",
+    "lit": "gâteau-[aussi] · il y a-[politesse] ?"
+   },
+   {
+    "fr": "Le gâteau de riz est sucré.",
+    "tgt": "떡이 달아요.",
+    "ro": "Tteogi darayo.",
+    "lit": "gâteau de riz-[sujet] · être sucré-[politesse]"
+   },
+   {
+    "fr": "Le thé est brûlant.",
+    "tgt": "차가 뜨거워요.",
+    "ro": "Chaga tteugeowoyo.",
+    "lit": "thé-[sujet] · être chaud-[politesse]"
+   },
+   {
+    "fr": "Vous venez ici souvent ?",
+    "tgt": "여기 자주 와요?",
+    "ro": "Yeogi jaju wayo?",
+    "lit": "ici · souvent · venir-[politesse] ?"
+   }
+  ]
+ },
+ "0-2-13": {
+  "module": "Conversation sociale",
+  "title": "Et puis, mais",
+  "grammaire_de_la_lecon": "« Geurigo » et « geunde » : et puis, mais",
+  "phrases": [
+   {
+    "fr": "Je mange un bibimbap. Et puis je bois un café.",
+    "tgt": "비빔밥을 먹어요. 그리고 커피를 마셔요.",
+    "ro": "Bibimbabeul meogeoyo. Geurigo keopireul masyeoyo.",
+    "lit": "bibimbap-[objet] · manger-[politesse] · et puis · café-[objet] · boire-[politesse]"
+   },
+   {
+    "fr": "Les maisons traditionnelles sont belles. Mais il y fait un peu froid.",
+    "tgt": "한옥은 예뻐요. 근데 좀 추워요.",
+    "ro": "Hanogeun yeppeoyo. Geunde jom chuwoyo.",
+    "lit": "maison traditionnelle-[thème] · être joli-[politesse] · mais · un peu · avoir froid-[politesse]"
+   },
+   {
+    "fr": "J'ai une grande sœur. Et j'ai aussi un petit frère.",
+    "tgt": "저는 언니가 있어요. 그리고 남동생도 있어요.",
+    "ro": "Jeoneun eonniga isseoyo. Geurigo namdongsaengdo isseoyo.",
+    "lit": "moi-[thème] · grande sœur-[sujet] · il y a-[politesse] · et puis · petit frère-[aussi] · il y a-[politesse]"
+   },
+   {
+    "fr": "Le kimchi est bon. Mais il est un peu piquant.",
+    "tgt": "김치는 맛있어요. 근데 좀 매워요.",
+    "ro": "Gimchineun masisseoyo. Geunde jom maewoyo.",
+    "lit": "kimchi-[thème] · être délicieux-[politesse] · mais · un peu · être piquant-[politesse]"
+   },
+   {
+    "fr": "Au fait, comment tu t'appelles ?",
+    "tgt": "근데 이름이 뭐예요?",
+    "ro": "Geunde ireumi mwoyeyo?",
+    "lit": "au fait · nom-[sujet] · quoi-c'est ?"
+   },
+   {
+    "fr": "On va au karaoké. Et puis on chante ensemble.",
+    "tgt": "노래방에 가요. 그리고 같이 노래해요.",
+    "ro": "Noraebange gayo. Geurigo gachi noraehaeyo.",
+    "lit": "karaoké-[à] · aller-[politesse] · et puis · ensemble · chanter-[politesse]"
+   },
+   {
+    "fr": "J'aime la randonnée. Mais aujourd'hui, je suis fatiguée.",
+    "tgt": "등산을 좋아해요. 근데 오늘은 피곤해요.",
+    "ro": "Deungsaneul joahaeyo. Geunde oneureun pigonhaeyo.",
+    "lit": "randonnée-[objet] · aimer-[politesse] · mais · aujourd'hui-[thème] · être fatigué-[politesse]"
+   },
+   {
+    "fr": "Jieun est gentille. Et puis elle est drôle.",
+    "tgt": "지은 씨는 친절해요. 그리고 재미있어요.",
+    "ro": "Jieun ssineun chinjeolhaeyo. Geurigo jaemiisseoyo.",
+    "lit": "Jieun · Mme-[thème] · être gentil-[politesse] · et puis · être drôle-[politesse]"
+   },
+   {
+    "fr": "Au fait, il est quelle heure ?",
+    "tgt": "근데 지금 몇 시예요?",
+    "ro": "Geunde jigeum myeot siyeyo?",
+    "lit": "au fait · maintenant · combien · heure-c'est ?"
+   },
+   {
+    "fr": "Je bois du café. Mais je ne mets pas de sucre.",
+    "tgt": "커피 마셔요. 근데 설탕은 안 넣어요.",
+    "ro": "Keopi masyeoyo. Geunde seoltangeun an neoeoyo.",
+    "lit": "café · boire-[politesse] · mais · sucre-[thème] · ne pas · mettre-[politesse]"
+   }
+  ]
+ },
+ "0-2-14": {
+  "module": "Conversation sociale",
+  "title": "Au marché de Jeonju",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "On va au marché Nambu.",
+    "tgt": "남부 시장에 가요.",
+    "ro": "Nambu sijange gayo.",
+    "lit": "Nambu · marché-[à] · aller-[politesse]"
+   },
+   {
+    "fr": "Il est grand, ce marché.",
+    "tgt": "시장이 커요.",
+    "ro": "Sijangi keoyo.",
+    "lit": "marché-[sujet] · être grand-[politesse]"
+   },
+   {
+    "fr": "Combien coûtent ces gâteaux de riz ?",
+    "tgt": "이 떡은 얼마예요?",
+    "ro": "I tteogeun eolmayeyo?",
+    "lit": "ce · gâteau de riz-[thème] · combien-c'est ?"
+   },
+   {
+    "fr": "C'est cinq mille wons.",
+    "tgt": "오천 원이에요.",
+    "ro": "Ocheon wonieyo.",
+    "lit": "cinq mille · won-c'est"
+   },
+   {
+    "fr": "La soupe de riz aux pousses de soja est célèbre.",
+    "tgt": "콩나물 국밥이 유명해요.",
+    "ro": "Kongnamul gukbabi yumyeonghaeyo.",
+    "lit": "pousses de soja · soupe de riz-[sujet] · être célèbre-[politesse]"
+   },
+   {
+    "fr": "Le matin, on mange une soupe de riz.",
+    "tgt": "아침에 국밥을 먹어요.",
+    "ro": "Achime gukbabeul meogeoyo.",
+    "lit": "matin-[à] · soupe de riz-[objet] · manger-[politesse]"
+   },
+   {
+    "fr": "Les gens d'ici sont gentils.",
+    "tgt": "사람들이 친절해요.",
+    "ro": "Saramdeuri chinjeolhaeyo.",
+    "lit": "gens-[sujet] · être gentil-[politesse]"
+   },
+   {
+    "fr": "Les fruits ne sont pas chers.",
+    "tgt": "과일이 싸요.",
+    "ro": "Gwairi ssayo.",
+    "lit": "fruits-[sujet] · être bon marché-[politesse]"
+   },
+   {
+    "fr": "Cinq pommes, s'il vous plaît.",
+    "tgt": "사과 다섯 개 주세요.",
+    "ro": "Sagwa daseot gae juseyo.",
+    "lit": "pomme · cinq · unités · donnez-[politesse]"
+   },
+   {
+    "fr": "Vous auriez un sac ?",
+    "tgt": "봉투 있어요?",
+    "ro": "Bongtu isseoyo?",
+    "lit": "sac · il y a-[politesse] ?"
+   }
+  ]
+ },
+ "0-2-15": {
+  "module": "Conversation sociale",
+  "title": "Trop et très",
+  "grammaire_de_la_lecon": "« Neomu » et « aju » : trop et très",
+  "phrases": [
+   {
+    "fr": "Cette soupe est trop chaude.",
+    "tgt": "이 국밥은 너무 뜨거워요.",
+    "ro": "I gukbabeun neomu tteugeowoyo.",
+    "lit": "cette · soupe de riz-[thème] · trop · être chaud-[politesse]"
+   },
+   {
+    "fr": "Le village des maisons traditionnelles est très joli.",
+    "tgt": "한옥 마을이 아주 예뻐요.",
+    "ro": "Hanok maeuri aju yeppeoyo.",
+    "lit": "maison traditionnelle · village-[sujet] · très · être joli-[politesse]"
+   },
+   {
+    "fr": "Ce sac est trop cher.",
+    "tgt": "이 가방은 너무 비싸요.",
+    "ro": "I gabangeun neomu bissayo.",
+    "lit": "ce · sac-[thème] · trop · être cher-[politesse]"
+   },
+   {
+    "fr": "Aujourd'hui, il fait trop chaud.",
+    "tgt": "오늘은 너무 더워요.",
+    "ro": "Oneureun neomu deowoyo.",
+    "lit": "aujourd'hui-[thème] · trop · faire chaud-[politesse]"
+   },
+   {
+    "fr": "C'est tellement bon !",
+    "tgt": "너무 맛있어요!",
+    "ro": "Neomu masisseoyo!",
+    "lit": "trop · être délicieux-[politesse]"
+   },
+   {
+    "fr": "Jieun est très gentille.",
+    "tgt": "지은 씨는 아주 친절해요.",
+    "ro": "Jieun ssineun aju chinjeolhaeyo.",
+    "lit": "Jieun · Mme-[thème] · très · être gentil-[politesse]"
+   },
+   {
+    "fr": "Le kimchi est trop épicé.",
+    "tgt": "김치가 너무 매워요.",
+    "ro": "Gimchiga neomu maewoyo.",
+    "lit": "kimchi-[sujet] · trop · être piquant-[politesse]"
+   },
+   {
+    "fr": "Cette chanson est très bien.",
+    "tgt": "이 노래 아주 좋아요.",
+    "ro": "I norae aju joayo.",
+    "lit": "cette · chanson · très · être bien-[politesse]"
+   },
+   {
+    "fr": "Là, je suis épuisée.",
+    "tgt": "지금 너무 피곤해요.",
+    "ro": "Jigeum neomu pigonhaeyo.",
+    "lit": "maintenant · trop · être fatigué-[politesse]"
+   },
+   {
+    "fr": "La chambre est très spacieuse.",
+    "tgt": "방이 아주 넓어요.",
+    "ro": "Bangi aju neolbeoyo.",
+    "lit": "chambre-[sujet] · très · être large-[politesse]"
+   }
+  ]
+ },
+ "0-2-16": {
+  "module": "Conversation sociale",
+  "title": "Une invitation au karaoké",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Vous êtes libre ce soir ?",
+    "tgt": "오늘 저녁에 시간 있어요?",
+    "ro": "Oneul jeonyeoge sigan isseoyo?",
+    "lit": "aujourd'hui · soir-[à] · temps · il y a-[politesse] ?"
+   },
+   {
+    "fr": "Allons au karaoké ensemble.",
+    "tgt": "노래방에 같이 가요.",
+    "ro": "Noraebange gachi gayo.",
+    "lit": "karaoké-[à] · ensemble · aller-[politesse]"
+   },
+   {
+    "fr": "Super, on y va !",
+    "tgt": "좋아요, 가요!",
+    "ro": "Joayo, gayo!",
+    "lit": "être bien-[politesse] · aller-[politesse]"
+   },
+   {
+    "fr": "On se voit à quelle heure ?",
+    "tgt": "몇 시에 만나요?",
+    "ro": "Myeot sie mannayo?",
+    "lit": "combien · heure-[à] · se voir-[politesse] ?"
+   },
+   {
+    "fr": "Rendez-vous à huit heures.",
+    "tgt": "여덟 시에 만나요.",
+    "ro": "Yeodeol sie mannayo.",
+    "lit": "huit · heure-[à] · se voir-[politesse]"
+   },
+   {
+    "fr": "Où se trouve le karaoké ?",
+    "tgt": "노래방이 어디에 있어요?",
+    "ro": "Noraebangi eodie isseoyo?",
+    "lit": "karaoké-[sujet] · où-[à] · être-[politesse] ?"
+   },
+   {
+    "fr": "Il est devant la gare.",
+    "tgt": "역 앞에 있어요.",
+    "ro": "Yeok ape isseoyo.",
+    "lit": "gare · devant-[à] · être-[politesse]"
+   },
+   {
+    "fr": "Les copains viennent aussi.",
+    "tgt": "친구들도 와요.",
+    "ro": "Chingudeuldo wayo.",
+    "lit": "amis-[aussi] · venir-[politesse]"
+   },
+   {
+    "fr": "Désolée, aujourd'hui ce n'est pas possible.",
+    "tgt": "미안해요, 오늘은 안 돼요.",
+    "ro": "Mianhaeyo, oneureun an dwaeyo.",
+    "lit": "être désolé-[politesse] · aujourd'hui-[thème] · ne pas · être possible-[politesse]"
+   },
+   {
+    "fr": "Alors, allons-y demain.",
+    "tgt": "그럼 내일 가요.",
+    "ro": "Geureom naeil gayo.",
+    "lit": "alors · demain · aller-[politesse]"
+   }
+  ]
+ },
+ "0-2-17": {
+  "module": "Conversation sociale",
+  "title": "Les mois et les dates",
+  "grammaire_de_la_lecon": "Les mois et les dates : « wol » et « il »",
+  "phrases": [
+   {
+    "fr": "Aujourd'hui, nous sommes le cinq mai.",
+    "tgt": "오늘은 오월 오일이에요.",
+    "ro": "Oneureun owol oirieyo.",
+    "lit": "aujourd'hui-[thème] · cinq-mois · cinq-jour-c'est"
+   },
+   {
+    "fr": "Votre anniversaire, c'est quand ?",
+    "tgt": "생일이 언제예요?",
+    "ro": "Saengiri eonjeyeyo?",
+    "lit": "anniversaire-[sujet] · quand-c'est ?"
+   },
+   {
+    "fr": "Mon anniversaire, c'est le trois octobre.",
+    "tgt": "제 생일은 시월 삼일이에요.",
+    "ro": "Je saengireun siwol samirieyo.",
+    "lit": "mon · anniversaire-[thème] · dix-mois · trois-jour-c'est"
+   },
+   {
+    "fr": "L'anniversaire de Minsu est en juin.",
+    "tgt": "민수 씨 생일은 유월이에요.",
+    "ro": "Minsu ssi saengireun yuworieyo.",
+    "lit": "Minsu · M. · anniversaire-[thème] · six-mois-c'est"
+   },
+   {
+    "fr": "Je viens à Jeonju en avril.",
+    "tgt": "사월에 전주에 와요.",
+    "ro": "Sawore Jeonjue wayo.",
+    "lit": "quatre-mois-[à] · Jeonju-[à] · venir-[politesse]"
+   },
+   {
+    "fr": "Le festival a lieu en mai.",
+    "tgt": "축제는 오월이에요.",
+    "ro": "Chukjeneun oworieyo.",
+    "lit": "festival-[thème] · cinq-mois-c'est"
+   },
+   {
+    "fr": "On se voit le vingt septembre.",
+    "tgt": "구월 이십일에 만나요.",
+    "ro": "Guwol isibire mannayo.",
+    "lit": "neuf-mois · vingt-jour-[à] · se voir-[politesse]"
+   },
+   {
+    "fr": "Quelle est la date du jour ?",
+    "tgt": "오늘이 몇 월 며칠이에요?",
+    "ro": "Oneuri myeot wol myeochirieyo?",
+    "lit": "aujourd'hui-[sujet] · combien · mois · quel jour-c'est ?"
+   },
+   {
+    "fr": "En décembre, il fait froid.",
+    "tgt": "십이월은 추워요.",
+    "ro": "Sibiworeun chuwoyo.",
+    "lit": "douze-mois-[thème] · faire froid-[politesse]"
+   },
+   {
+    "fr": "En mars, j'ai des cours de coréen.",
+    "tgt": "삼월에 한국어 수업이 있어요.",
+    "ro": "Samwore Hangugeo sueobi isseoyo.",
+    "lit": "trois-mois-[à] · coréen · cours-[sujet] · il y a-[politesse]"
+   }
+  ]
+ },
+ "0-2-18": {
+  "module": "Conversation sociale",
+  "title": "Une soirée au karaoké",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Quelle chanson vous chantez ?",
+    "tgt": "무슨 노래 불러요?",
+    "ro": "Museun norae bulleoyo?",
+    "lit": "quelle · chanson · chanter-[politesse] ?"
+   },
+   {
+    "fr": "Vous connaissez cette chanson ?",
+    "tgt": "이 노래 알아요?",
+    "ro": "I norae arayo?",
+    "lit": "cette · chanson · connaître-[politesse] ?"
+   },
+   {
+    "fr": "Passez-moi le micro, s'il vous plaît.",
+    "tgt": "마이크 주세요.",
+    "ro": "Maikeu juseyo.",
+    "lit": "micro · donnez-[politesse]"
+   },
+   {
+    "fr": "Minsu, tu chantes super bien !",
+    "tgt": "민수야, 노래 잘해!",
+    "ro": "Minsuya, norae jalhae!",
+    "lit": "Minsu-[appel] · chant · bien faire"
+   },
+   {
+    "fr": "Chantons tous ensemble !",
+    "tgt": "같이 불러요!",
+    "ro": "Gachi bulleoyo!",
+    "lit": "ensemble · chanter-[politesse]"
+   },
+   {
+    "fr": "Ensuite, c'est le tour de Jieun.",
+    "tgt": "다음은 지은 씨 차례예요.",
+    "ro": "Daeumeun Jieun ssi charyeyeyo.",
+    "lit": "suivant-[thème] · Jieun · Mme · tour-c'est"
+   },
+   {
+    "fr": "J'ai mal à la gorge.",
+    "tgt": "목이 아파요.",
+    "ro": "Mogi apayo.",
+    "lit": "gorge-[sujet] · avoir mal-[politesse]"
+   },
+   {
+    "fr": "Encore une chanson !",
+    "tgt": "한 곡 더 해요!",
+    "ro": "Han gok deo haeyo!",
+    "lit": "un · morceau · plus · faire-[politesse]"
+   },
+   {
+    "fr": "On s'amuse vraiment ce soir.",
+    "tgt": "오늘 진짜 재미있어.",
+    "ro": "Oneul jinjja jaemiisseo.",
+    "lit": "aujourd'hui · vraiment · être amusant"
+   },
+   {
+    "fr": "Rentre bien, à demain !",
+    "tgt": "잘 가, 내일 봐!",
+    "ro": "Jal ga, naeil bwa!",
+    "lit": "bien · aller · demain · se voir"
+   }
+  ]
+ },
+ "0-2-19": {
+  "module": "Conversation sociale",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "« -jiyo » : n'est-ce pas, hein",
+  "phrases": [
+   {
+    "fr": "Le coréen, c'est amusant, n'est-ce pas ?",
+    "tgt": "한국어 재미있지요?",
+    "ro": "Hangugeo jaemiitjiyo?",
+    "lit": "coréen · être amusant-n'est-ce pas-[politesse] ?"
+   },
+   {
+    "fr": "Je salue les gens en coréen.",
+    "tgt": "저는 한국어로 인사해요.",
+    "ro": "Jeoneun Hangugeoro insahaeyo.",
+    "lit": "moi-[thème] · coréen-[en] · saluer-[politesse]"
+   },
+   {
+    "fr": "Je parle de ma famille en coréen.",
+    "tgt": "한국어로 가족 이야기를 해요.",
+    "ro": "Hangugeoro gajok iyagireul haeyo.",
+    "lit": "coréen-[en] · famille · histoire-[objet] · faire-[politesse]"
+   },
+   {
+    "fr": "Avec mes amis, je parle familièrement.",
+    "tgt": "친구한테 반말을 해요.",
+    "ro": "Chinguhante banmareul haeyo.",
+    "lit": "ami-[à] · langage familier-[objet] · faire-[politesse]"
+   },
+   {
+    "fr": "Jeonju, c'est sympa, hein ?",
+    "tgt": "전주 좋지요?",
+    "ro": "Jeonju jochiyo?",
+    "lit": "Jeonju · être bien-n'est-ce pas-[politesse] ?"
+   },
+   {
+    "fr": "Le bibimbap est bon, n'est-ce pas ?",
+    "tgt": "비빔밥 맛있지요?",
+    "ro": "Bibimbap masitjiyo?",
+    "lit": "bibimbap · être délicieux-n'est-ce pas-[politesse] ?"
+   },
+   {
+    "fr": "Oui, il est vraiment délicieux.",
+    "tgt": "네, 정말 맛있어요.",
+    "ro": "Ne, jeongmal masisseoyo.",
+    "lit": "oui · vraiment · être délicieux-[politesse]"
+   },
+   {
+    "fr": "La prononciation coréenne est difficile, hein ?",
+    "tgt": "한국어 발음이 어렵지요?",
+    "ro": "Hangugeo bareumi eoryeopjiyo?",
+    "lit": "coréen · prononciation-[sujet] · être difficile-n'est-ce pas-[politesse] ?"
+   },
+   {
+    "fr": "C'est un peu difficile. Mais c'est amusant.",
+    "tgt": "조금 어려워요. 근데 재미있어요.",
+    "ro": "Jogeum eoryeowoyo. Geunde jaemiisseoyo.",
+    "lit": "un peu · être difficile-[politesse] · mais · être amusant-[politesse]"
+   },
+   {
+    "fr": "On continue le coréen la prochaine fois.",
+    "tgt": "다음에 또 공부해요.",
+    "ro": "Daeume tto gongbuhaeyo.",
+    "lit": "prochaine fois-[à] · encore · étudier-[politesse]"
+   }
+  ]
+ }
+}

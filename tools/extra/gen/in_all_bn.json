@@ -1,0 +1,4022 @@
+{
+ "0-0-0": {
+  "module": "Le quotidien",
+  "title": "Premiers mots à Dhanmondi",
+  "grammaire_de_la_lecon": "« Āmi », « āpni », « tumi » : je, vous, tu",
+  "phrases": [
+   {
+    "fr": "Je suis Lucie.",
+    "tgt": "আমি লুসি।",
+    "ro": "Āmi Lusi.",
+    "lit": "je · Lucie"
+   },
+   {
+    "fr": "Moi, c'est Pierre, et vous ?",
+    "tgt": "আমি পিয়ের, আর আপনি?",
+    "ro": "Āmi Piyer, ār āpni?",
+    "lit": "je · Pierre · et · vous"
+   },
+   {
+    "fr": "J'habite à Dhanmondi.",
+    "tgt": "আমি ধানমন্ডিতে থাকি।",
+    "ro": "Āmi Dhānmonḍite thāki.",
+    "lit": "je · Dhanmondi-[à] · habite"
+   },
+   {
+    "fr": "Vous habitez ici aussi ?",
+    "tgt": "আপনিও কি এখানে থাকেন?",
+    "ro": "Āpnio ki ekhāne thāken?",
+    "lit": "vous-aussi · [question] · ici · habitez"
+   },
+   {
+    "fr": "Vous êtes très gentil.",
+    "tgt": "আপনি খুব ভালো।",
+    "ro": "Āpni khub bhālo.",
+    "lit": "vous · très · bon"
+   },
+   {
+    "fr": "Vous connaissez le français ?",
+    "tgt": "আপনি কি ফরাসি জানেন?",
+    "ro": "Āpni ki phorāshi jānen?",
+    "lit": "vous · [question] · français · savez"
+   },
+   {
+    "fr": "Je parle un peu bengali.",
+    "tgt": "আমি একটু বাংলা বলি।",
+    "ro": "Āmi ekṭu bānglā boli.",
+    "lit": "je · un peu · bengali · parle"
+   },
+   {
+    "fr": "Tu es étudiante ?",
+    "tgt": "তুমি কি ছাত্রী?",
+    "ro": "Tumi ki chhātri?",
+    "lit": "tu · [question] · étudiante"
+   },
+   {
+    "fr": "Tu es mon amie.",
+    "tgt": "তুমি আমার বন্ধু।",
+    "ro": "Tumi āmār bondhu.",
+    "lit": "tu · mon · ami(e)"
+   },
+   {
+    "fr": "Entre amis, on se dit « tumi ».",
+    "tgt": "বন্ধুকে আমরা তুমি বলি।",
+    "ro": "Bondhuke āmrā tumi boli.",
+    "lit": "ami-[à] · nous · tu · disons"
+   }
+  ]
+ },
+ "0-0-1": {
+  "module": "Le quotidien",
+  "title": "Se présenter aux voisins",
+  "grammaire_de_la_lecon": "Pas de verbe être au présent : « āmi phorāshi »",
+  "phrases": [
+   {
+    "fr": "Je suis français.",
+    "tgt": "আমি ফরাসি।",
+    "ro": "Āmi phorāshi.",
+    "lit": "je · français"
+   },
+   {
+    "fr": "Je m'appelle Pierre.",
+    "tgt": "আমার নাম পিয়ের।",
+    "ro": "Āmār nām Piyer.",
+    "lit": "mon · nom · Pierre"
+   },
+   {
+    "fr": "Je suis médecin.",
+    "tgt": "আমি ডাক্তার।",
+    "ro": "Āmi ḍāktār.",
+    "lit": "je · médecin"
+   },
+   {
+    "fr": "Ma femme est enseignante.",
+    "tgt": "আমার স্ত্রী শিক্ষিকা।",
+    "ro": "Āmār stri shikkhikā.",
+    "lit": "ma · femme · enseignante"
+   },
+   {
+    "fr": "Notre appartement est petit.",
+    "tgt": "আমাদের বাসা ছোট।",
+    "ro": "Āmāder bāshā chhoṭo.",
+    "lit": "notre · appartement · petit"
+   },
+   {
+    "fr": "Le quartier est très calme.",
+    "tgt": "এলাকাটা খুব শান্ত।",
+    "ro": "Elākāṭā khub shānto.",
+    "lit": "quartier-[classificateur] · très · calme"
+   },
+   {
+    "fr": "Vous êtes bien Rina ?",
+    "tgt": "আপনি কি রিনা আপা?",
+    "ro": "Āpni ki Rinā āpā?",
+    "lit": "vous · [question] · Rina · grande sœur"
+   },
+   {
+    "fr": "Oui, je suis votre voisine.",
+    "tgt": "জি, আমি আপনার প্রতিবেশী।",
+    "ro": "Ji, āmi āpnār protibeshi.",
+    "lit": "oui · je · votre · voisine"
+   },
+   {
+    "fr": "Dhaka est une très grande ville.",
+    "tgt": "ঢাকা অনেক বড় শহর।",
+    "ro": "Ḍhākā onek boṛo shohor.",
+    "lit": "Dhaka · très · grande · ville"
+   },
+   {
+    "fr": "Ici, le thé est vraiment délicieux.",
+    "tgt": "এখানকার চা খুব মজার।",
+    "ro": "Ekhānkār chā khub mojār.",
+    "lit": "ici-[de] · thé · très · savoureux"
+   }
+  ]
+ },
+ "0-0-2": {
+  "module": "Le quotidien",
+  "title": "Le thé au lait du matin",
+  "grammaire_de_la_lecon": "Le verbe à la fin : sujet, objet, verbe",
+  "phrases": [
+   {
+    "fr": "Je bois du thé au lait le matin.",
+    "tgt": "আমি সকালে দুধ চা খাই।",
+    "ro": "Āmi shokāle dudh chā khāi.",
+    "lit": "je · matin-[à] · lait · thé · bois"
+   },
+   {
+    "fr": "Ma mère prépare le thé.",
+    "tgt": "আমার মা চা বানান।",
+    "ro": "Āmār mā chā bānān.",
+    "lit": "ma · mère · thé · prépare[respect]"
+   },
+   {
+    "fr": "Le vendeur de thé met du sucre.",
+    "tgt": "চাওয়ালা চিনি দেয়।",
+    "ro": "Chāwālā chini dey.",
+    "lit": "vendeur de thé · sucre · met"
+   },
+   {
+    "fr": "Je mange du pain avec le thé.",
+    "tgt": "আমি চায়ের সাথে রুটি খাই।",
+    "ro": "Āmi chāyer shāthe ruṭi khāi.",
+    "lit": "je · thé-[de] · avec · pain · mange"
+   },
+   {
+    "fr": "Vous lisez le journal le matin.",
+    "tgt": "আপনি সকালে পত্রিকা পড়েন।",
+    "ro": "Āpni shokāle potrikā poṛen.",
+    "lit": "vous · matin-[à] · journal · lisez"
+   },
+   {
+    "fr": "Mon frère va au travail en rickshaw.",
+    "tgt": "আমার ভাই রিকশায় কাজে যায়।",
+    "ro": "Āmār bhāi rikshāy kāje jāy.",
+    "lit": "mon · frère · rickshaw-[en] · travail-[à] · va"
+   },
+   {
+    "fr": "J'achète le lait à la boutique.",
+    "tgt": "আমি দোকান থেকে দুধ কিনি।",
+    "ro": "Āmi dokān theke dudh kini.",
+    "lit": "je · boutique · [de] · lait · achète"
+   },
+   {
+    "fr": "Ma fille boit du lait.",
+    "tgt": "আমার মেয়ে দুধ খায়।",
+    "ro": "Āmār meye dudh khāy.",
+    "lit": "ma · fille · lait · boit"
+   },
+   {
+    "fr": "Je bois du thé et j'écoute de la musique.",
+    "tgt": "আমি চা খাই আর গান শুনি।",
+    "ro": "Āmi chā khāi ār gān shuni.",
+    "lit": "je · thé · bois · et · chanson · écoute"
+   },
+   {
+    "fr": "En bengali, le verbe se met à la fin.",
+    "tgt": "বাংলায় ক্রিয়া শেষে বসে।",
+    "ro": "Bānglāy kriyā sheshe boshe.",
+    "lit": "bengali-[en] · verbe · fin-[à] · se place"
+   }
+  ]
+ },
+ "0-0-3": {
+  "module": "Le quotidien",
+  "title": "Au marché de Kawran Bazar",
+  "grammaire_de_la_lecon": "« Ki » : transformer une phrase en question",
+  "phrases": [
+   {
+    "fr": "Le poisson est frais ?",
+    "tgt": "মাছ কি তাজা?",
+    "ro": "Māchh ki tājā?",
+    "lit": "poisson · [question] · frais"
+   },
+   {
+    "fr": "Vous vendez des légumes ?",
+    "tgt": "আপনি কি সবজি বিক্রি করেন?",
+    "ro": "Āpni ki shobji bikri koren?",
+    "lit": "vous · [question] · légumes · vente · faites"
+   },
+   {
+    "fr": "Les tomates sont bonnes ?",
+    "tgt": "টমেটো কি ভালো?",
+    "ro": "Ṭomeṭo ki bhālo?",
+    "lit": "tomates · [question] · bonnes"
+   },
+   {
+    "fr": "Le marché ouvre le matin ?",
+    "tgt": "বাজার কি সকালে খোলে?",
+    "ro": "Bājār ki shokāle khole?",
+    "lit": "marché · [question] · matin-[à] · ouvre"
+   },
+   {
+    "fr": "Vous venez ici tous les jours ?",
+    "tgt": "আপনি কি প্রতিদিন এখানে আসেন?",
+    "ro": "Āpni ki protidin ekhāne āshen?",
+    "lit": "vous · [question] · chaque jour · ici · venez"
+   },
+   {
+    "fr": "Oui, je viens tous les jours.",
+    "tgt": "জি, আমি প্রতিদিন আসি।",
+    "ro": "Ji, āmi protidin āshi.",
+    "lit": "oui · je · chaque jour · viens"
+   },
+   {
+    "fr": "C'est le marché de Kawran Bazar ?",
+    "tgt": "এটা কি কারওয়ান বাজার?",
+    "ro": "Eṭā ki Kārwān Bājār?",
+    "lit": "ceci · [question] · Kawran · Bazar"
+   },
+   {
+    "fr": "Tu comprends le bengali ?",
+    "tgt": "তুমি কি বাংলা বোঝো?",
+    "ro": "Tumi ki bānglā bojho?",
+    "lit": "tu · [question] · bengali · comprends"
+   },
+   {
+    "fr": "Vous me comprenez ?",
+    "tgt": "আপনি কি বোঝেন?",
+    "ro": "Āpni ki bojhen?",
+    "lit": "vous · [question] · comprenez"
+   },
+   {
+    "fr": "Les mangues sont sucrées ?",
+    "tgt": "আম কি মিষ্টি?",
+    "ro": "Ām ki mishṭi?",
+    "lit": "mangue · [question] · sucrée"
+   }
+  ]
+ },
+ "0-0-4": {
+  "module": "Le quotidien",
+  "title": "Ce que je ne mange pas",
+  "grammaire_de_la_lecon": "« Nā » : la négation après le verbe",
+  "phrases": [
+   {
+    "fr": "Moi, je ne mange pas de viande.",
+    "tgt": "আমি মাংস খাই না।",
+    "ro": "Āmi māngsho khāi nā.",
+    "lit": "je · viande · mange · pas"
+   },
+   {
+    "fr": "Je ne bois pas de café.",
+    "tgt": "আমি কফি খাই না।",
+    "ro": "Āmi kophi khāi nā.",
+    "lit": "je · café · bois · pas"
+   },
+   {
+    "fr": "Ma fille ne mange pas épicé.",
+    "tgt": "আমার মেয়ে ঝাল খায় না।",
+    "ro": "Āmār meye jhāl khāy nā.",
+    "lit": "ma · fille · piquant · mange · pas"
+   },
+   {
+    "fr": "Je ne cuisine pas le soir.",
+    "tgt": "আমি রাতে রান্না করি না।",
+    "ro": "Āmi rāte rānnā kori nā.",
+    "lit": "je · soir-[à] · cuisine · fais · pas"
+   },
+   {
+    "fr": "Vous ne prenez pas de sucre ?",
+    "tgt": "আপনি চিনি খান না?",
+    "ro": "Āpni chini khān nā?",
+    "lit": "vous · sucre · prenez · pas"
+   },
+   {
+    "fr": "Non, je ne prends pas de sucre.",
+    "tgt": "না, আমি চিনি খাই না।",
+    "ro": "Nā, āmi chini khāi nā.",
+    "lit": "non · je · sucre · prends · pas"
+   },
+   {
+    "fr": "Mon voisin ne mange pas de riz le soir.",
+    "tgt": "আমার প্রতিবেশী রাতে ভাত খান না।",
+    "ro": "Āmār protibeshi rāte bhāt khān nā.",
+    "lit": "mon · voisin · soir-[à] · riz · mange[respect] · pas"
+   },
+   {
+    "fr": "Je ne comprends pas bien le bengali.",
+    "tgt": "আমি বাংলা ভালো বুঝি না।",
+    "ro": "Āmi bānglā bhālo bujhi nā.",
+    "lit": "je · bengali · bien · comprends · pas"
+   },
+   {
+    "fr": "Je ne connais pas ce plat.",
+    "tgt": "আমি এই খাবার চিনি না।",
+    "ro": "Āmi ei khābār chini nā.",
+    "lit": "je · ce · plat · connais · pas"
+   },
+   {
+    "fr": "Ici, nous ne mangeons pas avec une fourchette.",
+    "tgt": "এখানে আমরা কাঁটাচামচ দিয়ে খাই না।",
+    "ro": "Ekhāne āmrā kāṃṭāchāmoch diye khāi nā.",
+    "lit": "ici · nous · fourchette · avec · mangeons · pas"
+   }
+  ]
+ },
+ "0-0-5": {
+  "module": "Le quotidien",
+  "title": "Le riz et le dal",
+  "grammaire_de_la_lecon": "Le verbe change selon la personne : « āmi khāi », « āpni khān »",
+  "phrases": [
+   {
+    "fr": "Je mange du riz et du dal.",
+    "tgt": "আমি ভাত আর ডাল খাই।",
+    "ro": "Āmi bhāt ār ḍāl khāi.",
+    "lit": "je · riz · et · dal · mange"
+   },
+   {
+    "fr": "Vous mangez du riz tous les jours ?",
+    "tgt": "আপনি কি প্রতিদিন ভাত খান?",
+    "ro": "Āpni ki protidin bhāt khān?",
+    "lit": "vous · [question] · chaque jour · riz · mangez"
+   },
+   {
+    "fr": "Tu manges épicé ?",
+    "tgt": "তুমি কি ঝাল খাও?",
+    "ro": "Tumi ki jhāl khāo?",
+    "lit": "tu · [question] · piquant · manges"
+   },
+   {
+    "fr": "Mon fils mange beaucoup.",
+    "tgt": "আমার ছেলে অনেক খায়।",
+    "ro": "Āmār chhele onek khāy.",
+    "lit": "mon · fils · beaucoup · mange"
+   },
+   {
+    "fr": "Je cuisine le dal tous les jours.",
+    "tgt": "আমি প্রতিদিন ডাল রান্না করি।",
+    "ro": "Āmi protidin ḍāl rānnā kori.",
+    "lit": "je · chaque jour · dal · cuisine · fais"
+   },
+   {
+    "fr": "Vous cuisinez très bien.",
+    "tgt": "আপনি খুব ভালো রান্না করেন।",
+    "ro": "Āpni khub bhālo rānnā koren.",
+    "lit": "vous · très · bien · cuisine · faites"
+   },
+   {
+    "fr": "Toi aussi, tu cuisines ?",
+    "tgt": "তুমিও কি রান্না করো?",
+    "ro": "Tumio ki rānnā koro?",
+    "lit": "toi-aussi · [question] · cuisine · fais"
+   },
+   {
+    "fr": "Ma sœur déjeune chez nous à midi.",
+    "tgt": "আমার বোন দুপুরে আমাদের বাসায় খায়।",
+    "ro": "Āmār bon dupure āmāder bāshāy khāy.",
+    "lit": "ma · sœur · midi-[à] · notre · maison-[à] · mange"
+   },
+   {
+    "fr": "Le matin, je vais au marché.",
+    "tgt": "সকালে আমি বাজারে যাই।",
+    "ro": "Shokāle āmi bājāre jāi.",
+    "lit": "matin-[à] · je · marché-[à] · vais"
+   },
+   {
+    "fr": "Et vous, vous allez où le matin ?",
+    "tgt": "আর আপনি সকালে কোথায় যান?",
+    "ro": "Ār āpni shokāle kothāy jān?",
+    "lit": "et · vous · matin-[à] · où · allez"
+   }
+  ]
+ },
+ "0-0-6": {
+  "module": "Le quotidien",
+  "title": "Mon petit appartement",
+  "grammaire_de_la_lecon": "« Āmār », « āpnār », « tomār » : les possessifs",
+  "phrases": [
+   {
+    "fr": "Voilà mon appartement.",
+    "tgt": "এটা আমার বাসা।",
+    "ro": "Eṭā āmār bāshā.",
+    "lit": "ceci · mon · appartement"
+   },
+   {
+    "fr": "Ma chambre est toute petite.",
+    "tgt": "আমার ঘর ছোট।",
+    "ro": "Āmār ghor chhoṭo.",
+    "lit": "ma · chambre · petite"
+   },
+   {
+    "fr": "Votre appartement est très joli.",
+    "tgt": "আপনার বাসা খুব সুন্দর।",
+    "ro": "Āpnār bāshā khub shundor.",
+    "lit": "votre · appartement · très · joli"
+   },
+   {
+    "fr": "Ta cuisine est vraiment grande !",
+    "tgt": "তোমার রান্নাঘর অনেক বড়।",
+    "ro": "Tomār rānnāghor onek boṛo.",
+    "lit": "ta · cuisine · très · grande"
+   },
+   {
+    "fr": "Notre balcon donne sur la rue.",
+    "tgt": "আমাদের বারান্দা রাস্তার দিকে।",
+    "ro": "Āmāder bārāndā rāstār dike.",
+    "lit": "notre · balcon · rue-[de] · côté-[vers]"
+   },
+   {
+    "fr": "Leur appartement est au troisième étage.",
+    "tgt": "তাদের বাসা তিন তলায়।",
+    "ro": "Tāder bāshā tin tolāy.",
+    "lit": "leur · appartement · trois · étage-[à]"
+   },
+   {
+    "fr": "Quel est votre nom ?",
+    "tgt": "আপনার নাম কী?",
+    "ro": "Āpnār nām kī?",
+    "lit": "votre · nom · quoi"
+   },
+   {
+    "fr": "Ta mère habite ici ?",
+    "tgt": "তোমার মা কি এখানে থাকেন?",
+    "ro": "Tomār mā ki ekhāne thāken?",
+    "lit": "ta · mère · [question] · ici · habite[respect]"
+   },
+   {
+    "fr": "Mon voisin s'appelle Shumon.",
+    "tgt": "আমার প্রতিবেশীর নাম সুমন।",
+    "ro": "Āmār protibeshir nām Shumon.",
+    "lit": "mon · voisin-[de] · nom · Shumon"
+   },
+   {
+    "fr": "C'est ma clé ou la tienne ?",
+    "tgt": "এটা আমার চাবি, নাকি তোমার?",
+    "ro": "Eṭā āmār chābi, nāki tomār?",
+    "lit": "ceci · ma · clé · ou bien · ta"
+   }
+  ]
+ },
+ "0-0-7": {
+  "module": "Le quotidien",
+  "title": "Chez l'épicier du coin",
+  "grammaire_de_la_lecon": "« Eṭā » et « oṭā » : ceci et cela",
+  "phrases": [
+   {
+    "fr": "Ça, c'est quoi exactement ?",
+    "tgt": "এটা কী?",
+    "ro": "Eṭā kī?",
+    "lit": "ceci · quoi"
+   },
+   {
+    "fr": "Ceci, c'est du riz.",
+    "tgt": "এটা চাল।",
+    "ro": "Eṭā chāl.",
+    "lit": "ceci · riz (cru)"
+   },
+   {
+    "fr": "Et ça, au fond ?",
+    "tgt": "আর ওটা?",
+    "ro": "Ār oṭā?",
+    "lit": "et · cela"
+   },
+   {
+    "fr": "Ça, c'est de la farine.",
+    "tgt": "ওটা আটা।",
+    "ro": "Oṭā āṭā.",
+    "lit": "cela · farine"
+   },
+   {
+    "fr": "Ceci coûte combien ?",
+    "tgt": "এটার দাম কত?",
+    "ro": "Eṭār dām koto?",
+    "lit": "ceci-[de] · prix · combien"
+   },
+   {
+    "fr": "Celui-ci est très cher.",
+    "tgt": "এটা খুব দামি।",
+    "ro": "Eṭā khub dāmi.",
+    "lit": "ceci · très · cher"
+   },
+   {
+    "fr": "Donnez-moi celui-là.",
+    "tgt": "ওটা দিন।",
+    "ro": "Oṭā din.",
+    "lit": "cela · donnez"
+   },
+   {
+    "fr": "Celui-ci est bon ?",
+    "tgt": "এটা কি ভালো?",
+    "ro": "Eṭā ki bhālo?",
+    "lit": "ceci · [question] · bon"
+   },
+   {
+    "fr": "Oui, celui-ci est très frais.",
+    "tgt": "হ্যাঁ, এটা খুব তাজা।",
+    "ro": "Hyāṃ, eṭā khub tājā.",
+    "lit": "oui · ceci · très · frais"
+   },
+   {
+    "fr": "Ça, c'est la boutique de mon voisin.",
+    "tgt": "ওটা আমার প্রতিবেশীর দোকান।",
+    "ro": "Oṭā āmār protibeshir dokān.",
+    "lit": "cela · mon · voisin-[de] · boutique"
+   }
+  ]
+ },
+ "0-0-8": {
+  "module": "Le quotidien",
+  "title": "Un tour en rickshaw",
+  "grammaire_de_la_lecon": "« -ṭā » et « -ṭi » : le petit mot qui fait le, la",
+  "phrases": [
+   {
+    "fr": "Le rickshaw est là-bas.",
+    "tgt": "রিকশাটা ওখানে।",
+    "ro": "Rikshāṭā okhāne.",
+    "lit": "rickshaw-[classificateur] · là-bas"
+   },
+   {
+    "fr": "Ce rickshaw est très coloré.",
+    "tgt": "এই রিকশাটা খুব রঙিন।",
+    "ro": "Ei rikshāṭā khub rongin.",
+    "lit": "ce · rickshaw-[classificateur] · très · coloré"
+   },
+   {
+    "fr": "Le conducteur de rickshaw est très gentil.",
+    "tgt": "রিকশাওয়ালা লোকটা খুব ভালো।",
+    "ro": "Rikshāwālā lokṭā khub bhālo.",
+    "lit": "rickshaw-conducteur · homme-[classificateur] · très · bon"
+   },
+   {
+    "fr": "Un thé, s'il vous plaît.",
+    "tgt": "একটা চা দিন।",
+    "ro": "Ekṭā chā din.",
+    "lit": "un-[classificateur] · thé · donnez"
+   },
+   {
+    "fr": "Deux thés, s'il vous plaît.",
+    "tgt": "দুইটা চা দিন।",
+    "ro": "Duiṭā chā din.",
+    "lit": "deux-[classificateur] · thé · donnez"
+   },
+   {
+    "fr": "Le livre est sur la table.",
+    "tgt": "বইটা টেবিলের ওপর।",
+    "ro": "Boiṭā ṭebiler opor.",
+    "lit": "livre-[classificateur] · table-[de] · dessus"
+   },
+   {
+    "fr": "Ce petit enfant est adorable.",
+    "tgt": "বাচ্চাটি খুব মিষ্টি।",
+    "ro": "Bāchchāṭi khub mishṭi.",
+    "lit": "enfant-[classificateur] · très · mignon"
+   },
+   {
+    "fr": "La maison est très belle.",
+    "tgt": "বাড়িটি খুব সুন্দর।",
+    "ro": "Bāṛiṭi khub shundor.",
+    "lit": "maison-[classificateur] · très · belle"
+   },
+   {
+    "fr": "La rue est très étroite.",
+    "tgt": "রাস্তাটা খুব সরু।",
+    "ro": "Rāstāṭā khub shoru.",
+    "lit": "rue-[classificateur] · très · étroite"
+   },
+   {
+    "fr": "Le prix de la course, c'est combien ?",
+    "tgt": "ভাড়াটা কত?",
+    "ro": "Bhāṛāṭā koto?",
+    "lit": "prix de la course-[classificateur] · combien"
+   }
+  ]
+ },
+ "0-0-9": {
+  "module": "Le quotidien",
+  "title": "Dans le quartier",
+  "grammaire_de_la_lecon": "« Āchhe » : il y a, et avoir avec « āmār… āchhe »",
+  "phrases": [
+   {
+    "fr": "Il y a un lac à Dhanmondi.",
+    "tgt": "ধানমন্ডিতে একটা লেক আছে।",
+    "ro": "Dhānmonḍite ekṭā lek āchhe.",
+    "lit": "Dhanmondi-[à] · un-[classificateur] · lac · il y a"
+   },
+   {
+    "fr": "Il y a une pharmacie dans le coin ?",
+    "tgt": "কাছে কি ওষুধের দোকান আছে?",
+    "ro": "Kāchhe ki oshudher dokān āchhe?",
+    "lit": "près · [question] · médicament-[de] · boutique · il y a"
+   },
+   {
+    "fr": "Oui, il y en a une au coin de la rue.",
+    "tgt": "জি, মোড়ে একটা আছে।",
+    "ro": "Ji, moṛe ekṭā āchhe.",
+    "lit": "oui · coin-[à] · un-[classificateur] · il y a"
+   },
+   {
+    "fr": "J'ai un petit appartement.",
+    "tgt": "আমার একটা ছোট বাসা আছে।",
+    "ro": "Āmār ekṭā chhoṭo bāshā āchhe.",
+    "lit": "mon · un-[classificateur] · petit · appartement · il y a"
+   },
+   {
+    "fr": "Vous avez des enfants ?",
+    "tgt": "আপনার কি ছেলেমেয়ে আছে?",
+    "ro": "Āpnār ki chhelemeye āchhe?",
+    "lit": "votre · [question] · enfants · il y a"
+   },
+   {
+    "fr": "J'ai deux filles.",
+    "tgt": "আমার দুই মেয়ে আছে।",
+    "ro": "Āmār dui meye āchhe.",
+    "lit": "mes · deux · filles · il y a"
+   },
+   {
+    "fr": "Il y a du thé à la maison.",
+    "tgt": "বাসায় চা আছে।",
+    "ro": "Bāshāy chā āchhe.",
+    "lit": "maison-[à] · thé · il y a"
+   },
+   {
+    "fr": "Tu as un vélo ?",
+    "tgt": "তোমার কি সাইকেল আছে?",
+    "ro": "Tomār ki shāikel āchhe?",
+    "lit": "ton · [question] · vélo · il y a"
+   },
+   {
+    "fr": "Il y a beaucoup de rickshaws dans la rue.",
+    "tgt": "রাস্তায় অনেক রিকশা আছে।",
+    "ro": "Rāstāy onek rikshā āchhe.",
+    "lit": "rue-[dans] · beaucoup · rickshaw · il y a"
+   },
+   {
+    "fr": "Il y a un bon marché tout près.",
+    "tgt": "কাছেই একটা ভালো বাজার আছে।",
+    "ro": "Kāchhei ekṭā bhālo bājār āchhe.",
+    "lit": "tout près · un-[classificateur] · bon · marché · il y a"
+   }
+  ]
+ },
+ "0-0-10": {
+  "module": "Le quotidien",
+  "title": "Les petits soucis de la maison",
+  "grammaire_de_la_lecon": "« Nei » : il n'y en a pas, je n'en ai pas",
+  "phrases": [
+   {
+    "fr": "Il n'y a pas d'eau aujourd'hui.",
+    "tgt": "আজ পানি নেই।",
+    "ro": "Āj pāni nei.",
+    "lit": "aujourd'hui · eau · il n'y a pas"
+   },
+   {
+    "fr": "Il n'y a pas d'électricité.",
+    "tgt": "বিদ্যুৎ নেই।",
+    "ro": "Biddut nei.",
+    "lit": "électricité · il n'y a pas"
+   },
+   {
+    "fr": "Il n'y a pas de sucre à la maison.",
+    "tgt": "বাসায় চিনি নেই।",
+    "ro": "Bāshāy chini nei.",
+    "lit": "maison-[à] · sucre · il n'y a pas"
+   },
+   {
+    "fr": "Je n'ai pas de voiture.",
+    "tgt": "আমার গাড়ি নেই।",
+    "ro": "Āmār gāṛi nei.",
+    "lit": "mon · voiture · il n'y a pas"
+   },
+   {
+    "fr": "Vous n'avez pas de monnaie ?",
+    "tgt": "আপনার কাছে খুচরা নেই?",
+    "ro": "Āpnār kāchhe khuchrā nei?",
+    "lit": "vous-[de] · près · monnaie · il n'y a pas"
+   },
+   {
+    "fr": "Non, je n'ai pas de monnaie.",
+    "tgt": "না, আমার কাছে খুচরা নেই।",
+    "ro": "Nā, āmār kāchhe khuchrā nei.",
+    "lit": "non · moi-[de] · près · monnaie · il n'y a pas"
+   },
+   {
+    "fr": "Le voisin n'est pas chez lui.",
+    "tgt": "প্রতিবেশী বাসায় নেই।",
+    "ro": "Protibeshi bāshāy nei.",
+    "lit": "voisin · maison-[à] · n'est pas là"
+   },
+   {
+    "fr": "Pas de problème !",
+    "tgt": "কোনো সমস্যা নেই।",
+    "ro": "Kono shomoshshā nei.",
+    "lit": "aucun · problème · il n'y a pas"
+   },
+   {
+    "fr": "Ce matin, je n'ai pas le temps.",
+    "tgt": "আজ সকালে আমার সময় নেই।",
+    "ro": "Āj shokāle āmār shomoy nei.",
+    "lit": "aujourd'hui · matin-[à] · mon · temps · il n'y a pas"
+   },
+   {
+    "fr": "Il n'y a aucun rickshaw dans la rue.",
+    "tgt": "রাস্তায় কোনো রিকশা নেই।",
+    "ro": "Rāstāy kono rikshā nei.",
+    "lit": "rue-[dans] · aucun · rickshaw · il n'y a pas"
+   }
+  ]
+ },
+ "0-0-11": {
+  "module": "Le quotidien",
+  "title": "Compter les takas",
+  "grammaire_de_la_lecon": "Compter de « ek » à « dosh », et au-delà",
+  "phrases": [
+   {
+    "fr": "Un, deux, trois, quatre, cinq.",
+    "tgt": "এক, দুই, তিন, চার, পাঁচ।",
+    "ro": "Ek, dui, tin, chār, pāṃch.",
+    "lit": "un · deux · trois · quatre · cinq"
+   },
+   {
+    "fr": "Six, sept, huit, neuf, dix.",
+    "tgt": "ছয়, সাত, আট, নয়, দশ।",
+    "ro": "Chhoy, shāt, āṭ, noy, dosh.",
+    "lit": "six · sept · huit · neuf · dix"
+   },
+   {
+    "fr": "Chaque banane coûte cinq takas.",
+    "tgt": "প্রতিটা কলা পাঁচ টাকা।",
+    "ro": "Protiṭā kolā pāṃch ṭākā.",
+    "lit": "chaque-[classificateur] · banane · cinq · takas"
+   },
+   {
+    "fr": "Une tasse de thé coûte dix takas.",
+    "tgt": "এক কাপ চা দশ টাকা।",
+    "ro": "Ek kāp chā dosh ṭākā.",
+    "lit": "une · tasse · thé · dix · takas"
+   },
+   {
+    "fr": "Donnez-moi trois œufs.",
+    "tgt": "আমাকে তিনটা ডিম দিন।",
+    "ro": "Āmāke tinṭā ḍim din.",
+    "lit": "moi-[à] · trois-[classificateur] · œufs · donnez"
+   },
+   {
+    "fr": "Un kilo de mangues coûte cent takas.",
+    "tgt": "এক কেজি আম একশো টাকা।",
+    "ro": "Ek keji ām eksho ṭākā.",
+    "lit": "un · kilo · mangue · cent · takas"
+   },
+   {
+    "fr": "Vingt takas au total.",
+    "tgt": "মোট বিশ টাকা।",
+    "ro": "Moṭ bish ṭākā.",
+    "lit": "total · vingt · takas"
+   },
+   {
+    "fr": "Le rickshaw jusqu'à Dhanmondi coûte cinquante takas.",
+    "tgt": "ধানমন্ডি পর্যন্ত রিকশা ভাড়া পঞ্চাশ টাকা।",
+    "ro": "Dhānmonḍi porjonto rikshā bhāṛā ponchāsh ṭākā.",
+    "lit": "Dhanmondi · jusqu'à · rickshaw · prix de la course · cinquante · takas"
+   },
+   {
+    "fr": "Cinquante takas, c'est beaucoup trop.",
+    "tgt": "পঞ্চাশ টাকা অনেক বেশি।",
+    "ro": "Ponchāsh ṭākā onek beshi.",
+    "lit": "cinquante · takas · beaucoup · trop"
+   },
+   {
+    "fr": "Quarante takas, ça vous va ?",
+    "tgt": "চল্লিশ টাকা, ঠিক আছে?",
+    "ro": "Chollish ṭākā, ṭhik āchhe?",
+    "lit": "quarante · takas · juste · il y a"
+   }
+  ]
+ },
+ "0-0-12": {
+  "module": "Le quotidien",
+  "title": "Trouver son chemin",
+  "grammaire_de_la_lecon": "« Kothāy » : où, et la terminaison « -e » pour dans, à",
+  "phrases": [
+   {
+    "fr": "Où est le lac de Dhanmondi ?",
+    "tgt": "ধানমন্ডি লেক কোথায়?",
+    "ro": "Dhānmonḍi lek kothāy?",
+    "lit": "Dhanmondi · lac · où"
+   },
+   {
+    "fr": "Où habitez-vous ?",
+    "tgt": "আপনি কোথায় থাকেন?",
+    "ro": "Āpni kothāy thāken?",
+    "lit": "vous · où · habitez"
+   },
+   {
+    "fr": "J'habite à Dhaka.",
+    "tgt": "আমি ঢাকায় থাকি।",
+    "ro": "Āmi Ḍhākāy thāki.",
+    "lit": "je · Dhaka-[à] · habite"
+   },
+   {
+    "fr": "Où est la boutique de thé ?",
+    "tgt": "চায়ের দোকান কোথায়?",
+    "ro": "Chāyer dokān kothāy?",
+    "lit": "thé-[de] · boutique · où"
+   },
+   {
+    "fr": "La boutique est au coin de la rue.",
+    "tgt": "দোকানটা মোড়ে।",
+    "ro": "Dokānṭā moṛe.",
+    "lit": "boutique-[classificateur] · coin-[à]"
+   },
+   {
+    "fr": "Je travaille à Kawran Bazar.",
+    "tgt": "আমি কারওয়ান বাজারে কাজ করি।",
+    "ro": "Āmi Kārwān Bājāre kāj kori.",
+    "lit": "je · Kawran Bazar-[à] · travail · fais"
+   },
+   {
+    "fr": "Le riz est dans la cuisine.",
+    "tgt": "চাল রান্নাঘরে।",
+    "ro": "Chāl rānnāghore.",
+    "lit": "riz (cru) · cuisine-[dans]"
+   },
+   {
+    "fr": "Où est ta mère ?",
+    "tgt": "তোমার মা কোথায়?",
+    "ro": "Tomār mā kothāy?",
+    "lit": "ta · mère · où"
+   },
+   {
+    "fr": "Elle est au marché.",
+    "tgt": "উনি বাজারে।",
+    "ro": "Uni bājāre.",
+    "lit": "elle[respect] · marché-[à]"
+   },
+   {
+    "fr": "Les clés sont dans ma poche.",
+    "tgt": "চাবি আমার পকেটে।",
+    "ro": "Chābi āmār pokeṭe.",
+    "lit": "clé · ma · poche-[dans]"
+   }
+  ]
+ },
+ "0-0-13": {
+  "module": "Le quotidien",
+  "title": "Une journée heure par heure",
+  "grammaire_de_la_lecon": "L'heure : « Koṭā bāje ? »",
+  "phrases": [
+   {
+    "fr": "Excusez-moi, quelle heure est-il ?",
+    "tgt": "মাফ করবেন, কটা বাজে?",
+    "ro": "Māf korben, koṭā bāje?",
+    "lit": "pardon · faites · combien-[classificateur] · sonne"
+   },
+   {
+    "fr": "Il est sept heures.",
+    "tgt": "সাতটা বাজে।",
+    "ro": "Shātṭā bāje.",
+    "lit": "sept-[classificateur] · sonne"
+   },
+   {
+    "fr": "Moi, je me lève à six heures.",
+    "tgt": "আমি ছয়টায় উঠি।",
+    "ro": "Āmi chhoyṭāy uṭhi.",
+    "lit": "je · six-[classificateur]-[à] · me lève"
+   },
+   {
+    "fr": "Le marché ouvre à huit heures.",
+    "tgt": "বাজার আটটায় খোলে।",
+    "ro": "Bājār āṭṭāy khole.",
+    "lit": "marché · huit-[classificateur]-[à] · ouvre"
+   },
+   {
+    "fr": "Il est sept heures et demie.",
+    "tgt": "সাড়ে সাতটা বাজে।",
+    "ro": "Shāṛe shātṭā bāje.",
+    "lit": "et demie · sept-[classificateur] · sonne"
+   },
+   {
+    "fr": "Je prends mon thé à sept heures du matin.",
+    "tgt": "আমি সকাল সাতটায় চা খাই।",
+    "ro": "Āmi shokāl shātṭāy chā khāi.",
+    "lit": "je · matin · sept-[classificateur]-[à] · thé · bois"
+   },
+   {
+    "fr": "Je prends mon déjeuner à une heure.",
+    "tgt": "আমি দুপুর একটায় খাই।",
+    "ro": "Āmi dupur ekṭāy khāi.",
+    "lit": "je · midi · une-[classificateur]-[à] · mange"
+   },
+   {
+    "fr": "La boutique ferme à cinq heures.",
+    "tgt": "দোকান পাঁচটায় বন্ধ হয়।",
+    "ro": "Dokān pāṃchṭāy bondho hoy.",
+    "lit": "boutique · cinq-[classificateur]-[à] · fermé · devient"
+   },
+   {
+    "fr": "À quelle heure rentrez-vous ?",
+    "tgt": "আপনি কটায় বাসায় ফেরেন?",
+    "ro": "Āpni koṭāy bāshāy pheren?",
+    "lit": "vous · combien-[classificateur]-[à] · maison-[à] · rentrez"
+   },
+   {
+    "fr": "Je rentre à six heures du soir.",
+    "tgt": "আমি সন্ধ্যা ছয়টায় ফিরি।",
+    "ro": "Āmi shondhā chhoyṭāy phiri.",
+    "lit": "je · soir · six-[classificateur]-[à] · rentre"
+   }
+  ]
+ },
+ "0-0-14": {
+  "module": "Le quotidien",
+  "title": "Bavarder avec la voisine",
+  "grammaire_de_la_lecon": "Les mots interrogatifs : « kī », « ke », « kobe », « keno »",
+  "phrases": [
+   {
+    "fr": "Que faites-vous dans la vie ?",
+    "tgt": "আপনি কী করেন?",
+    "ro": "Āpni kī koren?",
+    "lit": "vous · quoi · faites"
+   },
+   {
+    "fr": "Qui est ce monsieur, là ?",
+    "tgt": "উনি কে?",
+    "ro": "Uni ke?",
+    "lit": "lui[respect] · qui"
+   },
+   {
+    "fr": "C'est mon mari.",
+    "tgt": "উনি আমার স্বামী।",
+    "ro": "Uni āmār shāmi.",
+    "lit": "lui[respect] · mon · mari"
+   },
+   {
+    "fr": "Quel jour le marché est-il fermé ?",
+    "tgt": "বাজার কবে বন্ধ থাকে?",
+    "ro": "Bājār kobe bondho thāke?",
+    "lit": "marché · quand · fermé · reste"
+   },
+   {
+    "fr": "Pourquoi le thé est-il froid ?",
+    "tgt": "চা ঠান্ডা কেন?",
+    "ro": "Chā ṭhānḍā keno?",
+    "lit": "thé · froid · pourquoi"
+   },
+   {
+    "fr": "Pourquoi vous ne mangez pas ?",
+    "tgt": "আপনি খান না কেন?",
+    "ro": "Āpni khān nā keno?",
+    "lit": "vous · mangez · pas · pourquoi"
+   },
+   {
+    "fr": "Qu'est-ce qu'on cuisine aujourd'hui ?",
+    "tgt": "আজ কী রান্না?",
+    "ro": "Āj kī rānnā?",
+    "lit": "aujourd'hui · quoi · cuisine"
+   },
+   {
+    "fr": "Comment s'appelle votre fils ?",
+    "tgt": "আপনার ছেলের নাম কী?",
+    "ro": "Āpnār chheler nām kī?",
+    "lit": "votre · fils-[de] · nom · quoi"
+   },
+   {
+    "fr": "Qui fait les courses chez vous ?",
+    "tgt": "আপনাদের বাসায় কে বাজার করে?",
+    "ro": "Āpnāder bāshāy ke bājār kore?",
+    "lit": "votre · maison-[dans] · qui · marché · fait"
+   },
+   {
+    "fr": "Quand avez-vous du temps libre ?",
+    "tgt": "আপনার কবে সময় আছে?",
+    "ro": "Āpnār kobe shomoy āchhe?",
+    "lit": "votre · quand · temps · il y a"
+   }
+  ]
+ },
+ "0-0-15": {
+  "module": "Le quotidien",
+  "title": "Au petit restaurant du coin",
+  "grammaire_de_la_lecon": "« Chāi » : je veux, je voudrais",
+  "phrases": [
+   {
+    "fr": "Je voudrais une tasse de thé au lait.",
+    "tgt": "আমি এক কাপ দুধ চা চাই।",
+    "ro": "Āmi ek kāp dudh chā chāi.",
+    "lit": "je · une · tasse · lait · thé · veux"
+   },
+   {
+    "fr": "Je voudrais du riz et du dal.",
+    "tgt": "আমি ভাত আর ডাল চাই।",
+    "ro": "Āmi bhāt ār ḍāl chāi.",
+    "lit": "je · riz · et · dal · veux"
+   },
+   {
+    "fr": "Vous voulez de l'eau ?",
+    "tgt": "আপনি কি পানি চান?",
+    "ro": "Āpni ki pāni chān?",
+    "lit": "vous · [question] · eau · voulez"
+   },
+   {
+    "fr": "Oui, de l'eau froide, s'il vous plaît.",
+    "tgt": "জি, ঠান্ডা পানি চাই।",
+    "ro": "Ji, ṭhānḍā pāni chāi.",
+    "lit": "oui · froide · eau · veux"
+   },
+   {
+    "fr": "Tu veux un samoussa ?",
+    "tgt": "তুমি কি সিঙ্গারা চাও?",
+    "ro": "Tumi ki shingārā chāo?",
+    "lit": "tu · [question] · samoussa · veux"
+   },
+   {
+    "fr": "Je ne veux pas de sucre.",
+    "tgt": "আমি চিনি চাই না।",
+    "ro": "Āmi chini chāi nā.",
+    "lit": "je · sucre · veux · pas"
+   },
+   {
+    "fr": "Mon ami veut du poisson.",
+    "tgt": "আমার বন্ধু মাছ চায়।",
+    "ro": "Āmār bondhu māchh chāy.",
+    "lit": "mon · ami · poisson · veut"
+   },
+   {
+    "fr": "Nous voudrions l'addition.",
+    "tgt": "আমরা বিল চাই।",
+    "ro": "Āmrā bil chāi.",
+    "lit": "nous · addition · voulons"
+   },
+   {
+    "fr": "Je voudrais encore un peu de dal.",
+    "tgt": "আমি আরেকটু ডাল চাই।",
+    "ro": "Āmi ārekṭu ḍāl chāi.",
+    "lit": "je · encore un peu · dal · veux"
+   },
+   {
+    "fr": "Que désirez-vous ?",
+    "tgt": "আপনি কী চান?",
+    "ro": "Āpni kī chān?",
+    "lit": "vous · quoi · voulez"
+   }
+  ]
+ },
+ "0-0-16": {
+  "module": "Le quotidien",
+  "title": "Bonne cuisine et produits frais",
+  "grammaire_de_la_lecon": "L'adjectif devant le nom : « bhālo khābār »",
+  "phrases": [
+   {
+    "fr": "C'est de la très bonne cuisine.",
+    "tgt": "এটা খুব ভালো খাবার।",
+    "ro": "Eṭā khub bhālo khābār.",
+    "lit": "ceci · très · bonne · nourriture"
+   },
+   {
+    "fr": "Je voudrais du poisson frais.",
+    "tgt": "আমি তাজা মাছ চাই।",
+    "ro": "Āmi tājā māchh chāi.",
+    "lit": "je · frais · poisson · veux"
+   },
+   {
+    "fr": "J'adore le thé bien chaud.",
+    "tgt": "আমি গরম চা ভালোবাসি।",
+    "ro": "Āmi gorom chā bhālobāshi.",
+    "lit": "je · chaud · thé · aime"
+   },
+   {
+    "fr": "C'est un vieux rickshaw.",
+    "tgt": "এটা একটা পুরনো রিকশা।",
+    "ro": "Eṭā ekṭā purono rikshā.",
+    "lit": "ceci · un-[classificateur] · vieux · rickshaw"
+   },
+   {
+    "fr": "Nous habitons dans un nouvel appartement.",
+    "tgt": "আমরা নতুন বাসায় থাকি।",
+    "ro": "Āmrā notun bāshāy thāki.",
+    "lit": "nous · nouvel · appartement-[dans] · habitons"
+   },
+   {
+    "fr": "Dhanmondi est un beau quartier.",
+    "tgt": "ধানমন্ডি একটা সুন্দর এলাকা।",
+    "ro": "Dhānmonḍi ekṭā shundor elākā.",
+    "lit": "Dhanmondi · un-[classificateur] · beau · quartier"
+   },
+   {
+    "fr": "Je voudrais des bananes bien mûres.",
+    "tgt": "পাকা কলা চাই।",
+    "ro": "Pākā kolā chāi.",
+    "lit": "mûres · bananes · veux"
+   },
+   {
+    "fr": "Mon voisin est quelqu'un de bien.",
+    "tgt": "আমার প্রতিবেশী একজন ভালো মানুষ।",
+    "ro": "Āmār protibeshi ekjon bhālo mānush.",
+    "lit": "mon · voisin · un-[classificateur] · bonne · personne"
+   },
+   {
+    "fr": "C'est un plat très épicé.",
+    "tgt": "এটা খুব ঝাল খাবার।",
+    "ro": "Eṭā khub jhāl khābār.",
+    "lit": "ceci · très · piquant · plat"
+   },
+   {
+    "fr": "Du riz chaud avec du dal, c'est parfait.",
+    "tgt": "গরম ভাত আর ডাল, দারুণ।",
+    "ro": "Gorom bhāt ār ḍāl, dārun.",
+    "lit": "chaud · riz · et · dal · formidable"
+   }
+  ]
+ },
+ "0-0-17": {
+  "module": "Le quotidien",
+  "title": "Les voisins et leurs enfants",
+  "grammaire_de_la_lecon": "Le pluriel : « -rā » pour les personnes, « -gulo » pour les choses",
+  "phrases": [
+   {
+    "fr": "Les voisins sont très gentils.",
+    "tgt": "প্রতিবেশীরা খুব ভালো।",
+    "ro": "Protibeshirā khub bhālo.",
+    "lit": "voisins · très · bons"
+   },
+   {
+    "fr": "Les enfants jouent dans la rue.",
+    "tgt": "বাচ্চারা রাস্তায় খেলে।",
+    "ro": "Bāchchārā rāstāy khele.",
+    "lit": "enfants · rue-[dans] · jouent"
+   },
+   {
+    "fr": "Mes amis habitent à Dhanmondi.",
+    "tgt": "আমার বন্ধুরা ধানমন্ডিতে থাকে।",
+    "ro": "Āmār bondhurā Dhānmonḍite thāke.",
+    "lit": "mes · amis · Dhanmondi-[à] · habitent"
+   },
+   {
+    "fr": "Les mangues sont très sucrées.",
+    "tgt": "আমগুলো খুব মিষ্টি।",
+    "ro": "Āmgulo khub mishṭi.",
+    "lit": "mangues · très · sucrées"
+   },
+   {
+    "fr": "Les œufs sont dans la cuisine.",
+    "tgt": "ডিমগুলো রান্নাঘরে।",
+    "ro": "Ḍimgulo rānnāghore.",
+    "lit": "œufs · cuisine-[dans]"
+   },
+   {
+    "fr": "Les rickshaws sont pleins de couleurs.",
+    "tgt": "রিকশাগুলো খুব রঙিন।",
+    "ro": "Rikshāgulo khub rongin.",
+    "lit": "rickshaws · très · colorés"
+   },
+   {
+    "fr": "Les marchands arrivent le matin.",
+    "tgt": "দোকানদাররা সকালে আসে।",
+    "ro": "Dokāndārrā shokāle āshe.",
+    "lit": "marchands · matin-[à] · viennent"
+   },
+   {
+    "fr": "Les femmes du quartier prennent le thé ensemble.",
+    "tgt": "পাড়ার মেয়েরা একসাথে চা খায়।",
+    "ro": "Pāṛār meyerā ekshāthe chā khāy.",
+    "lit": "quartier-[de] · femmes · ensemble · thé · boivent"
+   },
+   {
+    "fr": "Ces légumes sont frais ?",
+    "tgt": "সবজিগুলো কি তাজা?",
+    "ro": "Shobjigulo ki tājā?",
+    "lit": "légumes · [question] · frais"
+   },
+   {
+    "fr": "Où sont les clés ?",
+    "tgt": "চাবিগুলো কোথায়?",
+    "ro": "Chābigulo kothāy?",
+    "lit": "clés · où"
+   }
+  ]
+ },
+ "0-0-18": {
+  "module": "Le quotidien",
+  "title": "Saluer dans la rue",
+  "grammaire_de_la_lecon": "« Kemon āchhen ? » : saluer et répondre « bhālo āchhi »",
+  "phrases": [
+   {
+    "fr": "Bonjour Rina, comment allez-vous ?",
+    "tgt": "রিনা আপা, কেমন আছেন?",
+    "ro": "Rinā āpā, kemon āchhen?",
+    "lit": "Rina · grande sœur · comment · êtes[respect]"
+   },
+   {
+    "fr": "Je vais bien, merci.",
+    "tgt": "ভালো আছি, ধন্যবাদ।",
+    "ro": "Bhālo āchhi, dhonnobād.",
+    "lit": "bien · suis · merci"
+   },
+   {
+    "fr": "Et vous, comment allez-vous ?",
+    "tgt": "আপনি কেমন আছেন?",
+    "ro": "Āpni kemon āchhen?",
+    "lit": "vous · comment · êtes[respect]"
+   },
+   {
+    "fr": "Moi aussi, je vais bien.",
+    "tgt": "আমিও ভালো আছি।",
+    "ro": "Āmio bhālo āchhi.",
+    "lit": "moi-aussi · bien · suis"
+   },
+   {
+    "fr": "Comment ça va, mon ami ?",
+    "tgt": "কেমন আছ, বন্ধু?",
+    "ro": "Kemon āchho, bondhu?",
+    "lit": "comment · es · ami"
+   },
+   {
+    "fr": "Ça va très bien !",
+    "tgt": "খুব ভালো আছি।",
+    "ro": "Khub bhālo āchhi.",
+    "lit": "très · bien · suis"
+   },
+   {
+    "fr": "Comment va votre famille ?",
+    "tgt": "আপনার পরিবারের সবাই কেমন আছে?",
+    "ro": "Āpnār poribārer shobāi kemon āchhe?",
+    "lit": "votre · famille-[de] · tous · comment · sont"
+   },
+   {
+    "fr": "Tout le monde va bien.",
+    "tgt": "সবাই ভালো আছে।",
+    "ro": "Shobāi bhālo āchhe.",
+    "lit": "tous · bien · sont"
+   },
+   {
+    "fr": "Pas très bien aujourd'hui.",
+    "tgt": "আজ খুব একটা ভালো নেই।",
+    "ro": "Āj khub ekṭā bhālo nei.",
+    "lit": "aujourd'hui · très · un · bien · ne suis pas"
+   },
+   {
+    "fr": "Bonne journée à vous !",
+    "tgt": "আপনার দিনটা ভালো কাটুক।",
+    "ro": "Āpnār dinṭā bhālo kāṭuk.",
+    "lit": "votre · journée-[classificateur] · bien · passe"
+   }
+  ]
+ },
+ "0-0-19": {
+  "module": "Le quotidien",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "Les formules magiques : « dhonnobād », « māf korben », « ṭhik āchhe »",
+  "phrases": [
+   {
+    "fr": "Un grand merci pour tout.",
+    "tgt": "সবকিছুর জন্য অনেক ধন্যবাদ।",
+    "ro": "Shobkichhur jonno onek dhonnobād.",
+    "lit": "tout-[de] · pour · beaucoup · merci"
+   },
+   {
+    "fr": "Pardon, je ne comprends pas.",
+    "tgt": "মাফ করবেন, আমি বুঝি না।",
+    "ro": "Māf korben, āmi bujhi nā.",
+    "lit": "pardon · faites · je · comprends · pas"
+   },
+   {
+    "fr": "D'accord, pas de problème.",
+    "tgt": "ঠিক আছে, কোনো সমস্যা নেই।",
+    "ro": "Ṭhik āchhe, kono shomoshshā nei.",
+    "lit": "juste · il y a · aucun · problème · il n'y a pas"
+   },
+   {
+    "fr": "La première étape est terminée.",
+    "tgt": "প্রথম ধাপ শেষ।",
+    "ro": "Prothom dhāp shesh.",
+    "lit": "première · étape · fin"
+   },
+   {
+    "fr": "Maintenant, je parle un peu mieux bengali.",
+    "tgt": "আমি এখন একটু ভালো বাংলা বলি।",
+    "ro": "Āmi ekhon ekṭu bhālo bānglā boli.",
+    "lit": "je · maintenant · un peu · bien · bengali · parle"
+   },
+   {
+    "fr": "Le bengali est une très belle langue.",
+    "tgt": "বাংলা খুব সুন্দর ভাষা।",
+    "ro": "Bānglā khub shundor bhāshā.",
+    "lit": "bengali · très · belle · langue"
+   },
+   {
+    "fr": "La vie à Dhaka me plaît beaucoup.",
+    "tgt": "ঢাকার জীবন আমার খুব ভালো লাগে।",
+    "ro": "Ḍhākār jibon āmār khub bhālo lāge.",
+    "lit": "Dhaka-[de] · vie · moi-[à] · très · bien · semble"
+   },
+   {
+    "fr": "Prochaine étape : le voyage.",
+    "tgt": "এরপর ভ্রমণ।",
+    "ro": "Erpor bhromon.",
+    "lit": "ensuite · voyage"
+   },
+   {
+    "fr": "D'accord, on continue !",
+    "tgt": "ঠিক আছে, চলুন এগিয়ে যাই।",
+    "ro": "Ṭhik āchhe, cholun egiye jāi.",
+    "lit": "juste · il y a · allons · en avant · allons"
+   },
+   {
+    "fr": "Merci, et à très bientôt.",
+    "tgt": "ধন্যবাদ, আবার দেখা হবে।",
+    "ro": "Dhonnobād, ābār dekhā hobe.",
+    "lit": "merci · encore · rencontre · sera"
+   }
+  ]
+ },
+ "0-1-0": {
+  "module": "En voyage",
+  "title": "À la gare routière de Chittagong",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Où est le comptoir des bus pour Cox's Bazar ?",
+    "tgt": "কক্সবাজারের বাসের কাউন্টার কোথায়?",
+    "ro": "Koksbājārer bāser kāunṭār kothāy?",
+    "lit": "Cox's Bazar [de] · bus [de] · comptoir · où"
+   },
+   {
+    "fr": "Le comptoir est juste là-bas.",
+    "tgt": "কাউন্টারটা ঠিক ওখানে।",
+    "ro": "Kāunṭārṭā ṭhik okhāne.",
+    "lit": "comptoir [classificateur] · juste · là-bas"
+   },
+   {
+    "fr": "Il y a beaucoup de monde à la gare routière.",
+    "tgt": "বাস টার্মিনালে অনেক মানুষ।",
+    "ro": "Bās ṭārmināle onek mānush.",
+    "lit": "bus · terminal [à] · beaucoup · gens"
+   },
+   {
+    "fr": "Je pars pour Cox's Bazar.",
+    "tgt": "আমি কক্সবাজার যাচ্ছি।",
+    "ro": "Āmi Koksbājār jāchchhi.",
+    "lit": "je · Cox's Bazar · vais"
+   },
+   {
+    "fr": "Vous aussi, vous allez à Cox's Bazar ?",
+    "tgt": "আপনিও কি কক্সবাজার যাচ্ছেন?",
+    "ro": "Āpnio ki Koksbājār jāchchhen?",
+    "lit": "vous-aussi · [question] · Cox's Bazar · allez"
+   },
+   {
+    "fr": "Oui, avec ma famille.",
+    "tgt": "হ্যাঁ, আমার পরিবারের সাথে।",
+    "ro": "Hyāṃ, āmār poribārer shāthe.",
+    "lit": "oui · ma · famille [de] · avec"
+   },
+   {
+    "fr": "Quel bus est le meilleur ?",
+    "tgt": "কোন বাসটা সবচেয়ে ভালো?",
+    "ro": "Kon bāsṭā shobcheye bhālo?",
+    "lit": "quel · bus [classificateur] · plus que tout · bon"
+   },
+   {
+    "fr": "Celui-ci est confortable.",
+    "tgt": "এটা আরামদায়ক।",
+    "ro": "Eṭā ārāmdāyok.",
+    "lit": "ceci · confortable"
+   },
+   {
+    "fr": "Est-ce qu'on trouve des toilettes ici ?",
+    "tgt": "এখানে কি টয়লেট আছে?",
+    "ro": "Ekhāne ki ṭoyleṭ āchhe?",
+    "lit": "ici · [question] · toilettes · il y a"
+   },
+   {
+    "fr": "Oui, à côté de la salle d'attente.",
+    "tgt": "হ্যাঁ, ওয়েটিং রুমের পাশে।",
+    "ro": "Hyāṃ, oyeṭing rumer pāshe.",
+    "lit": "oui · salle d'attente [de] · à côté"
+   }
+  ]
+ },
+ "0-1-1": {
+  "module": "En voyage",
+  "title": "Acheter un billet de bus",
+  "grammaire_de_la_lecon": "« Āj », « kāl », « porshu » : aujourd'hui, demain, hier et après-demain",
+  "phrases": [
+   {
+    "fr": "Je voudrais un billet pour aujourd'hui.",
+    "tgt": "আমি আজকের একটা টিকিট চাই।",
+    "ro": "Āmi ājker ekṭā ṭikiṭ chāi.",
+    "lit": "je · aujourd'hui [de] · un [classificateur] · billet · veux"
+   },
+   {
+    "fr": "Aujourd'hui, il n'y a plus de place.",
+    "tgt": "আজ আর সিট নেই।",
+    "ro": "Āj ār siṭ nei.",
+    "lit": "aujourd'hui · plus · siège · il n'y a pas"
+   },
+   {
+    "fr": "Et pour demain ?",
+    "tgt": "আর কালকের জন্য?",
+    "ro": "Ār kālker jonno?",
+    "lit": "et · demain [de] · pour"
+   },
+   {
+    "fr": "Demain soir, il reste encore deux places.",
+    "tgt": "কাল রাতে এখনো দুটো সিট আছে।",
+    "ro": "Kāl rāte ekhono duṭo siṭ āchhe.",
+    "lit": "demain · nuit [à] · encore · deux [classificateur] · siège · il y a"
+   },
+   {
+    "fr": "Hier, il y avait foule ici.",
+    "tgt": "কাল এখানে অনেক ভিড় ছিল।",
+    "ro": "Kāl ekhāne onek bhiṛ chhilo.",
+    "lit": "hier · ici · beaucoup · foule · était"
+   },
+   {
+    "fr": "Après-demain, c'est trop tard pour moi.",
+    "tgt": "পরশু আমার জন্য অনেক দেরি।",
+    "ro": "Porshu āmār jonno onek deri.",
+    "lit": "après-demain · moi [de] · pour · trop · retard"
+   },
+   {
+    "fr": "Alors donnez-moi un billet pour demain soir.",
+    "tgt": "তাহলে কাল রাতের একটা টিকিট দিন।",
+    "ro": "Tāhole kāl rāter ekṭā ṭikiṭ din.",
+    "lit": "alors · demain · nuit [de] · un [classificateur] · billet · donnez"
+   },
+   {
+    "fr": "Le bus part à quelle heure ?",
+    "tgt": "বাস কয়টায় ছাড়বে?",
+    "ro": "Bās koyṭāy chhāṛbe?",
+    "lit": "bus · quelle heure [à] · partira"
+   },
+   {
+    "fr": "Il part à dix heures du soir.",
+    "tgt": "রাত দশটায় ছাড়বে।",
+    "ro": "Rāt doshṭāy chhāṛbe.",
+    "lit": "nuit · dix [classificateur] [à] · partira"
+   },
+   {
+    "fr": "Aujourd'hui repos, demain départ.",
+    "tgt": "আজ বিশ্রাম, কাল যাত্রা।",
+    "ro": "Āj bishrām, kāl jātrā.",
+    "lit": "aujourd'hui · repos · demain · voyage"
+   }
+  ]
+ },
+ "0-1-2": {
+  "module": "En voyage",
+  "title": "Le bus de nuit",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Le bus de nuit est très confortable.",
+    "tgt": "রাতের বাসটা খুব আরামের।",
+    "ro": "Rāter bāsṭā khub ārāmer.",
+    "lit": "nuit [de] · bus [classificateur] · très · confort [de]"
+   },
+   {
+    "fr": "Mon siège est côté fenêtre.",
+    "tgt": "আমার সিট জানালার পাশে।",
+    "ro": "Āmār siṭ jānālār pāshe.",
+    "lit": "mon · siège · fenêtre [de] · à côté"
+   },
+   {
+    "fr": "Ça prend combien d'heures ?",
+    "tgt": "কত ঘণ্টা লাগে?",
+    "ro": "Koto ghonṭā lāge?",
+    "lit": "combien · heure · il faut"
+   },
+   {
+    "fr": "Environ cinq heures.",
+    "tgt": "প্রায় পাঁচ ঘণ্টা।",
+    "ro": "Prāy pāṃch ghonṭā.",
+    "lit": "environ · cinq · heure"
+   },
+   {
+    "fr": "Il fait un peu froid dans le bus.",
+    "tgt": "বাসে একটু ঠান্ডা।",
+    "ro": "Bāse ekṭu ṭhānḍā.",
+    "lit": "bus [dans] · un peu · froid"
+   },
+   {
+    "fr": "Auriez-vous une couverture, par hasard ?",
+    "tgt": "আপনার কি কম্বল আছে?",
+    "ro": "Āpnār ki kombol āchhe?",
+    "lit": "votre · [question] · couverture · il y a"
+   },
+   {
+    "fr": "Le bus fait une pause en chemin ?",
+    "tgt": "বাস কি পথে থামে?",
+    "ro": "Bās ki pothe thāme?",
+    "lit": "bus · [question] · chemin [sur] · s'arrête"
+   },
+   {
+    "fr": "Oui, une fois, pour prendre le thé.",
+    "tgt": "হ্যাঁ, একবার, চায়ের জন্য।",
+    "ro": "Hyāṃ, ekbār, chāyer jonno.",
+    "lit": "oui · une fois · thé [de] · pour"
+   },
+   {
+    "fr": "Je vais dormir un peu.",
+    "tgt": "আমি একটু ঘুমাব।",
+    "ro": "Āmi ekṭu ghumābo.",
+    "lit": "je · un peu · dormirai"
+   },
+   {
+    "fr": "Bonne nuit, à demain matin.",
+    "tgt": "শুভ রাত্রি, কাল সকালে দেখা হবে।",
+    "ro": "Shubho rātri, kāl shokāle dekhā hobe.",
+    "lit": "bonne · nuit · demain · matin [à] · rencontre · sera"
+   }
+  ]
+ },
+ "0-1-3": {
+  "module": "En voyage",
+  "title": "Demander poliment dans le bus",
+  "grammaire_de_la_lecon": "« Doyā kore » : s'il vous plaît",
+  "phrases": [
+   {
+    "fr": "Fermez cette fenêtre, s'il vous plaît.",
+    "tgt": "দয়া করে জানালাটা বন্ধ করুন।",
+    "ro": "Doyā kore jānālāṭā bondho korun.",
+    "lit": "bonté · en faisant · fenêtre [classificateur] · fermé · faites"
+   },
+   {
+    "fr": "Parlez plus lentement, s'il vous plaît.",
+    "tgt": "দয়া করে আস্তে বলুন।",
+    "ro": "Doyā kore āste bolun.",
+    "lit": "bonté · en faisant · lentement · dites"
+   },
+   {
+    "fr": "Baissez un peu la musique, s'il vous plaît.",
+    "tgt": "দয়া করে গানটা একটু কমান।",
+    "ro": "Doyā kore gānṭā ekṭu komān.",
+    "lit": "bonté · en faisant · chanson [classificateur] · un peu · baissez"
+   },
+   {
+    "fr": "Donnez-moi un peu d'eau, s'il vous plaît.",
+    "tgt": "দয়া করে একটু পানি দিন।",
+    "ro": "Doyā kore ekṭu pāni din.",
+    "lit": "bonté · en faisant · un peu · eau · donnez"
+   },
+   {
+    "fr": "Merci beaucoup, vous êtes très gentil.",
+    "tgt": "অনেক ধন্যবাদ, আপনি খুব ভালো।",
+    "ro": "Onek dhonnobād, āpni khub bhālo.",
+    "lit": "beaucoup · merci · vous · très · bon"
+   },
+   {
+    "fr": "Excusez-moi, ce siège est à moi.",
+    "tgt": "মাফ করবেন, এটা আমার সিট।",
+    "ro": "Māf korben, eṭā āmār siṭ.",
+    "lit": "pardon · ferez · ceci · mon · siège"
+   },
+   {
+    "fr": "Oh, désolé, je me suis trompé.",
+    "tgt": "ও, দুঃখিত, ভুল হয়েছে।",
+    "ro": "O, dukkhito, bhul hoyechhe.",
+    "lit": "oh · désolé · erreur · est arrivée"
+   },
+   {
+    "fr": "Asseyez-vous ici, s'il vous plaît.",
+    "tgt": "দয়া করে এখানে বসুন।",
+    "ro": "Doyā kore ekhāne boshun.",
+    "lit": "bonté · en faisant · ici · asseyez-vous"
+   },
+   {
+    "fr": "Réveillez-moi à Cox's Bazar, s'il vous plaît.",
+    "tgt": "দয়া করে কক্সবাজারে আমাকে ডাকবেন।",
+    "ro": "Doyā kore Koksbājāre āmāke ḍākben.",
+    "lit": "bonté · en faisant · Cox's Bazar [à] · moi · appellerez"
+   },
+   {
+    "fr": "Bien sûr, il n'y a aucun souci.",
+    "tgt": "অবশ্যই, কোনো সমস্যা নেই।",
+    "ro": "Oboshshoi, kono shomoshshā nei.",
+    "lit": "bien sûr · aucun · problème · il n'y a pas"
+   }
+  ]
+ },
+ "0-1-4": {
+  "module": "En voyage",
+  "title": "Arrivée à Cox's Bazar",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ça y est, nous sommes à Cox's Bazar !",
+    "tgt": "আমরা কক্সবাজার পৌঁছে গেছি।",
+    "ro": "Āmrā Koksbājār pouṃchhe gechhi.",
+    "lit": "nous · Cox's Bazar · arrivés · sommes allés"
+   },
+   {
+    "fr": "L'air sent la mer.",
+    "tgt": "বাতাসে সমুদ্রের গন্ধ।",
+    "ro": "Bātāshe shomudrer gondho.",
+    "lit": "air [dans] · mer [de] · odeur"
+   },
+   {
+    "fr": "Il est six heures du matin.",
+    "tgt": "এখন সকাল ছয়টা।",
+    "ro": "Ekhon shokāl chhoyṭā.",
+    "lit": "maintenant · matin · six [classificateur]"
+   },
+   {
+    "fr": "Le ciel est très dégagé.",
+    "tgt": "আকাশটা খুব পরিষ্কার।",
+    "ro": "Ākāshṭā khub porishkār.",
+    "lit": "ciel [classificateur] · très · clair"
+   },
+   {
+    "fr": "Où est mon sac ?",
+    "tgt": "আমার ব্যাগ কোথায়?",
+    "ro": "Āmār byāg kothāy?",
+    "lit": "mon · sac · où"
+   },
+   {
+    "fr": "Votre sac est sous le bus.",
+    "tgt": "আপনার ব্যাগ বাসের নিচে।",
+    "ro": "Āpnār byāg bāser niche.",
+    "lit": "votre · sac · bus [de] · dessous"
+   },
+   {
+    "fr": "J'ai une faim de loup.",
+    "tgt": "আমার খুব খিদে পেয়েছে।",
+    "ro": "Āmār khub khide peyechhe.",
+    "lit": "à moi · très · faim · est venue"
+   },
+   {
+    "fr": "Il y a un petit restaurant en face.",
+    "tgt": "সামনে একটা ছোট রেস্টুরেন্ট আছে।",
+    "ro": "Shāmne ekṭā chhoṭo resṭurenṭ āchhe.",
+    "lit": "devant · un [classificateur] · petit · restaurant · il y a"
+   },
+   {
+    "fr": "On prend d'abord un thé ?",
+    "tgt": "আগে এক কাপ চা খাই?",
+    "ro": "Āge ek kāp chā khāi?",
+    "lit": "d'abord · une · tasse · thé · mangeons"
+   },
+   {
+    "fr": "Bonne idée, allons-y.",
+    "tgt": "ভালো বুদ্ধি, চলুন।",
+    "ro": "Bhālo buddhi, cholun.",
+    "lit": "bonne · idée · allons"
+   }
+  ]
+ },
+ "0-1-5": {
+  "module": "En voyage",
+  "title": "Combien ça coûte ?",
+  "grammaire_de_la_lecon": "« Dām koto ? » : demander un prix en takas",
+  "phrases": [
+   {
+    "fr": "CNG, vous y allez ?",
+    "tgt": "সিএনজি, যাবেন?",
+    "ro": "Si-en-ji, jāben?",
+    "lit": "CNG · irez"
+   },
+   {
+    "fr": "Je vais à la plage de Kolatoli.",
+    "tgt": "আমি কলাতলী বিচে যাব।",
+    "ro": "Āmi Kolātolī biche jābo.",
+    "lit": "je · Kolatoli · plage [à] · irai"
+   },
+   {
+    "fr": "La course coûte combien ?",
+    "tgt": "ভাড়া কত?",
+    "ro": "Bhāṛā koto?",
+    "lit": "prix de la course · combien"
+   },
+   {
+    "fr": "Deux cents takas.",
+    "tgt": "দুইশো টাকা।",
+    "ro": "Duisho ṭākā.",
+    "lit": "deux-cents · takas"
+   },
+   {
+    "fr": "Le prix est trop élevé.",
+    "tgt": "দাম খুব বেশি।",
+    "ro": "Dām khub beshi.",
+    "lit": "prix · très · trop"
+   },
+   {
+    "fr": "Cent cinquante takas, ça vous va ?",
+    "tgt": "দেড়শো টাকা, ঠিক আছে?",
+    "ro": "Deṛsho ṭākā, ṭhik āchhe?",
+    "lit": "cent-cinquante · takas · correct · est"
+   },
+   {
+    "fr": "Ce collier de coquillages, c'est combien ?",
+    "tgt": "এই ঝিনুকের মালাটার দাম কত?",
+    "ro": "Ei jhinuker mālāṭār dām koto?",
+    "lit": "ce · coquillage [de] · collier [classificateur] [de] · prix · combien"
+   },
+   {
+    "fr": "Le prix, c'est trois cents takas, madame.",
+    "tgt": "দাম তিনশো টাকা, আপা।",
+    "ro": "Dām tinsho ṭākā, āpā.",
+    "lit": "prix · trois-cents · takas · grande sœur"
+   },
+   {
+    "fr": "Et ces deux-là, quel est leur prix ?",
+    "tgt": "আর ওই দুটোর দাম কত?",
+    "ro": "Ār oi duṭor dām koto?",
+    "lit": "et · ces · deux [classificateur] [de] · prix · combien"
+   },
+   {
+    "fr": "Le tout pour cinq cents takas.",
+    "tgt": "সব মিলিয়ে পাঁচশো টাকা।",
+    "ro": "Shob miliye pāṃchsho ṭākā.",
+    "lit": "tout · ensemble · cinq-cents · takas"
+   }
+  ]
+ },
+ "0-1-6": {
+  "module": "En voyage",
+  "title": "Une chambre face à la mer",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Il vous reste une chambre libre ?",
+    "tgt": "আপনাদের কি রুম খালি আছে?",
+    "ro": "Āpnāder ki rum khāli āchhe?",
+    "lit": "vos · [question] · chambre · libre · il y a"
+   },
+   {
+    "fr": "C'est pour combien de personnes ?",
+    "tgt": "কয়জনের জন্য?",
+    "ro": "Koyjoner jonno?",
+    "lit": "combien de personnes [de] · pour"
+   },
+   {
+    "fr": "Deux personnes, trois nuits.",
+    "tgt": "দুইজন, তিন রাত।",
+    "ro": "Duijon, tin rāt.",
+    "lit": "deux personnes · trois · nuit"
+   },
+   {
+    "fr": "Je voudrais une chambre face à la mer.",
+    "tgt": "আমি সমুদ্রমুখী একটা রুম চাই।",
+    "ro": "Āmi shomudromukhī ekṭā rum chāi.",
+    "lit": "je · face-à-la-mer · un [classificateur] · chambre · veux"
+   },
+   {
+    "fr": "Il y a un balcon ?",
+    "tgt": "বারান্দা আছে?",
+    "ro": "Bārāndā āchhe?",
+    "lit": "balcon · il y a"
+   },
+   {
+    "fr": "Oui, et la mer est juste devant.",
+    "tgt": "হ্যাঁ, আর সমুদ্র ঠিক সামনে।",
+    "ro": "Hyāṃ, ār shomudro ṭhik shāmne.",
+    "lit": "oui · et · mer · juste · devant"
+   },
+   {
+    "fr": "Le petit-déjeuner est inclus avec la chambre ?",
+    "tgt": "নাস্তা কি রুমের সাথে?",
+    "ro": "Nāstā ki rumer shāthe?",
+    "lit": "petit-déjeuner · [question] · chambre [de] · avec"
+   },
+   {
+    "fr": "Oui, il est inclus.",
+    "tgt": "হ্যাঁ, সাথে আছে।",
+    "ro": "Hyāṃ, shāthe āchhe.",
+    "lit": "oui · avec · est"
+   },
+   {
+    "fr": "Tenez, voici votre clé.",
+    "tgt": "এই নিন আপনার চাবি।",
+    "ro": "Ei nin āpnār chābi.",
+    "lit": "voici · prenez · votre · clé"
+   },
+   {
+    "fr": "Votre chambre est au troisième étage.",
+    "tgt": "আপনার রুম চারতলায়।",
+    "ro": "Āpnār rum chārtolāy.",
+    "lit": "votre · chambre · quatre-niveaux [à]"
+   }
+  ]
+ },
+ "0-1-7": {
+  "module": "En voyage",
+  "title": "Les horaires de l'hôtel",
+  "grammaire_de_la_lecon": "« Theke » et « porjonto » : de… jusqu'à",
+  "phrases": [
+   {
+    "fr": "Le petit-déjeuner, c'est de sept heures à dix heures.",
+    "tgt": "নাস্তা সাতটা থেকে দশটা পর্যন্ত।",
+    "ro": "Nāstā sātṭā theke doshṭā porjonto.",
+    "lit": "petit-déjeuner · sept [classificateur] · depuis · dix [classificateur] · jusqu'à"
+   },
+   {
+    "fr": "D'ici, la plage est à cinq minutes.",
+    "tgt": "এখান থেকে বিচ পাঁচ মিনিট।",
+    "ro": "Ekhān theke bich pāṃch miniṭ.",
+    "lit": "ici · depuis · plage · cinq · minute"
+   },
+   {
+    "fr": "De Chittagong à Cox's Bazar, il faut combien d'heures ?",
+    "tgt": "চট্টগ্রাম থেকে কক্সবাজার পর্যন্ত কত ঘণ্টা?",
+    "ro": "Choṭṭogrām theke Koksbājār porjonto koto ghonṭā?",
+    "lit": "Chittagong · depuis · Cox's Bazar · jusqu'à · combien · heure"
+   },
+   {
+    "fr": "Nous restons ici jusqu'à vendredi.",
+    "tgt": "আমরা শুক্রবার পর্যন্ত এখানে থাকব।",
+    "ro": "Āmrā shukrobār porjonto ekhāne thākbo.",
+    "lit": "nous · vendredi · jusqu'à · ici · resterons"
+   },
+   {
+    "fr": "Nous arrivons tout droit de Paris.",
+    "tgt": "আমরা প্যারিস থেকে এসেছি।",
+    "ro": "Āmrā Pyāris theke eshechhi.",
+    "lit": "nous · Paris · depuis · sommes venus"
+   },
+   {
+    "fr": "D'où part le bus pour Teknaf ?",
+    "tgt": "টেকনাফের বাস কোথা থেকে ছাড়ে?",
+    "ro": "Ṭeknāpher bās kothā theke chhāṛe?",
+    "lit": "Teknaf [de] · bus · où · depuis · part"
+   },
+   {
+    "fr": "On peut rendre la chambre jusqu'à midi.",
+    "tgt": "চেক-আউট দুপুর বারোটা পর্যন্ত।",
+    "ro": "Chek-āuṭ dupur bāroṭā porjonto.",
+    "lit": "départ de la chambre · midi · douze [classificateur] · jusqu'à"
+   },
+   {
+    "fr": "Cette plage va jusqu'à Teknaf ?",
+    "tgt": "এই বিচ কি টেকনাফ পর্যন্ত?",
+    "ro": "Ei bich ki Ṭeknāph porjonto?",
+    "lit": "cette · plage · [question] · Teknaf · jusqu'à"
+   },
+   {
+    "fr": "Oui, elle est immense.",
+    "tgt": "হ্যাঁ, অনেক লম্বা।",
+    "ro": "Hyāṃ, onek lombā.",
+    "lit": "oui · très · longue"
+   },
+   {
+    "fr": "Du matin au soir, nous allons marcher.",
+    "tgt": "সকাল থেকে সন্ধ্যা পর্যন্ত আমরা হাঁটব।",
+    "ro": "Shokāl theke shondhyā porjonto āmrā hāṃṭbo.",
+    "lit": "matin · depuis · soir · jusqu'à · nous · marcherons"
+   }
+  ]
+ },
+ "0-1-8": {
+  "module": "En voyage",
+  "title": "La plus longue plage du pays",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "C'est la plus longue plage du pays.",
+    "tgt": "এটা দেশের সবচেয়ে লম্বা সৈকত।",
+    "ro": "Eṭā desher shobcheye lombā shoikot.",
+    "lit": "ceci · pays [de] · plus que tout · longue · plage"
+   },
+   {
+    "fr": "Le sable est tout doux.",
+    "tgt": "বালি খুব নরম।",
+    "ro": "Bāli khub norom.",
+    "lit": "sable · très · doux"
+   },
+   {
+    "fr": "Les vagues sont grosses aujourd'hui.",
+    "tgt": "আজ ঢেউ অনেক বড়।",
+    "ro": "Āj ḍheu onek boṛo.",
+    "lit": "aujourd'hui · vague · très · grande"
+   },
+   {
+    "fr": "On a le droit d'aller dans l'eau ici ?",
+    "tgt": "এখানে কি পানিতে নামা যায়?",
+    "ro": "Ekhāne ki pānite nāmā jāy?",
+    "lit": "ici · [question] · eau [dans] · descendre · se peut"
+   },
+   {
+    "fr": "Oui, mais pas trop loin.",
+    "tgt": "হ্যাঁ, কিন্তু বেশি দূরে না।",
+    "ro": "Hyāṃ, kintu beshi dūre nā.",
+    "lit": "oui · mais · trop · loin · non"
+   },
+   {
+    "fr": "Regardez, un drapeau rouge.",
+    "tgt": "দেখুন, একটা লাল পতাকা।",
+    "ro": "Dekhun, ekṭā lāl potākā.",
+    "lit": "regardez · un [classificateur] · rouge · drapeau"
+   },
+   {
+    "fr": "Aujourd'hui, la baignade est dangereuse.",
+    "tgt": "আজ পানিতে নামা বিপজ্জনক।",
+    "ro": "Āj pānite nāmā bipojjonok.",
+    "lit": "aujourd'hui · eau [dans] · descendre · dangereux"
+   },
+   {
+    "fr": "Je voudrais louer une chaise avec un parasol.",
+    "tgt": "আমি একটা ছাতা-চেয়ার ভাড়া নিতে চাই।",
+    "ro": "Āmi ekṭā chhātā-cheyār bhāṛā nite chāi.",
+    "lit": "je · un [classificateur] · parasol-chaise · location · prendre · veux"
+   },
+   {
+    "fr": "Le coucher de soleil est extraordinaire.",
+    "tgt": "সূর্যাস্তটা অসাধারণ।",
+    "ro": "Shūrjāstoṭā oshādhāron.",
+    "lit": "coucher de soleil [classificateur] · extraordinaire"
+   },
+   {
+    "fr": "Restons ici jusqu'au soir.",
+    "tgt": "চলুন সন্ধ্যা পর্যন্ত এখানে থাকি।",
+    "ro": "Cholun shondhyā porjonto ekhāne thāki.",
+    "lit": "allons · soir · jusqu'à · ici · restons"
+   }
+  ]
+ },
+ "0-1-9": {
+  "module": "En voyage",
+  "title": "Raconter sa journée",
+  "grammaire_de_la_lecon": "Le passé simple : « āmi gelām », « āpni gelen »",
+  "phrases": [
+   {
+    "fr": "Ce matin, je suis allé à la plage.",
+    "tgt": "আজ সকালে আমি বিচে গেলাম।",
+    "ro": "Āj shokāle āmi biche gelām.",
+    "lit": "aujourd'hui · matin [à] · je · plage [à] · suis allé"
+   },
+   {
+    "fr": "Et vous, où êtes-vous allé hier ?",
+    "tgt": "আর আপনি কাল কোথায় গেলেন?",
+    "ro": "Ār āpni kāl kothāy gelen?",
+    "lit": "et · vous · hier · où · êtes allé"
+   },
+   {
+    "fr": "Je suis allé au marché.",
+    "tgt": "আমি বাজারে গেলাম।",
+    "ro": "Āmi bājāre gelām.",
+    "lit": "je · marché [à] · suis allé"
+   },
+   {
+    "fr": "J'ai mangé du crabe.",
+    "tgt": "আমি কাঁকড়া খেলাম।",
+    "ro": "Āmi kāṃkṛā khelām.",
+    "lit": "je · crabe · ai mangé"
+   },
+   {
+    "fr": "Vous avez vu le coucher de soleil ?",
+    "tgt": "আপনি কি সূর্যাস্ত দেখলেন?",
+    "ro": "Āpni ki shūrjāsto dekhlen?",
+    "lit": "vous · [question] · coucher de soleil · avez vu"
+   },
+   {
+    "fr": "Oui, je l'ai vu depuis la plage.",
+    "tgt": "হ্যাঁ, বিচ থেকে দেখলাম।",
+    "ro": "Hyāṃ, bich theke dekhlām.",
+    "lit": "oui · plage · depuis · ai vu"
+   },
+   {
+    "fr": "Ensuite, je suis rentré à l'hôtel.",
+    "tgt": "তারপর হোটেলে ফিরলাম।",
+    "ro": "Tārpor hoṭele phirlām.",
+    "lit": "ensuite · hôtel [à] · suis revenu"
+   },
+   {
+    "fr": "Vous êtes rentré tard ?",
+    "tgt": "আপনি কি দেরিতে ফিরলেন?",
+    "ro": "Āpni ki derite phirlen?",
+    "lit": "vous · [question] · retard [en] · êtes revenu"
+   },
+   {
+    "fr": "Non, je suis rentré à neuf heures.",
+    "tgt": "না, নয়টায় ফিরলাম।",
+    "ro": "Nā, noyṭāy phirlām.",
+    "lit": "non · neuf [classificateur] [à] · suis revenu"
+   },
+   {
+    "fr": "Nous sommes allés ensemble à Himchari.",
+    "tgt": "আমরা একসাথে হিমছড়ি গেলাম।",
+    "ro": "Āmrā ekshāthe Himchhoṛi gelām.",
+    "lit": "nous · ensemble · Himchari · sommes allés"
+   }
+  ]
+ },
+ "0-1-10": {
+  "module": "En voyage",
+  "title": "Le poisson grillé du soir",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ce soir, nous mangeons du poisson grillé.",
+    "tgt": "আজ রাতে আমরা গ্রিল মাছ খাব।",
+    "ro": "Āj rāte āmrā gril māchh khābo.",
+    "lit": "aujourd'hui · nuit [à] · nous · grillé · poisson · mangerons"
+   },
+   {
+    "fr": "Les poissons sont présentés sur la glace.",
+    "tgt": "মাছগুলো বরফের উপর সাজানো।",
+    "ro": "Māchhgulo boropher upor shājāno.",
+    "lit": "poisson [pluriel] · glace [de] · sur · disposés"
+   },
+   {
+    "fr": "Ce poisson-là est très frais.",
+    "tgt": "ওই মাছটা খুব তাজা।",
+    "ro": "Oi māchhṭā khub tājā.",
+    "lit": "ce · poisson [classificateur] · très · frais"
+   },
+   {
+    "fr": "C'est un poisson de mer ?",
+    "tgt": "এটা কি সামুদ্রিক মাছ?",
+    "ro": "Eṭā ki shāmudrik māchh?",
+    "lit": "ceci · [question] · marin · poisson"
+   },
+   {
+    "fr": "Oui, pêché ce matin même.",
+    "tgt": "হ্যাঁ, আজ সকালেই ধরা।",
+    "ro": "Hyāṃ, āj shokālei dhorā.",
+    "lit": "oui · aujourd'hui · matin [à]-même · attrapé"
+   },
+   {
+    "fr": "Je prends celui-ci, avec du riz.",
+    "tgt": "আমি এটা নেব, ভাতের সাথে।",
+    "ro": "Āmi eṭā nebo, bhāter shāthe.",
+    "lit": "je · ceci · prendrai · riz [de] · avec"
+   },
+   {
+    "fr": "Pas trop pimenté, s'il vous plaît.",
+    "tgt": "দয়া করে বেশি ঝাল দেবেন না।",
+    "ro": "Doyā kore beshi jhāl deben nā.",
+    "lit": "bonté · en faisant · trop · piment · donnerez · non"
+   },
+   {
+    "fr": "Il faudra attendre combien de temps ?",
+    "tgt": "কতক্ষণ লাগবে?",
+    "ro": "Kotokkhon lāgbe?",
+    "lit": "combien de temps · il faudra"
+   },
+   {
+    "fr": "Environ vingt minutes.",
+    "tgt": "প্রায় বিশ মিনিট।",
+    "ro": "Prāy bish miniṭ.",
+    "lit": "environ · vingt · minute"
+   },
+   {
+    "fr": "C'est vraiment délicieux.",
+    "tgt": "খুব মজা হয়েছে।",
+    "ro": "Khub mojā hoyechhe.",
+    "lit": "très · bon goût · est devenu"
+   }
+  ]
+ },
+ "0-1-11": {
+  "module": "En voyage",
+  "title": "Demander son chemin",
+  "grammaire_de_la_lecon": "« Kībhābe » : comment, et comment aller quelque part",
+  "phrases": [
+   {
+    "fr": "Comment je vais à Inani ?",
+    "tgt": "ইনানী কীভাবে যাব?",
+    "ro": "Inānī kībhābe jābo?",
+    "lit": "Inani · comment · irai"
+   },
+   {
+    "fr": "Comment peut-on aller à la plage de Laboni ?",
+    "tgt": "লাবণী বিচে কীভাবে যাওয়া যায়?",
+    "ro": "Lābonī biche kībhābe jāoyā jāy?",
+    "lit": "Laboni · plage [à] · comment · aller · se peut"
+   },
+   {
+    "fr": "Prenez un CNG.",
+    "tgt": "সিএনজি নিন।",
+    "ro": "Si-en-ji nin.",
+    "lit": "CNG · prenez"
+   },
+   {
+    "fr": "Comment dit-on « plage » en bengali ?",
+    "tgt": "বিচকে বাংলায় কী বলে?",
+    "ro": "Bichke Bānglāy kī bole?",
+    "lit": "plage [à] · bengali [en] · quoi · on dit"
+   },
+   {
+    "fr": "On dit « shoikot ».",
+    "tgt": "সৈকত বলে।",
+    "ro": "Shoikot bole.",
+    "lit": "plage · on dit"
+   },
+   {
+    "fr": "Comment est-ce qu'on paie ici ?",
+    "tgt": "এখানে কীভাবে টাকা দিতে হয়?",
+    "ro": "Ekhāne kībhābe ṭākā dite hoy?",
+    "lit": "ici · comment · argent · donner · il faut"
+   },
+   {
+    "fr": "Allez tout droit, puis à gauche.",
+    "tgt": "সোজা যান, তারপর বামে।",
+    "ro": "Shojā jān, tārpor bāme.",
+    "lit": "droit · allez · ensuite · gauche [à]"
+   },
+   {
+    "fr": "Comment je rentre à l'hôtel ce soir ?",
+    "tgt": "আজ রাতে হোটেলে কীভাবে ফিরব?",
+    "ro": "Āj rāte hoṭele kībhābe phirbo?",
+    "lit": "aujourd'hui · nuit [à] · hôtel [à] · comment · reviendrai"
+   },
+   {
+    "fr": "Prenez un rickshaw, c'est tout simple.",
+    "tgt": "রিকশা নিন, খুব সহজ।",
+    "ro": "Rikshā nin, khub shohoj.",
+    "lit": "rickshaw · prenez · très · facile"
+   },
+   {
+    "fr": "Merci, c'est très aimable à vous.",
+    "tgt": "ধন্যবাদ, আপনি খুব দয়ালু।",
+    "ro": "Dhonnobād, āpni khub doyālu.",
+    "lit": "merci · vous · très · bienveillant"
+   }
+  ]
+ },
+ "0-1-12": {
+  "module": "En voyage",
+  "title": "Au restaurant de la plage",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Donnez-nous une table pour trois.",
+    "tgt": "তিনজনের জন্য একটা টেবিল দিন।",
+    "ro": "Tinjoner jonno ekṭā ṭebil din.",
+    "lit": "trois personnes [de] · pour · un [classificateur] · table · donnez"
+   },
+   {
+    "fr": "Vous pouvez nous donner le menu ?",
+    "tgt": "মেনুটা দেবেন?",
+    "ro": "Menuṭā deben?",
+    "lit": "menu [classificateur] · donnerez"
+   },
+   {
+    "fr": "Quel est votre meilleur plat ?",
+    "tgt": "আপনাদের সবচেয়ে ভালো খাবার কী?",
+    "ro": "Āpnāder shobcheye bhālo khābār kī?",
+    "lit": "vos · plus que tout · bon · plat · quoi"
+   },
+   {
+    "fr": "Le curry de crevettes est excellent.",
+    "tgt": "চিংড়ির তরকারি খুব ভালো।",
+    "ro": "Chingṛir torkāri khub bhālo.",
+    "lit": "crevette [de] · curry · très · bon"
+   },
+   {
+    "fr": "Je ne mange jamais de viande, moi.",
+    "tgt": "আমি মাংস খাই না।",
+    "ro": "Āmi māngsho khāi nā.",
+    "lit": "je · viande · mange · non"
+   },
+   {
+    "fr": "Donnez-moi une noix de coco fraîche.",
+    "tgt": "একটা ডাব দিন।",
+    "ro": "Ekṭā ḍāb din.",
+    "lit": "un [classificateur] · coco vert · donnez"
+   },
+   {
+    "fr": "L'eau de coco fait du bien.",
+    "tgt": "ডাবের পানি খুব আরামের।",
+    "ro": "Ḍāber pāni khub ārāmer.",
+    "lit": "coco vert [de] · eau · très · confort [de]"
+   },
+   {
+    "fr": "On peut avoir l'addition ?",
+    "tgt": "বিলটা দেবেন?",
+    "ro": "Bilṭā deben?",
+    "lit": "addition [classificateur] · donnerez"
+   },
+   {
+    "fr": "Ça fait six cents takas.",
+    "tgt": "ছয়শো টাকা হয়েছে।",
+    "ro": "Chhoysho ṭākā hoyechhe.",
+    "lit": "six-cents · takas · est devenu"
+   },
+   {
+    "fr": "Vous pouvez garder la monnaie.",
+    "tgt": "বাকিটা রেখে দিন।",
+    "ro": "Bākiṭā rekhe din.",
+    "lit": "reste [classificateur] · gardant · donnez"
+   }
+  ]
+ },
+ "0-1-13": {
+  "module": "En voyage",
+  "title": "Réserver le bateau pour Saint Martin",
+  "grammaire_de_la_lecon": "« Pāri » : pouvoir, et « pāri nā »",
+  "phrases": [
+   {
+    "fr": "Je peux acheter un billet de bateau ici ?",
+    "tgt": "আমি কি এখানে জাহাজের টিকিট কিনতে পারি?",
+    "ro": "Āmi ki ekhāne jāhājer ṭikiṭ kinte pāri?",
+    "lit": "je · [question] · ici · bateau [de] · billet · acheter · peux"
+   },
+   {
+    "fr": "Oui, vous pouvez l'acheter ici même.",
+    "tgt": "হ্যাঁ, এখানেই কিনতে পারেন।",
+    "ro": "Hyāṃ, ekhānei kinte pāren.",
+    "lit": "oui · ici-même · acheter · pouvez"
+   },
+   {
+    "fr": "Est-ce que je peux y aller demain matin ?",
+    "tgt": "কাল সকালে কি যেতে পারি?",
+    "ro": "Kāl shokāle ki jete pāri?",
+    "lit": "demain · matin [à] · [question] · aller · peux"
+   },
+   {
+    "fr": "Non, demain la mer sera agitée.",
+    "tgt": "না, কাল সাগর উত্তাল থাকবে।",
+    "ro": "Nā, kāl shāgor uttāl thākbe.",
+    "lit": "non · demain · mer · agitée · restera"
+   },
+   {
+    "fr": "Je ne peux pas attendre longtemps.",
+    "tgt": "আমি বেশিক্ষণ অপেক্ষা করতে পারি না।",
+    "ro": "Āmi beshikkhon opekkhā korte pāri nā.",
+    "lit": "je · longtemps · attente · faire · peux · non"
+   },
+   {
+    "fr": "Vous pouvez partir après-demain.",
+    "tgt": "আপনি পরশু যেতে পারেন।",
+    "ro": "Āpni porshu jete pāren.",
+    "lit": "vous · après-demain · aller · pouvez"
+   },
+   {
+    "fr": "Je ne sais pas bien parler bengali.",
+    "tgt": "আমি ভালো বাংলা বলতে পারি না।",
+    "ro": "Āmi bhālo Bānglā bolte pāri nā.",
+    "lit": "je · bien · bengali · parler · peux · non"
+   },
+   {
+    "fr": "Mais vous vous débrouillez déjà un peu.",
+    "tgt": "কিন্তু আপনি তো একটু পারেন।",
+    "ro": "Kintu āpni to ekṭu pāren.",
+    "lit": "mais · vous · [insistance] · un peu · pouvez"
+   },
+   {
+    "fr": "Je peux régler par carte ?",
+    "tgt": "কার্ডে কি দিতে পারি?",
+    "ro": "Kārḍe ki dite pāri?",
+    "lit": "carte [par] · [question] · donner · peux"
+   },
+   {
+    "fr": "Non, seulement en espèces.",
+    "tgt": "না, শুধু ক্যাশ।",
+    "ro": "Nā, shudhu kyāsh.",
+    "lit": "non · seulement · espèces"
+   }
+  ]
+ },
+ "0-1-14": {
+  "module": "En voyage",
+  "title": "Le bateau vers Saint Martin",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Le bateau part de Teknaf.",
+    "tgt": "জাহাজ টেকনাফ থেকে ছাড়ে।",
+    "ro": "Jāhāj Ṭeknāph theke chhāṛe.",
+    "lit": "bateau · Teknaf · depuis · part"
+   },
+   {
+    "fr": "La traversée prend deux heures.",
+    "tgt": "যেতে দুই ঘণ্টা লাগে।",
+    "ro": "Jete dui ghonṭā lāge.",
+    "lit": "aller · deux · heure · il faut"
+   },
+   {
+    "fr": "Je veux m'asseoir sur le pont.",
+    "tgt": "আমি ডেকে বসতে চাই।",
+    "ro": "Āmi ḍeke boshte chāi.",
+    "lit": "je · pont [sur] · s'asseoir · veux"
+   },
+   {
+    "fr": "Ici, ça souffle fort.",
+    "tgt": "এখানে খুব বাতাস।",
+    "ro": "Ekhāne khub bātāsh.",
+    "lit": "ici · très · vent"
+   },
+   {
+    "fr": "Regardez ces oiseaux blancs.",
+    "tgt": "দেখুন, ওই সাদা পাখিগুলো।",
+    "ro": "Dekhun, oi shādā pākhigulo.",
+    "lit": "regardez · ces · blanc · oiseau [pluriel]"
+   },
+   {
+    "fr": "Ce sont des mouettes.",
+    "tgt": "ওগুলো গাংচিল।",
+    "ro": "Ogulo gāngchil.",
+    "lit": "ceux-là · mouette"
+   },
+   {
+    "fr": "J'ai un peu la tête qui tourne.",
+    "tgt": "আমার একটু মাথা ঘুরছে।",
+    "ro": "Āmār ekṭu māthā ghurchhe.",
+    "lit": "ma · un peu · tête · tourne"
+   },
+   {
+    "fr": "Buvez de l'eau et regardez au loin.",
+    "tgt": "পানি খান আর দূরে তাকান।",
+    "ro": "Pāni khān ār dūre tākān.",
+    "lit": "eau · prenez · et · loin · regardez"
+   },
+   {
+    "fr": "On voit déjà l'île.",
+    "tgt": "দ্বীপটা দেখা যাচ্ছে।",
+    "ro": "Dīpṭā dekhā jāchchhe.",
+    "lit": "île [classificateur] · vue · va"
+   },
+   {
+    "fr": "L'eau est d'un très beau bleu.",
+    "tgt": "পানির রং খুব সুন্দর নীল।",
+    "ro": "Pānir rong khub shundor nīl.",
+    "lit": "eau [de] · couleur · très · beau · bleu"
+   }
+  ]
+ },
+ "0-1-15": {
+  "module": "En voyage",
+  "title": "Se déplacer en bus, en bateau, à vélo",
+  "grammaire_de_la_lecon": "« -e kore » : voyager en bus, en bateau, en train",
+  "phrases": [
+   {
+    "fr": "Nous sommes venus en bateau.",
+    "tgt": "আমরা জাহাজে করে এসেছি।",
+    "ro": "Āmrā jāhāje kore eshechhi.",
+    "lit": "nous · bateau [dans] · en faisant · sommes venus"
+   },
+   {
+    "fr": "Depuis Cox's Bazar, je suis allé en bus.",
+    "tgt": "কক্সবাজার থেকে বাসে করে গেলাম।",
+    "ro": "Koksbājār theke bāse kore gelām.",
+    "lit": "Cox's Bazar · depuis · bus [dans] · en faisant · suis allé"
+   },
+   {
+    "fr": "Sur l'île, nous circulons à vélo.",
+    "tgt": "দ্বীপে আমরা সাইকেলে করে ঘুরি।",
+    "ro": "Dīpe āmrā sāikele kore ghuri.",
+    "lit": "île [sur] · nous · vélo [dans] · en faisant · circulons"
+   },
+   {
+    "fr": "On peut aussi faire le tour en van.",
+    "tgt": "ভ্যানে করেও ঘোরা যায়।",
+    "ro": "Bhyāne koreo ghorā jāy.",
+    "lit": "van [dans] · en faisant-aussi · tourner · se peut"
+   },
+   {
+    "fr": "Moi, je préfère marcher.",
+    "tgt": "আমি হেঁটে যেতে পছন্দ করি।",
+    "ro": "Āmi heṃṭe jete pochhondo kori.",
+    "lit": "je · à pied · aller · préférence · fais"
+   },
+   {
+    "fr": "Vous êtes venu à Chittagong en train ?",
+    "tgt": "আপনি কি ট্রেনে করে চট্টগ্রাম এসেছেন?",
+    "ro": "Āpni ki ṭrene kore Choṭṭogrām eshechhen?",
+    "lit": "vous · [question] · train [dans] · en faisant · Chittagong · êtes venu"
+   },
+   {
+    "fr": "Non, je suis venu de Dhaka en avion.",
+    "tgt": "না, ঢাকা থেকে বিমানে করে এসেছি।",
+    "ro": "Nā, Ḍhākā theke bimāne kore eshechhi.",
+    "lit": "non · Dhaka · depuis · avion [dans] · en faisant · suis venu"
+   },
+   {
+    "fr": "En train, ça prend plus de temps, mais ça coûte moins cher.",
+    "tgt": "ট্রেনে করে গেলে সময় বেশি লাগে, কিন্তু খরচ কম।",
+    "ro": "Ṭrene kore gele shomoy beshi lāge, kintu khoroch kom.",
+    "lit": "train [dans] · en faisant · si on va · temps · plus · il faut · mais · dépense · moins"
+   },
+   {
+    "fr": "Cet après-midi, nous rentrons en barque.",
+    "tgt": "বিকেলে আমরা নৌকায় করে ফিরব।",
+    "ro": "Bikele āmrā noukāy kore phirbo.",
+    "lit": "après-midi [à] · nous · barque [dans] · en faisant · reviendrons"
+   },
+   {
+    "fr": "Un tour de l'île en barque, ça vous tente ?",
+    "tgt": "নৌকায় করে দ্বীপটা ঘুরবেন?",
+    "ro": "Noukāy kore dīpṭā ghurben?",
+    "lit": "barque [dans] · en faisant · île [classificateur] · tournerez"
+   }
+  ]
+ },
+ "0-1-16": {
+  "module": "En voyage",
+  "title": "Sur l'île de Saint Martin",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "L'île de Saint Martin est toute petite.",
+    "tgt": "সেন্ট মার্টিন দ্বীপটা খুব ছোট।",
+    "ro": "Senṭ Mārṭin dīpṭā khub chhoṭo.",
+    "lit": "Saint Martin · île [classificateur] · très · petite"
+   },
+   {
+    "fr": "Il y a des cocotiers partout.",
+    "tgt": "সব জায়গায় নারকেল গাছ।",
+    "ro": "Shob jāygāy nārkel gāchh.",
+    "lit": "tout · endroit [à] · coco · arbre"
+   },
+   {
+    "fr": "L'eau est claire comme du verre.",
+    "tgt": "পানি কাচের মতো স্বচ্ছ।",
+    "ro": "Pāni kācher moto shochchho.",
+    "lit": "eau · verre [de] · comme · transparente"
+   },
+   {
+    "fr": "On voit les poissons dans l'eau.",
+    "tgt": "পানিতে মাছ দেখা যায়।",
+    "ro": "Pānite māchh dekhā jāy.",
+    "lit": "eau [dans] · poisson · vue · va"
+   },
+   {
+    "fr": "Il y a des coraux près de la plage.",
+    "tgt": "সৈকতের কাছে প্রবাল আছে।",
+    "ro": "Shoikoter kāchhe probāl āchhe.",
+    "lit": "plage [de] · près · corail · il y a"
+   },
+   {
+    "fr": "Il ne faut pas toucher les coraux.",
+    "tgt": "প্রবাল ছোঁয়া যাবে না।",
+    "ro": "Probāl chhoṃyā jābe nā.",
+    "lit": "corail · toucher · ira · non"
+   },
+   {
+    "fr": "Ici, les gens sont pêcheurs.",
+    "tgt": "এখানকার মানুষ জেলে।",
+    "ro": "Ekhānkār mānush jele.",
+    "lit": "d'ici · gens · pêcheur"
+   },
+   {
+    "fr": "Ils sont très chaleureux.",
+    "tgt": "তারা খুব আন্তরিক।",
+    "ro": "Tārā khub āntorik.",
+    "lit": "ils · très · chaleureux"
+   },
+   {
+    "fr": "La nuit, le ciel est plein d'étoiles.",
+    "tgt": "রাতে আকাশ ভরা তারা।",
+    "ro": "Rāte ākāsh bhorā tārā.",
+    "lit": "nuit [à] · ciel · plein · étoile"
+   },
+   {
+    "fr": "Je n'ai pas envie de partir d'ici.",
+    "tgt": "আমি এখান থেকে যেতে চাই না।",
+    "ro": "Āmi ekhān theke jete chāi nā.",
+    "lit": "je · ici · depuis · aller · veux · non"
+   }
+  ]
+ },
+ "0-1-17": {
+  "module": "En voyage",
+  "title": "C'est loin ou c'est près ?",
+  "grammaire_de_la_lecon": "« Dūre » et « kāchhe » : loin et près",
+  "phrases": [
+   {
+    "fr": "L'hôtel est près de la plage ?",
+    "tgt": "হোটেলটা কি বিচের কাছে?",
+    "ro": "Hoṭelṭā ki bicher kāchhe?",
+    "lit": "hôtel [classificateur] · [question] · plage [de] · près"
+   },
+   {
+    "fr": "Oui, tout près, à deux minutes.",
+    "tgt": "হ্যাঁ, খুব কাছে, দুই মিনিট।",
+    "ro": "Hyāṃ, khub kāchhe, dui miniṭ.",
+    "lit": "oui · très · près · deux · minute"
+   },
+   {
+    "fr": "Y a-t-il une pharmacie dans les environs ?",
+    "tgt": "কাছাকাছি কোনো ফার্মেসি আছে?",
+    "ro": "Kāchhākāchhi kono phārmesi āchhe?",
+    "lit": "près-près · quelque · pharmacie · il y a"
+   },
+   {
+    "fr": "La pharmacie est un peu loin.",
+    "tgt": "ফার্মেসিটা একটু দূরে।",
+    "ro": "Phārmesiṭā ekṭu dūre.",
+    "lit": "pharmacie [classificateur] · un peu · loin"
+   },
+   {
+    "fr": "À pied, c'est loin ?",
+    "tgt": "হেঁটে কি অনেক দূর?",
+    "ro": "Heṃṭe ki onek dūr?",
+    "lit": "à pied · [question] · très · loin"
+   },
+   {
+    "fr": "Non, ce n'est pas loin.",
+    "tgt": "না, দূরে না।",
+    "ro": "Nā, dūre nā.",
+    "lit": "non · loin · non"
+   },
+   {
+    "fr": "Teknaf est très loin de Cox's Bazar.",
+    "tgt": "টেকনাফ কক্সবাজার থেকে অনেক দূরে।",
+    "ro": "Ṭeknāph Koksbājār theke onek dūre.",
+    "lit": "Teknaf · Cox's Bazar · depuis · très · loin"
+   },
+   {
+    "fr": "Mon ami habite près de Chittagong.",
+    "tgt": "আমার বন্ধু চট্টগ্রামের কাছে থাকে।",
+    "ro": "Āmār bondhu Choṭṭogrāmer kāchhe thāke.",
+    "lit": "mon · ami · Chittagong [de] · près · habite"
+   },
+   {
+    "fr": "Venez vous asseoir près de moi.",
+    "tgt": "আমার কাছে এসে বসুন।",
+    "ro": "Āmār kāchhe eshe boshun.",
+    "lit": "moi [de] · près · en venant · asseyez-vous"
+   },
+   {
+    "fr": "Ne nagez pas trop loin.",
+    "tgt": "বেশি দূরে সাঁতার কাটবেন না।",
+    "ro": "Beshi dūre shāṃtār kāṭben nā.",
+    "lit": "trop · loin · nage · couperez · non"
+   }
+  ]
+ },
+ "0-1-18": {
+  "module": "En voyage",
+  "title": "Le retour vers Chittagong",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Demain, nous rentrons à Chittagong.",
+    "tgt": "কাল আমরা চট্টগ্রাম ফিরব।",
+    "ro": "Kāl āmrā Choṭṭogrām phirbo.",
+    "lit": "demain · nous · Chittagong · reviendrons"
+   },
+   {
+    "fr": "Ce soir, il faut faire les bagages.",
+    "tgt": "আজ রাতে ব্যাগ গোছাতে হবে।",
+    "ro": "Āj rāte byāg gochhāte hobe.",
+    "lit": "aujourd'hui · nuit [à] · sac · ranger · il faudra"
+   },
+   {
+    "fr": "J'ai acheté des cadeaux pour ma famille.",
+    "tgt": "আমি পরিবারের জন্য উপহার কিনলাম।",
+    "ro": "Āmi poribārer jonno upohār kinlām.",
+    "lit": "je · famille [de] · pour · cadeau · ai acheté"
+   },
+   {
+    "fr": "J'ai aussi acheté du poisson séché.",
+    "tgt": "আমি শুঁটকিও কিনলাম।",
+    "ro": "Āmi shuṃṭkio kinlām.",
+    "lit": "je · poisson séché-aussi · ai acheté"
+   },
+   {
+    "fr": "Le sac sent très fort.",
+    "tgt": "ব্যাগে খুব গন্ধ।",
+    "ro": "Byāge khub gondho.",
+    "lit": "sac [dans] · très · odeur"
+   },
+   {
+    "fr": "Le bus part à huit heures du matin.",
+    "tgt": "বাস সকাল আটটায় ছাড়বে।",
+    "ro": "Bās shokāl āṭṭāy chhāṛbe.",
+    "lit": "bus · matin · huit [classificateur] [à] · partira"
+   },
+   {
+    "fr": "La mer va beaucoup me manquer.",
+    "tgt": "সমুদ্রের কথা খুব মনে পড়বে।",
+    "ro": "Shomudrer kothā khub mone poṛbe.",
+    "lit": "mer [de] · parole · beaucoup · esprit [dans] · tombera"
+   },
+   {
+    "fr": "Ce voyage était vraiment beau.",
+    "tgt": "এই ভ্রমণটা সত্যিই সুন্দর ছিল।",
+    "ro": "Ei bhromonṭā shottii shundor chhilo.",
+    "lit": "ce · voyage [classificateur] · vraiment · beau · était"
+   },
+   {
+    "fr": "Nous reviendrons l'année prochaine.",
+    "tgt": "আমরা আগামী বছর আবার আসব।",
+    "ro": "Āmrā āgāmī bochhor ābār āshbo.",
+    "lit": "nous · prochaine · année · encore · viendrons"
+   },
+   {
+    "fr": "Au revoir, Cox's Bazar !",
+    "tgt": "বিদায়, কক্সবাজার।",
+    "ro": "Bidāy, Koksbājār.",
+    "lit": "adieu · Cox's Bazar"
+   }
+  ]
+ },
+ "0-1-19": {
+  "module": "En voyage",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "« Āge » et « pore » : avant et après",
+  "phrases": [
+   {
+    "fr": "Avant ce module, je ne connaissais pas les mots du voyage.",
+    "tgt": "এই মডিউলের আগে আমি ভ্রমণের শব্দ জানতাম না।",
+    "ro": "Ei moḍiuler āge āmi bhromoner shobdo jāntām nā.",
+    "lit": "ce · module [de] · avant · je · voyage [de] · mot · savais · non"
+   },
+   {
+    "fr": "Maintenant, je peux acheter un billet en bengali.",
+    "tgt": "এখন আমি বাংলায় টিকিট কিনতে পারি।",
+    "ro": "Ekhon āmi Bānglāy ṭikiṭ kinte pāri.",
+    "lit": "maintenant · je · bengali [en] · billet · acheter · peux"
+   },
+   {
+    "fr": "Je sais aussi demander un prix.",
+    "tgt": "আমি দামও জিজ্ঞেস করতে পারি।",
+    "ro": "Āmi dāmo jiggesh korte pāri.",
+    "lit": "je · prix-aussi · question · faire · peux"
+   },
+   {
+    "fr": "Achetez votre billet avant le départ.",
+    "tgt": "যাত্রার আগে টিকিট কিনুন।",
+    "ro": "Jātrār āge ṭikiṭ kinun.",
+    "lit": "voyage [de] · avant · billet · achetez"
+   },
+   {
+    "fr": "Après le repas, on marche un peu sur la plage.",
+    "tgt": "খাওয়ার পরে বিচে একটু হাঁটি।",
+    "ro": "Khāoyār pore biche ekṭu hāṃṭi.",
+    "lit": "manger [de] · après · plage [sur] · un peu · marchons"
+   },
+   {
+    "fr": "Deux jours après, nous sommes allés à Saint Martin.",
+    "tgt": "দুই দিন পরে আমরা সেন্ট মার্টিন গেলাম।",
+    "ro": "Dui din pore āmrā Senṭ Mārṭin gelām.",
+    "lit": "deux · jour · après · nous · Saint Martin · sommes allés"
+   },
+   {
+    "fr": "Le bengali devient plus facile chaque jour.",
+    "tgt": "বাংলা প্রতিদিন আরও সহজ হচ্ছে।",
+    "ro": "Bānglā protidin āro shohoj hochchhe.",
+    "lit": "bengali · chaque jour · plus · facile · devient"
+   },
+   {
+    "fr": "Avant le prochain module, pratiquons un peu.",
+    "tgt": "পরের মডিউলের আগে একটু অনুশীলন করি।",
+    "ro": "Porer moḍiuler āge ekṭu onushīlon kori.",
+    "lit": "suivant · module [de] · avant · un peu · pratique · faisons"
+   },
+   {
+    "fr": "Après, place aux conversations avec les gens.",
+    "tgt": "এরপর আমরা মানুষের সাথে কথা বলব।",
+    "ro": "Erpor āmrā mānusher shāthe kothā bolbo.",
+    "lit": "après ceci · nous · gens [de] · avec · parole · dirons"
+   },
+   {
+    "fr": "Bravo, on se retrouve bientôt.",
+    "tgt": "সাবাশ, আবার দেখা হবে।",
+    "ro": "Shābāsh, ābār dekhā hobe.",
+    "lit": "bravo · encore · rencontre · sera"
+   }
+  ]
+ },
+ "0-2-0": {
+  "module": "Conversation sociale",
+  "title": "Faire connaissance à Sylhet",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Je suis nouveau à Sylhet.",
+    "tgt": "আমি সিলেটে নতুন।",
+    "ro": "Āmi Sileṭe notun.",
+    "lit": "je · Sylhet[à] · nouveau"
+   },
+   {
+    "fr": "Et toi, ta maison est où ?",
+    "tgt": "তোমার বাড়ি কোথায়?",
+    "ro": "Tomār bāṛi kothāy?",
+    "lit": "ta · maison · où"
+   },
+   {
+    "fr": "Je suis français, de Paris.",
+    "tgt": "আমি ফরাসি, প্যারিস থেকে।",
+    "ro": "Āmi pharāsi, Pyāris theke.",
+    "lit": "je · français · Paris · [depuis]"
+   },
+   {
+    "fr": "Tu es d'ici, de Sylhet ?",
+    "tgt": "তুমি কি সিলেটের মানুষ?",
+    "ro": "Tumi ki Sileṭer mānush?",
+    "lit": "tu · [question] · Sylhet[de] · personne"
+   },
+   {
+    "fr": "Oui, je suis d'ici même.",
+    "tgt": "হ্যাঁ, আমার বাড়ি এখানেই।",
+    "ro": "Hyāṃ, āmār bāṛi ekhānei.",
+    "lit": "oui · ma · maison · ici-même"
+   },
+   {
+    "fr": "Tu habites où, à Sylhet ?",
+    "tgt": "তুমি সিলেটে কোথায় থাকো?",
+    "ro": "Tumi Sileṭe kothāy thāko?",
+    "lit": "tu · Sylhet[à] · où · habites"
+   },
+   {
+    "fr": "J'habite près de la rivière Surma.",
+    "tgt": "আমি সুরমা নদীর কাছে থাকি।",
+    "ro": "Āmi Surmā nodir kāchhe thāki.",
+    "lit": "je · Surma · rivière[de] · près · habite"
+   },
+   {
+    "fr": "Ça me fait plaisir de faire ta connaissance.",
+    "tgt": "তোমার সাথে পরিচয় হয়ে ভালো লাগলো।",
+    "ro": "Tomār shāthe porichoy hoye bhālo lāglo.",
+    "lit": "toi[de] · [avec] · connaissance · s'étant-faite · bon · a-semblé"
+   },
+   {
+    "fr": "Moi aussi, ça m'a fait très plaisir.",
+    "tgt": "আমারও খুব ভালো লাগলো।",
+    "ro": "Āmāro khub bhālo lāglo.",
+    "lit": "à-moi-aussi · très · bon · a-semblé"
+   },
+   {
+    "fr": "Tu parles bien le bengali.",
+    "tgt": "তুমি ভালো বাংলা বলো।",
+    "ro": "Tumi bhālo Bāṃlā bolo.",
+    "lit": "tu · bon · bengali · parles"
+   }
+  ]
+ },
+ "0-2-1": {
+  "module": "Conversation sociale",
+  "title": "Dire son nom",
+  "grammaire_de_la_lecon": "« Āmār nām… » : se présenter",
+  "phrases": [
+   {
+    "fr": "C'est quoi, ton nom ?",
+    "tgt": "তোমার নাম কী?",
+    "ro": "Tomār nām kī?",
+    "lit": "ton · nom · quoi"
+   },
+   {
+    "fr": "Mon nom, c'est Marc.",
+    "tgt": "আমার নাম মার্ক।",
+    "ro": "Āmār nām Mārk.",
+    "lit": "mon · nom · Marc"
+   },
+   {
+    "fr": "Et toi, ton nom ?",
+    "tgt": "আর তোমার নাম?",
+    "ro": "Ār tomār nām?",
+    "lit": "et · ton · nom"
+   },
+   {
+    "fr": "Moi, c'est Roni.",
+    "tgt": "আমি রনি।",
+    "ro": "Āmi Roni.",
+    "lit": "je · Roni"
+   },
+   {
+    "fr": "Mon amie s'appelle Mitu.",
+    "tgt": "আমার বন্ধুর নাম মিতু।",
+    "ro": "Āmār bondhur nām Mitu.",
+    "lit": "mon · ami[de] · nom · Mitu"
+   },
+   {
+    "fr": "C'est un très joli nom.",
+    "tgt": "খুব সুন্দর নাম।",
+    "ro": "Khub shundor nām.",
+    "lit": "très · beau · nom"
+   },
+   {
+    "fr": "Que veut dire ton nom ?",
+    "tgt": "তোমার নামের মানে কী?",
+    "ro": "Tomār nāmer māne kī?",
+    "lit": "ton · nom[de] · sens · quoi"
+   },
+   {
+    "fr": "Je suis Marc, je viens de France.",
+    "tgt": "আমি মার্ক, ফ্রান্স থেকে।",
+    "ro": "Āmi Mārk, Phrāns theke.",
+    "lit": "je · Marc · France · [depuis]"
+   },
+   {
+    "fr": "Ton nom est facile à dire.",
+    "tgt": "তোমার নাম বলা সহজ।",
+    "ro": "Tomār nām bolā shohoj.",
+    "lit": "ton · nom · dire · facile"
+   },
+   {
+    "fr": "Et le nom de ton frère ?",
+    "tgt": "আর তোমার ভাইয়ের নাম?",
+    "ro": "Ār tomār bhāiyer nām?",
+    "lit": "et · ton · frère[de] · nom"
+   }
+  ]
+ },
+ "0-2-2": {
+  "module": "Conversation sociale",
+  "title": "Parler de son travail",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Tu fais quoi, dans la vie ?",
+    "tgt": "তুমি কী কাজ করো?",
+    "ro": "Tumi kī kāj koro?",
+    "lit": "tu · quel · travail · fais"
+   },
+   {
+    "fr": "Moi, je suis professeur de français.",
+    "tgt": "আমি ফরাসি ভাষার শিক্ষক।",
+    "ro": "Āmi pharāsi bhāshār shikkhok.",
+    "lit": "je · français · langue[de] · professeur"
+   },
+   {
+    "fr": "Je travaille dans une plantation de thé.",
+    "tgt": "আমি একটা চা বাগানে কাজ করি।",
+    "ro": "Āmi ekṭā chā bāgāne kāj kori.",
+    "lit": "je · un[classificateur] · thé · jardin[dans] · travail · fais"
+   },
+   {
+    "fr": "Ce travail, il est difficile ?",
+    "tgt": "কাজটা কি কঠিন?",
+    "ro": "Kājṭā ki koṭhin?",
+    "lit": "travail[classificateur] · [question] · difficile"
+   },
+   {
+    "fr": "Un peu, mais ça me plaît.",
+    "tgt": "একটু, কিন্তু ভালো লাগে।",
+    "ro": "Ekṭu, kintu bhālo lāge.",
+    "lit": "un-peu · mais · bon · semble"
+   },
+   {
+    "fr": "Je travaille dans un bureau à Dhaka.",
+    "tgt": "আমি ঢাকায় একটা অফিসে কাজ করি।",
+    "ro": "Āmi Ḍhākāy ekṭā ophise kāj kori.",
+    "lit": "je · Dhaka[à] · un[classificateur] · bureau[dans] · travail · fais"
+   },
+   {
+    "fr": "Ma femme est médecin.",
+    "tgt": "আমার স্ত্রী ডাক্তার।",
+    "ro": "Āmār stri ḍāktār.",
+    "lit": "mon · épouse · médecin"
+   },
+   {
+    "fr": "Le vendredi, tu travailles ?",
+    "tgt": "তুমি কি শুক্রবারে কাজ করো?",
+    "ro": "Tumi ki shukrobāre kāj koro?",
+    "lit": "tu · [question] · vendredi[à] · travail · fais"
+   },
+   {
+    "fr": "Non, le vendredi, je me repose.",
+    "tgt": "না, শুক্রবার আমি বিশ্রাম নিই।",
+    "ro": "Nā, shukrobār āmi bishrām nii.",
+    "lit": "non · vendredi · je · repos · prends"
+   },
+   {
+    "fr": "Il est vraiment chouette, ton travail.",
+    "tgt": "তোমার কাজটা খুব মজার।",
+    "ro": "Tomār kājṭā khub mojār.",
+    "lit": "ton · travail[classificateur] · très · amusant"
+   }
+  ]
+ },
+ "0-2-3": {
+  "module": "Conversation sociale",
+  "title": "Ce qui nous plaît",
+  "grammaire_de_la_lecon": "« Bhālo lāge » : aimer, ça me plaît",
+  "phrases": [
+   {
+    "fr": "J'aime le thé de Sylhet.",
+    "tgt": "আমার সিলেটের চা ভালো লাগে।",
+    "ro": "Āmār Sileṭer chā bhālo lāge.",
+    "lit": "à-moi · Sylhet[de] · thé · bon · semble"
+   },
+   {
+    "fr": "Tu aimes la pluie ?",
+    "tgt": "তোমার কি বৃষ্টি ভালো লাগে?",
+    "ro": "Tomār ki brishṭi bhālo lāge?",
+    "lit": "à-toi · [question] · pluie · bon · semble"
+   },
+   {
+    "fr": "Oui, la pluie me plaît beaucoup.",
+    "tgt": "হ্যাঁ, বৃষ্টি আমার খুব ভালো লাগে।",
+    "ro": "Hyāṃ, brishṭi āmār khub bhālo lāge.",
+    "lit": "oui · pluie · à-moi · très · bon · semble"
+   },
+   {
+    "fr": "Le froid, ça ne me plaît pas.",
+    "tgt": "আমার শীত ভালো লাগে না।",
+    "ro": "Āmār shīt bhālo lāge nā.",
+    "lit": "à-moi · froid · bon · semble · pas"
+   },
+   {
+    "fr": "Qu'est-ce qui te plaît ici ?",
+    "tgt": "এখানে তোমার কী ভালো লাগে?",
+    "ro": "Ekhāne tomār kī bhālo lāge?",
+    "lit": "ici · à-toi · quoi · bon · semble"
+   },
+   {
+    "fr": "J'aime les gens et les collines.",
+    "tgt": "আমার মানুষ আর পাহাড় ভালো লাগে।",
+    "ro": "Āmār mānush ār pāhāṛ bhālo lāge.",
+    "lit": "à-moi · gens · et · colline · bon · semble"
+   },
+   {
+    "fr": "Ça te plaît, Sylhet ?",
+    "tgt": "সিলেট তোমার ভালো লাগে?",
+    "ro": "Sileṭ tomār bhālo lāge?",
+    "lit": "Sylhet · à-toi · bon · semble"
+   },
+   {
+    "fr": "J'aime marcher le soir.",
+    "tgt": "আমার সন্ধ্যায় হাঁটতে ভালো লাগে।",
+    "ro": "Āmār shondhāy hāṃṭte bhālo lāge.",
+    "lit": "à-moi · soir[à] · marcher · bon · semble"
+   },
+   {
+    "fr": "Mon frère n'aime pas le poisson.",
+    "tgt": "আমার ভাইয়ের মাছ ভালো লাগে না।",
+    "ro": "Āmār bhāiyer māchh bhālo lāge nā.",
+    "lit": "mon · frère[à] · poisson · bon · semble · pas"
+   },
+   {
+    "fr": "La musique d'ici me plaît beaucoup.",
+    "tgt": "এখানকার গান আমার খুব ভালো লাগে।",
+    "ro": "Ekhānkār gān āmār khub bhālo lāge.",
+    "lit": "d'ici · chanson · à-moi · très · bon · semble"
+   }
+  ]
+ },
+ "0-2-4": {
+  "module": "Conversation sociale",
+  "title": "Dans une plantation de thé",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Cette plantation de thé est immense.",
+    "tgt": "এই চা বাগানটা অনেক বড়।",
+    "ro": "Ei chā bāgānṭā onek boṛo.",
+    "lit": "ce · thé · jardin[classificateur] · très · grand"
+   },
+   {
+    "fr": "Regarde, les collines sont toutes vertes.",
+    "tgt": "দেখো, পাহাড়গুলো সব সবুজ।",
+    "ro": "Dekho, pāhāṛgulo shob shobuj.",
+    "lit": "regarde · colline[pluriel] · tout · vert"
+   },
+   {
+    "fr": "Les ouvriers cueillent les feuilles le matin.",
+    "tgt": "শ্রমিকরা সকালে পাতা তোলে।",
+    "ro": "Shromikrā shokāle pātā tole.",
+    "lit": "ouvrier[pluriel] · matin[à] · feuille · cueillent"
+   },
+   {
+    "fr": "Ils cueillent deux feuilles et un bourgeon.",
+    "tgt": "ওরা দুটো পাতা আর একটা কুঁড়ি তোলে।",
+    "ro": "Orā duṭo pātā ār ekṭā kuṃṛi tole.",
+    "lit": "ils · deux[classificateur] · feuille · et · un[classificateur] · bourgeon · cueillent"
+   },
+   {
+    "fr": "Ce thé sent vraiment bon.",
+    "tgt": "এই চায়ের গন্ধটা খুব সুন্দর।",
+    "ro": "Ei chāyer gondhoṭā khub shundor.",
+    "lit": "ce · thé[de] · odeur[classificateur] · très · beau"
+   },
+   {
+    "fr": "Tu veux un peu de thé ?",
+    "tgt": "তুমি কি একটু চা চাও?",
+    "ro": "Tumi ki ekṭu chā chāo?",
+    "lit": "tu · [question] · un-peu · thé · veux"
+   },
+   {
+    "fr": "Oui, avec juste un peu de lait.",
+    "tgt": "হ্যাঁ, একটু দুধ দিয়ে।",
+    "ro": "Hyāṃ, ekṭu dudh diye.",
+    "lit": "oui · un-peu · lait · [avec]"
+   },
+   {
+    "fr": "Srimangal est la capitale du thé.",
+    "tgt": "শ্রীমঙ্গল চায়ের রাজধানী।",
+    "ro": "Shrimongol chāyer rājdhāni.",
+    "lit": "Srimangal · thé[de] · capitale"
+   },
+   {
+    "fr": "Ici, le thé aux sept couleurs est célèbre.",
+    "tgt": "এখানে সাত রঙের চা বিখ্যাত।",
+    "ro": "Ekhāne shāt ronger chā bikkhāto.",
+    "lit": "ici · sept · couleur[de] · thé · célèbre"
+   },
+   {
+    "fr": "Sous les arbres, il fait bien frais.",
+    "tgt": "গাছের নিচে বেশ ঠান্ডা।",
+    "ro": "Gāchher niche besh ṭhānḍā.",
+    "lit": "arbre[de] · sous · assez · frais"
+   }
+  ]
+ },
+ "0-2-5": {
+  "module": "Conversation sociale",
+  "title": "Parler de sa famille",
+  "grammaire_de_la_lecon": "La famille : « mā », « bābā », « bhāi », « bon »",
+  "phrases": [
+   {
+    "fr": "Je te présente ma mère.",
+    "tgt": "ইনি আমার মা।",
+    "ro": "Ini āmār mā.",
+    "lit": "elle[respect] · ma · mère"
+   },
+   {
+    "fr": "Mon père, lui, est professeur.",
+    "tgt": "আমার বাবা শিক্ষক।",
+    "ro": "Āmār bābā shikkhok.",
+    "lit": "mon · père · professeur"
+   },
+   {
+    "fr": "Tu as un frère ou une sœur ?",
+    "tgt": "তোমার কি ভাই বা বোন আছে?",
+    "ro": "Tomār ki bhāi bā bon āchhe?",
+    "lit": "à-toi · [question] · frère · ou · sœur · il-y-a"
+   },
+   {
+    "fr": "J'ai un frère et deux sœurs.",
+    "tgt": "আমার এক ভাই আর দুই বোন।",
+    "ro": "Āmār ek bhāi ār dui bon.",
+    "lit": "à-moi · un · frère · et · deux · sœur"
+   },
+   {
+    "fr": "Mon frère habite à Dhaka.",
+    "tgt": "আমার ভাই ঢাকায় থাকে।",
+    "ro": "Āmār bhāi Ḍhākāy thāke.",
+    "lit": "mon · frère · Dhaka[à] · habite"
+   },
+   {
+    "fr": "Ma sœur est encore étudiante.",
+    "tgt": "আমার বোন এখনও ছাত্রী।",
+    "ro": "Āmār bon ekhono chhātri.",
+    "lit": "ma · sœur · encore · étudiante"
+   },
+   {
+    "fr": "Tes parents vont bien ?",
+    "tgt": "তোমার মা-বাবা ভালো আছেন?",
+    "ro": "Tomār mā-bābā bhālo āchhen?",
+    "lit": "tes · mère-père · bien · sont[respect]"
+   },
+   {
+    "fr": "Oui, ma mère et mon père vont bien tous les deux.",
+    "tgt": "হ্যাঁ, মা আর বাবা দুজনেই ভালো আছেন।",
+    "ro": "Hyāṃ, mā ār bābā dujonei bhālo āchhen.",
+    "lit": "oui · mère · et · père · tous-les-deux · bien · sont[respect]"
+   },
+   {
+    "fr": "Mon petit frère adore les pithas.",
+    "tgt": "আমার ছোট ভাই পিঠা খুব ভালোবাসে।",
+    "ro": "Āmār chhoṭo bhāi piṭhā khub bhālobāshe.",
+    "lit": "mon · petit · frère · pitha · très · aime"
+   },
+   {
+    "fr": "Comment s'appelle ta grande sœur ?",
+    "tgt": "তোমার বড় বোনের নাম কী?",
+    "ro": "Tomār boṛo boner nām kī?",
+    "lit": "ta · grande · sœur[de] · nom · quoi"
+   }
+  ]
+ },
+ "0-2-6": {
+  "module": "Conversation sociale",
+  "title": "Une invitation à dîner",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ce soir, tu as le temps ?",
+    "tgt": "আজ সন্ধ্যায় তোমার সময় আছে?",
+    "ro": "Āj shondhāy tomār shomoy āchhe?",
+    "lit": "aujourd'hui · soir[à] · à-toi · temps · il-y-a"
+   },
+   {
+    "fr": "Viens dîner chez nous ce soir.",
+    "tgt": "আমাদের বাড়িতে রাতে খেতে এসো।",
+    "ro": "Āmāder bāṛite rāte khete esho.",
+    "lit": "notre · maison[à] · nuit[à] · manger · viens"
+   },
+   {
+    "fr": "Bien sûr, merci beaucoup.",
+    "tgt": "অবশ্যই, অনেক ধন্যবাদ।",
+    "ro": "Oboshshoi, onek dhonnobād.",
+    "lit": "bien-sûr · beaucoup · merci"
+   },
+   {
+    "fr": "Elle est où, votre maison ?",
+    "tgt": "তোমাদের বাড়ি কোথায়?",
+    "ro": "Tomāder bāṛi kothāy?",
+    "lit": "votre · maison · où"
+   },
+   {
+    "fr": "Près du pont Keane.",
+    "tgt": "কিন ব্রিজের কাছে।",
+    "ro": "Kin brijer kāchhe.",
+    "lit": "Keane · pont[de] · près"
+   },
+   {
+    "fr": "On dîne à quelle heure ?",
+    "tgt": "রাতের খাবার কয়টায়?",
+    "ro": "Rāter khābār koyṭāy?",
+    "lit": "nuit[de] · repas · quelle-heure[à]"
+   },
+   {
+    "fr": "Vers huit heures, ça te va ?",
+    "tgt": "আটটার দিকে, ঠিক আছে?",
+    "ro": "Āṭṭār dike, ṭhik āchhe?",
+    "lit": "huit-heures[de] · vers · juste · est"
+   },
+   {
+    "fr": "Je viens avec mon ami.",
+    "tgt": "আমি আমার বন্ধুকে নিয়ে আসছি।",
+    "ro": "Āmi āmār bondhuke niye āschhi.",
+    "lit": "je · mon · ami[-ke] · emmenant · viens"
+   },
+   {
+    "fr": "Ce soir, toute ma famille est à la maison.",
+    "tgt": "আজ সন্ধ্যায় আমার পুরো পরিবার বাড়িতে।",
+    "ro": "Āj shondhāy āmār puro poribār bāṛite.",
+    "lit": "aujourd'hui · soir[à] · ma · entière · famille · maison[à]"
+   },
+   {
+    "fr": "Mille mercis pour ton invitation.",
+    "tgt": "দাওয়াতের জন্য অনেক ধন্যবাদ।",
+    "ro": "Dāoyāter jonno onek dhonnobād.",
+    "lit": "invitation[de] · pour · beaucoup · merci"
+   }
+  ]
+ },
+ "0-2-7": {
+  "module": "Conversation sociale",
+  "title": "Ce qu'on fait en ce moment",
+  "grammaire_de_la_lecon": "Le présent continu : « āmi khāchchhi », je suis en train de manger",
+  "phrases": [
+   {
+    "fr": "Qu'est-ce que tu fais, là ?",
+    "tgt": "তুমি কী করছ?",
+    "ro": "Tumi kī korchho?",
+    "lit": "tu · quoi · es-en-train-de-faire"
+   },
+   {
+    "fr": "Je suis en train de manger du riz.",
+    "tgt": "আমি ভাত খাচ্ছি।",
+    "ro": "Āmi bhāt khāchchhi.",
+    "lit": "je · riz · suis-en-train-de-manger"
+   },
+   {
+    "fr": "Ma mère est en train de cuisiner le poisson.",
+    "tgt": "মা মাছ রান্না করছেন।",
+    "ro": "Mā māchh rānnā korchhen.",
+    "lit": "mère · poisson · cuisine · est-en-train-de-faire[respect]"
+   },
+   {
+    "fr": "Mon père est en train de boire son thé.",
+    "tgt": "বাবা চা খাচ্ছেন।",
+    "ro": "Bābā chā khāchchhen.",
+    "lit": "père · thé · est-en-train-de-manger[respect]"
+   },
+   {
+    "fr": "Les enfants jouent dans la cour.",
+    "tgt": "বাচ্চারা উঠানে খেলছে।",
+    "ro": "Bāchchārā uṭhāne khelchhe.",
+    "lit": "enfant[pluriel] · cour[dans] · sont-en-train-de-jouer"
+   },
+   {
+    "fr": "Tu attends quelqu'un ?",
+    "tgt": "তুমি কি কারও জন্য অপেক্ষা করছ?",
+    "ro": "Tumi ki kāro jonno opekkhā korchho?",
+    "lit": "tu · [question] · quelqu'un · pour · attente · es-en-train-de-faire"
+   },
+   {
+    "fr": "Oui, j'attends ma sœur.",
+    "tgt": "হ্যাঁ, আমার বোনের জন্য অপেক্ষা করছি।",
+    "ro": "Hyāṃ, āmār boner jonno opekkhā korchhi.",
+    "lit": "oui · ma · sœur[de] · pour · attente · suis-en-train-de-faire"
+   },
+   {
+    "fr": "Elle est en route.",
+    "tgt": "ও আসছে।",
+    "ro": "O āschhe.",
+    "lit": "elle · est-en-train-de-venir"
+   },
+   {
+    "fr": "Dehors, il est en train de pleuvoir.",
+    "tgt": "বাইরে বৃষ্টি হচ্ছে।",
+    "ro": "Bāire brishṭi hochchhe.",
+    "lit": "dehors · pluie · est-en-train-de-se-faire"
+   },
+   {
+    "fr": "Nous sommes en train de parler de Sylhet.",
+    "tgt": "আমরা সিলেট নিয়ে কথা বলছি।",
+    "ro": "Āmrā Sileṭ niye kothā bolchhi.",
+    "lit": "nous · Sylhet · [au sujet de] · parole · sommes-en-train-de-dire"
+   }
+  ]
+ },
+ "0-2-8": {
+  "module": "Conversation sociale",
+  "title": "Le riz au poisson",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Le riz au poisson, c'est notre plat préféré.",
+    "tgt": "মাছ-ভাত আমাদের প্রিয় খাবার।",
+    "ro": "Māchh-bhāt āmāder priyo khābār.",
+    "lit": "poisson-riz · notre · préféré · nourriture"
+   },
+   {
+    "fr": "Ce poisson vient de la rivière.",
+    "tgt": "এই মাছটা নদীর।",
+    "ro": "Ei māchhṭā nodir.",
+    "lit": "ce · poisson[classificateur] · rivière[de]"
+   },
+   {
+    "fr": "C'est quel poisson, celui-ci ?",
+    "tgt": "এটা কী মাছ?",
+    "ro": "Eṭā kī māchh?",
+    "lit": "ceci · quel · poisson"
+   },
+   {
+    "fr": "C'est du rui, un poisson de rivière.",
+    "tgt": "এটা রুই, নদীর মাছ।",
+    "ro": "Eṭā rui, nodir māchh.",
+    "lit": "ceci · rui · rivière[de] · poisson"
+   },
+   {
+    "fr": "La sauce est un peu piquante.",
+    "tgt": "ঝোলটা একটু ঝাল।",
+    "ro": "Jholṭā ekṭu jhāl.",
+    "lit": "sauce[classificateur] · un-peu · piquant"
+   },
+   {
+    "fr": "Je mange avec la main.",
+    "tgt": "আমি হাত দিয়ে খাই।",
+    "ro": "Āmi hāt diye khāi.",
+    "lit": "je · main · [avec] · mange"
+   },
+   {
+    "fr": "Encore un peu de riz ?",
+    "tgt": "আরেকটু ভাত?",
+    "ro": "Ārekṭu bhāt?",
+    "lit": "encore-un-peu · riz"
+   },
+   {
+    "fr": "Non merci, j'ai le ventre plein.",
+    "tgt": "না, ধন্যবাদ, আমার পেট ভরা।",
+    "ro": "Nā, dhonnobād, āmār peṭ bhorā.",
+    "lit": "non · merci · mon · ventre · plein"
+   },
+   {
+    "fr": "Le dal aussi est délicieux.",
+    "tgt": "ডালটাও খুব মজা।",
+    "ro": "Ḍālṭāo khub mojā.",
+    "lit": "dal[classificateur]-aussi · très · délicieux"
+   },
+   {
+    "fr": "Ta mère cuisine très bien.",
+    "tgt": "তোমার মা খুব ভালো রান্না করেন।",
+    "ro": "Tomār mā khub bhālo rānnā koren.",
+    "lit": "ta · mère · très · bien · cuisine · fait[respect]"
+   }
+  ]
+ },
+ "0-2-9": {
+  "module": "Conversation sociale",
+  "title": "Comparer Sylhet et Dhaka",
+  "grammaire_de_la_lecon": "Comparer avec « cheye » : plus que",
+  "phrases": [
+   {
+    "fr": "Sylhet est plus vert que Dhaka.",
+    "tgt": "ঢাকার চেয়ে সিলেট বেশি সবুজ।",
+    "ro": "Ḍhākār cheye Sileṭ beshi shobuj.",
+    "lit": "Dhaka[de] · que · Sylhet · plus · vert"
+   },
+   {
+    "fr": "Dhaka est plus grand que Sylhet.",
+    "tgt": "সিলেটের চেয়ে ঢাকা বড়।",
+    "ro": "Sileṭer cheye Ḍhākā boṛo.",
+    "lit": "Sylhet[de] · que · Dhaka · grand"
+   },
+   {
+    "fr": "Pour moi, le thé vaut mieux que le café.",
+    "tgt": "আমার কাছে কফির চেয়ে চা ভালো।",
+    "ro": "Āmār kāchhe kophir cheye chā bhālo.",
+    "lit": "moi[de] · auprès · café[de] · que · thé · bon"
+   },
+   {
+    "fr": "Mon frère est plus grand que moi, en taille.",
+    "tgt": "আমার ভাই আমার চেয়ে লম্বা।",
+    "ro": "Āmār bhāi āmār cheye lombā.",
+    "lit": "mon · frère · moi[de] · que · grand"
+   },
+   {
+    "fr": "Ma sœur est plus jeune que toi.",
+    "tgt": "আমার বোন তোমার চেয়ে ছোট।",
+    "ro": "Āmār bon tomār cheye chhoṭo.",
+    "lit": "ma · sœur · toi[de] · que · petit"
+   },
+   {
+    "fr": "Le poisson coûte plus cher que le riz.",
+    "tgt": "ভাতের চেয়ে মাছের দাম বেশি।",
+    "ro": "Bhāter cheye māchher dām beshi.",
+    "lit": "riz[de] · que · poisson[de] · prix · plus"
+   },
+   {
+    "fr": "Sylhet est plus calme que Paris.",
+    "tgt": "প্যারিসের চেয়ে সিলেট শান্ত।",
+    "ro": "Pyāriser cheye Sileṭ shānto.",
+    "lit": "Paris[de] · que · Sylhet · calme"
+   },
+   {
+    "fr": "Entre toi et ton frère, qui est l'aîné ?",
+    "tgt": "তোমার আর তোমার ভাইয়ের মধ্যে কে বড়?",
+    "ro": "Tomār ār tomār bhāiyer moddhe ke boṛo?",
+    "lit": "toi[de] · et · ton · frère[de] · entre · qui · grand"
+   },
+   {
+    "fr": "Les pithas sont plus sucrés que le pain.",
+    "tgt": "রুটির চেয়ে পিঠা বেশি মিষ্টি।",
+    "ro": "Ruṭir cheye piṭhā beshi mishṭi.",
+    "lit": "pain[de] · que · pitha · plus · sucré"
+   },
+   {
+    "fr": "Rien n'est meilleur que le thé d'ici.",
+    "tgt": "এখানকার চায়ের চেয়ে ভালো কিছু নেই।",
+    "ro": "Ekhānkār chāyer cheye bhālo kichhu nei.",
+    "lit": "d'ici · thé[de] · que · bon · quelque-chose · il-n'y-a-pas"
+   }
+  ]
+ },
+ "0-2-10": {
+  "module": "Conversation sociale",
+  "title": "Les pithas",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ce sont des gâteaux de riz, des pithas.",
+    "tgt": "এগুলো চালের পিঠা।",
+    "ro": "Egulo chāler piṭhā.",
+    "lit": "ceux-ci · riz[de] · pitha"
+   },
+   {
+    "fr": "Ma grand-mère fait de très bons pithas.",
+    "tgt": "আমার দাদি খুব ভালো পিঠা বানান।",
+    "ro": "Āmār dādi khub bhālo piṭhā bānān.",
+    "lit": "ma · grand-mère · très · bon · pitha · fabrique[respect]"
+   },
+   {
+    "fr": "On mange des pithas en hiver.",
+    "tgt": "আমরা শীতকালে পিঠা খাই।",
+    "ro": "Āmrā shītkāle piṭhā khāi.",
+    "lit": "nous · hiver[en] · pitha · mangeons"
+   },
+   {
+    "fr": "Il y a de la mélasse de dattier dedans.",
+    "tgt": "এর ভেতরে খেজুরের গুড় আছে।",
+    "ro": "Er bhetore khejurer guṛ āchhe.",
+    "lit": "ceci[de] · dedans · dattier[de] · mélasse · il-y-a"
+   },
+   {
+    "fr": "Goûte un peu celui-ci.",
+    "tgt": "এটা একটু খেয়ে দেখো।",
+    "ro": "Eṭā ekṭu kheye dekho.",
+    "lit": "ceci · un-peu · ayant-mangé · regarde"
+   },
+   {
+    "fr": "Il est encore chaud.",
+    "tgt": "এটা এখনও গরম।",
+    "ro": "Eṭā ekhono gorom.",
+    "lit": "ceci · encore · chaud"
+   },
+   {
+    "fr": "Il est vraiment délicieux, ce pitha.",
+    "tgt": "সত্যি খুব মজা।",
+    "ro": "Shotti khub mojā.",
+    "lit": "vraiment · très · délicieux"
+   },
+   {
+    "fr": "Et celui-là, il s'appelle comment ?",
+    "tgt": "ওটার নাম কী?",
+    "ro": "Oṭār nām kī?",
+    "lit": "celui-là[de] · nom · quoi"
+   },
+   {
+    "fr": "Celui-là, c'est un pitha à la vapeur.",
+    "tgt": "ওটা ভাপা পিঠা।",
+    "ro": "Oṭā bhāpā piṭhā.",
+    "lit": "celui-là · vapeur · pitha"
+   },
+   {
+    "fr": "Je peux en prendre un autre ?",
+    "tgt": "আমি কি আরেকটা নিতে পারি?",
+    "ro": "Āmi ki ārekṭā nite pāri?",
+    "lit": "je · [question] · un-autre · prendre · peux"
+   }
+  ]
+ },
+ "0-2-11": {
+  "module": "Conversation sociale",
+  "title": "Donner ses raisons",
+  "grammaire_de_la_lecon": "« Kāron » et « tāi » : parce que, donc",
+  "phrases": [
+   {
+    "fr": "J'aime Sylhet parce que les gens sont gentils.",
+    "tgt": "আমার সিলেট ভালো লাগে, কারণ মানুষগুলো খুব ভালো।",
+    "ro": "Āmār Sileṭ bhālo lāge, kāron mānushgulo khub bhālo.",
+    "lit": "à-moi · Sylhet · bon · semble · parce-que · gens[pluriel] · très · bon"
+   },
+   {
+    "fr": "Il pleut, donc on reste à la maison.",
+    "tgt": "বৃষ্টি হচ্ছে, তাই আমরা বাড়িতে থাকছি।",
+    "ro": "Brishṭi hochchhe, tāi āmrā bāṛite thākchhi.",
+    "lit": "pluie · est-en-train-de-se-faire · donc · nous · maison[à] · restons"
+   },
+   {
+    "fr": "Tu es fatigué, pourquoi ?",
+    "tgt": "তুমি ক্লান্ত কেন?",
+    "ro": "Tumi klānto keno?",
+    "lit": "tu · fatigué · pourquoi"
+   },
+   {
+    "fr": "Parce que je travaille énormément.",
+    "tgt": "কারণ আমি অনেক কাজ করি।",
+    "ro": "Kāron āmi onek kāj kori.",
+    "lit": "parce-que · je · beaucoup · travail · fais"
+   },
+   {
+    "fr": "Je suis content parce que tu es là.",
+    "tgt": "আমি খুশি, কারণ তুমি এখানে।",
+    "ro": "Āmi khushi, kāron tumi ekhāne.",
+    "lit": "je · content · parce-que · tu · ici"
+   },
+   {
+    "fr": "J'ai très faim, alors je mange.",
+    "tgt": "আমার খুব খিদে, তাই খাচ্ছি।",
+    "ro": "Āmār khub khide, tāi khāchchhi.",
+    "lit": "à-moi · très · faim · donc · suis-en-train-de-manger"
+   },
+   {
+    "fr": "Je ne bois pas de café, parce que la nuit je ne dors pas.",
+    "tgt": "আমি কফি খাই না, কারণ রাতে ঘুম হয় না।",
+    "ro": "Āmi kophi khāi nā, kāron rāte ghum hoy nā.",
+    "lit": "je · café · mange · pas · parce-que · nuit[à] · sommeil · se-fait · pas"
+   },
+   {
+    "fr": "Il fait très chaud, alors on boit de l'eau.",
+    "tgt": "খুব গরম, তাই আমরা পানি খাচ্ছি।",
+    "ro": "Khub gorom, tāi āmrā pāni khāchchhi.",
+    "lit": "très · chaud · donc · nous · eau · sommes-en-train-de-manger"
+   },
+   {
+    "fr": "Mon ami est de Sylhet, donc il connaît tout.",
+    "tgt": "আমার বন্ধু সিলেটের, তাই ও সব চেনে।",
+    "ro": "Āmār bondhu Sileṭer, tāi o shob chene.",
+    "lit": "mon · ami · Sylhet[de] · donc · il · tout · connaît"
+   },
+   {
+    "fr": "Pourquoi ? Parce que c'est très beau ici.",
+    "tgt": "কেন? কারণ এখানে খুব সুন্দর।",
+    "ro": "Keno? Kāron ekhāne khub shundor.",
+    "lit": "pourquoi · parce-que · ici · très · beau"
+   }
+  ]
+ },
+ "0-2-12": {
+  "module": "Conversation sociale",
+  "title": "Au bord de la Surma",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Allez, on marche au bord de la rivière.",
+    "tgt": "চলো, নদীর ধারে হাঁটি।",
+    "ro": "Cholo, nodir dhāre hāṃṭi.",
+    "lit": "allons · rivière[de] · bord[à] · marchons"
+   },
+   {
+    "fr": "Le soir, la Surma est magnifique.",
+    "tgt": "সন্ধ্যায় সুরমা খুব সুন্দর।",
+    "ro": "Shondhāy Surmā khub shundor.",
+    "lit": "soir[à] · Surma · très · beau"
+   },
+   {
+    "fr": "Regarde, il y a plein de bateaux sur la rivière.",
+    "tgt": "দেখো, নদীতে অনেক নৌকা।",
+    "ro": "Dekho, nodite onek noukā.",
+    "lit": "regarde · rivière[dans] · beaucoup · bateau"
+   },
+   {
+    "fr": "La nuit, le pont s'illumine.",
+    "tgt": "রাতে ব্রিজে আলো জ্বলে।",
+    "ro": "Rāte brije ālo jole.",
+    "lit": "nuit[à] · pont[sur] · lumière · brûle"
+   },
+   {
+    "fr": "Ici, il y a vraiment beaucoup de vent.",
+    "tgt": "এখানে খুব বাতাস।",
+    "ro": "Ekhāne khub bātāsh.",
+    "lit": "ici · très · vent"
+   },
+   {
+    "fr": "On s'assoit un moment ?",
+    "tgt": "একটু বসি?",
+    "ro": "Ekṭu boshi?",
+    "lit": "un-peu · asseyons-nous"
+   },
+   {
+    "fr": "Je viens souvent ici le soir.",
+    "tgt": "আমি প্রায়ই সন্ধ্যায় এখানে আসি।",
+    "ro": "Āmi prāyi shondhāy ekhāne āshi.",
+    "lit": "je · souvent · soir[à] · ici · viens"
+   },
+   {
+    "fr": "Voilà un vendeur de thé qui arrive.",
+    "tgt": "একজন চা-ওয়ালা আসছে।",
+    "ro": "Ekjon chā-oyālā āschhe.",
+    "lit": "un[classificateur] · thé-vendeur · est-en-train-de-venir"
+   },
+   {
+    "fr": "Deux tasses de thé, s'il vous plaît.",
+    "tgt": "দুই কাপ চা দিন।",
+    "ro": "Dui kāp chā din.",
+    "lit": "deux · tasse · thé · donnez"
+   },
+   {
+    "fr": "C'est le meilleur moment de la journée.",
+    "tgt": "দিনের সবচেয়ে ভালো সময় এটা।",
+    "ro": "Diner shobcheye bhālo shomoy eṭā.",
+    "lit": "jour[de] · le-plus · bon · moment · ceci"
+   }
+  ]
+ },
+ "0-2-13": {
+  "module": "Conversation sociale",
+  "title": "Entre amis, on se dit tu",
+  "grammaire_de_la_lecon": "« Tumi » entre amis : les verbes en « -o »",
+  "phrases": [
+   {
+    "fr": "Tu bois du thé, toi ?",
+    "tgt": "তুমি চা খাও?",
+    "ro": "Tumi chā khāo?",
+    "lit": "tu · thé · manges"
+   },
+   {
+    "fr": "Tu fais quoi, le week-end ?",
+    "tgt": "ছুটির দিনে তুমি কী করো?",
+    "ro": "Chhuṭir dine tumi kī koro?",
+    "lit": "congé[de] · jour[à] · tu · quoi · fais"
+   },
+   {
+    "fr": "Tu connais Srimangal ?",
+    "tgt": "তুমি শ্রীমঙ্গল চেনো?",
+    "ro": "Tumi Shrimongol cheno?",
+    "lit": "tu · Srimangal · connais"
+   },
+   {
+    "fr": "Tu viens souvent ici ?",
+    "tgt": "তুমি কি প্রায়ই এখানে আসো?",
+    "ro": "Tumi ki prāyi ekhāne āsho?",
+    "lit": "tu · [question] · souvent · ici · viens"
+   },
+   {
+    "fr": "Tu parles un peu français ?",
+    "tgt": "তুমি কি একটু ফরাসি বলো?",
+    "ro": "Tumi ki ekṭu pharāsi bolo?",
+    "lit": "tu · [question] · un-peu · français · parles"
+   },
+   {
+    "fr": "Tu sais faire la cuisine, toi ?",
+    "tgt": "তুমি রান্না করতে জানো?",
+    "ro": "Tumi rānnā korte jāno?",
+    "lit": "tu · cuisine · faire · sais"
+   },
+   {
+    "fr": "Tu lis beaucoup de livres ?",
+    "tgt": "তুমি কি অনেক বই পড়ো?",
+    "ro": "Tumi ki onek boi poṛo?",
+    "lit": "tu · [question] · beaucoup · livre · lis"
+   },
+   {
+    "fr": "Tu dors bien, ici ?",
+    "tgt": "তুমি এখানে ভালো ঘুমাও?",
+    "ro": "Tumi ekhāne bhālo ghumāo?",
+    "lit": "tu · ici · bien · dors"
+   },
+   {
+    "fr": "Tu comprends ce que je dis ?",
+    "tgt": "তুমি আমার কথা বোঝো?",
+    "ro": "Tumi āmār kothā bojho?",
+    "lit": "tu · ma · parole · comprends"
+   },
+   {
+    "fr": "Écoute, maintenant tu es mon ami.",
+    "tgt": "শোনো, তুমি এখন আমার বন্ধু।",
+    "ro": "Shono, tumi ekhon āmār bondhu.",
+    "lit": "écoute · tu · maintenant · mon · ami"
+   }
+  ]
+ },
+ "0-2-14": {
+  "module": "Conversation sociale",
+  "title": "Un coup de fil à un ami",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Allô, Roni ?",
+    "tgt": "হ্যালো, রনি?",
+    "ro": "Hyālo, Roni?",
+    "lit": "allô · Roni"
+   },
+   {
+    "fr": "Oui, c'est moi. Comment ça va ?",
+    "tgt": "হ্যাঁ, আমি। কেমন আছ?",
+    "ro": "Hyāṃ, āmi. Kemon āchho?",
+    "lit": "oui · moi · comment · es"
+   },
+   {
+    "fr": "Je vais bien, et de ton côté ?",
+    "tgt": "ভালো আছি, তুমি?",
+    "ro": "Bhālo āchhi, tumi?",
+    "lit": "bien · suis · toi"
+   },
+   {
+    "fr": "Tu es où en ce moment ?",
+    "tgt": "তুমি এখন কোথায়?",
+    "ro": "Tumi ekhon kothāy?",
+    "lit": "tu · maintenant · où"
+   },
+   {
+    "fr": "Je suis au marché, j'achète du poisson.",
+    "tgt": "আমি বাজারে, মাছ কিনছি।",
+    "ro": "Āmi bājāre, māchh kinchhi.",
+    "lit": "je · marché[à] · poisson · suis-en-train-d'acheter"
+   },
+   {
+    "fr": "Je t'entends mal.",
+    "tgt": "তোমার কথা ভালো শুনতে পাচ্ছি না।",
+    "ro": "Tomār kothā bhālo shunte pāchchhi nā.",
+    "lit": "ta · parole · bien · entendre · arrive · pas"
+   },
+   {
+    "fr": "Demain, tu as un moment ?",
+    "tgt": "কাল তোমার সময় আছে?",
+    "ro": "Kāl tomār shomoy āchhe?",
+    "lit": "demain · à-toi · temps · il-y-a"
+   },
+   {
+    "fr": "Oui, le matin seulement.",
+    "tgt": "হ্যাঁ, শুধু সকালে।",
+    "ro": "Hyāṃ, shudhu shokāle.",
+    "lit": "oui · seulement · matin[à]"
+   },
+   {
+    "fr": "On se parle plus tard.",
+    "tgt": "পরে কথা বলি।",
+    "ro": "Pore kothā boli.",
+    "lit": "après · parole · disons"
+   },
+   {
+    "fr": "D'accord, je raccroche.",
+    "tgt": "ঠিক আছে, রাখি।",
+    "ro": "Ṭhik āchhe, rākhi.",
+    "lit": "juste · est · je-pose"
+   }
+  ]
+ },
+ "0-2-15": {
+  "module": "Conversation sociale",
+  "title": "Faire quelque chose pour quelqu'un",
+  "grammaire_de_la_lecon": "« -ke » : à quelqu'un, le complément de personne",
+  "phrases": [
+   {
+    "fr": "Je donne ce cadeau à ta mère.",
+    "tgt": "আমি তোমার মাকে এই উপহারটা দিই।",
+    "ro": "Āmi tomār māke ei upohārṭā dii.",
+    "lit": "je · ta · mère[-ke] · ce · cadeau[classificateur] · donne"
+   },
+   {
+    "fr": "Appelle-moi demain.",
+    "tgt": "কাল আমাকে ফোন করো।",
+    "ro": "Kāl āmāke phon koro.",
+    "lit": "demain · moi[-ke] · téléphone · fais"
+   },
+   {
+    "fr": "Je montre les photos à mon ami.",
+    "tgt": "আমি আমার বন্ধুকে ছবিগুলো দেখাই।",
+    "ro": "Āmi āmār bondhuke chhobigulo dekhāi.",
+    "lit": "je · mon · ami[-ke] · photo[pluriel] · montre"
+   },
+   {
+    "fr": "Tu peux aider ma sœur ?",
+    "tgt": "তুমি কি আমার বোনকে সাহায্য করতে পারো?",
+    "ro": "Tumi ki āmār bonke shāhājjo korte pāro?",
+    "lit": "tu · [question] · ma · sœur[-ke] · aide · faire · peux"
+   },
+   {
+    "fr": "J'écris souvent à mon père.",
+    "tgt": "আমি প্রায়ই বাবাকে চিঠি লিখি।",
+    "ro": "Āmi prāyi bābāke chiṭhi likhi.",
+    "lit": "je · souvent · père[-ke] · lettre · écris"
+   },
+   {
+    "fr": "Tu connais cet homme ?",
+    "tgt": "তুমি কি ওই লোকটাকে চেনো?",
+    "ro": "Tumi ki oi lokṭāke cheno?",
+    "lit": "tu · [question] · ce · homme[classificateur][-ke] · connais"
+   },
+   {
+    "fr": "Oui, c'est mon voisin.",
+    "tgt": "হ্যাঁ, উনি আমার প্রতিবেশী।",
+    "ro": "Hyāṃ, uni āmār protibeshi.",
+    "lit": "oui · il[respect] · mon · voisin"
+   },
+   {
+    "fr": "Ma mère t'appelle.",
+    "tgt": "মা তোমাকে ডাকছেন।",
+    "ro": "Mā tomāke ḍākchhen.",
+    "lit": "mère · toi[-ke] · est-en-train-d'appeler[respect]"
+   },
+   {
+    "fr": "Je demande le chemin à un passant.",
+    "tgt": "আমি একজন লোককে রাস্তা জিজ্ঞেস করি।",
+    "ro": "Āmi ekjon lokke rāstā jiggesh kori.",
+    "lit": "je · un[classificateur] · homme[-ke] · chemin · question · fais"
+   },
+   {
+    "fr": "Je téléphone à mon frère chaque soir.",
+    "tgt": "আমি প্রতি সন্ধ্যায় ভাইকে ফোন করি।",
+    "ro": "Āmi proti shondhāy bhāike phon kori.",
+    "lit": "je · chaque · soir[à] · frère[-ke] · téléphone · fais"
+   }
+  ]
+ },
+ "0-2-16": {
+  "module": "Conversation sociale",
+  "title": "Faire un compliment",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ta chemise est très belle.",
+    "tgt": "তোমার শার্টটা খুব সুন্দর।",
+    "ro": "Tomār shārṭṭā khub shundor.",
+    "lit": "ta · chemise[classificateur] · très · beau"
+   },
+   {
+    "fr": "Merci, tu es gentil.",
+    "tgt": "ধন্যবাদ, তুমি খুব ভালো।",
+    "ro": "Dhonnobād, tumi khub bhālo.",
+    "lit": "merci · tu · très · bon"
+   },
+   {
+    "fr": "Votre maison est magnifique.",
+    "tgt": "তোমাদের বাড়িটা অসাধারণ।",
+    "ro": "Tomāder bāṛiṭā oshādhāron.",
+    "lit": "votre · maison[classificateur] · extraordinaire"
+   },
+   {
+    "fr": "Ton bengali est vraiment bon.",
+    "tgt": "তোমার বাংলা সত্যিই ভালো।",
+    "ro": "Tomār Bāṃlā shottii bhālo.",
+    "lit": "ton · bengali · vraiment · bon"
+   },
+   {
+    "fr": "Tu chantes vraiment bien.",
+    "tgt": "তুমি খুব সুন্দর গান গাও।",
+    "ro": "Tumi khub shundor gān gāo.",
+    "lit": "tu · très · beau · chanson · chantes"
+   },
+   {
+    "fr": "Ce sari te va très bien.",
+    "tgt": "এই শাড়িতে তোমাকে খুব সুন্দর লাগছে।",
+    "ro": "Ei shāṛite tomāke khub shundor lāgchhe.",
+    "lit": "ce · sari[dans] · toi[-ke] · très · beau · semble"
+   },
+   {
+    "fr": "Ta famille est très chaleureuse.",
+    "tgt": "তোমার পরিবার খুব আন্তরিক।",
+    "ro": "Tomār poribār khub āntorik.",
+    "lit": "ta · famille · très · chaleureux"
+   },
+   {
+    "fr": "Ta mère est quelqu'un de très bien.",
+    "tgt": "তোমার মা খুব ভালো মানুষ।",
+    "ro": "Tomār mā khub bhālo mānush.",
+    "lit": "ta · mère · très · bon · personne"
+   },
+   {
+    "fr": "Ça fait plaisir à entendre.",
+    "tgt": "শুনে খুব ভালো লাগলো।",
+    "ro": "Shune khub bhālo lāglo.",
+    "lit": "ayant-entendu · très · bon · a-semblé"
+   },
+   {
+    "fr": "Tu as un très beau sourire.",
+    "tgt": "তোমার হাসিটা খুব সুন্দর।",
+    "ro": "Tomār hāshiṭā khub shundor.",
+    "lit": "ton · sourire[classificateur] · très · beau"
+   }
+  ]
+ },
+ "0-2-17": {
+  "module": "Conversation sociale",
+  "title": "Très et trop",
+  "grammaire_de_la_lecon": "« Khub » et « beshi » : très et trop",
+  "phrases": [
+   {
+    "fr": "Ce thé est très bon.",
+    "tgt": "এই চা খুব ভালো।",
+    "ro": "Ei chā khub bhālo.",
+    "lit": "ce · thé · très · bon"
+   },
+   {
+    "fr": "Ce curry est trop piquant pour moi.",
+    "tgt": "এই তরকারিটা আমার জন্য বেশি ঝাল।",
+    "ro": "Ei torkāriṭā āmār jonno beshi jhāl.",
+    "lit": "ce · curry[classificateur] · moi[de] · pour · trop · piquant"
+   },
+   {
+    "fr": "Aujourd'hui, il fait vraiment très chaud.",
+    "tgt": "আজ খুব গরম।",
+    "ro": "Āj khub gorom.",
+    "lit": "aujourd'hui · très · chaud"
+   },
+   {
+    "fr": "Toi, tu travailles trop.",
+    "tgt": "তুমি বেশি কাজ করো।",
+    "ro": "Tumi beshi kāj koro.",
+    "lit": "tu · trop · travail · fais"
+   },
+   {
+    "fr": "Il y a beaucoup trop de sucre dans mon thé.",
+    "tgt": "আমার চায়ে খুব বেশি চিনি।",
+    "ro": "Āmār chāye khub beshi chini.",
+    "lit": "mon · thé[dans] · très · trop · sucre"
+   },
+   {
+    "fr": "Ce matin, la rivière est très calme.",
+    "tgt": "আজ সকালে নদী খুব শান্ত।",
+    "ro": "Āj shokāle nodi khub shānto.",
+    "lit": "aujourd'hui · matin[à] · rivière · très · calme"
+   },
+   {
+    "fr": "Là, je mange beaucoup trop de pithas.",
+    "tgt": "আমি খুব বেশি পিঠা খাচ্ছি।",
+    "ro": "Āmi khub beshi piṭhā khāchchhi.",
+    "lit": "je · très · trop · pitha · suis-en-train-de-manger"
+   },
+   {
+    "fr": "Ton ami est très drôle.",
+    "tgt": "তোমার বন্ধু খুব মজার।",
+    "ro": "Tomār bondhu khub mojār.",
+    "lit": "ton · ami · très · amusant"
+   },
+   {
+    "fr": "Ce n'est pas trop loin.",
+    "tgt": "খুব বেশি দূরে না।",
+    "ro": "Khub beshi dure nā.",
+    "lit": "très · trop · loin · pas"
+   },
+   {
+    "fr": "Je suis très heureux ici.",
+    "tgt": "আমি এখানে খুব খুশি।",
+    "ro": "Āmi ekhāne khub khushi.",
+    "lit": "je · ici · très · content"
+   }
+  ]
+ },
+ "0-2-18": {
+  "module": "Conversation sociale",
+  "title": "Se dire au revoir",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Il est déjà bien tard.",
+    "tgt": "এখন অনেক রাত।",
+    "ro": "Ekhon onek rāt.",
+    "lit": "maintenant · beaucoup · nuit"
+   },
+   {
+    "fr": "Bon, j'y vais pour aujourd'hui.",
+    "tgt": "আচ্ছা, আজ আসি।",
+    "ro": "Āchchhā, āj āshi.",
+    "lit": "bon · aujourd'hui · je-viens"
+   },
+   {
+    "fr": "Merci pour ce délicieux repas.",
+    "tgt": "মজার খাবারের জন্য ধন্যবাদ।",
+    "ro": "Mojār khābārer jonno dhonnobād.",
+    "lit": "délicieux · repas[de] · pour · merci"
+   },
+   {
+    "fr": "Cette soirée est vraiment belle.",
+    "tgt": "আজকের সন্ধ্যাটা খুব সুন্দর।",
+    "ro": "Ājker shondhāṭā khub shundor.",
+    "lit": "d'aujourd'hui · soirée[classificateur] · très · beau"
+   },
+   {
+    "fr": "Reviens nous voir.",
+    "tgt": "আবার এসো।",
+    "ro": "Ābār esho.",
+    "lit": "encore · viens"
+   },
+   {
+    "fr": "Oui, bien sûr.",
+    "tgt": "হ্যাঁ, অবশ্যই।",
+    "ro": "Hyāṃ, oboshshoi.",
+    "lit": "oui · bien-sûr"
+   },
+   {
+    "fr": "Tu rentres chez toi comment ?",
+    "tgt": "তুমি কীভাবে ফিরছ?",
+    "ro": "Tumi kībhābe phirchho?",
+    "lit": "tu · comment · es-en-train-de-rentrer"
+   },
+   {
+    "fr": "En rickshaw, c'est tout près.",
+    "tgt": "রিকশায়, কাছেই তো।",
+    "ro": "Rikshāy, kāchhei to.",
+    "lit": "rickshaw[en] · tout-près · [bien]"
+   },
+   {
+    "fr": "Rentre prudemment chez toi.",
+    "tgt": "সাবধানে যাও।",
+    "ro": "Shābdhāne jāo.",
+    "lit": "prudemment · va"
+   },
+   {
+    "fr": "Bonne nuit, à demain.",
+    "tgt": "শুভ রাত্রি, কাল দেখা হবে।",
+    "ro": "Shubho rātri, kāl dekhā hobe.",
+    "lit": "bonne · nuit · demain · rencontre · sera"
+   }
+  ]
+ },
+ "0-2-19": {
+  "module": "Conversation sociale",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "Les petits mots de fin : « to », « nā ? », « o »",
+  "phrases": [
+   {
+    "fr": "Voilà, ce module est terminé.",
+    "tgt": "এই অধ্যায়টা এখন শেষ।",
+    "ro": "Ei oddhāyṭā ekhon shesh.",
+    "lit": "ce · chapitre[classificateur] · maintenant · fin"
+   },
+   {
+    "fr": "Le bengali, c'est beau, non ?",
+    "tgt": "বাংলা ভাষা সুন্দর, না?",
+    "ro": "Bāṃlā bhāshā shundor, nā?",
+    "lit": "bengali · langue · beau · non"
+   },
+   {
+    "fr": "Maintenant, tu parles bien avec tes amis.",
+    "tgt": "তুমি তো এখন বন্ধুদের সাথে কথা বলো।",
+    "ro": "Tumi to ekhon bondhuder shāthe kothā bolo.",
+    "lit": "tu · [bien] · maintenant · ami[pluriel][de] · [avec] · parole · dis"
+   },
+   {
+    "fr": "Moi aussi, je suis content.",
+    "tgt": "আমিও খুশি।",
+    "ro": "Āmio khushi.",
+    "lit": "moi-aussi · content"
+   },
+   {
+    "fr": "Tu sais te présenter, non ?",
+    "tgt": "তুমি নিজের পরিচয় দিতে পারো, না?",
+    "ro": "Tumi nijer porichoy dite pāro, nā?",
+    "lit": "tu · soi[de] · présentation · donner · peux · non"
+   },
+   {
+    "fr": "Et tu sais aussi parler de ta famille.",
+    "tgt": "আর পরিবারের কথাও বলতে পারো।",
+    "ro": "Ār poribārer kothāo bolte pāro.",
+    "lit": "et · famille[de] · parole-aussi · dire · peux"
+   },
+   {
+    "fr": "C'est facile, n'est-ce pas ?",
+    "tgt": "সহজ তো, তাই না?",
+    "ro": "Shohoj to, tāi nā?",
+    "lit": "facile · [bien] · ainsi · non"
+   },
+   {
+    "fr": "La prochaine étape arrive bientôt.",
+    "tgt": "পরের ধাপ শিগগির আসছে।",
+    "ro": "Porer dhāp shiggir āschhe.",
+    "lit": "suivant · étape · bientôt · est-en-train-de-venir"
+   },
+   {
+    "fr": "Continue comme ça, chaque jour.",
+    "tgt": "প্রতিদিন এভাবেই চালিয়ে যাও।",
+    "ro": "Protidin ebhābei chāliye jāo.",
+    "lit": "chaque-jour · ainsi-même · continuant · va"
+   },
+   {
+    "fr": "Bravo, et à très bientôt.",
+    "tgt": "দারুণ, আবার দেখা হবে।",
+    "ro": "Dārun, ābār dekhā hobe.",
+    "lit": "super · encore · rencontre · sera"
+   }
+  ]
+ }
+}

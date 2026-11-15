@@ -13,7 +13,8 @@
 //   tools/tips_say/<code>.json    { "<niv>-<mod>-<leçon>": { "<passage entre « »>": "<texte lu par la voix native>" } }
 //   tools/extra/<code>.json       { vocab: { "<niv>-<mod>-<leçon>": [ {fr, tgt, ro?}, … ] },        mots de vocabulaire (évaluations mixtes)
 //                                   series: { "<niv>-<mod>-<leçon>": { title, intro, chunks: [[{fr, tgt, ro?}, …], …] } },   séries fermées
-//                                   notes: { "<niv>-<mod>-<leçon>": [ { lit, note, say }, … une par phrase ] },   mot à mot parlé + explication par phrase
+//                                   notes: { "<niv>-<mod>-<leçon>": [ { lit | words, note, say }, … une par phrase ] },   mot à mot parlé + explication par phrase
+//                                          (words = [[français, mot cible], …] dans l'ordre de la phrase ; sinon lit est aligné automatiquement, chinois seulement)
 //                                   words: { "<niv>-<mod>-<leçon>#<phrase>": [ "mot cible 1", … ] } }   découpe à la main quand l'alignement automatique sur le mot à mot échoue
 //
 // Usage :
@@ -96,6 +97,17 @@ function alignWords(code, pid, p, litText, manual) {
   return fr.map((f, i) => [f, tg[i]]);
 }
 
+// Mot à mot donné explicitement (paires [français, mot cible]) : les mots cibles,
+// mis bout à bout, doivent redonner la phrase (espaces et ponctuation ignorés).
+const squash = t => t.normalize('NFC').replace(/[\s\p{P}\p{S}]/gu, '');
+function checkWords(code, pid, p, words) {
+  if (!Array.isArray(words) || !words.length || words.some(w => !Array.isArray(w) || w.length !== 2 || !String(w[0]).trim() || !String(w[1]).trim()))
+    throw new Error(`${code} ${pid} : mot à mot mal formé`);
+  if (squash(words.map(w => w[1]).join('')) !== squash(p.tgt))
+    throw new Error(`${code} ${pid} : les mots « ${words.map(w => w[1]).join(' | ')} » ne redonnent pas la phrase ${p.tgt}`);
+  return words.map(w => [String(w[0]).trim(), String(w[1]).trim()]);
+}
+
 function build(code, levels) {
   const PFIX = readJson('phrase_fix', code), FIX = readJson('tips_fix', code), SAY = readJson('tips_say', code);
   const EXTRA = readJson('extra', code), VOC = EXTRA.vocab || {}, SER = EXTRA.series || {}, NOTES = EXTRA.notes || {}, WORDS = EXTRA.words || {};
@@ -111,7 +123,7 @@ function build(code, levels) {
     const nt = NOTES[id];
     if (nt) { used.NOTES.add(id); if (nt.length !== l.phrases.length) throw new Error(`${code} ${id} : ${nt.length} notes pour ${l.phrases.length} phrases`); }
     l.phrases.forEach((p, i) => {
-      if (nt) { p.note = { lit: nt[i].lit, text: nt[i].note, say: nt[i].say || {} }; try { p.note.words = alignWords(code, `${id}#${i}`, p, nt[i].lit, WORDS[`${id}#${i}`]); } catch (e) { alignErr.push(e.message); } if (WORDS[`${id}#${i}`]) used.WORDS.add(`${id}#${i}`); } else delete p.note;
+      if (nt) { const pw = nt[i].words; p.note = { lit: pw ? pw.map(w => w[0]).join(', ') : nt[i].lit, text: nt[i].note, say: nt[i].say || {} }; try { p.note.words = pw ? checkWords(code, `${id}#${i}`, p, pw) : alignWords(code, `${id}#${i}`, p, nt[i].lit, WORDS[`${id}#${i}`]); } catch (e) { alignErr.push(e.message); } if (WORDS[`${id}#${i}`]) used.WORDS.add(`${id}#${i}`); } else delete p.note;
       phrases++;
       const pf = PFIX[`${id}#${i}`]; if (!pf) return; used.PFIX.add(`${id}#${i}`);
       for (const k of ['fr', 'tgt', 'ro', 'lit']) if (k in pf) { if (pf[k] === null || pf[k] === '') delete p[k]; else p[k] = pf[k]; }

@@ -1,0 +1,4022 @@
+{
+ "0-0-0": {
+  "module": "Le quotidien",
+  "title": "Arrivée à Bangkok",
+  "grammaire_de_la_lecon": "Pas de conjugaison : le verbe ne change jamais",
+  "phrases": [
+   {
+    "fr": "Bienvenue à Bangkok !",
+    "tgt": "ยินดีต้อนรับสู่กรุงเทพครับ",
+    "ro": "Yin-dii tâwn-ráp sùu Krung-thêep khráp.",
+    "lit": "heureux · accueillir · vers · Bangkok · [politesse]"
+   },
+   {
+    "fr": "Moi, je viens de France.",
+    "tgt": "ผมมาจากฝรั่งเศสครับ",
+    "ro": "Phǒm maa jàak fà-ràng-sèet khráp.",
+    "lit": "je (homme) · venir · de · France · [politesse]"
+   },
+   {
+    "fr": "Mon ami vient de Paris.",
+    "tgt": "เพื่อนผมมาจากปารีสครับ",
+    "ro": "Phûean phǒm maa jàak Paa-rîit khráp.",
+    "lit": "ami · je · venir · de · Paris · [politesse]"
+   },
+   {
+    "fr": "Je vais à l'hôtel.",
+    "tgt": "ผมไปโรงแรมครับ",
+    "ro": "Phǒm pai roong-raem khráp.",
+    "lit": "je · aller · hôtel · [politesse]"
+   },
+   {
+    "fr": "Hier, je suis allé au marché.",
+    "tgt": "เมื่อวานผมไปตลาดครับ",
+    "ro": "Mûea-waan phǒm pai tà-làat khráp.",
+    "lit": "hier · je · aller · marché · [politesse]"
+   },
+   {
+    "fr": "Demain, je vais travailler.",
+    "tgt": "พรุ่งนี้ผมไปทำงานครับ",
+    "ro": "Phrûng-níi phǒm pai tham-ngaan khráp.",
+    "lit": "demain · je · aller · faire · travail · [politesse]"
+   },
+   {
+    "fr": "Ils habitent à Bangkok.",
+    "tgt": "พวกเขาอยู่กรุงเทพครับ",
+    "ro": "Phûak-khǎo yùu Krung-thêep khráp.",
+    "lit": "ils · habiter · Bangkok · [politesse]"
+   },
+   {
+    "fr": "Je prends le métro aérien.",
+    "tgt": "ผมนั่งรถไฟฟ้าครับ",
+    "ro": "Phǒm nâng rót-fai-fáa khráp.",
+    "lit": "je · s'asseoir (prendre) · train · électrique · [politesse]"
+   },
+   {
+    "fr": "Je parle un peu thaï.",
+    "tgt": "ผมพูดภาษาไทยได้นิดหน่อยครับ",
+    "ro": "Phǒm phûut phaa-sǎa thai dâai nít-nòi khráp.",
+    "lit": "je · parler · langue · thaï · pouvoir · un peu · [politesse]"
+   },
+   {
+    "fr": "Elle parle très bien thaï.",
+    "tgt": "เขาพูดภาษาไทยเก่งมากครับ",
+    "ro": "Khǎo phûut phaa-sǎa thai kèng mâak khráp.",
+    "lit": "elle · parler · langue · thaï · doué · très · [politesse]"
+   }
+  ]
+ },
+ "0-0-1": {
+  "module": "Le quotidien",
+  "title": "Au stand de riz au poulet",
+  "grammaire_de_la_lecon": "Les cinq tons du thaï",
+  "phrases": [
+   {
+    "fr": "Un riz au poulet, s'il vous plaît.",
+    "tgt": "ขอข้าวมันไก่หนึ่งจานครับ",
+    "ro": "Khǎw khâaw-man-kài nùeng jaan khráp.",
+    "lit": "demander · riz · gras · poulet · un · assiette · [politesse]"
+   },
+   {
+    "fr": "Du riz nature, s'il vous plaît.",
+    "tgt": "ขอข้าวสวยครับ",
+    "ro": "Khǎw khâaw-sǔai khráp.",
+    "lit": "demander · riz · beau · [politesse]"
+   },
+   {
+    "fr": "Un chien vient vers nous.",
+    "tgt": "หมาเดินมาหาเราครับ",
+    "ro": "Mǎa doen maa hǎa rao khráp.",
+    "lit": "chien · marcher · venir · chercher · nous · [politesse]"
+   },
+   {
+    "fr": "Le poulet est très bon.",
+    "tgt": "ไก่อร่อยมากครับ",
+    "ro": "Kài à-ròi mâak khráp.",
+    "lit": "poulet · délicieux · très · [politesse]"
+   },
+   {
+    "fr": "Le stand est près, pas loin.",
+    "tgt": "ร้านอยู่ใกล้ ไม่ไกลครับ",
+    "ro": "Ráan yùu klâi, mâi klai khráp.",
+    "lit": "stand · se trouver · près · ne pas · loin · [politesse]"
+   },
+   {
+    "fr": "J'ai très faim.",
+    "tgt": "หิวมากครับ",
+    "ro": "Hǐw mâak khráp.",
+    "lit": "avoir faim · très · [politesse]"
+   },
+   {
+    "fr": "Ce stand vient d'ouvrir.",
+    "tgt": "ร้านนี้เปิดใหม่ครับ",
+    "ro": "Ráan níi pòet mài khráp.",
+    "lit": "stand · ce · ouvrir · nouveau · [politesse]"
+   },
+   {
+    "fr": "L'eau n'est pas fraîche.",
+    "tgt": "น้ำไม่เย็นครับ",
+    "ro": "Náam mâi yen khráp.",
+    "lit": "eau · ne pas · frais · [politesse]"
+   },
+   {
+    "fr": "Je regarde les infos sur mon téléphone.",
+    "tgt": "ผมดูข่าวในมือถือครับ",
+    "ro": "Phǒm duu khàaw nai mue-thǔe khráp.",
+    "lit": "je · regarder · nouvelles · dans · téléphone portable · [politesse]"
+   },
+   {
+    "fr": "Un peu plus de riz, s'il vous plaît.",
+    "tgt": "ขอข้าวเพิ่มอีกนิดครับ",
+    "ro": "Khǎw khâaw phôem ìik nít khráp.",
+    "lit": "demander · riz · ajouter · encore · un peu · [politesse]"
+   }
+  ]
+ },
+ "0-0-2": {
+  "module": "Le quotidien",
+  "title": "Premiers mots polis à la supérette",
+  "grammaire_de_la_lecon": "« Khráp » et « khâ » : les petits mots de politesse",
+  "phrases": [
+   {
+    "fr": "Bonjour, je cherche de l'eau.",
+    "tgt": "สวัสดีครับ ผมหาน้ำครับ",
+    "ro": "Sà-wàt-dii khráp, phǒm hǎa náam khráp.",
+    "lit": "bonjour · [politesse] · je (homme) · chercher · eau · [politesse]"
+   },
+   {
+    "fr": "Je suis pressée.",
+    "tgt": "ฉันรีบค่ะ",
+    "ro": "Chǎn rîip khâ.",
+    "lit": "je (femme) · se dépêcher · [politesse]"
+   },
+   {
+    "fr": "Désolée, où sont les sacs ?",
+    "tgt": "ขอโทษค่ะ ถุงอยู่ที่ไหนคะ",
+    "ro": "Khǎw-thôot khâ, thǔng yùu thîi-nǎi khá?",
+    "lit": "pardon · [politesse] · sac · se trouver · où · [politesse]"
+   },
+   {
+    "fr": "Ça fait combien ?",
+    "tgt": "เท่าไรครับ",
+    "ro": "Thâo-rài khráp?",
+    "lit": "combien · [politesse]"
+   },
+   {
+    "fr": "Je suis ravie de vous rencontrer.",
+    "tgt": "ยินดีที่ได้รู้จักค่ะ",
+    "ro": "Yin-dii thîi dâai rúu-jàk khâ.",
+    "lit": "heureux · que · obtenir · connaître · [politesse]"
+   },
+   {
+    "fr": "Je prends un café glacé.",
+    "tgt": "ผมเอากาแฟเย็นครับ",
+    "ro": "Phǒm ao kaa-fae yen khráp.",
+    "lit": "je (homme) · prendre · café · frais · [politesse]"
+   },
+   {
+    "fr": "Oui, entendu.",
+    "tgt": "ครับ",
+    "ro": "Khráp.",
+    "lit": "[politesse] (oui)"
+   },
+   {
+    "fr": "Je suis un peu perdue.",
+    "tgt": "ฉันหลงทางนิดหน่อยค่ะ",
+    "ro": "Chǎn lǒng-thaang nít-nòi khâ.",
+    "lit": "je (femme) · perdre · chemin · un peu · [politesse]"
+   },
+   {
+    "fr": "Oui, je suis française.",
+    "tgt": "ค่ะ ฉันเป็นคนฝรั่งเศสค่ะ",
+    "ro": "Khâ, chǎn pen khon fà-ràng-sèet khâ.",
+    "lit": "[politesse] (oui) · je (femme) · être · personne · France · [politesse]"
+   },
+   {
+    "fr": "Merci, je suis très contente.",
+    "tgt": "ขอบคุณค่ะ ฉันดีใจมากค่ะ",
+    "ro": "Khàwp-khun khâ, chǎn dii-jai mâak khâ.",
+    "lit": "merci · [politesse] · je (femme) · content · très · [politesse]"
+   }
+  ]
+ },
+ "0-0-3": {
+  "module": "Le quotidien",
+  "title": "Les voisins de l'immeuble",
+  "grammaire_de_la_lecon": "Les pronoms : « phǒm, chǎn, khun »",
+  "phrases": [
+   {
+    "fr": "Moi, je m'appelle Thomas.",
+    "tgt": "ผมชื่อโทมัสครับ",
+    "ro": "Phǒm chûe Thoo-mát khráp.",
+    "lit": "je (homme) · s'appeler · Thomas · [politesse]"
+   },
+   {
+    "fr": "Et vous, comment vous appelez-vous ?",
+    "tgt": "แล้วคุณชื่ออะไรครับ",
+    "ro": "Láew khun chûe à-rai khráp?",
+    "lit": "et puis · vous · s'appeler · quoi · [politesse]"
+   },
+   {
+    "fr": "Je m'appelle Nok, je suis votre voisine.",
+    "tgt": "ฉันชื่อนกค่ะ เป็นเพื่อนบ้านคุณค่ะ",
+    "ro": "Chǎn chûe Nók khâ, pen phûean-bâan khun khâ.",
+    "lit": "je (femme) · s'appeler · Nok · [politesse] · être · voisin · vous · [politesse]"
+   },
+   {
+    "fr": "Vous habitez à quel étage ?",
+    "tgt": "คุณอยู่ชั้นไหนครับ",
+    "ro": "Khun yùu chán nǎi khráp?",
+    "lit": "vous · habiter · étage · lequel · [politesse]"
+   },
+   {
+    "fr": "J'habite au dixième étage.",
+    "tgt": "ผมอยู่ชั้นสิบครับ",
+    "ro": "Phǒm yùu chán sìp khráp.",
+    "lit": "je (homme) · habiter · étage · dix · [politesse]"
+   },
+   {
+    "fr": "Elle est très gentille.",
+    "tgt": "เขาใจดีมากครับ",
+    "ro": "Khǎo jai-dii mâak khráp.",
+    "lit": "elle · cœur · bon · très · [politesse]"
+   },
+   {
+    "fr": "Il travaille à Silom.",
+    "tgt": "เขาทำงานที่สีลมครับ",
+    "ro": "Khǎo tham-ngaan thîi Sǐi-lom khráp.",
+    "lit": "il · faire · travail · à · Silom · [politesse]"
+   },
+   {
+    "fr": "Nous sommes voisins.",
+    "tgt": "เราเป็นเพื่อนบ้านกันครับ",
+    "ro": "Rao pen phûean-bâan kan khráp.",
+    "lit": "nous · être · voisin · ensemble · [politesse]"
+   },
+   {
+    "fr": "Vous venez boire un café chez moi ?",
+    "tgt": "มาดื่มกาแฟที่ห้องผมไหมครับ",
+    "ro": "Maa dùem kaa-fae thîi hâwng phǒm mái khráp?",
+    "lit": "venir · boire · café · à · chambre · je · [question] · [politesse]"
+   },
+   {
+    "fr": "Volontiers, c'est gentil !",
+    "tgt": "ยินดีค่ะ ใจดีจังเลยค่ะ",
+    "ro": "Yin-dii khâ, jai-dii jang loei khâ.",
+    "lit": "avec plaisir · [politesse] · cœur · bon · tellement · vraiment · [politesse]"
+   }
+  ]
+ },
+ "0-0-4": {
+  "module": "Le quotidien",
+  "title": "Se présenter",
+  "grammaire_de_la_lecon": "« Pen » : être, entre deux noms",
+  "phrases": [
+   {
+    "fr": "Je suis professeur.",
+    "tgt": "ผมเป็นครูครับ",
+    "ro": "Phǒm pen khruu khráp.",
+    "lit": "je (homme) · être · professeur · [politesse]"
+   },
+   {
+    "fr": "Elle est médecin.",
+    "tgt": "เขาเป็นหมอครับ",
+    "ro": "Khǎo pen mǎw khráp.",
+    "lit": "elle · être · médecin · [politesse]"
+   },
+   {
+    "fr": "Je suis étudiante.",
+    "tgt": "ฉันเป็นนักศึกษาค่ะ",
+    "ro": "Chǎn pen nák-sùek-sǎa khâ.",
+    "lit": "je (femme) · être · étudiant · [politesse]"
+   },
+   {
+    "fr": "Nok est ma collègue.",
+    "tgt": "นกเป็นเพื่อนร่วมงานผมครับ",
+    "ro": "Nók pen phûean-rûam-ngaan phǒm khráp.",
+    "lit": "Nok · être · ami · partager · travail · je · [politesse]"
+   },
+   {
+    "fr": "Il est thaïlandais.",
+    "tgt": "เขาเป็นคนไทยครับ",
+    "ro": "Khǎo pen khon thai khráp.",
+    "lit": "il · être · personne · thaï · [politesse]"
+   },
+   {
+    "fr": "Vous êtes chauffeur de tuk-tuk ?",
+    "tgt": "คุณเป็นคนขับตุ๊กตุ๊กใช่ไหมครับ",
+    "ro": "Khun pen khon-khàp túk-túk châi mái khráp?",
+    "lit": "vous · être · conducteur · tuk-tuk · exact · [question] · [politesse]"
+   },
+   {
+    "fr": "Non, je suis cuisinier.",
+    "tgt": "ไม่ใช่ครับ ผมเป็นพ่อครัวครับ",
+    "ro": "Mâi châi khráp, phǒm pen phâw-khrua khráp.",
+    "lit": "ne pas · exact · [politesse] · je · être · cuisinier · [politesse]"
+   },
+   {
+    "fr": "Mon père est ingénieur.",
+    "tgt": "พ่อผมเป็นวิศวกรครับ",
+    "ro": "Phâw phǒm pen wít-sà-wá-kawn khráp.",
+    "lit": "père · je · être · ingénieur · [politesse]"
+   },
+   {
+    "fr": "Nous sommes touristes.",
+    "tgt": "เราเป็นนักท่องเที่ยวครับ",
+    "ro": "Rao pen nák-thâwng-thîaw khráp.",
+    "lit": "nous · être · touriste · [politesse]"
+   },
+   {
+    "fr": "Bangkok est une très grande ville.",
+    "tgt": "กรุงเทพเป็นเมืองใหญ่มากครับ",
+    "ro": "Krung-thêep pen mueang yài mâak khráp.",
+    "lit": "Bangkok · être · ville · grand · très · [politesse]"
+   }
+  ]
+ },
+ "0-0-5": {
+  "module": "Le quotidien",
+  "title": "Dans le métro aérien",
+  "grammaire_de_la_lecon": "« Mái » : transformer une phrase en question",
+  "phrases": [
+   {
+    "fr": "Ce train va à Siam ?",
+    "tgt": "รถไฟฟ้าขบวนนี้ไปสยามไหมครับ",
+    "ro": "Rót-fai-fáa khà-buan níi pai Sà-yǎam mái khráp?",
+    "lit": "métro aérien · rame · ce · aller · Siam · [question] · [politesse]"
+   },
+   {
+    "fr": "Vous allez bien ce matin ?",
+    "tgt": "เช้านี้สบายดีไหมครับ",
+    "ro": "Cháao níi sà-baai dii mái khráp?",
+    "lit": "matin · ce · à l'aise · bien · [question] · [politesse]"
+   },
+   {
+    "fr": "Vous avez froid dans le métro ?",
+    "tgt": "ในรถหนาวไหมครับ",
+    "ro": "Nai rót nǎaw mái khráp?",
+    "lit": "dans · véhicule · froid · [question] · [politesse]"
+   },
+   {
+    "fr": "Oui, un peu froid.",
+    "tgt": "หนาวนิดหน่อยครับ",
+    "ro": "Nǎaw nít-nòi khráp.",
+    "lit": "froid · un peu · [politesse]"
+   },
+   {
+    "fr": "Cette place est libre ?",
+    "tgt": "ที่นี่ว่างไหมครับ",
+    "ro": "Thîi-nîi wâang mái khráp?",
+    "lit": "place · ici · libre · [question] · [politesse]"
+   },
+   {
+    "fr": "Oui, asseyez-vous.",
+    "tgt": "ว่างครับ เชิญนั่งครับ",
+    "ro": "Wâang khráp, choen nâng khráp.",
+    "lit": "libre · [politesse] · inviter · s'asseoir · [politesse]"
+   },
+   {
+    "fr": "Vous descendez à la prochaine ?",
+    "tgt": "คุณลงสถานีหน้าไหมครับ",
+    "ro": "Khun long sà-thǎa-nii nâa mái khráp?",
+    "lit": "vous · descendre · station · devant (prochain) · [question] · [politesse]"
+   },
+   {
+    "fr": "Vous êtes fatigué ?",
+    "tgt": "เหนื่อยไหมครับ",
+    "ro": "Nùeai mái khráp?",
+    "lit": "fatigué · [question] · [politesse]"
+   },
+   {
+    "fr": "Le métro aérien est rapide ?",
+    "tgt": "รถไฟฟ้าเร็วไหมครับ",
+    "ro": "Rót-fai-fáa reo mái khráp?",
+    "lit": "métro aérien · rapide · [question] · [politesse]"
+   },
+   {
+    "fr": "Oui, très rapide !",
+    "tgt": "เร็วมากครับ",
+    "ro": "Reo mâak khráp.",
+    "lit": "rapide · très · [politesse]"
+   }
+  ]
+ },
+ "0-0-6": {
+  "module": "Le quotidien",
+  "title": "Un pad thaï pas épicé",
+  "grammaire_de_la_lecon": "« Mâi » : la négation, attention au ton",
+  "phrases": [
+   {
+    "fr": "Un pad thaï, s'il vous plaît.",
+    "tgt": "ขอผัดไทยหนึ่งจานครับ",
+    "ro": "Khǎw phàt-thai nùeng jaan khráp.",
+    "lit": "demander · pad thaï · un · assiette · [politesse]"
+   },
+   {
+    "fr": "Pas épicé, s'il vous plaît.",
+    "tgt": "ไม่เผ็ดนะครับ",
+    "ro": "Mâi phèt ná khráp.",
+    "lit": "ne pas · épicé · [douceur] · [politesse]"
+   },
+   {
+    "fr": "Je ne mange pas de cacahuètes.",
+    "tgt": "ผมไม่กินถั่วครับ",
+    "ro": "Phǒm mâi kin thùa khráp.",
+    "lit": "je · ne pas · manger · arachide · [politesse]"
+   },
+   {
+    "fr": "Sans sucre, s'il vous plaît.",
+    "tgt": "ไม่ใส่น้ำตาลครับ",
+    "ro": "Mâi sài náam-taan khráp.",
+    "lit": "ne pas · mettre · sucre · [politesse]"
+   },
+   {
+    "fr": "Ce n'est pas cher.",
+    "tgt": "ไม่แพงครับ",
+    "ro": "Mâi phaeng khráp.",
+    "lit": "ne pas · cher · [politesse]"
+   },
+   {
+    "fr": "Je ne suis pas thaïlandais.",
+    "tgt": "ผมไม่ใช่คนไทยครับ",
+    "ro": "Phǒm mâi châi khon thai khráp.",
+    "lit": "je · ne pas · exact · personne · thaï · [politesse]"
+   },
+   {
+    "fr": "Désolé, je ne comprends pas bien.",
+    "tgt": "ขอโทษครับ ผมไม่ค่อยเข้าใจครับ",
+    "ro": "Khǎw-thôot khráp, phǒm mâi khâwy khâo-jai khráp.",
+    "lit": "pardon · [politesse] · je · ne pas · très · comprendre · [politesse]"
+   },
+   {
+    "fr": "La vendeuse n'est pas là.",
+    "tgt": "แม่ค้าไม่อยู่ครับ",
+    "ro": "Mâe-kháa mâi yùu khráp.",
+    "lit": "vendeuse · ne pas · être là · [politesse]"
+   },
+   {
+    "fr": "Je n'ai pas faim.",
+    "tgt": "ผมไม่หิวครับ",
+    "ro": "Phǒm mâi hǐw khráp.",
+    "lit": "je · ne pas · avoir faim · [politesse]"
+   },
+   {
+    "fr": "Ce n'est pas mon plat.",
+    "tgt": "นี่ไม่ใช่จานของผมครับ",
+    "ro": "Nîi mâi châi jaan khǎwng phǒm khráp.",
+    "lit": "ceci · ne pas · exact · assiette · [de] · je · [politesse]"
+   }
+  ]
+ },
+ "0-0-7": {
+  "module": "Le quotidien",
+  "title": "La cuisine de rue",
+  "grammaire_de_la_lecon": "L'adjectif sans verbe être : « aa-hǎan à-ròi »",
+  "phrases": [
+   {
+    "fr": "Le som tam est très épicé.",
+    "tgt": "ส้มตำเผ็ดมากครับ",
+    "ro": "Sôm-tam phèt mâak khráp.",
+    "lit": "som tam · épicé · très · [politesse]"
+   },
+   {
+    "fr": "La nourriture est délicieuse ici.",
+    "tgt": "อาหารที่นี่อร่อยครับ",
+    "ro": "Aa-hǎan thîi-nîi à-ròi khráp.",
+    "lit": "nourriture · ici · délicieux · [politesse]"
+   },
+   {
+    "fr": "Aujourd'hui, il fait vraiment chaud.",
+    "tgt": "วันนี้ร้อนมากครับ",
+    "ro": "Wan-níi ráwn mâak khráp.",
+    "lit": "aujourd'hui · chaud · très · [politesse]"
+   },
+   {
+    "fr": "Le riz est trop salé.",
+    "tgt": "ข้าวเค็มไปครับ",
+    "ro": "Khâaw khem pai khráp.",
+    "lit": "riz · salé · aller (trop) · [politesse]"
+   },
+   {
+    "fr": "Le jus de mangue est sucré.",
+    "tgt": "น้ำมะม่วงหวานครับ",
+    "ro": "Náam-má-mûang wǎan khráp.",
+    "lit": "eau · mangue · sucré · [politesse]"
+   },
+   {
+    "fr": "Il y a beaucoup de monde au marché.",
+    "tgt": "ตลาดคนเยอะมากครับ",
+    "ro": "Tà-làat khon yóe mâak khráp.",
+    "lit": "marché · gens · nombreux · très · [politesse]"
+   },
+   {
+    "fr": "Je suis bien rassasié.",
+    "tgt": "อิ่มมากครับ",
+    "ro": "Ìm mâak khráp.",
+    "lit": "rassasié · très · [politesse]"
+   },
+   {
+    "fr": "Ce stand est vraiment bon marché.",
+    "tgt": "ร้านนี้ถูกมากครับ",
+    "ro": "Ráan níi thùuk mâak khráp.",
+    "lit": "stand · ce · bon marché · très · [politesse]"
+   },
+   {
+    "fr": "Vous êtes très doué !",
+    "tgt": "คุณเก่งมากครับ",
+    "ro": "Khun kèng mâak khráp.",
+    "lit": "vous · doué · très · [politesse]"
+   },
+   {
+    "fr": "Le thé glacé est un peu trop sucré.",
+    "tgt": "ชาเย็นหวานไปหน่อยครับ",
+    "ro": "Chaa-yen wǎan pai nòi khráp.",
+    "lit": "thé · froid · sucré · aller (trop) · un peu · [politesse]"
+   }
+  ]
+ },
+ "0-0-8": {
+  "module": "Le quotidien",
+  "title": "Au marché de nuit",
+  "grammaire_de_la_lecon": "« Nîi » et « nân » : ceci et cela",
+  "phrases": [
+   {
+    "fr": "Ça, c'est quoi ?",
+    "tgt": "นี่อะไรครับ",
+    "ro": "Nîi à-rai khráp?",
+    "lit": "ceci · quoi · [politesse]"
+   },
+   {
+    "fr": "Ça, c'est un fruit du dragon.",
+    "tgt": "นี่คือแก้วมังกรครับ",
+    "ro": "Nîi khue kâew-mang-kawn khráp.",
+    "lit": "ceci · c'est · fruit du dragon (verre · dragon) · [politesse]"
+   },
+   {
+    "fr": "Et ça, là-bas ?",
+    "tgt": "แล้วนั่นล่ะครับ",
+    "ro": "Láew nân lâ khráp?",
+    "lit": "et puis · cela · [insistance] · [politesse]"
+   },
+   {
+    "fr": "Ça, c'est du durian.",
+    "tgt": "นั่นทุเรียนครับ",
+    "ro": "Nân thú-rian khráp.",
+    "lit": "cela · durian · [politesse]"
+   },
+   {
+    "fr": "Combien coûte celui-ci ?",
+    "tgt": "อันนี้เท่าไรครับ",
+    "ro": "An níi thâo-rài khráp?",
+    "lit": "[classificateur] · ce · combien · [politesse]"
+   },
+   {
+    "fr": "Celui-là est plus joli.",
+    "tgt": "อันนั้นสวยกว่าครับ",
+    "ro": "An nán sǔai kwàa khráp.",
+    "lit": "[classificateur] · ce…là · joli · plus · [politesse]"
+   },
+   {
+    "fr": "D'accord, je prends celui-ci.",
+    "tgt": "ได้ครับ เอาอันนี้ครับ",
+    "ro": "Dâai khráp, ao an níi khráp.",
+    "lit": "pouvoir · [politesse] · prendre · [classificateur] · ce · [politesse]"
+   },
+   {
+    "fr": "Voici mon ami, il s'appelle Lek.",
+    "tgt": "นี่เพื่อนผมชื่อเล็กครับ",
+    "ro": "Nîi phûean phǒm chûe Lék khráp.",
+    "lit": "ceci · ami · je · s'appeler · Lek · [politesse]"
+   },
+   {
+    "fr": "Ici, c'est très animé.",
+    "tgt": "ที่นี่คึกคักมากครับ",
+    "ro": "Thîi-nîi khúek-khák mâak khráp.",
+    "lit": "ici · animé · très · [politesse]"
+   },
+   {
+    "fr": "Là-bas, il y a des glaces.",
+    "tgt": "ที่นั่นมีไอศกรีมครับ",
+    "ro": "Thîi-nân mii ai-sà-kriim khráp.",
+    "lit": "là-bas · avoir · glace · [politesse]"
+   }
+  ]
+ },
+ "0-0-9": {
+  "module": "Le quotidien",
+  "title": "Dans mon appartement",
+  "grammaire_de_la_lecon": "« Khǎwng » : de, le possessif",
+  "phrases": [
+   {
+    "fr": "Et voici mon appartement.",
+    "tgt": "แล้วนี่คือห้องของผมครับ",
+    "ro": "Láew nîi khue hâwng khǎwng phǒm khráp.",
+    "lit": "et puis · ceci · c'est · chambre · [de] · je · [politesse]"
+   },
+   {
+    "fr": "C'est la clé de qui ?",
+    "tgt": "กุญแจของใครครับ",
+    "ro": "Kun-jae khǎwng khrai khráp?",
+    "lit": "clé · [de] · qui · [politesse]"
+   },
+   {
+    "fr": "C'est la clé de Nok.",
+    "tgt": "กุญแจของนกครับ",
+    "ro": "Kun-jae khǎwng Nók khráp.",
+    "lit": "clé · [de] · Nok · [politesse]"
+   },
+   {
+    "fr": "Ce téléphone est à moi.",
+    "tgt": "มือถือเครื่องนี้เป็นของผมครับ",
+    "ro": "Mue-thǔe khrûeang níi pen khǎwng phǒm khráp.",
+    "lit": "téléphone · [classificateur] · ce · être · [de] · je · [politesse]"
+   },
+   {
+    "fr": "La chambre de ma sœur est très claire.",
+    "tgt": "ห้องของน้องสาวผมสว่างมากครับ",
+    "ro": "Hâwng khǎwng náwng-sǎaw phǒm sà-wàang mâak khráp.",
+    "lit": "chambre · [de] · petite sœur · je · clair · très · [politesse]"
+   },
+   {
+    "fr": "Les affaires de Lek sont sur la table.",
+    "tgt": "ของของเล็กอยู่บนโต๊ะครับ",
+    "ro": "Khǎwng khǎwng Lék yùu bon tó khráp.",
+    "lit": "affaires · [de] · Lek · se trouver · sur · table · [politesse]"
+   },
+   {
+    "fr": "Le chat du voisin est mignon.",
+    "tgt": "แมวของเพื่อนบ้านน่ารักครับ",
+    "ro": "Maew khǎwng phûean-bâan nâa-rák khráp.",
+    "lit": "chat · [de] · voisin · mignon · [politesse]"
+   },
+   {
+    "fr": "La cuisine est petite mais propre.",
+    "tgt": "ครัวเล็กแต่สะอาดครับ",
+    "ro": "Khrua lék tàe sà-àat khráp.",
+    "lit": "cuisine · petit · mais · propre · [politesse]"
+   },
+   {
+    "fr": "Le balcon de l'appartement est grand.",
+    "tgt": "ระเบียงของห้องใหญ่ครับ",
+    "ro": "Rá-biang khǎwng hâwng yài khráp.",
+    "lit": "balcon · [de] · chambre · grand · [politesse]"
+   },
+   {
+    "fr": "Mon logement est près de la station.",
+    "tgt": "ห้องผมอยู่ใกล้สถานีครับ",
+    "ro": "Hâwng phǒm yùu klâi sà-thǎa-nii khráp.",
+    "lit": "chambre · je · se trouver · près · station · [politesse]"
+   }
+  ]
+ },
+ "0-0-10": {
+  "module": "Le quotidien",
+  "title": "Les courses au marché",
+  "grammaire_de_la_lecon": "Compter : « nùeng, sǎwng, sǎam »",
+  "phrases": [
+   {
+    "fr": "Deux bouteilles d'eau, s'il vous plaît.",
+    "tgt": "ขอน้ำสองขวดครับ",
+    "ro": "Khǎw náam sǎwng khùat khráp.",
+    "lit": "demander · eau · deux · bouteille [classificateur] · [politesse]"
+   },
+   {
+    "fr": "Trois mangues, s'il vous plaît.",
+    "tgt": "ขอมะม่วงสามลูกครับ",
+    "ro": "Khǎw má-mûang sǎam lûuk khráp.",
+    "lit": "demander · mangue · trois · [classificateur] · [politesse]"
+   },
+   {
+    "fr": "Ça fait cinquante bahts.",
+    "tgt": "ห้าสิบบาทครับ",
+    "ro": "Hâa-sìp bàat khráp.",
+    "lit": "cinq · dix · baht · [politesse]"
+   },
+   {
+    "fr": "Combien coûte une banane ?",
+    "tgt": "กล้วยลูกละเท่าไรครับ",
+    "ro": "Klûai lûuk lá thâo-rài khráp?",
+    "lit": "banane · [classificateur] · chaque · combien · [politesse]"
+   },
+   {
+    "fr": "Dix bahts pièce.",
+    "tgt": "ลูกละสิบบาทครับ",
+    "ro": "Lûuk lá sìp bàat khráp.",
+    "lit": "[classificateur] · chaque · dix · baht · [politesse]"
+   },
+   {
+    "fr": "Quatre œufs, s'il vous plaît.",
+    "tgt": "ขอไข่สี่ฟองครับ",
+    "ro": "Khǎw khài sìi fawng khráp.",
+    "lit": "demander · œuf · quatre · [classificateur] · [politesse]"
+   },
+   {
+    "fr": "Cent bahts, c'est trop cher.",
+    "tgt": "ร้อยบาทแพงไปครับ",
+    "ro": "Rói bàat phaeng pai khráp.",
+    "lit": "cent · baht · cher · aller (trop) · [politesse]"
+   },
+   {
+    "fr": "Je vous donne deux cents bahts.",
+    "tgt": "ผมให้สองร้อยบาทครับ",
+    "ro": "Phǒm hâi sǎwng rói bàat khráp.",
+    "lit": "je · donner · deux · cent · baht · [politesse]"
+   },
+   {
+    "fr": "Je vous rends vingt bahts.",
+    "tgt": "ทอนยี่สิบบาทครับ",
+    "ro": "Thawn yîi-sìp bàat khráp.",
+    "lit": "rendre la monnaie · vingt · baht · [politesse]"
+   },
+   {
+    "fr": "Nous sommes cinq personnes.",
+    "tgt": "เรามีห้าคนครับ",
+    "ro": "Rao mii hâa khon khráp.",
+    "lit": "nous · avoir · cinq · personne [classificateur] · [politesse]"
+   }
+  ]
+ },
+ "0-0-11": {
+  "module": "Le quotidien",
+  "title": "Au marché de Chatuchak",
+  "grammaire_de_la_lecon": "« Mii » : avoir, il y a",
+  "phrases": [
+   {
+    "fr": "Vous avez de l'eau fraîche ?",
+    "tgt": "มีน้ำเย็นไหมครับ",
+    "ro": "Mii náam yen mái khráp?",
+    "lit": "avoir · eau · frais · [question] · [politesse]"
+   },
+   {
+    "fr": "Oui, il y en a au fond.",
+    "tgt": "มีครับ อยู่ข้างหลังครับ",
+    "ro": "Mii khráp, yùu khâang-lǎng khráp.",
+    "lit": "avoir · [politesse] · se trouver · derrière · [politesse]"
+   },
+   {
+    "fr": "Il n'y a pas de glaçons.",
+    "tgt": "ไม่มีน้ำแข็งครับ",
+    "ro": "Mâi mii náam-khǎeng khráp.",
+    "lit": "ne pas · avoir · glace (eau · dur) · [politesse]"
+   },
+   {
+    "fr": "J'ai un nouveau téléphone portable.",
+    "tgt": "ผมมีมือถือใหม่ครับ",
+    "ro": "Phǒm mii mue-thǔe mài khráp.",
+    "lit": "je · avoir · téléphone portable · nouveau · [politesse]"
+   },
+   {
+    "fr": "Vous avez de la monnaie, s'il vous plaît ?",
+    "tgt": "มีเงินทอนไหมครับ",
+    "ro": "Mii ngoen-thawn mái khráp?",
+    "lit": "avoir · argent · rendre · [question] · [politesse]"
+   },
+   {
+    "fr": "Désolé, je n'ai pas de petite monnaie.",
+    "tgt": "ขอโทษครับ ผมไม่มีเงินทอนครับ",
+    "ro": "Khǎw-thôot khráp, phǒm mâi mii ngoen-thawn khráp.",
+    "lit": "pardon · [politesse] · je · ne pas · avoir · argent · rendre · [politesse]"
+   },
+   {
+    "fr": "Il y a un distributeur dans le coin ?",
+    "tgt": "แถวนี้มีตู้กดเงินไหมครับ",
+    "ro": "Thǎew-níi mii tûu-kòt-ngoen mái khráp?",
+    "lit": "coin · ce · avoir · armoire · appuyer · argent · [question] · [politesse]"
+   },
+   {
+    "fr": "J'ai deux grands frères.",
+    "tgt": "ผมมีพี่ชายสองคนครับ",
+    "ro": "Phǒm mii phîi-chaai sǎwng khon khráp.",
+    "lit": "je · avoir · aîné · homme · deux · [classificateur] · [politesse]"
+   },
+   {
+    "fr": "Il y a des mangues aujourd'hui ?",
+    "tgt": "วันนี้มีมะม่วงไหมครับ",
+    "ro": "Wan-níi mii má-mûang mái khráp?",
+    "lit": "aujourd'hui · avoir · mangue · [question] · [politesse]"
+   },
+   {
+    "fr": "Je n'ai pas le temps aujourd'hui.",
+    "tgt": "วันนี้ผมไม่มีเวลาครับ",
+    "ro": "Wan-níi phǒm mâi mii wee-laa khráp.",
+    "lit": "aujourd'hui · je · ne pas · avoir · temps · [politesse]"
+   }
+  ]
+ },
+ "0-0-12": {
+  "module": "Le quotidien",
+  "title": "Sur la rivière Chao Phraya",
+  "grammaire_de_la_lecon": "« Yùu » : être à un endroit",
+  "phrases": [
+   {
+    "fr": "Où est l'embarcadère ?",
+    "tgt": "ท่าเรืออยู่ที่ไหนครับ",
+    "ro": "Thâa-ruea yùu thîi-nǎi khráp?",
+    "lit": "quai · bateau · se trouver · où · [politesse]"
+   },
+   {
+    "fr": "L'embarcadère est près du pont.",
+    "tgt": "ท่าเรืออยู่ใกล้สะพานครับ",
+    "ro": "Thâa-ruea yùu klâi sà-phaan khráp.",
+    "lit": "quai · bateau · se trouver · près · pont · [politesse]"
+   },
+   {
+    "fr": "Je suis sur le bateau.",
+    "tgt": "ผมอยู่บนเรือครับ",
+    "ro": "Phǒm yùu bon ruea khráp.",
+    "lit": "je · se trouver · sur · bateau · [politesse]"
+   },
+   {
+    "fr": "Wat Arun est sur l'autre rive.",
+    "tgt": "วัดอรุณอยู่อีกฝั่งครับ",
+    "ro": "Wát À-run yùu ìik fàng khráp.",
+    "lit": "Wat Arun · se trouver · autre · rive · [politesse]"
+   },
+   {
+    "fr": "Vous êtes où, maintenant ?",
+    "tgt": "ตอนนี้อยู่ที่ไหนครับ",
+    "ro": "Tawn-níi yùu thîi-nǎi khráp?",
+    "lit": "maintenant · se trouver · où · [politesse]"
+   },
+   {
+    "fr": "Je suis encore au marché aux fleurs.",
+    "tgt": "ผมยังอยู่ที่ตลาดดอกไม้ครับ",
+    "ro": "Phǒm yang yùu thîi tà-làat dàwk-máai khráp.",
+    "lit": "je · encore · se trouver · à · marché · fleur · [politesse]"
+   },
+   {
+    "fr": "Elle habite au bord de la rivière.",
+    "tgt": "เขาอยู่ริมแม่น้ำครับ",
+    "ro": "Khǎo yùu rim mâe-náam khráp.",
+    "lit": "elle · habiter · bord · rivière (mère · eau) · [politesse]"
+   },
+   {
+    "fr": "Les toilettes sont à l'arrière du bateau.",
+    "tgt": "ห้องน้ำอยู่ท้ายเรือครับ",
+    "ro": "Hâwng-náam yùu tháai ruea khráp.",
+    "lit": "toilettes (pièce · eau) · se trouver · arrière · bateau · [politesse]"
+   },
+   {
+    "fr": "Mon hôtel est au bord de la Chao Phraya.",
+    "tgt": "โรงแรมผมอยู่ริมแม่น้ำเจ้าพระยาครับ",
+    "ro": "Roong-raem phǒm yùu rim mâe-náam Jâo-phrá-yaa khráp.",
+    "lit": "hôtel · je · se trouver · bord · rivière · Chao Phraya · [politesse]"
+   },
+   {
+    "fr": "Il n'est pas à la maison.",
+    "tgt": "เขาไม่อยู่บ้านครับ",
+    "ro": "Khǎo mâi yùu bâan khráp.",
+    "lit": "il · ne pas · se trouver · maison · [politesse]"
+   }
+  ]
+ },
+ "0-0-13": {
+  "module": "Le quotidien",
+  "title": "Les vêtements et les couleurs",
+  "grammaire_de_la_lecon": "L'adjectif après le nom",
+  "phrases": [
+   {
+    "fr": "Je cherche une chemise blanche.",
+    "tgt": "ผมหาเสื้อเชิ้ตสีขาวครับ",
+    "ro": "Phǒm hǎa sûea-chóet sǐi khǎaw khráp.",
+    "lit": "je · chercher · chemise · couleur · blanc · [politesse]"
+   },
+   {
+    "fr": "Ce chapeau rouge est joli.",
+    "tgt": "หมวกสีแดงใบนี้สวยครับ",
+    "ro": "Mùak sǐi daeng bai níi sǔai khráp.",
+    "lit": "chapeau · couleur · rouge · [classificateur] · ce · joli · [politesse]"
+   },
+   {
+    "fr": "Vous avez une taille plus grande ?",
+    "tgt": "มีไซซ์ใหญ่กว่านี้ไหมครับ",
+    "ro": "Mii sai yài kwàa níi mái khráp?",
+    "lit": "avoir · taille · grand · plus · ceci · [question] · [politesse]"
+   },
+   {
+    "fr": "Un pantalon léger, c'est mieux.",
+    "tgt": "กางเกงบางๆดีกว่าครับ",
+    "ro": "Kaang-keeng baang-baang dii kwàa khráp.",
+    "lit": "pantalon · fin · fin · bien · plus · [politesse]"
+   },
+   {
+    "fr": "Il fait chaud, je porte un tee-shirt.",
+    "tgt": "อากาศร้อน ผมใส่เสื้อยืดครับ",
+    "ro": "Aa-kàat ráwn, phǒm sài sûea-yûet khráp.",
+    "lit": "air · chaud · je · porter · tee-shirt (haut · s'étirer) · [politesse]"
+   },
+   {
+    "fr": "J'aime les chaussures noires.",
+    "tgt": "ผมชอบรองเท้าสีดำครับ",
+    "ro": "Phǒm châwp rawng-tháao sǐi dam khráp.",
+    "lit": "je · aimer · chaussure · couleur · noir · [politesse]"
+   },
+   {
+    "fr": "Elle porte une robe bleue.",
+    "tgt": "เขาใส่ชุดสีฟ้าครับ",
+    "ro": "Khǎo sài chút sǐi fáa khráp.",
+    "lit": "elle · porter · robe · couleur · ciel · [politesse]"
+   },
+   {
+    "fr": "Je prends le petit sac vert.",
+    "tgt": "เอากระเป๋าสีเขียวใบเล็กครับ",
+    "ro": "Ao krà-pǎo sǐi khǐaw bai lék khráp.",
+    "lit": "prendre · sac · couleur · vert · [classificateur] · petit · [politesse]"
+   },
+   {
+    "fr": "Ce haut est très cher.",
+    "tgt": "เสื้อตัวนี้แพงมากครับ",
+    "ro": "Sûea tua níi phaeng mâak khráp.",
+    "lit": "haut · [classificateur] · ce · cher · très · [politesse]"
+   },
+   {
+    "fr": "J'achète des sandales confortables.",
+    "tgt": "ผมซื้อรองเท้าแตะใส่สบายครับ",
+    "ro": "Phǒm súe rawng-tháao-tàe sài sà-baai khráp.",
+    "lit": "je · acheter · sandale · porter · confortable · [politesse]"
+   }
+  ]
+ },
+ "0-0-14": {
+  "module": "Le quotidien",
+  "title": "Demander son chemin",
+  "grammaire_de_la_lecon": "Les mots interrogatifs : « à-rai, thîi-nǎi, khrai, mûea-rài »",
+  "phrases": [
+   {
+    "fr": "Vous cherchez quoi ?",
+    "tgt": "คุณหาอะไรครับ",
+    "ro": "Khun hǎa à-rai khráp?",
+    "lit": "vous · chercher · quoi · [politesse]"
+   },
+   {
+    "fr": "Où est la station de métro ?",
+    "tgt": "สถานีรถไฟใต้ดินอยู่ที่ไหนครับ",
+    "ro": "Sà-thǎa-nii rót-fai-tâi-din yùu thîi-nǎi khráp?",
+    "lit": "station · train · sous · terre · se trouver · où · [politesse]"
+   },
+   {
+    "fr": "Allez tout droit, puis tournez à gauche.",
+    "tgt": "ตรงไปแล้วเลี้ยวซ้ายครับ",
+    "ro": "Trong pai láew líaw sáai khráp.",
+    "lit": "droit · aller · puis · tourner · gauche · [politesse]"
+   },
+   {
+    "fr": "Qui est cet homme ?",
+    "tgt": "ผู้ชายคนนั้นเป็นใครครับ",
+    "ro": "Phûu-chaai khon nán pen khrai khráp?",
+    "lit": "homme · [classificateur] · ce…là · être · qui · [politesse]"
+   },
+   {
+    "fr": "C'est le gardien de l'immeuble.",
+    "tgt": "เขาเป็นยามของตึกครับ",
+    "ro": "Khǎo pen yaam khǎwng tùek khráp.",
+    "lit": "il · être · gardien · [de] · immeuble · [politesse]"
+   },
+   {
+    "fr": "Le marché ouvre quand ?",
+    "tgt": "ตลาดเปิดเมื่อไรครับ",
+    "ro": "Tà-làat pòet mûea-rài khráp?",
+    "lit": "marché · ouvrir · quand · [politesse]"
+   },
+   {
+    "fr": "Comment va-t-on à l'embarcadère ?",
+    "tgt": "ไปท่าเรือยังไงครับ",
+    "ro": "Pai thâa-ruea yang-ngai khráp?",
+    "lit": "aller · quai · bateau · comment · [politesse]"
+   },
+   {
+    "fr": "C'est loin si on marche ?",
+    "tgt": "เดินไปไกลไหมครับ",
+    "ro": "Doen pai klai mái khráp?",
+    "lit": "marcher · aller · loin · [question] · [politesse]"
+   },
+   {
+    "fr": "Vous venez d'où ?",
+    "tgt": "คุณมาจากไหนครับ",
+    "ro": "Khun maa jàak nǎi khráp?",
+    "lit": "vous · venir · de · où · [politesse]"
+   },
+   {
+    "fr": "Vous rentrez quand en France ?",
+    "tgt": "คุณกลับฝรั่งเศสเมื่อไรครับ",
+    "ro": "Khun klàp fà-ràng-sèet mûea-rài khráp?",
+    "lit": "vous · rentrer · France · quand · [politesse]"
+   }
+  ]
+ },
+ "0-0-15": {
+  "module": "Le quotidien",
+  "title": "La routine du matin",
+  "grammaire_de_la_lecon": "« Dûai » : aussi",
+  "phrases": [
+   {
+    "fr": "Je me réveille à six heures du matin.",
+    "tgt": "ผมตื่นหกโมงเช้าครับ",
+    "ro": "Phǒm tùen hòk moong cháao khráp.",
+    "lit": "je · se réveiller · six · heure · matin · [politesse]"
+   },
+   {
+    "fr": "Je prends une douche fraîche.",
+    "tgt": "ผมอาบน้ำเย็นครับ",
+    "ro": "Phǒm àap-náam yen khráp.",
+    "lit": "je · se laver · eau · frais · [politesse]"
+   },
+   {
+    "fr": "Ma femme se lève tôt, elle aussi.",
+    "tgt": "ภรรยาผมก็ตื่นเช้าด้วยครับ",
+    "ro": "Phan-rá-yaa phǒm kâw tùen cháao dûai khráp.",
+    "lit": "épouse · je · [aussi] · se réveiller · tôt · aussi · [politesse]"
+   },
+   {
+    "fr": "Je bois un café, et un jus d'orange aussi.",
+    "tgt": "ผมดื่มกาแฟ แล้วก็น้ำส้มด้วยครับ",
+    "ro": "Phǒm dùem kaa-fae, láew kâw náam-sôm dûai khráp.",
+    "lit": "je · boire · café · et puis · eau · orange · aussi · [politesse]"
+   },
+   {
+    "fr": "Un pain grillé aussi, s'il vous plaît.",
+    "tgt": "ขอขนมปังปิ้งด้วยครับ",
+    "ro": "Khǎw khà-nǒm-pang pîng dûai khráp.",
+    "lit": "demander · pain · griller · aussi · [politesse]"
+   },
+   {
+    "fr": "Moi aussi, j'ai faim.",
+    "tgt": "ผมก็หิวด้วยครับ",
+    "ro": "Phǒm kâw hǐw dûai khráp.",
+    "lit": "je · [aussi] · avoir faim · aussi · [politesse]"
+   },
+   {
+    "fr": "Je prends le métro, mon collègue aussi.",
+    "tgt": "ผมนั่งรถไฟใต้ดิน เพื่อนร่วมงานก็นั่งด้วยครับ",
+    "ro": "Phǒm nâng rót-fai-tâi-din, phûean-rûam-ngaan kâw nâng dûai khráp.",
+    "lit": "je · prendre · métro · collègue · [aussi] · prendre · aussi · [politesse]"
+   },
+   {
+    "fr": "Il fait chaud, et humide aussi.",
+    "tgt": "ร้อนแล้วก็ชื้นด้วยครับ",
+    "ro": "Ráwn láew kâw chúen dûai khráp.",
+    "lit": "chaud · et puis · humide · aussi · [politesse]"
+   },
+   {
+    "fr": "Je pars au travail à huit heures.",
+    "tgt": "ผมไปทำงานแปดโมงครับ",
+    "ro": "Phǒm pai tham-ngaan pàet moong khráp.",
+    "lit": "je · aller · travailler · huit · heure · [politesse]"
+   },
+   {
+    "fr": "Je prends mon parapluie aussi.",
+    "tgt": "ผมเอาร่มไปด้วยครับ",
+    "ro": "Phǒm ao rôm pai dûai khráp.",
+    "lit": "je · prendre · parapluie · aller · aussi · [politesse]"
+   }
+  ]
+ },
+ "0-0-16": {
+  "module": "Le quotidien",
+  "title": "Dire l'heure",
+  "grammaire_de_la_lecon": "L'heure en thaï : un système à part",
+  "phrases": [
+   {
+    "fr": "Il est quelle heure, là ?",
+    "tgt": "กี่โมงแล้วครับ",
+    "ro": "Kìi moong láew khráp?",
+    "lit": "combien · heure · [accompli] · [politesse]"
+   },
+   {
+    "fr": "Il est huit heures du matin.",
+    "tgt": "แปดโมงเช้าครับ",
+    "ro": "Pàet moong cháao khráp.",
+    "lit": "huit · heure · matin · [politesse]"
+   },
+   {
+    "fr": "On se retrouve à midi.",
+    "tgt": "เจอกันเที่ยงครับ",
+    "ro": "Joe kan thîang khráp.",
+    "lit": "rencontrer · ensemble · midi · [politesse]"
+   },
+   {
+    "fr": "Le cours commence à une heure de l'après-midi.",
+    "tgt": "เรียนเริ่มบ่ายโมงครับ",
+    "ro": "Rian rôem bàai moong khráp.",
+    "lit": "étudier · commencer · après-midi · heure · [politesse]"
+   },
+   {
+    "fr": "Il est quatre heures de l'après-midi.",
+    "tgt": "สี่โมงเย็นครับ",
+    "ro": "Sìi moong yen khráp.",
+    "lit": "quatre · heure · fin de journée · [politesse]"
+   },
+   {
+    "fr": "On dîne à sept heures du soir.",
+    "tgt": "กินข้าวเย็นตอนหนึ่งทุ่มครับ",
+    "ro": "Kin khâaw yen tawn nùeng thûm khráp.",
+    "lit": "manger · riz · soir · au moment de · un · [heure du soir] · [politesse]"
+   },
+   {
+    "fr": "Je rentre à neuf heures du soir.",
+    "tgt": "ผมกลับบ้านสามทุ่มครับ",
+    "ro": "Phǒm klàp bâan sǎam thûm khráp.",
+    "lit": "je · rentrer · maison · trois · [heure du soir] · [politesse]"
+   },
+   {
+    "fr": "Je me couche à minuit.",
+    "tgt": "ผมนอนเที่ยงคืนครับ",
+    "ro": "Phǒm nawn thîang-khuen khráp.",
+    "lit": "je · dormir · midi · nuit · [politesse]"
+   },
+   {
+    "fr": "Le marché ouvre à cinq heures du matin.",
+    "tgt": "ตลาดเปิดตีห้าครับ",
+    "ro": "Tà-làat pòet tii hâa khráp.",
+    "lit": "marché · ouvrir · frapper · cinq · [politesse]"
+   },
+   {
+    "fr": "Il est huit heures et demie.",
+    "tgt": "แปดโมงครึ่งครับ",
+    "ro": "Pàet moong khrûeng khráp.",
+    "lit": "huit · heure · moitié · [politesse]"
+   }
+  ]
+ },
+ "0-0-17": {
+  "module": "Le quotidien",
+  "title": "Un tour en tuk-tuk",
+  "grammaire_de_la_lecon": "« Yàak » : vouloir",
+  "phrases": [
+   {
+    "fr": "Je veux aller au marché de nuit.",
+    "tgt": "ผมอยากไปตลาดนัดกลางคืนครับ",
+    "ro": "Phǒm yàak pai tà-làat-nát klaang-khuen khráp.",
+    "lit": "je · vouloir · aller · marché · nuit · [politesse]"
+   },
+   {
+    "fr": "Vous voulez aller où ?",
+    "tgt": "อยากไปไหนครับ",
+    "ro": "Yàak pai nǎi khráp?",
+    "lit": "vouloir · aller · où · [politesse]"
+   },
+   {
+    "fr": "J'ai envie de voir la rivière.",
+    "tgt": "ผมอยากดูแม่น้ำครับ",
+    "ro": "Phǒm yàak duu mâe-náam khráp.",
+    "lit": "je · vouloir · regarder · rivière · [politesse]"
+   },
+   {
+    "fr": "C'est combien jusqu'à Siam ?",
+    "tgt": "ไปสยามเท่าไรครับ",
+    "ro": "Pai Sà-yǎam thâo-rài khráp?",
+    "lit": "aller · Siam · combien · [politesse]"
+   },
+   {
+    "fr": "Cent cinquante bahts.",
+    "tgt": "ร้อยห้าสิบบาทครับ",
+    "ro": "Rói-hâa-sìp bàat khráp.",
+    "lit": "cent · cinq · dix · baht · [politesse]"
+   },
+   {
+    "fr": "Je ne veux pas payer autant.",
+    "tgt": "ผมไม่อยากจ่ายแพงขนาดนั้นครับ",
+    "ro": "Phǒm mâi yàak jàai phaeng khà-nàat nán khráp.",
+    "lit": "je · ne pas · vouloir · payer · cher · taille · ce…là · [politesse]"
+   },
+   {
+    "fr": "Cent bahts, c'est possible ?",
+    "tgt": "ร้อยบาทได้ไหมครับ",
+    "ro": "Rói bàat dâai mái khráp?",
+    "lit": "cent · baht · pouvoir · [question] · [politesse]"
+   },
+   {
+    "fr": "Je veux boire un thé glacé.",
+    "tgt": "ผมอยากดื่มชาเย็นครับ",
+    "ro": "Phǒm yàak dùem chaa-yen khráp.",
+    "lit": "je · vouloir · boire · thé · froid · [politesse]"
+   },
+   {
+    "fr": "Ma copine a envie de manger du som tam.",
+    "tgt": "แฟนผมอยากกินส้มตำครับ",
+    "ro": "Faen phǒm yàak kin sôm-tam khráp.",
+    "lit": "copine · je · vouloir · manger · som tam · [politesse]"
+   },
+   {
+    "fr": "Je voudrais descendre ici.",
+    "tgt": "ผมอยากลงตรงนี้ครับ",
+    "ro": "Phǒm yàak long trong-níi khráp.",
+    "lit": "je · vouloir · descendre · endroit · ce · [politesse]"
+   }
+  ]
+ },
+ "0-0-18": {
+  "module": "Le quotidien",
+  "title": "Un appel entre amis",
+  "grammaire_de_la_lecon": "« Kan thoe » : allons-y, proposer",
+  "phrases": [
+   {
+    "fr": "Allô, c'est Thomas.",
+    "tgt": "ฮัลโหล ผมโทมัสนะครับ",
+    "ro": "Han-lǒo, phǒm Thoo-mát ná khráp.",
+    "lit": "allô · je · Thomas · [douceur] · [politesse]"
+   },
+   {
+    "fr": "Allons manger ensemble !",
+    "tgt": "ไปกินข้าวกันเถอะครับ",
+    "ro": "Pai kin khâaw kan thòe khráp.",
+    "lit": "aller · manger · riz · ensemble · [proposition] · [politesse]"
+   },
+   {
+    "fr": "Allons au marché de nuit ce soir !",
+    "tgt": "คืนนี้ไปตลาดนัดกันเถอะครับ",
+    "ro": "Khuen-níi pai tà-làat-nát kan thòe khráp.",
+    "lit": "nuit · ce · aller · marché · ensemble · [proposition] · [politesse]"
+   },
+   {
+    "fr": "D'accord, à quelle heure ?",
+    "tgt": "ได้ครับ กี่โมงครับ",
+    "ro": "Dâai khráp, kìi moong khráp?",
+    "lit": "pouvoir · [politesse] · combien · heure · [politesse]"
+   },
+   {
+    "fr": "On se retrouve à la station à six heures du soir.",
+    "tgt": "เจอกันที่สถานีหกโมงเย็นนะครับ",
+    "ro": "Joe kan thîi sà-thǎa-nii hòk moong yen ná khráp.",
+    "lit": "rencontrer · ensemble · à · station · six · heure · soir · [douceur] · [politesse]"
+   },
+   {
+    "fr": "Prenons le bateau !",
+    "tgt": "นั่งเรือกันเถอะครับ",
+    "ro": "Nâng ruea kan thòe khráp.",
+    "lit": "s'asseoir (prendre) · bateau · ensemble · [proposition] · [politesse]"
+   },
+   {
+    "fr": "Il pleut, rentrons.",
+    "tgt": "ฝนตกแล้ว กลับกันเถอะครับ",
+    "ro": "Fǒn tòk láew, klàp kan thòe khráp.",
+    "lit": "pluie · tomber · [accompli] · rentrer · ensemble · [proposition] · [politesse]"
+   },
+   {
+    "fr": "Je te rappelle plus tard.",
+    "tgt": "เดี๋ยวผมโทรกลับนะครับ",
+    "ro": "Dǐaw phǒm thoo klàp ná khráp.",
+    "lit": "tout à l'heure · je · appeler · retour · [douceur] · [politesse]"
+   },
+   {
+    "fr": "Mon téléphone n'a plus de batterie.",
+    "tgt": "มือถือผมแบตหมดครับ",
+    "ro": "Mue-thǔe phǒm bàet mòt khráp.",
+    "lit": "téléphone · je · batterie · épuisé · [politesse]"
+   },
+   {
+    "fr": "Bon, allons-y !",
+    "tgt": "ไปกันเถอะครับ",
+    "ro": "Pai kan thòe khráp.",
+    "lit": "aller · ensemble · [proposition] · [politesse]"
+   }
+  ]
+ },
+ "0-0-19": {
+  "module": "Le quotidien",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "Les formules magiques : « sà-wàt-dii, khàwp-khun, khǎw-thôot, mâi pen rai »",
+  "phrases": [
+   {
+    "fr": "Bonjour à tous !",
+    "tgt": "สวัสดีทุกคนครับ",
+    "ro": "Sà-wàt-dii thúk khon khráp.",
+    "lit": "bonjour · chaque · personne · [politesse]"
+   },
+   {
+    "fr": "Cette première série de leçons est terminée.",
+    "tgt": "บทเรียนชุดแรกจบแล้วครับ",
+    "ro": "Bòt-rian chút râek jòp láew khráp.",
+    "lit": "leçon · série · premier · finir · [accompli] · [politesse]"
+   },
+   {
+    "fr": "Je parle un peu mieux le thaï.",
+    "tgt": "ผมพูดภาษาไทยได้ดีขึ้นนิดหน่อยครับ",
+    "ro": "Phǒm phûut phaa-sǎa thai dâai dii khûen nít-nòi khráp.",
+    "lit": "je · parler · langue · thaï · pouvoir · bien · monter · un peu · [politesse]"
+   },
+   {
+    "fr": "Le thaï n'est pas si difficile.",
+    "tgt": "ภาษาไทยไม่ยากเท่าไรครับ",
+    "ro": "Phaa-sǎa thai mâi yâak thâo-rài khráp.",
+    "lit": "langue · thaï · ne pas · difficile · tant que ça · [politesse]"
+   },
+   {
+    "fr": "Pardon pour mes erreurs de tons !",
+    "tgt": "ขอโทษที่ผมพูดเสียงผิดครับ",
+    "ro": "Khǎw-thôot thîi phǒm phûut sǐang phìt khráp.",
+    "lit": "pardon · que · je · parler · son · faux · [politesse]"
+   },
+   {
+    "fr": "Ce n'est rien, continuez !",
+    "tgt": "ไม่เป็นไรครับ พูดต่อไปครับ",
+    "ro": "Mâi pen rai khráp, phûut tàw pai khráp.",
+    "lit": "ne pas · être · quoi · [politesse] · parler · continuer · aller · [politesse]"
+   },
+   {
+    "fr": "Merci de m'avoir aidé.",
+    "tgt": "ขอบคุณที่ช่วยผมครับ",
+    "ro": "Khàwp-khun thîi chûai phǒm khráp.",
+    "lit": "merci · que · aider · je · [politesse]"
+   },
+   {
+    "fr": "Le prochain module parle de voyage.",
+    "tgt": "บทต่อไปเป็นเรื่องการเดินทางครับ",
+    "ro": "Bòt tàw pai pen rûeang kaan doen-thaang khráp.",
+    "lit": "chapitre · suivant · être · sujet · voyage · [politesse]"
+   },
+   {
+    "fr": "Continuons ensemble !",
+    "tgt": "เรียนต่อกันเถอะครับ",
+    "ro": "Rian tàw kan thòe khráp.",
+    "lit": "étudier · continuer · ensemble · [proposition] · [politesse]"
+   },
+   {
+    "fr": "Merci et à bientôt !",
+    "tgt": "ขอบคุณครับ แล้วเจอกันใหม่ครับ",
+    "ro": "Khàwp-khun khráp, láew joe kan mài khráp.",
+    "lit": "merci · [politesse] · puis · rencontrer · ensemble · de nouveau · [politesse]"
+   }
+  ]
+ },
+ "0-1-0": {
+  "module": "En voyage",
+  "title": "Arrivée à l'aéroport de Bangkok",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Où est la sortie, s'il vous plaît ?",
+    "tgt": "ทางออกอยู่ที่ไหนครับ",
+    "ro": "Thaang-àwk yùu thîi-nǎi khráp?",
+    "lit": "chemin · sortir · se trouver · où · [politesse]"
+   },
+   {
+    "fr": "Je cherche le bus pour le centre.",
+    "tgt": "ผมหารถเข้าเมืองครับ",
+    "ro": "Phǒm hǎa rót khâo mueang khráp.",
+    "lit": "je (homme) · chercher · véhicule · entrer · ville · [politesse]"
+   },
+   {
+    "fr": "Le bus est par là-bas.",
+    "tgt": "รถอยู่ทางนั้นครับ",
+    "ro": "Rót yùu thaang nán khráp.",
+    "lit": "véhicule · se trouver · direction · là-bas · [politesse]"
+   },
+   {
+    "fr": "Bienvenue en Thaïlande !",
+    "tgt": "ยินดีต้อนรับสู่ประเทศไทยครับ",
+    "ro": "Yin-dii tâwn-ráp sùu prà-thêet-thai khráp.",
+    "lit": "content · accueillir · vers · pays · thaï · [politesse]"
+   },
+   {
+    "fr": "Je suis ici pour faire du tourisme.",
+    "tgt": "ผมมาเที่ยวครับ",
+    "ro": "Phǒm maa thîao khráp.",
+    "lit": "je (homme) · venir · se promener · [politesse]"
+   },
+   {
+    "fr": "Vous restez ici combien de jours ?",
+    "tgt": "อยู่กี่วันครับ",
+    "ro": "Yùu kìi wan khráp?",
+    "lit": "rester · combien · jour · [politesse]"
+   },
+   {
+    "fr": "Dix jours seulement.",
+    "tgt": "แค่สิบวันครับ",
+    "ro": "Khâe sìp wan khráp.",
+    "lit": "seulement · dix · jour · [politesse]"
+   },
+   {
+    "fr": "Pardon, où sont les toilettes ?",
+    "tgt": "ขอโทษครับ ห้องน้ำอยู่ที่ไหนครับ",
+    "ro": "Khǎw-thôot khráp, hâwng-náam yùu thîi-nǎi khráp?",
+    "lit": "pardon · [politesse] · toilettes · se trouver · où · [politesse]"
+   },
+   {
+    "fr": "Cet aéroport est vraiment immense.",
+    "tgt": "สนามบินใหญ่มากครับ",
+    "ro": "Sà-nǎam-bin yài mâak khráp.",
+    "lit": "aéroport · grand · très · [politesse]"
+   },
+   {
+    "fr": "Qu'est-ce qu'il fait chaud ici !",
+    "tgt": "ที่นี่ร้อนจังครับ",
+    "ro": "Thîi-nîi ráwn jang khráp.",
+    "lit": "ici · chaud · vraiment · [politesse]"
+   }
+  ]
+ },
+ "0-1-1": {
+  "module": "En voyage",
+  "title": "Le programme des prochains jours",
+  "grammaire_de_la_lecon": "« Wan-níi, phrûng-níi, mûea-waan » : aujourd'hui, demain, hier",
+  "phrases": [
+   {
+    "fr": "Aujourd'hui, on reste à Bangkok.",
+    "tgt": "วันนี้เราอยู่กรุงเทพครับ",
+    "ro": "Wan-níi rao yùu Krung-thêep khráp.",
+    "lit": "aujourd'hui · nous · rester · Bangkok · [politesse]"
+   },
+   {
+    "fr": "Demain, on va à Ayutthaya.",
+    "tgt": "พรุ่งนี้เราไปอยุธยาครับ",
+    "ro": "Phrûng-níi rao pai À-yút-thá-yaa khráp.",
+    "lit": "demain · nous · aller · Ayutthaya · [politesse]"
+   },
+   {
+    "fr": "Hier, je suis arrivé en Thaïlande.",
+    "tgt": "เมื่อวานผมมาถึงเมืองไทยครับ",
+    "ro": "Mûea-waan phǒm maa thǔeng mueang-thai khráp.",
+    "lit": "hier · je (homme) · venir · atteindre · pays · thaï · [politesse]"
+   },
+   {
+    "fr": "Vous partez demain ?",
+    "tgt": "พรุ่งนี้ไปไหมครับ",
+    "ro": "Phrûng-níi pai mái khráp?",
+    "lit": "demain · partir · [question] · [politesse]"
+   },
+   {
+    "fr": "Non, je pars aujourd'hui même.",
+    "tgt": "ไม่ครับ ไปวันนี้เลยครับ",
+    "ro": "Mâi khráp, pai wan-níi loei khráp.",
+    "lit": "non · [politesse] · partir · aujourd'hui · [insistance] · [politesse]"
+   },
+   {
+    "fr": "Hier, il a beaucoup plu.",
+    "tgt": "เมื่อวานฝนตกหนักครับ",
+    "ro": "Mûea-waan fǒn tòk nàk khráp.",
+    "lit": "hier · pluie · tomber · fort · [politesse]"
+   },
+   {
+    "fr": "Aujourd'hui, le temps est beau.",
+    "tgt": "วันนี้อากาศดีครับ",
+    "ro": "Wan-níi aa-kàat dii khráp.",
+    "lit": "aujourd'hui · temps · bon · [politesse]"
+   },
+   {
+    "fr": "Demain, le musée est fermé.",
+    "tgt": "พรุ่งนี้พิพิธภัณฑ์ปิดครับ",
+    "ro": "Phrûng-níi phí-phít-thá-phan pìt khráp.",
+    "lit": "demain · musée · fermer · [politesse]"
+   },
+   {
+    "fr": "Hier, j'étais très fatigué.",
+    "tgt": "เมื่อวานผมเหนื่อยมากครับ",
+    "ro": "Mûea-waan phǒm nùeay mâak khráp.",
+    "lit": "hier · je (homme) · fatigué · très · [politesse]"
+   },
+   {
+    "fr": "On se retrouve demain.",
+    "tgt": "พรุ่งนี้เจอกันครับ",
+    "ro": "Phrûng-níi joe kan khráp.",
+    "lit": "demain · rencontrer · ensemble · [politesse]"
+   }
+  ]
+ },
+ "0-1-2": {
+  "module": "En voyage",
+  "title": "Un billet pour le train de nuit",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Je vais partir pour Chiang Mai.",
+    "tgt": "ผมจะไปเชียงใหม่ครับ",
+    "ro": "Phǒm jà pai Chiang-mài khráp.",
+    "lit": "je (homme) · [futur] · aller · Chiang Mai · [politesse]"
+   },
+   {
+    "fr": "Le train de nuit part à quelle heure ?",
+    "tgt": "รถไฟกลางคืนออกกี่โมงครับ",
+    "ro": "Rót-fai klaang-khuen àwk kìi moong khráp?",
+    "lit": "train · nuit · partir · combien · heure · [politesse]"
+   },
+   {
+    "fr": "À six heures du soir.",
+    "tgt": "หกโมงเย็นครับ",
+    "ro": "Hòk moong yen khráp.",
+    "lit": "six · heure · soir · [politesse]"
+   },
+   {
+    "fr": "Il reste encore des couchettes ?",
+    "tgt": "ยังมีเตียงไหมครับ",
+    "ro": "Yang mii tiang mái khráp?",
+    "lit": "encore · avoir · lit · [question] · [politesse]"
+   },
+   {
+    "fr": "Oui, en haut ou en bas ?",
+    "tgt": "มีครับ ข้างบนหรือข้างล่างครับ",
+    "ro": "Mii khráp, khâang-bon rǔe khâang-lâang khráp?",
+    "lit": "avoir · [politesse] · côté haut · ou · côté bas · [politesse]"
+   },
+   {
+    "fr": "En bas, c'est mieux.",
+    "tgt": "ข้างล่างดีกว่าครับ",
+    "ro": "Khâang-lâang dii kwàa khráp.",
+    "lit": "côté bas · bien · plus · [politesse]"
+   },
+   {
+    "fr": "Le train est-il climatisé ?",
+    "tgt": "รถไฟมีแอร์ไหมครับ",
+    "ro": "Rót-fai mii ae mái khráp?",
+    "lit": "train · avoir · clim · [question] · [politesse]"
+   },
+   {
+    "fr": "Le trajet dure douze heures.",
+    "tgt": "ใช้เวลาสิบสองชั่วโมงครับ",
+    "ro": "Chái wee-laa sìp-sǎwng chûa-moong khráp.",
+    "lit": "utiliser · temps · douze · heure · [politesse]"
+   },
+   {
+    "fr": "D'accord, je le prends.",
+    "tgt": "ผมเอาครับ",
+    "ro": "Phǒm ao khráp.",
+    "lit": "je (homme) · prendre · [politesse]"
+   },
+   {
+    "fr": "Tenez, votre billet, et bonne route.",
+    "tgt": "นี่ตั๋วครับ เดินทางปลอดภัยนะครับ",
+    "ro": "Nîi tǔa khráp, doen-thaang plàwt-phai ná khráp.",
+    "lit": "voici · billet · [politesse] · voyager · sûr · [douceur] · [politesse]"
+   }
+  ]
+ },
+ "0-1-3": {
+  "module": "En voyage",
+  "title": "À la réception de l'hôtel",
+  "grammaire_de_la_lecon": "« Khǎw » : donnez-moi, s'il vous plaît",
+  "phrases": [
+   {
+    "fr": "Je voudrais une chambre, s'il vous plaît.",
+    "tgt": "ขอห้องหนึ่งห้องครับ",
+    "ro": "Khǎw hâwng nùeng hâwng khráp.",
+    "lit": "demander · chambre · un · [classificateur] · [politesse]"
+   },
+   {
+    "fr": "Pour deux nuits.",
+    "tgt": "สองคืนครับ",
+    "ro": "Sǎwng khuen khráp.",
+    "lit": "deux · nuit · [politesse]"
+   },
+   {
+    "fr": "Je peux voir votre passeport, s'il vous plaît ?",
+    "tgt": "ขอดูหนังสือเดินทางหน่อยครับ",
+    "ro": "Khǎw duu nǎng-sǔe-doen-thaang nàwy khráp.",
+    "lit": "demander · voir · passeport · un peu · [politesse]"
+   },
+   {
+    "fr": "Donnez-moi la clé, s'il vous plaît.",
+    "tgt": "ขอกุญแจครับ",
+    "ro": "Khǎw kun-jae khráp.",
+    "lit": "demander · clé · [politesse]"
+   },
+   {
+    "fr": "Un peu d'eau, s'il vous plaît.",
+    "tgt": "ขอน้ำหน่อยครับ",
+    "ro": "Khǎw náam nàwy khráp.",
+    "lit": "demander · eau · un peu · [politesse]"
+   },
+   {
+    "fr": "Une serviette de plus, s'il vous plaît.",
+    "tgt": "ขอผ้าเช็ดตัวอีกผืนครับ",
+    "ro": "Khǎw phâa-chét-tua ìik phǔen khráp.",
+    "lit": "demander · serviette · encore · [classificateur] · [politesse]"
+   },
+   {
+    "fr": "Le petit-déjeuner est à quelle heure ?",
+    "tgt": "อาหารเช้ากี่โมงครับ",
+    "ro": "Aa-hǎan-cháo kìi moong khráp?",
+    "lit": "nourriture · matin · combien · heure · [politesse]"
+   },
+   {
+    "fr": "À sept heures du matin.",
+    "tgt": "เจ็ดโมงเช้าครับ",
+    "ro": "Jèt moong cháo khráp.",
+    "lit": "sept · heure · matin · [politesse]"
+   },
+   {
+    "fr": "Un plan de la ville, s'il vous plaît.",
+    "tgt": "ขอแผนที่เมืองหน่อยครับ",
+    "ro": "Khǎw phǎen-thîi mueang nàwy khráp.",
+    "lit": "demander · plan · ville · un peu · [politesse]"
+   },
+   {
+    "fr": "Laissez-moi un instant, s'il vous plaît.",
+    "tgt": "ขอเวลาสักครู่ครับ",
+    "ro": "Khǎw wee-laa sàk-khrûu khráp.",
+    "lit": "demander · temps · un instant · [politesse]"
+   }
+  ]
+ },
+ "0-1-4": {
+  "module": "En voyage",
+  "title": "Une nuit dans le train",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ma couchette est juste ici.",
+    "tgt": "เตียงผมอยู่ตรงนี้ครับ",
+    "ro": "Tiang phǒm yùu trong-níi khráp.",
+    "lit": "lit · je (homme) · se trouver · juste ici · [politesse]"
+   },
+   {
+    "fr": "Pardon, cette place est la mienne.",
+    "tgt": "ขอโทษครับ นี่ที่ของผมครับ",
+    "ro": "Khǎw-thôot khráp, nîi thîi khǎwng phǒm khráp.",
+    "lit": "pardon · [politesse] · ceci · place · [de] · je (homme) · [politesse]"
+   },
+   {
+    "fr": "Où se trouve le wagon-restaurant ?",
+    "tgt": "ตู้เสบียงอยู่ไหนครับ",
+    "ro": "Tûu-sà-biang yùu nǎi khráp?",
+    "lit": "wagon-restaurant · se trouver · où · [politesse]"
+   },
+   {
+    "fr": "J'ai un tout petit peu faim.",
+    "tgt": "ผมหิวนิดหน่อยครับ",
+    "ro": "Phǒm hǐw nít-nàwy khráp.",
+    "lit": "je (homme) · avoir faim · un peu · [politesse]"
+   },
+   {
+    "fr": "Le train roule très lentement.",
+    "tgt": "รถไฟวิ่งช้ามากครับ",
+    "ro": "Rót-fai wîng cháa mâak khráp.",
+    "lit": "train · courir · lent · très · [politesse]"
+   },
+   {
+    "fr": "On arrive vers quelle heure ?",
+    "tgt": "ถึงกี่โมงครับ",
+    "ro": "Thǔeng kìi moong khráp?",
+    "lit": "arriver · combien · heure · [politesse]"
+   },
+   {
+    "fr": "Vers sept heures du matin.",
+    "tgt": "ประมาณเจ็ดโมงเช้าครับ",
+    "ro": "Prà-maan jèt moong cháo khráp.",
+    "lit": "environ · sept · heure · matin · [politesse]"
+   },
+   {
+    "fr": "Il fait très froid dans le wagon.",
+    "tgt": "ในตู้หนาวมากครับ",
+    "ro": "Nai tûu nǎao mâak khráp.",
+    "lit": "dans · wagon · froid · très · [politesse]"
+   },
+   {
+    "fr": "Vous avez une couverture ?",
+    "tgt": "มีผ้าห่มไหมครับ",
+    "ro": "Mii phâa-hòm mái khráp?",
+    "lit": "avoir · couverture · [question] · [politesse]"
+   },
+   {
+    "fr": "Bon, je vais me coucher.",
+    "tgt": "ผมไปนอนก่อนนะครับ",
+    "ro": "Phǒm pai nawn kàwn ná khráp.",
+    "lit": "je (homme) · aller · dormir · d'abord · [douceur] · [politesse]"
+   }
+  ]
+ },
+ "0-1-5": {
+  "module": "En voyage",
+  "title": "Le marché de nuit de Chiang Mai",
+  "grammaire_de_la_lecon": "« Thâo-rài » : demander un prix, les bahts",
+  "phrases": [
+   {
+    "fr": "Celui-ci, c'est combien ?",
+    "tgt": "อันนี้เท่าไรครับ",
+    "ro": "An-níi thâo-rài khráp?",
+    "lit": "[classificateur] · ceci · combien · [politesse]"
+   },
+   {
+    "fr": "Cent bahts.",
+    "tgt": "ร้อยบาทครับ",
+    "ro": "Ráwy bàat khráp.",
+    "lit": "cent · baht · [politesse]"
+   },
+   {
+    "fr": "C'est un peu trop cher.",
+    "tgt": "แพงไปหน่อยครับ",
+    "ro": "Phaeng pai nàwy khráp.",
+    "lit": "cher · trop · un peu · [politesse]"
+   },
+   {
+    "fr": "Vous pouvez faire un prix ?",
+    "tgt": "ลดได้ไหมครับ",
+    "ro": "Lót dâi mái khráp?",
+    "lit": "baisser · pouvoir · [question] · [politesse]"
+   },
+   {
+    "fr": "Quatre-vingts bahts, c'est possible ?",
+    "tgt": "แปดสิบบาทได้ไหมครับ",
+    "ro": "Pàet-sìp bàat dâi mái khráp?",
+    "lit": "huit · dix · baht · pouvoir · [question] · [politesse]"
+   },
+   {
+    "fr": "Cette chemise coûte combien ?",
+    "tgt": "เสื้อตัวนี้เท่าไรครับ",
+    "ro": "Sûea tua níi thâo-rài khráp?",
+    "lit": "chemise · [classificateur] · ce · combien · [politesse]"
+   },
+   {
+    "fr": "Deux cents bahts pour les deux.",
+    "tgt": "สองตัวสองร้อยบาทครับ",
+    "ro": "Sǎwng tua sǎwng ráwy bàat khráp.",
+    "lit": "deux · [classificateur] · deux · cent · baht · [politesse]"
+   },
+   {
+    "fr": "Et pour le tout, ça fait combien ?",
+    "tgt": "ทั้งหมดเท่าไรครับ",
+    "ro": "Tháng-mòt thâo-rài khráp?",
+    "lit": "en tout · combien · [politesse]"
+   },
+   {
+    "fr": "Le porc grillé, c'est combien la brochette ?",
+    "tgt": "หมูปิ้งไม้ละเท่าไรครับ",
+    "ro": "Mǔu-pîng mái lá thâo-rài khráp?",
+    "lit": "porc · griller · bâton · chaque · combien · [politesse]"
+   },
+   {
+    "fr": "Dix bahts la brochette.",
+    "tgt": "ไม้ละสิบบาทครับ",
+    "ro": "Mái lá sìp bàat khráp.",
+    "lit": "bâton · chaque · dix · baht · [politesse]"
+   }
+  ]
+ },
+ "0-1-6": {
+  "module": "En voyage",
+  "title": "Les ruines d'Ayutthaya",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Le site historique est immense.",
+    "tgt": "โบราณสถานใหญ่มากครับ",
+    "ro": "Boo-raan-sà-thǎan yài mâak khráp.",
+    "lit": "site ancien · grand · très · [politesse]"
+   },
+   {
+    "fr": "On loue un vélo ?",
+    "tgt": "เช่าจักรยานไหมครับ",
+    "ro": "Châo jàk-krà-yaan mái khráp?",
+    "lit": "louer · vélo · [question] · [politesse]"
+   },
+   {
+    "fr": "Oui, c'est plus pratique.",
+    "tgt": "ครับ สะดวกกว่าครับ",
+    "ro": "Khráp, sà-dùak kwàa khráp.",
+    "lit": "oui · commode · plus · [politesse]"
+   },
+   {
+    "fr": "Ce temple est très ancien.",
+    "tgt": "วัดนี้เก่ามากครับ",
+    "ro": "Wát níi kào mâak khráp.",
+    "lit": "temple · ce · vieux · très · [politesse]"
+   },
+   {
+    "fr": "C'est vraiment magnifique.",
+    "tgt": "สวยจริงๆครับ",
+    "ro": "Sǔay jing-jing khráp.",
+    "lit": "beau · vrai · vrai · [politesse]"
+   },
+   {
+    "fr": "On peut prendre des photos ici ?",
+    "tgt": "ถ่ายรูปได้ไหมครับ",
+    "ro": "Thàai rûup dâi mái khráp?",
+    "lit": "prendre · photo · pouvoir · [question] · [politesse]"
+   },
+   {
+    "fr": "À midi, il fait très chaud.",
+    "tgt": "ตอนเที่ยงร้อนมากครับ",
+    "ro": "Tawn thîang ráwn mâak khráp.",
+    "lit": "moment · midi · chaud · très · [politesse]"
+   },
+   {
+    "fr": "Buvons un peu d'eau.",
+    "tgt": "ดื่มน้ำกันเถอะครับ",
+    "ro": "Dùem náam kan thòe khráp.",
+    "lit": "boire · eau · ensemble · [incitation] · [politesse]"
+   },
+   {
+    "fr": "Il y a beaucoup de touristes.",
+    "tgt": "นักท่องเที่ยวเยอะมากครับ",
+    "ro": "Nák-thâwng-thîao yóe mâak khráp.",
+    "lit": "touriste · nombreux · très · [politesse]"
+   },
+   {
+    "fr": "Ayutthaya me plaît beaucoup.",
+    "tgt": "ผมชอบอยุธยามากครับ",
+    "ro": "Phǒm châwp À-yút-thá-yaa mâak khráp.",
+    "lit": "je (homme) · aimer · Ayutthaya · beaucoup · [politesse]"
+   }
+  ]
+ },
+ "0-1-7": {
+  "module": "En voyage",
+  "title": "En bus vers Chiang Rai",
+  "grammaire_de_la_lecon": "« Jàak... thǔeng... » : de... à...",
+  "phrases": [
+   {
+    "fr": "De Chiang Mai à Chiang Rai, il faut combien d'heures ?",
+    "tgt": "จากเชียงใหม่ถึงเชียงรายกี่ชั่วโมงครับ",
+    "ro": "Jàak Chiang-mài thǔeng Chiang-raai kìi chûa-moong khráp?",
+    "lit": "depuis · Chiang Mai · jusqu'à · Chiang Rai · combien · heure · [politesse]"
+   },
+   {
+    "fr": "Environ trois heures.",
+    "tgt": "ประมาณสามชั่วโมงครับ",
+    "ro": "Prà-maan sǎam chûa-moong khráp.",
+    "lit": "environ · trois · heure · [politesse]"
+   },
+   {
+    "fr": "Le bus part de la gare routière.",
+    "tgt": "รถออกจากสถานีขนส่งครับ",
+    "ro": "Rót àwk jàak sà-thǎa-nii khǒn-sòng khráp.",
+    "lit": "véhicule · sortir · depuis · gare routière · [politesse]"
+   },
+   {
+    "fr": "Un billet pour Chiang Rai, s'il vous plaît.",
+    "tgt": "ขอตั๋วไปเชียงรายหนึ่งใบครับ",
+    "ro": "Khǎw tǔa pai Chiang-raai nùeng bai khráp.",
+    "lit": "demander · billet · aller · Chiang Rai · un · [classificateur] · [politesse]"
+   },
+   {
+    "fr": "De l'hôtel à la gare, c'est loin ?",
+    "tgt": "จากโรงแรมถึงสถานีไกลไหมครับ",
+    "ro": "Jàak roong-raem thǔeng sà-thǎa-nii klai mái khráp?",
+    "lit": "depuis · hôtel · jusqu'à · gare · loin · [question] · [politesse]"
+   },
+   {
+    "fr": "Non, à dix minutes seulement.",
+    "tgt": "ไม่ไกลครับ แค่สิบนาที",
+    "ro": "Mâi klai khráp, khâe sìp naa-thii.",
+    "lit": "ne pas · loin · [politesse] · seulement · dix · minute"
+   },
+   {
+    "fr": "Le bus s'arrête en route ?",
+    "tgt": "รถจอดระหว่างทางไหมครับ",
+    "ro": "Rót jàwt rá-wàang-thaang mái khráp?",
+    "lit": "véhicule · s'arrêter · en cours de route · [question] · [politesse]"
+   },
+   {
+    "fr": "De la gare au centre, on peut marcher.",
+    "tgt": "จากสถานีถึงตัวเมืองเดินได้ครับ",
+    "ro": "Jàak sà-thǎa-nii thǔeng tua-mueang doen dâi khráp.",
+    "lit": "depuis · gare · jusqu'à · centre-ville · marcher · pouvoir · [politesse]"
+   },
+   {
+    "fr": "De Bangkok à Chiang Mai, c'est très loin.",
+    "tgt": "จากกรุงเทพถึงเชียงใหม่ไกลมากครับ",
+    "ro": "Jàak Krung-thêep thǔeng Chiang-mài klai mâak khráp.",
+    "lit": "depuis · Bangkok · jusqu'à · Chiang Mai · loin · très · [politesse]"
+   },
+   {
+    "fr": "Ce bus est bien confortable.",
+    "tgt": "รถคันนี้สบายดีครับ",
+    "ro": "Rót khan níi sà-baai dii khráp.",
+    "lit": "véhicule · [classificateur] · ce · confortable · bien · [politesse]"
+   }
+  ]
+ },
+ "0-1-8": {
+  "module": "En voyage",
+  "title": "Des bagages à gérer",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ma valise est très lourde.",
+    "tgt": "กระเป๋าผมหนักมากครับ",
+    "ro": "Krà-pǎo phǒm nàk mâak khráp.",
+    "lit": "valise · je (homme) · lourd · très · [politesse]"
+   },
+   {
+    "fr": "Je peux laisser ma valise ici ?",
+    "tgt": "ฝากกระเป๋าไว้ที่นี่ได้ไหมครับ",
+    "ro": "Fàak krà-pǎo wái thîi-nîi dâi mái khráp?",
+    "lit": "confier · valise · garder · ici · pouvoir · [question] · [politesse]"
+   },
+   {
+    "fr": "Bien sûr, jusqu'à quelle heure ?",
+    "tgt": "ได้ครับ ถึงกี่โมงครับ",
+    "ro": "Dâi khráp, thǔeng kìi moong khráp?",
+    "lit": "pouvoir · [politesse] · jusqu'à · combien · heure · [politesse]"
+   },
+   {
+    "fr": "Jusqu'à trois heures de l'après-midi.",
+    "tgt": "ถึงบ่ายสามโมงครับ",
+    "ro": "Thǔeng bàai sǎam moong khráp.",
+    "lit": "jusqu'à · après-midi · trois · heure · [politesse]"
+   },
+   {
+    "fr": "J'ai deux valises avec moi.",
+    "tgt": "ผมมีกระเป๋าสองใบครับ",
+    "ro": "Phǒm mii krà-pǎo sǎwng bai khráp.",
+    "lit": "je (homme) · avoir · valise · deux · [classificateur] · [politesse]"
+   },
+   {
+    "fr": "Ce sac-là est à moi.",
+    "tgt": "กระเป๋าใบนี้ของผมครับ",
+    "ro": "Krà-pǎo bai níi khǎwng phǒm khráp.",
+    "lit": "sac · [classificateur] · ce · [de] · je (homme) · [politesse]"
+   },
+   {
+    "fr": "Où est passé mon sac à dos ?",
+    "tgt": "เป้ของผมอยู่ไหนครับ",
+    "ro": "Pêe khǎwng phǒm yùu nǎi khráp?",
+    "lit": "sac à dos · [de] · je (homme) · se trouver · où · [politesse]"
+   },
+   {
+    "fr": "Il est sous le lit.",
+    "tgt": "อยู่ใต้เตียงครับ",
+    "ro": "Yùu tâi tiang khráp.",
+    "lit": "se trouver · sous · lit · [politesse]"
+   },
+   {
+    "fr": "Attention, c'est fragile.",
+    "tgt": "ระวังนะครับ ของแตกง่าย",
+    "ro": "Rá-wang ná khráp, khǎwng tàek ngâai.",
+    "lit": "faire attention · [douceur] · [politesse] · chose · casser · facile"
+   },
+   {
+    "fr": "Merci pour votre aide.",
+    "tgt": "ขอบคุณที่ช่วยครับ",
+    "ro": "Khàwp-khun thîi chûay khráp.",
+    "lit": "merci · que · aider · [politesse]"
+   }
+  ]
+ },
+ "0-1-9": {
+  "module": "En voyage",
+  "title": "Bien arrivés à Chiang Rai",
+  "grammaire_de_la_lecon": "« Láew » : l'action accomplie",
+  "phrases": [
+   {
+    "fr": "Ça y est, on est arrivés !",
+    "tgt": "ถึงแล้วครับ",
+    "ro": "Thǔeng láew khráp.",
+    "lit": "arriver · [accompli] · [politesse]"
+   },
+   {
+    "fr": "J'ai déjà réservé l'hôtel.",
+    "tgt": "ผมจองโรงแรมแล้วครับ",
+    "ro": "Phǒm jawng roong-raem láew khráp.",
+    "lit": "je (homme) · réserver · hôtel · [accompli] · [politesse]"
+   },
+   {
+    "fr": "Vous avez déjà mangé ?",
+    "tgt": "กินข้าวหรือยังครับ",
+    "ro": "Kin khâao rǔe yang khráp?",
+    "lit": "manger · riz · ou · pas encore · [politesse]"
+   },
+   {
+    "fr": "Oui, j'ai déjà mangé.",
+    "tgt": "กินแล้วครับ",
+    "ro": "Kin láew khráp.",
+    "lit": "manger · [accompli] · [politesse]"
+   },
+   {
+    "fr": "Le bus est déjà reparti.",
+    "tgt": "รถออกไปแล้วครับ",
+    "ro": "Rót àwk pai láew khráp.",
+    "lit": "véhicule · sortir · aller · [accompli] · [politesse]"
+   },
+   {
+    "fr": "Les billets, je les ai déjà achetés.",
+    "tgt": "ผมซื้อตั๋วแล้วครับ",
+    "ro": "Phǒm súe tǔa láew khráp.",
+    "lit": "je (homme) · acheter · billet · [accompli] · [politesse]"
+   },
+   {
+    "fr": "Tiens, il commence à pleuvoir.",
+    "tgt": "ฝนตกแล้วครับ",
+    "ro": "Fǒn tòk láew khráp.",
+    "lit": "pluie · tomber · [accompli] · [politesse]"
+   },
+   {
+    "fr": "La boutique a déjà fermé.",
+    "tgt": "ร้านปิดแล้วครับ",
+    "ro": "Ráan pìt láew khráp.",
+    "lit": "boutique · fermer · [accompli] · [politesse]"
+   },
+   {
+    "fr": "Ça y est, je suis prêt.",
+    "tgt": "ผมพร้อมแล้วครับ",
+    "ro": "Phǒm phráwm láew khráp.",
+    "lit": "je (homme) · prêt · [accompli] · [politesse]"
+   },
+   {
+    "fr": "Il est déjà tard.",
+    "tgt": "ดึกแล้วครับ",
+    "ro": "Dùek láew khráp.",
+    "lit": "tard dans la nuit · [accompli] · [politesse]"
+   }
+  ]
+ },
+ "0-1-10": {
+  "module": "En voyage",
+  "title": "Perdu avec un plan",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Je crois que je me suis perdu.",
+    "tgt": "ผมหลงทางครับ",
+    "ro": "Phǒm lǒng thaang khráp.",
+    "lit": "je (homme) · s'égarer · chemin · [politesse]"
+   },
+   {
+    "fr": "On est où sur le plan ?",
+    "tgt": "เราอยู่ตรงไหนในแผนที่ครับ",
+    "ro": "Rao yùu trong-nǎi nai phǎen-thîi khráp?",
+    "lit": "nous · se trouver · à quel endroit · dans · plan · [politesse]"
+   },
+   {
+    "fr": "Ici, à côté du marché.",
+    "tgt": "ตรงนี้ครับ ข้างตลาด",
+    "ro": "Trong-níi khráp, khâang tà-làat.",
+    "lit": "juste ici · [politesse] · à côté · marché"
+   },
+   {
+    "fr": "Le musée, c'est par où ?",
+    "tgt": "พิพิธภัณฑ์ไปทางไหนครับ",
+    "ro": "Phí-phít-thá-phan pai thaang nǎi khráp?",
+    "lit": "musée · aller · direction · quel · [politesse]"
+   },
+   {
+    "fr": "Allez d'abord tout droit.",
+    "tgt": "ตรงไปก่อนครับ",
+    "ro": "Trong pai kàwn khráp.",
+    "lit": "droit · aller · d'abord · [politesse]"
+   },
+   {
+    "fr": "Puis tournez à gauche.",
+    "tgt": "แล้วเลี้ยวซ้ายครับ",
+    "ro": "Láew líao sáai khráp.",
+    "lit": "puis · tourner · gauche · [politesse]"
+   },
+   {
+    "fr": "C'est sur la droite ?",
+    "tgt": "อยู่ทางขวาไหมครับ",
+    "ro": "Yùu thaang khwǎa mái khráp?",
+    "lit": "se trouver · côté · droite · [question] · [politesse]"
+   },
+   {
+    "fr": "Non, c'est juste en face.",
+    "tgt": "ไม่ใช่ครับ อยู่ตรงข้ามครับ",
+    "ro": "Mâi châi khráp, yùu trong-khâam khráp.",
+    "lit": "ne pas · exact · [politesse] · se trouver · en face · [politesse]"
+   },
+   {
+    "fr": "Vous pouvez me le montrer sur le plan ?",
+    "tgt": "ช่วยชี้ในแผนที่หน่อยครับ",
+    "ro": "Chûay chíi nai phǎen-thîi nàwy khráp.",
+    "lit": "aider · montrer du doigt · dans · plan · un peu · [politesse]"
+   },
+   {
+    "fr": "Merci beaucoup, j'ai compris.",
+    "tgt": "ขอบคุณมากครับ เข้าใจแล้ว",
+    "ro": "Khàwp-khun mâak khráp, khâo-jai láew.",
+    "lit": "merci · beaucoup · [politesse] · comprendre · [accompli]"
+   }
+  ]
+ },
+ "0-1-11": {
+  "module": "En voyage",
+  "title": "Comment on y va ?",
+  "grammaire_de_la_lecon": "« Yang-ngai » : comment",
+  "phrases": [
+   {
+    "fr": "Le Temple Blanc, on y va comment ?",
+    "tgt": "ไปวัดร่องขุ่นยังไงครับ",
+    "ro": "Pai Wát-râwng-khùn yang-ngai khráp?",
+    "lit": "aller · Temple Blanc · comment · [politesse]"
+   },
+   {
+    "fr": "Vous pouvez y aller en bus.",
+    "tgt": "นั่งรถเมล์ไปได้ครับ",
+    "ro": "Nâng rót-mee pai dâi khráp.",
+    "lit": "s'asseoir · bus · aller · pouvoir · [politesse]"
+   },
+   {
+    "fr": "Comment ça se dit en thaï ?",
+    "tgt": "ภาษาไทยพูดยังไงครับ",
+    "ro": "Phaa-sǎa thai phûut yang-ngai khráp?",
+    "lit": "langue · thaï · dire · comment · [politesse]"
+   },
+   {
+    "fr": "Cette machine, ça marche comment ?",
+    "tgt": "เครื่องนี้ใช้ยังไงครับ",
+    "ro": "Khrûeang níi chái yang-ngai khráp?",
+    "lit": "machine · ce · utiliser · comment · [politesse]"
+   },
+   {
+    "fr": "Ce plat, on le mange comment ?",
+    "tgt": "อาหารนี้กินยังไงครับ",
+    "ro": "Aa-hǎan níi kin yang-ngai khráp?",
+    "lit": "plat · ce · manger · comment · [politesse]"
+   },
+   {
+    "fr": "Avec du riz gluant.",
+    "tgt": "กินกับข้าวเหนียวครับ",
+    "ro": "Kin kàp khâao-nǐao khráp.",
+    "lit": "manger · avec · riz gluant · [politesse]"
+   },
+   {
+    "fr": "Alors, Chiang Rai, c'est comment ?",
+    "tgt": "เชียงรายเป็นยังไงบ้างครับ",
+    "ro": "Chiang-raai pen yang-ngai bâang khráp?",
+    "lit": "Chiang Rai · être · comment · [un peu] · [politesse]"
+   },
+   {
+    "fr": "C'est calme et joli.",
+    "tgt": "เงียบและสวยครับ",
+    "ro": "Ngîap láe sǔay khráp.",
+    "lit": "calme · et · beau · [politesse]"
+   },
+   {
+    "fr": "Comment je rentre à l'hôtel ?",
+    "tgt": "ผมกลับโรงแรมยังไงครับ",
+    "ro": "Phǒm klàp roong-raem yang-ngai khráp?",
+    "lit": "je (homme) · rentrer · hôtel · comment · [politesse]"
+   },
+   {
+    "fr": "Prenez donc un tuk-tuk.",
+    "tgt": "นั่งตุ๊กตุ๊กครับ",
+    "ro": "Nâng túk-túk khráp.",
+    "lit": "s'asseoir · tuk-tuk · [politesse]"
+   }
+  ]
+ },
+ "0-1-12": {
+  "module": "En voyage",
+  "title": "Un passage à la pharmacie",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Il y a une pharmacie dans le coin ?",
+    "tgt": "แถวนี้มีร้านขายยาไหมครับ",
+    "ro": "Thǎeo-níi mii ráan-khǎai-yaa mái khráp?",
+    "lit": "par ici · avoir · pharmacie · [question] · [politesse]"
+   },
+   {
+    "fr": "J'ai un peu mal à la tête.",
+    "tgt": "ผมปวดหัวนิดหน่อยครับ",
+    "ro": "Phǒm pùat hǔa nít-nàwy khráp.",
+    "lit": "je (homme) · avoir mal · tête · un peu · [politesse]"
+   },
+   {
+    "fr": "J'ai mal au ventre depuis hier.",
+    "tgt": "ผมปวดท้องตั้งแต่เมื่อวานครับ",
+    "ro": "Phǒm pùat tháwng tâng-tàe mûea-waan khráp.",
+    "lit": "je (homme) · avoir mal · ventre · depuis · hier · [politesse]"
+   },
+   {
+    "fr": "Vous avez de la fièvre ?",
+    "tgt": "มีไข้ไหมครับ",
+    "ro": "Mii khâi mái khráp?",
+    "lit": "avoir · fièvre · [question] · [politesse]"
+   },
+   {
+    "fr": "Non, je n'ai pas de fièvre.",
+    "tgt": "ไม่มีครับ",
+    "ro": "Mâi mii khráp.",
+    "lit": "ne pas · avoir · [politesse]"
+   },
+   {
+    "fr": "Prenez ce médicament-ci.",
+    "tgt": "กินยานี้นะครับ",
+    "ro": "Kin yaa níi ná khráp.",
+    "lit": "manger · médicament · ce · [douceur] · [politesse]"
+   },
+   {
+    "fr": "Combien de fois par jour ?",
+    "tgt": "วันละกี่ครั้งครับ",
+    "ro": "Wan lá kìi khráng khráp?",
+    "lit": "jour · chaque · combien · fois · [politesse]"
+   },
+   {
+    "fr": "Trois fois, après les repas.",
+    "tgt": "สามครั้งหลังอาหารครับ",
+    "ro": "Sǎam khráng lǎng aa-hǎan khráp.",
+    "lit": "trois · fois · après · repas · [politesse]"
+   },
+   {
+    "fr": "Les moustiques m'ont piqué.",
+    "tgt": "ยุงกัดผมครับ",
+    "ro": "Yung kàt phǒm khráp.",
+    "lit": "moustique · mordre · je (homme) · [politesse]"
+   },
+   {
+    "fr": "Vous avez une pommade ?",
+    "tgt": "มียาทาไหมครับ",
+    "ro": "Mii yaa-thaa mái khráp?",
+    "lit": "avoir · médicament · appliquer · [question] · [politesse]"
+   }
+  ]
+ },
+ "0-1-13": {
+  "module": "En voyage",
+  "title": "Est-ce qu'on peut ?",
+  "grammaire_de_la_lecon": "« Dâi » : pouvoir",
+  "phrases": [
+   {
+    "fr": "On peut payer par carte ?",
+    "tgt": "จ่ายด้วยบัตรได้ไหมครับ",
+    "ro": "Jàai dûay bàt dâi mái khráp?",
+    "lit": "payer · avec · carte · pouvoir · [question] · [politesse]"
+   },
+   {
+    "fr": "Oui, sans aucun problème.",
+    "tgt": "ได้ครับ ไม่มีปัญหา",
+    "ro": "Dâi khráp, mâi mii pan-hǎa.",
+    "lit": "pouvoir · [politesse] · ne pas · avoir · problème"
+   },
+   {
+    "fr": "Je n'arrive pas à dormir, c'est trop bruyant.",
+    "tgt": "ผมนอนไม่ได้ครับ เสียงดังมาก",
+    "ro": "Phǒm nawn mâi dâi khráp, sǐang dang mâak.",
+    "lit": "je (homme) · dormir · ne pas · pouvoir · [politesse] · bruit · fort · très"
+   },
+   {
+    "fr": "Vous parlez français ?",
+    "tgt": "พูดภาษาฝรั่งเศสได้ไหมครับ",
+    "ro": "Phûut phaa-sǎa fà-ràng-sèet dâi mái khráp?",
+    "lit": "parler · langue · France · pouvoir · [question] · [politesse]"
+   },
+   {
+    "fr": "Juste un tout petit peu.",
+    "tgt": "ได้นิดหน่อยครับ",
+    "ro": "Dâi nít-nàwy khráp.",
+    "lit": "pouvoir · un peu · [politesse]"
+   },
+   {
+    "fr": "Moi, je parle un peu thaï.",
+    "tgt": "ผมพูดภาษาไทยได้นิดหน่อยครับ",
+    "ro": "Phǒm phûut phaa-sǎa thai dâi nít-nàwy khráp.",
+    "lit": "je (homme) · parler · langue · thaï · pouvoir · un peu · [politesse]"
+   },
+   {
+    "fr": "Vous pouvez parler lentement ?",
+    "tgt": "พูดช้าๆได้ไหมครับ",
+    "ro": "Phûut cháa-cháa dâi mái khráp?",
+    "lit": "parler · lent · lent · pouvoir · [question] · [politesse]"
+   },
+   {
+    "fr": "On peut se baigner ici ?",
+    "tgt": "ว่ายน้ำที่นี่ได้ไหมครับ",
+    "ro": "Wâai-náam thîi-nîi dâi mái khráp?",
+    "lit": "nager · ici · pouvoir · [question] · [politesse]"
+   },
+   {
+    "fr": "Non, ce n'est pas autorisé.",
+    "tgt": "ไม่ได้ครับ",
+    "ro": "Mâi dâi khráp.",
+    "lit": "ne pas · pouvoir · [politesse]"
+   },
+   {
+    "fr": "Je peux entrer avec mes chaussures ?",
+    "tgt": "ใส่รองเท้าเข้าไปได้ไหมครับ",
+    "ro": "Sài rawng-tháao khâo pai dâi mái khráp?",
+    "lit": "porter · chaussures · entrer · aller · pouvoir · [question] · [politesse]"
+   }
+  ]
+ },
+ "0-1-14": {
+  "module": "En voyage",
+  "title": "La vieille ville de Chiang Mai",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "La vieille ville n'est pas très grande.",
+    "tgt": "เมืองเก่าไม่ใหญ่มากครับ",
+    "ro": "Mueang-kào mâi yài mâak khráp.",
+    "lit": "ville · vieux · ne pas · grand · très · [politesse]"
+   },
+   {
+    "fr": "On peut tout visiter à pied, tranquillement.",
+    "tgt": "เดินเที่ยวได้สบายครับ",
+    "ro": "Doen thîao dâi sà-baai khráp.",
+    "lit": "marcher · se promener · pouvoir · tranquille · [politesse]"
+   },
+   {
+    "fr": "Voici la porte Tha Phae.",
+    "tgt": "นี่คือประตูท่าแพครับ",
+    "ro": "Nîi khue prà-tuu Thâa-phae khráp.",
+    "lit": "ceci · c'est · porte · Tha Phae · [politesse]"
+   },
+   {
+    "fr": "Il y a énormément de temples.",
+    "tgt": "มีวัดเยอะมากครับ",
+    "ro": "Mii wát yóe mâak khráp.",
+    "lit": "avoir · temple · nombreux · très · [politesse]"
+   },
+   {
+    "fr": "Les rues sont étroites.",
+    "tgt": "ถนนแคบครับ",
+    "ro": "Thà-nǒn khâep khráp.",
+    "lit": "rue · étroit · [politesse]"
+   },
+   {
+    "fr": "On boit un café ici ?",
+    "tgt": "ดื่มกาแฟที่นี่ไหมครับ",
+    "ro": "Dùem kaa-fae thîi-nîi mái khráp?",
+    "lit": "boire · café · ici · [question] · [politesse]"
+   },
+   {
+    "fr": "Ce café est vraiment agréable.",
+    "tgt": "ร้านนี้น่านั่งมากครับ",
+    "ro": "Ráan níi nâa-nâng mâak khráp.",
+    "lit": "boutique · ce · agréable · s'asseoir · très · [politesse]"
+   },
+   {
+    "fr": "Le dimanche, il y a un marché.",
+    "tgt": "วันอาทิตย์มีตลาดครับ",
+    "ro": "Wan aa-thít mii tà-làat khráp.",
+    "lit": "jour · dimanche · avoir · marché · [politesse]"
+   },
+   {
+    "fr": "La cuisine du Nord est délicieuse.",
+    "tgt": "อาหารเหนืออร่อยมากครับ",
+    "ro": "Aa-hǎan nǔea à-ràwy mâak khráp.",
+    "lit": "nourriture · nord · délicieux · très · [politesse]"
+   },
+   {
+    "fr": "Je veux goûter le khao soi.",
+    "tgt": "ผมอยากลองข้าวซอยครับ",
+    "ro": "Phǒm yàak lawng khâao-sawy khráp.",
+    "lit": "je (homme) · vouloir · essayer · khao soi · [politesse]"
+   }
+  ]
+ },
+ "0-1-15": {
+  "module": "En voyage",
+  "title": "Des allers et venues",
+  "grammaire_de_la_lecon": "« Pai » et « maa » : aller et venir, partout",
+  "phrases": [
+   {
+    "fr": "On y va tous les deux ?",
+    "tgt": "ไปด้วยกันไหมครับ",
+    "ro": "Pai dûay-kan mái khráp?",
+    "lit": "aller · ensemble · [question] · [politesse]"
+   },
+   {
+    "fr": "Venez par ici, s'il vous plaît.",
+    "tgt": "มานี่หน่อยครับ",
+    "ro": "Maa nîi nàwy khráp.",
+    "lit": "venir · ici · un peu · [politesse]"
+   },
+   {
+    "fr": "Je vais au marché de nuit.",
+    "tgt": "ผมไปตลาดกลางคืนครับ",
+    "ro": "Phǒm pai tà-làat-klaang-khuen khráp.",
+    "lit": "je (homme) · aller · marché · nuit · [politesse]"
+   },
+   {
+    "fr": "Et vous, vous venez d'où ?",
+    "tgt": "คุณมาจากไหนครับ",
+    "ro": "Khun maa jàak nǎi khráp?",
+    "lit": "vous · venir · depuis · où · [politesse]"
+   },
+   {
+    "fr": "Moi, je suis de France.",
+    "tgt": "ผมมาจากฝรั่งเศสครับ",
+    "ro": "Phǒm maa jàak fà-ràng-sèet khráp.",
+    "lit": "je (homme) · venir · depuis · France · [politesse]"
+   },
+   {
+    "fr": "Mon ami arrive ce soir.",
+    "tgt": "เพื่อนผมมาคืนนี้ครับ",
+    "ro": "Phûean phǒm maa khuen-níi khráp.",
+    "lit": "ami · je (homme) · venir · ce soir · [politesse]"
+   },
+   {
+    "fr": "Je reviens tout de suite.",
+    "tgt": "เดี๋ยวกลับมาครับ",
+    "ro": "Dǐao klàp maa khráp.",
+    "lit": "un instant · retourner · venir · [politesse]"
+   },
+   {
+    "fr": "Où est-il parti ?",
+    "tgt": "เขาไปไหนครับ",
+    "ro": "Khǎo pai nǎi khráp?",
+    "lit": "il · aller · où · [politesse]"
+   },
+   {
+    "fr": "Apportez de l'eau, s'il vous plaît.",
+    "tgt": "เอาน้ำมาหน่อยครับ",
+    "ro": "Ao náam maa nàwy khráp.",
+    "lit": "prendre · eau · venir · un peu · [politesse]"
+   },
+   {
+    "fr": "Emportez votre sac avec vous.",
+    "tgt": "เอากระเป๋าไปด้วยครับ",
+    "ro": "Ao krà-pǎo pai dûay khráp.",
+    "lit": "prendre · sac · aller · aussi · [politesse]"
+   }
+  ]
+ },
+ "0-1-16": {
+  "module": "En voyage",
+  "title": "Un imprévu : le bus raté",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Zut, j'ai raté le bus.",
+    "tgt": "ผมตกรถครับ",
+    "ro": "Phǒm tòk rót khráp.",
+    "lit": "je (homme) · tomber · véhicule · [politesse]"
+   },
+   {
+    "fr": "Le prochain part à quelle heure ?",
+    "tgt": "คันต่อไปกี่โมงครับ",
+    "ro": "Khan tàw-pai kìi moong khráp?",
+    "lit": "[classificateur] · suivant · combien · heure · [politesse]"
+   },
+   {
+    "fr": "Dans une heure.",
+    "tgt": "อีกหนึ่งชั่วโมงครับ",
+    "ro": "Ìik nùeng chûa-moong khráp.",
+    "lit": "encore · un · heure · [politesse]"
+   },
+   {
+    "fr": "Ce n'est rien, je peux attendre.",
+    "tgt": "ไม่เป็นไรครับ ผมรอได้",
+    "ro": "Mâi pen rai khráp, phǒm raw dâi.",
+    "lit": "ne pas · être · quoi · [politesse] · je (homme) · attendre · pouvoir"
+   },
+   {
+    "fr": "Mon téléphone est déchargé.",
+    "tgt": "โทรศัพท์ผมแบตหมดครับ",
+    "ro": "Thoo-rá-sàp phǒm bàet mòt khráp.",
+    "lit": "téléphone · je (homme) · batterie · épuisé · [politesse]"
+   },
+   {
+    "fr": "Il y a une prise par ici ?",
+    "tgt": "ที่นี่มีปลั๊กไหมครับ",
+    "ro": "Thîi-nîi mii plák mái khráp?",
+    "lit": "ici · avoir · prise · [question] · [politesse]"
+   },
+   {
+    "fr": "J'ai perdu mon billet.",
+    "tgt": "ผมทำตั๋วหายครับ",
+    "ro": "Phǒm tham tǔa hǎai khráp.",
+    "lit": "je (homme) · faire · billet · disparaître · [politesse]"
+   },
+   {
+    "fr": "Je dois en racheter un ?",
+    "tgt": "ต้องซื้อใหม่ไหมครับ",
+    "ro": "Tâwng súe mài mái khráp?",
+    "lit": "devoir · acheter · nouveau · [question] · [politesse]"
+   },
+   {
+    "fr": "Oui, je suis désolé.",
+    "tgt": "ครับ ขอโทษด้วยครับ",
+    "ro": "Khráp, khǎw-thôot dûay khráp.",
+    "lit": "oui · pardon · aussi · [politesse]"
+   },
+   {
+    "fr": "À l'aide, s'il vous plaît !",
+    "tgt": "ช่วยด้วยครับ",
+    "ro": "Chûay dûay khráp!",
+    "lit": "aider · aussi · [politesse]"
+   }
+  ]
+ },
+ "0-1-17": {
+  "module": "En voyage",
+  "title": "C'est loin ou c'est près ?",
+  "grammaire_de_la_lecon": "« Klai » et « klâi » : loin et près, attention au ton",
+  "phrases": [
+   {
+    "fr": "Est-ce que c'est loin d'ici ?",
+    "tgt": "ไกลจากที่นี่ไหมครับ",
+    "ro": "Klai jàak thîi-nîi mái khráp?",
+    "lit": "loin · depuis · ici · [question] · [politesse]"
+   },
+   {
+    "fr": "Non, ce n'est pas loin, c'est très près.",
+    "tgt": "ไม่ไกลครับ ใกล้มาก",
+    "ro": "Mâi klai khráp, klâi mâak.",
+    "lit": "ne pas · loin · [politesse] · près · très"
+   },
+   {
+    "fr": "L'hôtel est près du marché.",
+    "tgt": "โรงแรมอยู่ใกล้ตลาดครับ",
+    "ro": "Roong-raem yùu klâi tà-làat khráp.",
+    "lit": "hôtel · se trouver · près · marché · [politesse]"
+   },
+   {
+    "fr": "L'aéroport est loin du centre.",
+    "tgt": "สนามบินอยู่ไกลจากตัวเมืองครับ",
+    "ro": "Sà-nǎam-bin yùu klai jàak tua-mueang khráp.",
+    "lit": "aéroport · se trouver · loin · depuis · centre-ville · [politesse]"
+   },
+   {
+    "fr": "Il y a un restaurant près d'ici ?",
+    "tgt": "ใกล้ๆนี้มีร้านอาหารไหมครับ",
+    "ro": "Klâi-klâi níi mii ráan-aa-hǎan mái khráp?",
+    "lit": "près · près · ici · avoir · restaurant · [question] · [politesse]"
+   },
+   {
+    "fr": "Le marché de nuit est tout proche.",
+    "tgt": "ตลาดกลางคืนอยู่ใกล้ๆครับ",
+    "ro": "Tà-làat-klaang-khuen yùu klâi-klâi khráp.",
+    "lit": "marché · nuit · se trouver · près · près · [politesse]"
+   },
+   {
+    "fr": "C'est trop loin, je ne peux pas marcher.",
+    "tgt": "ไกลเกินไปครับ เดินไม่ไหว",
+    "ro": "Klai koen pai khráp, doen mâi wǎi.",
+    "lit": "loin · dépasser · trop · [politesse] · marcher · ne pas · tenir le coup"
+   },
+   {
+    "fr": "Mieux vaut y aller en voiture.",
+    "tgt": "นั่งรถไปดีกว่าครับ",
+    "ro": "Nâng rót pai dii kwàa khráp.",
+    "lit": "s'asseoir · véhicule · aller · bien · plus · [politesse]"
+   },
+   {
+    "fr": "Chiang Rai est très loin de Bangkok.",
+    "tgt": "เชียงรายไกลจากกรุงเทพมากครับ",
+    "ro": "Chiang-raai klai jàak Krung-thêep mâak khráp.",
+    "lit": "Chiang Rai · loin · depuis · Bangkok · très · [politesse]"
+   },
+   {
+    "fr": "Ma chambre est près de l'ascenseur.",
+    "tgt": "ห้องผมอยู่ใกล้ลิฟต์ครับ",
+    "ro": "Hâwng phǒm yùu klâi líp khráp.",
+    "lit": "chambre · je (homme) · se trouver · près · ascenseur · [politesse]"
+   }
+  ]
+ },
+ "0-1-18": {
+  "module": "En voyage",
+  "title": "Retour à l'aéroport",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Je quitte l'hôtel aujourd'hui.",
+    "tgt": "ผมจะออกจากโรงแรมวันนี้ครับ",
+    "ro": "Phǒm jà àwk jàak roong-raem wan-níi khráp.",
+    "lit": "je (homme) · [futur] · sortir · depuis · hôtel · aujourd'hui · [politesse]"
+   },
+   {
+    "fr": "Vous pouvez m'appeler une voiture ?",
+    "tgt": "ช่วยเรียกรถให้หน่อยครับ",
+    "ro": "Chûay rîak rót hâi nàwy khráp.",
+    "lit": "aider · appeler · véhicule · pour moi · un peu · [politesse]"
+   },
+   {
+    "fr": "Mon avion décolle à midi.",
+    "tgt": "เครื่องบินผมออกเที่ยงครับ",
+    "ro": "Khrûeang-bin phǒm àwk thîang khráp.",
+    "lit": "avion · je (homme) · partir · midi · [politesse]"
+   },
+   {
+    "fr": "Je dois aller à quel guichet ?",
+    "tgt": "ต้องไปช่องไหนครับ",
+    "ro": "Tâwng pai châwng nǎi khráp?",
+    "lit": "devoir · aller · guichet · quel · [politesse]"
+   },
+   {
+    "fr": "Votre valise pèse vingt kilos.",
+    "tgt": "กระเป๋าหนักยี่สิบกิโลครับ",
+    "ro": "Krà-pǎo nàk yîi-sìp kì-loo khráp.",
+    "lit": "valise · peser · vingt · kilo · [politesse]"
+   },
+   {
+    "fr": "C'est au-dessus de la limite ?",
+    "tgt": "หนักเกินไหมครับ",
+    "ro": "Nàk koen mái khráp?",
+    "lit": "lourd · dépasser · [question] · [politesse]"
+   },
+   {
+    "fr": "Non, ça passe.",
+    "tgt": "ไม่เกินครับ",
+    "ro": "Mâi koen khráp.",
+    "lit": "ne pas · dépasser · [politesse]"
+   },
+   {
+    "fr": "C'est la porte cinq.",
+    "tgt": "ประตูห้าครับ",
+    "ro": "Prà-tuu hâa khráp.",
+    "lit": "porte · cinq · [politesse]"
+   },
+   {
+    "fr": "L'avion part en retard.",
+    "tgt": "เครื่องบินออกช้าครับ",
+    "ro": "Khrûeang-bin àwk cháa khráp.",
+    "lit": "avion · partir · lent · [politesse]"
+   },
+   {
+    "fr": "Au revoir, Chiang Mai.",
+    "tgt": "ลาก่อนเชียงใหม่",
+    "ro": "Laa kàwn Chiang-mài.",
+    "lit": "prendre congé · d'abord · Chiang Mai"
+   }
+  ]
+ },
+ "0-1-19": {
+  "module": "En voyage",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "« Khoei » : l'expérience, j'y suis déjà allé",
+  "phrases": [
+   {
+    "fr": "J'ai déjà pris le train de nuit.",
+    "tgt": "ผมเคยนั่งรถไฟกลางคืนแล้วครับ",
+    "ro": "Phǒm khoei nâng rót-fai klaang-khuen láew khráp.",
+    "lit": "je (homme) · avoir déjà · s'asseoir · train · nuit · [accompli] · [politesse]"
+   },
+   {
+    "fr": "Vous êtes déjà allé à Chiang Rai ?",
+    "tgt": "เคยไปเชียงรายไหมครับ",
+    "ro": "Khoei pai Chiang-raai mái khráp?",
+    "lit": "avoir déjà · aller · Chiang Rai · [question] · [politesse]"
+   },
+   {
+    "fr": "Oui, j'y suis déjà allé.",
+    "tgt": "เคยครับ",
+    "ro": "Khoei khráp.",
+    "lit": "avoir déjà · [politesse]"
+   },
+   {
+    "fr": "Avant, je n'avais jamais goûté le riz gluant.",
+    "tgt": "ก่อนนี้ผมไม่เคยกินข้าวเหนียวครับ",
+    "ro": "Kàwn-níi phǒm mâi khoei kin khâao-nǐao khráp.",
+    "lit": "avant · je (homme) · ne pas · avoir déjà · manger · riz gluant · [politesse]"
+   },
+   {
+    "fr": "Nous avons voyagé partout en Thaïlande.",
+    "tgt": "เราเที่ยวทั่วเมืองไทยแล้วครับ",
+    "ro": "Rao thîao thûa mueang-thai láew khráp.",
+    "lit": "nous · voyager · partout · pays thaï · [accompli] · [politesse]"
+   },
+   {
+    "fr": "Maintenant, je sais demander mon chemin.",
+    "tgt": "ตอนนี้ผมถามทางได้แล้วครับ",
+    "ro": "Tawn-níi phǒm thǎam thaang dâi láew khráp.",
+    "lit": "maintenant · je (homme) · demander · chemin · pouvoir · [accompli] · [politesse]"
+   },
+   {
+    "fr": "J'ai déjà parlé thaï avec des marchandes.",
+    "tgt": "ผมเคยพูดไทยกับแม่ค้าแล้วครับ",
+    "ro": "Phǒm khoei phûut thai kàp mâe-kháa láew khráp.",
+    "lit": "je (homme) · avoir déjà · parler · thaï · avec · marchande · [accompli] · [politesse]"
+   },
+   {
+    "fr": "Le thaï devient plus facile.",
+    "tgt": "ภาษาไทยง่ายขึ้นแล้วครับ",
+    "ro": "Phaa-sǎa thai ngâai khûen láew khráp.",
+    "lit": "langue · thaï · facile · monter · [accompli] · [politesse]"
+   },
+   {
+    "fr": "La suite, ce sera bavarder entre amis.",
+    "tgt": "บทต่อไปเป็นเรื่องคุยกับเพื่อนครับ",
+    "ro": "Bòt tàw-pai pen rûeang khui kàp phûean khráp.",
+    "lit": "leçon · suivant · être · sujet · bavarder · avec · ami · [politesse]"
+   },
+   {
+    "fr": "À très bientôt pour la suite.",
+    "tgt": "แล้วเจอกันใหม่ครับ",
+    "ro": "Láew joe kan mài khráp.",
+    "lit": "puis · rencontrer · ensemble · de nouveau · [politesse]"
+   }
+  ]
+ },
+ "0-2-0": {
+  "module": "Conversation sociale",
+  "title": "Retrouver des amis",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Salut, ça va ?",
+    "tgt": "สวัสดี สบายดีไหม",
+    "ro": "Sà-wàt-dii, sà-baai-dii mái?",
+    "lit": "bonjour · à l'aise · bien · [question]"
+   },
+   {
+    "fr": "Ça va bien, et toi ?",
+    "tgt": "สบายดี แล้วคุณล่ะ",
+    "ro": "Sà-baai-dii, láew khun lâ?",
+    "lit": "à l'aise · bien · et puis · toi · [et toi ?]"
+   },
+   {
+    "fr": "Ça fait longtemps !",
+    "tgt": "ไม่ได้เจอกันนานเลย",
+    "ro": "Mâi dâi joe kan naan loei.",
+    "lit": "ne pas · avoir pu · se voir · ensemble · longtemps · [vraiment]"
+   },
+   {
+    "fr": "Tu n'as pas du tout changé, dis donc.",
+    "tgt": "คุณไม่เปลี่ยนเลย",
+    "ro": "Khun mâi plìan loei.",
+    "lit": "tu · ne pas · changer · [du tout]"
+   },
+   {
+    "fr": "Tu vas où comme ça ?",
+    "tgt": "ไปไหนครับ",
+    "ro": "Pai nǎi khráp?",
+    "lit": "aller · où · [politesse]"
+   },
+   {
+    "fr": "Je vais voir des amis.",
+    "tgt": "ไปหาเพื่อนครับ",
+    "ro": "Pai hǎa phûean khráp.",
+    "lit": "aller · voir · ami · [politesse]"
+   },
+   {
+    "fr": "Tu as déjà mangé ?",
+    "tgt": "กินข้าวหรือยัง",
+    "ro": "Kin khâao rǔe yang?",
+    "lit": "manger · riz · ou · pas encore"
+   },
+   {
+    "fr": "Oui, j'ai déjà mangé, merci.",
+    "tgt": "กินแล้วครับ",
+    "ro": "Kin láew khráp.",
+    "lit": "manger · [accompli] · [politesse]"
+   },
+   {
+    "fr": "Viens t'asseoir avec nous.",
+    "tgt": "มานั่งด้วยกันสิ",
+    "ro": "Maa nâng dûay-kan sì.",
+    "lit": "venir · s'asseoir · ensemble · [allez]"
+   },
+   {
+    "fr": "Ça me fait plaisir de te revoir.",
+    "tgt": "ดีใจที่ได้เจอนะ",
+    "ro": "Dii-jai thîi dâi joe ná.",
+    "lit": "content · de · pouvoir · se voir · [douceur]"
+   }
+  ]
+ },
+ "0-2-1": {
+  "module": "Conversation sociale",
+  "title": "Se présenter : phǒm chûe",
+  "grammaire_de_la_lecon": "Se présenter : « phǒm chûe »",
+  "phrases": [
+   {
+    "fr": "Et toi, comment tu t'appelles ?",
+    "tgt": "คุณชื่ออะไรครับ",
+    "ro": "Khun chûe a-rai khráp?",
+    "lit": "tu · s'appeler · quoi · [politesse]"
+   },
+   {
+    "fr": "Je m'appelle Julien.",
+    "tgt": "ผมชื่อจูเลียนครับ",
+    "ro": "Phǒm chûe Juu-lian khráp.",
+    "lit": "je (homme) · s'appeler · Julien · [politesse]"
+   },
+   {
+    "fr": "Moi, je m'appelle Ploy.",
+    "tgt": "ฉันชื่อพลอยค่ะ",
+    "ro": "Chǎn chûe Phlawy khâ.",
+    "lit": "je (femme) · s'appeler · Ploy · [politesse]"
+   },
+   {
+    "fr": "Mon surnom, c'est Nok.",
+    "tgt": "ชื่อเล่นผมคือนกครับ",
+    "ro": "Chûe-lên phǒm khue Nók khráp.",
+    "lit": "nom-jouer · je (homme) · c'est · Nok · [politesse]"
+   },
+   {
+    "fr": "Tu as un surnom ?",
+    "tgt": "คุณมีชื่อเล่นไหมครับ",
+    "ro": "Khun mii chûe-lên mái khráp?",
+    "lit": "tu · avoir · nom-jouer · [question] · [politesse]"
+   },
+   {
+    "fr": "Moi, je suis français, de Lyon.",
+    "tgt": "ผมเป็นคนฝรั่งเศส มาจากลียง",
+    "ro": "Phǒm pen khon fà-ràng-sèet, maa jàak Lii-yong.",
+    "lit": "je (homme) · être · personne · France · venir · de · Lyon"
+   },
+   {
+    "fr": "J'habite à Bangkok depuis un an.",
+    "tgt": "ผมอยู่กรุงเทพมาหนึ่งปีแล้ว",
+    "ro": "Phǒm yùu Krung-thêep maa nùeng pii láew.",
+    "lit": "je (homme) · habiter · Bangkok · venir · un · an · [accompli]"
+   },
+   {
+    "fr": "Elle, elle s'appelle Fon.",
+    "tgt": "เขาชื่อฝน",
+    "ro": "Khǎo chûe Fǒn.",
+    "lit": "elle · s'appeler · Fon"
+   },
+   {
+    "fr": "Enchanté de te connaître.",
+    "tgt": "ยินดีที่ได้รู้จักครับ",
+    "ro": "Yin-dii thîi dâi rúu-jàk khráp.",
+    "lit": "ravi · de · pouvoir · connaître · [politesse]"
+   },
+   {
+    "fr": "Comment s'appelle ton ami ?",
+    "tgt": "เพื่อนคุณชื่ออะไร",
+    "ro": "Phûean khun chûe a-rai?",
+    "lit": "ami · toi · s'appeler · quoi"
+   }
+  ]
+ },
+ "0-2-2": {
+  "module": "Conversation sociale",
+  "title": "Où tu habites ?",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Tu habites où ?",
+    "tgt": "คุณอยู่ที่ไหน",
+    "ro": "Khun yùu thîi-nǎi?",
+    "lit": "tu · habiter · où"
+   },
+   {
+    "fr": "J'habite près de Silom.",
+    "tgt": "ผมอยู่แถวสีลม",
+    "ro": "Phǒm yùu thǎew Sǐi-lom.",
+    "lit": "je (homme) · habiter · vers · Silom"
+   },
+   {
+    "fr": "Et c'est loin d'ici ?",
+    "tgt": "ไกลจากที่นี่ไหม",
+    "ro": "Klai jàak thîi-nîi mái?",
+    "lit": "loin · de · ici · [question]"
+   },
+   {
+    "fr": "Non, c'est vraiment tout près.",
+    "tgt": "ไม่ไกล ใกล้มาก",
+    "ro": "Mâi klai, klâi mâak.",
+    "lit": "ne pas · loin · proche · très"
+   },
+   {
+    "fr": "Tu viens d'où, toi ?",
+    "tgt": "คุณมาจากไหน",
+    "ro": "Khun maa jàak nǎi?",
+    "lit": "tu · venir · de · où"
+   },
+   {
+    "fr": "Je viens de Chiang Mai.",
+    "tgt": "ผมมาจากเชียงใหม่",
+    "ro": "Phǒm maa jàak Chiang-mài.",
+    "lit": "je (homme) · venir · de · Chiang Mai"
+   },
+   {
+    "fr": "Mon appartement est petit.",
+    "tgt": "คอนโดผมเล็ก",
+    "ro": "Khawn-doo phǒm lék.",
+    "lit": "appartement · je (homme) · petit"
+   },
+   {
+    "fr": "Il y a plein de restaurants dans le coin.",
+    "tgt": "แถวนี้มีร้านอาหารเยอะ",
+    "ro": "Thǎew níi mii ráan-aa-hǎan yóe.",
+    "lit": "coin · ce · il y a · restaurant · beaucoup"
+   },
+   {
+    "fr": "Tu prends le métro aérien ?",
+    "tgt": "คุณนั่งรถไฟฟ้าไหม",
+    "ro": "Khun nâng rót-fai-fáa mái?",
+    "lit": "tu · s'asseoir · train électrique · [question]"
+   },
+   {
+    "fr": "Oui, tous les jours.",
+    "tgt": "นั่งทุกวันครับ",
+    "ro": "Nâng thúk wan khráp.",
+    "lit": "s'asseoir · chaque · jour · [politesse]"
+   }
+  ]
+ },
+ "0-2-3": {
+  "module": "Conversation sociale",
+  "title": "« Châwp » : aimer",
+  "grammaire_de_la_lecon": "« Châwp » : aimer",
+  "phrases": [
+   {
+    "fr": "Tu aimes la cuisine thaïe ?",
+    "tgt": "คุณชอบอาหารไทยไหม",
+    "ro": "Khun châwp aa-hǎan thai mái?",
+    "lit": "tu · aimer · nourriture · thaï · [question]"
+   },
+   {
+    "fr": "Oui, j'aime beaucoup.",
+    "tgt": "ชอบมากครับ",
+    "ro": "Châwp mâak khráp.",
+    "lit": "aimer · beaucoup · [politesse]"
+   },
+   {
+    "fr": "J'aime le som tam.",
+    "tgt": "ผมชอบส้มตำ",
+    "ro": "Phǒm châwp sôm-tam.",
+    "lit": "je (homme) · aimer · som tam"
+   },
+   {
+    "fr": "Je n'aime pas la bière.",
+    "tgt": "ผมไม่ชอบเบียร์",
+    "ro": "Phǒm mâi châwp bia.",
+    "lit": "je (homme) · ne pas · aimer · bière"
+   },
+   {
+    "fr": "J'aime chanter.",
+    "tgt": "ผมชอบร้องเพลง",
+    "ro": "Phǒm châwp ráwng-phleeng.",
+    "lit": "je (homme) · aimer · chanter-chanson"
+   },
+   {
+    "fr": "Qu'est-ce que tu aimes faire ?",
+    "tgt": "คุณชอบทำอะไร",
+    "ro": "Khun châwp tham a-rai?",
+    "lit": "tu · aimer · faire · quoi"
+   },
+   {
+    "fr": "J'aime lire le soir.",
+    "tgt": "ผมชอบอ่านหนังสือตอนเย็น",
+    "ro": "Phǒm châwp àan nǎng-sǔe tawn-yen.",
+    "lit": "je (homme) · aimer · lire · livre · le soir"
+   },
+   {
+    "fr": "Ploy adore les chats.",
+    "tgt": "พลอยชอบแมวมาก",
+    "ro": "Phlawy châwp maew mâak.",
+    "lit": "Ploy · aimer · chat · beaucoup"
+   },
+   {
+    "fr": "Tu aimes les chansons thaïes ?",
+    "tgt": "คุณชอบเพลงไทยไหม",
+    "ro": "Khun châwp phleeng thai mái?",
+    "lit": "tu · aimer · chanson · thaï · [question]"
+   },
+   {
+    "fr": "Pas vraiment.",
+    "tgt": "ไม่ค่อยชอบ",
+    "ro": "Mâi khâwy châwp.",
+    "lit": "ne pas · guère · aimer"
+   }
+  ]
+ },
+ "0-2-4": {
+  "module": "Conversation sociale",
+  "title": "Parler de son travail",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Tu fais quoi comme travail ?",
+    "tgt": "คุณทำงานอะไร",
+    "ro": "Khun tham-ngaan a-rai?",
+    "lit": "tu · travailler · quoi"
+   },
+   {
+    "fr": "Je suis professeur de français.",
+    "tgt": "ผมเป็นครูสอนภาษาฝรั่งเศส",
+    "ro": "Phǒm pen khruu sǎwn phaa-sǎa fà-ràng-sèet.",
+    "lit": "je (homme) · être · professeur · enseigner · langue · France"
+   },
+   {
+    "fr": "Je travaille dans un hôtel.",
+    "tgt": "ผมทำงานที่โรงแรม",
+    "ro": "Phǒm tham-ngaan thîi roong-raem.",
+    "lit": "je (homme) · travailler · à · hôtel"
+   },
+   {
+    "fr": "Ploy est infirmière.",
+    "tgt": "พลอยเป็นพยาบาล",
+    "ro": "Phlawy pen phá-yaa-baan.",
+    "lit": "Ploy · être · infirmière"
+   },
+   {
+    "fr": "Tu travailles où ?",
+    "tgt": "คุณทำงานที่ไหน",
+    "ro": "Khun tham-ngaan thîi-nǎi?",
+    "lit": "tu · travailler · où"
+   },
+   {
+    "fr": "Mon bureau est à Sukhumvit.",
+    "tgt": "ออฟฟิศผมอยู่ที่สุขุมวิท",
+    "ro": "Áwp-fít phǒm yùu thîi Sù-khǔm-wít.",
+    "lit": "bureau · je (homme) · se trouver · à · Sukhumvit"
+   },
+   {
+    "fr": "Je commence à neuf heures.",
+    "tgt": "ผมเริ่มงานเก้าโมง",
+    "ro": "Phǒm rôem ngaan kâo moong.",
+    "lit": "je (homme) · commencer · travail · neuf · heure"
+   },
+   {
+    "fr": "Ton travail est fatigant ?",
+    "tgt": "งานเหนื่อยไหม",
+    "ro": "Ngaan nùeay mái?",
+    "lit": "travail · fatigué · [question]"
+   },
+   {
+    "fr": "Un peu, mais c'est intéressant.",
+    "tgt": "นิดหน่อย แต่น่าสนใจ",
+    "ro": "Nít-nàwy, tàe nâa-sǒn-jai.",
+    "lit": "un peu · mais · intéressant"
+   },
+   {
+    "fr": "Je finis tard le soir.",
+    "tgt": "ผมเลิกงานดึก",
+    "ro": "Phǒm lôek ngaan dùek.",
+    "lit": "je (homme) · finir · travail · tard"
+   }
+  ]
+ },
+ "0-2-5": {
+  "module": "Conversation sociale",
+  "title": "La famille : phâw, mâe, phîi, náwng",
+  "grammaire_de_la_lecon": "La famille : « phâw, mâe, phîi, náwng »",
+  "phrases": [
+   {
+    "fr": "Tu as des frères ou des sœurs ?",
+    "tgt": "คุณมีพี่น้องไหม",
+    "ro": "Khun mii phîi-náwng mái?",
+    "lit": "tu · avoir · aîné-cadet · [question]"
+   },
+   {
+    "fr": "J'ai un grand frère.",
+    "tgt": "ผมมีพี่ชายหนึ่งคน",
+    "ro": "Phǒm mii phîi-chaai nùeng khon.",
+    "lit": "je (homme) · avoir · aîné-homme · un · [classificateur]"
+   },
+   {
+    "fr": "Et aussi une petite sœur.",
+    "tgt": "แล้วก็มีน้องสาวหนึ่งคน",
+    "ro": "Láew kâw mii náwng-sǎao nùeng khon.",
+    "lit": "et puis · aussi · avoir · cadet-femme · un · [classificateur]"
+   },
+   {
+    "fr": "Mon père est médecin.",
+    "tgt": "พ่อผมเป็นหมอ",
+    "ro": "Phâw phǒm pen mǎw.",
+    "lit": "père · je (homme) · être · médecin"
+   },
+   {
+    "fr": "Ma mère est cuisinière.",
+    "tgt": "แม่ผมเป็นแม่ครัว",
+    "ro": "Mâe phǒm pen mâe-khrua.",
+    "lit": "mère · je (homme) · être · cuisinière"
+   },
+   {
+    "fr": "Mes parents habitent en France.",
+    "tgt": "พ่อแม่ผมอยู่ที่ฝรั่งเศส",
+    "ro": "Phâw-mâe phǒm yùu thîi fà-ràng-sèet.",
+    "lit": "père-mère · je (homme) · habiter · à · France"
+   },
+   {
+    "fr": "Ta grande sœur habite où ?",
+    "tgt": "พี่สาวคุณอยู่ที่ไหน",
+    "ro": "Phîi-sǎao khun yùu thîi-nǎi?",
+    "lit": "aîné-femme · toi · habiter · où"
+   },
+   {
+    "fr": "Mon petit frère est étudiant.",
+    "tgt": "น้องชายผมเป็นนักศึกษา",
+    "ro": "Náwng-chaai phǒm pen nák-sùek-sǎa.",
+    "lit": "cadet-homme · je (homme) · être · étudiant"
+   },
+   {
+    "fr": "Tu as des enfants ?",
+    "tgt": "คุณมีลูกไหม",
+    "ro": "Khun mii lûuk mái?",
+    "lit": "tu · avoir · enfant · [question]"
+   },
+   {
+    "fr": "Oui, j'ai deux filles.",
+    "tgt": "มีลูกสาวสองคนครับ",
+    "ro": "Mii lûuk-sǎao sǎwng khon khráp.",
+    "lit": "avoir · enfant-femme · deux · [classificateur] · [politesse]"
+   }
+  ]
+ },
+ "0-2-6": {
+  "module": "Conversation sociale",
+  "title": "Les collègues",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Voici mon collègue, il s'appelle Ton.",
+    "tgt": "นี่เพื่อนร่วมงานผม ชื่อต้น",
+    "ro": "Nîi phûean-rûam-ngaan phǒm, chûe Tôn.",
+    "lit": "voici · collègue · je (homme) · s'appeler · Ton"
+   },
+   {
+    "fr": "On travaille ensemble.",
+    "tgt": "เราทำงานด้วยกัน",
+    "ro": "Rao tham-ngaan dûay-kan.",
+    "lit": "nous · travailler · ensemble"
+   },
+   {
+    "fr": "Tes collègues sont sympas ?",
+    "tgt": "เพื่อนร่วมงานคุณใจดีไหม",
+    "ro": "Phûean-rûam-ngaan khun jai-dii mái?",
+    "lit": "collègue · toi · gentil · [question]"
+   },
+   {
+    "fr": "Oui, ils sont très gentils.",
+    "tgt": "ใจดีมากครับ",
+    "ro": "Jai-dii mâak khráp.",
+    "lit": "gentil · très · [politesse]"
+   },
+   {
+    "fr": "Mon chef est un peu sévère.",
+    "tgt": "หัวหน้าผมดุนิดหน่อย",
+    "ro": "Hǔa-nâa phǒm dù nít-nàwy.",
+    "lit": "chef · je (homme) · sévère · un peu"
+   },
+   {
+    "fr": "À midi, on déjeune ensemble.",
+    "tgt": "ตอนเที่ยงเรากินข้าวด้วยกัน",
+    "ro": "Tawn-thîang rao kin khâao dûay-kan.",
+    "lit": "à midi · nous · manger · riz · ensemble"
+   },
+   {
+    "fr": "Elle est nouvelle au bureau.",
+    "tgt": "เขาเป็นคนใหม่ที่ออฟฟิศ",
+    "ro": "Khǎo pen khon mài thîi áwp-fít.",
+    "lit": "elle · être · personne · nouveau · à · bureau"
+   },
+   {
+    "fr": "Tu connais Ton ?",
+    "tgt": "คุณรู้จักต้นไหม",
+    "ro": "Khun rúu-jàk Tôn mái?",
+    "lit": "tu · connaître · Ton · [question]"
+   },
+   {
+    "fr": "Oui, c'est mon ami.",
+    "tgt": "รู้จักครับ เขาเป็นเพื่อนผม",
+    "ro": "Rúu-jàk khráp, khǎo pen phûean phǒm.",
+    "lit": "connaître · [politesse] · il · être · ami · je (homme)"
+   },
+   {
+    "fr": "Il est très drôle.",
+    "tgt": "เขาตลกมาก",
+    "ro": "Khǎo tà-lòk mâak.",
+    "lit": "il · drôle · très"
+   }
+  ]
+ },
+ "0-2-7": {
+  "module": "Conversation sociale",
+  "title": "« Kam-lang » : être en train de",
+  "grammaire_de_la_lecon": "« Kam-lang » : être en train de",
+  "phrases": [
+   {
+    "fr": "Tu fais quoi, là ?",
+    "tgt": "กำลังทำอะไรอยู่",
+    "ro": "Kam-lang tham a-rai yùu?",
+    "lit": "[en train de] · faire · quoi · [en cours]"
+   },
+   {
+    "fr": "Je suis en train de manger.",
+    "tgt": "กำลังกินข้าวอยู่",
+    "ro": "Kam-lang kin khâao yùu.",
+    "lit": "[en train de] · manger · riz · [en cours]"
+   },
+   {
+    "fr": "Je suis en train de travailler.",
+    "tgt": "ผมกำลังทำงานครับ",
+    "ro": "Phǒm kam-lang tham-ngaan khráp.",
+    "lit": "je (homme) · [en train de] · travailler · [politesse]"
+   },
+   {
+    "fr": "Ploy est en train de chanter.",
+    "tgt": "พลอยกำลังร้องเพลง",
+    "ro": "Phlawy kam-lang ráwng-phleeng.",
+    "lit": "Ploy · [en train de] · chanter-chanson"
+   },
+   {
+    "fr": "Je suis en chemin.",
+    "tgt": "ผมกำลังไปครับ",
+    "ro": "Phǒm kam-lang pai khráp.",
+    "lit": "je (homme) · [en train de] · aller · [politesse]"
+   },
+   {
+    "fr": "Il est en train de dormir.",
+    "tgt": "เขากำลังนอนหลับ",
+    "ro": "Khǎo kam-lang nawn-làp.",
+    "lit": "il · [en train de] · dormir"
+   },
+   {
+    "fr": "On est en train de regarder la boxe.",
+    "tgt": "เรากำลังดูมวยอยู่",
+    "ro": "Rao kam-lang duu muay yùu.",
+    "lit": "nous · [en train de] · regarder · boxe · [en cours]"
+   },
+   {
+    "fr": "Tu es occupé ?",
+    "tgt": "ยุ่งไหม",
+    "ro": "Yûng mái?",
+    "lit": "occupé · [question]"
+   },
+   {
+    "fr": "Oui, je suis en réunion.",
+    "tgt": "ครับ กำลังประชุมอยู่",
+    "ro": "Khráp, kam-lang prà-chum yùu.",
+    "lit": "oui · [en train de] · réunion · [en cours]"
+   },
+   {
+    "fr": "Je te rappelle tout à l'heure.",
+    "tgt": "เดี๋ยวโทรกลับนะ",
+    "ro": "Dǐao thoo klàp ná.",
+    "lit": "tout à l'heure · téléphoner · retour · [douceur]"
+   }
+  ]
+ },
+ "0-2-8": {
+  "module": "Conversation sociale",
+  "title": "Le week-end",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Tu fais quoi ce week-end ?",
+    "tgt": "เสาร์อาทิตย์นี้ทำอะไร",
+    "ro": "Sǎo aa-thít níi tham a-rai?",
+    "lit": "samedi · dimanche · ce · faire · quoi"
+   },
+   {
+    "fr": "Je vais au marché de Chatuchak.",
+    "tgt": "ผมจะไปตลาดจตุจักร",
+    "ro": "Phǒm jà pai tà-làat Jà-tù-jàk.",
+    "lit": "je (homme) · [futur] · aller · marché · Chatuchak"
+   },
+   {
+    "fr": "On y va ensemble, tous les deux ?",
+    "tgt": "ไปด้วยกันไหม",
+    "ro": "Pai dûay-kan mái?",
+    "lit": "aller · ensemble · [question]"
+   },
+   {
+    "fr": "Volontiers !",
+    "tgt": "ได้เลย",
+    "ro": "Dâi loei.",
+    "lit": "pouvoir · [tout à fait]"
+   },
+   {
+    "fr": "Moi, le dimanche, je me repose.",
+    "tgt": "วันอาทิตย์ผมพักผ่อน",
+    "ro": "Wan aa-thít phǒm phák-phàwn.",
+    "lit": "jour · dimanche · je (homme) · se reposer"
+   },
+   {
+    "fr": "On va au parc Lumphini ?",
+    "tgt": "ไปสวนลุมพินีไหม",
+    "ro": "Pai sǔan Lum-phí-nii mái?",
+    "lit": "aller · parc · Lumphini · [question]"
+   },
+   {
+    "fr": "Il fait vraiment chaud aujourd'hui.",
+    "tgt": "วันนี้ร้อนมาก",
+    "ro": "Wan-níi ráwn mâak.",
+    "lit": "aujourd'hui · chaud · très"
+   },
+   {
+    "fr": "Alors on va au cinéma.",
+    "tgt": "งั้นไปดูหนังกัน",
+    "ro": "Ngán pai duu nǎng kan.",
+    "lit": "alors · aller · regarder · film · ensemble"
+   },
+   {
+    "fr": "Super idée !",
+    "tgt": "ดีเลย",
+    "ro": "Dii loei.",
+    "lit": "bien · [tout à fait]"
+   },
+   {
+    "fr": "On se retrouve vers quelle heure ?",
+    "tgt": "เจอกันกี่โมง",
+    "ro": "Joe kan kìi moong?",
+    "lit": "se voir · ensemble · combien · heure"
+   }
+  ]
+ },
+ "0-2-9": {
+  "module": "Conversation sociale",
+  "title": "Comparer avec « kwàa »",
+  "grammaire_de_la_lecon": "Comparer avec « kwàa »",
+  "phrases": [
+   {
+    "fr": "Bangkok est plus grand que Chiang Mai.",
+    "tgt": "กรุงเทพใหญ่กว่าเชียงใหม่",
+    "ro": "Krung-thêep yài kwàa Chiang-mài.",
+    "lit": "Bangkok · grand · plus que · Chiang Mai"
+   },
+   {
+    "fr": "Chiang Mai est plus calme.",
+    "tgt": "เชียงใหม่เงียบกว่า",
+    "ro": "Chiang-mài ngîap kwàa.",
+    "lit": "Chiang Mai · calme · plus"
+   },
+   {
+    "fr": "Ce restaurant-ci est meilleur.",
+    "tgt": "ร้านนี้อร่อยกว่า",
+    "ro": "Ráan níi à-ràwy kwàa.",
+    "lit": "restaurant · ce · délicieux · plus"
+   },
+   {
+    "fr": "Mon grand frère est plus grand que moi.",
+    "tgt": "พี่ชายผมสูงกว่าผม",
+    "ro": "Phîi-chaai phǒm sǔung kwàa phǒm.",
+    "lit": "aîné-homme · je (homme) · haut · plus que · moi"
+   },
+   {
+    "fr": "Le métro est plus rapide que le taxi.",
+    "tgt": "รถไฟฟ้าเร็วกว่าแท็กซี่",
+    "ro": "Rót-fai-fáa reo kwàa tháek-sîi.",
+    "lit": "train électrique · rapide · plus que · taxi"
+   },
+   {
+    "fr": "Mais le taxi est plus cher.",
+    "tgt": "แต่แท็กซี่แพงกว่า",
+    "ro": "Tàe tháek-sîi phaeng kwàa.",
+    "lit": "mais · taxi · cher · plus"
+   },
+   {
+    "fr": "Ce plat est plus épicé.",
+    "tgt": "จานนี้เผ็ดกว่า",
+    "ro": "Jaan níi phèt kwàa.",
+    "lit": "plat · ce · épicé · plus"
+   },
+   {
+    "fr": "Lequel tu préfères ?",
+    "tgt": "คุณชอบอันไหนมากกว่า",
+    "ro": "Khun châwp an nǎi mâak kwàa?",
+    "lit": "tu · aimer · [classificateur] · lequel · beaucoup · plus"
+   },
+   {
+    "fr": "Je préfère le riz gluant.",
+    "tgt": "ผมชอบข้าวเหนียวมากกว่า",
+    "ro": "Phǒm châwp khâao-nǐao mâak kwàa.",
+    "lit": "je (homme) · aimer · riz gluant · beaucoup · plus"
+   },
+   {
+    "fr": "Tu parles thaï mieux que moi.",
+    "tgt": "คุณพูดไทยเก่งกว่าผม",
+    "ro": "Khun phûut thai kèng kwàa phǒm.",
+    "lit": "tu · parler · thaï · doué · plus que · moi"
+   }
+  ]
+ },
+ "0-2-10": {
+  "module": "Conversation sociale",
+  "title": "Une soirée karaoké",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "On va au karaoké ce soir ?",
+    "tgt": "คืนนี้ไปคาราโอเกะกันไหม",
+    "ro": "Khuen-níi pai khaa-raa-oo-kè kan mái?",
+    "lit": "cette nuit · aller · karaoké · ensemble · [question]"
+   },
+   {
+    "fr": "Je ne chante pas bien.",
+    "tgt": "ผมร้องเพลงไม่เก่ง",
+    "ro": "Phǒm ráwng-phleeng mâi kèng.",
+    "lit": "je (homme) · chanter-chanson · ne pas · doué"
+   },
+   {
+    "fr": "Pas grave, on s'amuse !",
+    "tgt": "ไม่เป็นไร สนุกดี",
+    "ro": "Mâi pen rai, sà-nùk dii.",
+    "lit": "ne pas · être · rien · amusant · bien"
+   },
+   {
+    "fr": "Tu vas chanter quelle chanson ?",
+    "tgt": "คุณจะร้องเพลงอะไร",
+    "ro": "Khun jà ráwng phleeng a-rai?",
+    "lit": "tu · [futur] · chanter · chanson · quoi"
+   },
+   {
+    "fr": "Une chanson thaïe, bien sûr.",
+    "tgt": "เพลงไทยสิ",
+    "ro": "Phleeng thai sì.",
+    "lit": "chanson · thaï · [bien sûr]"
+   },
+   {
+    "fr": "Vas-y, chante !",
+    "tgt": "ร้องเลย",
+    "ro": "Ráwng loei.",
+    "lit": "chanter · [vas-y]"
+   },
+   {
+    "fr": "Tu chantes vraiment bien !",
+    "tgt": "ร้องเพราะมาก",
+    "ro": "Ráwng phráw mâak.",
+    "lit": "chanter · mélodieux · très"
+   },
+   {
+    "fr": "Encore une chanson ?",
+    "tgt": "อีกเพลงไหม",
+    "ro": "Ìik phleeng mái?",
+    "lit": "encore · chanson · [question]"
+   },
+   {
+    "fr": "On chante ensemble ?",
+    "tgt": "ร้องด้วยกันไหม",
+    "ro": "Ráwng dûay-kan mái?",
+    "lit": "chanter · ensemble · [question]"
+   },
+   {
+    "fr": "On s'est bien amusés ce soir.",
+    "tgt": "คืนนี้สนุกมาก",
+    "ro": "Khuen-níi sà-nùk mâak.",
+    "lit": "cette nuit · amusant · très"
+   }
+  ]
+ },
+ "0-2-11": {
+  "module": "Conversation sociale",
+  "title": "« Phráw » : parce que",
+  "grammaire_de_la_lecon": "« Phráw » : parce que",
+  "phrases": [
+   {
+    "fr": "Pourquoi tu apprends le thaï ?",
+    "tgt": "ทำไมคุณเรียนภาษาไทย",
+    "ro": "Tham-mai khun rian phaa-sǎa thai?",
+    "lit": "pourquoi · tu · apprendre · langue · thaï"
+   },
+   {
+    "fr": "Parce que j'habite ici.",
+    "tgt": "เพราะผมอยู่ที่นี่",
+    "ro": "Phráw phǒm yùu thîi-nîi.",
+    "lit": "parce que · je (homme) · habiter · ici"
+   },
+   {
+    "fr": "Et parce que j'aime la Thaïlande.",
+    "tgt": "แล้วก็เพราะผมชอบเมืองไทย",
+    "ro": "Láew kâw phráw phǒm châwp mueang-thai.",
+    "lit": "et puis · aussi · parce que · je (homme) · aimer · pays thaï"
+   },
+   {
+    "fr": "Je suis fatigué parce que je travaille beaucoup.",
+    "tgt": "ผมเหนื่อยเพราะทำงานเยอะ",
+    "ro": "Phǒm nùeay phráw tham-ngaan yóe.",
+    "lit": "je (homme) · fatigué · parce que · travailler · beaucoup"
+   },
+   {
+    "fr": "Pourquoi tu es en retard ?",
+    "tgt": "ทำไมมาสาย",
+    "ro": "Tham-mai maa sǎai?",
+    "lit": "pourquoi · venir · en retard"
+   },
+   {
+    "fr": "Parce qu'il y avait des bouchons.",
+    "tgt": "เพราะรถติด",
+    "ro": "Phráw rót tìt.",
+    "lit": "parce que · voiture · coincé"
+   },
+   {
+    "fr": "Je ne bois pas parce que je dois conduire.",
+    "tgt": "ผมไม่ดื่มเพราะต้องขับรถ",
+    "ro": "Phǒm mâi dùem phráw tâwng khàp rót.",
+    "lit": "je (homme) · ne pas · boire · parce que · devoir · conduire · voiture"
+   },
+   {
+    "fr": "Pourquoi tu ris ?",
+    "tgt": "หัวเราะทำไม",
+    "ro": "Hǔa-ráw tham-mai?",
+    "lit": "rire · pourquoi"
+   },
+   {
+    "fr": "Parce que c'est drôle.",
+    "tgt": "เพราะมันตลก",
+    "ro": "Phráw man tà-lòk.",
+    "lit": "parce que · ça · drôle"
+   },
+   {
+    "fr": "Je reste à la maison parce qu'il pleut.",
+    "tgt": "ผมอยู่บ้านเพราะฝนตก",
+    "ro": "Phǒm yùu bâan phráw fǒn tòk.",
+    "lit": "je (homme) · rester · maison · parce que · pluie · tomber"
+   }
+  ]
+ },
+ "0-2-12": {
+  "module": "Conversation sociale",
+  "title": "La boxe thaïe",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Tu t'entraînes à la boxe thaïe ?",
+    "tgt": "คุณฝึกมวยไทยไหม",
+    "ro": "Khun fùek muay-thai mái?",
+    "lit": "tu · s'entraîner · boxe thaïe · [question]"
+   },
+   {
+    "fr": "Oui, deux fois par semaine.",
+    "tgt": "ครับ อาทิตย์ละสองครั้ง",
+    "ro": "Khráp, aa-thít lá sǎwng khráng.",
+    "lit": "oui · semaine · par · deux · fois"
+   },
+   {
+    "fr": "La boxe thaïe, c'est bon pour la santé.",
+    "tgt": "มวยไทยดีต่อสุขภาพ",
+    "ro": "Muay-thai dii tàw sùk-khà-phâap.",
+    "lit": "boxe thaïe · bon · pour · santé"
+   },
+   {
+    "fr": "Le cours a lieu le soir.",
+    "tgt": "เรียนตอนเย็น",
+    "ro": "Rian tawn-yen.",
+    "lit": "étudier · le soir"
+   },
+   {
+    "fr": "C'est fatigant mais amusant.",
+    "tgt": "เหนื่อยแต่สนุก",
+    "ro": "Nùeay tàe sà-nùk.",
+    "lit": "fatigué · mais · amusant"
+   },
+   {
+    "fr": "Mon entraîneur est très fort.",
+    "tgt": "ครูมวยของผมเก่งมาก",
+    "ro": "Khruu muay khǎwng phǒm kèng mâak.",
+    "lit": "professeur · boxe · [de] · je (homme) · doué · très"
+   },
+   {
+    "fr": "Tu veux essayer ?",
+    "tgt": "อยากลองไหม",
+    "ro": "Yàak lawng mái?",
+    "lit": "vouloir · essayer · [question]"
+   },
+   {
+    "fr": "J'ai un peu peur.",
+    "tgt": "กลัวนิดหน่อย",
+    "ro": "Klua nít-nàwy.",
+    "lit": "avoir peur · un peu"
+   },
+   {
+    "fr": "On va voir un combat au stade Lumphini ?",
+    "tgt": "ไปดูมวยที่เวทีลุมพินีไหม",
+    "ro": "Pai duu muay thîi wee-thii Lum-phí-nii mái?",
+    "lit": "aller · regarder · boxe · à · ring · Lumphini · [question]"
+   },
+   {
+    "fr": "Les boxeurs sont vraiment forts.",
+    "tgt": "นักมวยเก่งมาก",
+    "ro": "Nák-muay kèng mâak.",
+    "lit": "boxeur · doué · très"
+   }
+  ]
+ },
+ "0-2-13": {
+  "module": "Conversation sociale",
+  "title": "« Phîi » et « náwng » : appeler les gens selon leur âge",
+  "grammaire_de_la_lecon": "« Phîi » et « náwng » : appeler les gens selon leur âge",
+  "phrases": [
+   {
+    "fr": "Tu as quel âge ?",
+    "tgt": "คุณอายุเท่าไร",
+    "ro": "Khun aa-yú thâo-rai?",
+    "lit": "tu · âge · combien"
+   },
+   {
+    "fr": "J'ai trente ans.",
+    "tgt": "ผมอายุสามสิบปี",
+    "ro": "Phǒm aa-yú sǎam-sìp pii.",
+    "lit": "je (homme) · âge · trente · an"
+   },
+   {
+    "fr": "Alors tu es mon aîné.",
+    "tgt": "งั้นคุณเป็นพี่",
+    "ro": "Ngán khun pen phîi.",
+    "lit": "alors · tu · être · aîné"
+   },
+   {
+    "fr": "Je peux t'appeler Phi Ton ?",
+    "tgt": "เรียกพี่ต้นได้ไหม",
+    "ro": "Rîak phîi Tôn dâi mái?",
+    "lit": "appeler · aîné · Ton · pouvoir · [question]"
+   },
+   {
+    "fr": "Tu veux un café, Phi ?",
+    "tgt": "พี่ดื่มกาแฟไหม",
+    "ro": "Phîi dùem kaa-fae mái?",
+    "lit": "aîné · boire · café · [question]"
+   },
+   {
+    "fr": "Nong, l'addition s'il te plaît !",
+    "tgt": "น้อง เช็กบิลด้วย",
+    "ro": "Náwng, chék-bin dûay.",
+    "lit": "cadet · addition · [s'il te plaît]"
+   },
+   {
+    "fr": "Elle est plus jeune que moi.",
+    "tgt": "เขาอายุน้อยกว่าผม",
+    "ro": "Khǎo aa-yú náwy kwàa phǒm.",
+    "lit": "elle · âge · peu · plus que · moi"
+   },
+   {
+    "fr": "Donc je l'appelle Nong.",
+    "tgt": "ผมเลยเรียกเขาว่าน้อง",
+    "ro": "Phǒm loei rîak khǎo wâa náwng.",
+    "lit": "je (homme) · donc · appeler · elle · que · cadet"
+   },
+   {
+    "fr": "Phi Noi est très gentille.",
+    "tgt": "พี่น้อยใจดีมาก",
+    "ro": "Phîi Náwy jai-dii mâak.",
+    "lit": "aîné · Noi · gentil · très"
+   },
+   {
+    "fr": "Merci beaucoup, Phi !",
+    "tgt": "ขอบคุณมากครับพี่",
+    "ro": "Khàwp-khun mâak khráp phîi.",
+    "lit": "merci · beaucoup · [politesse] · aîné"
+   }
+  ]
+ },
+ "0-2-14": {
+  "module": "Conversation sociale",
+  "title": "Une invitation",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Tu es libre samedi ?",
+    "tgt": "วันเสาร์ว่างไหม",
+    "ro": "Wan sǎo wâang mái?",
+    "lit": "jour · samedi · libre · [question]"
+   },
+   {
+    "fr": "Oui, je suis libre.",
+    "tgt": "ว่างครับ",
+    "ro": "Wâang khráp.",
+    "lit": "libre · [politesse]"
+   },
+   {
+    "fr": "Viens dîner à la maison.",
+    "tgt": "มากินข้าวที่บ้านผมสิ",
+    "ro": "Maa kin khâao thîi bâan phǒm sì.",
+    "lit": "venir · manger · riz · à · maison · je (homme) · [allez]"
+   },
+   {
+    "fr": "Avec plaisir !",
+    "tgt": "ด้วยความยินดีครับ",
+    "ro": "Dûay khwaam-yin-dii khráp.",
+    "lit": "avec · plaisir · [politesse]"
+   },
+   {
+    "fr": "J'invite aussi mes collègues.",
+    "tgt": "ผมชวนเพื่อนร่วมงานด้วย",
+    "ro": "Phǒm chuan phûean-rûam-ngaan dûay.",
+    "lit": "je (homme) · inviter · collègue · aussi"
+   },
+   {
+    "fr": "Je dois apporter quelque chose ?",
+    "tgt": "ต้องเอาอะไรไปไหม",
+    "ro": "Tâwng ao a-rai pai mái?",
+    "lit": "devoir · prendre · quelque chose · aller · [question]"
+   },
+   {
+    "fr": "Non, viens les mains vides.",
+    "tgt": "ไม่ต้อง มาตัวเปล่าได้เลย",
+    "ro": "Mâi tâwng, maa tua-plào dâi loei.",
+    "lit": "pas besoin · venir · corps vide · pouvoir · [tout à fait]"
+   },
+   {
+    "fr": "Je viens à quelle heure ?",
+    "tgt": "มากี่โมงดี",
+    "ro": "Maa kìi moong dii?",
+    "lit": "venir · combien · heure · bien"
+   },
+   {
+    "fr": "Vers six heures du soir.",
+    "tgt": "ประมาณหกโมงเย็น",
+    "ro": "Prà-maan hòk moong yen.",
+    "lit": "environ · six · heure · soir"
+   },
+   {
+    "fr": "Merci de m'inviter.",
+    "tgt": "ขอบคุณที่ชวนนะ",
+    "ro": "Khàwp-khun thîi chuan ná.",
+    "lit": "merci · de · inviter · [douceur]"
+   }
+  ]
+ },
+ "0-2-15": {
+  "module": "Conversation sociale",
+  "title": "Les classificateurs : khon, tua, an",
+  "grammaire_de_la_lecon": "Les classificateurs : « khon, tua, an »",
+  "phrases": [
+   {
+    "fr": "J'ai acheté un petit cadeau.",
+    "tgt": "ผมซื้อของขวัญมาหนึ่งอัน",
+    "ro": "Phǒm súe khǎwng-khwǎn maa nùeng an.",
+    "lit": "je (homme) · acheter · cadeau · venir · un · [classificateur]"
+   },
+   {
+    "fr": "Il y a combien de personnes ?",
+    "tgt": "มีกี่คน",
+    "ro": "Mii kìi khon?",
+    "lit": "il y a · combien · [classificateur]"
+   },
+   {
+    "fr": "Il y a cinq personnes.",
+    "tgt": "มีห้าคน",
+    "ro": "Mii hâa khon.",
+    "lit": "il y a · cinq · [classificateur]"
+   },
+   {
+    "fr": "J'ai acheté deux t-shirts.",
+    "tgt": "ผมซื้อเสื้อสองตัว",
+    "ro": "Phǒm súe sûea sǎwng tua.",
+    "lit": "je (homme) · acheter · vêtement · deux · [classificateur]"
+   },
+   {
+    "fr": "Ce t-shirt est pour ton fils.",
+    "tgt": "เสื้อตัวนี้ให้ลูกชายคุณ",
+    "ro": "Sûea tua níi hâi lûuk-chaai khun.",
+    "lit": "vêtement · [classificateur] · ce · donner · enfant-homme · toi"
+   },
+   {
+    "fr": "Elle a trois chats.",
+    "tgt": "เขามีแมวสามตัว",
+    "ro": "Khǎo mii maew sǎam tua.",
+    "lit": "elle · avoir · chat · trois · [classificateur]"
+   },
+   {
+    "fr": "Je prends ce gâteau-là.",
+    "tgt": "ขอขนมอันนั้น",
+    "ro": "Khǎw khà-nǒm an nán.",
+    "lit": "demander · gâteau · [classificateur] · là"
+   },
+   {
+    "fr": "Celui-ci, il coûte combien ?",
+    "tgt": "อันนี้เท่าไร",
+    "ro": "An níi thâo-rai?",
+    "lit": "[classificateur] · ce · combien"
+   },
+   {
+    "fr": "Cent bahts pièce.",
+    "tgt": "อันละร้อยบาท",
+    "ro": "An lá ráwy bàat.",
+    "lit": "[classificateur] · par · cent · baht"
+   },
+   {
+    "fr": "J'ai deux amis thaïs.",
+    "tgt": "ผมมีเพื่อนคนไทยสองคน",
+    "ro": "Phǒm mii phûean khon thai sǎwng khon.",
+    "lit": "je (homme) · avoir · ami · personne · thaï · deux · [classificateur]"
+   }
+  ]
+ },
+ "0-2-16": {
+  "module": "Conversation sociale",
+  "title": "À table entre amis",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Tu peux manger épicé ?",
+    "tgt": "กินเผ็ดได้ไหม",
+    "ro": "Kin phèt dâi mái?",
+    "lit": "manger · épicé · pouvoir · [question]"
+   },
+   {
+    "fr": "Un peu seulement.",
+    "tgt": "ได้นิดหน่อย",
+    "ro": "Dâi nít-nàwy.",
+    "lit": "pouvoir · un peu"
+   },
+   {
+    "fr": "Pas épicé pour moi, d'accord ?",
+    "tgt": "ไม่เผ็ดนะ",
+    "ro": "Mâi phèt ná.",
+    "lit": "ne pas · épicé · [douceur]"
+   },
+   {
+    "fr": "Goûte donc ce curry vert.",
+    "tgt": "ลองชิมแกงเขียวหวานนี่สิ",
+    "ro": "Lawng chim kaeng-khǐao-wǎan nîi sì.",
+    "lit": "essayer · goûter · curry vert · ça · [allez]"
+   },
+   {
+    "fr": "C'est délicieux !",
+    "tgt": "อร่อยมาก",
+    "ro": "À-ràwy mâak.",
+    "lit": "délicieux · très"
+   },
+   {
+    "fr": "Qu'est-ce que tu ne manges pas ?",
+    "tgt": "คุณไม่กินอะไร",
+    "ro": "Khun mâi kin a-rai?",
+    "lit": "tu · ne pas · manger · quoi"
+   },
+   {
+    "fr": "Je ne mange pas de crevettes.",
+    "tgt": "ผมไม่กินกุ้ง",
+    "ro": "Phǒm mâi kin kûng.",
+    "lit": "je (homme) · ne pas · manger · crevette"
+   },
+   {
+    "fr": "On partage les plats, d'accord ?",
+    "tgt": "แบ่งกันกินนะ",
+    "ro": "Bàeng kan kin ná.",
+    "lit": "partager · ensemble · manger · [douceur]"
+   },
+   {
+    "fr": "Tu reprends du riz ?",
+    "tgt": "เอาข้าวเพิ่มไหม",
+    "ro": "Ao khâao phôem mái?",
+    "lit": "vouloir · riz · ajouter · [question]"
+   },
+   {
+    "fr": "Non merci, je n'ai plus faim.",
+    "tgt": "ไม่เป็นไรครับ อิ่มแล้ว",
+    "ro": "Mâi pen rai khráp, ìm láew.",
+    "lit": "ne pas · être · rien · [politesse] · rassasié · [accompli]"
+   }
+  ]
+ },
+ "0-2-17": {
+  "module": "Conversation sociale",
+  "title": "« Mâak » et « koen pai » : très et trop",
+  "grammaire_de_la_lecon": "« Mâak » et « koen pai » : très et trop",
+  "phrases": [
+   {
+    "fr": "Cette chemise est très belle.",
+    "tgt": "เสื้อตัวนี้สวยมาก",
+    "ro": "Sûea tua níi sǔay mâak.",
+    "lit": "vêtement · [classificateur] · ce · beau · très"
+   },
+   {
+    "fr": "C'est trop cher pour moi.",
+    "tgt": "แพงเกินไปสำหรับผม",
+    "ro": "Phaeng koen pai sǎm-ràp phǒm.",
+    "lit": "cher · dépasser · aller · pour · moi"
+   },
+   {
+    "fr": "Ta maison est très jolie.",
+    "tgt": "บ้านคุณสวยมาก",
+    "ro": "Bâan khun sǔay mâak.",
+    "lit": "maison · toi · beau · très"
+   },
+   {
+    "fr": "Tu parles très bien thaï.",
+    "tgt": "คุณพูดไทยเก่งมาก",
+    "ro": "Khun phûut thai kèng mâak.",
+    "lit": "tu · parler · thaï · doué · très"
+   },
+   {
+    "fr": "Merci, c'est très gentil.",
+    "tgt": "ขอบคุณครับ ใจดีมาก",
+    "ro": "Khàwp-khun khráp, jai-dii mâak.",
+    "lit": "merci · [politesse] · gentil · très"
+   },
+   {
+    "fr": "Ce plat est trop épicé.",
+    "tgt": "อาหารจานนี้เผ็ดเกินไป",
+    "ro": "Aa-hǎan jaan níi phèt koen pai.",
+    "lit": "nourriture · plat · ce · épicé · dépasser · aller"
+   },
+   {
+    "fr": "La musique est trop forte.",
+    "tgt": "เพลงดังเกินไป",
+    "ro": "Phleeng dang koen pai.",
+    "lit": "musique · fort · dépasser · aller"
+   },
+   {
+    "fr": "Il fait trop chaud dehors.",
+    "tgt": "ข้างนอกร้อนเกินไป",
+    "ro": "Khâang-nâwk ráwn koen pai.",
+    "lit": "dehors · chaud · dépasser · aller"
+   },
+   {
+    "fr": "Je suis très content.",
+    "tgt": "ผมดีใจมาก",
+    "ro": "Phǒm dii-jai mâak.",
+    "lit": "je (homme) · content · très"
+   },
+   {
+    "fr": "Tu travailles trop.",
+    "tgt": "คุณทำงานหนักเกินไป",
+    "ro": "Khun tham-ngaan nàk koen pai.",
+    "lit": "tu · travailler · lourd · dépasser · aller"
+   }
+  ]
+ },
+ "0-2-18": {
+  "module": "Conversation sociale",
+  "title": "Le sourire et la gentillesse",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Les Thaïs sourient souvent.",
+    "tgt": "คนไทยยิ้มเก่ง",
+    "ro": "Khon thai yím kèng.",
+    "lit": "personne · thaï · sourire · doué"
+   },
+   {
+    "fr": "Ici, les gens parlent doucement.",
+    "tgt": "ที่นี่คนพูดเบาๆ",
+    "ro": "Thîi-nîi khon phûut bao bao.",
+    "lit": "ici · gens · parler · doux · doux"
+   },
+   {
+    "fr": "Ce n'est rien, pas de souci.",
+    "tgt": "ไม่เป็นไร",
+    "ro": "Mâi pen rai.",
+    "lit": "ne pas · être · rien"
+   },
+   {
+    "fr": "Elle sourit tout le temps.",
+    "tgt": "เขายิ้มตลอด",
+    "ro": "Khǎo yím tà-làwt.",
+    "lit": "elle · sourire · tout le temps"
+   },
+   {
+    "fr": "Merci pour ta gentillesse.",
+    "tgt": "ขอบคุณที่ใจดีกับผม",
+    "ro": "Khàwp-khun thîi jai-dii kàp phǒm.",
+    "lit": "merci · de · gentil · avec · moi"
+   },
+   {
+    "fr": "Je dois rentrer maintenant.",
+    "tgt": "ผมต้องกลับแล้ว",
+    "ro": "Phǒm tâwng klàp láew.",
+    "lit": "je (homme) · devoir · rentrer · [accompli]"
+   },
+   {
+    "fr": "Rentre bien !",
+    "tgt": "กลับบ้านดีๆนะ",
+    "ro": "Klàp bâan dii dii ná.",
+    "lit": "rentrer · maison · bien · bien · [douceur]"
+   },
+   {
+    "fr": "On se revoit très vite.",
+    "tgt": "เจอกันเร็วๆนี้นะ",
+    "ro": "Joe kan reo reo níi ná.",
+    "lit": "se voir · ensemble · vite · vite · ce · [douceur]"
+   },
+   {
+    "fr": "Envoie-moi un message.",
+    "tgt": "ส่งข้อความมานะ",
+    "ro": "Sòng khâw-khwaam maa ná.",
+    "lit": "envoyer · message · venir · [douceur]"
+   },
+   {
+    "fr": "Bonne nuit, à demain !",
+    "tgt": "ฝันดี พรุ่งนี้เจอกัน",
+    "ro": "Fǎn dii, phrûng-níi joe kan.",
+    "lit": "rêver · bien · demain · se voir · ensemble"
+   }
+  ]
+ },
+ "0-2-19": {
+  "module": "Conversation sociale",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "« Ná », « sì », « lâ » : les petites particules de fin",
+  "phrases": [
+   {
+    "fr": "J'aime vraiment parler thaï.",
+    "tgt": "ผมชอบพูดภาษาไทยมาก",
+    "ro": "Phǒm châwp phûut phaa-sǎa thai mâak.",
+    "lit": "je (homme) · aimer · parler · langue · thaï · beaucoup"
+   },
+   {
+    "fr": "Maintenant, je sais me présenter.",
+    "tgt": "ตอนนี้ผมแนะนำตัวได้แล้ว",
+    "ro": "Tawn-níi phǒm náe-nam tua dâi láew.",
+    "lit": "maintenant · je (homme) · présenter · soi · pouvoir · [accompli]"
+   },
+   {
+    "fr": "Parle un peu plus lentement, s'il te plaît.",
+    "tgt": "พูดช้าๆหน่อยนะ",
+    "ro": "Phûut cháa cháa nàwy ná.",
+    "lit": "parler · lent · lent · un peu · [douceur]"
+   },
+   {
+    "fr": "Répète encore, vas-y !",
+    "tgt": "พูดอีกทีสิ",
+    "ro": "Phûut ìik thii sì.",
+    "lit": "parler · encore · fois · [allez]"
+   },
+   {
+    "fr": "Et maintenant, on fait quoi ?",
+    "tgt": "แล้วจะทำอะไรต่อล่ะ",
+    "ro": "Láew jà tham a-rai tàw lâ?",
+    "lit": "et puis · [futur] · faire · quoi · ensuite · [alors ?]"
+   },
+   {
+    "fr": "On continue à apprendre ensemble, d'accord ?",
+    "tgt": "เรียนต่อด้วยกันนะ",
+    "ro": "Rian tàw dûay-kan ná.",
+    "lit": "apprendre · continuer · ensemble · [douceur]"
+   },
+   {
+    "fr": "Essaie de parler avec tes amis thaïs.",
+    "tgt": "ลองพูดกับเพื่อนคนไทยสิ",
+    "ro": "Lawng phûut kàp phûean khon thai sì.",
+    "lit": "essayer · parler · avec · ami · personne · thaï · [allez]"
+   },
+   {
+    "fr": "Le thaï, ce n'est pas si difficile.",
+    "tgt": "ภาษาไทยไม่ยากนะ",
+    "ro": "Phaa-sǎa thai mâi yâak ná.",
+    "lit": "langue · thaï · ne pas · difficile · [douceur]"
+   },
+   {
+    "fr": "Les tons sont encore difficiles pour moi.",
+    "tgt": "วรรณยุกต์ยังยากสำหรับผม",
+    "ro": "Wan-ná-yúk yang yâak sǎm-ràp phǒm.",
+    "lit": "ton · encore · difficile · pour · moi"
+   },
+   {
+    "fr": "Bravo, continue comme ça !",
+    "tgt": "เก่งมาก สู้ๆนะ",
+    "ro": "Kèng mâak, sûu sûu ná.",
+    "lit": "doué · très · lutter · lutter · [douceur]"
+   }
+  ]
+ }
+}

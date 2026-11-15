@@ -1,0 +1,4022 @@
+{
+ "0-0-0": {
+  "module": "Le quotidien",
+  "title": "Arrivée à Delhi",
+  "grammaire_de_la_lecon": "L'ordre des mots : le verbe à la fin",
+  "phrases": [
+   {
+    "fr": "Je suis à Delhi.",
+    "tgt": "मैं दिल्ली में हूँ।",
+    "ro": "Maiṃ Dillī meṃ hūṃ.",
+    "lit": "je · Delhi · [dans] · suis"
+   },
+   {
+    "fr": "Je viens de Paris.",
+    "tgt": "मैं पेरिस से हूँ।",
+    "ro": "Maiṃ Peris se hūṃ.",
+    "lit": "je · Paris · [depuis] · suis"
+   },
+   {
+    "fr": "Je bois du chai.",
+    "tgt": "मैं चाय पीता हूँ।",
+    "ro": "Maiṃ chāy pītā hūṃ.",
+    "lit": "je · chai · buvant · suis"
+   },
+   {
+    "fr": "Je parle français.",
+    "tgt": "मैं फ़्रांसीसी बोलता हूँ।",
+    "ro": "Maiṃ frānsīsī boltā hūṃ.",
+    "lit": "je · français · parlant · suis"
+   },
+   {
+    "fr": "Je parle un peu hindi.",
+    "tgt": "मैं थोड़ी हिंदी बोलता हूँ।",
+    "ro": "Maiṃ thoṛī hindī boltā hūṃ.",
+    "lit": "je · un peu · hindi · parlant · suis"
+   },
+   {
+    "fr": "Delhi est très grande.",
+    "tgt": "दिल्ली बहुत बड़ी है।",
+    "ro": "Dillī bahut baṛī hai.",
+    "lit": "Delhi · très · grande · est"
+   },
+   {
+    "fr": "L'hôtel est à Connaught Place.",
+    "tgt": "होटल कनॉट प्लेस में है।",
+    "ro": "Hoṭal Kanoṭ Ples meṃ hai.",
+    "lit": "hôtel · Connaught Place · [dans] · est"
+   },
+   {
+    "fr": "J'aime beaucoup Delhi.",
+    "tgt": "मुझे दिल्ली बहुत पसंद है।",
+    "ro": "Mujhe Dillī bahut pasand hai.",
+    "lit": "à moi · Delhi · très · plaisante · est"
+   },
+   {
+    "fr": "Mon ami habite à Delhi.",
+    "tgt": "मेरा दोस्त दिल्ली में रहता है।",
+    "ro": "Merā dost Dillī meṃ rahtā hai.",
+    "lit": "mon · ami · Delhi · [dans] · habitant · est"
+   },
+   {
+    "fr": "Je travaille ici.",
+    "tgt": "मैं यहाँ काम करता हूँ।",
+    "ro": "Maiṃ yahāṃ kām kartā hūṃ.",
+    "lit": "je · ici · travail · faisant · suis"
+   }
+  ]
+ },
+ "0-0-1": {
+  "module": "Le quotidien",
+  "title": "Mon appartement à Delhi",
+  "grammaire_de_la_lecon": "« Hai » : être, à la fin de la phrase",
+  "phrases": [
+   {
+    "fr": "Voici mon appartement à Delhi.",
+    "tgt": "यह दिल्ली में मेरा फ़्लैट है।",
+    "ro": "Yah Dillī meṃ merā flaiṭ hai.",
+    "lit": "ceci · Delhi · [dans] · mon · appartement · est"
+   },
+   {
+    "fr": "L'appartement est petit.",
+    "tgt": "फ़्लैट छोटा है।",
+    "ro": "Flaiṭ chhoṭā hai.",
+    "lit": "appartement · petit · est"
+   },
+   {
+    "fr": "La cuisine est propre.",
+    "tgt": "रसोई साफ़ है।",
+    "ro": "Rasoī sāf hai.",
+    "lit": "cuisine · propre · est"
+   },
+   {
+    "fr": "La chambre est grande.",
+    "tgt": "कमरा बड़ा है।",
+    "ro": "Kamrā baṛā hai.",
+    "lit": "chambre · grande · est"
+   },
+   {
+    "fr": "Aujourd'hui, il fait chaud dans l'appartement.",
+    "tgt": "आज फ़्लैट में गर्मी है।",
+    "ro": "Āj flaiṭ meṃ garmī hai.",
+    "lit": "aujourd'hui · appartement · [dans] · chaleur · est"
+   },
+   {
+    "fr": "Le ventilateur est neuf.",
+    "tgt": "पंखा नया है।",
+    "ro": "Pankhā nayā hai.",
+    "lit": "ventilateur · neuf · est"
+   },
+   {
+    "fr": "Le loyer est cher.",
+    "tgt": "किराया महँगा है।",
+    "ro": "Kirāyā mahaṃgā hai.",
+    "lit": "loyer · cher · est"
+   },
+   {
+    "fr": "Nous sommes contents ici.",
+    "tgt": "हम यहाँ ख़ुश हैं।",
+    "ro": "Ham yahāṃ khush haiṃ.",
+    "lit": "nous · ici · contents · sommes"
+   },
+   {
+    "fr": "Le quartier est calme.",
+    "tgt": "मोहल्ला शांत है।",
+    "ro": "Mohallā shānt hai.",
+    "lit": "quartier · calme · est"
+   },
+   {
+    "fr": "Je suis chez moi.",
+    "tgt": "मैं घर पर हूँ।",
+    "ro": "Maiṃ ghar par hūṃ.",
+    "lit": "je · maison · [sur] · suis"
+   }
+  ]
+ },
+ "0-0-2": {
+  "module": "Le quotidien",
+  "title": "Un chai à Chandni Chowk",
+  "grammaire_de_la_lecon": "Les sons du hindi : les consonnes aspirées et rétroflexes",
+  "phrases": [
+   {
+    "fr": "Il y a beaucoup de monde à Chandni Chowk.",
+    "tgt": "चाँदनी चौक में बहुत भीड़ है।",
+    "ro": "Chāṃdnī Chauk meṃ bahut bhīṛ hai.",
+    "lit": "Chandni Chowk · [dans] · beaucoup · foule · est"
+   },
+   {
+    "fr": "Un chai, s'il vous plaît.",
+    "tgt": "एक चाय दीजिए।",
+    "ro": "Ek chāy dījie.",
+    "lit": "un · chai · donnez"
+   },
+   {
+    "fr": "Le chai est brûlant.",
+    "tgt": "चाय बहुत गरम है।",
+    "ro": "Chāy bahut garam hai.",
+    "lit": "chai · très · chaude · est"
+   },
+   {
+    "fr": "L'eau est froide.",
+    "tgt": "पानी ठंडा है।",
+    "ro": "Pānī ṭhaṇḍā hai.",
+    "lit": "eau · froide · est"
+   },
+   {
+    "fr": "Il y a du lait dans le chai.",
+    "tgt": "चाय में दूध है।",
+    "ro": "Chāy meṃ dūdh hai.",
+    "lit": "chai · [dans] · lait · est"
+   },
+   {
+    "fr": "Tout va bien.",
+    "tgt": "सब ठीक है।",
+    "ro": "Sab ṭhīk hai.",
+    "lit": "tout · bien · est"
+   },
+   {
+    "fr": "Cette ruelle est étroite.",
+    "tgt": "यह गली पतली है।",
+    "ro": "Yah galī patlī hai.",
+    "lit": "cette · ruelle · étroite · est"
+   },
+   {
+    "fr": "Le samosa est très croustillant.",
+    "tgt": "समोसा बहुत कुरकुरा है।",
+    "ro": "Samosā bahut kurkurā hai.",
+    "lit": "samosa · très · croustillant · est"
+   },
+   {
+    "fr": "La boutique est fermée.",
+    "tgt": "दुकान बंद है।",
+    "ro": "Dukān band hai.",
+    "lit": "boutique · fermée · est"
+   },
+   {
+    "fr": "Ce chai est très sucré.",
+    "tgt": "यह चाय बहुत मीठी है।",
+    "ro": "Yah chāy bahut mīṭhī hai.",
+    "lit": "ce · chai · très · sucrée · est"
+   }
+  ]
+ },
+ "0-0-3": {
+  "module": "Le quotidien",
+  "title": "Dans le métro de Delhi",
+  "grammaire_de_la_lecon": "« Kyā » : transformer une phrase en question",
+  "phrases": [
+   {
+    "fr": "Est-ce que c'est la ligne jaune ?",
+    "tgt": "क्या यह पीली लाइन है?",
+    "ro": "Kyā yah pīlī lāin hai?",
+    "lit": "[question] · ceci · jaune · ligne · est ?"
+   },
+   {
+    "fr": "Ce métro va-t-il à Chandni Chowk ?",
+    "tgt": "क्या यह मेट्रो चाँदनी चौक जाती है?",
+    "ro": "Kyā yah meṭro Chāṃdnī Chauk jātī hai?",
+    "lit": "[question] · ce · métro · Chandni Chowk · allant · est ?"
+   },
+   {
+    "fr": "Le métro est-il rapide ?",
+    "tgt": "क्या मेट्रो तेज़ है?",
+    "ro": "Kyā meṭro tez hai?",
+    "lit": "[question] · métro · rapide · est ?"
+   },
+   {
+    "fr": "Oui, il est très rapide.",
+    "tgt": "हाँ, बहुत तेज़ है।",
+    "ro": "Hāṃ, bahut tez hai.",
+    "lit": "oui · très · rapide · est"
+   },
+   {
+    "fr": "Cette place est-elle libre ?",
+    "tgt": "क्या यह सीट ख़ाली है?",
+    "ro": "Kyā yah sīṭ khālī hai?",
+    "lit": "[question] · ce · siège · libre · est ?"
+   },
+   {
+    "fr": "Le wagon est plein.",
+    "tgt": "डिब्बा भरा हुआ है।",
+    "ro": "Ḍibbā bharā huā hai.",
+    "lit": "wagon · rempli · devenu · est"
+   },
+   {
+    "fr": "Est-ce que vous êtes de Delhi ?",
+    "tgt": "क्या आप दिल्ली से हैं?",
+    "ro": "Kyā āp Dillī se haiṃ?",
+    "lit": "[question] · vous · Delhi · [depuis] · êtes ?"
+   },
+   {
+    "fr": "Oui, je suis d'ici.",
+    "tgt": "हाँ, मैं यहीं से हूँ।",
+    "ro": "Hāṃ, maiṃ yahīṃ se hūṃ.",
+    "lit": "oui · je · ici même · [depuis] · suis"
+   },
+   {
+    "fr": "Est-ce que la station est loin ?",
+    "tgt": "क्या स्टेशन दूर है?",
+    "ro": "Kyā sṭeshan dūr hai?",
+    "lit": "[question] · station · loin · est ?"
+   },
+   {
+    "fr": "Non, elle est tout près.",
+    "tgt": "नहीं, बहुत पास है।",
+    "ro": "Nahīṃ, bahut pās hai.",
+    "lit": "non · très · près · est"
+   }
+  ]
+ },
+ "0-0-4": {
+  "module": "Le quotidien",
+  "title": "Trouver un rickshaw",
+  "grammaire_de_la_lecon": "« Nahīṃ » : la négation",
+  "phrases": [
+   {
+    "fr": "Le rickshaw n'est pas là.",
+    "tgt": "रिक्शा यहाँ नहीं है।",
+    "ro": "Rikshā yahāṃ nahīṃ hai.",
+    "lit": "rickshaw · ici · pas · est"
+   },
+   {
+    "fr": "Ce n'est pas loin.",
+    "tgt": "दूर नहीं है।",
+    "ro": "Dūr nahīṃ hai.",
+    "lit": "loin · pas · est"
+   },
+   {
+    "fr": "Ce n'est pas cher.",
+    "tgt": "यह महँगा नहीं है।",
+    "ro": "Yah mahaṃgā nahīṃ hai.",
+    "lit": "ceci · cher · pas · est"
+   },
+   {
+    "fr": "Le compteur ne marche pas.",
+    "tgt": "मीटर नहीं चलता।",
+    "ro": "Mīṭar nahīṃ chaltā.",
+    "lit": "compteur · pas · marchant"
+   },
+   {
+    "fr": "Je ne connais pas la route.",
+    "tgt": "मुझे रास्ता नहीं पता।",
+    "ro": "Mujhe rāstā nahīṃ patā.",
+    "lit": "à moi · route · pas · connue"
+   },
+   {
+    "fr": "Je ne suis pas pressé.",
+    "tgt": "मैं जल्दी में नहीं हूँ।",
+    "ro": "Maiṃ jaldī meṃ nahīṃ hūṃ.",
+    "lit": "je · hâte · [dans] · pas · suis"
+   },
+   {
+    "fr": "Cent roupies, c'est trop.",
+    "tgt": "सौ रुपये बहुत ज़्यादा हैं।",
+    "ro": "Sau rupaye bahut zyādā haiṃ.",
+    "lit": "cent · roupies · très · trop · sont"
+   },
+   {
+    "fr": "Le chauffeur ne parle pas français.",
+    "tgt": "ड्राइवर फ़्रांसीसी नहीं बोलता।",
+    "ro": "Ḍrāivar frānsīsī nahīṃ boltā.",
+    "lit": "chauffeur · français · pas · parlant"
+   },
+   {
+    "fr": "Il ne fait pas froid.",
+    "tgt": "ठंड नहीं है।",
+    "ro": "Ṭhaṇḍ nahīṃ hai.",
+    "lit": "froid · pas · est"
+   },
+   {
+    "fr": "Pas de problème.",
+    "tgt": "कोई बात नहीं।",
+    "ro": "Koī bāt nahīṃ.",
+    "lit": "aucune · chose · pas"
+   }
+  ]
+ },
+ "0-0-5": {
+  "module": "Le quotidien",
+  "title": "Les voisins de l'immeuble",
+  "grammaire_de_la_lecon": "Les pronoms : « maiṃ, āp, tum, vah »",
+  "phrases": [
+   {
+    "fr": "Je suis votre voisin.",
+    "tgt": "मैं आपका पड़ोसी हूँ।",
+    "ro": "Maiṃ āpkā paṛosī hūṃ.",
+    "lit": "je · votre · voisin · suis"
+   },
+   {
+    "fr": "Vous êtes nouveau ici ?",
+    "tgt": "क्या आप यहाँ नए हैं?",
+    "ro": "Kyā āp yahāṃ nae haiṃ?",
+    "lit": "[question] · vous · ici · nouveau · êtes ?"
+   },
+   {
+    "fr": "Il est très drôle.",
+    "tgt": "वह बहुत मज़ेदार है।",
+    "ro": "Vah bahut mazedār hai.",
+    "lit": "il · très · drôle · est"
+   },
+   {
+    "fr": "Elle est étudiante.",
+    "tgt": "वह छात्रा है।",
+    "ro": "Vah chhātrā hai.",
+    "lit": "elle · étudiante · est"
+   },
+   {
+    "fr": "Tu es mon ami.",
+    "tgt": "तुम मेरे दोस्त हो।",
+    "ro": "Tum mere dost ho.",
+    "lit": "tu · mon · ami · es"
+   },
+   {
+    "fr": "Il habite au deuxième étage.",
+    "tgt": "वह दूसरी मंज़िल पर रहता है।",
+    "ro": "Vah dūsrī manzil par rahtā hai.",
+    "lit": "il · deuxième · étage · [sur] · habitant · est"
+   },
+   {
+    "fr": "Elle habite seule.",
+    "tgt": "वह अकेली रहती है।",
+    "ro": "Vah akelī rahtī hai.",
+    "lit": "elle · seule · habitant · est"
+   },
+   {
+    "fr": "Vous habitez dans cet immeuble ?",
+    "tgt": "क्या आप इस बिल्डिंग में रहते हैं?",
+    "ro": "Kyā āp is bilḍing meṃ rahte haiṃ?",
+    "lit": "[question] · vous · cet · immeuble · [dans] · habitant · êtes ?"
+   },
+   {
+    "fr": "Tu es fatigué aujourd'hui ?",
+    "tgt": "क्या तुम आज थके हुए हो?",
+    "ro": "Kyā tum āj thake hue ho?",
+    "lit": "[question] · tu · aujourd'hui · fatigué · devenu · es ?"
+   },
+   {
+    "fr": "Nous sommes voisins.",
+    "tgt": "हम पड़ोसी हैं।",
+    "ro": "Ham paṛosī haiṃ.",
+    "lit": "nous · voisins · sommes"
+   }
+  ]
+ },
+ "0-0-6": {
+  "module": "Le quotidien",
+  "title": "Un collègue et un ami",
+  "grammaire_de_la_lecon": "« Āp » et « tum » : vouvoyer et tutoyer",
+  "phrases": [
+   {
+    "fr": "Bonjour, monsieur Sharma, comment allez-vous ?",
+    "tgt": "नमस्ते शर्मा जी, आप कैसे हैं?",
+    "ro": "Namaste Sharmā jī, āp kaise haiṃ?",
+    "lit": "bonjour · Sharma · [respect] · vous · comment · êtes ?"
+   },
+   {
+    "fr": "Je vais bien, et vous ?",
+    "tgt": "मैं ठीक हूँ, और आप?",
+    "ro": "Maiṃ ṭhīk hūṃ, aur āp?",
+    "lit": "je · bien · suis · et · vous ?"
+   },
+   {
+    "fr": "Salut Ravi, ça va ?",
+    "tgt": "अरे रवि, तुम कैसे हो?",
+    "ro": "Are Ravi, tum kaise ho?",
+    "lit": "hé · Ravi · tu · comment · es ?"
+   },
+   {
+    "fr": "Moi, ça va, et toi, raconte !",
+    "tgt": "मैं ठीक हूँ, तुम बताओ!",
+    "ro": "Maiṃ ṭhīk hūṃ, tum batāo!",
+    "lit": "je · bien · suis · toi · dis"
+   },
+   {
+    "fr": "Vous êtes très occupé aujourd'hui ?",
+    "tgt": "क्या आप आज बहुत व्यस्त हैं?",
+    "ro": "Kyā āp āj bahut vyast haiṃ?",
+    "lit": "[question] · vous · aujourd'hui · très · occupé · êtes ?"
+   },
+   {
+    "fr": "Tu es libre ce soir ?",
+    "tgt": "क्या तुम आज शाम ख़ाली हो?",
+    "ro": "Kyā tum āj shām khālī ho?",
+    "lit": "[question] · tu · aujourd'hui · soir · libre · es ?"
+   },
+   {
+    "fr": "Vous habitez près du bureau ?",
+    "tgt": "क्या आप दफ़्तर के पास रहते हैं?",
+    "ro": "Kyā āp daftar ke pās rahte haiṃ?",
+    "lit": "[question] · vous · bureau · [de] · près · habitant · êtes ?"
+   },
+   {
+    "fr": "Tu habites à Noida ?",
+    "tgt": "क्या तुम नोएडा में रहते हो?",
+    "ro": "Kyā tum Noeḍā meṃ rahte ho?",
+    "lit": "[question] · tu · Noida · [dans] · habitant · es ?"
+   },
+   {
+    "fr": "Tu es mon meilleur ami.",
+    "tgt": "तुम मेरे सबसे अच्छे दोस्त हो।",
+    "ro": "Tum mere sabse achchhe dost ho.",
+    "lit": "tu · mon · le plus · bon · ami · es"
+   },
+   {
+    "fr": "Monsieur Sharma travaille avec moi.",
+    "tgt": "शर्मा जी मेरे साथ काम करते हैं।",
+    "ro": "Sharmā jī mere sāth kām karte haiṃ.",
+    "lit": "Sharma · [respect] · moi · avec · travail · faisant · sont"
+   }
+  ]
+ },
+ "0-0-7": {
+  "module": "Le quotidien",
+  "title": "Dal et roti au restaurant",
+  "grammaire_de_la_lecon": "Masculin et féminin : « achchhā, achchhī »",
+  "phrases": [
+   {
+    "fr": "Le dal est très bon.",
+    "tgt": "दाल बहुत अच्छी है।",
+    "ro": "Dāl bahut achchhī hai.",
+    "lit": "dal · très · bonne · est"
+   },
+   {
+    "fr": "Le samosa est bon.",
+    "tgt": "समोसा अच्छा है।",
+    "ro": "Samosā achchhā hai.",
+    "lit": "samosa · bon · est"
+   },
+   {
+    "fr": "La roti est fraîche.",
+    "tgt": "रोटी ताज़ी है।",
+    "ro": "Roṭī tāzī hai.",
+    "lit": "roti · fraîche · est"
+   },
+   {
+    "fr": "Ce dhaba est bon.",
+    "tgt": "यह ढाबा अच्छा है।",
+    "ro": "Yah ḍhābā achchhā hai.",
+    "lit": "ce · dhaba · bon · est"
+   },
+   {
+    "fr": "Le chai est bon ici.",
+    "tgt": "यहाँ की चाय अच्छी है।",
+    "ro": "Yahāṃ kī chāy achchhī hai.",
+    "lit": "ici · [de] · chai · bonne · est"
+   },
+   {
+    "fr": "La nourriture est très épicée.",
+    "tgt": "खाना बहुत तीखा है।",
+    "ro": "Khānā bahut tīkhā hai.",
+    "lit": "nourriture · très · piquante · est"
+   },
+   {
+    "fr": "Le chutney vert est très piquant.",
+    "tgt": "हरी चटनी बहुत तीखी है।",
+    "ro": "Harī chaṭnī bahut tīkhī hai.",
+    "lit": "verte · chutney · très · piquante · est"
+   },
+   {
+    "fr": "Le lassi est-il sucré ?",
+    "tgt": "क्या लस्सी मीठी है?",
+    "ro": "Kyā lassī mīṭhī hai?",
+    "lit": "[question] · lassi · sucrée · est ?"
+   },
+   {
+    "fr": "Le paneer est très frais.",
+    "tgt": "पनीर बहुत ताज़ा है।",
+    "ro": "Panīr bahut tāzā hai.",
+    "lit": "paneer · très · frais · est"
+   },
+   {
+    "fr": "C'est une très bonne adresse.",
+    "tgt": "यह बहुत अच्छी जगह है।",
+    "ro": "Yah bahut achchhī jagah hai.",
+    "lit": "ceci · très · bon · endroit · est"
+   }
+  ]
+ },
+ "0-0-8": {
+  "module": "Le quotidien",
+  "title": "Au marché de Chandni Chowk",
+  "grammaire_de_la_lecon": "« Yah » et « vah » : ceci et cela",
+  "phrases": [
+   {
+    "fr": "Ce kurta est beau.",
+    "tgt": "यह कुर्ता सुंदर है।",
+    "ro": "Yah kurtā sundar hai.",
+    "lit": "ce · kurta · beau · est"
+   },
+   {
+    "fr": "Ce kurta-là est bleu.",
+    "tgt": "वह कुर्ता नीला है।",
+    "ro": "Vah kurtā nīlā hai.",
+    "lit": "ce-là · kurta · bleu · est"
+   },
+   {
+    "fr": "Et ça, c'est quoi ?",
+    "tgt": "और यह क्या है?",
+    "ro": "Aur yah kyā hai?",
+    "lit": "et · ceci · quoi · est ?"
+   },
+   {
+    "fr": "Cette boutique-là est très ancienne.",
+    "tgt": "वह दुकान बहुत पुरानी है।",
+    "ro": "Vah dukān bahut purānī hai.",
+    "lit": "cette-là · boutique · très · ancienne · est"
+   },
+   {
+    "fr": "Ce foulard est en soie.",
+    "tgt": "यह दुपट्टा रेशम का है।",
+    "ro": "Yah dupaṭṭā resham kā hai.",
+    "lit": "ce · foulard · soie · [de] · est"
+   },
+   {
+    "fr": "Celui-là est très petit.",
+    "tgt": "वह बहुत छोटा है।",
+    "ro": "Vah bahut chhoṭā hai.",
+    "lit": "celui-là · très · petit · est"
+   },
+   {
+    "fr": "Ceci est pour vous.",
+    "tgt": "यह आपके लिए है।",
+    "ro": "Yah āpke lie hai.",
+    "lit": "ceci · vous · [pour] · est"
+   },
+   {
+    "fr": "Cet homme-là est le marchand.",
+    "tgt": "वह आदमी दुकानदार है।",
+    "ro": "Vah ādmī dukāndār hai.",
+    "lit": "cet-là · homme · marchand · est"
+   },
+   {
+    "fr": "Ce sac est lourd.",
+    "tgt": "यह थैला भारी है।",
+    "ro": "Yah thailā bhārī hai.",
+    "lit": "ce · sac · lourd · est"
+   },
+   {
+    "fr": "Cette couleur est très belle.",
+    "tgt": "यह रंग बहुत सुंदर है।",
+    "ro": "Yah rang bahut sundar hai.",
+    "lit": "cette · couleur · très · belle · est"
+   }
+  ]
+ },
+ "0-0-9": {
+  "module": "Le quotidien",
+  "title": "La famille de Priya",
+  "grammaire_de_la_lecon": "« Kā, kī, ke » : le possessif qui s'accorde",
+  "phrases": [
+   {
+    "fr": "C'est la maison de Priya.",
+    "tgt": "यह प्रिया का घर है।",
+    "ro": "Yah Priyā kā ghar hai.",
+    "lit": "ceci · Priya · [de] · maison · est"
+   },
+   {
+    "fr": "La sœur de Rahul habite à Delhi.",
+    "tgt": "राहुल की बहन दिल्ली में रहती है।",
+    "ro": "Rāhul kī bahan Dillī meṃ rahtī hai.",
+    "lit": "Rahul · [de] · sœur · Delhi · [dans] · habitant · est"
+   },
+   {
+    "fr": "Les parents de Priya sont très gentils.",
+    "tgt": "प्रिया के माता-पिता बहुत अच्छे हैं।",
+    "ro": "Priyā ke mātā-pitā bahut achchhe haiṃ.",
+    "lit": "Priya · [de] · mère-père · très · bons · sont"
+   },
+   {
+    "fr": "Le frère de Priya est étudiant.",
+    "tgt": "प्रिया का भाई छात्र है।",
+    "ro": "Priyā kā bhāī chhātr hai.",
+    "lit": "Priya · [de] · frère · étudiant · est"
+   },
+   {
+    "fr": "La cuisine de la mère de Priya est délicieuse.",
+    "tgt": "प्रिया की माँ का खाना बहुत अच्छा है।",
+    "ro": "Priyā kī māṃ kā khānā bahut achchhā hai.",
+    "lit": "Priya · [de] · mère · [de] · nourriture · très · bonne · est"
+   },
+   {
+    "fr": "C'est le téléphone de Rahul.",
+    "tgt": "यह राहुल का फ़ोन है।",
+    "ro": "Yah Rāhul kā fon hai.",
+    "lit": "ceci · Rahul · [de] · téléphone · est"
+   },
+   {
+    "fr": "La chambre de Priya est petite.",
+    "tgt": "प्रिया का कमरा छोटा है।",
+    "ro": "Priyā kā kamrā chhoṭā hai.",
+    "lit": "Priya · [de] · chambre · petite · est"
+   },
+   {
+    "fr": "Les enfants de Rahul sont à l'école.",
+    "tgt": "राहुल के बच्चे स्कूल में हैं।",
+    "ro": "Rāhul ke bachche skūl meṃ haiṃ.",
+    "lit": "Rahul · [de] · enfants · école · [dans] · sont"
+   },
+   {
+    "fr": "La chaleur de Delhi est terrible.",
+    "tgt": "दिल्ली की गर्मी बहुत तेज़ है।",
+    "ro": "Dillī kī garmī bahut tez hai.",
+    "lit": "Delhi · [de] · chaleur · très · forte · est"
+   },
+   {
+    "fr": "Le père de Priya s'appelle Anil.",
+    "tgt": "प्रिया के पिताजी का नाम अनिल है।",
+    "ro": "Priyā ke pitājī kā nām Anil hai.",
+    "lit": "Priya · [de] · père · [de] · nom · Anil · est"
+   }
+  ]
+ },
+ "0-0-10": {
+  "module": "Le quotidien",
+  "title": "Compter au marché",
+  "grammaire_de_la_lecon": "Compter : « ek, do, tīn »",
+  "phrases": [
+   {
+    "fr": "Un chai et deux samosas.",
+    "tgt": "एक चाय और दो समोसे।",
+    "ro": "Ek chāy aur do samose.",
+    "lit": "un · chai · et · deux · samosas"
+   },
+   {
+    "fr": "Trois rotis, s'il vous plaît.",
+    "tgt": "तीन रोटियाँ दीजिए।",
+    "ro": "Tīn roṭiyāṃ dījie.",
+    "lit": "trois · rotis · donnez"
+   },
+   {
+    "fr": "Quatre bananes, c'est vingt roupies.",
+    "tgt": "चार केले बीस रुपये के हैं।",
+    "ro": "Chār kele bīs rupaye ke haiṃ.",
+    "lit": "quatre · bananes · vingt · roupies · [de] · sont"
+   },
+   {
+    "fr": "Seulement cinq roupies.",
+    "tgt": "सिर्फ़ पाँच रुपये।",
+    "ro": "Sirf pāṃch rupaye.",
+    "lit": "seulement · cinq · roupies"
+   },
+   {
+    "fr": "J'ai deux frères.",
+    "tgt": "मेरे दो भाई हैं।",
+    "ro": "Mere do bhāī haiṃ.",
+    "lit": "mes · deux · frères · sont"
+   },
+   {
+    "fr": "Une mangue coûte trente roupies.",
+    "tgt": "एक आम तीस रुपये का है।",
+    "ro": "Ek ām tīs rupaye kā hai.",
+    "lit": "une · mangue · trente · roupies · [de] · est"
+   },
+   {
+    "fr": "Sept, huit, neuf et dix.",
+    "tgt": "सात, आठ, नौ और दस।",
+    "ro": "Sāt, āṭh, nau aur das.",
+    "lit": "sept · huit · neuf · et · dix"
+   },
+   {
+    "fr": "Nous sommes six.",
+    "tgt": "हम छह लोग हैं।",
+    "ro": "Ham chhah log haiṃ.",
+    "lit": "nous · six · personnes · sommes"
+   },
+   {
+    "fr": "Les deux pour cent roupies.",
+    "tgt": "दोनों के सौ रुपये।",
+    "ro": "Donoṃ ke sau rupaye.",
+    "lit": "les deux · [de] · cent · roupies"
+   },
+   {
+    "fr": "Les tomates sont à quarante roupies le kilo.",
+    "tgt": "टमाटर चालीस रुपये किलो हैं।",
+    "ro": "Ṭamāṭar chālīs rupaye kilo haiṃ.",
+    "lit": "tomates · quarante · roupies · kilo · sont"
+   }
+  ]
+ },
+ "0-0-11": {
+  "module": "Le quotidien",
+  "title": "Où est mon téléphone ?",
+  "grammaire_de_la_lecon": "« Meṃ, par, se » : les petits mots placés après le nom",
+  "phrases": [
+   {
+    "fr": "Le téléphone est sur la table.",
+    "tgt": "फ़ोन मेज़ पर है।",
+    "ro": "Fon mez par hai.",
+    "lit": "téléphone · table · [sur] · est"
+   },
+   {
+    "fr": "Les clés sont dans le sac.",
+    "tgt": "चाबियाँ थैले में हैं।",
+    "ro": "Chābiyāṃ thaile meṃ haiṃ.",
+    "lit": "clés · sac · [dans] · sont"
+   },
+   {
+    "fr": "Le portefeuille est dans la poche.",
+    "tgt": "बटुआ जेब में है।",
+    "ro": "Baṭuā jeb meṃ hai.",
+    "lit": "portefeuille · poche · [dans] · est"
+   },
+   {
+    "fr": "Le chargeur est sur le lit.",
+    "tgt": "चार्जर बिस्तर पर है।",
+    "ro": "Chārjar bistar par hai.",
+    "lit": "chargeur · lit · [sur] · est"
+   },
+   {
+    "fr": "Le métro part d'ici.",
+    "tgt": "मेट्रो यहाँ से चलती है।",
+    "ro": "Meṭro yahāṃ se chaltī hai.",
+    "lit": "métro · ici · [depuis] · partant · est"
+   },
+   {
+    "fr": "Mon ami est à la maison.",
+    "tgt": "मेरा दोस्त घर पर है।",
+    "ro": "Merā dost ghar par hai.",
+    "lit": "mon · ami · maison · [sur] · est"
+   },
+   {
+    "fr": "Il y a du chai dans la tasse.",
+    "tgt": "कप में चाय है।",
+    "ro": "Kap meṃ chāy hai.",
+    "lit": "tasse · [dans] · chai · est"
+   },
+   {
+    "fr": "La station est loin d'ici.",
+    "tgt": "स्टेशन यहाँ से दूर है।",
+    "ro": "Sṭeshan yahāṃ se dūr hai.",
+    "lit": "station · ici · [depuis] · loin · est"
+   },
+   {
+    "fr": "Le téléphone est dans la cuisine.",
+    "tgt": "फ़ोन रसोई में है।",
+    "ro": "Fon rasoī meṃ hai.",
+    "lit": "téléphone · cuisine · [dans] · est"
+   },
+   {
+    "fr": "Je suis de Marseille.",
+    "tgt": "मैं मार्सेल से हूँ।",
+    "ro": "Maiṃ Mārsel se hūṃ.",
+    "lit": "je · Marseille · [depuis] · suis"
+   }
+  ]
+ },
+ "0-0-12": {
+  "module": "Le quotidien",
+  "title": "Ce que j'ai dans mon sac",
+  "grammaire_de_la_lecon": "« Mere pās... hai » : avoir",
+  "phrases": [
+   {
+    "fr": "J'ai un parapluie.",
+    "tgt": "मेरे पास छाता है।",
+    "ro": "Mere pās chhātā hai.",
+    "lit": "mon · [près] · parapluie · est"
+   },
+   {
+    "fr": "J'ai une carte de métro.",
+    "tgt": "मेरे पास मेट्रो कार्ड है।",
+    "ro": "Mere pās meṭro kārḍ hai.",
+    "lit": "mon · [près] · métro · carte · est"
+   },
+   {
+    "fr": "Je n'ai pas de monnaie.",
+    "tgt": "मेरे पास खुले पैसे नहीं हैं।",
+    "ro": "Mere pās khule paise nahīṃ haiṃ.",
+    "lit": "mon · [près] · détaché · argent · pas · sont"
+   },
+   {
+    "fr": "Avez-vous de la monnaie ?",
+    "tgt": "क्या आपके पास खुले पैसे हैं?",
+    "ro": "Kyā āpke pās khule paise haiṃ?",
+    "lit": "[question] · votre · [près] · détaché · argent · sont ?"
+   },
+   {
+    "fr": "J'ai cinq cents roupies.",
+    "tgt": "मेरे पास पाँच सौ रुपये हैं।",
+    "ro": "Mere pās pāṃch sau rupaye haiṃ.",
+    "lit": "mon · [près] · cinq · cents · roupies · sont"
+   },
+   {
+    "fr": "Elle a un nouveau kurta.",
+    "tgt": "उसके पास नया कुर्ता है।",
+    "ro": "Uske pās nayā kurtā hai.",
+    "lit": "son · [près] · nouveau · kurta · est"
+   },
+   {
+    "fr": "Vous avez un stylo ?",
+    "tgt": "क्या आपके पास पेन है?",
+    "ro": "Kyā āpke pās pen hai?",
+    "lit": "[question] · votre · [près] · stylo · est ?"
+   },
+   {
+    "fr": "Je n'ai pas le temps aujourd'hui.",
+    "tgt": "आज मेरे पास समय नहीं है।",
+    "ro": "Āj mere pās samay nahīṃ hai.",
+    "lit": "aujourd'hui · mon · [près] · temps · pas · est"
+   },
+   {
+    "fr": "J'ai une bouteille d'eau.",
+    "tgt": "मेरे पास पानी की बोतल है।",
+    "ro": "Mere pās pānī kī botal hai.",
+    "lit": "mon · [près] · eau · [de] · bouteille · est"
+   },
+   {
+    "fr": "Tu as un chargeur ?",
+    "tgt": "क्या तुम्हारे पास चार्जर है?",
+    "ro": "Kyā tumhāre pās chārjar hai?",
+    "lit": "[question] · ton · [près] · chargeur · est ?"
+   }
+  ]
+ },
+ "0-0-13": {
+  "module": "Le quotidien",
+  "title": "La routine du matin",
+  "grammaire_de_la_lecon": "Le présent habituel : « maiṃ jātā hūṃ »",
+  "phrases": [
+   {
+    "fr": "Je me lève tôt.",
+    "tgt": "मैं जल्दी उठता हूँ।",
+    "ro": "Maiṃ jaldī uṭhtā hūṃ.",
+    "lit": "je · tôt · levant · suis"
+   },
+   {
+    "fr": "Le matin, je bois du chai.",
+    "tgt": "मैं सुबह चाय पीता हूँ।",
+    "ro": "Maiṃ subah chāy pītā hūṃ.",
+    "lit": "je · matin · chai · buvant · suis"
+   },
+   {
+    "fr": "Je mange deux rotis.",
+    "tgt": "मैं दो रोटियाँ खाता हूँ।",
+    "ro": "Maiṃ do roṭiyāṃ khātā hūṃ.",
+    "lit": "je · deux · rotis · mangeant · suis"
+   },
+   {
+    "fr": "Je vais au bureau en métro.",
+    "tgt": "मैं मेट्रो से दफ़्तर जाता हूँ।",
+    "ro": "Maiṃ meṭro se daftar jātā hūṃ.",
+    "lit": "je · métro · [depuis] · bureau · allant · suis"
+   },
+   {
+    "fr": "Ma femme lit le journal.",
+    "tgt": "मेरी पत्नी अख़बार पढ़ती है।",
+    "ro": "Merī patnī akhbār paṛhtī hai.",
+    "lit": "ma · femme · journal · lisant · est"
+   },
+   {
+    "fr": "Les enfants vont à l'école.",
+    "tgt": "बच्चे स्कूल जाते हैं।",
+    "ro": "Bachche skūl jāte haiṃ.",
+    "lit": "enfants · école · allant · sont"
+   },
+   {
+    "fr": "Je travaille toute la journée.",
+    "tgt": "मैं पूरे दिन काम करता हूँ।",
+    "ro": "Maiṃ pūre din kām kartā hūṃ.",
+    "lit": "je · entier · jour · travail · faisant · suis"
+   },
+   {
+    "fr": "Le soir, nous mangeons ensemble.",
+    "tgt": "शाम को हम साथ खाना खाते हैं।",
+    "ro": "Shām ko ham sāth khānā khāte haiṃ.",
+    "lit": "soir · [à] · nous · ensemble · repas · mangeant · sommes"
+   },
+   {
+    "fr": "Je ne mange pas de viande.",
+    "tgt": "मैं मांस नहीं खाता।",
+    "ro": "Maiṃ māṃs nahīṃ khātā.",
+    "lit": "je · viande · pas · mangeant"
+   },
+   {
+    "fr": "Ma sœur se lève très tôt.",
+    "tgt": "मेरी बहन बहुत जल्दी उठती है।",
+    "ro": "Merī bahan bahut jaldī uṭhtī hai.",
+    "lit": "ma · sœur · très · tôt · levant · est"
+   }
+  ]
+ },
+ "0-0-14": {
+  "module": "Le quotidien",
+  "title": "Demander son chemin",
+  "grammaire_de_la_lecon": "Les mots interrogatifs : « kyā, kahāṃ, kaun, kab, kitnā »",
+  "phrases": [
+   {
+    "fr": "Où est la station de métro ?",
+    "tgt": "मेट्रो स्टेशन कहाँ है?",
+    "ro": "Meṭro sṭeshan kahāṃ hai?",
+    "lit": "métro · station · où · est ?"
+   },
+   {
+    "fr": "Qui est cet homme ?",
+    "tgt": "वह आदमी कौन है?",
+    "ro": "Vah ādmī kaun hai?",
+    "lit": "cet-là · homme · qui · est ?"
+   },
+   {
+    "fr": "Combien coûte ce kurta ?",
+    "tgt": "यह कुर्ता कितने का है?",
+    "ro": "Yah kurtā kitne kā hai?",
+    "lit": "ce · kurta · combien · [de] · est ?"
+   },
+   {
+    "fr": "Quand passe le prochain métro ?",
+    "tgt": "अगली मेट्रो कब है?",
+    "ro": "Aglī meṭro kab hai?",
+    "lit": "prochain · métro · quand · est ?"
+   },
+   {
+    "fr": "Chandni Chowk, c'est à quelle distance ?",
+    "tgt": "चाँदनी चौक कितनी दूर है?",
+    "ro": "Chāṃdnī Chauk kitnī dūr hai?",
+    "lit": "Chandni Chowk · combien · loin · est ?"
+   },
+   {
+    "fr": "Le marché aux épices, c'est où ?",
+    "tgt": "मसाला बाज़ार कहाँ है?",
+    "ro": "Masālā bāzār kahāṃ hai?",
+    "lit": "épices · marché · où · est ?"
+   },
+   {
+    "fr": "Quel est le nom de cette rue ?",
+    "tgt": "इस गली का नाम क्या है?",
+    "ro": "Is galī kā nām kyā hai?",
+    "lit": "cette · ruelle · [de] · nom · quoi · est ?"
+   },
+   {
+    "fr": "Qui parle français ici ?",
+    "tgt": "यहाँ फ़्रांसीसी कौन बोलता है?",
+    "ro": "Yahāṃ frānsīsī kaun boltā hai?",
+    "lit": "ici · français · qui · parlant · est ?"
+   },
+   {
+    "fr": "Le musée ouvre à quelle heure ?",
+    "tgt": "म्यूज़ियम कब खुलता है?",
+    "ro": "Myūziyam kab khultā hai?",
+    "lit": "musée · quand · ouvrant · est ?"
+   },
+   {
+    "fr": "Il faut combien de temps à pied ?",
+    "tgt": "पैदल कितना समय लगता है?",
+    "ro": "Paidal kitnā samay lagtā hai?",
+    "lit": "à pied · combien · temps · prenant · est ?"
+   }
+  ]
+ },
+ "0-0-15": {
+  "module": "Le quotidien",
+  "title": "La mousson à Delhi",
+  "grammaire_de_la_lecon": "« Bhī » : aussi",
+  "phrases": [
+   {
+    "fr": "Aujourd'hui aussi, il pleut.",
+    "tgt": "आज भी बारिश है।",
+    "ro": "Āj bhī bārish hai.",
+    "lit": "aujourd'hui · aussi · pluie · est"
+   },
+   {
+    "fr": "Il fait chaud, et c'est humide aussi.",
+    "tgt": "गर्मी भी है और उमस भी।",
+    "ro": "Garmī bhī hai aur umas bhī.",
+    "lit": "chaleur · aussi · est · et · moiteur · aussi"
+   },
+   {
+    "fr": "Moi aussi, j'aime la pluie.",
+    "tgt": "मुझे भी बारिश पसंद है।",
+    "ro": "Mujhe bhī bārish pasand hai.",
+    "lit": "à moi · aussi · pluie · plaisante · est"
+   },
+   {
+    "fr": "Il y a des nuages dans le ciel.",
+    "tgt": "आसमान में बादल हैं।",
+    "ro": "Āsmān meṃ bādal haiṃ.",
+    "lit": "ciel · [dans] · nuages · sont"
+   },
+   {
+    "fr": "La mousson arrive en juillet.",
+    "tgt": "मानसून जुलाई में आता है।",
+    "ro": "Mānsūn julāī meṃ ātā hai.",
+    "lit": "mousson · juillet · [dans] · venant · est"
+   },
+   {
+    "fr": "Il y a de l'eau sur la route.",
+    "tgt": "सड़क पर पानी है।",
+    "ro": "Saṛak par pānī hai.",
+    "lit": "route · [sur] · eau · est"
+   },
+   {
+    "fr": "Mes chaussures aussi sont mouillées.",
+    "tgt": "मेरे जूते भी गीले हैं।",
+    "ro": "Mere jūte bhī gīle haiṃ.",
+    "lit": "mes · chaussures · aussi · mouillées · sont"
+   },
+   {
+    "fr": "Le soir aussi, il fait chaud.",
+    "tgt": "शाम को भी गर्मी होती है।",
+    "ro": "Shām ko bhī garmī hotī hai.",
+    "lit": "soir · [à] · aussi · chaleur · étant · est"
+   },
+   {
+    "fr": "J'ai aussi un parapluie.",
+    "tgt": "मेरे पास छाता भी है।",
+    "ro": "Mere pās chhātā bhī hai.",
+    "lit": "mon · [près] · parapluie · aussi · est"
+   },
+   {
+    "fr": "Des pakoras aussi, s'il vous plaît.",
+    "tgt": "पकौड़े भी दीजिए।",
+    "ro": "Pakauṛe bhī dījie.",
+    "lit": "pakoras · aussi · donnez"
+   }
+  ]
+ },
+ "0-0-16": {
+  "module": "Le quotidien",
+  "title": "Quelle heure est-il ?",
+  "grammaire_de_la_lecon": "L'heure : « baje »",
+  "phrases": [
+   {
+    "fr": "Il est quelle heure, s'il vous plaît ?",
+    "tgt": "कितने बजे हैं?",
+    "ro": "Kitne baje haiṃ?",
+    "lit": "combien · sonnés · sont ?"
+   },
+   {
+    "fr": "Il est deux heures.",
+    "tgt": "दो बजे हैं।",
+    "ro": "Do baje haiṃ.",
+    "lit": "deux · sonnés · sont"
+   },
+   {
+    "fr": "Il est une heure.",
+    "tgt": "एक बजा है।",
+    "ro": "Ek bajā hai.",
+    "lit": "une · sonnée · est"
+   },
+   {
+    "fr": "Le cours commence à dix heures.",
+    "tgt": "क्लास दस बजे शुरू होती है।",
+    "ro": "Klās das baje shurū hotī hai.",
+    "lit": "cours · dix · sonnés · début · étant · est"
+   },
+   {
+    "fr": "Il est quatre heures et demie.",
+    "tgt": "साढ़े चार बजे हैं।",
+    "ro": "Sāṛhe chār baje haiṃ.",
+    "lit": "et demie · quatre · sonnés · sont"
+   },
+   {
+    "fr": "Je déjeune à une heure.",
+    "tgt": "मैं एक बजे खाना खाता हूँ।",
+    "ro": "Maiṃ ek baje khānā khātā hūṃ.",
+    "lit": "je · une · sonnée · repas · mangeant · suis"
+   },
+   {
+    "fr": "La boutique ouvre à neuf heures.",
+    "tgt": "दुकान नौ बजे खुलती है।",
+    "ro": "Dukān nau baje khultī hai.",
+    "lit": "boutique · neuf · sonnés · ouvrant · est"
+   },
+   {
+    "fr": "Il est presque midi.",
+    "tgt": "लगभग बारह बजे हैं।",
+    "ro": "Lagbhag bārah baje haiṃ.",
+    "lit": "presque · douze · sonnés · sont"
+   },
+   {
+    "fr": "Je rentre à sept heures du soir.",
+    "tgt": "मैं शाम सात बजे घर आता हूँ।",
+    "ro": "Maiṃ shām sāt baje ghar ātā hūṃ.",
+    "lit": "je · soir · sept · sonnés · maison · venant · suis"
+   },
+   {
+    "fr": "À six heures, à Connaught Place.",
+    "tgt": "छह बजे, कनॉट प्लेस में।",
+    "ro": "Chhah baje, Kanoṭ Ples meṃ.",
+    "lit": "six · sonnés · Connaught Place · [dans]"
+   }
+  ]
+ },
+ "0-0-17": {
+  "module": "Le quotidien",
+  "title": "Acheter un kurta",
+  "grammaire_de_la_lecon": "« Chāhie » : il me faut, je voudrais",
+  "phrases": [
+   {
+    "fr": "Je voudrais un kurta.",
+    "tgt": "मुझे एक कुर्ता चाहिए।",
+    "ro": "Mujhe ek kurtā chāhie.",
+    "lit": "à moi · un · kurta · nécessaire"
+   },
+   {
+    "fr": "Il me faut une taille plus grande.",
+    "tgt": "मुझे बड़ा साइज़ चाहिए।",
+    "ro": "Mujhe baṛā sāiz chāhie.",
+    "lit": "à moi · grande · taille · nécessaire"
+   },
+   {
+    "fr": "Je cherche un kurta en coton.",
+    "tgt": "मुझे सूती कुर्ता चाहिए।",
+    "ro": "Mujhe sūtī kurtā chāhie.",
+    "lit": "à moi · en coton · kurta · nécessaire"
+   },
+   {
+    "fr": "Avez-vous besoin d'un sac ?",
+    "tgt": "क्या आपको थैला चाहिए?",
+    "ro": "Kyā āpko thailā chāhie?",
+    "lit": "[question] · vous · [à] · sac · nécessaire ?"
+   },
+   {
+    "fr": "Non, je n'ai pas besoin de sac.",
+    "tgt": "नहीं, मुझे थैला नहीं चाहिए।",
+    "ro": "Nahīṃ, mujhe thailā nahīṃ chāhie.",
+    "lit": "non · à moi · sac · pas · nécessaire"
+   },
+   {
+    "fr": "Il me faut aussi un pantalon blanc.",
+    "tgt": "मुझे सफ़ेद पजामा भी चाहिए।",
+    "ro": "Mujhe safed pajāmā bhī chāhie.",
+    "lit": "à moi · blanc · pantalon · aussi · nécessaire"
+   },
+   {
+    "fr": "Ma femme voudrait un sari.",
+    "tgt": "मेरी पत्नी को साड़ी चाहिए।",
+    "ro": "Merī patnī ko sāṛī chāhie.",
+    "lit": "ma · femme · [à] · sari · nécessaire"
+   },
+   {
+    "fr": "Je voudrais une autre couleur.",
+    "tgt": "मुझे दूसरा रंग चाहिए।",
+    "ro": "Mujhe dūsrā rang chāhie.",
+    "lit": "à moi · autre · couleur · nécessaire"
+   },
+   {
+    "fr": "Combien de kurtas vous faut-il ?",
+    "tgt": "आपको कितने कुर्ते चाहिए?",
+    "ro": "Āpko kitne kurte chāhie?",
+    "lit": "vous · [à] · combien · kurtas · nécessaire ?"
+   },
+   {
+    "fr": "Il m'en faut deux.",
+    "tgt": "मुझे दो चाहिए।",
+    "ro": "Mujhe do chāhie.",
+    "lit": "à moi · deux · nécessaire"
+   }
+  ]
+ },
+ "0-0-18": {
+  "module": "Le quotidien",
+  "title": "Une sortie à Connaught Place",
+  "grammaire_de_la_lecon": "« Chalie » et « chalo » : allons-y, proposer",
+  "phrases": [
+   {
+    "fr": "Allons-y !",
+    "tgt": "चलिए!",
+    "ro": "Chalie!",
+    "lit": "allons"
+   },
+   {
+    "fr": "Allez, on va à Connaught Place.",
+    "tgt": "चलो, कनॉट प्लेस चलते हैं।",
+    "ro": "Chalo, Kanoṭ Ples chalte haiṃ.",
+    "lit": "allons · Connaught Place · allant · sommes"
+   },
+   {
+    "fr": "Viens, on boit un chai.",
+    "tgt": "चलो, चाय पीते हैं।",
+    "ro": "Chalo, chāy pīte haiṃ.",
+    "lit": "allons · chai · buvant · sommes"
+   },
+   {
+    "fr": "Venez, allons-y ensemble.",
+    "tgt": "चलिए, साथ चलते हैं।",
+    "ro": "Chalie, sāth chalte haiṃ.",
+    "lit": "allons · ensemble · allant · sommes"
+   },
+   {
+    "fr": "On prend un rickshaw ?",
+    "tgt": "रिक्शा लेते हैं?",
+    "ro": "Rikshā lete haiṃ?",
+    "lit": "rickshaw · prenant · sommes ?"
+   },
+   {
+    "fr": "Non, allons-y à pied.",
+    "tgt": "नहीं, पैदल चलते हैं।",
+    "ro": "Nahīṃ, paidal chalte haiṃ.",
+    "lit": "non · à pied · allant · sommes"
+   },
+   {
+    "fr": "Allez, on mange des samosas !",
+    "tgt": "चलो, समोसे खाते हैं!",
+    "ro": "Chalo, samose khāte haiṃ!",
+    "lit": "allons · samosas · mangeant · sommes"
+   },
+   {
+    "fr": "Allez, ce soir on regarde un film.",
+    "tgt": "चलो, आज शाम फ़िल्म देखते हैं।",
+    "ro": "Chalo, āj shām film dekhte haiṃ.",
+    "lit": "allons · aujourd'hui · soir · film · regardant · sommes"
+   },
+   {
+    "fr": "Super idée !",
+    "tgt": "बहुत बढ़िया!",
+    "ro": "Bahut baṛhiyā!",
+    "lit": "très · excellent"
+   },
+   {
+    "fr": "Venez, c'est par ici.",
+    "tgt": "आइए, इधर चलिए।",
+    "ro": "Āie, idhar chalie.",
+    "lit": "venez · par ici · allez"
+   }
+  ]
+ },
+ "0-0-19": {
+  "module": "Le quotidien",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "Les formules magiques : « namaste, dhanyavād, shukriyā, māf kījie »",
+  "phrases": [
+   {
+    "fr": "Namaste à tous !",
+    "tgt": "सबको नमस्ते!",
+    "ro": "Sabko namaste!",
+    "lit": "tous · [à] · namaste"
+   },
+   {
+    "fr": "Merci beaucoup pour tout.",
+    "tgt": "हर चीज़ के लिए बहुत धन्यवाद।",
+    "ro": "Har chīz ke lie bahut dhanyavād.",
+    "lit": "chaque · chose · [pour] · beaucoup · merci"
+   },
+   {
+    "fr": "Merci, mon ami !",
+    "tgt": "शुक्रिया, दोस्त!",
+    "ro": "Shukriyā, dost!",
+    "lit": "merci · ami"
+   },
+   {
+    "fr": "Excusez-moi, une minute.",
+    "tgt": "माफ़ कीजिए, एक मिनट।",
+    "ro": "Māf kījie, ek minaṭ.",
+    "lit": "pardon · faites · une · minute"
+   },
+   {
+    "fr": "Le hindi est une très belle langue.",
+    "tgt": "हिंदी बहुत सुंदर भाषा है।",
+    "ro": "Hindī bahut sundar bhāshā hai.",
+    "lit": "hindi · très · belle · langue · est"
+   },
+   {
+    "fr": "Maintenant, je parle un peu mieux le hindi.",
+    "tgt": "अब मैं थोड़ी बेहतर हिंदी बोलता हूँ।",
+    "ro": "Ab maiṃ thoṛī behtar hindī boltā hūṃ.",
+    "lit": "maintenant · je · un peu · meilleur · hindi · parlant · suis"
+   },
+   {
+    "fr": "La première partie est terminée.",
+    "tgt": "पहला हिस्सा पूरा हुआ।",
+    "ro": "Pahlā hissā pūrā huā.",
+    "lit": "première · partie · complète · devenue"
+   },
+   {
+    "fr": "Je parle hindi tous les jours.",
+    "tgt": "मैं हर दिन हिंदी बोलता हूँ।",
+    "ro": "Maiṃ har din hindī boltā hūṃ.",
+    "lit": "je · chaque · jour · hindi · parlant · suis"
+   },
+   {
+    "fr": "Pardon, encore une fois, s'il vous plaît.",
+    "tgt": "माफ़ कीजिए, एक बार फिर से।",
+    "ro": "Māf kījie, ek bār phir se.",
+    "lit": "pardon · faites · une · fois · encore · [depuis]"
+   },
+   {
+    "fr": "Merci et à bientôt !",
+    "tgt": "धन्यवाद, फिर मिलेंगे!",
+    "ro": "Dhanyavād, phir milenge!",
+    "lit": "merci · encore · nous verrons"
+   }
+  ]
+ },
+ "0-1-0": {
+  "module": "En voyage",
+  "title": "Arrivée à la gare de Delhi",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "La gare est très grande.",
+    "tgt": "स्टेशन बहुत बड़ा है।",
+    "ro": "Sṭeshan bahut baṛā hai.",
+    "lit": "gare · très · grand · est"
+   },
+   {
+    "fr": "Où est le quai numéro cinq ?",
+    "tgt": "प्लेटफ़ार्म नंबर पाँच कहाँ है?",
+    "ro": "Pleṭfārm nambar pāṃch kahāṃ hai?",
+    "lit": "quai · numéro · cinq · où · est ?"
+   },
+   {
+    "fr": "Mon train est en retard.",
+    "tgt": "मेरी ट्रेन लेट है।",
+    "ro": "Merī ṭren leṭ hai.",
+    "lit": "mon · train · en retard · est"
+   },
+   {
+    "fr": "J'ai un gros sac.",
+    "tgt": "मेरे पास एक बड़ा थैला है।",
+    "ro": "Mere pās ek baṛā thailā hai.",
+    "lit": "moi · [chez] · un · gros · sac · est"
+   },
+   {
+    "fr": "Le taxi attend dehors.",
+    "tgt": "टैक्सी बाहर खड़ी है।",
+    "ro": "Ṭaiksī bāhar khaṛī hai.",
+    "lit": "taxi · dehors · debout · est"
+   },
+   {
+    "fr": "Je dois aller à l'hôtel.",
+    "tgt": "मुझे होटल जाना है।",
+    "ro": "Mujhe hoṭal jānā hai.",
+    "lit": "à moi · hôtel · aller · est"
+   },
+   {
+    "fr": "Les toilettes sont là-bas.",
+    "tgt": "बाथरूम वहाँ है।",
+    "ro": "Bāthrūm vahāṃ hai.",
+    "lit": "toilettes · là-bas · est"
+   },
+   {
+    "fr": "Avez-vous de l'eau ?",
+    "tgt": "क्या आपके पास पानी है?",
+    "ro": "Kyā āpke pās pānī hai?",
+    "lit": "[question] · vous · [chez] · eau · est ?"
+   },
+   {
+    "fr": "Il fait très chaud ici.",
+    "tgt": "यहाँ बहुत गर्मी है।",
+    "ro": "Yahāṃ bahut garmī hai.",
+    "lit": "ici · très · chaleur · est"
+   },
+   {
+    "fr": "Bienvenue en Inde !",
+    "tgt": "भारत में आपका स्वागत है!",
+    "ro": "Bhārat meṃ āpkā svāgat hai!",
+    "lit": "Inde · [dans] · votre · accueil · est !"
+   }
+  ]
+ },
+ "0-1-1": {
+  "module": "En voyage",
+  "title": "Organiser le séjour à Agra",
+  "grammaire_de_la_lecon": "« Āj, kal, parsoṃ » : « kal » veut dire hier ET demain",
+  "phrases": [
+   {
+    "fr": "Aujourd'hui, je suis à Delhi.",
+    "tgt": "आज मैं दिल्ली में हूँ।",
+    "ro": "Āj maiṃ Dillī meṃ hūṃ.",
+    "lit": "aujourd'hui · je · Delhi · [dans] · suis"
+   },
+   {
+    "fr": "Demain, je pars pour Agra.",
+    "tgt": "कल मैं आगरा जा रहा हूँ।",
+    "ro": "Kal maiṃ Āgrā jā rahā hūṃ.",
+    "lit": "demain · je · Agra · aller · [en cours] · suis"
+   },
+   {
+    "fr": "Hier, j'étais très fatigué.",
+    "tgt": "कल मैं बहुत थका हुआ था।",
+    "ro": "Kal maiṃ bahut thakā huā thā.",
+    "lit": "hier · je · très · fatigué · devenu · étais"
+   },
+   {
+    "fr": "Après-demain, nous sommes à Jaipur.",
+    "tgt": "परसों हम जयपुर में हैं।",
+    "ro": "Parsoṃ ham Jaypur meṃ haiṃ.",
+    "lit": "après-demain · nous · Jaipur · [dans] · sommes"
+   },
+   {
+    "fr": "Le Taj Mahal est fermé aujourd'hui ?",
+    "tgt": "क्या आज ताजमहल बंद है?",
+    "ro": "Kyā āj Tājmahal band hai?",
+    "lit": "[question] · aujourd'hui · Taj Mahal · fermé · est ?"
+   },
+   {
+    "fr": "Non, il est fermé le vendredi.",
+    "tgt": "नहीं, शुक्रवार को बंद है।",
+    "ro": "Nahīṃ, shukravār ko band hai.",
+    "lit": "non · vendredi · [à] · fermé · est"
+   },
+   {
+    "fr": "Hier, c'était dimanche.",
+    "tgt": "कल रविवार था।",
+    "ro": "Kal ravivār thā.",
+    "lit": "hier · dimanche · était"
+   },
+   {
+    "fr": "Et demain, c'est lundi.",
+    "tgt": "और कल सोमवार है।",
+    "ro": "Aur kal somvār hai.",
+    "lit": "et · demain · lundi · est"
+   },
+   {
+    "fr": "Aujourd'hui, le temps est agréable.",
+    "tgt": "आज मौसम अच्छा है।",
+    "ro": "Āj mausam achchhā hai.",
+    "lit": "aujourd'hui · temps · bon · est"
+   },
+   {
+    "fr": "Mon train est après-demain.",
+    "tgt": "मेरी ट्रेन परसों है।",
+    "ro": "Merī ṭren parsoṃ hai.",
+    "lit": "mon · train · après-demain · est"
+   }
+  ]
+ },
+ "0-1-2": {
+  "module": "En voyage",
+  "title": "Le Taj Mahal",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Le Taj Mahal est vraiment beau.",
+    "tgt": "ताजमहल बहुत सुंदर है।",
+    "ro": "Tājmahal bahut sundar hai.",
+    "lit": "Taj Mahal · très · beau · est"
+   },
+   {
+    "fr": "Il est en marbre blanc.",
+    "tgt": "यह सफ़ेद संगमरमर का है।",
+    "ro": "Yah safed sangmarmar kā hai.",
+    "lit": "ceci · blanc · marbre · [de] · est"
+   },
+   {
+    "fr": "Où est la porte principale ?",
+    "tgt": "मुख्य द्वार कहाँ है?",
+    "ro": "Mukhya dvār kahāṃ hai?",
+    "lit": "principale · porte · où · est ?"
+   },
+   {
+    "fr": "Il y a énormément de monde.",
+    "tgt": "बहुत भीड़ है।",
+    "ro": "Bahut bhīṛ hai.",
+    "lit": "beaucoup · foule · est"
+   },
+   {
+    "fr": "Le matin, il y a moins de monde.",
+    "tgt": "सुबह कम भीड़ होती है।",
+    "ro": "Subah kam bhīṛ hotī hai.",
+    "lit": "matin · moins · foule · devenir · est"
+   },
+   {
+    "fr": "Le jardin est immense.",
+    "tgt": "बगीचा बहुत बड़ा है।",
+    "ro": "Bagīchā bahut baṛā hai.",
+    "lit": "jardin · très · grand · est"
+   },
+   {
+    "fr": "Allez, prenons une photo ici.",
+    "tgt": "चलो, यहाँ फ़ोटो लेते हैं।",
+    "ro": "Chalo, yahāṃ foṭo lete haiṃ.",
+    "lit": "allons · ici · photo · prendre · sommes"
+   },
+   {
+    "fr": "Le fleuve est derrière le monument.",
+    "tgt": "नदी स्मारक के पीछे है।",
+    "ro": "Nadī smārak ke pīchhe hai.",
+    "lit": "fleuve · monument · [de] · derrière · est"
+   },
+   {
+    "fr": "C'est mon premier voyage en Inde.",
+    "tgt": "यह मेरी पहली भारत यात्रा है।",
+    "ro": "Yah merī pahlī Bhārat yātrā hai.",
+    "lit": "ceci · mon · premier · Inde · voyage · est"
+   },
+   {
+    "fr": "Le soir, la vue est superbe.",
+    "tgt": "शाम का नज़ारा बहुत सुंदर है।",
+    "ro": "Shām kā nazārā bahut sundar hai.",
+    "lit": "soir · [de] · vue · très · beau · est"
+   }
+  ]
+ },
+ "0-1-3": {
+  "module": "En voyage",
+  "title": "À l'hôtel",
+  "grammaire_de_la_lecon": "« Kṛpayā » et « zarā » : s'il vous plaît",
+  "phrases": [
+   {
+    "fr": "J'ai une réservation chez vous.",
+    "tgt": "यहाँ मेरी बुकिंग है।",
+    "ro": "Yahāṃ merī buking hai.",
+    "lit": "ici · ma · réservation · est"
+   },
+   {
+    "fr": "Dites-moi votre nom, s'il vous plaît.",
+    "tgt": "कृपया अपना नाम बताइए।",
+    "ro": "Kṛpayā apnā nām batāie.",
+    "lit": "s'il vous plaît · votre · nom · dites"
+   },
+   {
+    "fr": "Il me faut une chambre pour deux nuits.",
+    "tgt": "दो रातों के लिए एक कमरा चाहिए।",
+    "ro": "Do rātoṃ ke lie ek kamrā chāhie.",
+    "lit": "deux · nuits · [pour] · une · chambre · faut"
+   },
+   {
+    "fr": "Attendez un instant, s'il vous plaît.",
+    "tgt": "ज़रा रुकिए।",
+    "ro": "Zarā rukie.",
+    "lit": "un peu · attendez"
+   },
+   {
+    "fr": "Voici votre clé.",
+    "tgt": "यह आपकी चाबी है।",
+    "ro": "Yah āpkī chābī hai.",
+    "lit": "ceci · votre · clé · est"
+   },
+   {
+    "fr": "La chambre est au deuxième étage.",
+    "tgt": "कमरा दूसरी मंज़िल पर है।",
+    "ro": "Kamrā dūsrī manzil par hai.",
+    "lit": "chambre · deuxième · étage · [sur] · est"
+   },
+   {
+    "fr": "Montrez-moi la chambre, s'il vous plaît.",
+    "tgt": "ज़रा कमरा दिखाइए।",
+    "ro": "Zarā kamrā dikhāie.",
+    "lit": "un peu · chambre · montrez"
+   },
+   {
+    "fr": "Fermez la fenêtre, s'il vous plaît.",
+    "tgt": "कृपया खिड़की बंद कीजिए।",
+    "ro": "Kṛpayā khiṛkī band kījie.",
+    "lit": "s'il vous plaît · fenêtre · fermé · faites"
+   },
+   {
+    "fr": "Le petit-déjeuner est à quelle heure ?",
+    "tgt": "नाश्ता कितने बजे है?",
+    "ro": "Nāshtā kitne baje hai?",
+    "lit": "petit-déjeuner · combien · heures · est ?"
+   },
+   {
+    "fr": "Un peu d'eau chaude, s'il vous plaît.",
+    "tgt": "ज़रा गरम पानी दीजिए।",
+    "ro": "Zarā garam pānī dījie.",
+    "lit": "un peu · chaude · eau · donnez"
+   }
+  ]
+ },
+ "0-1-4": {
+  "module": "En voyage",
+  "title": "Acheter un billet de train",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Où se trouve le guichet des billets ?",
+    "tgt": "टिकट खिड़की कहाँ है?",
+    "ro": "Ṭikaṭ khiṛkī kahāṃ hai?",
+    "lit": "billet · guichet · où · est ?"
+   },
+   {
+    "fr": "Il me faut un billet pour Jaipur.",
+    "tgt": "जयपुर का एक टिकट चाहिए।",
+    "ro": "Jaypur kā ek ṭikaṭ chāhie.",
+    "lit": "Jaipur · [de] · un · billet · faut"
+   },
+   {
+    "fr": "Le train part à quelle heure ?",
+    "tgt": "ट्रेन कितने बजे चलती है?",
+    "ro": "Ṭren kitne baje chaltī hai?",
+    "lit": "train · combien · heures · partir · est ?"
+   },
+   {
+    "fr": "À six heures du matin.",
+    "tgt": "सुबह छह बजे।",
+    "ro": "Subah chhah baje.",
+    "lit": "matin · six · heures"
+   },
+   {
+    "fr": "Il me faut une couchette.",
+    "tgt": "मुझे एक बर्थ चाहिए।",
+    "ro": "Mujhe ek barth chāhie.",
+    "lit": "à moi · une · couchette · faut"
+   },
+   {
+    "fr": "Je préfère la place côté fenêtre.",
+    "tgt": "मुझे खिड़की वाली सीट पसंद है।",
+    "ro": "Mujhe khiṛkī vālī sīṭ pasand hai.",
+    "lit": "à moi · fenêtre · [côté] · place · plaisir · est"
+   },
+   {
+    "fr": "Il n'y a plus de place dans le train.",
+    "tgt": "ट्रेन में जगह नहीं है।",
+    "ro": "Ṭren meṃ jagah nahīṃ hai.",
+    "lit": "train · [dans] · place · pas · est"
+   },
+   {
+    "fr": "Tenez, c'est mon passeport.",
+    "tgt": "यह मेरा पासपोर्ट है।",
+    "ro": "Yah merā pāsporṭ hai.",
+    "lit": "ceci · mon · passeport · est"
+   },
+   {
+    "fr": "C'est un train rapide ?",
+    "tgt": "क्या यह तेज़ ट्रेन है?",
+    "ro": "Kyā yah tez ṭren hai?",
+    "lit": "[question] · ceci · rapide · train · est ?"
+   },
+   {
+    "fr": "Le voyage dure cinq heures.",
+    "tgt": "सफ़र पाँच घंटे का है।",
+    "ro": "Safar pāṃch ghanṭe kā hai.",
+    "lit": "voyage · cinq · heures · [de] · est"
+   }
+  ]
+ },
+ "0-1-5": {
+  "module": "En voyage",
+  "title": "Au bazar de Jaipur",
+  "grammaire_de_la_lecon": "« Kitne kā hai ? » : demander un prix, les roupies",
+  "phrases": [
+   {
+    "fr": "Ça coûte combien ?",
+    "tgt": "यह कितने का है?",
+    "ro": "Yah kitne kā hai?",
+    "lit": "ceci · combien · [de] · est ?"
+   },
+   {
+    "fr": "Cent roupies.",
+    "tgt": "सौ रुपये।",
+    "ro": "Sau rupaye.",
+    "lit": "cent · roupies"
+   },
+   {
+    "fr": "Oh, c'est vraiment cher !",
+    "tgt": "यह बहुत महँगा है!",
+    "ro": "Yah bahut mahaṃgā hai!",
+    "lit": "ceci · très · cher · est !"
+   },
+   {
+    "fr": "Combien coûte ce foulard ?",
+    "tgt": "यह दुपट्टा कितने का है?",
+    "ro": "Yah dupaṭṭā kitne kā hai?",
+    "lit": "ce · foulard · combien · [de] · est ?"
+   },
+   {
+    "fr": "Deux cents roupies, monsieur.",
+    "tgt": "दो सौ रुपये, साहब।",
+    "ro": "Do sau rupaye, sāhab.",
+    "lit": "deux · cents · roupies · monsieur"
+   },
+   {
+    "fr": "Faites-moi un petit prix.",
+    "tgt": "थोड़ा कम कीजिए।",
+    "ro": "Thoṛā kam kījie.",
+    "lit": "un peu · moins · faites"
+   },
+   {
+    "fr": "Cent cinquante, d'accord ?",
+    "tgt": "डेढ़ सौ ठीक है?",
+    "ro": "Ḍeṛh sau ṭhīk hai?",
+    "lit": "un et demi · cent · bien · est ?"
+   },
+   {
+    "fr": "Ces bracelets coûtent combien ?",
+    "tgt": "ये चूड़ियाँ कितने की हैं?",
+    "ro": "Ye chūṛiyāṃ kitne kī haiṃ?",
+    "lit": "ces · bracelets · combien · [de] · sont ?"
+   },
+   {
+    "fr": "Les deux pour trois cents roupies.",
+    "tgt": "दोनों तीन सौ रुपये में।",
+    "ro": "Donoṃ tīn sau rupaye meṃ.",
+    "lit": "les deux · trois · cents · roupies · [dans]"
+   },
+   {
+    "fr": "Bon, d'accord, je les prends.",
+    "tgt": "ठीक है, मैं लेता हूँ।",
+    "ro": "Ṭhīk hai, maiṃ letā hūṃ.",
+    "lit": "bien · est · je · prendre · suis"
+   }
+  ]
+ },
+ "0-1-6": {
+  "module": "En voyage",
+  "title": "Le palais des vents",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Voici le palais des vents.",
+    "tgt": "यह हवा महल है।",
+    "ro": "Yah Havā Mahal hai.",
+    "lit": "ceci · vent · palais · est"
+   },
+   {
+    "fr": "Le palais est rose.",
+    "tgt": "महल गुलाबी है।",
+    "ro": "Mahal gulābī hai.",
+    "lit": "palais · rose · est"
+   },
+   {
+    "fr": "Il y a énormément de fenêtres.",
+    "tgt": "इसमें बहुत सारी खिड़कियाँ हैं।",
+    "ro": "Ismeṃ bahut sārī khiṛkiyāṃ haiṃ.",
+    "lit": "ceci-[dans] · très · nombreuses · fenêtres · sont"
+   },
+   {
+    "fr": "Jaipur est la ville rose.",
+    "tgt": "जयपुर गुलाबी शहर है।",
+    "ro": "Jaypur gulābī shahar hai.",
+    "lit": "Jaipur · rose · ville · est"
+   },
+   {
+    "fr": "Ici, le vent est frais.",
+    "tgt": "यहाँ हवा ठंडी है।",
+    "ro": "Yahāṃ havā ṭhanḍī hai.",
+    "lit": "ici · vent · frais · est"
+   },
+   {
+    "fr": "Le marché est juste en face.",
+    "tgt": "बाज़ार ठीक सामने है।",
+    "ro": "Bāzār ṭhīk sāmne hai.",
+    "lit": "marché · juste · en face · est"
+   },
+   {
+    "fr": "On monte tout en haut ?",
+    "tgt": "क्या ऊपर चलें?",
+    "ro": "Kyā ūpar chaleṃ?",
+    "lit": "[question] · en haut · allions ?"
+   },
+   {
+    "fr": "La vue est magnifique.",
+    "tgt": "नज़ारा शानदार है।",
+    "ro": "Nazārā shāndār hai.",
+    "lit": "vue · magnifique · est"
+   },
+   {
+    "fr": "Le palais est vieux ?",
+    "tgt": "क्या महल पुराना है?",
+    "ro": "Kyā mahal purānā hai?",
+    "lit": "[question] · palais · vieux · est ?"
+   },
+   {
+    "fr": "Oui, il est très ancien.",
+    "tgt": "हाँ, यह बहुत पुराना है।",
+    "ro": "Hāṃ, yah bahut purānā hai.",
+    "lit": "oui · ceci · très · vieux · est"
+   }
+  ]
+ },
+ "0-1-7": {
+  "module": "En voyage",
+  "title": "De Jaipur à Jodhpur",
+  "grammaire_de_la_lecon": "« Se... tak » : de... à...",
+  "phrases": [
+   {
+    "fr": "Je dois aller de Jaipur à Jodhpur.",
+    "tgt": "मुझे जयपुर से जोधपुर जाना है।",
+    "ro": "Mujhe Jaypur se Jodhpur jānā hai.",
+    "lit": "à moi · Jaipur · [depuis] · Jodhpur · aller · est"
+   },
+   {
+    "fr": "Le bus va de la gare jusqu'au fort.",
+    "tgt": "बस स्टेशन से किले तक जाती है।",
+    "ro": "Bas sṭeshan se kile tak jātī hai.",
+    "lit": "bus · gare · [depuis] · fort · [jusqu'à] · aller · est"
+   },
+   {
+    "fr": "De Jaipur à Jodhpur, il faut six heures.",
+    "tgt": "जयपुर से जोधपुर तक छह घंटे लगते हैं।",
+    "ro": "Jaypur se Jodhpur tak chhah ghanṭe lagte haiṃ.",
+    "lit": "Jaipur · [depuis] · Jodhpur · [jusqu'à] · six · heures · prendre · sont"
+   },
+   {
+    "fr": "La boutique est ouverte de neuf à six heures.",
+    "tgt": "दुकान नौ से छह बजे तक खुली है।",
+    "ro": "Dukān nau se chhah baje tak khulī hai.",
+    "lit": "boutique · neuf · [depuis] · six · heures · [jusqu'à] · ouverte · est"
+   },
+   {
+    "fr": "Du lundi au vendredi.",
+    "tgt": "सोमवार से शुक्रवार तक।",
+    "ro": "Somvār se shukravār tak.",
+    "lit": "lundi · [depuis] · vendredi · [jusqu'à]"
+   },
+   {
+    "fr": "On trouve du thé dans le train ?",
+    "tgt": "क्या ट्रेन में चाय मिलती है?",
+    "ro": "Kyā ṭren meṃ chāy miltī hai?",
+    "lit": "[question] · train · [dans] · thé · se trouver · est ?"
+   },
+   {
+    "fr": "Le désert commence à partir d'ici.",
+    "tgt": "यहाँ से रेगिस्तान शुरू होता है।",
+    "ro": "Yahāṃ se registān shurū hotā hai.",
+    "lit": "ici · [depuis] · désert · début · devenir · est"
+   },
+   {
+    "fr": "Par la fenêtre, on voit des chameaux.",
+    "tgt": "खिड़की से ऊँट दिखते हैं।",
+    "ro": "Khiṛkī se ūṃṭ dikhte haiṃ.",
+    "lit": "fenêtre · [depuis] · chameaux · se voir · sont"
+   },
+   {
+    "fr": "Jusqu'à quand restez-vous à Jodhpur ?",
+    "tgt": "आप जोधपुर में कब तक हैं?",
+    "ro": "Āp Jodhpur meṃ kab tak haiṃ?",
+    "lit": "vous · Jodhpur · [dans] · quand · [jusqu'à] · êtes ?"
+   },
+   {
+    "fr": "Jusqu'à dimanche soir.",
+    "tgt": "रविवार शाम तक।",
+    "ro": "Ravivār shām tak.",
+    "lit": "dimanche · soir · [jusqu'à]"
+   }
+  ]
+ },
+ "0-1-8": {
+  "module": "En voyage",
+  "title": "Jodhpur, la ville bleue",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Jodhpur est la ville bleue.",
+    "tgt": "जोधपुर नीला शहर है।",
+    "ro": "Jodhpur nīlā shahar hai.",
+    "lit": "Jodhpur · bleue · ville · est"
+   },
+   {
+    "fr": "Ici, les maisons sont bleues.",
+    "tgt": "यहाँ घर नीले हैं।",
+    "ro": "Yahāṃ ghar nīle haiṃ.",
+    "lit": "ici · maisons · bleues · sont"
+   },
+   {
+    "fr": "Le fort est sur la colline.",
+    "tgt": "किला पहाड़ी पर है।",
+    "ro": "Kilā pahāṛī par hai.",
+    "lit": "fort · colline · [sur] · est"
+   },
+   {
+    "fr": "Les ruelles ici sont très étroites.",
+    "tgt": "गलियाँ बहुत तंग हैं।",
+    "ro": "Galiyāṃ bahut tang haiṃ.",
+    "lit": "ruelles · très · étroites · sont"
+   },
+   {
+    "fr": "Le temps est chaud et sec.",
+    "tgt": "मौसम गरम और सूखा है।",
+    "ro": "Mausam garam aur sūkhā hai.",
+    "lit": "temps · chaud · et · sec · est"
+   },
+   {
+    "fr": "Le restaurant est sur le toit.",
+    "tgt": "रेस्टोरेंट छत पर है।",
+    "ro": "Resṭorenṭ chhat par hai.",
+    "lit": "restaurant · toit · [sur] · est"
+   },
+   {
+    "fr": "Un thé bien chaud, s'il vous plaît.",
+    "tgt": "एक गरम चाय दीजिए।",
+    "ro": "Ek garam chāy dījie.",
+    "lit": "un · chaud · thé · donnez"
+   },
+   {
+    "fr": "D'en haut, la ville est très belle.",
+    "tgt": "ऊपर से शहर सुंदर दिखता है।",
+    "ro": "Ūpar se shahar sundar dikhtā hai.",
+    "lit": "haut · [depuis] · ville · belle · paraître · est"
+   },
+   {
+    "fr": "Pourquoi les maisons sont-elles bleues ?",
+    "tgt": "घर नीले क्यों हैं?",
+    "ro": "Ghar nīle kyoṃ haiṃ?",
+    "lit": "maisons · bleues · pourquoi · sont ?"
+   },
+   {
+    "fr": "Je n'en sais rien du tout.",
+    "tgt": "मुझे बिलकुल नहीं पता।",
+    "ro": "Mujhe bilkul nahīṃ patā.",
+    "lit": "à moi · du tout · pas · connu"
+   }
+  ]
+ },
+ "0-1-9": {
+  "module": "En voyage",
+  "title": "Hier, au fort de Jodhpur",
+  "grammaire_de_la_lecon": "Le passé : « gayā, gayī »",
+  "phrases": [
+   {
+    "fr": "Hier, je suis allé au fort.",
+    "tgt": "कल मैं किले गया।",
+    "ro": "Kal maiṃ kile gayā.",
+    "lit": "hier · je · fort · allé"
+   },
+   {
+    "fr": "Ma femme est allée au marché.",
+    "tgt": "मेरी पत्नी बाज़ार गयी।",
+    "ro": "Merī patnī bāzār gayī.",
+    "lit": "ma · femme · marché · allée"
+   },
+   {
+    "fr": "Nous sommes allés au lac.",
+    "tgt": "हम झील पर गये।",
+    "ro": "Ham jhīl par gaye.",
+    "lit": "nous · lac · [sur] · allés"
+   },
+   {
+    "fr": "Où êtes-vous allé hier ?",
+    "tgt": "आप कल कहाँ गये?",
+    "ro": "Āp kal kahāṃ gaye?",
+    "lit": "vous · hier · où · allé ?"
+   },
+   {
+    "fr": "Moi, je suis allée au palais.",
+    "tgt": "मैं महल गयी।",
+    "ro": "Maiṃ mahal gayī.",
+    "lit": "je · palais · allée"
+   },
+   {
+    "fr": "Le train est parti à l'heure.",
+    "tgt": "ट्रेन समय पर चली।",
+    "ro": "Ṭren samay par chalī.",
+    "lit": "train · heure · [sur] · partie"
+   },
+   {
+    "fr": "Mon ami est venu avec moi.",
+    "tgt": "मेरा दोस्त मेरे साथ आया।",
+    "ro": "Merā dost mere sāth āyā.",
+    "lit": "mon · ami · moi · [avec] · venu"
+   },
+   {
+    "fr": "Il est arrivé tard à l'hôtel.",
+    "tgt": "वह देर से होटल पहुँचा।",
+    "ro": "Vah der se hoṭal pahuṃchā.",
+    "lit": "il · retard · [depuis] · hôtel · arrivé"
+   },
+   {
+    "fr": "Elle est partie tôt ce matin.",
+    "tgt": "वह आज सुबह जल्दी गयी।",
+    "ro": "Vah āj subah jaldī gayī.",
+    "lit": "elle · aujourd'hui · matin · tôt · partie"
+   },
+   {
+    "fr": "Nous sommes rentrés le soir.",
+    "tgt": "हम शाम को वापस आये।",
+    "ro": "Ham shām ko vāpas āye.",
+    "lit": "nous · soir · [à] · retour · venus"
+   }
+  ]
+ },
+ "0-1-10": {
+  "module": "En voyage",
+  "title": "Mes bagages",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Voici ma grosse valise.",
+    "tgt": "यह मेरा बड़ा सूटकेस है।",
+    "ro": "Yah merā baṛā sūṭkes hai.",
+    "lit": "ceci · ma · grosse · valise · est"
+   },
+   {
+    "fr": "Elle est très lourde.",
+    "tgt": "यह बहुत भारी है।",
+    "ro": "Yah bahut bhārī hai.",
+    "lit": "ceci · très · lourd · est"
+   },
+   {
+    "fr": "J'ai deux sacs.",
+    "tgt": "मेरे पास दो बैग हैं।",
+    "ro": "Mere pās do baig haiṃ.",
+    "lit": "moi · [chez] · deux · sacs · sont"
+   },
+   {
+    "fr": "Où est mon sac noir ?",
+    "tgt": "मेरा काला बैग कहाँ है?",
+    "ro": "Merā kālā baig kahāṃ hai?",
+    "lit": "mon · noir · sac · où · est ?"
+   },
+   {
+    "fr": "Il est sous le siège.",
+    "tgt": "वह सीट के नीचे है।",
+    "ro": "Vah sīṭ ke nīche hai.",
+    "lit": "il · siège · [de] · dessous · est"
+   },
+   {
+    "fr": "Le porteur soulève les bagages.",
+    "tgt": "कुली सामान उठाता है।",
+    "ro": "Kulī sāmān uṭhātā hai.",
+    "lit": "porteur · bagages · soulever · est"
+   },
+   {
+    "fr": "C'est combien pour les bagages ?",
+    "tgt": "सामान के कितने पैसे?",
+    "ro": "Sāmān ke kitne paise?",
+    "lit": "bagages · [de] · combien · argent ?"
+   },
+   {
+    "fr": "Doucement, c'est fragile.",
+    "tgt": "ध्यान से, यह नाज़ुक है।",
+    "ro": "Dhyān se, yah nāzuk hai.",
+    "lit": "attention · [avec] · ceci · fragile · est"
+   },
+   {
+    "fr": "Mon sac est ouvert.",
+    "tgt": "मेरा बैग खुला है।",
+    "ro": "Merā baig khulā hai.",
+    "lit": "mon · sac · ouvert · est"
+   },
+   {
+    "fr": "Tous les bagages sont là.",
+    "tgt": "सब सामान यहाँ है।",
+    "ro": "Sab sāmān yahāṃ hai.",
+    "lit": "tous · bagages · ici · est"
+   }
+  ]
+ },
+ "0-1-11": {
+  "module": "En voyage",
+  "title": "Demander son chemin",
+  "grammaire_de_la_lecon": "« Kaise » : comment",
+  "phrases": [
+   {
+    "fr": "Comment aller à la gare ?",
+    "tgt": "स्टेशन कैसे जाएँ?",
+    "ro": "Sṭeshan kaise jāeṃ?",
+    "lit": "gare · comment · allions ?"
+   },
+   {
+    "fr": "Continuez tout droit.",
+    "tgt": "सीधे जाइए।",
+    "ro": "Sīdhe jāie.",
+    "lit": "droit · allez"
+   },
+   {
+    "fr": "Puis prenez à gauche.",
+    "tgt": "फिर बाएँ मुड़िए।",
+    "ro": "Phir bāeṃ muṛie.",
+    "lit": "ensuite · gauche · tournez"
+   },
+   {
+    "fr": "Comment est l'hôtel ?",
+    "tgt": "होटल कैसा है?",
+    "ro": "Hoṭal kaisā hai?",
+    "lit": "hôtel · comment · est ?"
+   },
+   {
+    "fr": "Il est propre et calme.",
+    "tgt": "साफ़ और शांत है।",
+    "ro": "Sāf aur shānt hai.",
+    "lit": "propre · et · calme · est"
+   },
+   {
+    "fr": "Comment arriver jusqu'au fort ?",
+    "tgt": "किले तक कैसे पहुँचें?",
+    "ro": "Kile tak kaise pahuṃcheṃ?",
+    "lit": "fort · [jusqu'à] · comment · arrivions ?"
+   },
+   {
+    "fr": "À droite, après le pont.",
+    "tgt": "पुल के बाद दाएँ।",
+    "ro": "Pul ke bād dāeṃ.",
+    "lit": "pont · [de] · après · droite"
+   },
+   {
+    "fr": "Comment est le thé ici ?",
+    "tgt": "यहाँ चाय कैसी है?",
+    "ro": "Yahāṃ chāy kaisī hai?",
+    "lit": "ici · thé · comment · est ?"
+   },
+   {
+    "fr": "Comment va-t-on au marché ?",
+    "tgt": "बाज़ार कैसे जाते हैं?",
+    "ro": "Bāzār kaise jāte haiṃ?",
+    "lit": "marché · comment · aller · sont ?"
+   },
+   {
+    "fr": "Pardon, je me suis perdu.",
+    "tgt": "माफ़ कीजिए, मैं रास्ता भूल गया।",
+    "ro": "Māf kījie, maiṃ rāstā bhūl gayā.",
+    "lit": "pardon · faites · je · chemin · oublier · allé"
+   }
+  ]
+ },
+ "0-1-12": {
+  "module": "En voyage",
+  "title": "À la pharmacie",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Il me faut une pharmacie.",
+    "tgt": "मुझे दवा की दुकान चाहिए।",
+    "ro": "Mujhe davā kī dukān chāhie.",
+    "lit": "à moi · médicament · [de] · boutique · faut"
+   },
+   {
+    "fr": "J'ai très mal à la tête.",
+    "tgt": "मेरे सिर में बहुत दर्द है।",
+    "ro": "Mere sir meṃ bahut dard hai.",
+    "lit": "ma · tête · [dans] · très · douleur · est"
+   },
+   {
+    "fr": "J'ai un peu de fièvre.",
+    "tgt": "मुझे थोड़ा बुखार है।",
+    "ro": "Mujhe thoṛā bukhār hai.",
+    "lit": "à moi · un peu · fièvre · est"
+   },
+   {
+    "fr": "J'ai l'estomac dérangé.",
+    "tgt": "मेरा पेट खराब है।",
+    "ro": "Merā peṭ kharāb hai.",
+    "lit": "mon · ventre · mauvais · est"
+   },
+   {
+    "fr": "Vous avez un médicament contre la fièvre ?",
+    "tgt": "क्या बुखार की दवा है?",
+    "ro": "Kyā bukhār kī davā hai?",
+    "lit": "[question] · fièvre · [de] · médicament · est ?"
+   },
+   {
+    "fr": "Prenez-le deux fois par jour.",
+    "tgt": "इसे दिन में दो बार लीजिए।",
+    "ro": "Ise din meṃ do bār lījie.",
+    "lit": "ceci-[à] · jour · [dans] · deux · fois · prenez"
+   },
+   {
+    "fr": "Toujours après le repas.",
+    "tgt": "हमेशा खाने के बाद।",
+    "ro": "Hameshā khāne ke bād.",
+    "lit": "toujours · repas · [de] · après"
+   },
+   {
+    "fr": "Buvez beaucoup d'eau.",
+    "tgt": "खूब पानी पीजिए।",
+    "ro": "Khūb pānī pījie.",
+    "lit": "beaucoup · eau · buvez"
+   },
+   {
+    "fr": "Ça, ce n'est pas grave.",
+    "tgt": "यह गंभीर नहीं है।",
+    "ro": "Yah gambhīr nahīṃ hai.",
+    "lit": "ceci · grave · pas · est"
+   },
+   {
+    "fr": "Maintenant, je vais mieux.",
+    "tgt": "अब मैं बेहतर हूँ।",
+    "ro": "Ab maiṃ behtar hūṃ.",
+    "lit": "maintenant · je · mieux · suis"
+   }
+  ]
+ },
+ "0-1-13": {
+  "module": "En voyage",
+  "title": "Le train est en retard",
+  "grammaire_de_la_lecon": "« Saknā » : pouvoir",
+  "phrases": [
+   {
+    "fr": "Le train a deux heures de retard.",
+    "tgt": "ट्रेन दो घंटे लेट है।",
+    "ro": "Ṭren do ghanṭe leṭ hai.",
+    "lit": "train · deux · heures · en retard · est"
+   },
+   {
+    "fr": "Je peux attendre ici ?",
+    "tgt": "क्या मैं यहाँ इंतज़ार कर सकता हूँ?",
+    "ro": "Kyā maiṃ yahāṃ intazār kar saktā hūṃ?",
+    "lit": "[question] · je · ici · attente · faire · pouvant · suis ?"
+   },
+   {
+    "fr": "Oui, vous pouvez vous asseoir là-bas.",
+    "tgt": "हाँ, आप वहाँ बैठ सकते हैं।",
+    "ro": "Hāṃ, āp vahāṃ baiṭh sakte haiṃ.",
+    "lit": "oui · vous · là-bas · asseoir · pouvant · êtes"
+   },
+   {
+    "fr": "Vous pouvez m'aider, s'il vous plaît ?",
+    "tgt": "क्या आप मेरी मदद कर सकते हैं?",
+    "ro": "Kyā āp merī madad kar sakte haiṃ?",
+    "lit": "[question] · vous · mon · aide · faire · pouvant · êtes ?"
+   },
+   {
+    "fr": "Je peux changer mon billet ?",
+    "tgt": "क्या मैं टिकट बदल सकता हूँ?",
+    "ro": "Kyā maiṃ ṭikaṭ badal saktā hūṃ?",
+    "lit": "[question] · je · billet · changer · pouvant · suis ?"
+   },
+   {
+    "fr": "Non, ce n'est pas possible.",
+    "tgt": "नहीं, यह नहीं हो सकता।",
+    "ro": "Nahīṃ, yah nahīṃ ho saktā.",
+    "lit": "non · ceci · pas · être · pouvant"
+   },
+   {
+    "fr": "Je peux prendre le prochain train.",
+    "tgt": "मैं अगली ट्रेन ले सकता हूँ।",
+    "ro": "Maiṃ aglī ṭren le saktā hūṃ.",
+    "lit": "je · prochain · train · prendre · pouvant · suis"
+   },
+   {
+    "fr": "Ma sœur ne peut pas venir.",
+    "tgt": "मेरी बहन नहीं आ सकती।",
+    "ro": "Merī bahan nahīṃ ā saktī.",
+    "lit": "ma · sœur · pas · venir · pouvant"
+   },
+   {
+    "fr": "En attendant, on peut boire un thé.",
+    "tgt": "तब तक हम चाय पी सकते हैं।",
+    "ro": "Tab tak ham chāy pī sakte haiṃ.",
+    "lit": "alors · [jusqu'à] · nous · thé · boire · pouvant · sommes"
+   },
+   {
+    "fr": "Quelle galère !",
+    "tgt": "क्या मुसीबत है!",
+    "ro": "Kyā musībat hai!",
+    "lit": "quel · ennui · est !"
+   }
+  ]
+ },
+ "0-1-14": {
+  "module": "En voyage",
+  "title": "Udaipur, la ville des lacs",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "À Udaipur, il y a beaucoup de lacs.",
+    "tgt": "उदयपुर में बहुत सारी झीलें हैं।",
+    "ro": "Udaypur meṃ bahut sārī jhīleṃ haiṃ.",
+    "lit": "Udaipur · [dans] · très · nombreux · lacs · sont"
+   },
+   {
+    "fr": "L'eau est très calme.",
+    "tgt": "पानी बहुत शांत है।",
+    "ro": "Pānī bahut shānt hai.",
+    "lit": "eau · très · calme · est"
+   },
+   {
+    "fr": "Le palais est au milieu du lac.",
+    "tgt": "महल झील के बीच में है।",
+    "ro": "Mahal jhīl ke bīch meṃ hai.",
+    "lit": "palais · lac · [de] · milieu · [dans] · est"
+   },
+   {
+    "fr": "Allez, prenons un bateau.",
+    "tgt": "चलो, नाव लेते हैं।",
+    "ro": "Chalo, nāv lete haiṃ.",
+    "lit": "allons · bateau · prendre · sommes"
+   },
+   {
+    "fr": "Le soir, les lumières sont belles.",
+    "tgt": "शाम को रोशनी सुंदर होती है।",
+    "ro": "Shām ko roshnī sundar hotī hai.",
+    "lit": "soir · [à] · lumière · belle · devenir · est"
+   },
+   {
+    "fr": "De cet hôtel, on voit le lac.",
+    "tgt": "इस होटल से झील दिखती है।",
+    "ro": "Is hoṭal se jhīl dikhtī hai.",
+    "lit": "cet · hôtel · [depuis] · lac · se voir · est"
+   },
+   {
+    "fr": "Ici, il fait un peu plus frais.",
+    "tgt": "यहाँ थोड़ी ठंडक है।",
+    "ro": "Yahāṃ thoṛī ṭhanḍak hai.",
+    "lit": "ici · un peu · fraîcheur · est"
+   },
+   {
+    "fr": "C'est une ville très romantique.",
+    "tgt": "यह बहुत रोमांटिक शहर है।",
+    "ro": "Yah bahut romānṭik shahar hai.",
+    "lit": "ceci · très · romantique · ville · est"
+   },
+   {
+    "fr": "Il y a des oiseaux sur l'eau.",
+    "tgt": "पानी पर चिड़ियाँ हैं।",
+    "ro": "Pānī par chiṛiyāṃ haiṃ.",
+    "lit": "eau · [sur] · oiseaux · sont"
+   },
+   {
+    "fr": "J'adore cet endroit.",
+    "tgt": "मुझे यह जगह बहुत पसंद है।",
+    "ro": "Mujhe yah jagah bahut pasand hai.",
+    "lit": "à moi · cet · endroit · très · plaisir · est"
+   }
+  ]
+ },
+ "0-1-15": {
+  "module": "En voyage",
+  "title": "En bus, en rickshaw",
+  "grammaire_de_la_lecon": "« Se » : en train, en bus, et depuis",
+  "phrases": [
+   {
+    "fr": "J'y vais en taxi.",
+    "tgt": "मैं टैक्सी से जाता हूँ।",
+    "ro": "Maiṃ ṭaiksī se jātā hūṃ.",
+    "lit": "je · taxi · [en] · aller · suis"
+   },
+   {
+    "fr": "On va au palais en rickshaw ?",
+    "tgt": "रिक्शा से महल चलें?",
+    "ro": "Rikshā se mahal chaleṃ?",
+    "lit": "rickshaw · [en] · palais · allions ?"
+   },
+   {
+    "fr": "Le bus part d'ici même.",
+    "tgt": "बस यहीं से चलती है।",
+    "ro": "Bas yahīṃ se chaltī hai.",
+    "lit": "bus · ici même · [depuis] · partir · est"
+   },
+   {
+    "fr": "Je suis en Inde depuis une semaine.",
+    "tgt": "मैं एक हफ़्ते से भारत में हूँ।",
+    "ro": "Maiṃ ek hafte se Bhārat meṃ hūṃ.",
+    "lit": "je · une · semaine · [depuis] · Inde · [dans] · suis"
+   },
+   {
+    "fr": "J'attends depuis une heure.",
+    "tgt": "मैं एक घंटे से इंतज़ार कर रहा हूँ।",
+    "ro": "Maiṃ ek ghanṭe se intazār kar rahā hūṃ.",
+    "lit": "je · une · heure · [depuis] · attente · faire · [en cours] · suis"
+   },
+   {
+    "fr": "Nous venons de Paris.",
+    "tgt": "हम पेरिस से हैं।",
+    "ro": "Ham Peris se haiṃ.",
+    "lit": "nous · Paris · [depuis] · sommes"
+   },
+   {
+    "fr": "En bus, c'est moins cher.",
+    "tgt": "बस से सस्ता है।",
+    "ro": "Bas se sastā hai.",
+    "lit": "bus · [en] · bon marché · est"
+   },
+   {
+    "fr": "Nous allons à Udaipur en bus.",
+    "tgt": "हम बस से उदयपुर जा रहे हैं।",
+    "ro": "Ham bas se Udaypur jā rahe haiṃ.",
+    "lit": "nous · bus · [en] · Udaipur · aller · [en cours] · sommes"
+   },
+   {
+    "fr": "Depuis ce matin, il pleut.",
+    "tgt": "सुबह से बारिश हो रही है।",
+    "ro": "Subah se bārish ho rahī hai.",
+    "lit": "matin · [depuis] · pluie · être · [en cours] · est"
+   },
+   {
+    "fr": "J'aime voyager en train.",
+    "tgt": "मुझे ट्रेन से सफ़र करना पसंद है।",
+    "ro": "Mujhe ṭren se safar karnā pasand hai.",
+    "lit": "à moi · train · [en] · voyage · faire · plaisir · est"
+   }
+  ]
+ },
+ "0-1-16": {
+  "module": "En voyage",
+  "title": "Un plan de la ville",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Il me faut un plan d'Udaipur.",
+    "tgt": "मुझे उदयपुर का नक्शा चाहिए।",
+    "ro": "Mujhe Udaypur kā nakshā chāhie.",
+    "lit": "à moi · Udaipur · [de] · plan · faut"
+   },
+   {
+    "fr": "Sur le plan, nous sommes ici.",
+    "tgt": "नक्शे पर हम यहाँ हैं।",
+    "ro": "Nakshe par ham yahāṃ haiṃ.",
+    "lit": "plan · [sur] · nous · ici · sommes"
+   },
+   {
+    "fr": "Le musée est à côté du palais.",
+    "tgt": "म्यूज़ियम महल के बगल में है।",
+    "ro": "Myūziyam mahal ke bagal meṃ hai.",
+    "lit": "musée · palais · [de] · côté · [dans] · est"
+   },
+   {
+    "fr": "Cette rue mène au lac.",
+    "tgt": "यह सड़क झील तक जाती है।",
+    "ro": "Yah saṛak jhīl tak jātī hai.",
+    "lit": "cette · rue · lac · [jusqu'à] · aller · est"
+   },
+   {
+    "fr": "Montrez-moi sur le plan.",
+    "tgt": "मुझे नक्शे पर दिखाइए।",
+    "ro": "Mujhe nakshe par dikhāie.",
+    "lit": "à moi · plan · [sur] · montrez"
+   },
+   {
+    "fr": "Le jardin est au nord.",
+    "tgt": "बगीचा उत्तर में है।",
+    "ro": "Bagīchā uttar meṃ hai.",
+    "lit": "jardin · nord · [dans] · est"
+   },
+   {
+    "fr": "La vieille ville est par là.",
+    "tgt": "पुराना शहर उधर है।",
+    "ro": "Purānā shahar udhar hai.",
+    "lit": "vieille · ville · par là · est"
+   },
+   {
+    "fr": "Le plan est en hindi.",
+    "tgt": "नक्शा हिंदी में है।",
+    "ro": "Nakshā hindī meṃ hai.",
+    "lit": "plan · hindi · [dans] · est"
+   },
+   {
+    "fr": "Je ne trouve pas l'hôtel sur le plan.",
+    "tgt": "मुझे नक्शे पर होटल नहीं मिल रहा।",
+    "ro": "Mujhe nakshe par hoṭal nahīṃ mil rahā.",
+    "lit": "à moi · plan · [sur] · hôtel · pas · trouver · [en cours]"
+   },
+   {
+    "fr": "Le voilà, juste ici.",
+    "tgt": "यह रहा, ठीक यहाँ।",
+    "ro": "Yah rahā, ṭhīk yahāṃ.",
+    "lit": "ceci · voilà · juste · ici"
+   }
+  ]
+ },
+ "0-1-17": {
+  "module": "En voyage",
+  "title": "Loin ou près ?",
+  "grammaire_de_la_lecon": "« Dūr » et « pās » : loin et près",
+  "phrases": [
+   {
+    "fr": "La gare est loin d'ici ?",
+    "tgt": "क्या स्टेशन यहाँ से दूर है?",
+    "ro": "Kyā sṭeshan yahāṃ se dūr hai?",
+    "lit": "[question] · gare · ici · [depuis] · loin · est ?"
+   },
+   {
+    "fr": "Non, c'est très proche.",
+    "tgt": "नहीं, बहुत पास है।",
+    "ro": "Nahīṃ, bahut pās hai.",
+    "lit": "non · très · près · est"
+   },
+   {
+    "fr": "Le lac est près de l'hôtel.",
+    "tgt": "झील होटल के पास है।",
+    "ro": "Jhīl hoṭal ke pās hai.",
+    "lit": "lac · hôtel · [de] · près · est"
+   },
+   {
+    "fr": "Le fort est loin de la ville.",
+    "tgt": "किला शहर से दूर है।",
+    "ro": "Kilā shahar se dūr hai.",
+    "lit": "fort · ville · [depuis] · loin · est"
+   },
+   {
+    "fr": "C'est à combien de kilomètres ?",
+    "tgt": "कितने किलोमीटर दूर है?",
+    "ro": "Kitne kilomīṭar dūr hai?",
+    "lit": "combien · kilomètres · loin · est ?"
+   },
+   {
+    "fr": "À environ deux kilomètres.",
+    "tgt": "लगभग दो किलोमीटर।",
+    "ro": "Lagbhag do kilomīṭar.",
+    "lit": "environ · deux · kilomètres"
+   },
+   {
+    "fr": "Il y a un restaurant près d'ici ?",
+    "tgt": "क्या पास में कोई रेस्टोरेंट है?",
+    "ro": "Kyā pās meṃ koī resṭorenṭ hai?",
+    "lit": "[question] · près · [dans] · quelque · restaurant · est ?"
+   },
+   {
+    "fr": "Oui, juste à côté.",
+    "tgt": "हाँ, बिलकुल पास में।",
+    "ro": "Hāṃ, bilkul pās meṃ.",
+    "lit": "oui · tout à fait · près · [dans]"
+   },
+   {
+    "fr": "À pied, c'est trop loin.",
+    "tgt": "पैदल बहुत दूर है।",
+    "ro": "Paidal bahut dūr hai.",
+    "lit": "à pied · très · loin · est"
+   },
+   {
+    "fr": "Alors, prenons un rickshaw.",
+    "tgt": "तो रिक्शा लेते हैं।",
+    "ro": "To rikshā lete haiṃ.",
+    "lit": "alors · rickshaw · prendre · sommes"
+   }
+  ]
+ },
+ "0-1-18": {
+  "module": "En voyage",
+  "title": "Petits imprévus",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Mon téléphone a disparu.",
+    "tgt": "मेरा फ़ोन खो गया।",
+    "ro": "Merā fon kho gayā.",
+    "lit": "mon · téléphone · perdre · allé"
+   },
+   {
+    "fr": "Il était dans ma poche.",
+    "tgt": "वह मेरी जेब में था।",
+    "ro": "Vah merī jeb meṃ thā.",
+    "lit": "il · ma · poche · [dans] · était"
+   },
+   {
+    "fr": "Où est le commissariat ?",
+    "tgt": "पुलिस स्टेशन कहाँ है?",
+    "ro": "Pulis sṭeshan kahāṃ hai?",
+    "lit": "police · poste · où · est ?"
+   },
+   {
+    "fr": "Ne paniquez pas, monsieur.",
+    "tgt": "घबराइए मत, साहब।",
+    "ro": "Ghabrāie mat, sāhab.",
+    "lit": "paniquez · ne pas · monsieur"
+   },
+   {
+    "fr": "Appelez votre propre numéro.",
+    "tgt": "अपने नंबर पर फ़ोन कीजिए।",
+    "ro": "Apne nambar par fon kījie.",
+    "lit": "votre · numéro · [sur] · téléphone · faites"
+   },
+   {
+    "fr": "Le voilà, sous la table !",
+    "tgt": "यह रहा, मेज़ के नीचे!",
+    "ro": "Yah rahā, mez ke nīche!",
+    "lit": "ceci · voilà · table · [de] · dessous !"
+   },
+   {
+    "fr": "Ouf, quelle chance !",
+    "tgt": "वाह, क्या किस्मत है!",
+    "ro": "Vāh, kyā kismat hai!",
+    "lit": "ah · quelle · chance · est !"
+   },
+   {
+    "fr": "Le chauffeur est parti avec mon sac.",
+    "tgt": "ड्राइवर मेरा बैग लेकर चला गया।",
+    "ro": "Ḍrāivar merā baig lekar chalā gayā.",
+    "lit": "chauffeur · mon · sac · ayant pris · partir · allé"
+   },
+   {
+    "fr": "Vous avez son numéro ?",
+    "tgt": "क्या आपके पास उसका नंबर है?",
+    "ro": "Kyā āpke pās uskā nambar hai?",
+    "lit": "[question] · vous · [chez] · son · numéro · est ?"
+   },
+   {
+    "fr": "Il revient dans dix minutes.",
+    "tgt": "वह दस मिनट में वापस आ रहा है।",
+    "ro": "Vah das minaṭ meṃ vāpas ā rahā hai.",
+    "lit": "il · dix · minutes · [dans] · retour · venir · [en cours] · est"
+   }
+  ]
+ },
+ "0-1-19": {
+  "module": "En voyage",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "Le futur : « jāūṃgā, jāūṃgī »",
+  "phrases": [
+   {
+    "fr": "Ce voyage en hindi était formidable.",
+    "tgt": "हिंदी का यह सफ़र बहुत अच्छा था।",
+    "ro": "Hindī kā yah safar bahut achchhā thā.",
+    "lit": "hindi · [de] · ce · voyage · très · bon · était"
+   },
+   {
+    "fr": "Nous sommes allés à Agra et à Jodhpur.",
+    "tgt": "हम आगरा और जोधपुर गये।",
+    "ro": "Ham Āgrā aur Jodhpur gaye.",
+    "lit": "nous · Agra · et · Jodhpur · allés"
+   },
+   {
+    "fr": "Maintenant, je parle un peu hindi.",
+    "tgt": "अब मैं थोड़ी हिंदी बोलता हूँ।",
+    "ro": "Ab maiṃ thoṛī hindī boltā hūṃ.",
+    "lit": "maintenant · je · un peu · hindi · parler · suis"
+   },
+   {
+    "fr": "Un jour, j'irai à Udaipur.",
+    "tgt": "एक दिन मैं उदयपुर जाऊँगा।",
+    "ro": "Ek din maiṃ Udaypur jāūṃgā.",
+    "lit": "un · jour · je · Udaipur · irai"
+   },
+   {
+    "fr": "Je suis ravie, j'irai à Jaipur !",
+    "tgt": "मैं बहुत खुश हूँ, जयपुर जाऊँगी!",
+    "ro": "Maiṃ bahut khush hūṃ, Jaypur jāūṃgī!",
+    "lit": "je · très · contente · suis · Jaipur · irai !"
+   },
+   {
+    "fr": "Ma fille ira au Taj Mahal.",
+    "tgt": "मेरी बेटी ताजमहल जाएगी।",
+    "ro": "Merī beṭī Tājmahal jāegī.",
+    "lit": "ma · fille · Taj Mahal · ira"
+   },
+   {
+    "fr": "Ensuite, nous parlerons avec les gens.",
+    "tgt": "फिर हम लोगों से बात करेंगे।",
+    "ro": "Phir ham logoṃ se bāt kareṃge.",
+    "lit": "ensuite · nous · gens · [avec] · parole · ferons"
+   },
+   {
+    "fr": "Nous irons plus loin ensemble.",
+    "tgt": "हम साथ में आगे जाएँगे।",
+    "ro": "Ham sāth meṃ āge jāeṃge.",
+    "lit": "nous · ensemble · [dans] · en avant · irons"
+   },
+   {
+    "fr": "Bravo pour tous vos efforts !",
+    "tgt": "आपकी मेहनत के लिए शाबाश!",
+    "ro": "Āpkī mehnat ke lie shābāsh!",
+    "lit": "votre · effort · [de] · [pour] · bravo !"
+   },
+   {
+    "fr": "On se retrouve très vite !",
+    "tgt": "फिर मिलेंगे!",
+    "ro": "Phir mileṃge!",
+    "lit": "encore · nous rencontrerons !"
+   }
+  ]
+ },
+ "0-2-0": {
+  "module": "Conversation sociale",
+  "title": "Rencontre sur la plage de Juhu",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Bonjour, cette plage est vraiment belle.",
+    "tgt": "नमस्ते, यह बीच बहुत सुंदर है।",
+    "ro": "Namaste, yah bīch bahut sundar hai.",
+    "lit": "bonjour · cette · plage · très · belle · est"
+   },
+   {
+    "fr": "Tu viens souvent à Juhu ?",
+    "tgt": "तुम अक्सर जुहू आते हो?",
+    "ro": "Tum aksar Juhū āte ho?",
+    "lit": "tu · souvent · Juhu · viens ?"
+   },
+   {
+    "fr": "Oui, tous les dimanches soir.",
+    "tgt": "हाँ, हर रविवार शाम को।",
+    "ro": "Hāṃ, har ravivār shām ko.",
+    "lit": "oui · chaque · dimanche · soir · [à]"
+   },
+   {
+    "fr": "Moi, je suis nouveau dans le coin.",
+    "tgt": "मैं यहाँ नया हूँ।",
+    "ro": "Maiṃ yahāṃ nayā hūṃ.",
+    "lit": "je · ici · nouveau · suis"
+   },
+   {
+    "fr": "Tu viens de France, toi ?",
+    "tgt": "तुम फ़्रांस से हो?",
+    "ro": "Tum Frāns se ho?",
+    "lit": "tu · France · [depuis] · es ?"
+   },
+   {
+    "fr": "Oui, je suis de Paris.",
+    "tgt": "हाँ, मैं पेरिस से हूँ।",
+    "ro": "Hāṃ, maiṃ Peris se hūṃ.",
+    "lit": "oui · je · Paris · [depuis] · suis"
+   },
+   {
+    "fr": "La mer est calme ce soir.",
+    "tgt": "आज शाम समुद्र शांत है।",
+    "ro": "Āj shām samudra shānt hai.",
+    "lit": "aujourd'hui · soir · mer · calme · est"
+   },
+   {
+    "fr": "Il y a beaucoup de monde sur la plage.",
+    "tgt": "बीच पर बहुत लोग हैं।",
+    "ro": "Bīch par bahut log haiṃ.",
+    "lit": "plage · [sur] · beaucoup · gens · sont"
+   },
+   {
+    "fr": "Tu habites près de la plage ?",
+    "tgt": "तुम बीच के पास रहते हो?",
+    "ro": "Tum bīch ke pās rahte ho?",
+    "lit": "tu · plage · [de] · près · habites ?"
+   },
+   {
+    "fr": "Oui, ma maison est tout près d'ici.",
+    "tgt": "हाँ, मेरा घर बहुत पास है।",
+    "ro": "Hāṃ, merā ghar bahut pās hai.",
+    "lit": "oui · ma · maison · très · près · est"
+   }
+  ]
+ },
+ "0-2-1": {
+  "module": "Conversation sociale",
+  "title": "Se présenter",
+  "grammaire_de_la_lecon": "Se présenter : « merā nām... hai »",
+  "phrases": [
+   {
+    "fr": "C'est quoi, ton prénom ?",
+    "tgt": "तुम्हारा नाम क्या है?",
+    "ro": "Tumhārā nām kyā hai?",
+    "lit": "ton · nom · quoi · est ?"
+   },
+   {
+    "fr": "Moi, je m'appelle Lucas.",
+    "tgt": "मेरा नाम लुकास है।",
+    "ro": "Merā nām Lukās hai.",
+    "lit": "mon · nom · Lucas · est"
+   },
+   {
+    "fr": "Et ton nom à toi ?",
+    "tgt": "और तुम्हारा नाम?",
+    "ro": "Aur tumhārā nām?",
+    "lit": "et · ton · nom ?"
+   },
+   {
+    "fr": "Moi, c'est Priya.",
+    "tgt": "मेरा नाम प्रिया है।",
+    "ro": "Merā nām Priyā hai.",
+    "lit": "mon · nom · Priya · est"
+   },
+   {
+    "fr": "Enchanté de te rencontrer, Priya.",
+    "tgt": "तुमसे मिलकर ख़ुशी हुई, प्रिया।",
+    "ro": "Tumse milkar khushī huī, Priyā.",
+    "lit": "toi-[depuis] · ayant rencontré · joie · est venue · Priya"
+   },
+   {
+    "fr": "Mon ami s'appelle Rahul.",
+    "tgt": "मेरे दोस्त का नाम राहुल है।",
+    "ro": "Mere dost kā nām Rāhul hai.",
+    "lit": "mon · ami · [de] · nom · Rahul · est"
+   },
+   {
+    "fr": "Ma sœur s'appelle Neha.",
+    "tgt": "मेरी बहन का नाम नेहा है।",
+    "ro": "Merī bahan kā nām Nehā hai.",
+    "lit": "ma · sœur · [de] · nom · Neha · est"
+   },
+   {
+    "fr": "Comment s'appelle ton ami ?",
+    "tgt": "तुम्हारे दोस्त का नाम क्या है?",
+    "ro": "Tumhāre dost kā nām kyā hai?",
+    "lit": "ton · ami · [de] · nom · quoi · est ?"
+   },
+   {
+    "fr": "Moi, je suis français, et toi ?",
+    "tgt": "मैं फ़्रांसीसी हूँ, और तुम?",
+    "ro": "Maiṃ frānsīsī hūṃ, aur tum?",
+    "lit": "je · français · suis · et · toi ?"
+   },
+   {
+    "fr": "Moi, je suis d'ici, de Mumbai.",
+    "tgt": "मैं मुंबई से हूँ।",
+    "ro": "Maiṃ Mumbaī se hūṃ.",
+    "lit": "je · Mumbai · [depuis] · suis"
+   }
+  ]
+ },
+ "0-2-2": {
+  "module": "Conversation sociale",
+  "title": "D'où viens-tu ?",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Tu es d'où, toi ?",
+    "tgt": "तुम कहाँ से हो?",
+    "ro": "Tum kahāṃ se ho?",
+    "lit": "tu · où · [depuis] · es ?"
+   },
+   {
+    "fr": "Je suis du sud de la France.",
+    "tgt": "मैं फ़्रांस के दक्षिण से हूँ।",
+    "ro": "Maiṃ Frāns ke dakshiṇ se hūṃ.",
+    "lit": "je · France · [de] · sud · [depuis] · suis"
+   },
+   {
+    "fr": "Ma ville natale est toute petite.",
+    "tgt": "मेरा शहर छोटा है।",
+    "ro": "Merā shahar chhoṭā hai.",
+    "lit": "ma · ville · petite · est"
+   },
+   {
+    "fr": "Mumbai est une ville immense.",
+    "tgt": "मुंबई बहुत बड़ा शहर है।",
+    "ro": "Mumbaī bahut baṛā shahar hai.",
+    "lit": "Mumbai · très · grande · ville · est"
+   },
+   {
+    "fr": "Tu habites où à Mumbai ?",
+    "tgt": "तुम मुंबई में कहाँ रहते हो?",
+    "ro": "Tum Mumbaī meṃ kahāṃ rahte ho?",
+    "lit": "tu · Mumbai · [dans] · où · habites ?"
+   },
+   {
+    "fr": "J'habite à Bandra.",
+    "tgt": "मैं बांद्रा में रहता हूँ।",
+    "ro": "Maiṃ Bāndrā meṃ rahtā hūṃ.",
+    "lit": "je · Bandra · [dans] · habite"
+   },
+   {
+    "fr": "C'est loin de Juhu ?",
+    "tgt": "क्या वह जुहू से दूर है?",
+    "ro": "Kyā vah Juhū se dūr hai?",
+    "lit": "[question] · ça · Juhu · [depuis] · loin · est ?"
+   },
+   {
+    "fr": "Non, pas tellement loin.",
+    "tgt": "नहीं, ज़्यादा दूर नहीं है।",
+    "ro": "Nahīṃ, zyādā dūr nahīṃ hai.",
+    "lit": "non · trop · loin · pas · est"
+   },
+   {
+    "fr": "Depuis quand es-tu à Mumbai ?",
+    "tgt": "तुम कब से मुंबई में हो?",
+    "ro": "Tum kab se Mumbaī meṃ ho?",
+    "lit": "tu · quand · [depuis] · Mumbai · [dans] · es ?"
+   },
+   {
+    "fr": "Depuis deux mois seulement.",
+    "tgt": "सिर्फ़ दो महीने से।",
+    "ro": "Sirf do mahīne se.",
+    "lit": "seulement · deux · mois · [depuis]"
+   }
+  ]
+ },
+ "0-2-3": {
+  "module": "Conversation sociale",
+  "title": "Ce qu'on aime",
+  "grammaire_de_la_lecon": "« Pasand hai » : aimer, littéralement c'est agréable pour moi",
+  "phrases": [
+   {
+    "fr": "J'aime le vada pav.",
+    "tgt": "मुझे वड़ा पाव पसंद है।",
+    "ro": "Mujhe vaṛā pāv pasand hai.",
+    "lit": "moi-[à] · vada pav · agréable · est"
+   },
+   {
+    "fr": "Tu aimes le cricket ?",
+    "tgt": "क्या तुम्हें क्रिकेट पसंद है?",
+    "ro": "Kyā tumheṃ krikeṭ pasand hai?",
+    "lit": "[question] · toi-[à] · cricket · agréable · est ?"
+   },
+   {
+    "fr": "Oui, j'adore le cricket.",
+    "tgt": "हाँ, मुझे क्रिकेट बहुत पसंद है।",
+    "ro": "Hāṃ, mujhe krikeṭ bahut pasand hai.",
+    "lit": "oui · moi-[à] · cricket · très · agréable · est"
+   },
+   {
+    "fr": "Je n'aime pas le froid.",
+    "tgt": "मुझे सर्दी पसंद नहीं है।",
+    "ro": "Mujhe sardī pasand nahīṃ hai.",
+    "lit": "moi-[à] · froid · agréable · pas · est"
+   },
+   {
+    "fr": "Ma sœur aime les films de Bollywood.",
+    "tgt": "मेरी बहन को बॉलीवुड फ़िल्में पसंद हैं।",
+    "ro": "Merī bahan ko Bolīvuḍ filmeṃ pasand haiṃ.",
+    "lit": "ma · sœur · [à] · Bollywood · films · agréables · sont"
+   },
+   {
+    "fr": "Qu'est-ce que tu aimes manger ?",
+    "tgt": "तुम्हें क्या खाना पसंद है?",
+    "ro": "Tumheṃ kyā khānā pasand hai?",
+    "lit": "toi-[à] · quoi · manger · agréable · est ?"
+   },
+   {
+    "fr": "J'aime la cuisine bien épicée.",
+    "tgt": "मुझे तीखा खाना पसंद है।",
+    "ro": "Mujhe tīkhā khānā pasand hai.",
+    "lit": "moi-[à] · épicée · nourriture · agréable · est"
+   },
+   {
+    "fr": "Mumbai me plaît beaucoup.",
+    "tgt": "मुझे मुंबई बहुत पसंद है।",
+    "ro": "Mujhe Mumbaī bahut pasand hai.",
+    "lit": "moi-[à] · Mumbai · très · agréable · est"
+   },
+   {
+    "fr": "Nous aimons la mer.",
+    "tgt": "हमें समुद्र पसंद है।",
+    "ro": "Hameṃ samudra pasand hai.",
+    "lit": "nous-[à] · mer · agréable · est"
+   },
+   {
+    "fr": "Tu aimes la pluie de Mumbai ?",
+    "tgt": "क्या तुम्हें मुंबई की बारिश पसंद है?",
+    "ro": "Kyā tumheṃ Mumbaī kī bārish pasand hai?",
+    "lit": "[question] · toi-[à] · Mumbai · [de] · pluie · agréable · est ?"
+   }
+  ]
+ },
+ "0-2-4": {
+  "module": "Conversation sociale",
+  "title": "Un vada pav au bord de la mer",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "J'ai faim, et toi ?",
+    "tgt": "मुझे भूख लगी है, और तुम्हें?",
+    "ro": "Mujhe bhūkh lagī hai, aur tumheṃ?",
+    "lit": "moi-[à] · faim · attachée · est · et · toi-[à] ?"
+   },
+   {
+    "fr": "Il y a un stand de vada pav là-bas.",
+    "tgt": "वहाँ वड़ा पाव का ठेला है।",
+    "ro": "Vahāṃ vaṛā pāv kā ṭhelā hai.",
+    "lit": "là-bas · vada pav · [de] · charrette · est"
+   },
+   {
+    "fr": "Deux vada pav, s'il vous plaît.",
+    "tgt": "दो वड़ा पाव दीजिए।",
+    "ro": "Do vaṛā pāv dījie.",
+    "lit": "deux · vada pav · donnez"
+   },
+   {
+    "fr": "C'est combien, le vada pav ?",
+    "tgt": "वड़ा पाव कितने का है?",
+    "ro": "Vaṛā pāv kitne kā hai?",
+    "lit": "vada pav · combien · [de] · est ?"
+   },
+   {
+    "fr": "Vingt roupies l'un.",
+    "tgt": "बीस रुपये का एक।",
+    "ro": "Bīs rupaye kā ek.",
+    "lit": "vingt · roupies · [de] · un"
+   },
+   {
+    "fr": "Ouh, c'est très épicé.",
+    "tgt": "यह बहुत तीखा है।",
+    "ro": "Yah bahut tīkhā hai.",
+    "lit": "ceci · très · épicé · est"
+   },
+   {
+    "fr": "Tu veux un peu d'eau ?",
+    "tgt": "तुम्हें पानी चाहिए?",
+    "ro": "Tumheṃ pānī chāhie?",
+    "lit": "toi-[à] · eau · faut ?"
+   },
+   {
+    "fr": "Non, ça va, c'est délicieux.",
+    "tgt": "नहीं, ठीक है, बहुत स्वादिष्ट है।",
+    "ro": "Nahīṃ, ṭhīk hai, bahut svādishṭ hai.",
+    "lit": "non · bien · est · très · délicieux · est"
+   },
+   {
+    "fr": "Le vada pav, c'est le burger de Mumbai.",
+    "tgt": "वड़ा पाव मुंबई का बर्गर है।",
+    "ro": "Vaṛā pāv Mumbaī kā bargar hai.",
+    "lit": "vada pav · Mumbai · [de] · burger · est"
+   },
+   {
+    "fr": "On en reprend un chacun ?",
+    "tgt": "एक और लें?",
+    "ro": "Ek aur leṃ?",
+    "lit": "un · encore · prenons ?"
+   }
+  ]
+ },
+ "0-2-5": {
+  "module": "Conversation sociale",
+  "title": "Parler de sa famille",
+  "grammaire_de_la_lecon": "La famille : « mātā-pitā, bhāī, bahan »",
+  "phrases": [
+   {
+    "fr": "Tu as des frères ou des sœurs ?",
+    "tgt": "तुम्हारे भाई-बहन हैं?",
+    "ro": "Tumhāre bhāī-bahan haiṃ?",
+    "lit": "tes · frères-sœurs · sont ?"
+   },
+   {
+    "fr": "J'ai un grand frère.",
+    "tgt": "मेरा एक बड़ा भाई है।",
+    "ro": "Merā ek baṛā bhāī hai.",
+    "lit": "mon · un · grand · frère · est"
+   },
+   {
+    "fr": "Ma petite sœur est étudiante.",
+    "tgt": "मेरी छोटी बहन छात्रा है।",
+    "ro": "Merī chhoṭī bahan chhātrā hai.",
+    "lit": "ma · petite · sœur · étudiante · est"
+   },
+   {
+    "fr": "Mes parents habitent en France.",
+    "tgt": "मेरे माता-पिता फ़्रांस में रहते हैं।",
+    "ro": "Mere mātā-pitā Frāns meṃ rahte haiṃ.",
+    "lit": "mes · mère-père · France · [dans] · habitent"
+   },
+   {
+    "fr": "Mon père est professeur.",
+    "tgt": "मेरे पिता टीचर हैं।",
+    "ro": "Mere pitā ṭīchar haiṃ.",
+    "lit": "mon · père · professeur · sont"
+   },
+   {
+    "fr": "Ma mère travaille dans un hôpital.",
+    "tgt": "मेरी माँ अस्पताल में काम करती हैं।",
+    "ro": "Merī māṃ aspatāl meṃ kām kartī haiṃ.",
+    "lit": "ma · maman · hôpital · [dans] · travail · faisant · sont"
+   },
+   {
+    "fr": "Ton frère vit à Mumbai ?",
+    "tgt": "क्या तुम्हारा भाई मुंबई में रहता है?",
+    "ro": "Kyā tumhārā bhāī Mumbaī meṃ rahtā hai?",
+    "lit": "[question] · ton · frère · Mumbai · [dans] · habite ?"
+   },
+   {
+    "fr": "Non, il habite à Pune.",
+    "tgt": "नहीं, वह पुणे में रहता है।",
+    "ro": "Nahīṃ, vah Puṇe meṃ rahtā hai.",
+    "lit": "non · il · Pune · [dans] · habite"
+   },
+   {
+    "fr": "Ma sœur a deux enfants.",
+    "tgt": "मेरी बहन के दो बच्चे हैं।",
+    "ro": "Merī bahan ke do bachche haiṃ.",
+    "lit": "ma · sœur · [de] · deux · enfants · sont"
+   },
+   {
+    "fr": "Ma famille me manque.",
+    "tgt": "मुझे अपने परिवार की याद आती है।",
+    "ro": "Mujhe apne parivār kī yād ātī hai.",
+    "lit": "moi-[à] · ma propre · famille · [de] · souvenir · vient"
+   }
+  ]
+ },
+ "0-2-6": {
+  "module": "Conversation sociale",
+  "title": "Parler de son travail",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Qu'est-ce que tu fais comme boulot ?",
+    "tgt": "तुम क्या काम करते हो?",
+    "ro": "Tum kyā kām karte ho?",
+    "lit": "tu · quel · travail · fais ?"
+   },
+   {
+    "fr": "Je suis ingénieur.",
+    "tgt": "मैं इंजीनियर हूँ।",
+    "ro": "Maiṃ injīniyar hūṃ.",
+    "lit": "je · ingénieur · suis"
+   },
+   {
+    "fr": "Je travaille pour une société française.",
+    "tgt": "मैं एक फ़्रांसीसी कंपनी में काम करता हूँ।",
+    "ro": "Maiṃ ek frānsīsī kampanī meṃ kām kartā hūṃ.",
+    "lit": "je · une · française · société · [dans] · travail · fais"
+   },
+   {
+    "fr": "Mon bureau est à Andheri.",
+    "tgt": "मेरा दफ़्तर अंधेरी में है।",
+    "ro": "Merā daftar Andherī meṃ hai.",
+    "lit": "mon · bureau · Andheri · [dans] · est"
+   },
+   {
+    "fr": "Tu travailles le samedi ?",
+    "tgt": "क्या तुम शनिवार को काम करते हो?",
+    "ro": "Kyā tum shanivār ko kām karte ho?",
+    "lit": "[question] · tu · samedi · [à] · travail · fais ?"
+   },
+   {
+    "fr": "Non, seulement du lundi au vendredi.",
+    "tgt": "नहीं, सिर्फ़ सोमवार से शुक्रवार तक।",
+    "ro": "Nahīṃ, sirf somvār se shukravār tak.",
+    "lit": "non · seulement · lundi · [depuis] · vendredi · jusqu'à"
+   },
+   {
+    "fr": "Je commence à neuf heures.",
+    "tgt": "मैं नौ बजे शुरू करता हूँ।",
+    "ro": "Maiṃ nau baje shurū kartā hūṃ.",
+    "lit": "je · neuf · heures · début · fais"
+   },
+   {
+    "fr": "Mon travail est intéressant.",
+    "tgt": "मेरा काम दिलचस्प है।",
+    "ro": "Merā kām dilchasp hai.",
+    "lit": "mon · travail · intéressant · est"
+   },
+   {
+    "fr": "Et toi, tu es encore étudiante ?",
+    "tgt": "और तुम, क्या तुम छात्रा हो?",
+    "ro": "Aur tum, kyā tum chhātrā ho?",
+    "lit": "et · toi · [question] · tu · étudiante · es ?"
+   },
+   {
+    "fr": "Non, je suis médecin.",
+    "tgt": "नहीं, मैं डॉक्टर हूँ।",
+    "ro": "Nahīṃ, maiṃ ḍokṭar hūṃ.",
+    "lit": "non · je · médecin · suis"
+   }
+  ]
+ },
+ "0-2-7": {
+  "module": "Conversation sociale",
+  "title": "Au téléphone avec un ami",
+  "grammaire_de_la_lecon": "« Rahā hai » : être en train de",
+  "phrases": [
+   {
+    "fr": "Allô Rahul, tu fais quoi ?",
+    "tgt": "हैलो राहुल, क्या कर रहे हो?",
+    "ro": "Hailo Rāhul, kyā kar rahe ho?",
+    "lit": "allô · Rahul · quoi · faire · en train · es ?"
+   },
+   {
+    "fr": "Je suis en train de manger.",
+    "tgt": "मैं खाना खा रहा हूँ।",
+    "ro": "Maiṃ khānā khā rahā hūṃ.",
+    "lit": "je · repas · manger · en train · suis"
+   },
+   {
+    "fr": "Tu regardes le match ?",
+    "tgt": "क्या तुम मैच देख रहे हो?",
+    "ro": "Kyā tum maich dekh rahe ho?",
+    "lit": "[question] · tu · match · regarder · en train · es ?"
+   },
+   {
+    "fr": "Oui, l'Inde est en train de gagner.",
+    "tgt": "हाँ, भारत जीत रहा है।",
+    "ro": "Hāṃ, Bhārat jīt rahā hai.",
+    "lit": "oui · Inde · gagner · en train · est"
+   },
+   {
+    "fr": "Tu vas où, là, maintenant ?",
+    "tgt": "तुम अभी कहाँ जा रहे हो?",
+    "ro": "Tum abhī kahāṃ jā rahe ho?",
+    "lit": "tu · maintenant · où · aller · en train · es ?"
+   },
+   {
+    "fr": "Je suis en route pour la plage.",
+    "tgt": "मैं बीच जा रहा हूँ।",
+    "ro": "Maiṃ bīch jā rahā hūṃ.",
+    "lit": "je · plage · aller · en train · suis"
+   },
+   {
+    "fr": "Priya est en chemin, elle aussi.",
+    "tgt": "प्रिया भी आ रही है।",
+    "ro": "Priyā bhī ā rahī hai.",
+    "lit": "Priya · aussi · venir · en train · est"
+   },
+   {
+    "fr": "Il pleut fort ici en ce moment.",
+    "tgt": "यहाँ बहुत बारिश हो रही है।",
+    "ro": "Yahāṃ bahut bārish ho rahī hai.",
+    "lit": "ici · beaucoup · pluie · se faire · en train · est"
+   },
+   {
+    "fr": "J'attends à la gare.",
+    "tgt": "मैं स्टेशन पर इंतज़ार कर रहा हूँ।",
+    "ro": "Maiṃ sṭeshan par intazār kar rahā hūṃ.",
+    "lit": "je · gare · [sur] · attente · faire · en train · suis"
+   },
+   {
+    "fr": "D'accord, j'arrive tout de suite.",
+    "tgt": "ठीक है, मैं आ रहा हूँ।",
+    "ro": "Ṭhīk hai, maiṃ ā rahā hūṃ.",
+    "lit": "bien · est · je · venir · en train · suis"
+   }
+  ]
+ },
+ "0-2-8": {
+  "module": "Conversation sociale",
+  "title": "Les collègues au bureau",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Je te présente mon collègue Vikram.",
+    "tgt": "यह मेरे सहकर्मी विक्रम हैं।",
+    "ro": "Yah mere sahkarmī Vikram haiṃ.",
+    "lit": "ceci · mon · collègue · Vikram · sont"
+   },
+   {
+    "fr": "Il est très gentil.",
+    "tgt": "वह बहुत अच्छे हैं।",
+    "ro": "Vah bahut achchhe haiṃ.",
+    "lit": "il · très · bons · sont"
+   },
+   {
+    "fr": "On déjeune ensemble tous les jours.",
+    "tgt": "हम रोज़ साथ में खाना खाते हैं।",
+    "ro": "Ham roz sāth meṃ khānā khāte haiṃ.",
+    "lit": "nous · chaque jour · ensemble · [dans] · repas · mangeons"
+   },
+   {
+    "fr": "Notre chef est assez strict.",
+    "tgt": "हमारे बॉस काफ़ी सख़्त हैं।",
+    "ro": "Hamāre bos kāfī sakht haiṃ.",
+    "lit": "notre · chef · assez · strict · sont"
+   },
+   {
+    "fr": "Le bureau est à côté de la gare.",
+    "tgt": "दफ़्तर स्टेशन के पास है।",
+    "ro": "Daftar sṭeshan ke pās hai.",
+    "lit": "bureau · gare · [de] · près · est"
+   },
+   {
+    "fr": "Tu viens au bureau en train ?",
+    "tgt": "तुम ट्रेन से आते हो?",
+    "ro": "Tum ṭren se āte ho?",
+    "lit": "tu · train · [depuis] · viens ?"
+   },
+   {
+    "fr": "Oui, en train de banlieue.",
+    "tgt": "हाँ, लोकल ट्रेन से।",
+    "ro": "Hāṃ, lokal ṭren se.",
+    "lit": "oui · local · train · [depuis]"
+   },
+   {
+    "fr": "Le train est toujours bondé.",
+    "tgt": "ट्रेन हमेशा भरी रहती है।",
+    "ro": "Ṭren hameshā bharī rahtī hai.",
+    "lit": "train · toujours · pleine · reste"
+   },
+   {
+    "fr": "Anjali est nouvelle dans l'équipe.",
+    "tgt": "अंजलि टीम में नई है।",
+    "ro": "Anjali ṭīm meṃ naī hai.",
+    "lit": "Anjali · équipe · [dans] · nouvelle · est"
+   },
+   {
+    "fr": "On prend un thé à quatre heures ?",
+    "tgt": "चार बजे चाय पिएँ?",
+    "ro": "Chār baje chāy pieṃ?",
+    "lit": "quatre · heures · thé · buvons ?"
+   }
+  ]
+ },
+ "0-2-9": {
+  "module": "Conversation sociale",
+  "title": "Comparer les choses",
+  "grammaire_de_la_lecon": "Comparer avec « se zyādā »",
+  "phrases": [
+   {
+    "fr": "Mumbai est une plus grande ville que Pune.",
+    "tgt": "मुंबई पुणे से बड़ा शहर है।",
+    "ro": "Mumbaī Puṇe se baṛā shahar hai.",
+    "lit": "Mumbai · Pune · [depuis] · grande · ville · est"
+   },
+   {
+    "fr": "Mon frère est plus grand que moi.",
+    "tgt": "मेरा भाई मुझसे लंबा है।",
+    "ro": "Merā bhāī mujhse lambā hai.",
+    "lit": "mon · frère · moi-[depuis] · grand · est"
+   },
+   {
+    "fr": "J'aime la mer plus que la montagne.",
+    "tgt": "मुझे पहाड़ों से ज़्यादा समुद्र पसंद है।",
+    "ro": "Mujhe pahāṛoṃ se zyādā samudra pasand hai.",
+    "lit": "moi-[à] · montagnes · [depuis] · plus · mer · agréable · est"
+   },
+   {
+    "fr": "Le vada pav est plus épicé que le pav bhaji.",
+    "tgt": "वड़ा पाव पाव भाजी से ज़्यादा तीखा है।",
+    "ro": "Vaṛā pāv pāv bhājī se zyādā tīkhā hai.",
+    "lit": "vada pav · pav bhaji · [depuis] · plus · épicé · est"
+   },
+   {
+    "fr": "Il fait plus chaud qu'hier.",
+    "tgt": "आज कल से ज़्यादा गर्मी है।",
+    "ro": "Āj kal se zyādā garmī hai.",
+    "lit": "aujourd'hui · hier · [depuis] · plus · chaleur · est"
+   },
+   {
+    "fr": "Le train va plus vite que le bus.",
+    "tgt": "ट्रेन बस से तेज़ है।",
+    "ro": "Ṭren bas se tez hai.",
+    "lit": "train · bus · [depuis] · rapide · est"
+   },
+   {
+    "fr": "Priya parle plus vite que moi.",
+    "tgt": "प्रिया मुझसे ज़्यादा तेज़ बोलती है।",
+    "ro": "Priyā mujhse zyādā tez boltī hai.",
+    "lit": "Priya · moi-[depuis] · plus · vite · parle"
+   },
+   {
+    "fr": "Qui est l'aîné, toi ou ton frère ?",
+    "tgt": "कौन बड़ा है, तुम या तुम्हारा भाई?",
+    "ro": "Kaun baṛā hai, tum yā tumhārā bhāī?",
+    "lit": "qui · grand · est · toi · ou · ton · frère ?"
+   },
+   {
+    "fr": "Juhu est plus calme que Colaba.",
+    "tgt": "जुहू कोलाबा से ज़्यादा शांत है।",
+    "ro": "Juhū Kolābā se zyādā shānt hai.",
+    "lit": "Juhu · Colaba · [depuis] · plus · calme · est"
+   },
+   {
+    "fr": "Ce film est meilleur que l'autre.",
+    "tgt": "यह फ़िल्म दूसरी वाली से बेहतर है।",
+    "ro": "Yah film dūsrī vālī se behtar hai.",
+    "lit": "ce · film · autre · celui · [depuis] · meilleur · est"
+   }
+  ]
+ },
+ "0-2-10": {
+  "module": "Conversation sociale",
+  "title": "Un film de Bollywood",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "On va au cinéma ce soir ?",
+    "tgt": "आज रात सिनेमा चलें?",
+    "ro": "Āj rāt sinemā chaleṃ?",
+    "lit": "aujourd'hui · nuit · cinéma · allons ?"
+   },
+   {
+    "fr": "Il y a un nouveau film de Bollywood.",
+    "tgt": "एक नई बॉलीवुड फ़िल्म आई है।",
+    "ro": "Ek naī Bolīvuḍ film āī hai.",
+    "lit": "un · nouveau · Bollywood · film · venu · est"
+   },
+   {
+    "fr": "C'est une histoire d'amour ?",
+    "tgt": "क्या यह प्यार की कहानी है?",
+    "ro": "Kyā yah pyār kī kahānī hai?",
+    "lit": "[question] · ceci · amour · [de] · histoire · est ?"
+   },
+   {
+    "fr": "Oui, avec plein de chansons.",
+    "tgt": "हाँ, बहुत सारे गानों के साथ।",
+    "ro": "Hāṃ, bahut sāre gānoṃ ke sāth.",
+    "lit": "oui · beaucoup · toutes · chansons · [de] · avec"
+   },
+   {
+    "fr": "Le film démarre à neuf heures.",
+    "tgt": "शो नौ बजे शुरू होता है।",
+    "ro": "Sho nau baje shurū hotā hai.",
+    "lit": "séance · neuf · heures · début · se fait"
+   },
+   {
+    "fr": "Je m'occupe des billets.",
+    "tgt": "मैं टिकट लेता हूँ।",
+    "ro": "Maiṃ ṭikaṭ letā hūṃ.",
+    "lit": "je · billets · prends"
+   },
+   {
+    "fr": "Le film dure trois heures.",
+    "tgt": "फ़िल्म तीन घंटे की है।",
+    "ro": "Film tīn ghaṇṭe kī hai.",
+    "lit": "film · trois · heures · [de] · est"
+   },
+   {
+    "fr": "Il y a un entracte au milieu.",
+    "tgt": "बीच में इंटरवल होता है।",
+    "ro": "Bīch meṃ inṭarval hotā hai.",
+    "lit": "milieu · [dans] · entracte · se fait"
+   },
+   {
+    "fr": "Le héros danse vraiment bien.",
+    "tgt": "हीरो बहुत अच्छा नाचता है।",
+    "ro": "Hīro bahut achchhā nāchtā hai.",
+    "lit": "héros · très · bien · danse"
+   },
+   {
+    "fr": "Les chansons sont magnifiques.",
+    "tgt": "गाने बहुत सुंदर हैं।",
+    "ro": "Gāne bahut sundar haiṃ.",
+    "lit": "chansons · très · belles · sont"
+   }
+  ]
+ },
+ "0-2-11": {
+  "module": "Conversation sociale",
+  "title": "Expliquer ses raisons",
+  "grammaire_de_la_lecon": "« Kyoṃki » : parce que",
+  "phrases": [
+   {
+    "fr": "Pourquoi tu es fatigué ?",
+    "tgt": "तुम थके हुए क्यों हो?",
+    "ro": "Tum thake hue kyoṃ ho?",
+    "lit": "tu · fatigué · étant · pourquoi · es ?"
+   },
+   {
+    "fr": "Parce que je travaille beaucoup.",
+    "tgt": "क्योंकि मैं बहुत काम करता हूँ।",
+    "ro": "Kyoṃki maiṃ bahut kām kartā hūṃ.",
+    "lit": "parce que · je · beaucoup · travail · fais"
+   },
+   {
+    "fr": "J'aime Mumbai parce qu'il y a la mer.",
+    "tgt": "मुझे मुंबई पसंद है क्योंकि यहाँ समुद्र है।",
+    "ro": "Mujhe Mumbaī pasand hai kyoṃki yahāṃ samudra hai.",
+    "lit": "moi-[à] · Mumbai · agréable · est · parce que · ici · mer · est"
+   },
+   {
+    "fr": "Je ne viens pas, parce que je suis malade.",
+    "tgt": "मैं नहीं आ रहा, क्योंकि मैं बीमार हूँ।",
+    "ro": "Maiṃ nahīṃ ā rahā, kyoṃki maiṃ bīmār hūṃ.",
+    "lit": "je · pas · venir · en train · parce que · je · malade · suis"
+   },
+   {
+    "fr": "Pourquoi tu apprends le hindi ?",
+    "tgt": "तुम हिंदी क्यों सीखते हो?",
+    "ro": "Tum hindī kyoṃ sīkhte ho?",
+    "lit": "tu · hindi · pourquoi · apprends ?"
+   },
+   {
+    "fr": "Parce que je vis en Inde.",
+    "tgt": "क्योंकि मैं भारत में रहता हूँ।",
+    "ro": "Kyoṃki maiṃ Bhārat meṃ rahtā hūṃ.",
+    "lit": "parce que · je · Inde · [dans] · habite"
+   },
+   {
+    "fr": "Je prends le train, parce que c'est rapide.",
+    "tgt": "मैं ट्रेन लेता हूँ क्योंकि वह तेज़ है।",
+    "ro": "Maiṃ ṭren letā hūṃ kyoṃki vah tez hai.",
+    "lit": "je · train · prends · parce que · il · rapide · est"
+   },
+   {
+    "fr": "Rahul est content parce que l'Inde gagne.",
+    "tgt": "राहुल ख़ुश है क्योंकि भारत जीत रहा है।",
+    "ro": "Rāhul khush hai kyoṃki Bhārat jīt rahā hai.",
+    "lit": "Rahul · content · est · parce que · Inde · gagner · en train · est"
+   },
+   {
+    "fr": "Pourquoi tu ne manges pas ?",
+    "tgt": "तुम क्यों नहीं खा रहे?",
+    "ro": "Tum kyoṃ nahīṃ khā rahe?",
+    "lit": "tu · pourquoi · pas · manger · en train ?"
+   },
+   {
+    "fr": "Parce que je n'ai pas faim.",
+    "tgt": "क्योंकि मुझे भूख नहीं है।",
+    "ro": "Kyoṃki mujhe bhūkh nahīṃ hai.",
+    "lit": "parce que · moi-[à] · faim · pas · est"
+   }
+  ]
+ },
+ "0-2-12": {
+  "module": "Conversation sociale",
+  "title": "Un match de cricket",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Le match commence à deux heures.",
+    "tgt": "मैच दो बजे शुरू होता है।",
+    "ro": "Maich do baje shurū hotā hai.",
+    "lit": "match · deux · heures · début · se fait"
+   },
+   {
+    "fr": "Viens le regarder avec nous.",
+    "tgt": "हमारे साथ देखने आओ।",
+    "ro": "Hamāre sāth dekhne āo.",
+    "lit": "nous · [de] · avec · regarder · viens"
+   },
+   {
+    "fr": "Qui joue aujourd'hui ?",
+    "tgt": "आज कौन खेल रहा है?",
+    "ro": "Āj kaun khel rahā hai?",
+    "lit": "aujourd'hui · qui · jouer · en train · est ?"
+   },
+   {
+    "fr": "Mumbai joue contre Chennai.",
+    "tgt": "मुंबई चेन्नई के ख़िलाफ़ खेल रहा है।",
+    "ro": "Mumbaī Chennaī ke khilāf khel rahā hai.",
+    "lit": "Mumbai · Chennai · [de] · contre · jouer · en train · est"
+   },
+   {
+    "fr": "Quel est le score ?",
+    "tgt": "स्कोर क्या है?",
+    "ro": "Skor kyā hai?",
+    "lit": "score · quoi · est ?"
+   },
+   {
+    "fr": "Cent vingt pour trois guichets.",
+    "tgt": "तीन विकेट पर एक सौ बीस।",
+    "ro": "Tīn vikeṭ par ek sau bīs.",
+    "lit": "trois · guichets · [sur] · un · cent · vingt"
+   },
+   {
+    "fr": "Un six magnifique !",
+    "tgt": "बहुत शानदार छक्का।",
+    "ro": "Bahut shāndār chhakkā.",
+    "lit": "très · magnifique · six"
+   },
+   {
+    "fr": "Mon joueur préféré, c'est le capitaine.",
+    "tgt": "मेरा पसंदीदा खिलाड़ी कप्तान है।",
+    "ro": "Merā pasandīdā khilāṛī kaptān hai.",
+    "lit": "mon · préféré · joueur · capitaine · est"
+   },
+   {
+    "fr": "Tu joues au cricket, toi aussi ?",
+    "tgt": "क्या तुम भी क्रिकेट खेलते हो?",
+    "ro": "Kyā tum bhī krikeṭ khelte ho?",
+    "lit": "[question] · tu · aussi · cricket · joues ?"
+   },
+   {
+    "fr": "Oui, le dimanche sur la plage.",
+    "tgt": "हाँ, रविवार को बीच पर।",
+    "ro": "Hāṃ, ravivār ko bīch par.",
+    "lit": "oui · dimanche · [à] · plage · [sur]"
+   }
+  ]
+ },
+ "0-2-13": {
+  "module": "Conversation sociale",
+  "title": "Chez les parents d'un ami",
+  "grammaire_de_la_lecon": "« -jī » : le petit mot de respect",
+  "phrases": [
+   {
+    "fr": "Bonjour, madame.",
+    "tgt": "नमस्ते आंटी जी।",
+    "ro": "Namaste ānṭī jī.",
+    "lit": "bonjour · tante · [respect]"
+   },
+   {
+    "fr": "Voici le père de Rahul.",
+    "tgt": "ये राहुल के पिता जी हैं।",
+    "ro": "Ye Rāhul ke pitā jī haiṃ.",
+    "lit": "ceux-ci · Rahul · [de] · père · [respect] · sont"
+   },
+   {
+    "fr": "Comment allez-vous, monsieur ?",
+    "tgt": "आप कैसे हैं, अंकल जी?",
+    "ro": "Āp kaise haiṃ, ankal jī?",
+    "lit": "vous · comment · êtes · oncle · [respect] ?"
+   },
+   {
+    "fr": "Je vais très bien, merci.",
+    "tgt": "मैं बिल्कुल ठीक हूँ, शुक्रिया।",
+    "ro": "Maiṃ bilkul ṭhīk hūṃ, shukriyā.",
+    "lit": "je · tout à fait · bien · suis · merci"
+   },
+   {
+    "fr": "Monsieur Sharma habite à côté.",
+    "tgt": "शर्मा जी पड़ोस में रहते हैं।",
+    "ro": "Sharmā jī paṛos meṃ rahte haiṃ.",
+    "lit": "Sharma · [respect] · voisinage · [dans] · habitent"
+   },
+   {
+    "fr": "Oui, monsieur.",
+    "tgt": "जी हाँ।",
+    "ro": "Jī hāṃ.",
+    "lit": "[respect] · oui"
+   },
+   {
+    "fr": "Grand-mère, voici Lucas.",
+    "tgt": "दादी जी, यह लुकास है।",
+    "ro": "Dādī jī, yah Lukās hai.",
+    "lit": "grand-mère · [respect] · ceci · Lucas · est"
+   },
+   {
+    "fr": "Asseyez-vous, je vous en prie.",
+    "tgt": "बैठिए जी।",
+    "ro": "Baiṭhie jī.",
+    "lit": "asseyez-vous · [respect]"
+   },
+   {
+    "fr": "Votre maison est très belle.",
+    "tgt": "आपका घर बहुत सुंदर है।",
+    "ro": "Āpkā ghar bahut sundar hai.",
+    "lit": "votre · maison · très · belle · est"
+   },
+   {
+    "fr": "Merci mille fois, madame.",
+    "tgt": "बहुत-बहुत धन्यवाद, आंटी जी।",
+    "ro": "Bahut-bahut dhanyavād, ānṭī jī.",
+    "lit": "beaucoup-beaucoup · merci · tante · [respect]"
+   }
+  ]
+ },
+ "0-2-14": {
+  "module": "Conversation sociale",
+  "title": "Inviter quelqu'un chez soi",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Tu es libre ce samedi soir ?",
+    "tgt": "क्या तुम शनिवार शाम को फ़्री हो?",
+    "ro": "Kyā tum shanivār shām ko frī ho?",
+    "lit": "[question] · tu · samedi · soir · [à] · libre · es ?"
+   },
+   {
+    "fr": "Viens dîner à la maison.",
+    "tgt": "मेरे घर खाना खाने आओ।",
+    "ro": "Mere ghar khānā khāne āo.",
+    "lit": "ma · maison · repas · manger · viens"
+   },
+   {
+    "fr": "Bien sûr, avec une grande joie.",
+    "tgt": "ज़रूर, बड़ी ख़ुशी से।",
+    "ro": "Zarūr, baṛī khushī se.",
+    "lit": "bien sûr · grande · joie · [depuis]"
+   },
+   {
+    "fr": "À quelle heure je viens ?",
+    "tgt": "मैं कितने बजे आऊँ?",
+    "ro": "Maiṃ kitne baje āūṃ?",
+    "lit": "je · combien · heures · viens ?"
+   },
+   {
+    "fr": "Vers huit heures, c'est parfait.",
+    "tgt": "आठ बजे के आसपास ठीक है।",
+    "ro": "Āṭh baje ke āspās ṭhīk hai.",
+    "lit": "huit · heures · [de] · environ · bien · est"
+   },
+   {
+    "fr": "J'apporte quelque chose ?",
+    "tgt": "मैं कुछ लाऊँ?",
+    "ro": "Maiṃ kuchh lāūṃ?",
+    "lit": "je · quelque chose · apporte ?"
+   },
+   {
+    "fr": "Non, viens juste avec Priya.",
+    "tgt": "नहीं, बस प्रिया के साथ आओ।",
+    "ro": "Nahīṃ, bas Priyā ke sāth āo.",
+    "lit": "non · juste · Priya · [de] · avec · viens"
+   },
+   {
+    "fr": "Moi, j'habite au troisième étage.",
+    "tgt": "मैं तीसरी मंज़िल पर रहता हूँ।",
+    "ro": "Maiṃ tīsrī manzil par rahtā hūṃ.",
+    "lit": "je · troisième · étage · [sur] · habite"
+   },
+   {
+    "fr": "Je prépare un repas français.",
+    "tgt": "मैं फ़्रांसीसी खाना बनाता हूँ।",
+    "ro": "Maiṃ frānsīsī khānā banātā hūṃ.",
+    "lit": "je · français · repas · fais"
+   },
+   {
+    "fr": "Super, on se voit samedi.",
+    "tgt": "बढ़िया, शनिवार को मिलते हैं।",
+    "ro": "Baṛhiyā, shanivār ko milte haiṃ.",
+    "lit": "super · samedi · [à] · nous rencontrons"
+   }
+  ]
+ },
+ "0-2-15": {
+  "module": "Conversation sociale",
+  "title": "Offrir un cadeau",
+  "grammaire_de_la_lecon": "« Ko » : à, pour quelqu'un",
+  "phrases": [
+   {
+    "fr": "Demain, c'est l'anniversaire de Priya.",
+    "tgt": "कल प्रिया का जन्मदिन है।",
+    "ro": "Kal Priyā kā janmadin hai.",
+    "lit": "demain · Priya · [de] · anniversaire · est"
+   },
+   {
+    "fr": "J'offre un livre à Priya.",
+    "tgt": "मैं प्रिया को एक किताब दे रहा हूँ।",
+    "ro": "Maiṃ Priyā ko ek kitāb de rahā hūṃ.",
+    "lit": "je · Priya · [à] · un · livre · donner · en train · suis"
+   },
+   {
+    "fr": "Qu'est-ce que tu offres à Rahul ?",
+    "tgt": "तुम राहुल को क्या दे रहे हो?",
+    "ro": "Tum Rāhul ko kyā de rahe ho?",
+    "lit": "tu · Rahul · [à] · quoi · donner · en train · es ?"
+   },
+   {
+    "fr": "Je lui offre une montre.",
+    "tgt": "मैं उसको एक घड़ी दे रहा हूँ।",
+    "ro": "Maiṃ usko ek ghaṛī de rahā hūṃ.",
+    "lit": "je · lui-[à] · une · montre · donner · en train · suis"
+   },
+   {
+    "fr": "Donne ce cadeau à ta mère.",
+    "tgt": "यह तोहफ़ा अपनी माँ को दो।",
+    "ro": "Yah tohfā apnī māṃ ko do.",
+    "lit": "ce · cadeau · ta propre · maman · [à] · donne"
+   },
+   {
+    "fr": "Je téléphone à Neha chaque soir.",
+    "tgt": "मैं हर शाम नेहा को फ़ोन करता हूँ।",
+    "ro": "Maiṃ har shām Nehā ko fon kartā hūṃ.",
+    "lit": "je · chaque · soir · Neha · [à] · téléphone · fais"
+   },
+   {
+    "fr": "Ma sœur adore les fleurs.",
+    "tgt": "मेरी बहन को फूल पसंद हैं।",
+    "ro": "Merī bahan ko phūl pasand haiṃ.",
+    "lit": "ma · sœur · [à] · fleurs · agréables · sont"
+   },
+   {
+    "fr": "Rahul a besoin d'un nouveau téléphone.",
+    "tgt": "राहुल को नया फ़ोन चाहिए।",
+    "ro": "Rāhul ko nayā fon chāhie.",
+    "lit": "Rahul · [à] · nouveau · téléphone · faut"
+   },
+   {
+    "fr": "Je fais visiter la plage à mes parents.",
+    "tgt": "मैं अपने माता-पिता को बीच दिखाता हूँ।",
+    "ro": "Maiṃ apne mātā-pitā ko bīch dikhātā hūṃ.",
+    "lit": "je · mes propres · mère-père · [à] · plage · montre"
+   },
+   {
+    "fr": "Le cadeau plaît beaucoup à Priya.",
+    "tgt": "प्रिया को तोहफ़ा बहुत पसंद है।",
+    "ro": "Priyā ko tohfā bahut pasand hai.",
+    "lit": "Priya · [à] · cadeau · très · agréable · est"
+   }
+  ]
+ },
+ "0-2-16": {
+  "module": "Conversation sociale",
+  "title": "Les loisirs du week-end",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Que fais-tu les jours de congé ?",
+    "tgt": "तुम छुट्टी के दिन क्या करते हो?",
+    "ro": "Tum chhuṭṭī ke din kyā karte ho?",
+    "lit": "tu · congé · [de] · jour · quoi · fais ?"
+   },
+   {
+    "fr": "Je lis et je me balade.",
+    "tgt": "मैं पढ़ता हूँ और घूमता हूँ।",
+    "ro": "Maiṃ paṛhtā hūṃ aur ghūmtā hūṃ.",
+    "lit": "je · lis · suis · et · me promène · suis"
+   },
+   {
+    "fr": "Le dimanche, je vais nager.",
+    "tgt": "रविवार को मैं तैरता हूँ।",
+    "ro": "Ravivār ko maiṃ tairtā hūṃ.",
+    "lit": "dimanche · [à] · je · nage · suis"
+   },
+   {
+    "fr": "Tu fais de l'exercice ?",
+    "tgt": "क्या तुम कसरत करते हो?",
+    "ro": "Kyā tum kasrat karte ho?",
+    "lit": "[question] · tu · exercice · fais ?"
+   },
+   {
+    "fr": "Oui, je cours sur la plage le matin.",
+    "tgt": "हाँ, मैं सुबह बीच पर दौड़ता हूँ।",
+    "ro": "Hāṃ, maiṃ subah bīch par dauṛtā hūṃ.",
+    "lit": "oui · je · matin · plage · [sur] · cours"
+   },
+   {
+    "fr": "Ma sœur chante très bien.",
+    "tgt": "मेरी बहन बहुत अच्छा गाती है।",
+    "ro": "Merī bahan bahut achchhā gātī hai.",
+    "lit": "ma · sœur · très · bien · chante"
+   },
+   {
+    "fr": "J'apprends la guitare en ce moment.",
+    "tgt": "मैं गिटार सीख रहा हूँ।",
+    "ro": "Maiṃ giṭār sīkh rahā hūṃ.",
+    "lit": "je · guitare · apprendre · en train · suis"
+   },
+   {
+    "fr": "Tu aimes danser ?",
+    "tgt": "क्या तुम्हें नाचना पसंद है?",
+    "ro": "Kyā tumheṃ nāchnā pasand hai?",
+    "lit": "[question] · toi-[à] · danser · agréable · est ?"
+   },
+   {
+    "fr": "Un peu, mais je ne danse pas bien.",
+    "tgt": "थोड़ा, लेकिन मैं अच्छा नहीं नाचता।",
+    "ro": "Thoṛā, lekin maiṃ achchhā nahīṃ nāchtā.",
+    "lit": "un peu · mais · je · bien · pas · danse"
+   },
+   {
+    "fr": "Le soir, on se promène sur Marine Drive.",
+    "tgt": "शाम को हम मरीन ड्राइव पर घूमते हैं।",
+    "ro": "Shām ko ham Marīn Ḍrāiv par ghūmte haiṃ.",
+    "lit": "soir · [à] · nous · Marine Drive · [sur] · nous promenons"
+   }
+  ]
+ },
+ "0-2-17": {
+  "module": "Conversation sociale",
+  "title": "Donner son avis",
+  "grammaire_de_la_lecon": "« Bahut » et « zyādā » : très et trop",
+  "phrases": [
+   {
+    "fr": "Ce film est très long.",
+    "tgt": "यह फ़िल्म बहुत लंबी है।",
+    "ro": "Yah film bahut lambī hai.",
+    "lit": "ce · film · très · long · est"
+   },
+   {
+    "fr": "Il fait beaucoup trop chaud aujourd'hui.",
+    "tgt": "आज बहुत ज़्यादा गर्मी है।",
+    "ro": "Āj bahut zyādā garmī hai.",
+    "lit": "aujourd'hui · très · trop · chaleur · est"
+   },
+   {
+    "fr": "Le vada pav est très bon.",
+    "tgt": "वड़ा पाव बहुत अच्छा है।",
+    "ro": "Vaṛā pāv bahut achchhā hai.",
+    "lit": "vada pav · très · bon · est"
+   },
+   {
+    "fr": "C'est trop épicé pour moi.",
+    "tgt": "यह मेरे लिए ज़्यादा तीखा है।",
+    "ro": "Yah mere lie zyādā tīkhā hai.",
+    "lit": "ceci · moi · [de] · pour · trop · épicé · est"
+   },
+   {
+    "fr": "Tu travailles beaucoup trop.",
+    "tgt": "तुम बहुत ज़्यादा काम करते हो।",
+    "ro": "Tum bahut zyādā kām karte ho.",
+    "lit": "tu · très · trop · travail · fais"
+   },
+   {
+    "fr": "Il y a trop de monde dans le train.",
+    "tgt": "ट्रेन में बहुत ज़्यादा भीड़ है।",
+    "ro": "Ṭren meṃ bahut zyādā bhīṛ hai.",
+    "lit": "train · [dans] · très · trop · foule · est"
+   },
+   {
+    "fr": "Ton cadeau est très joli.",
+    "tgt": "तुम्हारा तोहफ़ा बहुत सुंदर है।",
+    "ro": "Tumhārā tohfā bahut sundar hai.",
+    "lit": "ton · cadeau · très · beau · est"
+   },
+   {
+    "fr": "Ne mange pas trop !",
+    "tgt": "ज़्यादा मत खाओ।",
+    "ro": "Zyādā mat khāo.",
+    "lit": "trop · ne pas · mange"
+   },
+   {
+    "fr": "Le cricket me plaît énormément.",
+    "tgt": "मुझे क्रिकेट बहुत ज़्यादा पसंद है।",
+    "ro": "Mujhe krikeṭ bahut zyādā pasand hai.",
+    "lit": "moi-[à] · cricket · très · beaucoup · agréable · est"
+   },
+   {
+    "fr": "Ce n'est pas trop cher.",
+    "tgt": "यह ज़्यादा महँगा नहीं है।",
+    "ro": "Yah zyādā mahaṃgā nahīṃ hai.",
+    "lit": "ceci · trop · cher · pas · est"
+   }
+  ]
+ },
+ "0-2-18": {
+  "module": "Conversation sociale",
+  "title": "Se dire au revoir",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Il est tard, je dois rentrer.",
+    "tgt": "देर हो गई है, मुझे घर जाना है।",
+    "ro": "Der ho gaī hai, mujhe ghar jānā hai.",
+    "lit": "retard · devenu · est · moi-[à] · maison · aller · est"
+   },
+   {
+    "fr": "C'était une très bonne soirée.",
+    "tgt": "बहुत अच्छी शाम थी।",
+    "ro": "Bahut achchhī shām thī.",
+    "lit": "très · bonne · soirée · était"
+   },
+   {
+    "fr": "Merci pour ce bon repas.",
+    "tgt": "खाने के लिए शुक्रिया।",
+    "ro": "Khāne ke lie shukriyā.",
+    "lit": "repas · [de] · pour · merci"
+   },
+   {
+    "fr": "On se voit demain au bureau.",
+    "tgt": "कल दफ़्तर में मिलते हैं।",
+    "ro": "Kal daftar meṃ milte haiṃ.",
+    "lit": "demain · bureau · [dans] · nous rencontrons"
+   },
+   {
+    "fr": "Appelle-moi en arrivant.",
+    "tgt": "पहुँचकर फ़ोन करना।",
+    "ro": "Pahuṃchkar fon karnā.",
+    "lit": "étant arrivé · téléphone · faire"
+   },
+   {
+    "fr": "Fais attention sur la route.",
+    "tgt": "रास्ते में ध्यान रखना।",
+    "ro": "Rāste meṃ dhyān rakhnā.",
+    "lit": "route · [dans] · attention · garder"
+   },
+   {
+    "fr": "Salue tes parents de ma part.",
+    "tgt": "अपने माता-पिता को मेरा नमस्ते कहना।",
+    "ro": "Apne mātā-pitā ko merā namaste kahnā.",
+    "lit": "tes propres · mère-père · [à] · mon · bonjour · dire"
+   },
+   {
+    "fr": "À la prochaine !",
+    "tgt": "फिर मिलेंगे।",
+    "ro": "Phir milenge.",
+    "lit": "encore · nous rencontrerons"
+   },
+   {
+    "fr": "Bonne nuit, Priya.",
+    "tgt": "शुभ रात्रि, प्रिया।",
+    "ro": "Shubh rātri, Priyā.",
+    "lit": "bonne · nuit · Priya"
+   },
+   {
+    "fr": "Prends bien soin de toi.",
+    "tgt": "अपना ख़्याल रखना।",
+    "ro": "Apnā khyāl rakhnā.",
+    "lit": "ton propre · soin · garder"
+   }
+  ]
+ },
+ "0-2-19": {
+  "module": "Conversation sociale",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "« Achchhā », « ṭhīk hai », « hāṃ jī » : les mots de la conversation",
+  "phrases": [
+   {
+    "fr": "Bon, c'est la dernière leçon.",
+    "tgt": "अच्छा, यह आख़िरी पाठ है।",
+    "ro": "Achchhā, yah ākhirī pāṭh hai.",
+    "lit": "bon · ceci · dernière · leçon · est"
+   },
+   {
+    "fr": "Maintenant, je parle un peu le hindi.",
+    "tgt": "अब मैं थोड़ी हिंदी बोलता हूँ।",
+    "ro": "Ab maiṃ thoṛī hindī boltā hūṃ.",
+    "lit": "maintenant · je · un peu · hindi · parle"
+   },
+   {
+    "fr": "Je sais me présenter en hindi.",
+    "tgt": "मैं हिंदी में अपना परिचय दे सकता हूँ।",
+    "ro": "Maiṃ hindī meṃ apnā parichay de saktā hūṃ.",
+    "lit": "je · hindi · [dans] · ma propre · présentation · donner · peux"
+   },
+   {
+    "fr": "Je parle de la famille et du travail.",
+    "tgt": "मैं परिवार और काम की बात करता हूँ।",
+    "ro": "Maiṃ parivār aur kām kī bāt kartā hūṃ.",
+    "lit": "je · famille · et · travail · [de] · parole · fais"
+   },
+   {
+    "fr": "Le hindi, c'est difficile ?",
+    "tgt": "क्या हिंदी मुश्किल है?",
+    "ro": "Kyā hindī mushkil hai?",
+    "lit": "[question] · hindi · difficile · est ?"
+   },
+   {
+    "fr": "Un peu, mais ça va.",
+    "tgt": "थोड़ी, पर ठीक है।",
+    "ro": "Thoṛī, par ṭhīk hai.",
+    "lit": "un peu · mais · bien · est"
+   },
+   {
+    "fr": "Ah bon, tu comprends le hindi ?",
+    "tgt": "अच्छा, तुम हिंदी समझते हो?",
+    "ro": "Achchhā, tum hindī samajhte ho?",
+    "lit": "ah bon · tu · hindi · comprends ?"
+   },
+   {
+    "fr": "Oui, petit à petit.",
+    "tgt": "हाँ जी, थोड़ी-थोड़ी।",
+    "ro": "Hāṃ jī, thoṛī-thoṛī.",
+    "lit": "oui · [respect] · un peu-un peu"
+   },
+   {
+    "fr": "D'accord, on passe au niveau suivant.",
+    "tgt": "ठीक है, अब अगले लेवल पर चलते हैं।",
+    "ro": "Ṭhīk hai, ab agle leval par chalte haiṃ.",
+    "lit": "bien · est · maintenant · suivant · niveau · [sur] · allons"
+   },
+   {
+    "fr": "Bravo, et à très vite !",
+    "tgt": "शाबाश, जल्दी मिलते हैं।",
+    "ro": "Shābāsh, jaldī milte haiṃ.",
+    "lit": "bravo · bientôt · nous rencontrons"
+   }
+  ]
+ }
+}

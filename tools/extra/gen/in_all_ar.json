@@ -1,0 +1,4022 @@
+{
+ "0-0-0": {
+  "module": "Le quotidien",
+  "title": "Bienvenue à Amman",
+  "grammaire_de_la_lecon": "De droite à gauche, et des voyelles en petits signes",
+  "phrases": [
+   {
+    "fr": "Bienvenue à Amman !",
+    "tgt": "أَهْلًا وَسَهْلًا فِي عَمَّانَ!",
+    "ro": "Ahlan wa-sahlan fī ʿammāna!",
+    "lit": "bienvenue · [et] · aisance · à · Amman !"
+   },
+   {
+    "fr": "Bonjour, je m'appelle Karim.",
+    "tgt": "صَبَاحُ الْخَيْرِ، اِسْمِي كَرِيمٌ.",
+    "ro": "Ṣabāḥu al-khayri, ismī Karīmun.",
+    "lit": "matin · [du] bien · nom-de-moi · Karim"
+   },
+   {
+    "fr": "J'apprends l'arabe.",
+    "tgt": "أَتَعَلَّمُ الْعَرَبِيَّةَ.",
+    "ro": "Ataʿallamu al-ʿarabiyyata.",
+    "lit": "j'apprends · [l']arabe"
+   },
+   {
+    "fr": "L'arabe est une belle langue.",
+    "tgt": "الْعَرَبِيَّةُ لُغَةٌ جَمِيلَةٌ.",
+    "ro": "Al-ʿarabiyyatu lughatun jamīlatun.",
+    "lit": "[l']arabe · langue · belle"
+   },
+   {
+    "fr": "Amman est une grande ville.",
+    "tgt": "عَمَّانُ مَدِينَةٌ كَبِيرَةٌ.",
+    "ro": "ʿAmmānu madīnatun kabīratun.",
+    "lit": "Amman · ville · grande"
+   },
+   {
+    "fr": "La citadelle est là-bas.",
+    "tgt": "الْقَلْعَةُ هُنَاكَ.",
+    "ro": "Al-qalʿatu hunāka.",
+    "lit": "[la] citadelle · là-bas"
+   },
+   {
+    "fr": "Bonsoir, Leïla !",
+    "tgt": "مَسَاءُ الْخَيْرِ يَا لَيْلَى!",
+    "ro": "Masāʾu al-khayri yā Laylā!",
+    "lit": "soir · [du] bien · ô · Leïla !"
+   },
+   {
+    "fr": "Il fait beau à Amman.",
+    "tgt": "الْجَوُّ جَمِيلٌ فِي عَمَّانَ.",
+    "ro": "Al-jawwu jamīlun fī ʿammāna.",
+    "lit": "[le] temps · beau · à · Amman"
+   },
+   {
+    "fr": "Le livre est ici.",
+    "tgt": "الْكِتَابُ هُنَا.",
+    "ro": "Al-kitābu hunā.",
+    "lit": "[le] livre · ici"
+   },
+   {
+    "fr": "À bientôt, Karim !",
+    "tgt": "إِلَى اللِّقَاءِ يَا كَرِيمُ!",
+    "ro": "Ilā al-liqāʾi yā Karīmu!",
+    "lit": "jusqu'à · [la] rencontre · ô · Karim !"
+   }
+  ]
+ },
+ "0-0-1": {
+  "module": "Le quotidien",
+  "title": "Un hôtel au centre-ville",
+  "grammaire_de_la_lecon": "Pas de verbe être au présent",
+  "phrases": [
+   {
+    "fr": "Je suis étudiant à Amman.",
+    "tgt": "أَنَا طَالِبٌ فِي عَمَّانَ.",
+    "ro": "Anā ṭālibun fī ʿammāna.",
+    "lit": "moi · étudiant · à · Amman"
+   },
+   {
+    "fr": "Je suis fatigué.",
+    "tgt": "أَنَا مُتْعَبٌ.",
+    "ro": "Anā mutʿabun.",
+    "lit": "moi · fatigué"
+   },
+   {
+    "fr": "L'hôtel est près du centre-ville.",
+    "tgt": "الْفُنْدُقُ قَرِيبٌ مِنْ وَسَطِ الْمَدِينَةِ.",
+    "ro": "Al-funduqu qarībun min wasaṭi al-madīnati.",
+    "lit": "[l']hôtel · proche · de · centre · [de la] ville"
+   },
+   {
+    "fr": "La chambre est propre.",
+    "tgt": "الْغُرْفَةُ نَظِيفَةٌ.",
+    "ro": "Al-ghurfatu naẓīfatun.",
+    "lit": "[la] chambre · propre"
+   },
+   {
+    "fr": "L'employé de l'hôtel est gentil.",
+    "tgt": "مُوَظَّفُ الْفُنْدُقِ لَطِيفٌ.",
+    "ro": "Muwaẓẓafu al-funduqi laṭīfun.",
+    "lit": "employé · [de l']hôtel · gentil"
+   },
+   {
+    "fr": "Le petit-déjeuner est délicieux.",
+    "tgt": "الْفُطُورُ لَذِيذٌ.",
+    "ro": "Al-fuṭūru ladhīdhun.",
+    "lit": "[le] petit-déjeuner · délicieux"
+   },
+   {
+    "fr": "Je suis à l'hôtel.",
+    "tgt": "أَنَا فِي الْفُنْدُقِ.",
+    "ro": "Anā fī al-funduqi.",
+    "lit": "moi · dans · [l']hôtel"
+   },
+   {
+    "fr": "Le prix de la chambre est raisonnable.",
+    "tgt": "سِعْرُ الْغُرْفَةِ مُنَاسِبٌ.",
+    "ro": "Siʿru al-ghurfati munāsibun.",
+    "lit": "prix · [de la] chambre · convenable"
+   },
+   {
+    "fr": "Moi, c'est Sami, de Paris.",
+    "tgt": "أَنَا سَامِي مِنْ بَارِيسَ.",
+    "ro": "Anā Sāmī min Bārīsa.",
+    "lit": "moi · Sami · de · Paris"
+   },
+   {
+    "fr": "L'ascenseur est là-bas.",
+    "tgt": "الْمِصْعَدُ هُنَاكَ.",
+    "ro": "Al-miṣʿadu hunāka.",
+    "lit": "[l']ascenseur · là-bas"
+   }
+  ]
+ },
+ "0-0-2": {
+  "module": "Le quotidien",
+  "title": "Promenade au centre-ville",
+  "grammaire_de_la_lecon": "L'article « al- » et les lettres solaires",
+  "phrases": [
+   {
+    "fr": "Le centre-ville est bondé.",
+    "tgt": "وَسَطُ الْمَدِينَةِ مُزْدَحِمٌ.",
+    "ro": "Wasaṭu al-madīnati muzdaḥimun.",
+    "lit": "centre · [de la] ville · bondé"
+   },
+   {
+    "fr": "Le thé est chaud.",
+    "tgt": "الشَّايُ سَاخِنٌ.",
+    "ro": "Ash-shāyu sākhinun.",
+    "lit": "[le] thé · chaud"
+   },
+   {
+    "fr": "Le café est chaud aussi.",
+    "tgt": "الْقَهْوَةُ سَاخِنَةٌ أَيْضًا.",
+    "ro": "Al-qahwatu sākhinatun ayḍan.",
+    "lit": "[le] café · chaud · aussi"
+   },
+   {
+    "fr": "La rue est longue.",
+    "tgt": "الشَّارِعُ طَوِيلٌ.",
+    "ro": "Ash-shāriʿu ṭawīlun.",
+    "lit": "[la] rue · longue"
+   },
+   {
+    "fr": "Le marché est ouvert.",
+    "tgt": "السُّوقُ مَفْتُوحٌ.",
+    "ro": "As-sūqu maftūḥun.",
+    "lit": "[le] marché · ouvert"
+   },
+   {
+    "fr": "Le restaurant est petit.",
+    "tgt": "الْمَطْعَمُ صَغِيرٌ.",
+    "ro": "Al-maṭʿamu ṣaghīrun.",
+    "lit": "[le] restaurant · petit"
+   },
+   {
+    "fr": "Le pain est frais.",
+    "tgt": "الْخُبْزُ طَازَجٌ.",
+    "ro": "Al-khubzu ṭāzajun.",
+    "lit": "[le] pain · frais"
+   },
+   {
+    "fr": "Le houmous est délicieux.",
+    "tgt": "الْحُمُّصُ لَذِيذٌ.",
+    "ro": "Al-ḥummuṣu ladhīdhun.",
+    "lit": "[le] houmous · délicieux"
+   },
+   {
+    "fr": "Le falafel est bon marché.",
+    "tgt": "الْفَلَافِلُ رَخِيصَةٌ.",
+    "ro": "Al-falāfilu rakhīṣatun.",
+    "lit": "[le] falafel · bon-marché"
+   },
+   {
+    "fr": "La nuit est calme.",
+    "tgt": "اللَّيْلُ هَادِئٌ.",
+    "ro": "Al-laylu hādiʾun.",
+    "lit": "[la] nuit · calme"
+   }
+  ]
+ },
+ "0-0-3": {
+  "module": "Le quotidien",
+  "title": "Un taxi jaune",
+  "grammaire_de_la_lecon": "Les pronoms : « ana, anta, anti, huwa, hiya »",
+  "phrases": [
+   {
+    "fr": "Il est chauffeur de taxi.",
+    "tgt": "هُوَ سَائِقُ تَاكْسِي.",
+    "ro": "Huwa sāʾiqu tāksī.",
+    "lit": "lui · chauffeur · [de] taxi"
+   },
+   {
+    "fr": "Elle est professeure.",
+    "tgt": "هِيَ مُعَلِّمَةٌ.",
+    "ro": "Hiya muʿallimatun.",
+    "lit": "elle · professeure"
+   },
+   {
+    "fr": "Tu es gentil.",
+    "tgt": "أَنْتَ لَطِيفٌ.",
+    "ro": "Anta laṭīfun.",
+    "lit": "toi (masc.) · gentil"
+   },
+   {
+    "fr": "Tu es gentille, Leïla.",
+    "tgt": "أَنْتِ لَطِيفَةٌ يَا لَيْلَى.",
+    "ro": "Anti laṭīfatun yā Laylā.",
+    "lit": "toi (fém.) · gentille · ô · Leïla"
+   },
+   {
+    "fr": "Je suis pressé.",
+    "tgt": "أَنَا مُسْتَعْجِلٌ.",
+    "ro": "Anā mustaʿjilun.",
+    "lit": "moi · pressé"
+   },
+   {
+    "fr": "Elle est d'Amman.",
+    "tgt": "هِيَ مِنْ عَمَّانَ.",
+    "ro": "Hiya min ʿammāna.",
+    "lit": "elle · de · Amman"
+   },
+   {
+    "fr": "Elle est sur Rainbow Street.",
+    "tgt": "هِيَ فِي شَارِعِ الرَّيْنْبُو.",
+    "ro": "Hiya fī shāriʿi ar-raynbū.",
+    "lit": "elle · dans · rue · [le] Rainbow"
+   },
+   {
+    "fr": "Tu es en retard, Rania.",
+    "tgt": "أَنْتِ مُتَأَخِّرَةٌ يَا رَانِيَا.",
+    "ro": "Anti mutaʾakhkhiratun yā Rāniyā.",
+    "lit": "toi (fém.) · en-retard · ô · Rania"
+   },
+   {
+    "fr": "Moi, je suis prêt.",
+    "tgt": "أَنَا جَاهِزٌ.",
+    "ro": "Anā jāhizun.",
+    "lit": "moi · prêt"
+   },
+   {
+    "fr": "Le taxi est jaune.",
+    "tgt": "التَّاكْسِي أَصْفَرُ.",
+    "ro": "At-tāksī aṣfaru.",
+    "lit": "[le] taxi · jaune"
+   }
+  ]
+ },
+ "0-0-4": {
+  "module": "Le quotidien",
+  "title": "Rencontres à Rainbow Street",
+  "grammaire_de_la_lecon": "Masculin et féminin : la terminaison en a",
+  "phrases": [
+   {
+    "fr": "Il est jordanien, elle est jordanienne.",
+    "tgt": "هُوَ أُرْدُنِيٌّ وَهِيَ أُرْدُنِيَّةٌ.",
+    "ro": "Huwa urduniyyun wa-hiya urduniyyatun.",
+    "lit": "lui · jordanien · [et] · elle · jordanienne"
+   },
+   {
+    "fr": "Karim est étudiant, Leïla est étudiante.",
+    "tgt": "كَرِيمٌ طَالِبٌ وَلَيْلَى طَالِبَةٌ.",
+    "ro": "Karīmun ṭālibun wa-Laylā ṭālibatun.",
+    "lit": "Karim · étudiant · [et] · Leïla · étudiante"
+   },
+   {
+    "fr": "Le café est petit.",
+    "tgt": "الْمَقْهَى صَغِيرٌ.",
+    "ro": "Al-maqhā ṣaghīrun.",
+    "lit": "[le] café (lieu) · petit"
+   },
+   {
+    "fr": "La ville est belle.",
+    "tgt": "الْمَدِينَةُ جَمِيلَةٌ.",
+    "ro": "Al-madīnatu jamīlatun.",
+    "lit": "[la] ville · belle"
+   },
+   {
+    "fr": "Le professeur est français.",
+    "tgt": "الْمُعَلِّمُ فَرَنْسِيٌّ.",
+    "ro": "Al-muʿallimu faransiyyun.",
+    "lit": "[le] professeur · français"
+   },
+   {
+    "fr": "La professeure est française.",
+    "tgt": "الْمُعَلِّمَةُ فَرَنْسِيَّةٌ.",
+    "ro": "Al-muʿallimatu faransiyyatun.",
+    "lit": "[la] professeure · française"
+   },
+   {
+    "fr": "Le serveur est rapide.",
+    "tgt": "النَّادِلُ سَرِيعٌ.",
+    "ro": "An-nādilu sarīʿun.",
+    "lit": "[le] serveur · rapide"
+   },
+   {
+    "fr": "La serveuse est rapide aussi.",
+    "tgt": "النَّادِلَةُ سَرِيعَةٌ أَيْضًا.",
+    "ro": "An-nādilatu sarīʿatun ayḍan.",
+    "lit": "[la] serveuse · rapide · aussi"
+   },
+   {
+    "fr": "L'appartement est neuf.",
+    "tgt": "الشَّقَّةُ جَدِيدَةٌ.",
+    "ro": "Ash-shaqqatu jadīdatun.",
+    "lit": "[l']appartement · neuf"
+   },
+   {
+    "fr": "Rainbow Street est très belle le soir.",
+    "tgt": "شَارِعُ الرَّيْنْبُو جَمِيلٌ جِدًّا فِي الْمَسَاءِ.",
+    "ro": "Shāriʿu ar-raynbū jamīlun jiddan fī al-masāʾi.",
+    "lit": "rue · [le] Rainbow · beau · très · dans · [le] soir"
+   }
+  ]
+ },
+ "0-0-5": {
+  "module": "Le quotidien",
+  "title": "Une pause au café",
+  "grammaire_de_la_lecon": "Poser une question avec « hal »",
+  "phrases": [
+   {
+    "fr": "Est-ce que tu es fatigué ?",
+    "tgt": "هَلْ أَنْتَ مُتْعَبٌ؟",
+    "ro": "Hal anta mutʿabun?",
+    "lit": "[question] · toi · fatigué ?"
+   },
+   {
+    "fr": "Tu es jordanien ?",
+    "tgt": "هَلْ أَنْتَ أُرْدُنِيٌّ؟",
+    "ro": "Hal anta urduniyyun?",
+    "lit": "[question] · toi · jordanien ?"
+   },
+   {
+    "fr": "Oui, je suis d'Amman.",
+    "tgt": "نَعَمْ، أَنَا مِنْ عَمَّانَ.",
+    "ro": "Naʿam, anā min ʿammāna.",
+    "lit": "oui · moi · de · Amman"
+   },
+   {
+    "fr": "Du thé à la menthe ?",
+    "tgt": "شَايٌ بِالنَّعْنَاعِ؟",
+    "ro": "Shāyun bi-n-naʿnāʿi?",
+    "lit": "thé · avec · [la] menthe ?"
+   },
+   {
+    "fr": "Oui, s'il te plaît.",
+    "tgt": "نَعَمْ، مِنْ فَضْلِكَ.",
+    "ro": "Naʿam, min faḍlika.",
+    "lit": "oui · de · faveur-de-toi"
+   },
+   {
+    "fr": "Est-ce que c'est loin ?",
+    "tgt": "هَلْ هُوَ بَعِيدٌ؟",
+    "ro": "Hal huwa baʿīdun?",
+    "lit": "[question] · lui · loin ?"
+   },
+   {
+    "fr": "Non, c'est vraiment tout près.",
+    "tgt": "لَا، هُوَ قَرِيبٌ جِدًّا.",
+    "ro": "Lā, huwa qarībun jiddan.",
+    "lit": "non · lui · proche · très"
+   },
+   {
+    "fr": "Tu es étudiant ?",
+    "tgt": "أَنْتَ طَالِبٌ؟",
+    "ro": "Anta ṭālibun?",
+    "lit": "toi · étudiant ?"
+   },
+   {
+    "fr": "Est-ce que tu es prête, Leïla ?",
+    "tgt": "هَلْ أَنْتِ جَاهِزَةٌ يَا لَيْلَى؟",
+    "ro": "Hal anti jāhizatun yā Laylā?",
+    "lit": "[question] · toi (fém.) · prête · ô · Leïla ?"
+   },
+   {
+    "fr": "Est-ce que la knafeh est chaude ?",
+    "tgt": "هَلِ الْكُنَافَةُ سَاخِنَةٌ؟",
+    "ro": "Hali al-kunāfatu sākhinatun?",
+    "lit": "[question] · [la] knafeh · chaude ?"
+   }
+  ]
+ },
+ "0-0-6": {
+  "module": "Le quotidien",
+  "title": "Visite de la citadelle",
+  "grammaire_de_la_lecon": "« Hadha » et « hadhihi » : ceci, celui-ci, celle-ci",
+  "phrases": [
+   {
+    "fr": "Voici la citadelle d'Amman.",
+    "tgt": "هَذِهِ قَلْعَةُ عَمَّانَ.",
+    "ro": "Hādhihi qalʿatu ʿammāna.",
+    "lit": "celle-ci · citadelle · [d']Amman"
+   },
+   {
+    "fr": "C'est un monument ancien.",
+    "tgt": "هَذَا مَعْلَمٌ قَدِيمٌ.",
+    "ro": "Hādhā maʿlamun qadīmun.",
+    "lit": "ceci · monument · ancien"
+   },
+   {
+    "fr": "Ce guide est jordanien.",
+    "tgt": "هَذَا الْمُرْشِدُ أُرْدُنِيٌّ.",
+    "ro": "Hādhā al-murshidu urduniyyun.",
+    "lit": "ce · [le] guide · jordanien"
+   },
+   {
+    "fr": "Cette vue est magnifique.",
+    "tgt": "هَذَا الْمَنْظَرُ رَائِعٌ.",
+    "ro": "Hādhā al-manẓaru rāʾiʿun.",
+    "lit": "ce · [la] vue · magnifique"
+   },
+   {
+    "fr": "Celle-ci, c'est Leïla.",
+    "tgt": "هَذِهِ لَيْلَى.",
+    "ro": "Hādhihi Laylā.",
+    "lit": "celle-ci · Leïla"
+   },
+   {
+    "fr": "Celui-ci, c'est Karim.",
+    "tgt": "هَذَا كَرِيمٌ.",
+    "ro": "Hādhā Karīmun.",
+    "lit": "celui-ci · Karim"
+   },
+   {
+    "fr": "Cette ville est ancienne.",
+    "tgt": "هَذِهِ الْمَدِينَةُ قَدِيمَةٌ.",
+    "ro": "Hādhihi al-madīnatu qadīmatun.",
+    "lit": "cette · [la] ville · ancienne"
+   },
+   {
+    "fr": "C'est un billet d'entrée.",
+    "tgt": "هَذِهِ تَذْكِرَةُ دُخُولٍ.",
+    "ro": "Hādhihi tadhkiratu dukhūlin.",
+    "lit": "celle-ci · billet · [d']entrée"
+   },
+   {
+    "fr": "Ce musée est petit.",
+    "tgt": "هَذَا الْمَتْحَفُ صَغِيرٌ.",
+    "ro": "Hādhā al-matḥafu ṣaghīrun.",
+    "lit": "ce · [le] musée · petit"
+   },
+   {
+    "fr": "Cette photo est belle.",
+    "tgt": "هَذِهِ الصُّورَةُ جَمِيلَةٌ.",
+    "ro": "Hādhihi aṣ-ṣūratu jamīlatun.",
+    "lit": "cette · [la] photo · belle"
+   }
+  ]
+ },
+ "0-0-7": {
+  "module": "Le quotidien",
+  "title": "Au restaurant de falafel",
+  "grammaire_de_la_lecon": "La négation de la phrase sans verbe : « laysa »",
+  "phrases": [
+   {
+    "fr": "Je ne suis pas fatigué.",
+    "tgt": "لَسْتُ مُتْعَبًا.",
+    "ro": "Lastu mutʿaban.",
+    "lit": "[je ne suis pas] · fatigué"
+   },
+   {
+    "fr": "Le repas n'est pas cher.",
+    "tgt": "الطَّعَامُ لَيْسَ غَالِيًا.",
+    "ro": "Aṭ-ṭaʿāmu laysa ghāliyan.",
+    "lit": "[le] repas · [n'est pas] · cher"
+   },
+   {
+    "fr": "Le restaurant n'est pas loin.",
+    "tgt": "الْمَطْعَمُ لَيْسَ بَعِيدًا.",
+    "ro": "Al-maṭʿamu laysa baʿīdan.",
+    "lit": "[le] restaurant · [n'est pas] · loin"
+   },
+   {
+    "fr": "Je ne suis pas jordanien, je suis français.",
+    "tgt": "لَسْتُ أُرْدُنِيًّا، أَنَا فَرَنْسِيٌّ.",
+    "ro": "Lastu urduniyyan, anā faransiyyun.",
+    "lit": "[je ne suis pas] · jordanien · moi · français"
+   },
+   {
+    "fr": "Le houmous n'est pas froid.",
+    "tgt": "الْحُمُّصُ لَيْسَ بَارِدًا.",
+    "ro": "Al-ḥummuṣu laysa bāridan.",
+    "lit": "[le] houmous · [n'est pas] · froid"
+   },
+   {
+    "fr": "Tu n'es pas en retard.",
+    "tgt": "لَسْتَ مُتَأَخِّرًا.",
+    "ro": "Lasta mutaʾakhkhiran.",
+    "lit": "[tu n'es pas] · en-retard"
+   },
+   {
+    "fr": "Elle n'est pas là.",
+    "tgt": "هِيَ لَيْسَتْ هُنَا.",
+    "ro": "Hiya laysat hunā.",
+    "lit": "elle · [n'est pas] · ici"
+   },
+   {
+    "fr": "La table n'est pas libre.",
+    "tgt": "الطَّاوِلَةُ لَيْسَتْ فَارِغَةً.",
+    "ro": "Aṭ-ṭāwilatu laysat fārighatan.",
+    "lit": "[la] table · [n'est pas] · libre"
+   },
+   {
+    "fr": "Ce n'est pas épicé.",
+    "tgt": "هَذَا لَيْسَ حَارًّا.",
+    "ro": "Hādhā laysa ḥārran.",
+    "lit": "ceci · [n'est pas] · épicé"
+   },
+   {
+    "fr": "Leïla, tu n'as pas faim ?",
+    "tgt": "لَسْتِ جَائِعَةً يَا لَيْلَى؟",
+    "ro": "Lasti jāʾiʿatan yā Laylā?",
+    "lit": "[tu n'es pas] · affamée · ô · Leïla ?"
+   }
+  ]
+ },
+ "0-0-8": {
+  "module": "Le quotidien",
+  "title": "Mon appartement à Amman",
+  "grammaire_de_la_lecon": "Les possessifs collés au nom",
+  "phrases": [
+   {
+    "fr": "Voici mon appartement.",
+    "tgt": "هَذِهِ شَقَّتِي.",
+    "ro": "Hādhihi shaqqatī.",
+    "lit": "celle-ci · appartement-de-moi"
+   },
+   {
+    "fr": "C'est mon livre.",
+    "tgt": "هَذَا كِتَابِي.",
+    "ro": "Hādhā kitābī.",
+    "lit": "ceci · livre-de-moi"
+   },
+   {
+    "fr": "Ton livre est sur la table.",
+    "tgt": "كِتَابُكَ عَلَى الطَّاوِلَةِ.",
+    "ro": "Kitābuka ʿalā aṭ-ṭāwilati.",
+    "lit": "livre-de-toi · sur · [la] table"
+   },
+   {
+    "fr": "Ma chambre est très petite.",
+    "tgt": "غُرْفَتِي صَغِيرَةٌ جِدًّا.",
+    "ro": "Ghurfatī ṣaghīratun jiddan.",
+    "lit": "chambre-de-moi · petite · très"
+   },
+   {
+    "fr": "Ta chambre est grande.",
+    "tgt": "غُرْفَتُكَ كَبِيرَةٌ.",
+    "ro": "Ghurfatuka kabīratun.",
+    "lit": "chambre-de-toi · grande"
+   },
+   {
+    "fr": "Sa maison est à Amman.",
+    "tgt": "بَيْتُهُ فِي عَمَّانَ.",
+    "ro": "Baytuhu fī ʿammāna.",
+    "lit": "maison-de-lui · à · Amman"
+   },
+   {
+    "fr": "Sa cuisine à elle est moderne.",
+    "tgt": "مَطْبَخُهَا حَدِيثٌ.",
+    "ro": "Maṭbakhuhā ḥadīthun.",
+    "lit": "cuisine-d'elle · moderne"
+   },
+   {
+    "fr": "Mon voisin est sympathique.",
+    "tgt": "جَارِي لَطِيفٌ.",
+    "ro": "Jārī laṭīfun.",
+    "lit": "voisin-de-moi · sympathique"
+   },
+   {
+    "fr": "Leïla, ta fenêtre est ouverte.",
+    "tgt": "نَافِذَتُكِ مَفْتُوحَةٌ يَا لَيْلَى.",
+    "ro": "Nāfidhatuki maftūḥatun yā Laylā.",
+    "lit": "fenêtre-de-toi (fém.) · ouverte · ô · Leïla"
+   },
+   {
+    "fr": "Mon balcon est ensoleillé.",
+    "tgt": "شُرْفَتِي مُشْمِسَةٌ.",
+    "ro": "Shurfatī mushmisatun.",
+    "lit": "balcon-de-moi · ensoleillé"
+   }
+  ]
+ },
+ "0-0-9": {
+  "module": "Le quotidien",
+  "title": "Les clés de l'appartement",
+  "grammaire_de_la_lecon": "Le complément du nom : « kitab at-talib »",
+  "phrases": [
+   {
+    "fr": "C'est le livre de l'étudiant.",
+    "tgt": "هَذَا كِتَابُ الطَّالِبِ.",
+    "ro": "Hādhā kitābu aṭ-ṭālibi.",
+    "lit": "ceci · livre · [de l']étudiant"
+   },
+   {
+    "fr": "Voici la clé de l'appartement.",
+    "tgt": "هَذَا مِفْتَاحُ الشَّقَّةِ.",
+    "ro": "Hādhā miftāḥu ash-shaqqati.",
+    "lit": "ceci · clé · [de l']appartement"
+   },
+   {
+    "fr": "La porte de la maison est verte.",
+    "tgt": "بَابُ الْبَيْتِ أَخْضَرُ.",
+    "ro": "Bābu al-bayti akhḍaru.",
+    "lit": "porte · [de la] maison · verte"
+   },
+   {
+    "fr": "Le propriétaire de l'appartement est gentil.",
+    "tgt": "صَاحِبُ الشَّقَّةِ لَطِيفٌ.",
+    "ro": "Ṣāḥibu ash-shaqqati laṭīfun.",
+    "lit": "propriétaire · [de l']appartement · gentil"
+   },
+   {
+    "fr": "Le loyer de l'appartement est raisonnable.",
+    "tgt": "إِيجَارُ الشَّقَّةِ مُنَاسِبٌ.",
+    "ro": "Ījāru ash-shaqqati munāsibun.",
+    "lit": "loyer · [de l']appartement · convenable"
+   },
+   {
+    "fr": "La fenêtre de la cuisine est petite.",
+    "tgt": "نَافِذَةُ الْمَطْبَخِ صَغِيرَةٌ.",
+    "ro": "Nāfidhatu al-maṭbakhi ṣaghīratun.",
+    "lit": "fenêtre · [de la] cuisine · petite"
+   },
+   {
+    "fr": "Le nom de la rue est difficile.",
+    "tgt": "اِسْمُ الشَّارِعِ صَعْبٌ.",
+    "ro": "Ismu ash-shāriʿi ṣaʿbun.",
+    "lit": "nom · [de la] rue · difficile"
+   },
+   {
+    "fr": "Le toit de l'immeuble est grand.",
+    "tgt": "سَطْحُ الْعِمَارَةِ كَبِيرٌ.",
+    "ro": "Saṭḥu al-ʿimārati kabīrun.",
+    "lit": "toit · [de l']immeuble · grand"
+   },
+   {
+    "fr": "Le salon de Karim est confortable.",
+    "tgt": "صَالَةُ كَرِيمٍ مُرِيحَةٌ.",
+    "ro": "Ṣālatu Karīmin murīḥatun.",
+    "lit": "salon · [de] Karim · confortable"
+   },
+   {
+    "fr": "La chambre de Leïla est calme.",
+    "tgt": "غُرْفَةُ لَيْلَى هَادِئَةٌ.",
+    "ro": "Ghurfatu Laylā hādiʾatun.",
+    "lit": "chambre · [de] Leïla · calme"
+   }
+  ]
+ },
+ "0-0-10": {
+  "module": "Le quotidien",
+  "title": "Questions au marché",
+  "grammaire_de_la_lecon": "Les mots interrogatifs : « ma, man, ayna, mata, kayfa »",
+  "phrases": [
+   {
+    "fr": "C'est quoi, ça ?",
+    "tgt": "مَا هَذَا؟",
+    "ro": "Mā hādhā?",
+    "lit": "quoi · ceci ?"
+   },
+   {
+    "fr": "Qui est ce vendeur ?",
+    "tgt": "مَنْ هَذَا الْبَائِعُ؟",
+    "ro": "Man hādhā al-bāʾiʿu?",
+    "lit": "qui · ce · [le] vendeur ?"
+   },
+   {
+    "fr": "Où est le marché ?",
+    "tgt": "أَيْنَ السُّوقُ؟",
+    "ro": "Ayna as-sūqu?",
+    "lit": "où · [le] marché ?"
+   },
+   {
+    "fr": "C'est quand, le rendez-vous ?",
+    "tgt": "مَتَى الْمَوْعِدُ؟",
+    "ro": "Matā al-mawʿidu?",
+    "lit": "quand · [le] rendez-vous ?"
+   },
+   {
+    "fr": "Comment vas-tu ?",
+    "tgt": "كَيْفَ حَالُكَ؟",
+    "ro": "Kayfa ḥāluka?",
+    "lit": "comment · état-de-toi ?"
+   },
+   {
+    "fr": "Quel est le nom de ce café ?",
+    "tgt": "مَا اسْمُ هٰذَا الْمَقْهَى؟",
+    "ro": "Mā ismu hādhā l-maqhā?",
+    "lit": "quoi · nom · ce · [le] café ?"
+   },
+   {
+    "fr": "Où sont les tomates ?",
+    "tgt": "أَيْنَ الطَّمَاطِمُ؟",
+    "ro": "Ayna aṭ-ṭamāṭimu?",
+    "lit": "où · [les] tomates ?"
+   },
+   {
+    "fr": "Qui est cette dame ?",
+    "tgt": "مَنْ هَذِهِ السَّيِّدَةُ؟",
+    "ro": "Man hādhihi as-sayyidatu?",
+    "lit": "qui · cette · [la] dame ?"
+   },
+   {
+    "fr": "Comment est le temps aujourd'hui ?",
+    "tgt": "كَيْفَ الْجَوُّ الْيَوْمَ؟",
+    "ro": "Kayfa al-jawwu al-yawma?",
+    "lit": "comment · [le] temps · [le] jour ?"
+   },
+   {
+    "fr": "Où est le marchand de fruits ?",
+    "tgt": "أَيْنَ مَحَلُّ الْفَوَاكِهِ؟",
+    "ro": "Ayna maḥallu al-fawākihi?",
+    "lit": "où · boutique · [des] fruits ?"
+   }
+  ]
+ },
+ "0-0-11": {
+  "module": "Le quotidien",
+  "title": "La routine du matin",
+  "grammaire_de_la_lecon": "Le verbe au présent : « aktubu, taktubu, yaktubu »",
+  "phrases": [
+   {
+    "fr": "J'écris une lettre.",
+    "tgt": "أَكْتُبُ رِسَالَةً.",
+    "ro": "Aktubu risālatan.",
+    "lit": "j'écris · lettre"
+   },
+   {
+    "fr": "Tu écris en arabe.",
+    "tgt": "تَكْتُبُ بِالْعَرَبِيَّةِ.",
+    "ro": "Taktubu bi-l-ʿarabiyyati.",
+    "lit": "tu écris · en · [l']arabe"
+   },
+   {
+    "fr": "Karim écrit dans son cahier.",
+    "tgt": "يَكْتُبُ كَرِيمٌ فِي دَفْتَرِهِ.",
+    "ro": "Yaktubu Karīmun fī daftarihi.",
+    "lit": "il écrit · Karim · dans · cahier-de-lui"
+   },
+   {
+    "fr": "Je bois du café le matin.",
+    "tgt": "أَشْرَبُ الْقَهْوَةَ فِي الصَّبَاحِ.",
+    "ro": "Ashrabu al-qahwata fī aṣ-ṣabāḥi.",
+    "lit": "je bois · [le] café · dans · [le] matin"
+   },
+   {
+    "fr": "Elle écrit un court message.",
+    "tgt": "هِيَ تَكْتُبُ رِسَالَةً قَصِيرَةً.",
+    "ro": "Hiya taktubu risālatan qaṣīratan.",
+    "lit": "elle · elle écrit · message · court"
+   },
+   {
+    "fr": "Je me réveille tôt.",
+    "tgt": "أَسْتَيْقِظُ مُبَكِّرًا.",
+    "ro": "Astayqiẓu mubakkiran.",
+    "lit": "je me réveille · tôt"
+   },
+   {
+    "fr": "Il mange du pain et du houmous.",
+    "tgt": "يَأْكُلُ خُبْزًا وَحُمُّصًا.",
+    "ro": "Yaʾkulu khubzan wa-ḥummuṣan.",
+    "lit": "il mange · pain · [et] · houmous"
+   },
+   {
+    "fr": "Je lis le journal.",
+    "tgt": "أَقْرَأُ الْجَرِيدَةَ.",
+    "ro": "Aqraʾu al-jarīdata.",
+    "lit": "je lis · [le] journal"
+   },
+   {
+    "fr": "Leïla boit un café à la cardamome.",
+    "tgt": "تَشْرَبُ لَيْلَى قَهْوَةً بِالْهَيْلِ.",
+    "ro": "Tashrabu Laylā qahwatan bi-l-hayli.",
+    "lit": "elle boit · Leïla · café · avec · [la] cardamome"
+   },
+   {
+    "fr": "Il écrit son nom.",
+    "tgt": "يَكْتُبُ اسْمَهُ.",
+    "ro": "Yaktubu ismahu.",
+    "lit": "il écrit · nom-de-lui"
+   }
+  ]
+ },
+ "0-0-12": {
+  "module": "Le quotidien",
+  "title": "Livres et bureaux",
+  "grammaire_de_la_lecon": "La racine de trois lettres : k, t, b",
+  "phrases": [
+   {
+    "fr": "Le livre est sur le bureau.",
+    "tgt": "الْكِتَابُ عَلَى الْمَكْتَبِ.",
+    "ro": "Al-kitābu ʿalā al-maktabi.",
+    "lit": "[le] livre · sur · [le] bureau"
+   },
+   {
+    "fr": "L'écrivain est à la bibliothèque.",
+    "tgt": "الْكَاتِبُ فِي الْمَكْتَبَةِ.",
+    "ro": "Al-kātibu fī al-maktabati.",
+    "lit": "[l']écrivain · dans · [la] bibliothèque"
+   },
+   {
+    "fr": "La librairie est près du marché.",
+    "tgt": "الْمَكْتَبَةُ قَرِيبَةٌ مِنَ السُّوقِ.",
+    "ro": "Al-maktabatu qarībatun mina as-sūqi.",
+    "lit": "[la] librairie · proche · de · [le] marché"
+   },
+   {
+    "fr": "J'écris un livre.",
+    "tgt": "أَكْتُبُ كِتَابًا.",
+    "ro": "Aktubu kitāban.",
+    "lit": "j'écris · livre"
+   },
+   {
+    "fr": "Le bureau de poste est fermé.",
+    "tgt": "مَكْتَبُ الْبَرِيدِ مُغْلَقٌ.",
+    "ro": "Maktabu al-barīdi mughlaqun.",
+    "lit": "bureau · [de la] poste · fermé"
+   },
+   {
+    "fr": "C'est un écrivain jordanien.",
+    "tgt": "هُوَ كَاتِبٌ أُرْدُنِيٌّ.",
+    "ro": "Huwa kātibun urduniyyun.",
+    "lit": "lui · écrivain · jordanien"
+   },
+   {
+    "fr": "Ses livres sont célèbres.",
+    "tgt": "كُتُبُهُ مَشْهُورَةٌ.",
+    "ro": "Kutubuhu mashhūratun.",
+    "lit": "livres-de-lui · célèbres"
+   },
+   {
+    "fr": "Le message est écrit en arabe.",
+    "tgt": "الرِّسَالَةُ مَكْتُوبَةٌ بِالْعَرَبِيَّةِ.",
+    "ro": "Ar-risālatu maktūbatun bi-l-ʿarabiyyati.",
+    "lit": "[le] message · écrit · en · [l']arabe"
+   },
+   {
+    "fr": "Le bureau de Leïla est bien rangé.",
+    "tgt": "مَكْتَبُ لَيْلَى مُرَتَّبٌ.",
+    "ro": "Maktabu Laylā murattabun.",
+    "lit": "bureau · [de] Leïla · rangé"
+   },
+   {
+    "fr": "J'aime la bibliothèque.",
+    "tgt": "أُحِبُّ الْمَكْتَبَةَ.",
+    "ro": "Uḥibbu al-maktabata.",
+    "lit": "j'aime · [la] bibliothèque"
+   }
+  ]
+ },
+ "0-0-13": {
+  "module": "Le quotidien",
+  "title": "Se déplacer en ville",
+  "grammaire_de_la_lecon": "Les prépositions : « fi, ala, min, ila »",
+  "phrases": [
+   {
+    "fr": "Je vais au centre-ville.",
+    "tgt": "أَذْهَبُ إِلَى وَسَطِ الْمَدِينَةِ.",
+    "ro": "Adhhabu ilā wasaṭi al-madīnati.",
+    "lit": "je vais · vers · centre · [de la] ville"
+   },
+   {
+    "fr": "Le taxi est dans la rue.",
+    "tgt": "التَّاكْسِي فِي الشَّارِعِ.",
+    "ro": "At-tāksī fī ash-shāriʿi.",
+    "lit": "[le] taxi · dans · [la] rue"
+   },
+   {
+    "fr": "Je rentre du marché.",
+    "tgt": "أَرْجِعُ مِنَ السُّوقِ.",
+    "ro": "Arjiʿu mina as-sūqi.",
+    "lit": "je reviens · de · [le] marché"
+   },
+   {
+    "fr": "Les clés sont sur la table.",
+    "tgt": "الْمَفَاتِيحُ عَلَى الطَّاوِلَةِ.",
+    "ro": "Al-mafātīḥu ʿalā aṭ-ṭāwilati.",
+    "lit": "[les] clés · sur · [la] table"
+   },
+   {
+    "fr": "Je vais de l'hôtel à la citadelle.",
+    "tgt": "أَذْهَبُ مِنَ الْفُنْدُقِ إِلَى الْقَلْعَةِ.",
+    "ro": "Adhhabu mina al-funduqi ilā al-qalʿati.",
+    "lit": "je vais · de · [l']hôtel · vers · [la] citadelle"
+   },
+   {
+    "fr": "Le chauffeur est dans la voiture.",
+    "tgt": "السَّائِقُ فِي السَّيَّارَةِ.",
+    "ro": "As-sāʾiqu fī as-sayyārati.",
+    "lit": "[le] chauffeur · dans · [la] voiture"
+   },
+   {
+    "fr": "Le bus va à l'université.",
+    "tgt": "الْحَافِلَةُ تَذْهَبُ إِلَى الْجَامِعَةِ.",
+    "ro": "Al-ḥāfilatu tadhhabu ilā al-jāmiʿati.",
+    "lit": "[le] bus · elle va · vers · [l']université"
+   },
+   {
+    "fr": "Le sac est sur le siège.",
+    "tgt": "الْحَقِيبَةُ عَلَى الْمَقْعَدِ.",
+    "ro": "Al-ḥaqībatu ʿalā al-maqʿadi.",
+    "lit": "[le] sac · sur · [le] siège"
+   },
+   {
+    "fr": "Leïla arrive de l'aéroport.",
+    "tgt": "تَصِلُ لَيْلَى مِنَ الْمَطَارِ.",
+    "ro": "Taṣilu Laylā mina al-maṭāri.",
+    "lit": "elle arrive · Leïla · de · [l']aéroport"
+   },
+   {
+    "fr": "Nous sommes dans le taxi.",
+    "tgt": "نَحْنُ فِي التَّاكْسِي.",
+    "ro": "Naḥnu fī at-tāksī.",
+    "lit": "nous · dans · [le] taxi"
+   }
+  ]
+ },
+ "0-0-14": {
+  "module": "Le quotidien",
+  "title": "Ce que j'ai",
+  "grammaire_de_la_lecon": "« Indi » : j'ai, littéralement chez moi",
+  "phrases": [
+   {
+    "fr": "J'ai un téléphone neuf.",
+    "tgt": "عِنْدِي هَاتِفٌ جَدِيدٌ.",
+    "ro": "ʿIndī hātifun jadīdun.",
+    "lit": "chez-moi · téléphone · neuf"
+   },
+   {
+    "fr": "Tu as une voiture ?",
+    "tgt": "عِنْدَكَ سَيَّارَةٌ؟",
+    "ro": "ʿIndaka sayyāratun?",
+    "lit": "chez-toi · voiture ?"
+   },
+   {
+    "fr": "Elle a une sœur.",
+    "tgt": "عِنْدَهَا أُخْتٌ.",
+    "ro": "ʿIndahā ukhtun.",
+    "lit": "chez-elle · sœur"
+   },
+   {
+    "fr": "Il a un rendez-vous.",
+    "tgt": "عِنْدَهُ مَوْعِدٌ.",
+    "ro": "ʿIndahu mawʿidun.",
+    "lit": "chez-lui · rendez-vous"
+   },
+   {
+    "fr": "J'ai une question.",
+    "tgt": "عِنْدِي سُؤَالٌ.",
+    "ro": "ʿIndī suʾālun.",
+    "lit": "chez-moi · question"
+   },
+   {
+    "fr": "Leïla, tu as un stylo ?",
+    "tgt": "عِنْدَكِ قَلَمٌ يَا لَيْلَى؟",
+    "ro": "ʿIndaki qalamun yā Laylā?",
+    "lit": "chez-toi (fém.) · stylo · ô · Leïla ?"
+   },
+   {
+    "fr": "J'ai beaucoup de travail.",
+    "tgt": "عِنْدِي عَمَلٌ كَثِيرٌ.",
+    "ro": "ʿIndī ʿamalun kathīrun.",
+    "lit": "chez-moi · travail · nombreux"
+   },
+   {
+    "fr": "Karim a un petit appartement.",
+    "tgt": "عِنْدَ كَرِيمٍ شَقَّةٌ صَغِيرَةٌ.",
+    "ro": "ʿInda Karīmin shaqqatun ṣaghīratun.",
+    "lit": "chez · Karim · appartement · petit"
+   },
+   {
+    "fr": "Je n'ai pas le temps.",
+    "tgt": "لَيْسَ عِنْدِي وَقْتٌ.",
+    "ro": "Laysa ʿindī waqtun.",
+    "lit": "[il n'est pas] · chez-moi · temps"
+   },
+   {
+    "fr": "Tu as son numéro de téléphone ?",
+    "tgt": "عِنْدَكَ رَقْمُ هَاتِفِهِ؟",
+    "ro": "ʿIndaka raqmu hātifihi?",
+    "lit": "chez-toi · numéro · téléphone-de-lui ?"
+   }
+  ]
+ },
+ "0-0-15": {
+  "module": "Le quotidien",
+  "title": "Les nombres et l'heure",
+  "grammaire_de_la_lecon": "Compter de un à dix",
+  "phrases": [
+   {
+    "fr": "Un, deux, trois.",
+    "tgt": "وَاحِدٌ، اِثْنَانِ، ثَلَاثَةٌ.",
+    "ro": "Wāḥidun, ithnāni, thalāthatun.",
+    "lit": "un · deux · trois"
+   },
+   {
+    "fr": "Quatre, cinq, six.",
+    "tgt": "أَرْبَعَةٌ، خَمْسَةٌ، سِتَّةٌ.",
+    "ro": "Arbaʿatun, khamsatun, sittatun.",
+    "lit": "quatre · cinq · six"
+   },
+   {
+    "fr": "Sept, huit, neuf, dix.",
+    "tgt": "سَبْعَةٌ، ثَمَانِيَةٌ، تِسْعَةٌ، عَشَرَةٌ.",
+    "ro": "Sabʿatun, thamāniyatun, tisʿatun, ʿasharatun.",
+    "lit": "sept · huit · neuf · dix"
+   },
+   {
+    "fr": "Il est cinq heures.",
+    "tgt": "السَّاعَةُ الْخَامِسَةُ.",
+    "ro": "As-sāʿatu al-khāmisatu.",
+    "lit": "[l']heure · [la] cinquième"
+   },
+   {
+    "fr": "J'ai deux livres.",
+    "tgt": "عِنْدِي كِتَابَانِ.",
+    "ro": "ʿIndī kitābāni.",
+    "lit": "chez-moi · deux-livres"
+   },
+   {
+    "fr": "Le falafel coûte un dinar.",
+    "tgt": "الْفَلَافِلُ بِدِينَارٍ وَاحِدٍ.",
+    "ro": "Al-falāfilu bi-dīnārin wāḥidin.",
+    "lit": "[le] falafel · pour · dinar · un"
+   },
+   {
+    "fr": "Nous sommes cinq.",
+    "tgt": "نَحْنُ خَمْسَةٌ.",
+    "ro": "Naḥnu khamsatun.",
+    "lit": "nous · cinq"
+   },
+   {
+    "fr": "Karim a trois sœurs.",
+    "tgt": "عِنْدَ كَرِيمٍ ثَلَاثُ أَخَوَاتٍ.",
+    "ro": "ʿInda Karīmin thalāthu akhawātin.",
+    "lit": "chez · Karim · trois · sœurs"
+   },
+   {
+    "fr": "Le taxi coûte quatre dinars.",
+    "tgt": "أُجْرَةُ التَّاكْسِي أَرْبَعَةُ دَنَانِيرَ.",
+    "ro": "Ujratu at-tāksī arbaʿatu danānīra.",
+    "lit": "prix · [du] taxi · quatre · dinars"
+   },
+   {
+    "fr": "Il est dix heures.",
+    "tgt": "السَّاعَةُ الْعَاشِرَةُ.",
+    "ro": "As-sāʿatu al-ʿāshiratu.",
+    "lit": "[l']heure · [la] dixième"
+   }
+  ]
+ },
+ "0-0-16": {
+  "module": "Le quotidien",
+  "title": "Les vêtements et les couleurs",
+  "grammaire_de_la_lecon": "L'adjectif se place après le nom et s'accorde",
+  "phrases": [
+   {
+    "fr": "J'ai une chemise blanche.",
+    "tgt": "عِنْدِي قَمِيصٌ أَبْيَضُ.",
+    "ro": "ʿIndī qamīṣun abyaḍu.",
+    "lit": "chez-moi · chemise · blanche"
+   },
+   {
+    "fr": "Elle porte une robe rouge.",
+    "tgt": "تَلْبَسُ فُسْتَانًا أَحْمَرَ.",
+    "ro": "Talbasu fustānan aḥmara.",
+    "lit": "elle porte · robe · rouge"
+   },
+   {
+    "fr": "Le pantalon noir est cher.",
+    "tgt": "الْبِنْطَالُ الْأَسْوَدُ غَالٍ.",
+    "ro": "Al-binṭālu al-aswadu ghālin.",
+    "lit": "[le] pantalon · [le] noir · cher"
+   },
+   {
+    "fr": "La veste verte est belle.",
+    "tgt": "السُّتْرَةُ الْخَضْرَاءُ جَمِيلَةٌ.",
+    "ro": "As-sutratu al-khaḍrāʾu jamīlatun.",
+    "lit": "[la] veste · [la] verte · belle"
+   },
+   {
+    "fr": "Je cherche un grand sac.",
+    "tgt": "أَبْحَثُ عَنْ حَقِيبَةٍ كَبِيرَةٍ.",
+    "ro": "Abḥathu ʿan ḥaqībatin kabīratin.",
+    "lit": "je cherche · [après] · sac · grand"
+   },
+   {
+    "fr": "C'est une petite boutique.",
+    "tgt": "هَذَا مَحَلٌّ صَغِيرٌ.",
+    "ro": "Hādhā maḥallun ṣaghīrun.",
+    "lit": "ceci · boutique · petite"
+   },
+   {
+    "fr": "Mes chaussures neuves sont confortables.",
+    "tgt": "حِذَائِي الْجَدِيدُ مُرِيحٌ.",
+    "ro": "Ḥidhāʾī al-jadīdu murīḥun.",
+    "lit": "chaussures-de-moi · [les] neuves · confortables"
+   },
+   {
+    "fr": "Une écharpe bleue, s'il vous plaît.",
+    "tgt": "وِشَاحٌ أَزْرَقُ مِنْ فَضْلِكَ.",
+    "ro": "Wishāḥun azraqu min faḍlika.",
+    "lit": "écharpe · bleue · de · faveur-de-toi"
+   },
+   {
+    "fr": "Leïla aime la couleur jaune.",
+    "tgt": "تُحِبُّ لَيْلَى اللَّوْنَ الْأَصْفَرَ.",
+    "ro": "Tuḥibbu Laylā al-lawna al-aṣfara.",
+    "lit": "elle aime · Leïla · [la] couleur · [la] jaune"
+   },
+   {
+    "fr": "C'est une jolie couleur.",
+    "tgt": "هَذَا لَوْنٌ جَمِيلٌ.",
+    "ro": "Hādhā lawnun jamīlun.",
+    "lit": "ceci · couleur · jolie"
+   }
+  ]
+ },
+ "0-0-17": {
+  "module": "Le quotidien",
+  "title": "La météo à Amman",
+  "grammaire_de_la_lecon": "« Hunaka » : il y a",
+  "phrases": [
+   {
+    "fr": "Il y a du soleil aujourd'hui.",
+    "tgt": "هُنَاكَ شَمْسٌ الْيَوْمَ.",
+    "ro": "Hunāka shamsun al-yawma.",
+    "lit": "il y a · soleil · [le] jour"
+   },
+   {
+    "fr": "Il y a un vent fort à la citadelle.",
+    "tgt": "هُنَاكَ رِيحٌ قَوِيَّةٌ فِي الْقَلْعَةِ.",
+    "ro": "Hunāka rīḥun qawiyyatun fī al-qalʿati.",
+    "lit": "il y a · vent · fort · dans · [la] citadelle"
+   },
+   {
+    "fr": "Il y a un marché près d'ici.",
+    "tgt": "هُنَاكَ سُوقٌ قَرِيبٌ مِنْ هُنَا.",
+    "ro": "Hunāka sūqun qarībun min hunā.",
+    "lit": "il y a · marché · proche · de · ici"
+   },
+   {
+    "fr": "Il y a beaucoup de monde dans la rue.",
+    "tgt": "هُنَاكَ نَاسٌ كَثِيرُونَ فِي الشَّارِعِ.",
+    "ro": "Hunāka nāsun kathīrūna fī ash-shāriʿi.",
+    "lit": "il y a · gens · nombreux · dans · [la] rue"
+   },
+   {
+    "fr": "Il fait froid ce soir.",
+    "tgt": "الْجَوُّ بَارِدٌ هَذَا الْمَسَاءَ.",
+    "ro": "Al-jawwu bāridun hādhā al-masāʾa.",
+    "lit": "[le] temps · froid · ce · [le] soir"
+   },
+   {
+    "fr": "Il y a de la neige en hiver.",
+    "tgt": "هُنَاكَ ثَلْجٌ فِي الشِّتَاءِ.",
+    "ro": "Hunāka thaljun fī ash-shitāʾi.",
+    "lit": "il y a · neige · dans · [l']hiver"
+   },
+   {
+    "fr": "Il y a des nuages sur Amman.",
+    "tgt": "هُنَاكَ غُيُومٌ فَوْقَ عَمَّانَ.",
+    "ro": "Hunāka ghuyūmun fawqa ʿammāna.",
+    "lit": "il y a · nuages · au-dessus-de · Amman"
+   },
+   {
+    "fr": "Il y a une pharmacie dans le quartier.",
+    "tgt": "هُنَاكَ صَيْدَلِيَّةٌ فِي الْحَيِّ.",
+    "ro": "Hunāka ṣaydaliyyatun fī al-ḥayyi.",
+    "lit": "il y a · pharmacie · dans · [le] quartier"
+   },
+   {
+    "fr": "Il fait chaud en été.",
+    "tgt": "الْجَوُّ حَارٌّ فِي الصَّيْفِ.",
+    "ro": "Al-jawwu ḥārrun fī aṣ-ṣayfi.",
+    "lit": "[le] temps · chaud · dans · [l']été"
+   },
+   {
+    "fr": "Y a-t-il de la pluie demain ?",
+    "tgt": "هَلْ هُنَاكَ مَطَرٌ غَدًا؟",
+    "ro": "Hal hunāka maṭarun ghadan?",
+    "lit": "[question] · il y a · pluie · demain ?"
+   }
+  ]
+ },
+ "0-0-18": {
+  "module": "Le quotidien",
+  "title": "Une journée de travail",
+  "grammaire_de_la_lecon": "La négation du verbe au présent : la",
+  "phrases": [
+   {
+    "fr": "Je ne bois pas de café le soir.",
+    "tgt": "لَا أَشْرَبُ الْقَهْوَةَ فِي الْمَسَاءِ.",
+    "ro": "Lā ashrabu al-qahwata fī al-masāʾi.",
+    "lit": "[ne… pas] · je bois · [le] café · dans · [le] soir"
+   },
+   {
+    "fr": "Je ne comprends pas.",
+    "tgt": "لَا أَفْهَمُ.",
+    "ro": "Lā afhamu.",
+    "lit": "[ne… pas] · je comprends"
+   },
+   {
+    "fr": "Il ne travaille pas le vendredi.",
+    "tgt": "لَا يَعْمَلُ يَوْمَ الْجُمُعَةِ.",
+    "ro": "Lā yaʿmalu yawma al-jumuʿati.",
+    "lit": "[ne… pas] · il travaille · jour · [du] vendredi"
+   },
+   {
+    "fr": "Tu ne manges pas de viande ?",
+    "tgt": "لَا تَأْكُلُ اللَّحْمَ؟",
+    "ro": "Lā taʾkulu al-laḥma?",
+    "lit": "[ne… pas] · tu manges · [la] viande ?"
+   },
+   {
+    "fr": "Leïla ne parle pas français.",
+    "tgt": "لَا تَتَكَلَّمُ لَيْلَى الْفَرَنْسِيَّةَ.",
+    "ro": "Lā tatakallamu Laylā al-faransiyyata.",
+    "lit": "[ne… pas] · elle parle · Leïla · [le] français"
+   },
+   {
+    "fr": "Je ne sais pas.",
+    "tgt": "لَا أَعْرِفُ.",
+    "ro": "Lā aʿrifu.",
+    "lit": "[ne… pas] · je sais"
+   },
+   {
+    "fr": "Le bus ne va pas à la citadelle.",
+    "tgt": "الْحَافِلَةُ لَا تَذْهَبُ إِلَى الْقَلْعَةِ.",
+    "ro": "Al-ḥāfilatu lā tadhhabu ilā al-qalʿati.",
+    "lit": "[le] bus · [ne… pas] · elle va · vers · [la] citadelle"
+   },
+   {
+    "fr": "Je ne travaille pas aujourd'hui.",
+    "tgt": "لَا أَعْمَلُ الْيَوْمَ.",
+    "ro": "Lā aʿmalu al-yawma.",
+    "lit": "[ne… pas] · je travaille · [le] jour"
+   },
+   {
+    "fr": "Karim n'habite pas au centre-ville.",
+    "tgt": "لَا يَسْكُنُ كَرِيمٌ فِي وَسَطِ الْمَدِينَةِ.",
+    "ro": "Lā yaskunu Karīmun fī wasaṭi al-madīnati.",
+    "lit": "[ne… pas] · il habite · Karim · dans · centre · [de la] ville"
+   },
+   {
+    "fr": "Je ne regarde pas la télévision.",
+    "tgt": "لَا أُشَاهِدُ التِّلْفَازَ.",
+    "ro": "Lā ushāhidu at-tilfāza.",
+    "lit": "[ne… pas] · je regarde · [la] télévision"
+   }
+  ]
+ },
+ "0-0-19": {
+  "module": "Le quotidien",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "Les mots de politesse",
+  "phrases": [
+   {
+    "fr": "Merci beaucoup !",
+    "tgt": "شُكْرًا جَزِيلًا!",
+    "ro": "Shukran jazīlan!",
+    "lit": "merci · abondant !"
+   },
+   {
+    "fr": "De rien.",
+    "tgt": "عَفْوًا.",
+    "ro": "ʿAfwan.",
+    "lit": "de rien"
+   },
+   {
+    "fr": "Un thé à la menthe, s'il vous plaît.",
+    "tgt": "شَايٌ بِالنَّعْنَاعِ مِنْ فَضْلِكَ.",
+    "ro": "Shāyun bi-n-naʿnāʿi min faḍlika.",
+    "lit": "thé · avec · [la] menthe · de · faveur-de-toi"
+   },
+   {
+    "fr": "Bienvenue à la maison !",
+    "tgt": "أَهْلًا وَسَهْلًا فِي الْبَيْتِ!",
+    "ro": "Ahlan wa-sahlan fī al-bayti!",
+    "lit": "bienvenue · [et] · aisance · dans · [la] maison !"
+   },
+   {
+    "fr": "Je parle un peu arabe maintenant.",
+    "tgt": "أَتَكَلَّمُ الْعَرَبِيَّةَ قَلِيلًا الْآنَ.",
+    "ro": "Atakallamu al-ʿarabiyyata qalīlan al-āna.",
+    "lit": "je parle · [l']arabe · un-peu · maintenant"
+   },
+   {
+    "fr": "J'aime beaucoup Amman.",
+    "tgt": "أُحِبُّ عَمَّانَ كَثِيرًا.",
+    "ro": "Uḥibbu ʿammāna kathīran.",
+    "lit": "j'aime · Amman · beaucoup"
+   },
+   {
+    "fr": "L'arabe n'est pas difficile.",
+    "tgt": "الْعَرَبِيَّةُ لَيْسَتْ صَعْبَةً.",
+    "ro": "Al-ʿarabiyyatu laysat ṣaʿbatan.",
+    "lit": "[l']arabe · [n'est pas] · difficile"
+   },
+   {
+    "fr": "Une knafeh, s'il te plaît, Leïla.",
+    "tgt": "كُنَافَةٌ مِنْ فَضْلِكِ يَا لَيْلَى.",
+    "ro": "Kunāfatun min faḍliki yā Laylā.",
+    "lit": "knafeh · de · faveur-de-toi (fém.) · ô · Leïla"
+   },
+   {
+    "fr": "Merci, et à bientôt !",
+    "tgt": "شُكْرًا، وَإِلَى اللِّقَاءِ!",
+    "ro": "Shukran, wa-ilā al-liqāʾi!",
+    "lit": "merci · [et] · jusqu'à · [la] rencontre !"
+   },
+   {
+    "fr": "Pardon, où est le taxi ?",
+    "tgt": "عَفْوًا، أَيْنَ التَّاكْسِي؟",
+    "ro": "ʿAfwan, ayna at-tāksī?",
+    "lit": "pardon · où · [le] taxi ?"
+   }
+  ]
+ },
+ "0-1-0": {
+  "module": "En voyage",
+  "title": "Arrivée à l'aéroport de Marrakech",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Bienvenue au Maroc.",
+    "tgt": "مَرْحَبًا بِكَ فِي الْمَغْرِبِ.",
+    "ro": "Marḥaban bika fī l-Maghribi.",
+    "lit": "bienvenue · [avec] toi · dans · le-Maroc"
+   },
+   {
+    "fr": "C'est l'aéroport de Marrakech.",
+    "tgt": "هَذَا مَطَارُ مُرَّاكُشَ.",
+    "ro": "Hādhā maṭāru Murrākusha.",
+    "lit": "ceci · aéroport · [de] Marrakech"
+   },
+   {
+    "fr": "Où est mon passeport ?",
+    "tgt": "أَيْنَ جَوَازُ سَفَرِي؟",
+    "ro": "Ayna jawāzu safarī?",
+    "lit": "où · permis · [de] voyage-de-moi ?"
+   },
+   {
+    "fr": "Mon passeport est dans mon sac.",
+    "tgt": "جَوَازُ سَفَرِي فِي حَقِيبَتِي.",
+    "ro": "Jawāzu safarī fī ḥaqībatī.",
+    "lit": "permis · [de] voyage-de-moi · dans · sac-de-moi"
+   },
+   {
+    "fr": "Je suis un touriste français.",
+    "tgt": "أَنَا سَائِحٌ فَرَنْسِيٌّ.",
+    "ro": "Anā sāʾiḥun faransiyyun.",
+    "lit": "moi · touriste · français"
+   },
+   {
+    "fr": "La file d'attente à la douane est longue.",
+    "tgt": "طَابُورُ الْجَمَارِكِ طَوِيلٌ.",
+    "ro": "Ṭābūru l-jamāriki ṭawīlun.",
+    "lit": "file · [de] la-douane · longue"
+   },
+   {
+    "fr": "Où est la sortie de l'aéroport ?",
+    "tgt": "أَيْنَ مَخْرَجُ الْمَطَارِ؟",
+    "ro": "Ayna makhraju l-maṭāri?",
+    "lit": "où · sortie · [de] l'aéroport ?"
+   },
+   {
+    "fr": "La sortie est à droite, après la douane.",
+    "tgt": "الْمَخْرَجُ عَلَى الْيَمِينِ بَعْدَ الْجَمَارِكِ.",
+    "ro": "Al-makhraju ʿalā l-yamīni baʿda l-jamāriki.",
+    "lit": "la-sortie · sur · la-droite · après · la-douane"
+   },
+   {
+    "fr": "Il fait chaud à Marrakech.",
+    "tgt": "الْجَوُّ حَارٌّ فِي مُرَّاكُشَ.",
+    "ro": "Al-jawwu ḥārrun fī Murrākusha.",
+    "lit": "le-temps · chaud · dans · Marrakech"
+   },
+   {
+    "fr": "J'ai une réservation dans un riad.",
+    "tgt": "عِنْدِي حَجْزٌ فِي رِيَاضٍ.",
+    "ro": "ʿIndī ḥajzun fī riyāḍin.",
+    "lit": "chez-moi · réservation · dans · riad"
+   }
+  ]
+ },
+ "0-1-1": {
+  "module": "En voyage",
+  "title": "Le taxi vers la ville rouge",
+  "grammaire_de_la_lecon": "Les sons propres à l'arabe : ha profond, ayn, kha, qaf",
+  "phrases": [
+   {
+    "fr": "Le taxi est devant l'aéroport.",
+    "tgt": "سَيَّارَةُ الْأُجْرَةِ أَمَامَ الْمَطَارِ.",
+    "ro": "Sayyāratu l-ujrati amāma l-maṭāri.",
+    "lit": "voiture · [de] la-location · devant · l'aéroport"
+   },
+   {
+    "fr": "Vers la médina, s'il vous plaît.",
+    "tgt": "إِلَى الْمَدِينَةِ الْقَدِيمَةِ، مِنْ فَضْلِكَ.",
+    "ro": "Ilā l-madīnati l-qadīmati, min faḍlika.",
+    "lit": "vers · la-ville · l'ancienne, · de · faveur-de-toi"
+   },
+   {
+    "fr": "La valise est lourde.",
+    "tgt": "الْحَقِيبَةُ ثَقِيلَةٌ.",
+    "ro": "Al-ḥaqībatu thaqīlatun.",
+    "lit": "la-valise · lourde"
+   },
+   {
+    "fr": "Le chauffeur est sympathique.",
+    "tgt": "السَّائِقُ لَطِيفٌ.",
+    "ro": "As-sāʾiqu laṭīfun.",
+    "lit": "le-chauffeur · sympathique"
+   },
+   {
+    "fr": "Le ciel est bleu et clair.",
+    "tgt": "السَّمَاءُ زَرْقَاءُ وَصَافِيَةٌ.",
+    "ro": "As-samāʾu zarqāʾu wa-ṣāfiyatun.",
+    "lit": "le-ciel · bleu · [et] clair"
+   },
+   {
+    "fr": "Le riad est loin ?",
+    "tgt": "هَلِ الرِّيَاضُ بَعِيدٌ؟",
+    "ro": "Hali r-riyāḍu baʿīdun?",
+    "lit": "[question] · le-riad · loin ?"
+   },
+   {
+    "fr": "Non, il est près de la place.",
+    "tgt": "لَا، هُوَ قَرِيبٌ مِنَ السَّاحَةِ.",
+    "ro": "Lā, huwa qarībun mina s-sāḥati.",
+    "lit": "non, · lui · proche · de · la-place"
+   },
+   {
+    "fr": "La ville est rouge et belle.",
+    "tgt": "الْمَدِينَةُ حَمْرَاءُ وَجَمِيلَةٌ.",
+    "ro": "Al-madīnatu ḥamrāʾu wa-jamīlatun.",
+    "lit": "la-ville · rouge · [et] belle"
+   },
+   {
+    "fr": "Voici la place Jemaa el-Fna.",
+    "tgt": "هَذِهِ سَاحَةُ جَامِعِ الْفَنَاءِ.",
+    "ro": "Hādhihi sāḥatu Jāmiʿi l-Fanāʾi.",
+    "lit": "celle-ci · place · [de] Jemaa · el-Fna"
+   },
+   {
+    "fr": "Le riad est calme à l'intérieur.",
+    "tgt": "الرِّيَاضُ هَادِئٌ مِنَ الدَّاخِلِ.",
+    "ro": "Ar-riyāḍu hādiʾun mina d-dākhili.",
+    "lit": "le-riad · calme · de · l'intérieur"
+   }
+  ]
+ },
+ "0-1-2": {
+  "module": "En voyage",
+  "title": "Un riad dans la médina",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Le riad a un beau patio.",
+    "tgt": "فِي الرِّيَاضِ فِنَاءٌ جَمِيلٌ.",
+    "ro": "Fī r-riyāḍi fināʾun jamīlun.",
+    "lit": "dans · le-riad · patio · beau"
+   },
+   {
+    "fr": "Il y a une fontaine au milieu.",
+    "tgt": "هُنَاكَ نَافُورَةٌ فِي الْوَسَطِ.",
+    "ro": "Hunāka nāfūratun fī l-wasaṭi.",
+    "lit": "il-y-a · fontaine · dans · le-milieu"
+   },
+   {
+    "fr": "Ma chambre est au premier étage.",
+    "tgt": "غُرْفَتِي فِي الطَّابِقِ الْأَوَّلِ.",
+    "ro": "Ghurfatī fī ṭ-ṭābiqi l-awwali.",
+    "lit": "chambre-de-moi · dans · l'étage · le-premier"
+   },
+   {
+    "fr": "Voici la clé de la chambre.",
+    "tgt": "هَذَا مِفْتَاحُ الْغُرْفَةِ.",
+    "ro": "Hādhā miftāḥu l-ghurfati.",
+    "lit": "ceci · clé · [de] la-chambre"
+   },
+   {
+    "fr": "La chambre est propre et calme.",
+    "tgt": "الْغُرْفَةُ نَظِيفَةٌ وَهَادِئَةٌ.",
+    "ro": "Al-ghurfatu naẓīfatun wa-hādiʾatun.",
+    "lit": "la-chambre · propre · [et] calme"
+   },
+   {
+    "fr": "Est-ce qu'il y a une terrasse sur le toit ?",
+    "tgt": "هَلْ هُنَاكَ سَطْحٌ؟",
+    "ro": "Hal hunāka saṭḥun?",
+    "lit": "[question] · il-y-a · terrasse ?"
+   },
+   {
+    "fr": "Oui, la terrasse est en haut.",
+    "tgt": "نَعَمْ، السَّطْحُ فِي الْأَعْلَى.",
+    "ro": "Naʿam, as-saṭḥu fī l-aʿlā.",
+    "lit": "oui, · la-terrasse · dans · le-haut"
+   },
+   {
+    "fr": "Le petit-déjeuner est servi sur la terrasse.",
+    "tgt": "الْفُطُورُ عَلَى السَّطْحِ.",
+    "ro": "Al-fuṭūru ʿalā s-saṭḥi.",
+    "lit": "le-petit-déjeuner · sur · la-terrasse"
+   },
+   {
+    "fr": "La propriétaire du riad s'appelle Nadia.",
+    "tgt": "اسْمُ الْمَالِكَةِ نَادِيَةُ.",
+    "ro": "Ismu l-mālikati Nādiyatu.",
+    "lit": "nom · [de] la-propriétaire · Nadia"
+   },
+   {
+    "fr": "Merci, le riad est magnifique.",
+    "tgt": "شُكْرًا، الرِّيَاضُ رَائِعٌ.",
+    "ro": "Shukran, ar-riyāḍu rāʾiʿun.",
+    "lit": "merci, · le-riad · magnifique"
+   }
+  ]
+ },
+ "0-1-3": {
+  "module": "En voyage",
+  "title": "Un thé à la menthe sur la place",
+  "grammaire_de_la_lecon": "« Uridu » : je veux",
+  "phrases": [
+   {
+    "fr": "Je veux un thé à la menthe.",
+    "tgt": "أُرِيدُ شَايًا بِالنَّعْنَاعِ.",
+    "ro": "Urīdu shāyan bi-n-naʿnāʿi.",
+    "lit": "je-veux · thé · avec · la-menthe"
+   },
+   {
+    "fr": "Tu veux du sucre ?",
+    "tgt": "هَلْ تُرِيدُ سُكَّرًا؟",
+    "ro": "Hal turīdu sukkaran?",
+    "lit": "[question] · tu-veux · sucre ?"
+   },
+   {
+    "fr": "Oui, je veux un peu de sucre.",
+    "tgt": "نَعَمْ، أُرِيدُ قَلِيلًا مِنَ السُّكَّرِ.",
+    "ro": "Naʿam, urīdu qalīlan mina s-sukkari.",
+    "lit": "oui, · je-veux · peu · de · le-sucre"
+   },
+   {
+    "fr": "Je ne veux pas de café.",
+    "tgt": "لَا أُرِيدُ قَهْوَةً.",
+    "ro": "Lā urīdu qahwatan.",
+    "lit": "[ne… pas] · je-veux · café"
+   },
+   {
+    "fr": "Mon amie veut un jus d'orange.",
+    "tgt": "صَدِيقَتِي تُرِيدُ عَصِيرَ بُرْتُقَالٍ.",
+    "ro": "Ṣadīqatī turīdu ʿaṣīra burtuqālin.",
+    "lit": "amie-de-moi · elle-veut · jus · [d'] orange"
+   },
+   {
+    "fr": "Qu'est-ce que tu veux, Karim ?",
+    "tgt": "مَاذَا تُرِيدُ يَا كَرِيمُ؟",
+    "ro": "Mādhā turīdu yā Karīmu?",
+    "lit": "quoi · tu-veux · [ô] Karim ?"
+   },
+   {
+    "fr": "Je veux une table sur la terrasse.",
+    "tgt": "أُرِيدُ طَاوِلَةً عَلَى السَّطْحِ.",
+    "ro": "Urīdu ṭāwilatan ʿalā s-saṭḥi.",
+    "lit": "je-veux · table · sur · la-terrasse"
+   },
+   {
+    "fr": "Nous voulons une vue sur la place.",
+    "tgt": "نُرِيدُ مَنْظَرًا عَلَى السَّاحَةِ.",
+    "ro": "Nurīdu manẓaran ʿalā s-sāḥati.",
+    "lit": "nous-voulons · vue · sur · la-place"
+   },
+   {
+    "fr": "Il veut de l'eau bien froide.",
+    "tgt": "هُوَ يُرِيدُ مَاءً بَارِدًا.",
+    "ro": "Huwa yurīdu māʾan bāridan.",
+    "lit": "lui · il-veut · eau · froide"
+   },
+   {
+    "fr": "Le thé d'ici est délicieux.",
+    "tgt": "الشَّايُ هُنَا لَذِيذٌ.",
+    "ro": "Ash-shāyu hunā ladhīdhun.",
+    "lit": "le-thé · ici · délicieux"
+   }
+  ]
+ },
+ "0-1-4": {
+  "module": "En voyage",
+  "title": "Jemaa el-Fna à la tombée du jour",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Le soir, la place est pleine de monde.",
+    "tgt": "السَّاحَةُ مُزْدَحِمَةٌ فِي الْمَسَاءِ.",
+    "ro": "As-sāḥatu muzdaḥimatun fī l-masāʾi.",
+    "lit": "la-place · bondée · dans · le-soir"
+   },
+   {
+    "fr": "Il y a de la musique partout.",
+    "tgt": "هُنَاكَ مُوسِيقَى فِي كُلِّ مَكَانٍ.",
+    "ro": "Hunāka mūsīqā fī kulli makānin.",
+    "lit": "il-y-a · musique · dans · chaque · endroit"
+   },
+   {
+    "fr": "Ce musicien est très doué.",
+    "tgt": "هَذَا الْمُوسِيقِيُّ مَاهِرٌ جِدًّا.",
+    "ro": "Hādhā l-mūsīqiyyu māhirun jiddan.",
+    "lit": "ce · le-musicien · doué · très"
+   },
+   {
+    "fr": "Ce stand vend des escargots.",
+    "tgt": "هَذَا الْكُشْكُ يَبِيعُ الْحَلَزُونَ.",
+    "ro": "Hādhā l-kushku yabīʿu l-ḥalazūna.",
+    "lit": "ce · le-stand · il-vend · l'escargot"
+   },
+   {
+    "fr": "Le jus d'orange coûte quatre dirhams.",
+    "tgt": "عَصِيرُ الْبُرْتُقَالِ بِأَرْبَعَةِ دَرَاهِمَ.",
+    "ro": "ʿAṣīru l-burtuqāli bi-arbaʿati darāhima.",
+    "lit": "jus · [de] l'orange · [à] quatre · dirhams"
+   },
+   {
+    "fr": "L'odeur des grillades est forte.",
+    "tgt": "رَائِحَةُ الشِّوَاءِ قَوِيَّةٌ.",
+    "ro": "Rāʾiḥatu sh-shiwāʾi qawiyyatun.",
+    "lit": "odeur · [de] la-grillade · forte"
+   },
+   {
+    "fr": "Pour l'instant, je n'ai pas faim.",
+    "tgt": "الْآنَ لَسْتُ جَائِعًا.",
+    "ro": "Al-āna lastu jāʾiʿan.",
+    "lit": "maintenant · [ne… pas]-je-suis · affamé"
+   },
+   {
+    "fr": "Nous sommes sur la terrasse d'un café.",
+    "tgt": "نَحْنُ عَلَى سَطْحِ مَقْهًى.",
+    "ro": "Naḥnu ʿalā saṭḥi maqhan.",
+    "lit": "nous · sur · terrasse · [d'un] café"
+   },
+   {
+    "fr": "D'ici, la vue est magnifique.",
+    "tgt": "الْمَنْظَرُ رَائِعٌ مِنْ هُنَا.",
+    "ro": "Al-manẓaru rāʾiʿun min hunā.",
+    "lit": "la-vue · magnifique · de · ici"
+   },
+   {
+    "fr": "Marrakech ne dort pas la nuit.",
+    "tgt": "مُرَّاكُشُ لَا تَنَامُ فِي اللَّيْلِ.",
+    "ro": "Murrākushu lā tanāmu fī l-layli.",
+    "lit": "Marrakech · [ne… pas] · elle-dort · dans · la-nuit"
+   }
+  ]
+ },
+ "0-1-5": {
+  "module": "En voyage",
+  "title": "Une journée dans les souks",
+  "grammaire_de_la_lecon": "Le verbe au passé : « kataba, katabtu »",
+  "phrases": [
+   {
+    "fr": "Ce matin, j'ai visité le souk.",
+    "tgt": "زُرْتُ السُّوقَ هَذَا الصَّبَاحَ.",
+    "ro": "Zurtu s-sūqa hādhā ṣ-ṣabāḥa.",
+    "lit": "j'ai-visité · le-souk · ce · le-matin"
+   },
+   {
+    "fr": "J'ai écrit une carte postale.",
+    "tgt": "كَتَبْتُ بِطَاقَةً بَرِيدِيَّةً.",
+    "ro": "Katabtu biṭāqatan barīdiyyatan.",
+    "lit": "j'ai-écrit · carte · postale"
+   },
+   {
+    "fr": "Ma sœur a acheté un tapis.",
+    "tgt": "اشْتَرَتْ أُخْتِي سَجَّادَةً.",
+    "ro": "Ishtarat ukhtī sajjādatan.",
+    "lit": "elle-a-acheté · sœur-de-moi · tapis"
+   },
+   {
+    "fr": "Nous avons bu le thé chez le marchand.",
+    "tgt": "شَرِبْنَا الشَّايَ عِنْدَ التَّاجِرِ.",
+    "ro": "Sharibnā sh-shāya ʿinda t-tājiri.",
+    "lit": "nous-avons-bu · le-thé · chez · le-marchand"
+   },
+   {
+    "fr": "Le marchand a souri.",
+    "tgt": "ابْتَسَمَ التَّاجِرُ.",
+    "ro": "Ibtasama t-tājiru.",
+    "lit": "il-a-souri · le-marchand"
+   },
+   {
+    "fr": "Tu as trouvé ton chemin ?",
+    "tgt": "هَلْ وَجَدْتَ طَرِيقَكَ؟",
+    "ro": "Hal wajadta ṭarīqaka?",
+    "lit": "[question] · tu-as-trouvé · chemin-de-toi ?"
+   },
+   {
+    "fr": "Non, je me suis perdu dans la médina.",
+    "tgt": "لَا، ضِعْتُ فِي الْمَدِينَةِ الْقَدِيمَةِ.",
+    "ro": "Lā, ḍiʿtu fī l-madīnati l-qadīmati.",
+    "lit": "non, · je-me-suis-perdu · dans · la-ville · l'ancienne"
+   },
+   {
+    "fr": "Un garçon m'a aidé.",
+    "tgt": "سَاعَدَنِي وَلَدٌ.",
+    "ro": "Sāʿadanī waladun.",
+    "lit": "il-a-aidé-moi · garçon"
+   },
+   {
+    "fr": "Il a écrit l'adresse sur un papier.",
+    "tgt": "كَتَبَ الْعُنْوَانَ عَلَى وَرَقَةٍ.",
+    "ro": "Kataba l-ʿunwāna ʿalā waraqatin.",
+    "lit": "il-a-écrit · l'adresse · sur · papier"
+   },
+   {
+    "fr": "Hier, nous avons mangé un tajine.",
+    "tgt": "أَمْسِ أَكَلْنَا طَاجِينًا.",
+    "ro": "Amsi akalnā ṭājīnan.",
+    "lit": "hier · nous-avons-mangé · tajine"
+   }
+  ]
+ },
+ "0-1-6": {
+  "module": "En voyage",
+  "title": "En train de Marrakech à Fès",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Le train pour Fès part le matin.",
+    "tgt": "يَنْطَلِقُ الْقِطَارُ إِلَى فَاسَ صَبَاحًا.",
+    "ro": "Yanṭaliqu l-qiṭāru ilā Fāsa ṣabāḥan.",
+    "lit": "il-part · le-train · vers · Fès · [le] matin"
+   },
+   {
+    "fr": "Où est le guichet des billets ?",
+    "tgt": "أَيْنَ شُبَّاكُ التَّذَاكِرِ؟",
+    "ro": "Ayna shubbāku t-tadhākiri?",
+    "lit": "où · guichet · [de] les-billets ?"
+   },
+   {
+    "fr": "Un billet pour Fès, s'il vous plaît.",
+    "tgt": "تَذْكِرَةٌ إِلَى فَاسَ، مِنْ فَضْلِكَ.",
+    "ro": "Tadhkiratun ilā Fāsa, min faḍlika.",
+    "lit": "billet · vers · Fès, · de · faveur-de-toi"
+   },
+   {
+    "fr": "En première ou en deuxième classe ?",
+    "tgt": "فِي الدَّرَجَةِ الْأُولَى أَمِ الثَّانِيَةِ؟",
+    "ro": "Fī d-darajati l-ūlā ami th-thāniyati?",
+    "lit": "dans · la-classe · la-première · [ou] · la-deuxième ?"
+   },
+   {
+    "fr": "La deuxième classe est moins chère.",
+    "tgt": "الدَّرَجَةُ الثَّانِيَةُ أَرْخَصُ.",
+    "ro": "Ad-darajatu th-thāniyatu arkhaṣu.",
+    "lit": "la-classe · la-deuxième · moins-chère"
+   },
+   {
+    "fr": "Aujourd'hui, le train est à l'heure.",
+    "tgt": "الْقِطَارُ فِي مَوْعِدِهِ الْيَوْمَ.",
+    "ro": "Al-qiṭāru fī mawʿidihi l-yawma.",
+    "lit": "le-train · dans · horaire-de-lui · aujourd'hui"
+   },
+   {
+    "fr": "Ma place est près de la fenêtre.",
+    "tgt": "مَقْعَدِي قُرْبَ النَّافِذَةِ.",
+    "ro": "Maqʿadī qurba n-nāfidhati.",
+    "lit": "siège-de-moi · près · [de] la-fenêtre"
+   },
+   {
+    "fr": "Le trajet est long et agréable.",
+    "tgt": "الرِّحْلَةُ طَوِيلَةٌ وَمُمْتِعَةٌ.",
+    "ro": "Ar-riḥlatu ṭawīlatun wa-mumtiʿatun.",
+    "lit": "le-trajet · long · [et] agréable"
+   },
+   {
+    "fr": "Mon voisin lit un journal.",
+    "tgt": "جَارِي يَقْرَأُ جَرِيدَةً.",
+    "ro": "Jārī yaqraʾu jarīdatan.",
+    "lit": "voisin-de-moi · il-lit · journal"
+   },
+   {
+    "fr": "Nous voilà enfin à Fès !",
+    "tgt": "نَحْنُ فِي فَاسَ أَخِيرًا!",
+    "ro": "Naḥnu fī Fāsa akhīran!",
+    "lit": "nous · dans · Fès · enfin !"
+   }
+  ]
+ },
+ "0-1-7": {
+  "module": "En voyage",
+  "title": "Deux valises pour Fès",
+  "grammaire_de_la_lecon": "Le duel : deux, « kitabani »",
+  "phrases": [
+   {
+    "fr": "J'ai deux valises.",
+    "tgt": "عِنْدِي حَقِيبَتَانِ.",
+    "ro": "ʿIndī ḥaqībatāni.",
+    "lit": "chez-moi · deux-valises"
+   },
+   {
+    "fr": "Les deux valises sont lourdes.",
+    "tgt": "الْحَقِيبَتَانِ ثَقِيلَتَانِ.",
+    "ro": "Al-ḥaqībatāni thaqīlatāni.",
+    "lit": "les-deux-valises · deux-lourdes"
+   },
+   {
+    "fr": "Je veux deux billets pour le musée.",
+    "tgt": "أُرِيدُ تَذْكِرَتَيْنِ لِلْمَتْحَفِ.",
+    "ro": "Urīdu tadhkiratayni li-l-matḥafi.",
+    "lit": "je-veux · deux-billets · pour · le-musée"
+   },
+   {
+    "fr": "Nous restons deux nuits à Fès.",
+    "tgt": "نَبْقَى لَيْلَتَيْنِ فِي فَاسَ.",
+    "ro": "Nabqā laylatayni fī Fāsa.",
+    "lit": "nous-restons · deux-nuits · dans · Fès"
+   },
+   {
+    "fr": "Le riad a deux portes.",
+    "tgt": "لِلرِّيَاضِ بَابَانِ.",
+    "ro": "Li-r-riyāḍi bābāni.",
+    "lit": "[à] le-riad · deux-portes"
+   },
+   {
+    "fr": "Deux guides nous attendent.",
+    "tgt": "يَنْتَظِرُنَا مُرْشِدَانِ.",
+    "ro": "Yantaẓirunā murshidāni.",
+    "lit": "il-attend-nous · deux-guides"
+   },
+   {
+    "fr": "Mes deux amis sont étudiants.",
+    "tgt": "صَدِيقَايَ طَالِبَانِ.",
+    "ro": "Ṣadīqāya ṭālibāni.",
+    "lit": "deux-amis-de-moi · deux-étudiants"
+   },
+   {
+    "fr": "Un livre ou deux livres ?",
+    "tgt": "كِتَابٌ أَمْ كِتَابَانِ؟",
+    "ro": "Kitābun am kitābāni?",
+    "lit": "livre · [ou] · deux-livres ?"
+   },
+   {
+    "fr": "J'ai acheté deux livres sur Fès.",
+    "tgt": "اشْتَرَيْتُ كِتَابَيْنِ عَنْ فَاسَ.",
+    "ro": "Ishtaraytu kitābayni ʿan Fāsa.",
+    "lit": "j'ai-acheté · deux-livres · sur · Fès"
+   },
+   {
+    "fr": "Ces deux portes sont anciennes.",
+    "tgt": "هَذَانِ الْبَابَانِ قَدِيمَانِ.",
+    "ro": "Hādhāni l-bābāni qadīmāni.",
+    "lit": "ces-deux · les-deux-portes · deux-anciennes"
+   }
+  ]
+ },
+ "0-1-8": {
+  "module": "En voyage",
+  "title": "Perdus dans la médina de Fès",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "La médina de Fès est très ancienne.",
+    "tgt": "مَدِينَةُ فَاسَ الْقَدِيمَةُ عَرِيقَةٌ جِدًّا.",
+    "ro": "Madīnatu Fāsa l-qadīmatu ʿarīqatun jiddan.",
+    "lit": "ville · [de] Fès · l'ancienne · vénérable · très"
+   },
+   {
+    "fr": "Les ruelles sont très étroites.",
+    "tgt": "الْأَزِقَّةُ ضَيِّقَةٌ جِدًّا.",
+    "ro": "Al-aziqqatu ḍayyiqatun jiddan.",
+    "lit": "les-ruelles · étroite · très"
+   },
+   {
+    "fr": "Il y a des ânes dans les ruelles.",
+    "tgt": "هُنَاكَ حَمِيرٌ فِي الْأَزِقَّةِ.",
+    "ro": "Hunāka ḥamīrun fī l-aziqqati.",
+    "lit": "il-y-a · ânes · dans · les-ruelles"
+   },
+   {
+    "fr": "Voici la célèbre tannerie.",
+    "tgt": "هَذِهِ هِيَ الدَّبَّاغَةُ الْمَشْهُورَةُ.",
+    "ro": "Hādhihi hiya d-dabbāghatu l-mashhūratu.",
+    "lit": "celle-ci · elle · la-tannerie · la-célèbre"
+   },
+   {
+    "fr": "L'odeur est un peu forte.",
+    "tgt": "الرَّائِحَةُ قَوِيَّةٌ قَلِيلًا.",
+    "ro": "Ar-rāʾiḥatu qawiyyatun qalīlan.",
+    "lit": "l'odeur · forte · un-peu"
+   },
+   {
+    "fr": "Le cuir de Fès est célèbre.",
+    "tgt": "جِلْدُ فَاسَ مَشْهُورٌ.",
+    "ro": "Jildu Fāsa mashhūrun.",
+    "lit": "cuir · [de] Fès · célèbre"
+   },
+   {
+    "fr": "Ce sac en cuir est joli.",
+    "tgt": "هَذِهِ الْحَقِيبَةُ الْجِلْدِيَّةُ جَمِيلَةٌ.",
+    "ro": "Hādhihi l-ḥaqībatu l-jildiyyatu jamīlatun.",
+    "lit": "ce · le-sac · le-en-cuir · joli"
+   },
+   {
+    "fr": "Notre guide s'appelle Youssef.",
+    "tgt": "اسْمُ مُرْشِدِنَا يُوسُفُ.",
+    "ro": "Ismu murshidinā Yūsufu.",
+    "lit": "nom · guide-de-nous · Youssef"
+   },
+   {
+    "fr": "Il connaît chaque ruelle.",
+    "tgt": "يَعْرِفُ كُلَّ زُقَاقٍ.",
+    "ro": "Yaʿrifu kulla zuqāqin.",
+    "lit": "il-connaît · chaque · ruelle"
+   },
+   {
+    "fr": "La médina est un vrai labyrinthe.",
+    "tgt": "الْمَدِينَةُ الْقَدِيمَةُ مَتَاهَةٌ حَقِيقِيَّةٌ.",
+    "ro": "Al-madīnatu l-qadīmatu matāhatun ḥaqīqiyyatun.",
+    "lit": "la-ville · l'ancienne · labyrinthe · vrai"
+   }
+  ]
+ },
+ "0-1-9": {
+  "module": "En voyage",
+  "title": "Au souk des artisans",
+  "grammaire_de_la_lecon": "Les pluriels « brisés » : « kitab, kutub »",
+  "phrases": [
+   {
+    "fr": "J'aime les livres anciens.",
+    "tgt": "أُحِبُّ الْكُتُبَ الْقَدِيمَةَ.",
+    "ro": "Uḥibbu l-kutuba l-qadīmata.",
+    "lit": "j'aime · les-livres · les-anciens"
+   },
+   {
+    "fr": "Ce marchand vend des livres.",
+    "tgt": "هَذَا التَّاجِرُ يَبِيعُ كُتُبًا.",
+    "ro": "Hādhā t-tājiru yabīʿu kutuban.",
+    "lit": "ce · le-marchand · il-vend · livres"
+   },
+   {
+    "fr": "Les souks de Fès sont nombreux.",
+    "tgt": "أَسْوَاقُ فَاسَ كَثِيرَةٌ.",
+    "ro": "Aswāqu Fāsa kathīratun.",
+    "lit": "souks · [de] Fès · nombreux"
+   },
+   {
+    "fr": "Je cherche des cadeaux pour mes amis.",
+    "tgt": "أَبْحَثُ عَنْ هَدَايَا لِأَصْدِقَائِي.",
+    "ro": "Abḥathu ʿan hadāyā li-aṣdiqāʾī.",
+    "lit": "je-cherche · [après] · cadeaux · pour · amis-de-moi"
+   },
+   {
+    "fr": "Ces tapis sont magnifiques.",
+    "tgt": "هَذِهِ السَّجَاجِيدُ رَائِعَةٌ.",
+    "ro": "Hādhihi s-sajājīdu rāʾiʿatun.",
+    "lit": "ces · les-tapis · magnifique"
+   },
+   {
+    "fr": "Les enfants jouent dans la ruelle.",
+    "tgt": "الْأَوْلَادُ يَلْعَبُونَ فِي الزُّقَاقِ.",
+    "ro": "Al-awlādu yalʿabūna fī z-zuqāqi.",
+    "lit": "les-enfants · ils-jouent · dans · la-ruelle"
+   },
+   {
+    "fr": "Les portes sont ornées de motifs.",
+    "tgt": "الْأَبْوَابُ مُزَخْرَفَةٌ.",
+    "ro": "Al-abwābu muzakhrafatun.",
+    "lit": "les-portes · ornée"
+   },
+   {
+    "fr": "J'ai acheté trois livres.",
+    "tgt": "اشْتَرَيْتُ ثَلَاثَةَ كُتُبٍ.",
+    "ro": "Ishtaraytu thalāthata kutubin.",
+    "lit": "j'ai-acheté · trois · livres"
+   },
+   {
+    "fr": "Les touristes sont nombreux aujourd'hui.",
+    "tgt": "السُّيَّاحُ كَثِيرُونَ الْيَوْمَ.",
+    "ro": "As-suyyāḥu kathīrūna l-yawma.",
+    "lit": "les-touristes · nombreux · aujourd'hui"
+   },
+   {
+    "fr": "Les rues de Fès sont pleines de monde.",
+    "tgt": "شَوَارِعُ فَاسَ مُزْدَحِمَةٌ.",
+    "ro": "Shawāriʿu Fāsa muzdaḥimatun.",
+    "lit": "rues · [de] Fès · bondée"
+   }
+  ]
+ },
+ "0-1-10": {
+  "module": "En voyage",
+  "title": "Chefchaouen, la ville bleue",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Chefchaouen est une ville bleue.",
+    "tgt": "شَفْشَاوَنُ مَدِينَةٌ زَرْقَاءُ.",
+    "ro": "Shafshāwanu madīnatun zarqāʾu.",
+    "lit": "Chefchaouen · ville · bleue"
+   },
+   {
+    "fr": "Les murs sont peints en bleu.",
+    "tgt": "الْجُدْرَانُ زَرْقَاءُ.",
+    "ro": "Al-judrānu zarqāʾu.",
+    "lit": "les-murs · bleue"
+   },
+   {
+    "fr": "La ville est dans les montagnes.",
+    "tgt": "الْمَدِينَةُ فِي الْجِبَالِ.",
+    "ro": "Al-madīnatu fī l-jibāli.",
+    "lit": "la-ville · dans · les-montagnes"
+   },
+   {
+    "fr": "Ici, l'air est vraiment frais.",
+    "tgt": "الْهَوَاءُ هُنَا مُنْعِشٌ حَقًّا.",
+    "ro": "Al-hawāʾu hunā munʿishun ḥaqqan.",
+    "lit": "l'air · ici · rafraîchissant · vraiment"
+   },
+   {
+    "fr": "Nous prenons des photos partout.",
+    "tgt": "نَلْتَقِطُ صُوَرًا فِي كُلِّ مَكَانٍ.",
+    "ro": "Naltaqiṭu ṣuwaran fī kulli makānin.",
+    "lit": "nous-prenons · photos · dans · chaque · endroit"
+   },
+   {
+    "fr": "Le chat dort sur les marches.",
+    "tgt": "الْقِطُّ نَائِمٌ عَلَى الدَّرَجِ.",
+    "ro": "Al-qiṭṭu nāʾimun ʿalā d-daraji.",
+    "lit": "le-chat · endormi · sur · l'escalier"
+   },
+   {
+    "fr": "Il y a une source près de la ville.",
+    "tgt": "هُنَاكَ نَبْعُ مَاءٍ قُرْبَ الْمَدِينَةِ.",
+    "ro": "Hunāka nabʿu māʾin qurba l-madīnati.",
+    "lit": "il-y-a · source · [d'] eau · près · [de] la-ville"
+   },
+   {
+    "fr": "Le fromage de chèvre est délicieux ici.",
+    "tgt": "جُبْنُ الْمَاعِزِ لَذِيذٌ هُنَا.",
+    "ro": "Jubnu l-māʿizi ladhīdhun hunā.",
+    "lit": "fromage · [de] la-chèvre · délicieux · ici"
+   },
+   {
+    "fr": "Les habitants sont gentils.",
+    "tgt": "السُّكَّانُ لُطَفَاءُ.",
+    "ro": "As-sukkānu luṭafāʾu.",
+    "lit": "les-habitants · gentils"
+   },
+   {
+    "fr": "Je veux rester ici une semaine.",
+    "tgt": "أُرِيدُ الْبَقَاءَ هُنَا أُسْبُوعًا.",
+    "ro": "Urīdu l-baqāʾa hunā usbūʿan.",
+    "lit": "je-veux · le-séjour · ici · semaine"
+   }
+  ]
+ },
+ "0-1-11": {
+  "module": "En voyage",
+  "title": "Demander son chemin dans le Rif",
+  "grammaire_de_la_lecon": "« Min… ila » : de… à, et les directions",
+  "phrases": [
+   {
+    "fr": "De Fès à Chefchaouen en car.",
+    "tgt": "مِنْ فَاسَ إِلَى شَفْشَاوَنَ بِالْحَافِلَةِ.",
+    "ro": "Min Fāsa ilā Shafshāwana bi-l-ḥāfilati.",
+    "lit": "de · Fès · à · Chefchaouen · avec · le-car"
+   },
+   {
+    "fr": "Le bus va de la gare à la place.",
+    "tgt": "الْحَافِلَةُ تَذْهَبُ مِنَ الْمَحَطَّةِ إِلَى السَّاحَةِ.",
+    "ro": "Al-ḥāfilatu tadhhabu mina l-maḥaṭṭati ilā s-sāḥati.",
+    "lit": "le-bus · il-va · de · la-gare · à · la-place"
+   },
+   {
+    "fr": "Où est la place principale ?",
+    "tgt": "أَيْنَ السَّاحَةُ الرَّئِيسِيَّةُ؟",
+    "ro": "Ayna s-sāḥatu r-raʾīsiyyatu?",
+    "lit": "où · la-place · la-principale ?"
+   },
+   {
+    "fr": "Tout droit, puis à gauche.",
+    "tgt": "إِلَى الْأَمَامِ، ثُمَّ إِلَى الْيَسَارِ.",
+    "ro": "Ilā l-amāmi, thumma ilā l-yasāri.",
+    "lit": "vers · l'avant, · puis · vers · la-gauche"
+   },
+   {
+    "fr": "Le restaurant est à droite de la fontaine.",
+    "tgt": "الْمَطْعَمُ عَلَى يَمِينِ النَّافُورَةِ.",
+    "ro": "Al-maṭʿamu ʿalā yamīni n-nāfūrati.",
+    "lit": "le-restaurant · sur · droite · [de] la-fontaine"
+   },
+   {
+    "fr": "Le petit musée est à gauche.",
+    "tgt": "الْمَتْحَفُ الصَّغِيرُ عَلَى الْيَسَارِ.",
+    "ro": "Al-matḥafu ṣ-ṣaghīru ʿalā l-yasāri.",
+    "lit": "le-musée · le-petit · sur · la-gauche"
+   },
+   {
+    "fr": "Je marche du matin au soir.",
+    "tgt": "أَمْشِي مِنَ الصَّبَاحِ إِلَى الْمَسَاءِ.",
+    "ro": "Amshī mina ṣ-ṣabāḥi ilā l-masāʾi.",
+    "lit": "je-marche · de · le-matin · à · le-soir"
+   },
+   {
+    "fr": "Tanger est au nord.",
+    "tgt": "طَنْجَةُ فِي الشَّمَالِ.",
+    "ro": "Ṭanjatu fī sh-shamāli.",
+    "lit": "Tanger · dans · le-nord"
+   },
+   {
+    "fr": "Le désert est au sud.",
+    "tgt": "الصَّحْرَاءُ فِي الْجَنُوبِ.",
+    "ro": "Aṣ-ṣaḥrāʾu fī l-janūbi.",
+    "lit": "le-désert · dans · le-sud"
+   },
+   {
+    "fr": "La cascade est loin d'ici ?",
+    "tgt": "هَلِ الشَّلَّالُ بَعِيدٌ مِنْ هُنَا؟",
+    "ro": "Hali sh-shallālu baʿīdun min hunā?",
+    "lit": "[question] · la-cascade · loin · de · ici ?"
+   }
+  ]
+ },
+ "0-1-12": {
+  "module": "En voyage",
+  "title": "Essaouira, au bord de l'océan",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Essaouira est au bord de l'océan.",
+    "tgt": "الصَّوِيرَةُ عَلَى شَاطِئِ الْمُحِيطِ.",
+    "ro": "Aṣ-Ṣawīratu ʿalā shāṭiʾi l-muḥīṭi.",
+    "lit": "Essaouira · sur · rivage · [de] l'océan"
+   },
+   {
+    "fr": "Aujourd'hui, le vent est fort.",
+    "tgt": "الْيَوْمَ الرِّيحُ قَوِيَّةٌ.",
+    "ro": "Al-yawma r-rīḥu qawiyyatun.",
+    "lit": "aujourd'hui · le-vent · fort"
+   },
+   {
+    "fr": "Les barques bleues sont dans le port.",
+    "tgt": "الْقَوَارِبُ الزَّرْقَاءُ فِي الْمِينَاءِ.",
+    "ro": "Al-qawāribu z-zarqāʾu fī l-mīnāʾi.",
+    "lit": "les-barques · la-bleue · dans · le-port"
+   },
+   {
+    "fr": "Le poisson est très frais.",
+    "tgt": "السَّمَكُ طَازَجٌ جِدًّا.",
+    "ro": "As-samaku ṭāzajun jiddan.",
+    "lit": "le-poisson · frais · très"
+   },
+   {
+    "fr": "Je veux du poisson grillé.",
+    "tgt": "أُرِيدُ سَمَكًا مَشْوِيًّا.",
+    "ro": "Urīdu samakan mashwiyyan.",
+    "lit": "je-veux · poisson · grillé"
+   },
+   {
+    "fr": "Les mouettes volent au-dessus du port.",
+    "tgt": "تَطِيرُ النَّوَارِسُ فَوْقَ الْمِينَاءِ.",
+    "ro": "Taṭīru n-nawārisu fawqa l-mīnāʾi.",
+    "lit": "elle-vole · les-mouettes · au-dessus · [de] le-port"
+   },
+   {
+    "fr": "La plage est longue et large.",
+    "tgt": "الشَّاطِئُ طَوِيلٌ وَوَاسِعٌ.",
+    "ro": "Ash-shāṭiʾu ṭawīlun wa-wāsiʿun.",
+    "lit": "la-plage · longue · [et] large"
+   },
+   {
+    "fr": "L'eau de l'océan est froide.",
+    "tgt": "مَاءُ الْمُحِيطِ بَارِدٌ.",
+    "ro": "Māʾu l-muḥīṭi bāridun.",
+    "lit": "eau · [de] l'océan · froide"
+   },
+   {
+    "fr": "La médina d'Essaouira est blanche.",
+    "tgt": "مَدِينَةُ الصَّوِيرَةِ الْقَدِيمَةُ بَيْضَاءُ.",
+    "ro": "Madīnatu ṣ-Ṣawīrati l-qadīmatu bayḍāʾu.",
+    "lit": "ville · [d'] Essaouira · l'ancienne · blanche"
+   },
+   {
+    "fr": "Je me sens bien ici.",
+    "tgt": "أَشْعُرُ بِالرَّاحَةِ هُنَا.",
+    "ro": "Ashʿuru bi-r-rāḥati hunā.",
+    "lit": "je-ressens · [avec] le-bien-être · ici"
+   }
+  ]
+ },
+ "0-1-13": {
+  "module": "En voyage",
+  "title": "Marchander au souk d'Essaouira",
+  "grammaire_de_la_lecon": "Les nombres au-delà de dix et les prix",
+  "phrases": [
+   {
+    "fr": "Combien coûte ce plat en céramique ?",
+    "tgt": "بِكَمْ هَذَا الطَّبَقُ الْخَزَفِيُّ؟",
+    "ro": "Bi-kam hādhā ṭ-ṭabaqu l-khazafiyyu?",
+    "lit": "[à] combien · ce · le-plat · le-en-céramique ?"
+   },
+   {
+    "fr": "Il coûte cinquante dirhams.",
+    "tgt": "ثَمَنُهُ خَمْسُونَ دِرْهَمًا.",
+    "ro": "Thamanuhu khamsūna dirhaman.",
+    "lit": "prix-de-lui · cinquante · dirham"
+   },
+   {
+    "fr": "C'est beaucoup trop cher !",
+    "tgt": "هَذَا غَالٍ جِدًّا!",
+    "ro": "Hādhā ghālin jiddan!",
+    "lit": "ceci · cher · très !"
+   },
+   {
+    "fr": "Je vous en donne trente dirhams.",
+    "tgt": "أُعْطِيكَ ثَلَاثِينَ دِرْهَمًا.",
+    "ro": "Uʿṭīka thalāthīna dirhaman.",
+    "lit": "je-donne-toi · trente · dirham"
+   },
+   {
+    "fr": "D'accord, quarante dirhams.",
+    "tgt": "حَسَنًا، أَرْبَعُونَ دِرْهَمًا.",
+    "ro": "Ḥasanan, arbaʿūna dirhaman.",
+    "lit": "bien, · quarante · dirham"
+   },
+   {
+    "fr": "Ce tapis coûte mille dirhams.",
+    "tgt": "هَذِهِ السَّجَّادَةُ بِأَلْفِ دِرْهَمٍ.",
+    "ro": "Hādhihi s-sajjādatu bi-alfi dirhamin.",
+    "lit": "ce · le-tapis · [à] mille · dirham"
+   },
+   {
+    "fr": "Notre groupe compte quinze personnes.",
+    "tgt": "فِي مَجْمُوعَتِنَا خَمْسَةَ عَشَرَ شَخْصًا.",
+    "ro": "Fī majmūʿatinā khamsata ʿashara shakhṣan.",
+    "lit": "dans · groupe-de-nous · quinze · personne"
+   },
+   {
+    "fr": "Le billet coûte vingt-cinq dirhams.",
+    "tgt": "التَّذْكِرَةُ بِخَمْسَةٍ وَعِشْرِينَ دِرْهَمًا.",
+    "ro": "At-tadhkiratu bi-khamsatin wa-ʿishrīna dirhaman.",
+    "lit": "le-billet · [à] cinq · [et] vingt · dirham"
+   },
+   {
+    "fr": "Voici cent dirhams.",
+    "tgt": "هَذِهِ مِئَةُ دِرْهَمٍ.",
+    "ro": "Hādhihi miʾatu dirhamin.",
+    "lit": "celle-ci · cent · dirham"
+   },
+   {
+    "fr": "Votre monnaie : onze dirhams.",
+    "tgt": "الْبَاقِي أَحَدَ عَشَرَ دِرْهَمًا.",
+    "ro": "Al-bāqī aḥada ʿashara dirhaman.",
+    "lit": "le-reste · onze · dirham"
+   }
+  ]
+ },
+ "0-1-14": {
+  "module": "En voyage",
+  "title": "Route vers le désert de Merzouga",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Nous partons vers le désert de Merzouga.",
+    "tgt": "نَذْهَبُ إِلَى صَحْرَاءِ مَرْزُوكَةَ.",
+    "ro": "Nadhhabu ilā ṣaḥrāʾi Marzūkata.",
+    "lit": "nous-allons · vers · désert · [de] Merzouga"
+   },
+   {
+    "fr": "La route traverse l'Atlas.",
+    "tgt": "الطَّرِيقُ يَعْبُرُ جِبَالَ الْأَطْلَسِ.",
+    "ro": "Aṭ-ṭarīqu yaʿburu jibāla l-Aṭlasi.",
+    "lit": "la-route · elle-traverse · montagnes · [de] l'Atlas"
+   },
+   {
+    "fr": "Le paysage change beaucoup.",
+    "tgt": "يَتَغَيَّرُ الْمَنْظَرُ كَثِيرًا.",
+    "ro": "Yataghayyaru l-manẓaru kathīran.",
+    "lit": "il-change · le-paysage · beaucoup"
+   },
+   {
+    "fr": "Le chauffeur connaît bien la route.",
+    "tgt": "السَّائِقُ يَعْرِفُ الطَّرِيقَ جَيِّدًا.",
+    "ro": "As-sāʾiqu yaʿrifu ṭ-ṭarīqa jayyidan.",
+    "lit": "le-chauffeur · il-connaît · la-route · bien"
+   },
+   {
+    "fr": "Nous faisons une pause à Ouarzazate.",
+    "tgt": "نَتَوَقَّفُ فِي وَرْزَازَاتَ.",
+    "ro": "Natawaqqafu fī Warzāzāta.",
+    "lit": "nous-nous-arrêtons · dans · Ouarzazate"
+   },
+   {
+    "fr": "Il fait très chaud dans la voiture.",
+    "tgt": "الْجَوُّ حَارٌّ جِدًّا فِي السَّيَّارَةِ.",
+    "ro": "Al-jawwu ḥārrun jiddan fī s-sayyārati.",
+    "lit": "le-temps · chaud · très · dans · la-voiture"
+   },
+   {
+    "fr": "Tu as de l'eau avec toi ?",
+    "tgt": "هَلْ عِنْدَكَ مَاءٌ؟",
+    "ro": "Hal ʿindaka māʾun?",
+    "lit": "[question] · chez-toi · eau ?"
+   },
+   {
+    "fr": "Oui, j'ai deux bouteilles.",
+    "tgt": "نَعَمْ، عِنْدِي زُجَاجَتَانِ.",
+    "ro": "Naʿam, ʿindī zujājatāni.",
+    "lit": "oui, · chez-moi · deux-bouteilles"
+   },
+   {
+    "fr": "Les dunes sont dorées.",
+    "tgt": "الْكُثْبَانُ ذَهَبِيَّةٌ.",
+    "ro": "Al-kuthbānu dhahabiyyatun.",
+    "lit": "les-dunes · dorée"
+   },
+   {
+    "fr": "Le silence du désert est impressionnant.",
+    "tgt": "صَمْتُ الصَّحْرَاءِ مُدْهِشٌ.",
+    "ro": "Ṣamtu ṣ-ṣaḥrāʾi mudhishun.",
+    "lit": "silence · [du] le-désert · impressionnant"
+   }
+  ]
+ },
+ "0-1-15": {
+  "module": "En voyage",
+  "title": "Une nuit sous les étoiles",
+  "grammaire_de_la_lecon": "Le futur avec « sa- » et « sawfa »",
+  "phrases": [
+   {
+    "fr": "Nous allons dormir sous une tente.",
+    "tgt": "سَنَنَامُ فِي خَيْمَةٍ.",
+    "ro": "Sananāmu fī khaymatin.",
+    "lit": "nous-dormirons · dans · tente"
+   },
+   {
+    "fr": "Demain, je monterai sur un chameau.",
+    "tgt": "غَدًا سَأَرْكَبُ جَمَلًا.",
+    "ro": "Ghadan saʾarkabu jamalan.",
+    "lit": "demain · je-monterai · chameau"
+   },
+   {
+    "fr": "Nous verrons le lever du soleil.",
+    "tgt": "سَنَرَى شُرُوقَ الشَّمْسِ.",
+    "ro": "Sanarā shurūqa sh-shamsi.",
+    "lit": "nous-verrons · lever · [de] le-soleil"
+   },
+   {
+    "fr": "Le guide préparera le dîner.",
+    "tgt": "سَيُحَضِّرُ الْمُرْشِدُ الْعَشَاءَ.",
+    "ro": "Sayuḥaḍḍiru l-murshidu l-ʿashāʾa.",
+    "lit": "il-préparera · le-guide · le-dîner"
+   },
+   {
+    "fr": "Nous mangerons un tajine sous les étoiles.",
+    "tgt": "سَنَأْكُلُ طَاجِينًا تَحْتَ النُّجُومِ.",
+    "ro": "Sanaʾkulu ṭājīnan taḥta n-nujūmi.",
+    "lit": "nous-mangerons · tajine · sous · les-étoiles"
+   },
+   {
+    "fr": "La nuit, il fera froid.",
+    "tgt": "سَيَكُونُ الْجَوُّ بَارِدًا فِي اللَّيْلِ.",
+    "ro": "Sayakūnu l-jawwu bāridan fī l-layli.",
+    "lit": "il-sera · le-temps · froid · dans · la-nuit"
+   },
+   {
+    "fr": "Je prendrai une veste chaude.",
+    "tgt": "سَآخُذُ سُتْرَةً دَافِئَةً.",
+    "ro": "Saʾākhudhu sutratan dāfiʾatan.",
+    "lit": "je-prendrai · veste · chaude"
+   },
+   {
+    "fr": "J'écrirai sur ce voyage.",
+    "tgt": "سَوْفَ أَكْتُبُ عَنْ هَذِهِ الرِّحْلَةِ.",
+    "ro": "Sawfa aktubu ʿan hādhihi r-riḥlati.",
+    "lit": "[futur] · j'écris · sur · ce · le-voyage"
+   },
+   {
+    "fr": "Nous partirons à l'aube.",
+    "tgt": "سَوْفَ نَنْطَلِقُ عِنْدَ الْفَجْرِ.",
+    "ro": "Sawfa nanṭaliqu ʿinda l-fajri.",
+    "lit": "[futur] · nous-partons · à · l'aube"
+   },
+   {
+    "fr": "Le ciel sera plein d'étoiles.",
+    "tgt": "سَتَكُونُ السَّمَاءُ مَلِيئَةً بِالنُّجُومِ.",
+    "ro": "Satakūnu s-samāʾu malīʾatan bi-n-nujūmi.",
+    "lit": "elle-sera · le-ciel · plein · [de] les-étoiles"
+   }
+  ]
+ },
+ "0-1-16": {
+  "module": "En voyage",
+  "title": "Un petit souci à la pharmacie",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Depuis hier, j'ai mal au ventre.",
+    "tgt": "مُنْذُ أَمْسِ عِنْدِي أَلَمٌ فِي الْبَطْنِ.",
+    "ro": "Mundhu amsi ʿindī alamun fī l-baṭni.",
+    "lit": "depuis · hier · chez-moi · douleur · dans · le-ventre"
+   },
+   {
+    "fr": "Où est la pharmacie la plus proche ?",
+    "tgt": "أَيْنَ أَقْرَبُ صَيْدَلِيَّةٍ؟",
+    "ro": "Ayna aqrabu ṣaydaliyyatin?",
+    "lit": "où · plus-proche · pharmacie ?"
+   },
+   {
+    "fr": "La pharmacie est en face de l'office du tourisme.",
+    "tgt": "الصَّيْدَلِيَّةُ أَمَامَ مَكْتَبِ السِّيَاحَةِ.",
+    "ro": "Aṣ-ṣaydaliyyatu amāma maktabi s-siyāḥati.",
+    "lit": "la-pharmacie · devant · bureau · [de] le-tourisme"
+   },
+   {
+    "fr": "J'ai peut-être trop mangé de couscous.",
+    "tgt": "رُبَّمَا أَكَلْتُ كَثِيرًا مِنَ الْكُسْكُسِ.",
+    "ro": "Rubbamā akaltu kathīran mina l-kuskusi.",
+    "lit": "peut-être · j'ai-mangé · beaucoup · de · le-couscous"
+   },
+   {
+    "fr": "Vous avez un médicament pour le ventre ?",
+    "tgt": "هَلْ عِنْدَكَ دَوَاءٌ لِلْبَطْنِ؟",
+    "ro": "Hal ʿindaka dawāʾun li-l-baṭni?",
+    "lit": "[question] · chez-toi · médicament · pour · le-ventre ?"
+   },
+   {
+    "fr": "Un comprimé après chaque repas.",
+    "tgt": "قُرْصٌ بَعْدَ كُلِّ وَجْبَةٍ.",
+    "ro": "Qurṣun baʿda kulli wajbatin.",
+    "lit": "comprimé · après · chaque · repas"
+   },
+   {
+    "fr": "L'eau est importante en été.",
+    "tgt": "الْمَاءُ مُهِمٌّ فِي الصَّيْفِ.",
+    "ro": "Al-māʾu muhimmun fī ṣ-ṣayfi.",
+    "lit": "l'eau · importante · dans · l'été"
+   },
+   {
+    "fr": "J'ai aussi un coup de soleil.",
+    "tgt": "عِنْدِي أَيْضًا حُرُوقُ شَمْسٍ.",
+    "ro": "ʿIndī ayḍan ḥurūqu shamsin.",
+    "lit": "chez-moi · aussi · brûlures · [de] soleil"
+   },
+   {
+    "fr": "Cette pommade est très efficace.",
+    "tgt": "هَذَا الْمَرْهَمُ فَعَّالٌ جِدًّا.",
+    "ro": "Hādhā l-marhamu faʿʿālun jiddan.",
+    "lit": "cette · la-pommade · efficace · très"
+   },
+   {
+    "fr": "Merci, le pharmacien est très gentil.",
+    "tgt": "شُكْرًا، الصَّيْدَلِيُّ لَطِيفٌ جِدًّا.",
+    "ro": "Shukran, aṣ-ṣaydaliyyu laṭīfun jiddan.",
+    "lit": "merci, · le-pharmacien · gentil · très"
+   }
+  ]
+ },
+ "0-1-17": {
+  "module": "En voyage",
+  "title": "À l'office du tourisme",
+  "grammaire_de_la_lecon": "Demander poliment : « hal yumkinuni », est-ce que je peux",
+  "phrases": [
+   {
+    "fr": "Est-ce que je peux prendre un plan ?",
+    "tgt": "هَلْ يُمْكِنُنِي أَنْ آخُذَ خَرِيطَةً؟",
+    "ro": "Hal yumkinunī an ākhudha kharīṭatan?",
+    "lit": "[question] · il-m'est-possible · [que] · je-prenne · plan ?"
+   },
+   {
+    "fr": "Est-ce que je peux poser une question ?",
+    "tgt": "هَلْ يُمْكِنُنِي أَنْ أَسْأَلَ سُؤَالًا؟",
+    "ro": "Hal yumkinunī an asʾala suʾālan?",
+    "lit": "[question] · il-m'est-possible · [que] · je-demande · question ?"
+   },
+   {
+    "fr": "Bien sûr, je vous en prie.",
+    "tgt": "طَبْعًا، تَفَضَّلْ.",
+    "ro": "Ṭabʿan, tafaḍḍal.",
+    "lit": "bien-sûr, · je-t'en-prie"
+   },
+   {
+    "fr": "Est-ce que je peux visiter le palais aujourd'hui ?",
+    "tgt": "هَلْ يُمْكِنُنِي أَنْ أَزُورَ الْقَصْرَ الْيَوْمَ؟",
+    "ro": "Hal yumkinunī an azūra l-qaṣra l-yawma?",
+    "lit": "[question] · il-m'est-possible · [que] · je-visite · le-palais · aujourd'hui ?"
+   },
+   {
+    "fr": "Est-ce que nous pouvons payer par carte ?",
+    "tgt": "هَلْ يُمْكِنُنَا أَنْ نَدْفَعَ بِالْبِطَاقَةِ؟",
+    "ro": "Hal yumkinunā an nadfaʿa bi-l-biṭāqati?",
+    "lit": "[question] · il-nous-est-possible · [que] · nous-payions · avec · la-carte ?"
+   },
+   {
+    "fr": "Est-ce que je peux laisser mon bagage ici ?",
+    "tgt": "هَلْ يُمْكِنُنِي أَنْ أَتْرُكَ حَقِيبَتِي هُنَا؟",
+    "ro": "Hal yumkinunī an atruka ḥaqībatī hunā?",
+    "lit": "[question] · il-m'est-possible · [que] · je-laisse · bagage-de-moi · ici ?"
+   },
+   {
+    "fr": "Oui, c'est gratuit.",
+    "tgt": "نَعَمْ، هَذَا مَجَّانِيٌّ.",
+    "ro": "Naʿam, hādhā majjāniyyun.",
+    "lit": "oui, · ceci · gratuit"
+   },
+   {
+    "fr": "Est-ce que je peux réserver une excursion ?",
+    "tgt": "هَلْ يُمْكِنُنِي أَنْ أَحْجِزَ جَوْلَةً؟",
+    "ro": "Hal yumkinunī an aḥjiza jawlatan?",
+    "lit": "[question] · il-m'est-possible · [que] · je-réserve · excursion ?"
+   },
+   {
+    "fr": "Est-ce que tu peux écrire l'adresse du riad ?",
+    "tgt": "هَلْ يُمْكِنُكَ أَنْ تَكْتُبَ عُنْوَانَ الرِّيَاضِ؟",
+    "ro": "Hal yumkinuka an taktuba ʿunwāna r-riyāḍi?",
+    "lit": "[question] · il-t'est-possible · [que] · tu-écrives · adresse · [de] le-riad ?"
+   },
+   {
+    "fr": "Merci beaucoup pour le plan.",
+    "tgt": "شُكْرًا جَزِيلًا عَلَى الْخَرِيطَةِ.",
+    "ro": "Shukran jazīlan ʿalā l-kharīṭati.",
+    "lit": "merci · abondant · pour · le-plan"
+   }
+  ]
+ },
+ "0-1-18": {
+  "module": "En voyage",
+  "title": "Un bagage égaré et un train en retard",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ma valise a disparu.",
+    "tgt": "حَقِيبَتِي ضَائِعَةٌ.",
+    "ro": "Ḥaqībatī ḍāʾiʿatun.",
+    "lit": "valise-de-moi · perdue"
+   },
+   {
+    "fr": "Elle est rouge et grande.",
+    "tgt": "هِيَ حَمْرَاءُ وَكَبِيرَةٌ.",
+    "ro": "Hiya ḥamrāʾu wa-kabīratun.",
+    "lit": "elle · rouge · [et] grande"
+   },
+   {
+    "fr": "Voici mon nom et mon adresse.",
+    "tgt": "هَذَا اسْمِي وَعُنْوَانِي.",
+    "ro": "Hādhā smī wa-ʿunwānī.",
+    "lit": "ceci · nom-de-moi · [et] adresse-de-moi"
+   },
+   {
+    "fr": "Mon riad est dans la médina de Marrakech.",
+    "tgt": "رِيَاضِي فِي مَدِينَةِ مُرَّاكُشَ الْقَدِيمَةِ.",
+    "ro": "Riyāḍī fī madīnati Murrākusha l-qadīmati.",
+    "lit": "riad-de-moi · dans · ville · [de] Marrakech · l'ancienne"
+   },
+   {
+    "fr": "Nous allons chercher votre valise.",
+    "tgt": "سَنَبْحَثُ عَنْ حَقِيبَتِكَ.",
+    "ro": "Sanabḥathu ʿan ḥaqībatika.",
+    "lit": "nous-chercherons · [après] · valise-de-toi"
+   },
+   {
+    "fr": "Elle arrivera demain matin.",
+    "tgt": "سَتَصِلُ غَدًا صَبَاحًا.",
+    "ro": "Sataṣilu ghadan ṣabāḥan.",
+    "lit": "elle-arrivera · demain · matin"
+   },
+   {
+    "fr": "Le train pour Casablanca est en retard.",
+    "tgt": "قِطَارُ الدَّارِ الْبَيْضَاءِ مُتَأَخِّرٌ.",
+    "ro": "Qiṭāru d-Dāri l-Bayḍāʾi mutaʾakhkhirun.",
+    "lit": "train · [de] Casablanca · en-retard"
+   },
+   {
+    "fr": "Il a une heure de retard.",
+    "tgt": "هُوَ مُتَأَخِّرٌ سَاعَةً.",
+    "ro": "Huwa mutaʾakhkhirun sāʿatan.",
+    "lit": "lui · en-retard · heure"
+   },
+   {
+    "fr": "Pas de problème, nous attendons.",
+    "tgt": "لَا بَأْسَ، نَنْتَظِرُ.",
+    "ro": "Lā baʾsa, nantaẓiru.",
+    "lit": "[pas] · mal, · nous-attendons"
+   },
+   {
+    "fr": "Les imprévus font partie du voyage.",
+    "tgt": "الْمُفَاجَآتُ جُزْءٌ مِنَ السَّفَرِ.",
+    "ro": "Al-mufājaʾātu juzʾun mina s-safari.",
+    "lit": "les-surprises · partie · de · le-voyage"
+   }
+  ]
+ },
+ "0-1-19": {
+  "module": "En voyage",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "Dire l'heure : « as-saa ath-thalitha »",
+  "phrases": [
+   {
+    "fr": "Il est trois heures.",
+    "tgt": "السَّاعَةُ الثَّالِثَةُ.",
+    "ro": "As-sāʿatu th-thālithatu.",
+    "lit": "l'heure · la-troisième"
+   },
+   {
+    "fr": "Mon avion décolle à cinq heures.",
+    "tgt": "تُقْلِعُ طَائِرَتِي فِي السَّاعَةِ الْخَامِسَةِ.",
+    "ro": "Tuqliʿu ṭāʾiratī fī s-sāʿati l-khāmisati.",
+    "lit": "elle-décolle · avion-de-moi · dans · l'heure · la-cinquième"
+   },
+   {
+    "fr": "Quelle heure est-il à Marrakech ?",
+    "tgt": "كَمِ السَّاعَةُ فِي مُرَّاكُشَ؟",
+    "ro": "Kami s-sāʿatu fī Murrākusha?",
+    "lit": "combien · l'heure · dans · Marrakech ?"
+   },
+   {
+    "fr": "Il est quatre heures et demie.",
+    "tgt": "السَّاعَةُ الرَّابِعَةُ وَالنِّصْفُ.",
+    "ro": "As-sāʿatu r-rābiʿatu wa-n-niṣfu.",
+    "lit": "l'heure · la-quatrième · [et] la-moitié"
+   },
+   {
+    "fr": "Mon voyage au Maroc était magnifique.",
+    "tgt": "كَانَتْ رِحْلَتِي إِلَى الْمَغْرِبِ رَائِعَةً.",
+    "ro": "Kānat riḥlatī ilā l-Maghribi rāʾiʿatan.",
+    "lit": "elle-était · voyage-de-moi · vers · le-Maroc · magnifique"
+   },
+   {
+    "fr": "J'ai appris beaucoup de mots en arabe.",
+    "tgt": "تَعَلَّمْتُ كَلِمَاتٍ كَثِيرَةً بِالْعَرَبِيَّةِ.",
+    "ro": "Taʿallamtu kalimātin kathīratan bi-l-ʿarabiyyati.",
+    "lit": "j'ai-appris · mots · nombreux · en · l'arabe"
+   },
+   {
+    "fr": "Maintenant, je parle un peu l'arabe.",
+    "tgt": "الْآنَ أَتَكَلَّمُ الْعَرَبِيَّةَ قَلِيلًا.",
+    "ro": "Al-āna atakallamu l-ʿarabiyyata qalīlan.",
+    "lit": "maintenant · je-parle · l'arabe · un-peu"
+   },
+   {
+    "fr": "Le prochain module parle de rencontres.",
+    "tgt": "الْوَحْدَةُ الْقَادِمَةُ عَنِ اللِّقَاءَاتِ.",
+    "ro": "Al-waḥdatu l-qādimatu ʿani l-liqāʾāti.",
+    "lit": "le-module · le-prochain · sur · les-rencontres"
+   },
+   {
+    "fr": "Je reviendrai au Maroc un jour.",
+    "tgt": "سَأَعُودُ إِلَى الْمَغْرِبِ يَوْمًا مَا.",
+    "ro": "Saʾaʿūdu ilā l-Maghribi yawman mā.",
+    "lit": "je-reviendrai · vers · le-Maroc · jour · [un]"
+   },
+   {
+    "fr": "À bientôt pour la suite !",
+    "tgt": "إِلَى اللِّقَاءِ قَرِيبًا!",
+    "ro": "Ilā l-liqāʾi qarīban!",
+    "lit": "à · la-rencontre · bientôt !"
+   }
+  ]
+ },
+ "0-2-0": {
+  "module": "Conversation sociale",
+  "title": "Faire connaissance à Sidi Bou Saïd",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Bonjour, moi c'est Karim.",
+    "tgt": "مَرْحَبًا، أَنَا كَرِيمٌ.",
+    "ro": "Marḥaban, anā Karīmun.",
+    "lit": "bonjour · moi · Karim"
+   },
+   {
+    "fr": "Ravie de te rencontrer, je suis Leïla.",
+    "tgt": "فُرْصَةٌ سَعِيدَةٌ، أَنَا لَيْلَى.",
+    "ro": "Furṣatun saʿīdatun, anā Laylā.",
+    "lit": "occasion · heureuse · moi · Leïla"
+   },
+   {
+    "fr": "Tu es d'ici ?",
+    "tgt": "هَلْ أَنْتَ مِنْ هُنَا؟",
+    "ro": "Hal anta min hunā?",
+    "lit": "[question] · toi · de · ici ?"
+   },
+   {
+    "fr": "Oui, je suis de Tunis.",
+    "tgt": "نَعَمْ، أَنَا مِنْ تُونِسَ.",
+    "ro": "Naʿam, anā min Tūnisa.",
+    "lit": "oui · moi · de · Tunis"
+   },
+   {
+    "fr": "Et toi, tu es français ?",
+    "tgt": "وَأَنْتَ، هَلْ أَنْتَ فَرَنْسِيٌّ؟",
+    "ro": "Wa anta, hal anta faransiyyun?",
+    "lit": "[et] toi · [question] · toi · français ?"
+   },
+   {
+    "fr": "Oui, je viens de Marseille.",
+    "tgt": "نَعَمْ، أَنَا مِنْ مَرْسِيلْيَا.",
+    "ro": "Naʿam, anā min Marsīliyā.",
+    "lit": "oui · moi · de · Marseille"
+   },
+   {
+    "fr": "Sidi Bou Saïd est un très joli village.",
+    "tgt": "سِيدِي بُو سَعِيدْ قَرْيَةٌ جَمِيلَةٌ جِدًّا.",
+    "ro": "Sīdī Bū Saʿīd qaryatun jamīlatun jiddan.",
+    "lit": "Sidi Bou Saïd · village · joli · très"
+   },
+   {
+    "fr": "Les maisons sont blanches et bleues.",
+    "tgt": "الْبُيُوتُ بَيْضَاءُ وَزَرْقَاءُ.",
+    "ro": "Al-buyūtu bayḍāʾu wa zarqāʾu.",
+    "lit": "les-maisons · blanche · [et] bleue"
+   },
+   {
+    "fr": "Tu es ici en vacances ?",
+    "tgt": "هَلْ أَنْتَ هُنَا فِي عُطْلَةٍ؟",
+    "ro": "Hal anta hunā fī ʿuṭlatin?",
+    "lit": "[question] · toi · ici · dans · vacances ?"
+   },
+   {
+    "fr": "Non, je suis ici pour le travail.",
+    "tgt": "لَا، أَنَا هُنَا لِلْعَمَلِ.",
+    "ro": "Lā, anā hunā lil-ʿamali.",
+    "lit": "non · moi · ici · pour-le-travail"
+   }
+  ]
+ },
+ "0-2-1": {
+  "module": "Conversation sociale",
+  "title": "Mon nom est…",
+  "grammaire_de_la_lecon": "Se présenter : « ismi », mon nom",
+  "phrases": [
+   {
+    "fr": "Quel est ton nom ?",
+    "tgt": "مَا اسْمُكَ؟",
+    "ro": "Mā ismuka?",
+    "lit": "quoi · nom-de-toi ?"
+   },
+   {
+    "fr": "Mon nom est Sami.",
+    "tgt": "اِسْمِي سَامِي.",
+    "ro": "Ismī Sāmī.",
+    "lit": "nom-de-moi · Sami"
+   },
+   {
+    "fr": "Et toi, quel est ton nom ?",
+    "tgt": "وَأَنْتَ، مَا اسْمُكَ؟",
+    "ro": "Wa anta, mā ismuka?",
+    "lit": "[et] toi · quoi · nom-de-toi ?"
+   },
+   {
+    "fr": "Mon nom est Hichem, enchanté.",
+    "tgt": "اِسْمِي هِشَامٌ، فُرْصَةٌ سَعِيدَةٌ.",
+    "ro": "Ismī Hishāmun, furṣatun saʿīdatun.",
+    "lit": "nom-de-moi · Hichem · occasion · heureuse"
+   },
+   {
+    "fr": "Quel est le nom de ton ami ?",
+    "tgt": "مَا اسْمُ صَدِيقِكَ؟",
+    "ro": "Mā ismu ṣadīqika?",
+    "lit": "quoi · nom · ami-de-toi ?"
+   },
+   {
+    "fr": "Son nom est Amine.",
+    "tgt": "اِسْمُهُ أَمِينٌ.",
+    "ro": "Ismuhu Amīnun.",
+    "lit": "nom-de-lui · Amine"
+   },
+   {
+    "fr": "Et elle, quel est son nom ?",
+    "tgt": "وَمَا اسْمُهَا؟",
+    "ro": "Wa mā ismuhā?",
+    "lit": "[et] · quoi · nom-d'elle ?"
+   },
+   {
+    "fr": "Elle s'appelle Salma.",
+    "tgt": "اِسْمُهَا سَلْمَى.",
+    "ro": "Ismuhā Salmā.",
+    "lit": "nom-d'elle · Salma"
+   },
+   {
+    "fr": "Mon nom de famille est Haddad.",
+    "tgt": "اِسْمُ عَائِلَتِي حَدَّادٌ.",
+    "ro": "Ismu ʿāʾilatī Ḥaddādun.",
+    "lit": "nom · famille-de-moi · Haddad"
+   },
+   {
+    "fr": "Ton prénom est très joli.",
+    "tgt": "اِسْمُكَ جَمِيلٌ جِدًّا.",
+    "ro": "Ismuka jamīlun jiddan.",
+    "lit": "nom-de-toi · joli · très"
+   }
+  ]
+ },
+ "0-2-2": {
+  "module": "Conversation sociale",
+  "title": "Parler de son travail",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Quel est ton travail ?",
+    "tgt": "مَا عَمَلُكَ؟",
+    "ro": "Mā ʿamaluka?",
+    "lit": "quoi · travail-de-toi ?"
+   },
+   {
+    "fr": "Je suis ingénieur à Tunis.",
+    "tgt": "أَنَا مُهَنْدِسٌ فِي تُونِسَ.",
+    "ro": "Anā muhandisun fī Tūnisa.",
+    "lit": "moi · ingénieur · dans · Tunis"
+   },
+   {
+    "fr": "Je travaille dans une banque.",
+    "tgt": "أَعْمَلُ فِي بَنْكٍ.",
+    "ro": "Aʿmalu fī bankin.",
+    "lit": "je-travaille · dans · banque"
+   },
+   {
+    "fr": "Mon bureau est près de la médina.",
+    "tgt": "مَكْتَبِي قَرِيبٌ مِنَ الْمَدِينَةِ الْعَتِيقَةِ.",
+    "ro": "Maktabī qarībun mina al-madīnati al-ʿatīqati.",
+    "lit": "bureau-de-moi · proche · de · la-médina · l'-ancienne"
+   },
+   {
+    "fr": "Ma sœur est médecin à La Marsa.",
+    "tgt": "أُخْتِي طَبِيبَةٌ فِي الْمَرْسَى.",
+    "ro": "Ukhtī ṭabībatun fī al-Marsā.",
+    "lit": "sœur-de-moi · médecin · dans · La Marsa"
+   },
+   {
+    "fr": "Ton travail est difficile ?",
+    "tgt": "هَلْ عَمَلُكَ صَعْبٌ؟",
+    "ro": "Hal ʿamaluka ṣaʿbun?",
+    "lit": "[question] · travail-de-toi · difficile ?"
+   },
+   {
+    "fr": "Non, il est facile et agréable.",
+    "tgt": "لَا، هُوَ سَهْلٌ وَمُمْتِعٌ.",
+    "ro": "Lā, huwa sahlun wa mumtiʿun.",
+    "lit": "non · lui · facile · [et] agréable"
+   },
+   {
+    "fr": "Je commence le travail à huit heures.",
+    "tgt": "أَبْدَأُ الْعَمَلَ فِي السَّاعَةِ الثَّامِنَةِ.",
+    "ro": "Abdaʾu al-ʿamala fī as-sāʿati ath-thāminati.",
+    "lit": "je-commence · le-travail · dans · l'-heure · la-huitième"
+   },
+   {
+    "fr": "Mon collègue Karim est très gentil.",
+    "tgt": "زَمِيلِي كَرِيمٌ لَطِيفٌ جِدًّا.",
+    "ro": "Zamīlī Karīmun laṭīfun jiddan.",
+    "lit": "collègue-de-moi · Karim · gentil · très"
+   },
+   {
+    "fr": "Nous déjeunons ensemble au bureau.",
+    "tgt": "نَتَغَدَّى مَعًا فِي الْمَكْتَبِ.",
+    "ro": "Nataghaddā maʿan fī al-maktabi.",
+    "lit": "nous-déjeunons · ensemble · dans · le-bureau"
+   }
+  ]
+ },
+ "0-2-3": {
+  "module": "Conversation sociale",
+  "title": "Une amie de La Marsa",
+  "grammaire_de_la_lecon": "Parler à une femme : « anti » et les terminaisons féminines",
+  "phrases": [
+   {
+    "fr": "Salma, tu es de La Marsa ?",
+    "tgt": "سَلْمَى، هَلْ أَنْتِ مِنَ الْمَرْسَى؟",
+    "ro": "Salmā, hal anti mina al-Marsā?",
+    "lit": "Salma · [question] · toi (f.) · de · La Marsa ?"
+   },
+   {
+    "fr": "Oui, j'habite à La Marsa.",
+    "tgt": "نَعَمْ، أَسْكُنُ فِي الْمَرْسَى.",
+    "ro": "Naʿam, askunu fī al-Marsā.",
+    "lit": "oui · j'habite · dans · La Marsa"
+   },
+   {
+    "fr": "Tu es étudiante, Leïla ?",
+    "tgt": "هَلْ أَنْتِ طَالِبَةٌ يَا لَيْلَى؟",
+    "ro": "Hal anti ṭālibatun yā Laylā?",
+    "lit": "[question] · toi (f.) · étudiante · [ô] · Leïla ?"
+   },
+   {
+    "fr": "Non, je suis professeure.",
+    "tgt": "لَا، أَنَا مُعَلِّمَةٌ.",
+    "ro": "Lā, anā muʿallimatun.",
+    "lit": "non · moi · professeure"
+   },
+   {
+    "fr": "Comment vas-tu, Houda ?",
+    "tgt": "كَيْفَ حَالُكِ يَا هُدَى؟",
+    "ro": "Kayfa ḥāluki yā Hudā?",
+    "lit": "comment · état-de-toi (f.) · [ô] · Houda ?"
+   },
+   {
+    "fr": "Où travailles-tu, Mouna ?",
+    "tgt": "أَيْنَ تَعْمَلِينَ يَا مُنَى؟",
+    "ro": "Ayna taʿmalīna yā Munā?",
+    "lit": "où · tu-travailles (f.) · [ô] · Mouna ?"
+   },
+   {
+    "fr": "Ta robe est très jolie, Salma.",
+    "tgt": "فُسْتَانُكِ جَمِيلٌ جِدًّا يَا سَلْمَى.",
+    "ro": "Fustānuki jamīlun jiddan yā Salmā.",
+    "lit": "robe-de-toi (f.) · jolie · très · [ô] · Salma"
+   },
+   {
+    "fr": "Tu parles bien le français !",
+    "tgt": "تَتَكَلَّمِينَ الْفَرَنْسِيَّةَ جَيِّدًا!",
+    "ro": "Tatakallamīna al-faransiyyata jayyidan!",
+    "lit": "tu-parles (f.) · le-français · bien !"
+   },
+   {
+    "fr": "Tu es tunisienne ?",
+    "tgt": "هَلْ أَنْتِ تُونِسِيَّةٌ؟",
+    "ro": "Hal anti tūnisiyyatun?",
+    "lit": "[question] · toi (f.) · tunisienne ?"
+   },
+   {
+    "fr": "Bienvenue chez nous, Leïla.",
+    "tgt": "أَهْلًا بِكِ عِنْدَنَا يَا لَيْلَى.",
+    "ro": "Ahlan biki ʿindanā yā Laylā.",
+    "lit": "bienvenue · à-toi (f.) · chez-nous · [ô] · Leïla"
+   }
+  ]
+ },
+ "0-2-4": {
+  "module": "Conversation sociale",
+  "title": "Les loisirs à La Marsa",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Que fais-tu pendant le week-end ?",
+    "tgt": "مَاذَا تَفْعَلُ فِي عُطْلَةِ نِهَايَةِ الْأُسْبُوعِ؟",
+    "ro": "Mādhā tafʿalu fī ʿuṭlati nihāyati al-usbūʿi?",
+    "lit": "quoi · tu-fais · dans · congé · fin · la-semaine ?"
+   },
+   {
+    "fr": "Je marche sur la corniche de La Marsa.",
+    "tgt": "أَمْشِي عَلَى كُورْنِيشِ الْمَرْسَى.",
+    "ro": "Amshī ʿalā kūrnīshi al-Marsā.",
+    "lit": "je-marche · sur · corniche · La Marsa"
+   },
+   {
+    "fr": "Je lis beaucoup le soir.",
+    "tgt": "أَقْرَأُ كَثِيرًا فِي الْمَسَاءِ.",
+    "ro": "Aqraʾu kathīran fī al-masāʾi.",
+    "lit": "je-lis · beaucoup · dans · le-soir"
+   },
+   {
+    "fr": "Mon frère joue au football.",
+    "tgt": "أَخِي يَلْعَبُ كُرَةَ الْقَدَمِ.",
+    "ro": "Akhī yalʿabu kurata al-qadami.",
+    "lit": "frère-de-moi · il-joue · ballon · le-pied"
+   },
+   {
+    "fr": "Tu nages en été ?",
+    "tgt": "هَلْ تَسْبَحُ فِي الصَّيْفِ؟",
+    "ro": "Hal tasbaḥu fī aṣ-ṣayfi?",
+    "lit": "[question] · tu-nages · dans · l'-été ?"
+   },
+   {
+    "fr": "Oui, la mer est tout près.",
+    "tgt": "نَعَمْ، الْبَحْرُ قَرِيبٌ جِدًّا.",
+    "ro": "Naʿam, al-baḥru qarībun jiddan.",
+    "lit": "oui · la-mer · proche · très"
+   },
+   {
+    "fr": "Ma sœur dessine dans le jardin.",
+    "tgt": "أُخْتِي تَرْسُمُ فِي الْحَدِيقَةِ.",
+    "ro": "Ukhtī tarsumu fī al-ḥadīqati.",
+    "lit": "sœur-de-moi · elle-dessine · dans · le-jardin"
+   },
+   {
+    "fr": "Le vendredi, je fais du vélo.",
+    "tgt": "يَوْمَ الْجُمُعَةِ أَرْكَبُ الدَّرَّاجَةَ.",
+    "ro": "Yawma al-jumuʿati arkabu ad-darrājata.",
+    "lit": "jour · le-vendredi · je-monte · la-bicyclette"
+   },
+   {
+    "fr": "Quel est ton loisir préféré ?",
+    "tgt": "مَا هِوَايَتُكَ الْمُفَضَّلَةُ؟",
+    "ro": "Mā hiwāyatuka al-mufaḍḍalatu?",
+    "lit": "quoi · loisir-de-toi · le-préféré ?"
+   },
+   {
+    "fr": "Mon loisir préféré, c'est la photographie.",
+    "tgt": "هِوَايَتِي الْمُفَضَّلَةُ هِيَ التَّصْوِيرُ.",
+    "ro": "Hiwāyatī al-mufaḍḍalatu hiya at-taṣwīru.",
+    "lit": "loisir-de-moi · le-préféré · elle · la-photographie"
+   }
+  ]
+ },
+ "0-2-5": {
+  "module": "Conversation sociale",
+  "title": "Ce que j'aime",
+  "grammaire_de_la_lecon": "« Uhibbu » : j'aime",
+  "phrases": [
+   {
+    "fr": "J'aime le thé à la menthe.",
+    "tgt": "أُحِبُّ الشَّايَ بِالنَّعْنَاعِ.",
+    "ro": "Uḥibbu ash-shāya bin-naʿnāʿi.",
+    "lit": "j'aime · le-thé · avec-la-menthe"
+   },
+   {
+    "fr": "J'aime beaucoup Sidi Bou Saïd.",
+    "tgt": "أُحِبُّ سِيدِي بُو سَعِيدْ كَثِيرًا.",
+    "ro": "Uḥibbu Sīdī Bū Saʿīd kathīran.",
+    "lit": "j'aime · Sidi Bou Saïd · beaucoup"
+   },
+   {
+    "fr": "Tu aimes le couscous ?",
+    "tgt": "هَلْ تُحِبُّ الْكُسْكُسَ؟",
+    "ro": "Hal tuḥibbu al-kuskusa?",
+    "lit": "[question] · tu-aimes · le-couscous ?"
+   },
+   {
+    "fr": "Oui, j'aime le couscous au poisson.",
+    "tgt": "نَعَمْ، أُحِبُّ الْكُسْكُسَ بِالسَّمَكِ.",
+    "ro": "Naʿam, uḥibbu al-kuskusa bis-samaki.",
+    "lit": "oui · j'aime · le-couscous · avec-le-poisson"
+   },
+   {
+    "fr": "Je n'aime pas le café sans sucre.",
+    "tgt": "لَا أُحِبُّ الْقَهْوَةَ بِدُونِ سُكَّرٍ.",
+    "ro": "Lā uḥibbu al-qahwata bidūni sukkarin.",
+    "lit": "[ne… pas] · j'aime · le-café · sans · sucre"
+   },
+   {
+    "fr": "Ma mère aime les fleurs de jasmin.",
+    "tgt": "أُمِّي تُحِبُّ زُهُورَ الْيَاسَمِينِ.",
+    "ro": "Ummī tuḥibbu zuhūra al-yāsamīni.",
+    "lit": "mère-de-moi · elle-aime · fleurs · le-jasmin"
+   },
+   {
+    "fr": "Est-ce que tu aimes la mer ?",
+    "tgt": "هَلْ تُحِبُّ الْبَحْرَ؟",
+    "ro": "Hal tuḥibbu al-baḥra?",
+    "lit": "[question] · tu-aimes · la-mer ?"
+   },
+   {
+    "fr": "J'aime nager le matin.",
+    "tgt": "أُحِبُّ السِّبَاحَةَ فِي الصَّبَاحِ.",
+    "ro": "Uḥibbu as-sibāḥata fī aṣ-ṣabāḥi.",
+    "lit": "j'aime · la-natation · dans · le-matin"
+   },
+   {
+    "fr": "Sami aime la musique tunisienne.",
+    "tgt": "سَامِي يُحِبُّ الْمُوسِيقَى التُّونِسِيَّةَ.",
+    "ro": "Sāmī yuḥibbu al-mūsīqā at-tūnisiyyata.",
+    "lit": "Sami · il-aime · la-musique · la-tunisienne"
+   },
+   {
+    "fr": "Leïla, tu aimes le thé ?",
+    "tgt": "هَلْ تُحِبِّينَ الشَّايَ يَا لَيْلَى؟",
+    "ro": "Hal tuḥibbīna ash-shāya yā Laylā?",
+    "lit": "[question] · tu-aimes (f.) · le-thé · [ô] · Leïla ?"
+   }
+  ]
+ },
+ "0-2-6": {
+  "module": "Conversation sociale",
+  "title": "Les saisons à Tunis",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "L'été est très chaud à Tunis.",
+    "tgt": "الصَّيْفُ حَارٌّ جِدًّا فِي تُونِسَ.",
+    "ro": "Aṣ-ṣayfu ḥārrun jiddan fī Tūnisa.",
+    "lit": "l'-été · chaud · très · dans · Tunis"
+   },
+   {
+    "fr": "L'hiver est doux et pluvieux.",
+    "tgt": "الشِّتَاءُ مُعْتَدِلٌ وَمُمْطِرٌ.",
+    "ro": "Ash-shitāʾu muʿtadilun wa mumṭirun.",
+    "lit": "l'-hiver · doux · [et] pluvieux"
+   },
+   {
+    "fr": "Quelle est ta saison préférée ?",
+    "tgt": "مَا فَصْلُكَ الْمُفَضَّلُ؟",
+    "ro": "Mā faṣluka al-mufaḍḍalu?",
+    "lit": "quoi · saison-de-toi · la-préférée ?"
+   },
+   {
+    "fr": "Je préfère le printemps.",
+    "tgt": "أُفَضِّلُ الرَّبِيعَ.",
+    "ro": "Ufaḍḍilu ar-rabīʿa.",
+    "lit": "je-préfère · le-printemps"
+   },
+   {
+    "fr": "Au printemps, il y a des fleurs partout.",
+    "tgt": "فِي الرَّبِيعِ الزُّهُورُ فِي كُلِّ مَكَانٍ.",
+    "ro": "Fī ar-rabīʿi az-zuhūru fī kulli makānin.",
+    "lit": "dans · le-printemps · les-fleurs · dans · chaque · endroit"
+   },
+   {
+    "fr": "En automne, il fait beau.",
+    "tgt": "الطَّقْسُ جَمِيلٌ فِي الْخَرِيفِ.",
+    "ro": "Aṭ-ṭaqsu jamīlun fī al-kharīfi.",
+    "lit": "le-temps · beau · dans · l'-automne"
+   },
+   {
+    "fr": "Il pleut beaucoup en janvier ?",
+    "tgt": "هَلْ تُمْطِرُ كَثِيرًا فِي يَنَايِرَ؟",
+    "ro": "Hal tumṭiru kathīran fī yanāyira?",
+    "lit": "[question] · il-pleut · beaucoup · dans · janvier ?"
+   },
+   {
+    "fr": "Non, pas tellement.",
+    "tgt": "لَا، لَيْسَ كَثِيرًا.",
+    "ro": "Lā, laysa kathīran.",
+    "lit": "non · [ne… pas] · beaucoup"
+   },
+   {
+    "fr": "En août, la plage est bondée.",
+    "tgt": "فِي أُغُسْطُسَ الشَّاطِئُ مُزْدَحِمٌ.",
+    "ro": "Fī ughusṭusa ash-shāṭiʾu muzdaḥimun.",
+    "lit": "dans · août · la-plage · bondée"
+   },
+   {
+    "fr": "Le ciel est bleu aujourd'hui.",
+    "tgt": "السَّمَاءُ زَرْقَاءُ الْيَوْمَ.",
+    "ro": "As-samāʾu zarqāʾu al-yawma.",
+    "lit": "le-ciel · bleu · aujourd'hui"
+   }
+  ]
+ },
+ "0-2-7": {
+  "module": "Conversation sociale",
+  "title": "Ma famille",
+  "grammaire_de_la_lecon": "La famille et les possessifs : « abi, ummi, akhi »",
+  "phrases": [
+   {
+    "fr": "Voici mon père.",
+    "tgt": "هَذَا أَبِي.",
+    "ro": "Hādhā abī.",
+    "lit": "voici · père-de-moi"
+   },
+   {
+    "fr": "Mon père est pêcheur à Hammamet.",
+    "tgt": "أَبِي صَيَّادٌ فِي الْحَمَّامَاتِ.",
+    "ro": "Abī ṣayyādun fī al-Ḥammāmāti.",
+    "lit": "père-de-moi · pêcheur · dans · Hammamet"
+   },
+   {
+    "fr": "Ma mère est infirmière.",
+    "tgt": "أُمِّي مُمَرِّضَةٌ.",
+    "ro": "Ummī mumarriḍatun.",
+    "lit": "mère-de-moi · infirmière"
+   },
+   {
+    "fr": "Mon frère s'appelle Amine.",
+    "tgt": "أَخِي اسْمُهُ أَمِينٌ.",
+    "ro": "Akhī ismuhu Amīnun.",
+    "lit": "frère-de-moi · nom-de-lui · Amine"
+   },
+   {
+    "fr": "Tu as des frères ?",
+    "tgt": "هَلْ عِنْدَكَ إِخْوَةٌ؟",
+    "ro": "Hal ʿindaka ikhwatun?",
+    "lit": "[question] · chez-toi · frères ?"
+   },
+   {
+    "fr": "J'ai un frère et une sœur.",
+    "tgt": "عِنْدِي أَخٌ وَأُخْتٌ.",
+    "ro": "ʿIndī akhun wa ukhtun.",
+    "lit": "chez-moi · frère · [et] sœur"
+   },
+   {
+    "fr": "Ma sœur habite à Carthage.",
+    "tgt": "أُخْتِي تَسْكُنُ فِي قَرْطَاجَ.",
+    "ro": "Ukhtī taskunu fī Qarṭāja.",
+    "lit": "sœur-de-moi · elle-habite · dans · Carthage"
+   },
+   {
+    "fr": "Comment va ton père ?",
+    "tgt": "كَيْفَ حَالُ أَبِيكَ؟",
+    "ro": "Kayfa ḥālu abīka?",
+    "lit": "comment · état · père-de-toi ?"
+   },
+   {
+    "fr": "Ma grand-mère vit avec nous.",
+    "tgt": "جَدَّتِي تَسْكُنُ مَعَنَا.",
+    "ro": "Jaddatī taskunu maʿanā.",
+    "lit": "grand-mère-de-moi · elle-habite · avec-nous"
+   },
+   {
+    "fr": "Ma famille est grande.",
+    "tgt": "عَائِلَتِي كَبِيرَةٌ.",
+    "ro": "ʿĀʾilatī kabīratun.",
+    "lit": "famille-de-moi · grande"
+   }
+  ]
+ },
+ "0-2-8": {
+  "module": "Conversation sociale",
+  "title": "Un café entre amis à Sidi Bou Saïd",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "On prend un café à Sidi Bou Saïd ?",
+    "tgt": "هَلْ نَشْرَبُ قَهْوَةً فِي سِيدِي بُو سَعِيدْ؟",
+    "ro": "Hal nashrabu qahwatan fī Sīdī Bū Saʿīd?",
+    "lit": "[question] · nous-buvons · café · dans · Sidi Bou Saïd ?"
+   },
+   {
+    "fr": "Bonne idée, j'arrive !",
+    "tgt": "فِكْرَةٌ جَيِّدَةٌ، أَنَا قَادِمٌ!",
+    "ro": "Fikratun jayyidatun, anā qādimun!",
+    "lit": "idée · bonne · moi · arrivant !"
+   },
+   {
+    "fr": "Le café a une belle vue sur la mer.",
+    "tgt": "لِلْمَقْهَى مَنْظَرٌ جَمِيلٌ عَلَى الْبَحْرِ.",
+    "ro": "Lil-maqhā manẓarun jamīlun ʿalā al-baḥri.",
+    "lit": "à-le-café · vue · belle · sur · la-mer"
+   },
+   {
+    "fr": "Qu'est-ce que tu bois ?",
+    "tgt": "مَاذَا تَشْرَبُ؟",
+    "ro": "Mādhā tashrabu?",
+    "lit": "quoi · tu-bois ?"
+   },
+   {
+    "fr": "Un thé aux pignons, s'il te plaît.",
+    "tgt": "شَايٌ بِالصَّنَوْبَرِ مِنْ فَضْلِكَ.",
+    "ro": "Shāyun biṣ-ṣanawbari min faḍlika.",
+    "lit": "thé · avec-les-pignons · de · faveur-de-toi"
+   },
+   {
+    "fr": "Tu veux un makroud ?",
+    "tgt": "هَلْ تُرِيدُ مَقْرُوضًا؟",
+    "ro": "Hal turīdu maqrūḍan?",
+    "lit": "[question] · tu-veux · makroud ?"
+   },
+   {
+    "fr": "Non merci, je n'ai pas faim.",
+    "tgt": "لَا شُكْرًا، لَسْتُ جَائِعًا.",
+    "ro": "Lā shukran, lastu jāʾiʿan.",
+    "lit": "non · merci · [ne… pas]-je-suis · affamé"
+   },
+   {
+    "fr": "Le café est plein à craquer ce soir.",
+    "tgt": "الْمَقْهَى مُزْدَحِمٌ هَذَا الْمَسَاءَ.",
+    "ro": "Al-maqhā muzdaḥimun hādhā al-masāʾa.",
+    "lit": "le-café · bondé · ce · le-soir"
+   },
+   {
+    "fr": "Où est le serveur ?",
+    "tgt": "أَيْنَ النَّادِلُ؟",
+    "ro": "Ayna an-nādilu?",
+    "lit": "où · le-serveur ?"
+   },
+   {
+    "fr": "C'est moi qui paie aujourd'hui.",
+    "tgt": "أَنَا أَدْفَعُ الْيَوْمَ.",
+    "ro": "Anā adfaʿu al-yawma.",
+    "lit": "moi · je-paie · aujourd'hui"
+   }
+  ]
+ },
+ "0-2-9": {
+  "module": "Conversation sociale",
+  "title": "Souvenirs de Carthage",
+  "grammaire_de_la_lecon": "« Kana » : le verbe être au passé",
+  "phrases": [
+   {
+    "fr": "Hier, j'étais à Carthage.",
+    "tgt": "كُنْتُ فِي قَرْطَاجَ أَمْسِ.",
+    "ro": "Kuntu fī Qarṭāja amsi.",
+    "lit": "j'étais · dans · Carthage · hier"
+   },
+   {
+    "fr": "Le site était magnifique.",
+    "tgt": "كَانَ الْمَوْقِعُ رَائِعًا.",
+    "ro": "Kāna al-mawqiʿu rāʾiʿan.",
+    "lit": "était · le-site · magnifique"
+   },
+   {
+    "fr": "Il faisait très chaud.",
+    "tgt": "كَانَ الْجَوُّ حَارًّا جِدًّا.",
+    "ro": "Kāna al-jawwu ḥārran jiddan.",
+    "lit": "était · le-temps · chaud · très"
+   },
+   {
+    "fr": "Tu étais avec ta famille ?",
+    "tgt": "هَلْ كُنْتَ مَعَ عَائِلَتِكَ؟",
+    "ro": "Hal kunta maʿa ʿāʾilatika?",
+    "lit": "[question] · tu-étais · avec · famille-de-toi ?"
+   },
+   {
+    "fr": "Non, j'étais avec un collègue.",
+    "tgt": "لَا، كُنْتُ مَعَ زَمِيلٍ.",
+    "ro": "Lā, kuntu maʿa zamīlin.",
+    "lit": "non · j'étais · avec · collègue"
+   },
+   {
+    "fr": "Le musée était fermé.",
+    "tgt": "كَانَ الْمَتْحَفُ مُغْلَقًا.",
+    "ro": "Kāna al-matḥafu mughlaqan.",
+    "lit": "était · le-musée · fermé"
+   },
+   {
+    "fr": "Ma grand-mère était professeure.",
+    "tgt": "كَانَتْ جَدَّتِي مُعَلِّمَةً.",
+    "ro": "Kānat jaddatī muʿallimatan.",
+    "lit": "était (f.) · grand-mère-de-moi · professeure"
+   },
+   {
+    "fr": "Carthage était une grande ville.",
+    "tgt": "كَانَتْ قَرْطَاجُ مَدِينَةً كَبِيرَةً.",
+    "ro": "Kānat Qarṭāju madīnatan kabīratan.",
+    "lit": "était (f.) · Carthage · ville · grande"
+   },
+   {
+    "fr": "Où étais-tu ce matin ?",
+    "tgt": "أَيْنَ كُنْتَ هَذَا الصَّبَاحَ؟",
+    "ro": "Ayna kunta hādhā aṣ-ṣabāḥa?",
+    "lit": "où · tu-étais · ce · le-matin ?"
+   },
+   {
+    "fr": "J'étais au souk de la médina.",
+    "tgt": "كُنْتُ فِي سُوقِ الْمَدِينَةِ.",
+    "ro": "Kuntu fī sūqi al-madīnati.",
+    "lit": "j'étais · dans · souk · la-médina"
+   }
+  ]
+ },
+ "0-2-10": {
+  "module": "Conversation sociale",
+  "title": "Entre collègues",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Voici ma nouvelle collègue, Houda.",
+    "tgt": "هَذِهِ زَمِيلَتِي الْجَدِيدَةُ هُدَى.",
+    "ro": "Hādhihi zamīlatī al-jadīdatu Hudā.",
+    "lit": "voici · collègue-de-moi · la-nouvelle · Houda"
+   },
+   {
+    "fr": "Elle travaille avec nous depuis lundi.",
+    "tgt": "تَعْمَلُ مَعَنَا مُنْذُ يَوْمِ الِاثْنَيْنِ.",
+    "ro": "Taʿmalu maʿanā mundhu yawmi al-ithnayni.",
+    "lit": "elle-travaille · avec-nous · depuis · jour · le-lundi"
+   },
+   {
+    "fr": "Mes collègues sont sympathiques.",
+    "tgt": "زُمَلَائِي لُطَفَاءُ.",
+    "ro": "Zumalāʾī luṭafāʾu.",
+    "lit": "collègues-de-moi · gentils"
+   },
+   {
+    "fr": "Mon chef est très sérieux.",
+    "tgt": "مُدِيرِي جَادٌّ جِدًّا.",
+    "ro": "Mudīrī jāddun jiddan.",
+    "lit": "directeur-de-moi · sérieux · très"
+   },
+   {
+    "fr": "La réunion est à dix heures.",
+    "tgt": "الِاجْتِمَاعُ فِي السَّاعَةِ الْعَاشِرَةِ.",
+    "ro": "Al-ijtimāʿu fī as-sāʿati al-ʿāshirati.",
+    "lit": "la-réunion · dans · l'-heure · la-dixième"
+   },
+   {
+    "fr": "Karim, tu as un stylo ?",
+    "tgt": "هَلْ عِنْدَكَ قَلَمٌ يَا كَرِيمُ؟",
+    "ro": "Hal ʿindaka qalamun yā Karīmu?",
+    "lit": "[question] · chez-toi · stylo · [ô] · Karim ?"
+   },
+   {
+    "fr": "Oui, prends celui-ci.",
+    "tgt": "نَعَمْ، خُذْ هَذَا.",
+    "ro": "Naʿam, khudh hādhā.",
+    "lit": "oui · prends · celui-ci"
+   },
+   {
+    "fr": "Nous prenons un café à midi.",
+    "tgt": "نَشْرَبُ قَهْوَةً عِنْدَ الظُّهْرِ.",
+    "ro": "Nashrabu qahwatan ʿinda aẓ-ẓuhri.",
+    "lit": "nous-buvons · café · à · le-midi"
+   },
+   {
+    "fr": "Mon collègue habite à Hammamet.",
+    "tgt": "زَمِيلِي يَسْكُنُ فِي الْحَمَّامَاتِ.",
+    "ro": "Zamīlī yaskunu fī al-Ḥammāmāti.",
+    "lit": "collègue-de-moi · il-habite · dans · Hammamet"
+   },
+   {
+    "fr": "Le bureau est fermé le dimanche.",
+    "tgt": "الْمَكْتَبُ مُغْلَقٌ يَوْمَ الْأَحَدِ.",
+    "ro": "Al-maktabu mughlaqun yawma al-aḥadi.",
+    "lit": "le-bureau · fermé · jour · le-dimanche"
+   }
+  ]
+ },
+ "0-2-11": {
+  "module": "Conversation sociale",
+  "title": "Comparer Hammamet et La Marsa",
+  "grammaire_de_la_lecon": "Comparer : « akbar min », plus grand que",
+  "phrases": [
+   {
+    "fr": "Tunis est plus grande que Hammamet.",
+    "tgt": "تُونِسُ أَكْبَرُ مِنَ الْحَمَّامَاتِ.",
+    "ro": "Tūnisu akbaru mina al-Ḥammāmāti.",
+    "lit": "Tunis · plus-grande · de · Hammamet"
+   },
+   {
+    "fr": "Mon frère est plus âgé que moi.",
+    "tgt": "أَخِي أَكْبَرُ مِنِّي.",
+    "ro": "Akhī akbaru minnī.",
+    "lit": "frère-de-moi · plus-grand · de-moi"
+   },
+   {
+    "fr": "La Marsa est plus proche que Hammamet.",
+    "tgt": "الْمَرْسَى أَقْرَبُ مِنَ الْحَمَّامَاتِ.",
+    "ro": "Al-Marsā aqrabu mina al-Ḥammāmāti.",
+    "lit": "La Marsa · plus-proche · de · Hammamet"
+   },
+   {
+    "fr": "La mer est plus chaude en août.",
+    "tgt": "الْبَحْرُ أَدْفَأُ فِي أُغُسْطُسَ.",
+    "ro": "Al-baḥru adfaʾu fī ughusṭusa.",
+    "lit": "la-mer · plus-chaude · dans · août"
+   },
+   {
+    "fr": "Le thé est moins cher que le café.",
+    "tgt": "الشَّايُ أَرْخَصُ مِنَ الْقَهْوَةِ.",
+    "ro": "Ash-shāyu arkhaṣu mina al-qahwati.",
+    "lit": "le-thé · moins-cher · de · le-café"
+   },
+   {
+    "fr": "Ma sœur est plus jeune que moi.",
+    "tgt": "أُخْتِي أَصْغَرُ مِنِّي.",
+    "ro": "Ukhtī aṣgharu minnī.",
+    "lit": "sœur-de-moi · plus-petite · de-moi"
+   },
+   {
+    "fr": "Cette plage est plus belle.",
+    "tgt": "هَذَا الشَّاطِئُ أَجْمَلُ.",
+    "ro": "Hādhā ash-shāṭiʾu ajmalu.",
+    "lit": "cette · la-plage · plus-belle"
+   },
+   {
+    "fr": "L'été est plus long que l'hiver.",
+    "tgt": "الصَّيْفُ أَطْوَلُ مِنَ الشِّتَاءِ.",
+    "ro": "Aṣ-ṣayfu aṭwalu mina ash-shitāʾi.",
+    "lit": "l'-été · plus-long · de · l'-hiver"
+   },
+   {
+    "fr": "Quelle ville est la plus belle ?",
+    "tgt": "أَيُّ مَدِينَةٍ أَجْمَلُ؟",
+    "ro": "Ayyu madīnatin ajmalu?",
+    "lit": "quelle · ville · plus-belle ?"
+   },
+   {
+    "fr": "Sidi Bou Saïd est plus calme que la médina.",
+    "tgt": "سِيدِي بُو سَعِيدْ أَهْدَأُ مِنَ الْمَدِينَةِ.",
+    "ro": "Sīdī Bū Saʿīd ahdaʾu mina al-madīnati.",
+    "lit": "Sidi Bou Saïd · plus-calme · de · la-médina"
+   }
+  ]
+ },
+ "0-2-12": {
+  "module": "Conversation sociale",
+  "title": "Une invitation à dîner",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Tu es libre ce samedi soir ?",
+    "tgt": "هَلْ أَنْتَ مُتَفَرِّغٌ مَسَاءَ السَّبْتِ؟",
+    "ro": "Hal anta mutafarrighun masāʾa as-sabti?",
+    "lit": "[question] · toi · libre · soir · le-samedi ?"
+   },
+   {
+    "fr": "Je t'invite à dîner chez moi.",
+    "tgt": "أَدْعُوكَ إِلَى الْعَشَاءِ فِي بَيْتِي.",
+    "ro": "Adʿūka ilā al-ʿashāʾi fī baytī.",
+    "lit": "je-t'invite · à · le-dîner · dans · maison-de-moi"
+   },
+   {
+    "fr": "Merci beaucoup, avec grand plaisir !",
+    "tgt": "شُكْرًا جَزِيلًا، بِكُلِّ سُرُورٍ!",
+    "ro": "Shukran jazīlan, bikulli surūrin!",
+    "lit": "merci · abondant · avec-tout · plaisir !"
+   },
+   {
+    "fr": "Ma mère prépare le couscous.",
+    "tgt": "أُمِّي تُحَضِّرُ الْكُسْكُسَ.",
+    "ro": "Ummī tuḥaḍḍiru al-kuskusa.",
+    "lit": "mère-de-moi · elle-prépare · le-couscous"
+   },
+   {
+    "fr": "Je viens à quelle heure ?",
+    "tgt": "مَتَى آتِي؟",
+    "ro": "Matā ātī?",
+    "lit": "quand · je-viens ?"
+   },
+   {
+    "fr": "Viens à huit heures.",
+    "tgt": "تَعَالَ فِي السَّاعَةِ الثَّامِنَةِ.",
+    "ro": "Taʿāla fī as-sāʿati ath-thāminati.",
+    "lit": "viens · dans · l'-heure · la-huitième"
+   },
+   {
+    "fr": "Où est ta maison ?",
+    "tgt": "أَيْنَ بَيْتُكَ؟",
+    "ro": "Ayna baytuka?",
+    "lit": "où · maison-de-toi ?"
+   },
+   {
+    "fr": "Ma maison est près de la plage de La Marsa.",
+    "tgt": "بَيْتِي قُرْبَ شَاطِئِ الْمَرْسَى.",
+    "ro": "Baytī qurba shāṭiʾi al-Marsā.",
+    "lit": "maison-de-moi · près · plage · La Marsa"
+   },
+   {
+    "fr": "J'apporte le dessert ?",
+    "tgt": "هَلْ أُحْضِرُ الْحَلْوَى؟",
+    "ro": "Hal uḥḍiru al-ḥalwā?",
+    "lit": "[question] · j'apporte · le-dessert ?"
+   },
+   {
+    "fr": "Non, ta présence suffit.",
+    "tgt": "لَا، حُضُورُكَ يَكْفِي.",
+    "ro": "Lā, ḥuḍūruka yakfī.",
+    "lit": "non · présence-de-toi · suffit"
+   }
+  ]
+ },
+ "0-2-13": {
+  "module": "Conversation sociale",
+  "title": "Pourquoi j'aime Tunis",
+  "grammaire_de_la_lecon": "« Li-anna » : parce que",
+  "phrases": [
+   {
+    "fr": "J'aime Tunis parce que c'est une ville vivante.",
+    "tgt": "أُحِبُّ تُونِسَ لِأَنَّهَا مَدِينَةٌ حَيَّةٌ.",
+    "ro": "Uḥibbu Tūnisa li-annahā madīnatun ḥayyatun.",
+    "lit": "j'aime · Tunis · parce-que-elle · ville · vivante"
+   },
+   {
+    "fr": "Pourquoi est-ce que tu apprends l'arabe ?",
+    "tgt": "لِمَاذَا تَتَعَلَّمُ الْعَرَبِيَّةَ؟",
+    "ro": "Limādhā tataʿallamu al-ʿarabiyyata?",
+    "lit": "pourquoi · tu-apprends · l'-arabe ?"
+   },
+   {
+    "fr": "Parce que j'aime cette langue.",
+    "tgt": "لِأَنَّنِي أُحِبُّ هَذِهِ اللُّغَةَ.",
+    "ro": "Li-annanī uḥibbu hādhihi al-lughata.",
+    "lit": "parce-que-moi · j'aime · cette · la-langue"
+   },
+   {
+    "fr": "Je suis fatigué parce que je travaille beaucoup.",
+    "tgt": "أَنَا مُتْعَبٌ لِأَنَّنِي أَعْمَلُ كَثِيرًا.",
+    "ro": "Anā mutʿabun li-annanī aʿmalu kathīran.",
+    "lit": "moi · fatigué · parce-que-moi · je-travaille · beaucoup"
+   },
+   {
+    "fr": "Je vais à la plage parce qu'il fait chaud.",
+    "tgt": "أَذْهَبُ إِلَى الشَّاطِئِ لِأَنَّ الْجَوَّ حَارٌّ.",
+    "ro": "Adhhabu ilā ash-shāṭiʾi li-anna al-jawwa ḥārrun.",
+    "lit": "je-vais · vers · la-plage · parce-que · le-temps · chaud"
+   },
+   {
+    "fr": "Pourquoi es-tu en retard ?",
+    "tgt": "لِمَاذَا أَنْتَ مُتَأَخِّرٌ؟",
+    "ro": "Limādhā anta mutaʾakhkhirun?",
+    "lit": "pourquoi · toi · en-retard ?"
+   },
+   {
+    "fr": "Parce que la route était encombrée.",
+    "tgt": "لِأَنَّ الطَّرِيقَ كَانَ مُزْدَحِمًا.",
+    "ro": "Li-anna aṭ-ṭarīqa kāna muzdaḥiman.",
+    "lit": "parce-que · la-route · était · encombrée"
+   },
+   {
+    "fr": "Sami est content parce qu'il est en vacances.",
+    "tgt": "سَامِي سَعِيدٌ لِأَنَّهُ فِي عُطْلَةٍ.",
+    "ro": "Sāmī saʿīdun li-annahu fī ʿuṭlatin.",
+    "lit": "Sami · content · parce-que-lui · dans · vacances"
+   },
+   {
+    "fr": "J'aime La Marsa parce qu'elle est calme.",
+    "tgt": "أُحِبُّ الْمَرْسَى لِأَنَّهَا هَادِئَةٌ.",
+    "ro": "Uḥibbu al-Marsā li-annahā hādiʾatun.",
+    "lit": "j'aime · La Marsa · parce-que-elle · calme"
+   },
+   {
+    "fr": "Je ne mange pas, parce que j'ai mangé tout à l'heure.",
+    "tgt": "لَا آكُلُ لِأَنَّنِي أَكَلْتُ قَبْلَ قَلِيلٍ.",
+    "ro": "Lā ākulu li-annanī akaltu qabla qalīlin.",
+    "lit": "[ne… pas] · je-mange · parce-que-moi · j'ai-mangé · avant · peu"
+   }
+  ]
+ },
+ "0-2-14": {
+  "module": "Conversation sociale",
+  "title": "Offrir un cadeau",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "C'est un cadeau pour toi.",
+    "tgt": "هَذِهِ هَدِيَّةٌ لَكَ.",
+    "ro": "Hādhihi hadiyyatun laka.",
+    "lit": "ceci · cadeau · pour-toi"
+   },
+   {
+    "fr": "Merci, tu es vraiment gentil !",
+    "tgt": "شُكْرًا، أَنْتَ لَطِيفٌ جِدًّا!",
+    "ro": "Shukran, anta laṭīfun jiddan!",
+    "lit": "merci · toi · gentil · très !"
+   },
+   {
+    "fr": "J'ai acheté ce plat à Nabeul.",
+    "tgt": "اِشْتَرَيْتُ هَذَا الصَّحْنَ فِي نَابُلَ.",
+    "ro": "Ishtaraytu hādhā aṣ-ṣaḥna fī Nābula.",
+    "lit": "j'ai-acheté · ce · le-plat · dans · Nabeul"
+   },
+   {
+    "fr": "Il est fait à la main.",
+    "tgt": "هُوَ مَصْنُوعٌ بِالْيَدِ.",
+    "ro": "Huwa maṣnūʿun bil-yadi.",
+    "lit": "lui · fabriqué · avec-la-main"
+   },
+   {
+    "fr": "J'offre des fleurs à ma mère.",
+    "tgt": "أُهْدِي أُمِّي زُهُورًا.",
+    "ro": "Uhdī ummī zuhūran.",
+    "lit": "j'offre · mère-de-moi · fleurs"
+   },
+   {
+    "fr": "Un parfum au jasmin pour Leïla.",
+    "tgt": "عِطْرٌ بِالْيَاسَمِينِ لِلَيْلَى.",
+    "ro": "ʿIṭrun bil-yāsamīni li-Laylā.",
+    "lit": "parfum · avec-le-jasmin · pour-Leïla"
+   },
+   {
+    "fr": "Le cadeau était cher ?",
+    "tgt": "هَلْ كَانَتِ الْهَدِيَّةُ غَالِيَةً؟",
+    "ro": "Hal kānati al-hadiyyatu ghāliyatan?",
+    "lit": "[question] · était (f.) · le-cadeau · cher ?"
+   },
+   {
+    "fr": "Non, seulement dix dinars.",
+    "tgt": "لَا، عَشَرَةُ دَنَانِيرَ فَقَطْ.",
+    "ro": "Lā, ʿasharatu danānīra faqaṭ.",
+    "lit": "non · dix · dinars · seulement"
+   },
+   {
+    "fr": "J'aime beaucoup ce cadeau.",
+    "tgt": "أُحِبُّ هَذِهِ الْهَدِيَّةَ كَثِيرًا.",
+    "ro": "Uḥibbu hādhihi al-hadiyyata kathīran.",
+    "lit": "j'aime · ce · le-cadeau · beaucoup"
+   },
+   {
+    "fr": "Tu as un cadeau pour Sami ?",
+    "tgt": "هَلْ عِنْدَكَ هَدِيَّةٌ لِسَامِي؟",
+    "ro": "Hal ʿindaka hadiyyatun li-Sāmī?",
+    "lit": "[question] · chez-toi · cadeau · pour-Sami ?"
+   }
+  ]
+ },
+ "0-2-15": {
+  "module": "Conversation sociale",
+  "title": "Nous, vous, ils",
+  "grammaire_de_la_lecon": "Le pluriel des personnes : « nahnu, antum, hum »",
+  "phrases": [
+   {
+    "fr": "Nous sommes de Tunis.",
+    "tgt": "نَحْنُ مِنْ تُونِسَ.",
+    "ro": "Naḥnu min Tūnisa.",
+    "lit": "nous · de · Tunis"
+   },
+   {
+    "fr": "Et vous, vous êtes d'où ?",
+    "tgt": "وَأَنْتُمْ، مِنْ أَيْنَ أَنْتُمْ؟",
+    "ro": "Wa antum, min ayna antum?",
+    "lit": "[et] vous · de · où · vous ?"
+   },
+   {
+    "fr": "Nous sommes français.",
+    "tgt": "نَحْنُ فَرَنْسِيُّونَ.",
+    "ro": "Naḥnu faransiyyūna.",
+    "lit": "nous · français"
+   },
+   {
+    "fr": "Ce sont nos voisins à La Marsa.",
+    "tgt": "هُمْ جِيرَانُنَا فِي الْمَرْسَى.",
+    "ro": "Hum jīrānunā fī al-Marsā.",
+    "lit": "eux · voisins-de-nous · dans · La Marsa"
+   },
+   {
+    "fr": "Vous êtes en vacances ?",
+    "tgt": "هَلْ أَنْتُمْ فِي عُطْلَةٍ؟",
+    "ro": "Hal antum fī ʿuṭlatin?",
+    "lit": "[question] · vous · dans · vacances ?"
+   },
+   {
+    "fr": "Oui, nous sommes ici pour une semaine.",
+    "tgt": "نَعَمْ، نَحْنُ هُنَا لِأُسْبُوعٍ.",
+    "ro": "Naʿam, naḥnu hunā li-usbūʿin.",
+    "lit": "oui · nous · ici · pour-semaine"
+   },
+   {
+    "fr": "Ils travaillent à Hammamet.",
+    "tgt": "هُمْ يَعْمَلُونَ فِي الْحَمَّامَاتِ.",
+    "ro": "Hum yaʿmalūna fī al-Ḥammāmāti.",
+    "lit": "eux · ils-travaillent · dans · Hammamet"
+   },
+   {
+    "fr": "Nous aimons beaucoup la médina.",
+    "tgt": "نُحِبُّ الْمَدِينَةَ الْعَتِيقَةَ كَثِيرًا.",
+    "ro": "Nuḥibbu al-madīnata al-ʿatīqata kathīran.",
+    "lit": "nous-aimons · la-médina · l'-ancienne · beaucoup"
+   },
+   {
+    "fr": "Vous parlez arabe, vous ?",
+    "tgt": "هَلْ تَتَكَلَّمُونَ الْعَرَبِيَّةَ؟",
+    "ro": "Hal tatakallamūna al-ʿarabiyyata?",
+    "lit": "[question] · vous-parlez · l'-arabe ?"
+   },
+   {
+    "fr": "Ils sont très généreux.",
+    "tgt": "هُمْ كُرَمَاءُ جِدًّا.",
+    "ro": "Hum kuramāʾu jiddan.",
+    "lit": "eux · généreux · très"
+   }
+  ]
+ },
+ "0-2-16": {
+  "module": "Conversation sociale",
+  "title": "Parler de musique",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Quelle musique écoutes-tu ?",
+    "tgt": "أَيَّ مُوسِيقَى تَسْمَعُ؟",
+    "ro": "Ayya mūsīqā tasmaʿu?",
+    "lit": "quelle · musique · tu-écoutes ?"
+   },
+   {
+    "fr": "J'écoute le malouf tunisien.",
+    "tgt": "أَسْمَعُ الْمَالُوفَ التُّونِسِيَّ.",
+    "ro": "Asmaʿu al-mālūfa at-tūnisiyya.",
+    "lit": "j'écoute · le-malouf · le-tunisien"
+   },
+   {
+    "fr": "Mon père joue du oud.",
+    "tgt": "أَبِي يَعْزِفُ عَلَى الْعُودِ.",
+    "ro": "Abī yaʿzifu ʿalā al-ʿūdi.",
+    "lit": "père-de-moi · il-joue · sur · le-oud"
+   },
+   {
+    "fr": "Ce chanteur est célèbre.",
+    "tgt": "هَذَا الْمُغَنِّي مَشْهُورٌ.",
+    "ro": "Hādhā al-mughannī mashhūrun.",
+    "lit": "ce · le-chanteur · célèbre"
+   },
+   {
+    "fr": "Il y a un concert à Carthage ce soir.",
+    "tgt": "هُنَاكَ حَفْلَةٌ فِي قَرْطَاجَ هَذَا الْمَسَاءَ.",
+    "ro": "Hunāka ḥaflatun fī Qarṭāja hādhā al-masāʾa.",
+    "lit": "il-y-a · concert · dans · Carthage · ce · le-soir"
+   },
+   {
+    "fr": "Le festival de Carthage a lieu en été.",
+    "tgt": "مِهْرَجَانُ قَرْطَاجَ فِي الصَّيْفِ.",
+    "ro": "Mihrajānu Qarṭāja fī aṣ-ṣayfi.",
+    "lit": "festival · Carthage · dans · l'-été"
+   },
+   {
+    "fr": "Tu as une belle voix !",
+    "tgt": "صَوْتُكَ جَمِيلٌ!",
+    "ro": "Ṣawtuka jamīlun!",
+    "lit": "voix-de-toi · belle !"
+   },
+   {
+    "fr": "Ma sœur apprend le piano.",
+    "tgt": "أُخْتِي تَتَعَلَّمُ الْبِيَانُو.",
+    "ro": "Ukhtī tataʿallamu al-biyānū.",
+    "lit": "sœur-de-moi · elle-apprend · le-piano"
+   },
+   {
+    "fr": "La musique est forte ici.",
+    "tgt": "الْمُوسِيقَى عَالِيَةٌ هُنَا.",
+    "ro": "Al-mūsīqā ʿāliyatun hunā.",
+    "lit": "la-musique · haute · ici"
+   },
+   {
+    "fr": "J'adore cette chanson !",
+    "tgt": "أُحِبُّ هَذِهِ الْأُغْنِيَةَ كَثِيرًا!",
+    "ro": "Uḥibbu hādhihi al-ughniyata kathīran!",
+    "lit": "j'aime · cette · la-chanson · beaucoup !"
+   }
+  ]
+ },
+ "0-2-17": {
+  "module": "Conversation sociale",
+  "title": "Une journée à la plage de Hammamet",
+  "grammaire_de_la_lecon": "« Maa » : avec",
+  "phrases": [
+   {
+    "fr": "Je vais à la plage avec mes amis.",
+    "tgt": "أَذْهَبُ إِلَى الشَّاطِئِ مَعَ أَصْدِقَائِي.",
+    "ro": "Adhhabu ilā ash-shāṭiʾi maʿa aṣdiqāʾī.",
+    "lit": "je-vais · vers · la-plage · avec · amis-de-moi"
+   },
+   {
+    "fr": "Tu viens avec nous ?",
+    "tgt": "هَلْ تَأْتِي مَعَنَا؟",
+    "ro": "Hal taʾtī maʿanā?",
+    "lit": "[question] · tu-viens · avec-nous ?"
+   },
+   {
+    "fr": "Oui, je viens avec ma sœur.",
+    "tgt": "نَعَمْ، آتِي مَعَ أُخْتِي.",
+    "ro": "Naʿam, ātī maʿa ukhtī.",
+    "lit": "oui · je-viens · avec · sœur-de-moi"
+   },
+   {
+    "fr": "Le poisson grillé au citron, c'est délicieux.",
+    "tgt": "السَّمَكُ الْمَشْوِيُّ مَعَ اللَّيْمُونِ لَذِيذٌ.",
+    "ro": "As-samaku al-mashwiyyu maʿa al-laymūni ladhīdhun.",
+    "lit": "le-poisson · le-grillé · avec · le-citron · délicieux"
+   },
+   {
+    "fr": "Sami est avec sa famille à Hammamet.",
+    "tgt": "سَامِي مَعَ عَائِلَتِهِ فِي الْحَمَّامَاتِ.",
+    "ro": "Sāmī maʿa ʿāʾilatihi fī al-Ḥammāmāti.",
+    "lit": "Sami · avec · famille-de-lui · dans · Hammamet"
+   },
+   {
+    "fr": "Avec qui es-tu ?",
+    "tgt": "مَعَ مَنْ أَنْتَ؟",
+    "ro": "Maʿa man anta?",
+    "lit": "avec · qui · toi ?"
+   },
+   {
+    "fr": "Je suis avec Karim et Leïla.",
+    "tgt": "أَنَا مَعَ كَرِيمٍ وَلَيْلَى.",
+    "ro": "Anā maʿa Karīmin wa Laylā.",
+    "lit": "moi · avec · Karim · [et] Leïla"
+   },
+   {
+    "fr": "Je nage avec mon frère le matin.",
+    "tgt": "أَسْبَحُ مَعَ أَخِي فِي الصَّبَاحِ.",
+    "ro": "Asbaḥu maʿa akhī fī aṣ-ṣabāḥi.",
+    "lit": "je-nage · avec · frère-de-moi · dans · le-matin"
+   },
+   {
+    "fr": "Je joue au ballon avec les enfants.",
+    "tgt": "أَلْعَبُ بِالْكُرَةِ مَعَ الْأَطْفَالِ.",
+    "ro": "Alʿabu bil-kurati maʿa al-aṭfāli.",
+    "lit": "je-joue · avec-le-ballon · avec · les-enfants"
+   },
+   {
+    "fr": "Viens avec moi au port !",
+    "tgt": "تَعَالَ مَعِي إِلَى الْمِينَاءِ!",
+    "ro": "Taʿāla maʿī ilā al-mīnāʾi!",
+    "lit": "viens · avec-moi · vers · le-port !"
+   }
+  ]
+ },
+ "0-2-18": {
+  "module": "Conversation sociale",
+  "title": "Se dire au revoir après une soirée",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Il est tard, j'y vais.",
+    "tgt": "الْوَقْتُ مُتَأَخِّرٌ، أَنَا ذَاهِبٌ.",
+    "ro": "Al-waqtu mutaʾakhkhirun, anā dhāhibun.",
+    "lit": "le-temps · tardif · moi · partant"
+   },
+   {
+    "fr": "Merci pour le délicieux dîner.",
+    "tgt": "شُكْرًا عَلَى الْعَشَاءِ اللَّذِيذِ.",
+    "ro": "Shukran ʿalā al-ʿashāʾi al-ladhīdhi.",
+    "lit": "merci · sur · le-dîner · le-délicieux"
+   },
+   {
+    "fr": "La soirée était très belle.",
+    "tgt": "كَانَتِ السَّهْرَةُ جَمِيلَةً جِدًّا.",
+    "ro": "Kānati as-sahratu jamīlatan jiddan.",
+    "lit": "était (f.) · la-soirée · belle · très"
+   },
+   {
+    "fr": "Merci d'être venu.",
+    "tgt": "شُكْرًا عَلَى حُضُورِكَ.",
+    "ro": "Shukran ʿalā ḥuḍūrika.",
+    "lit": "merci · sur · présence-de-toi"
+   },
+   {
+    "fr": "Comment tu rentres chez toi ?",
+    "tgt": "كَيْفَ تَرْجِعُ إِلَى الْبَيْتِ؟",
+    "ro": "Kayfa tarjiʿu ilā al-bayti?",
+    "lit": "comment · tu-rentres · vers · la-maison ?"
+   },
+   {
+    "fr": "Je prends le train jusqu'à La Marsa.",
+    "tgt": "آخُذُ الْقِطَارَ إِلَى الْمَرْسَى.",
+    "ro": "Ākhudhu al-qiṭāra ilā al-Marsā.",
+    "lit": "je-prends · le-train · vers · La Marsa"
+   },
+   {
+    "fr": "Bonne nuit, Leïla.",
+    "tgt": "تُصْبِحِينَ عَلَى خَيْرٍ يَا لَيْلَى.",
+    "ro": "Tuṣbiḥīna ʿalā khayrin yā Laylā.",
+    "lit": "tu-te-réveilles (f.) · sur · bien · [ô] · Leïla"
+   },
+   {
+    "fr": "Bonne nuit à toi aussi.",
+    "tgt": "وَأَنْتَ مِنْ أَهْلِهِ.",
+    "ro": "Wa anta min ahlihi.",
+    "lit": "[et] toi · de · gens-de-lui"
+   },
+   {
+    "fr": "À bientôt à Sidi Bou Saïd !",
+    "tgt": "نَرَاكَ قَرِيبًا فِي سِيدِي بُو سَعِيدْ!",
+    "ro": "Narāka qarīban fī Sīdī Bū Saʿīd!",
+    "lit": "nous-te-voyons · bientôt · dans · Sidi Bou Saïd !"
+   },
+   {
+    "fr": "Salue ta famille de ma part.",
+    "tgt": "سَلِّمْ لِي عَلَى عَائِلَتِكَ.",
+    "ro": "Sallim lī ʿalā ʿāʾilatika.",
+    "lit": "salue · pour-moi · sur · famille-de-toi"
+   }
+  ]
+ },
+ "0-2-19": {
+  "module": "Conversation sociale",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "Les formules de la conversation : « tasharrafna, maa as-salama, ila al-liqa »",
+  "phrases": [
+   {
+    "fr": "Enchanté, Sami.",
+    "tgt": "تَشَرَّفْنَا يَا سَامِي.",
+    "ro": "Tasharrafnā yā Sāmī.",
+    "lit": "nous-avons-été-honorés · [ô] · Sami"
+   },
+   {
+    "fr": "Au revoir, et à demain !",
+    "tgt": "مَعَ السَّلَامَةِ، وَإِلَى الْغَدِ!",
+    "ro": "Maʿa as-salāmati, wa ilā al-ghadi!",
+    "lit": "avec · la-paix · [et] jusqu'à · demain !"
+   },
+   {
+    "fr": "Au revoir, à la semaine prochaine.",
+    "tgt": "إِلَى اللِّقَاءِ فِي الْأُسْبُوعِ الْقَادِمِ.",
+    "ro": "Ilā al-liqāʾi fī al-usbūʿi al-qādimi.",
+    "lit": "jusqu'à · la-rencontre · dans · la-semaine · la-prochaine"
+   },
+   {
+    "fr": "Maintenant, je parle un peu arabe.",
+    "tgt": "الْآنَ أَتَكَلَّمُ الْعَرَبِيَّةَ قَلِيلًا.",
+    "ro": "Al-āna atakallamu al-ʿarabiyyata qalīlan.",
+    "lit": "maintenant · je-parle · l'-arabe · un-peu"
+   },
+   {
+    "fr": "Je sais me présenter en arabe.",
+    "tgt": "أَعْرِفُ كَيْفَ أُقَدِّمُ نَفْسِي بِالْعَرَبِيَّةِ.",
+    "ro": "Aʿrifu kayfa uqaddimu nafsī bil-ʿarabiyyati.",
+    "lit": "je-sais · comment · je-présente · moi-même · en-l'-arabe"
+   },
+   {
+    "fr": "Je parle de ma famille et de mon travail.",
+    "tgt": "أَتَكَلَّمُ عَنْ عَائِلَتِي وَعَنْ عَمَلِي.",
+    "ro": "Atakallamu ʿan ʿāʾilatī wa ʿan ʿamalī.",
+    "lit": "je-parle · de · famille-de-moi · [et] de · travail-de-moi"
+   },
+   {
+    "fr": "L'arabe est une langue magnifique.",
+    "tgt": "الْعَرَبِيَّةُ لُغَةٌ رَائِعَةٌ.",
+    "ro": "Al-ʿarabiyyatu lughatun rāʾiʿatun.",
+    "lit": "l'-arabe · langue · magnifique"
+   },
+   {
+    "fr": "J'aime apprendre l'arabe chaque jour.",
+    "tgt": "أُحِبُّ تَعَلُّمَ الْعَرَبِيَّةِ كُلَّ يَوْمٍ.",
+    "ro": "Uḥibbu taʿalluma al-ʿarabiyyati kulla yawmin.",
+    "lit": "j'aime · apprentissage · l'-arabe · chaque · jour"
+   },
+   {
+    "fr": "Le niveau un est terminé !",
+    "tgt": "اِنْتَهَى الْمُسْتَوَى الْأَوَّلُ!",
+    "ro": "Intahā al-mustawā al-awwalu!",
+    "lit": "s'est-terminé · le-niveau · le-premier !"
+   },
+   {
+    "fr": "Bravo, et à bientôt !",
+    "tgt": "أَحْسَنْتَ، وَإِلَى اللِّقَاءِ!",
+    "ro": "Aḥsanta, wa ilā al-liqāʾi!",
+    "lit": "tu-as-bien-fait · [et] jusqu'à · la-rencontre !"
+   }
+  ]
+ }
+}

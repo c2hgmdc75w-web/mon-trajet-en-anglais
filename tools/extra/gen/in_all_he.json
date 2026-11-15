@@ -1,0 +1,4022 @@
+{
+ "0-0-0": {
+  "module": "Le quotidien",
+  "title": "Arrivée à Tel Aviv",
+  "grammaire_de_la_lecon": "Pas de verbe être au présent : « ani student »",
+  "phrases": [
+   {
+    "fr": "Bienvenue à Tel Aviv !",
+    "tgt": "ברוך הבא לתל אביב!",
+    "ro": "Barukh ha-ba le-Tel Aviv!",
+    "lit": "béni · [le]-venant · à-Tel Aviv !"
+   },
+   {
+    "fr": "Je suis étudiant à Tel Aviv.",
+    "tgt": "אני סטודנט בתל אביב.",
+    "ro": "Ani student be-Tel Aviv.",
+    "lit": "moi · étudiant · à-Tel Aviv"
+   },
+   {
+    "fr": "Moi, je suis français.",
+    "tgt": "אני צרפתי.",
+    "ro": "Ani tsarfati.",
+    "lit": "moi · français"
+   },
+   {
+    "fr": "David est touriste.",
+    "tgt": "דוד תייר.",
+    "ro": "David tayar.",
+    "lit": "David · touriste"
+   },
+   {
+    "fr": "L'hôtel est près de la mer.",
+    "tgt": "המלון ליד הים.",
+    "ro": "Ha-malon leyad ha-yam.",
+    "lit": "[le]-hôtel · près-de · [la]-mer"
+   },
+   {
+    "fr": "Le passeport est dans le sac.",
+    "tgt": "הדרכון בתיק.",
+    "ro": "Ha-darkon ba-tik.",
+    "lit": "[le]-passeport · dans-[le]-sac"
+   },
+   {
+    "fr": "Tu es fatigué après le vol ?",
+    "tgt": "אתה עייף אחרי הטיסה?",
+    "ro": "Ata ayef akharei ha-tisa?",
+    "lit": "toi · fatigué · après · [le]-vol ?"
+   },
+   {
+    "fr": "Oui, je suis très fatigué.",
+    "tgt": "כן, אני מאוד עייף.",
+    "ro": "Ken, ani me'od ayef.",
+    "lit": "oui · moi · très · fatigué"
+   },
+   {
+    "fr": "Le taxi est ici.",
+    "tgt": "המונית פה.",
+    "ro": "Ha-monit po.",
+    "lit": "[le]-taxi · ici"
+   },
+   {
+    "fr": "Tel Aviv est très belle !",
+    "tgt": "תל אביב יפה מאוד!",
+    "ro": "Tel Aviv yafa me'od!",
+    "lit": "Tel Aviv · belle · très !"
+   }
+  ]
+ },
+ "0-0-1": {
+  "module": "Le quotidien",
+  "title": "Un café sur le boulevard Rothschild",
+  "grammaire_de_la_lecon": "L'accent tonique : souvent sur la dernière syllabe",
+  "phrases": [
+   {
+    "fr": "Bonjour, Yoni !",
+    "tgt": "בוקר טוב, יוני!",
+    "ro": "Boker tov, Yoni!",
+    "lit": "matin · bon · Yoni !"
+   },
+   {
+    "fr": "Un café pour moi, s'il vous plaît.",
+    "tgt": "קפה אחד בשבילי, בבקשה.",
+    "ro": "Kafe ekhad bishvili, bevakasha.",
+    "lit": "café · un · pour-moi · s'il-te-plaît"
+   },
+   {
+    "fr": "Avec du lait ?",
+    "tgt": "עם חלב?",
+    "ro": "Im khalav?",
+    "lit": "avec · lait ?"
+   },
+   {
+    "fr": "Oui, avec un peu de lait.",
+    "tgt": "כן, עם קצת חלב.",
+    "ro": "Ken, im ktsat khalav.",
+    "lit": "oui · avec · un-peu · lait"
+   },
+   {
+    "fr": "Le café est bien chaud.",
+    "tgt": "הקפה חם.",
+    "ro": "Ha-kafe kham.",
+    "lit": "[le]-café · chaud"
+   },
+   {
+    "fr": "Le boulevard est très joli.",
+    "tgt": "השדרה יפה מאוד.",
+    "ro": "Ha-sdera yafa me'od.",
+    "lit": "[le]-boulevard · joli · très"
+   },
+   {
+    "fr": "Les arbres sont grands.",
+    "tgt": "העצים גדולים.",
+    "ro": "Ha-etsim gdolim.",
+    "lit": "[les]-arbres · grands"
+   },
+   {
+    "fr": "Le gâteau est délicieux.",
+    "tgt": "העוגה טעימה.",
+    "ro": "Ha-uga te'ima.",
+    "lit": "[le]-gâteau · délicieux"
+   },
+   {
+    "fr": "Merci, c'est parfait.",
+    "tgt": "תודה, זה מושלם.",
+    "ro": "Toda, ze mushlam.",
+    "lit": "merci · ça · parfait"
+   },
+   {
+    "fr": "Bonne journée, Dana !",
+    "tgt": "יום טוב, דנה!",
+    "ro": "Yom tov, Dana!",
+    "lit": "jour · bon · Dana !"
+   }
+  ]
+ },
+ "0-0-2": {
+  "module": "Le quotidien",
+  "title": "Une journée à la plage",
+  "grammaire_de_la_lecon": "« Ha- » : l'article défini collé au mot",
+  "phrases": [
+   {
+    "fr": "La mer est bleue.",
+    "tgt": "הים כחול.",
+    "ro": "Ha-yam kakhol.",
+    "lit": "[la]-mer · bleue"
+   },
+   {
+    "fr": "Le soleil est fort aujourd'hui.",
+    "tgt": "השמש חזקה היום.",
+    "ro": "Ha-shemesh khazaka ha-yom.",
+    "lit": "[le]-soleil · fort · [le]-jour"
+   },
+   {
+    "fr": "Quelle chaleur aujourd'hui !",
+    "tgt": "איזה חום היום!",
+    "ro": "Eize khom ha-yom!",
+    "lit": "quelle · chaleur · [le]-jour !"
+   },
+   {
+    "fr": "Le sable est brûlant.",
+    "tgt": "החול לוהט.",
+    "ro": "Ha-khol lohet.",
+    "lit": "[le]-sable · brûlant"
+   },
+   {
+    "fr": "L'eau est froide ?",
+    "tgt": "המים קרים?",
+    "ro": "Ha-mayim karim?",
+    "lit": "[les]-eaux · froides ?"
+   },
+   {
+    "fr": "Non, l'eau est agréable.",
+    "tgt": "לא, המים נעימים.",
+    "ro": "Lo, ha-mayim ne'imim.",
+    "lit": "non · [les]-eaux · agréables"
+   },
+   {
+    "fr": "La serviette est sur le sable.",
+    "tgt": "המגבת על החול.",
+    "ro": "Ha-magevet al ha-khol.",
+    "lit": "[la]-serviette · sur · [le]-sable"
+   },
+   {
+    "fr": "Le parasol est grand.",
+    "tgt": "השמשייה גדולה.",
+    "ro": "Ha-shimshiya gdola.",
+    "lit": "[le]-parasol · grand"
+   },
+   {
+    "fr": "Le ciel est clair.",
+    "tgt": "השמיים בהירים.",
+    "ro": "Ha-shamayim behirim.",
+    "lit": "[les]-cieux · clairs"
+   },
+   {
+    "fr": "La plage est pleine de monde.",
+    "tgt": "החוף מלא אנשים.",
+    "ro": "Ha-khof male anashim.",
+    "lit": "[la]-plage · pleine · gens"
+   }
+  ]
+ },
+ "0-0-3": {
+  "module": "Le quotidien",
+  "title": "Le marché du Carmel",
+  "grammaire_de_la_lecon": "Masculin et féminin : tout s'accorde",
+  "phrases": [
+   {
+    "fr": "Le marché est immense.",
+    "tgt": "השוק ענק.",
+    "ro": "Ha-shuk anak.",
+    "lit": "[le]-marché · immense"
+   },
+   {
+    "fr": "La boutique est petite.",
+    "tgt": "החנות קטנה.",
+    "ro": "Ha-khanut ktana.",
+    "lit": "[la]-boutique · petite"
+   },
+   {
+    "fr": "La tomate est rouge.",
+    "tgt": "העגבנייה אדומה.",
+    "ro": "Ha-agvaniya aduma.",
+    "lit": "[la]-tomate · rouge"
+   },
+   {
+    "fr": "Le poivron est rouge.",
+    "tgt": "הפלפל אדום.",
+    "ro": "Ha-pilpel adom.",
+    "lit": "[le]-poivron · rouge"
+   },
+   {
+    "fr": "La pastèque est bien sucrée.",
+    "tgt": "האבטיח מתוק.",
+    "ro": "Ha-avati'akh matok.",
+    "lit": "[la]-pastèque · sucrée"
+   },
+   {
+    "fr": "La figue est sucrée.",
+    "tgt": "התאנה מתוקה.",
+    "ro": "Ha-te'ena metuka.",
+    "lit": "[la]-figue · sucrée"
+   },
+   {
+    "fr": "Le vendeur est sympathique.",
+    "tgt": "המוכר נחמד.",
+    "ro": "Ha-mokher nekhmad.",
+    "lit": "[le]-vendeur · sympathique"
+   },
+   {
+    "fr": "La vendeuse est très sympathique.",
+    "tgt": "המוכרת נחמדה מאוד.",
+    "ro": "Ha-mokheret nekhmada me'od.",
+    "lit": "[la]-vendeuse · sympathique · très"
+   },
+   {
+    "fr": "Les épices sont fraîches.",
+    "tgt": "התבלינים טריים.",
+    "ro": "Ha-tavlinim triyim.",
+    "lit": "[les]-épices · fraîches"
+   },
+   {
+    "fr": "Les olives sont délicieuses.",
+    "tgt": "הזיתים טעימים.",
+    "ro": "Ha-zeitim te'imim.",
+    "lit": "[les]-olives · délicieuses"
+   }
+  ]
+ },
+ "0-0-4": {
+  "module": "Le quotidien",
+  "title": "Les voisins de l'immeuble",
+  "grammaire_de_la_lecon": "Les pronoms : « ani, ata, at, hu, hi »",
+  "phrases": [
+   {
+    "fr": "Je suis le nouveau voisin.",
+    "tgt": "אני השכן החדש.",
+    "ro": "Ani ha-shakhen he-khadash.",
+    "lit": "moi · [le]-voisin · [le]-nouveau"
+   },
+   {
+    "fr": "Tu es d'ici, toi ?",
+    "tgt": "אתה מפה?",
+    "ro": "Ata mi-po?",
+    "lit": "toi · de-ici ?"
+   },
+   {
+    "fr": "Et toi, Noa, tu es d'ici ?",
+    "tgt": "ואת, נועה, את מפה?",
+    "ro": "Ve-at, Noa, at mi-po?",
+    "lit": "[et]-toi · Noa · toi · de-ici ?"
+   },
+   {
+    "fr": "Il est musicien.",
+    "tgt": "הוא מוזיקאי.",
+    "ro": "Hu muzika'i.",
+    "lit": "lui · musicien"
+   },
+   {
+    "fr": "Elle est médecin.",
+    "tgt": "היא רופאה.",
+    "ro": "Hi rofa.",
+    "lit": "elle · médecin"
+   },
+   {
+    "fr": "Elle est au troisième étage.",
+    "tgt": "היא בקומה השלישית.",
+    "ro": "Hi ba-koma ha-shlishit.",
+    "lit": "elle · dans-[l']-étage · [le]-troisième"
+   },
+   {
+    "fr": "Tu es étudiante, Maya ?",
+    "tgt": "את סטודנטית, מאיה?",
+    "ro": "At studentit, Maya?",
+    "lit": "toi · étudiante · Maya ?"
+   },
+   {
+    "fr": "Non, je suis prof de yoga.",
+    "tgt": "לא, אני מורה ליוגה.",
+    "ro": "Lo, ani mora le-yoga.",
+    "lit": "non · moi · professeure · de-yoga"
+   },
+   {
+    "fr": "Il est de Haïfa.",
+    "tgt": "הוא מחיפה.",
+    "ro": "Hu mi-Kheifa.",
+    "lit": "lui · de-Haïfa"
+   },
+   {
+    "fr": "Elle est de Paris.",
+    "tgt": "היא מפריז.",
+    "ro": "Hi mi-Pariz.",
+    "lit": "elle · de-Paris"
+   }
+  ]
+ },
+ "0-0-5": {
+  "module": "Le quotidien",
+  "title": "Au stand de falafel",
+  "grammaire_de_la_lecon": "Poser une question : avec la voix, ou avec « ha'im »",
+  "phrases": [
+   {
+    "fr": "Tu as faim ?",
+    "tgt": "אתה רעב?",
+    "ro": "Ata ra'ev?",
+    "lit": "toi · affamé ?"
+   },
+   {
+    "fr": "Oui, j'ai très faim.",
+    "tgt": "כן, אני רעב מאוד.",
+    "ro": "Ken, ani ra'ev me'od.",
+    "lit": "oui · moi · affamé · très"
+   },
+   {
+    "fr": "Le falafel est chaud ?",
+    "tgt": "הפלאפל חם?",
+    "ro": "Ha-falafel kham?",
+    "lit": "[le]-falafel · chaud ?"
+   },
+   {
+    "fr": "Est-ce que la pita est fraîche ?",
+    "tgt": "האם הפיתה טרייה?",
+    "ro": "Ha'im ha-pita triya?",
+    "lit": "[question] · [la]-pita · fraîche ?"
+   },
+   {
+    "fr": "Est-ce que c'est piquant ?",
+    "tgt": "האם זה חריף?",
+    "ro": "Ha'im ze kharif?",
+    "lit": "[question] · ça · piquant ?"
+   },
+   {
+    "fr": "Oui, c'est un peu piquant.",
+    "tgt": "כן, זה קצת חריף.",
+    "ro": "Ken, ze ktsat kharif.",
+    "lit": "oui · ça · un-peu · piquant"
+   },
+   {
+    "fr": "Avec de la tahina ?",
+    "tgt": "עם טחינה?",
+    "ro": "Im tkhina?",
+    "lit": "avec · tahina ?"
+   },
+   {
+    "fr": "Avec des frites ?",
+    "tgt": "עם צ'יפס?",
+    "ro": "Im chips?",
+    "lit": "avec · frites ?"
+   },
+   {
+    "fr": "C'est tout ?",
+    "tgt": "זה הכול?",
+    "ro": "Ze ha-kol?",
+    "lit": "ça · [le]-tout ?"
+   },
+   {
+    "fr": "Est-ce que le stand est ouvert ce soir ?",
+    "tgt": "האם הדוכן פתוח הערב?",
+    "ro": "Ha'im ha-dukhan patuakh ha-erev?",
+    "lit": "[question] · [le]-stand · ouvert · [le]-soir ?"
+   }
+  ]
+ },
+ "0-0-6": {
+  "module": "Le quotidien",
+  "title": "En bus et à vélo",
+  "grammaire_de_la_lecon": "« Lo » : la négation",
+  "phrases": [
+   {
+    "fr": "Le bus n'est pas là.",
+    "tgt": "האוטובוס לא פה.",
+    "ro": "Ha-otobus lo po.",
+    "lit": "[le]-bus · pas · ici"
+   },
+   {
+    "fr": "Le bus n'est pas cher.",
+    "tgt": "האוטובוס לא יקר.",
+    "ro": "Ha-otobus lo yakar.",
+    "lit": "[le]-bus · pas · cher"
+   },
+   {
+    "fr": "Je ne suis pas pressé.",
+    "tgt": "אני לא ממהר.",
+    "ro": "Ani lo memaher.",
+    "lit": "moi · pas · pressé"
+   },
+   {
+    "fr": "Le vélo n'est pas lourd.",
+    "tgt": "האופניים לא כבדים.",
+    "ro": "Ha-ofanayim lo kvedim.",
+    "lit": "[le]-vélo · pas · lourd"
+   },
+   {
+    "fr": "La piste cyclable est large.",
+    "tgt": "שביל האופניים רחב.",
+    "ro": "Shvil ha-ofanayim rakhav.",
+    "lit": "chemin · [le]-vélo · large"
+   },
+   {
+    "fr": "La station n'est pas loin.",
+    "tgt": "התחנה לא רחוקה.",
+    "ro": "Ha-takhana lo rekhoka.",
+    "lit": "[la]-station · pas · loin"
+   },
+   {
+    "fr": "Désolé, je ne suis pas d'ici.",
+    "tgt": "סליחה, אני לא מפה.",
+    "ro": "Slikha, ani lo mi-po.",
+    "lit": "pardon · moi · pas · de-ici"
+   },
+   {
+    "fr": "Le chauffeur n'est pas content.",
+    "tgt": "הנהג לא מרוצה.",
+    "ro": "Ha-nahag lo merutse.",
+    "lit": "[le]-chauffeur · pas · content"
+   },
+   {
+    "fr": "Il ne fait pas froid aujourd'hui.",
+    "tgt": "לא קר היום.",
+    "ro": "Lo kar ha-yom.",
+    "lit": "pas · froid · [le]-jour"
+   },
+   {
+    "fr": "Le vélo électrique est rapide.",
+    "tgt": "האופניים החשמליים מהירים.",
+    "ro": "Ha-ofanayim ha-khashmaliyim mehirim.",
+    "lit": "[le]-vélo · [l']-électrique · rapide"
+   }
+  ]
+ },
+ "0-0-7": {
+  "module": "Le quotidien",
+  "title": "Mon appartement à Tel Aviv",
+  "grammaire_de_la_lecon": "« Shel » : de, le possessif",
+  "phrases": [
+   {
+    "fr": "C'est mon appartement.",
+    "tgt": "זאת הדירה שלי.",
+    "ro": "Zot ha-dira sheli.",
+    "lit": "ceci · [l']-appartement · [de]-moi"
+   },
+   {
+    "fr": "La cuisine est petite.",
+    "tgt": "המטבח קטן.",
+    "ro": "Ha-mitbakh katan.",
+    "lit": "[la]-cuisine · petite"
+   },
+   {
+    "fr": "Le balcon de Dana est grand.",
+    "tgt": "המרפסת של דנה גדולה.",
+    "ro": "Ha-mirpeset shel Dana gdola.",
+    "lit": "[le]-balcon · [de] · Dana · grand"
+   },
+   {
+    "fr": "Ta chambre est jolie.",
+    "tgt": "החדר שלך יפה.",
+    "ro": "Ha-kheder shelkha yafe.",
+    "lit": "[la]-chambre · [de]-toi · jolie"
+   },
+   {
+    "fr": "Où est ma clé ?",
+    "tgt": "איפה המפתח שלי?",
+    "ro": "Eifo ha-mafte'akh sheli?",
+    "lit": "où · [la]-clé · [de]-moi ?"
+   },
+   {
+    "fr": "La clé est sur la table.",
+    "tgt": "המפתח על השולחן.",
+    "ro": "Ha-mafte'akh al ha-shulkhan.",
+    "lit": "[la]-clé · sur · [la]-table"
+   },
+   {
+    "fr": "Le propriétaire est sympathique.",
+    "tgt": "בעל הדירה נחמד.",
+    "ro": "Ba'al ha-dira nekhmad.",
+    "lit": "maître · [l']-appartement · sympathique"
+   },
+   {
+    "fr": "Son appartement est près de la plage.",
+    "tgt": "הדירה שלו ליד הים.",
+    "ro": "Ha-dira shelo leyad ha-yam.",
+    "lit": "[l']-appartement · [de]-lui · près-de · [la]-mer"
+   },
+   {
+    "fr": "Le canapé de Yoni est confortable.",
+    "tgt": "הספה של יוני נוחה.",
+    "ro": "Ha-sapa shel Yoni nokha.",
+    "lit": "[le]-canapé · [de] · Yoni · confortable"
+   },
+   {
+    "fr": "Le loyer est cher.",
+    "tgt": "שכר הדירה יקר.",
+    "ro": "Skhar ha-dira yakar.",
+    "lit": "salaire · [l']-appartement · cher"
+   }
+  ]
+ },
+ "0-0-8": {
+  "module": "Le quotidien",
+  "title": "Un houmous au coin de la rue",
+  "grammaire_de_la_lecon": "« Ze » et « zot » : ceci, cela",
+  "phrases": [
+   {
+    "fr": "C'est du houmous frais.",
+    "tgt": "זה חומוס טרי.",
+    "ro": "Ze khumus tari.",
+    "lit": "ceci · houmous · frais"
+   },
+   {
+    "fr": "Et ça, qu'est-ce que c'est ?",
+    "tgt": "וזה, מה זה?",
+    "ro": "Ve-ze, ma ze?",
+    "lit": "[et]-ceci · quoi · ceci ?"
+   },
+   {
+    "fr": "C'est de la tahina.",
+    "tgt": "זאת טחינה.",
+    "ro": "Zot tkhina.",
+    "lit": "ceci · tahina"
+   },
+   {
+    "fr": "Cette assiette est énorme !",
+    "tgt": "הצלחת הזאת ענקית!",
+    "ro": "Ha-tsalakhat ha-zot anakit!",
+    "lit": "[l']-assiette · [la]-ceci · énorme !"
+   },
+   {
+    "fr": "Ce restaurant est célèbre.",
+    "tgt": "המסעדה הזאת מפורסמת.",
+    "ro": "Ha-mis'ada ha-zot mefursemet.",
+    "lit": "[le]-restaurant · [la]-ceci · célèbre"
+   },
+   {
+    "fr": "Ce houmous est délicieux.",
+    "tgt": "החומוס הזה טעים.",
+    "ro": "Ha-khumus ha-ze ta'im.",
+    "lit": "[le]-houmous · [le]-ceci · délicieux"
+   },
+   {
+    "fr": "C'est pour toi.",
+    "tgt": "זה בשבילך.",
+    "ro": "Ze bishvilkha.",
+    "lit": "ceci · pour-toi"
+   },
+   {
+    "fr": "C'est un oignon.",
+    "tgt": "זה בצל.",
+    "ro": "Ze batsal.",
+    "lit": "ceci · oignon"
+   },
+   {
+    "fr": "Cette table est libre ?",
+    "tgt": "השולחן הזה פנוי?",
+    "ro": "Ha-shulkhan ha-ze panui?",
+    "lit": "[la]-table · [la]-ceci · libre ?"
+   },
+   {
+    "fr": "Cette sauce est piquante.",
+    "tgt": "הרוטב הזה חריף.",
+    "ro": "Ha-rotev ha-ze kharif.",
+    "lit": "[la]-sauce · [la]-ceci · piquante"
+   }
+  ]
+ },
+ "0-0-9": {
+  "module": "Le quotidien",
+  "title": "La routine du matin",
+  "grammaire_de_la_lecon": "Les verbes au présent : quatre formes",
+  "phrases": [
+   {
+    "fr": "Je bois un café le matin.",
+    "tgt": "אני שותה קפה בבוקר.",
+    "ro": "Ani shote kafe ba-boker.",
+    "lit": "moi · buvant · café · dans-[le]-matin"
+   },
+   {
+    "fr": "Dana boit du thé.",
+    "tgt": "דנה שותה תה.",
+    "ro": "Dana shota te.",
+    "lit": "Dana · buvant · thé"
+   },
+   {
+    "fr": "Nous mangeons à la maison.",
+    "tgt": "אנחנו אוכלים בבית.",
+    "ro": "Anakhnu okhlim ba-bayit.",
+    "lit": "nous · mangeant · dans-[la]-maison"
+   },
+   {
+    "fr": "Les filles courent sur la plage.",
+    "tgt": "הבנות רצות בחוף.",
+    "ro": "Ha-banot ratsot ba-khof.",
+    "lit": "[les]-filles · courant · sur-[la]-plage"
+   },
+   {
+    "fr": "Je cours sur la promenade.",
+    "tgt": "אני רץ בטיילת.",
+    "ro": "Ani rats ba-tayelet.",
+    "lit": "moi · courant · sur-[la]-promenade"
+   },
+   {
+    "fr": "Elle court avec le chien.",
+    "tgt": "היא רצה עם הכלב.",
+    "ro": "Hi ratsa im ha-kelev.",
+    "lit": "elle · courant · avec · [le]-chien"
+   },
+   {
+    "fr": "Je travaille de chez moi.",
+    "tgt": "אני עובד מהבית.",
+    "ro": "Ani oved me-ha-bayit.",
+    "lit": "moi · travaillant · de-[la]-maison"
+   },
+   {
+    "fr": "Maya travaille à Jaffa.",
+    "tgt": "מאיה עובדת ביפו.",
+    "ro": "Maya ovedet be-Yafo.",
+    "lit": "Maya · travaillant · à-Jaffa"
+   },
+   {
+    "fr": "Les enfants dorment encore.",
+    "tgt": "הילדים עדיין ישנים.",
+    "ro": "Ha-yeladim adayin yeshenim.",
+    "lit": "[les]-enfants · encore · dormant"
+   },
+   {
+    "fr": "Les voisines écoutent de la musique.",
+    "tgt": "השכנות שומעות מוזיקה.",
+    "ro": "Ha-shkhenot shom'ot muzika.",
+    "lit": "[les]-voisines · écoutant · musique"
+   }
+  ]
+ },
+ "0-0-10": {
+  "module": "Le quotidien",
+  "title": "Compter au marché",
+  "grammaire_de_la_lecon": "Compter : « ekhad, shtayim, shalosh »",
+  "phrases": [
+   {
+    "fr": "On compte : un, deux, trois !",
+    "tgt": "סופרים: אחת, שתיים, שלוש!",
+    "ro": "Sofrim: akhat, shtayim, shalosh!",
+    "lit": "comptant : · un · deux · trois !"
+   },
+   {
+    "fr": "Une pita, s'il vous plaît.",
+    "tgt": "פיתה אחת, בבקשה.",
+    "ro": "Pita akhat, bevakasha.",
+    "lit": "pita · une · s'il-te-plaît"
+   },
+   {
+    "fr": "Trois tomates, s'il vous plaît.",
+    "tgt": "שלוש עגבניות, בבקשה.",
+    "ro": "Shalosh agvaniyot, bevakasha.",
+    "lit": "trois · tomates · s'il-te-plaît"
+   },
+   {
+    "fr": "Ça coûte cinq shekels.",
+    "tgt": "זה עולה חמישה שקלים.",
+    "ro": "Ze ole khamisha shkalim.",
+    "lit": "ça · coûtant · cinq · shekels"
+   },
+   {
+    "fr": "Deux citrons, c'est tout.",
+    "tgt": "שני לימונים, זה הכול.",
+    "ro": "Shnei limonim, ze ha-kol.",
+    "lit": "deux · citrons · ça · [le]-tout"
+   },
+   {
+    "fr": "Quatre pitas pour dix shekels.",
+    "tgt": "ארבע פיתות בעשרה שקלים.",
+    "ro": "Arba pitot be-asara shkalim.",
+    "lit": "quatre · pitas · à-dix · shekels"
+   },
+   {
+    "fr": "La pastèque coûte huit shekels.",
+    "tgt": "האבטיח עולה שמונה שקלים.",
+    "ro": "Ha-avati'akh ole shmona shkalim.",
+    "lit": "[la]-pastèque · coûtant · huit · shekels"
+   },
+   {
+    "fr": "Six œufs, s'il vous plaît.",
+    "tgt": "שש ביצים, בבקשה.",
+    "ro": "Shesh beitsim, bevakasha.",
+    "lit": "six · œufs · s'il-te-plaît"
+   },
+   {
+    "fr": "Neuf shekels en tout.",
+    "tgt": "תשעה שקלים בסך הכול.",
+    "ro": "Tish'a shkalim be-sakh ha-kol.",
+    "lit": "neuf · shekels · dans-total · [le]-tout"
+   },
+   {
+    "fr": "Voilà dix shekels.",
+    "tgt": "הנה עשרה שקלים.",
+    "ro": "Hine asara shkalim.",
+    "lit": "voici · dix · shekels"
+   }
+  ]
+ },
+ "0-0-11": {
+  "module": "Le quotidien",
+  "title": "Dans le quartier",
+  "grammaire_de_la_lecon": "« Yesh » et « ein » : il y a, il n'y a pas",
+  "phrases": [
+   {
+    "fr": "Il y a un café près de l'appartement.",
+    "tgt": "יש בית קפה ליד הדירה.",
+    "ro": "Yesh beit kafe leyad ha-dira.",
+    "lit": "il-y-a · maison · café · près-de · [l']-appartement"
+   },
+   {
+    "fr": "Il y a une épicerie ici ?",
+    "tgt": "יש פה מכולת?",
+    "ro": "Yesh po makolet?",
+    "lit": "il-y-a · ici · épicerie ?"
+   },
+   {
+    "fr": "Il n'y a pas de parking dans la rue.",
+    "tgt": "אין חניה ברחוב.",
+    "ro": "Ein khanaya ba-rekhov.",
+    "lit": "il-n'y-a-pas · parking · dans-[la]-rue"
+   },
+   {
+    "fr": "Il y a beaucoup de vélos.",
+    "tgt": "יש הרבה אופניים.",
+    "ro": "Yesh harbe ofanayim.",
+    "lit": "il-y-a · beaucoup · vélos"
+   },
+   {
+    "fr": "Il n'y a pas de bruit le soir.",
+    "tgt": "אין רעש בערב.",
+    "ro": "Ein ra'ash ba-erev.",
+    "lit": "il-n'y-a-pas · bruit · dans-[le]-soir"
+   },
+   {
+    "fr": "Il y a un jardin public tout près.",
+    "tgt": "יש גינה קרובה.",
+    "ro": "Yesh gina krova.",
+    "lit": "il-y-a · jardin · proche"
+   },
+   {
+    "fr": "Il n'y a pas d'ascenseur dans l'immeuble.",
+    "tgt": "אין מעלית בבניין.",
+    "ro": "Ein ma'alit ba-binyan.",
+    "lit": "il-n'y-a-pas · ascenseur · dans-[l']-immeuble"
+   },
+   {
+    "fr": "Il y a du vent aujourd'hui.",
+    "tgt": "יש רוח היום.",
+    "ro": "Yesh ru'akh ha-yom.",
+    "lit": "il-y-a · vent · [le]-jour"
+   },
+   {
+    "fr": "Il n'y a pas de nuages ce matin.",
+    "tgt": "אין עננים הבוקר.",
+    "ro": "Ein ananim ha-boker.",
+    "lit": "il-n'y-a-pas · nuages · [le]-matin"
+   },
+   {
+    "fr": "Il y a une boulangerie dans le quartier ?",
+    "tgt": "יש מאפייה בשכונה?",
+    "ro": "Yesh ma'afiya ba-shkhuna?",
+    "lit": "il-y-a · boulangerie · dans-[le]-quartier ?"
+   }
+  ]
+ },
+ "0-0-12": {
+  "module": "Le quotidien",
+  "title": "Le téléphone",
+  "grammaire_de_la_lecon": "« Yesh li » : avoir, littéralement il y a à moi",
+  "phrases": [
+   {
+    "fr": "J'ai un nouveau téléphone.",
+    "tgt": "יש לי טלפון חדש.",
+    "ro": "Yesh li telefon khadash.",
+    "lit": "il-y-a · [à moi] · téléphone · nouveau"
+   },
+   {
+    "fr": "Tu as un chargeur pour moi ?",
+    "tgt": "יש לך מטען בשבילי?",
+    "ro": "Yesh lekha mit'an bishvili?",
+    "lit": "il-y-a · [à toi] · chargeur · pour-moi ?"
+   },
+   {
+    "fr": "Je n'ai plus de batterie.",
+    "tgt": "אין לי בטרייה.",
+    "ro": "Ein li batarya.",
+    "lit": "il-n'y-a-pas · [à moi] · batterie"
+   },
+   {
+    "fr": "Tu as le numéro de Dana ?",
+    "tgt": "יש לך את המספר של דנה?",
+    "ro": "Yesh lekha et ha-mispar shel Dana?",
+    "lit": "il-y-a · [à toi] · [objet] · [le]-numéro · [de] · Dana ?"
+   },
+   {
+    "fr": "Oui, j'ai son numéro.",
+    "tgt": "כן, יש לי את המספר שלה.",
+    "ro": "Ken, yesh li et ha-mispar shela.",
+    "lit": "oui · il-y-a · [à moi] · [objet] · [le]-numéro · [de]-elle"
+   },
+   {
+    "fr": "Je n'ai pas de réseau ici.",
+    "tgt": "אין לי קליטה פה.",
+    "ro": "Ein li klita po.",
+    "lit": "il-n'y-a-pas · [à moi] · réseau · ici"
+   },
+   {
+    "fr": "Elle a un message pour toi.",
+    "tgt": "יש לה הודעה בשבילך.",
+    "ro": "Yesh la hoda'a bishvilkha.",
+    "lit": "il-y-a · à-elle · message · pour-toi"
+   },
+   {
+    "fr": "Tu as du temps ce soir ?",
+    "tgt": "יש לך זמן הערב?",
+    "ro": "Yesh lekha zman ha-erev?",
+    "lit": "il-y-a · [à toi] · temps · [le]-soir ?"
+   },
+   {
+    "fr": "Non, ce soir je n'ai pas le temps.",
+    "tgt": "לא, הערב אין לי זמן.",
+    "ro": "Lo, ha-erev ein li zman.",
+    "lit": "non · [le]-soir · il-n'y-a-pas · [à moi] · temps"
+   },
+   {
+    "fr": "Il a une application pour le bus.",
+    "tgt": "יש לו אפליקציה לאוטובוס.",
+    "ro": "Yesh lo aplikatsya la-otobus.",
+    "lit": "il-y-a · à-lui · application · pour-[le]-bus"
+   }
+  ]
+ },
+ "0-0-13": {
+  "module": "Le quotidien",
+  "title": "Sur la promenade du bord de mer",
+  "grammaire_de_la_lecon": "Les petits mots collés : be-, le-, mi-",
+  "phrases": [
+   {
+    "fr": "Je vais sur la promenade.",
+    "tgt": "אני הולך לטיילת.",
+    "ro": "Ani holekh la-tayelet.",
+    "lit": "moi · allant · vers-[la]-promenade"
+   },
+   {
+    "fr": "De Tel Aviv à Jaffa, à pied.",
+    "tgt": "מתל אביב ליפו ברגל.",
+    "ro": "Mi-Tel Aviv le-Yafo ba-regel.",
+    "lit": "de-Tel Aviv · à-Jaffa · à-[le]-pied"
+   },
+   {
+    "fr": "Je suis de Marseille.",
+    "tgt": "אני ממרסיי.",
+    "ro": "Ani mi-Marsei.",
+    "lit": "moi · de-Marseille"
+   },
+   {
+    "fr": "Le kiosque est sur la plage.",
+    "tgt": "הקיוסק בחוף.",
+    "ro": "Ha-kiosk ba-khof.",
+    "lit": "[le]-kiosque · sur-[la]-plage"
+   },
+   {
+    "fr": "Je vais à Jaffa à vélo.",
+    "tgt": "אני נוסע ליפו באופניים.",
+    "ro": "Ani nose'a le-Yafo ba-ofanayim.",
+    "lit": "moi · allant · à-Jaffa · en-[le]-vélo"
+   },
+   {
+    "fr": "Elle rentre du travail.",
+    "tgt": "היא חוזרת מהעבודה.",
+    "ro": "Hi khozeret me-ha-avoda.",
+    "lit": "elle · rentrant · de-[le]-travail"
+   },
+   {
+    "fr": "Il y a un banc à l'ombre.",
+    "tgt": "יש ספסל בצל.",
+    "ro": "Yesh safsal ba-tsel.",
+    "lit": "il-y-a · banc · dans-[l']-ombre"
+   },
+   {
+    "fr": "Les enfants vont à la mer.",
+    "tgt": "הילדים הולכים לים.",
+    "ro": "Ha-yeladim holkhim la-yam.",
+    "lit": "[les]-enfants · allant · vers-[la]-mer"
+   },
+   {
+    "fr": "Le vent vient de la mer.",
+    "tgt": "הרוח באה מהים.",
+    "ro": "Ha-ru'akh ba'a me-ha-yam.",
+    "lit": "[le]-vent · venant · de-[la]-mer"
+   },
+   {
+    "fr": "Nous buvons un jus au kiosque.",
+    "tgt": "אנחנו שותים מיץ בקיוסק.",
+    "ro": "Anakhnu shotim mits ba-kiosk.",
+    "lit": "nous · buvant · jus · à-[le]-kiosque"
+   }
+  ]
+ },
+ "0-0-14": {
+  "module": "Le quotidien",
+  "title": "Les vêtements d'été",
+  "grammaire_de_la_lecon": "L'adjectif après le nom : « bayit gadol »",
+  "phrases": [
+   {
+    "fr": "Je cherche une chemise blanche.",
+    "tgt": "אני מחפש חולצה לבנה.",
+    "ro": "Ani mekhapes khultsa levana.",
+    "lit": "moi · cherchant · chemise · blanche"
+   },
+   {
+    "fr": "Ce pantalon noir est cher.",
+    "tgt": "המכנסיים השחורים יקרים.",
+    "ro": "Ha-mikhnasayim ha-shkhorim yekarim.",
+    "lit": "[le]-pantalon · [le]-noir · cher"
+   },
+   {
+    "fr": "J'aime cette robe rouge.",
+    "tgt": "אני אוהב את השמלה האדומה.",
+    "ro": "Ani ohev et ha-simla ha-aduma.",
+    "lit": "moi · aimant · [objet] · [la]-robe · [la]-rouge"
+   },
+   {
+    "fr": "Un grand chapeau pour la plage.",
+    "tgt": "כובע גדול לחוף.",
+    "ro": "Kova gadol la-khof.",
+    "lit": "chapeau · grand · pour-[la]-plage"
+   },
+   {
+    "fr": "Des sandales confortables, s'il vous plaît.",
+    "tgt": "סנדלים נוחים, בבקשה.",
+    "ro": "Sandalim nokhim, bevakasha.",
+    "lit": "sandales · confortables · s'il-te-plaît"
+   },
+   {
+    "fr": "C'est un tee-shirt léger.",
+    "tgt": "זאת חולצה קלה.",
+    "ro": "Zot khultsa kala.",
+    "lit": "ceci · tee-shirt · léger"
+   },
+   {
+    "fr": "Le maillot de bain vert est trop petit.",
+    "tgt": "בגד הים הירוק קטן מדי.",
+    "ro": "Beged ha-yam ha-yarok katan midai.",
+    "lit": "habit · [la]-mer · [le]-vert · petit · trop"
+   },
+   {
+    "fr": "Vous avez une taille moyenne ?",
+    "tgt": "יש לך מידה בינונית?",
+    "ro": "Yesh lekha mida beinonit?",
+    "lit": "il-y-a · [à toi] · taille · moyenne ?"
+   },
+   {
+    "fr": "Les chaussures neuves sont belles.",
+    "tgt": "הנעליים החדשות יפות.",
+    "ro": "Ha-na'alayim ha-khadashot yafot.",
+    "lit": "[les]-chaussures · [les]-neuves · belles"
+   },
+   {
+    "fr": "Un pull chaud ? Pas à Tel Aviv !",
+    "tgt": "סוודר חם? לא בתל אביב!",
+    "ro": "Sveder kham? Lo be-Tel Aviv!",
+    "lit": "pull · chaud ? · pas · à-Tel Aviv !"
+   }
+  ]
+ },
+ "0-0-15": {
+  "module": "Le quotidien",
+  "title": "Demander son chemin",
+  "grammaire_de_la_lecon": "Les mots interrogatifs : « ma, mi, eifo, matai, kama »",
+  "phrases": [
+   {
+    "fr": "Où est le marché du Carmel ?",
+    "tgt": "איפה שוק הכרמל?",
+    "ro": "Eifo shuk ha-Karmel?",
+    "lit": "où · marché · [le]-Carmel ?"
+   },
+   {
+    "fr": "Combien de minutes à pied ?",
+    "tgt": "כמה דקות ברגל?",
+    "ro": "Kama dakot ba-regel?",
+    "lit": "combien · minutes · à-[le]-pied ?"
+   },
+   {
+    "fr": "Environ dix minutes.",
+    "tgt": "בערך עשר דקות.",
+    "ro": "Be-erekh eser dakot.",
+    "lit": "environ · dix · minutes"
+   },
+   {
+    "fr": "Quand part le bus ?",
+    "tgt": "מתי האוטובוס יוצא?",
+    "ro": "Matai ha-otobus yotse?",
+    "lit": "quand · [le]-bus · sortant ?"
+   },
+   {
+    "fr": "Qui est ce monsieur ?",
+    "tgt": "מי האיש הזה?",
+    "ro": "Mi ha-ish ha-ze?",
+    "lit": "qui · [l']-homme · [le]-ceci ?"
+   },
+   {
+    "fr": "Qu'est-ce que tu cherches ?",
+    "tgt": "מה אתה מחפש?",
+    "ro": "Ma ata mekhapes?",
+    "lit": "quoi · toi · cherchant ?"
+   },
+   {
+    "fr": "Je cherche le boulevard Rothschild.",
+    "tgt": "אני מחפש את שדרות רוטשילד.",
+    "ro": "Ani mekhapes et sderot Rotshild.",
+    "lit": "moi · cherchant · [objet] · boulevard · Rothschild"
+   },
+   {
+    "fr": "C'est où, la station de vélos ?",
+    "tgt": "איפה תחנת האופניים?",
+    "ro": "Eifo takhanat ha-ofanayim?",
+    "lit": "où · station · [le]-vélo ?"
+   },
+   {
+    "fr": "Le ticket de bus coûte combien ?",
+    "tgt": "כמה עולה כרטיס לאוטובוס?",
+    "ro": "Kama ole kartis la-otobus?",
+    "lit": "combien · coûtant · ticket · pour-[le]-bus ?"
+   },
+   {
+    "fr": "Quand est-ce qu'on arrive ?",
+    "tgt": "מתי אנחנו מגיעים?",
+    "ro": "Matai anakhnu magi'im?",
+    "lit": "quand · nous · arrivant ?"
+   }
+  ]
+ },
+ "0-0-16": {
+  "module": "Le quotidien",
+  "title": "Une shakshuka au petit-déjeuner",
+  "grammaire_de_la_lecon": "« Gam » : aussi",
+  "phrases": [
+   {
+    "fr": "Je prends une shakshuka.",
+    "tgt": "אני לוקח שקשוקה.",
+    "ro": "Ani lokeakh shakshuka.",
+    "lit": "moi · prenant · shakshuka"
+   },
+   {
+    "fr": "Moi aussi, une shakshuka !",
+    "tgt": "גם אני, שקשוקה!",
+    "ro": "Gam ani, shakshuka!",
+    "lit": "aussi · moi · shakshuka !"
+   },
+   {
+    "fr": "Du pain aussi, s'il vous plaît.",
+    "tgt": "גם לחם, בבקשה.",
+    "ro": "Gam lekhem, bevakasha.",
+    "lit": "aussi · pain · s'il-te-plaît"
+   },
+   {
+    "fr": "La salade aussi est fraîche.",
+    "tgt": "גם הסלט טרי.",
+    "ro": "Gam ha-salat tari.",
+    "lit": "aussi · [la]-salade · fraîche"
+   },
+   {
+    "fr": "La shakshuka est piquante.",
+    "tgt": "השקשוקה חריפה.",
+    "ro": "Ha-shakshuka kharifa.",
+    "lit": "[la]-shakshuka · piquante"
+   },
+   {
+    "fr": "Le café est fort, lui aussi.",
+    "tgt": "גם הקפה חזק.",
+    "ro": "Gam ha-kafe khazak.",
+    "lit": "aussi · [le]-café · fort"
+   },
+   {
+    "fr": "Dana aussi adore la shakshuka.",
+    "tgt": "גם דנה אוהבת שקשוקה.",
+    "ro": "Gam Dana ohevet shakshuka.",
+    "lit": "aussi · Dana · aimant · shakshuka"
+   },
+   {
+    "fr": "Il y a aussi du fromage blanc.",
+    "tgt": "יש גם גבינה לבנה.",
+    "ro": "Yesh gam gvina levana.",
+    "lit": "il-y-a · aussi · fromage · blanc"
+   },
+   {
+    "fr": "Le petit-déjeuner israélien est énorme.",
+    "tgt": "ארוחת הבוקר הישראלית ענקית.",
+    "ro": "Arukhat ha-boker ha-yisre'elit anakit.",
+    "lit": "repas · [le]-matin · [l']-israélien · énorme"
+   },
+   {
+    "fr": "C'est bon et pas cher en plus.",
+    "tgt": "זה טעים וגם לא יקר.",
+    "ro": "Ze ta'im ve-gam lo yakar.",
+    "lit": "ça · bon · [et]-aussi · pas · cher"
+   }
+  ]
+ },
+ "0-0-17": {
+  "module": "Le quotidien",
+  "title": "Un soir à Tel Aviv",
+  "grammaire_de_la_lecon": "« Rotse » et « rotsa » : vouloir",
+  "phrases": [
+   {
+    "fr": "Je veux aller à la plage.",
+    "tgt": "אני רוצה ללכת לים.",
+    "ro": "Ani rotse lalekhet la-yam.",
+    "lit": "moi · voulant · aller · vers-[la]-mer"
+   },
+   {
+    "fr": "Tu veux un verre de vin ?",
+    "tgt": "אתה רוצה כוס יין?",
+    "ro": "Ata rotse kos yayin?",
+    "lit": "toi · voulant · verre · vin ?"
+   },
+   {
+    "fr": "Noa veut danser.",
+    "tgt": "נועה רוצה לרקוד.",
+    "ro": "Noa rotsa lirkod.",
+    "lit": "Noa · voulant · danser"
+   },
+   {
+    "fr": "Que veux-tu manger ce soir ?",
+    "tgt": "מה אתה רוצה לאכול הערב?",
+    "ro": "Ma ata rotse le'ekhol ha-erev?",
+    "lit": "quoi · toi · voulant · manger · [le]-soir ?"
+   },
+   {
+    "fr": "Je veux un falafel.",
+    "tgt": "אני רוצה פלאפל.",
+    "ro": "Ani rotse falafel.",
+    "lit": "moi · voulant · falafel"
+   },
+   {
+    "fr": "Dana, tu veux venir avec nous ?",
+    "tgt": "דנה, את רוצה לבוא איתנו?",
+    "ro": "Dana, at rotsa lavo itanu?",
+    "lit": "Dana · toi · voulant · venir · avec-nous ?"
+   },
+   {
+    "fr": "Oui, je veux venir !",
+    "tgt": "כן, אני רוצה לבוא!",
+    "ro": "Ken, ani rotsa lavo!",
+    "lit": "oui · moi · voulant · venir !"
+   },
+   {
+    "fr": "Ils veulent voir le coucher de soleil.",
+    "tgt": "הם רוצים לראות את השקיעה.",
+    "ro": "Hem rotsim lir'ot et ha-shki'a.",
+    "lit": "eux · voulant · voir · [objet] · [le]-coucher-de-soleil"
+   },
+   {
+    "fr": "On veut une table dehors.",
+    "tgt": "אנחנו רוצים שולחן בחוץ.",
+    "ro": "Anakhnu rotsim shulkhan ba-khuts.",
+    "lit": "nous · voulant · table · dans-[le]-dehors"
+   },
+   {
+    "fr": "Je ne veux pas rentrer tôt.",
+    "tgt": "אני לא רוצה לחזור מוקדם.",
+    "ro": "Ani lo rotse lakhzor mukdam.",
+    "lit": "moi · pas · voulant · rentrer · tôt"
+   }
+  ]
+ },
+ "0-0-18": {
+  "module": "Le quotidien",
+  "title": "Quelle heure est-il ?",
+  "grammaire_de_la_lecon": "L'heure : « ha-sha'a »",
+  "phrases": [
+   {
+    "fr": "Excuse-moi, quelle heure est-il ?",
+    "tgt": "סליחה, מה השעה?",
+    "ro": "Slikha, ma ha-sha'a?",
+    "lit": "pardon · quoi · [l']-heure ?"
+   },
+   {
+    "fr": "Il est huit heures pile.",
+    "tgt": "השעה שמונה בדיוק.",
+    "ro": "Ha-sha'a shmone bediyuk.",
+    "lit": "[l']-heure · huit · exactement"
+   },
+   {
+    "fr": "Il est neuf heures et demie.",
+    "tgt": "השעה תשע וחצי.",
+    "ro": "Ha-sha'a tesha va-khetsi.",
+    "lit": "[l']-heure · neuf · [et]-demie"
+   },
+   {
+    "fr": "Le bus arrive à dix heures.",
+    "tgt": "האוטובוס מגיע בעשר.",
+    "ro": "Ha-otobus magi'a be-eser.",
+    "lit": "[le]-bus · arrivant · à-dix"
+   },
+   {
+    "fr": "Le marché ouvre à sept heures.",
+    "tgt": "השוק נפתח בשבע.",
+    "ro": "Ha-shuk niftakh be-sheva.",
+    "lit": "[le]-marché · s'ouvrant · à-sept"
+   },
+   {
+    "fr": "On se retrouve à six heures ?",
+    "tgt": "נפגשים בשש?",
+    "ro": "Nifgashim be-shesh?",
+    "lit": "se-retrouvant · à-six ?"
+   },
+   {
+    "fr": "À quelle heure tu finis le travail ?",
+    "tgt": "באיזו שעה אתה מסיים לעבוד?",
+    "ro": "Be-eizo sha'a ata mesayem la'avod?",
+    "lit": "à-quelle · heure · toi · finissant · travailler ?"
+   },
+   {
+    "fr": "À cinq heures et quart.",
+    "tgt": "בחמש ורבע.",
+    "ro": "Be-khamesh va-reva.",
+    "lit": "à-cinq · [et]-quart"
+   },
+   {
+    "fr": "Il est déjà midi !",
+    "tgt": "כבר צהריים!",
+    "ro": "Kvar tsohorayim!",
+    "lit": "déjà · midi !"
+   },
+   {
+    "fr": "Oh non, je suis en retard !",
+    "tgt": "אוי, אני מאחר!",
+    "ro": "Oy, ani me'akher!",
+    "lit": "oh · moi · en-retard !"
+   }
+  ]
+ },
+ "0-0-19": {
+  "module": "Le quotidien",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "Les formules magiques : « shalom, toda, bevakasha, slikha »",
+  "phrases": [
+   {
+    "fr": "Shalom à tous !",
+    "tgt": "שלום לכולם!",
+    "ro": "Shalom le-khulam!",
+    "lit": "paix · à-tous !"
+   },
+   {
+    "fr": "Merci pour tout !",
+    "tgt": "תודה על הכול!",
+    "ro": "Toda al ha-kol!",
+    "lit": "merci · sur · [le]-tout !"
+   },
+   {
+    "fr": "Pardon, encore une fois, s'il te plaît.",
+    "tgt": "סליחה, עוד פעם, בבקשה.",
+    "ro": "Slikha, od pa'am, bevakasha.",
+    "lit": "pardon · encore · fois · s'il-te-plaît"
+   },
+   {
+    "fr": "La vie à Tel Aviv est facile maintenant.",
+    "tgt": "החיים בתל אביב קלים עכשיו.",
+    "ro": "Ha-khayim be-Tel Aviv kalim akhshav.",
+    "lit": "[la]-vie · à-Tel Aviv · faciles · maintenant"
+   },
+   {
+    "fr": "L'hébreu est une belle langue.",
+    "tgt": "עברית היא שפה יפה.",
+    "ro": "Ivrit hi safa yafa.",
+    "lit": "hébreu · elle · langue · belle"
+   },
+   {
+    "fr": "Je parle un peu hébreu.",
+    "tgt": "אני מדבר קצת עברית.",
+    "ro": "Ani medaber ktsat ivrit.",
+    "lit": "moi · parlant · un-peu · hébreu"
+   },
+   {
+    "fr": "Maintenant, place aux voyages !",
+    "tgt": "עכשיו, טיולים!",
+    "ro": "Akhshav, tiyulim!",
+    "lit": "maintenant · voyages !"
+   },
+   {
+    "fr": "Bravo et merci beaucoup !",
+    "tgt": "כל הכבוד ותודה רבה!",
+    "ro": "Kol ha-kavod ve-toda raba!",
+    "lit": "tout · [l']-honneur · [et]-merci · beaucoup !"
+   },
+   {
+    "fr": "De rien, avec plaisir.",
+    "tgt": "בבקשה, בכיף.",
+    "ro": "Bevakasha, be-kef.",
+    "lit": "je-t'en-prie · avec-plaisir"
+   },
+   {
+    "fr": "À très bientôt, shalom !",
+    "tgt": "נתראה בקרוב, שלום!",
+    "ro": "Nitra'e be-karov, shalom!",
+    "lit": "on-se-reverra · bientôt · paix !"
+   }
+  ]
+ },
+ "0-1-0": {
+  "module": "En voyage",
+  "title": "Arrivée à l'aéroport Ben Gourion",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Bonjour, bienvenue en Israël !",
+    "tgt": "שלום, ברוכים הבאים לישראל!",
+    "ro": "Shalom, brukhim ha-ba'im le-Yisra'el!",
+    "lit": "paix · bénis · [les]-arrivants · à-Israël !"
+   },
+   {
+    "fr": "Où sont les valises ?",
+    "tgt": "איפה המזוודות?",
+    "ro": "Eifo ha-mizvadot?",
+    "lit": "où · [les]-valises ?"
+   },
+   {
+    "fr": "Mon passeport, le voici.",
+    "tgt": "הנה הדרכון שלי.",
+    "ro": "Hine ha-darkon sheli.",
+    "lit": "voici · [le]-passeport · [de]-moi"
+   },
+   {
+    "fr": "Je suis un touriste de France.",
+    "tgt": "אני תייר מצרפת.",
+    "ro": "Ani tayar mi-Tsarfat.",
+    "lit": "moi · touriste · de-France"
+   },
+   {
+    "fr": "La sortie, c'est par ici.",
+    "tgt": "היציאה פה.",
+    "ro": "Ha-yetsi'a po.",
+    "lit": "[la]-sortie · ici"
+   },
+   {
+    "fr": "Il y a un taxi dehors ?",
+    "tgt": "יש מונית בחוץ?",
+    "ro": "Yesh monit ba-khuts?",
+    "lit": "il-y-a · taxi · dans-[le]-dehors ?"
+   },
+   {
+    "fr": "Combien de valises as-tu ?",
+    "tgt": "כמה מזוודות יש לך?",
+    "ro": "Kama mizvadot yesh lekha?",
+    "lit": "combien · valises · il-y-a · [à toi] ?"
+   },
+   {
+    "fr": "J'ai juste une valise.",
+    "tgt": "יש לי רק מזוודה אחת.",
+    "ro": "Yesh li rak mizvada akhat.",
+    "lit": "il-y-a · [à moi] · seulement · valise · une"
+   },
+   {
+    "fr": "Je suis fatigué après le vol.",
+    "tgt": "אני עייף אחרי הטיסה.",
+    "ro": "Ani ayef akharei ha-tisa.",
+    "lit": "moi · fatigué · après · [le]-vol"
+   },
+   {
+    "fr": "Le train est en bas, à droite.",
+    "tgt": "הרכבת למטה, מימין.",
+    "ro": "Ha-rakevet lemata, mi-yamin.",
+    "lit": "[le]-train · en-bas · de-droite"
+   }
+  ]
+ },
+ "0-1-1": {
+  "module": "En voyage",
+  "title": "Touristes et excursions",
+  "grammaire_de_la_lecon": "Les familles de mots : une même racine, plusieurs mots",
+  "phrases": [
+   {
+    "fr": "Je suis touriste à Jérusalem.",
+    "tgt": "אני תייר בירושלים.",
+    "ro": "Ani tayar bi-Yerushalayim.",
+    "lit": "moi · touriste · à-Jérusalem"
+   },
+   {
+    "fr": "C'est ma première excursion.",
+    "tgt": "זה הטיול הראשון שלי.",
+    "ro": "Ze ha-tiyul ha-rishon sheli.",
+    "lit": "ce · [l']-excursion · [la]-première · [de]-moi"
+   },
+   {
+    "fr": "Je me promène dans la vieille ville.",
+    "tgt": "אני מטייל בעיר העתיקה.",
+    "ro": "Ani metayel ba-ir ha-atika.",
+    "lit": "moi · me-promène · dans-[la]-ville · [l']-ancienne"
+   },
+   {
+    "fr": "Le trajet est court.",
+    "tgt": "הנסיעה קצרה.",
+    "ro": "Ha-nesi'a ktsara.",
+    "lit": "[le]-trajet · courte"
+   },
+   {
+    "fr": "Les voyageurs sont dans le train.",
+    "tgt": "הנוסעים ברכבת.",
+    "ro": "Ha-nos'im ba-rakevet.",
+    "lit": "[les]-voyageurs · dans-[le]-train"
+   },
+   {
+    "fr": "Le guide parle français.",
+    "tgt": "המדריך מדבר צרפתית.",
+    "ro": "Ha-madrikh medaber tsarfatit.",
+    "lit": "[le]-guide · parle · français"
+   },
+   {
+    "fr": "C'est le bon chemin ?",
+    "tgt": "זאת הדרך הנכונה?",
+    "ro": "Zot ha-derekh ha-nekhona?",
+    "lit": "celle-ci · [le]-chemin · [le]-correct ?"
+   },
+   {
+    "fr": "Tu voyages en train ?",
+    "tgt": "אתה נוסע ברכבת?",
+    "ro": "Ata nose'a ba-rakevet?",
+    "lit": "toi · voyages · dans-[le]-train ?"
+   },
+   {
+    "fr": "Le guide montre le chemin.",
+    "tgt": "המדריך מראה את הדרך.",
+    "ro": "Ha-madrikh mar'e et ha-derekh.",
+    "lit": "[le]-guide · montre · [objet] · [le]-chemin"
+   },
+   {
+    "fr": "Les touristes se promènent beaucoup.",
+    "tgt": "התיירים מטיילים הרבה.",
+    "ro": "Ha-tayarim metaylim harbe.",
+    "lit": "[les]-touristes · se-promènent · beaucoup"
+   }
+  ]
+ },
+ "0-1-2": {
+  "module": "En voyage",
+  "title": "Le train vers Jérusalem",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Je veux un billet pour Jérusalem.",
+    "tgt": "אני רוצה כרטיס לירושלים.",
+    "ro": "Ani rotse kartis li-Yerushalayim.",
+    "lit": "moi · veux · billet · pour-Jérusalem"
+   },
+   {
+    "fr": "Un aller simple ou un aller-retour ?",
+    "tgt": "כיוון אחד או הלוך ושוב?",
+    "ro": "Kivun ekhad o halokh va-shov?",
+    "lit": "direction · une · ou · aller · et-retour ?"
+   },
+   {
+    "fr": "Aller-retour, pour aujourd'hui.",
+    "tgt": "הלוך ושוב, להיום.",
+    "ro": "Halokh va-shov, le-hayom.",
+    "lit": "aller · et-retour · pour-aujourd'hui"
+   },
+   {
+    "fr": "Le train part à quelle heure ?",
+    "tgt": "באיזו שעה הרכבת יוצאת?",
+    "ro": "Be-eizo sha'a ha-rakevet yotset?",
+    "lit": "à-quelle · heure · [le]-train · sort ?"
+   },
+   {
+    "fr": "Dans dix minutes.",
+    "tgt": "בעוד עשר דקות.",
+    "ro": "Be-od eser dakot.",
+    "lit": "dans-encore · dix · minutes"
+   },
+   {
+    "fr": "Le quai est en bas.",
+    "tgt": "הרציף למטה.",
+    "ro": "Ha-ratsif lemata.",
+    "lit": "[le]-quai · en-bas"
+   },
+   {
+    "fr": "Cette place est libre ?",
+    "tgt": "המקום הזה פנוי?",
+    "ro": "Ha-makom ha-ze panui?",
+    "lit": "[la]-place · [la]-celle-ci · libre ?"
+   },
+   {
+    "fr": "Oui, assieds-toi.",
+    "tgt": "כן, שב.",
+    "ro": "Ken, shev.",
+    "lit": "oui · assieds-toi"
+   },
+   {
+    "fr": "Le train est rapide et propre.",
+    "tgt": "הרכבת מהירה ונקייה.",
+    "ro": "Ha-rakevet mehira u-nkiya.",
+    "lit": "[le]-train · rapide · et-propre"
+   },
+   {
+    "fr": "Jérusalem est en haut, sur la montagne.",
+    "tgt": "ירושלים למעלה, על ההר.",
+    "ro": "Yerushalayim lemala, al ha-har.",
+    "lit": "Jérusalem · en-haut · sur · [la]-montagne"
+   }
+  ]
+ },
+ "0-1-3": {
+  "module": "En voyage",
+  "title": "Au guichet de la gare",
+  "grammaire_de_la_lecon": "« Bevakasha » : s'il te plaît, de rien, voici",
+  "phrases": [
+   {
+    "fr": "Un billet, s'il te plaît.",
+    "tgt": "כרטיס אחד, בבקשה.",
+    "ro": "Kartis ekhad, bevakasha.",
+    "lit": "billet · un · s'il-te-plaît"
+   },
+   {
+    "fr": "Voici ton billet.",
+    "tgt": "בבקשה, הכרטיס שלך.",
+    "ro": "Bevakasha, ha-kartis shelkha.",
+    "lit": "voici · [le]-billet · [de]-toi"
+   },
+   {
+    "fr": "Ah, merci beaucoup !",
+    "tgt": "אה, תודה רבה!",
+    "ro": "A, toda raba!",
+    "lit": "ah · merci · nombreuse !"
+   },
+   {
+    "fr": "De rien, c'est avec plaisir.",
+    "tgt": "בבקשה, בכיף.",
+    "ro": "Bevakasha, be-kef.",
+    "lit": "de-rien · avec-plaisir"
+   },
+   {
+    "fr": "Un plan de la ville, s'il te plaît.",
+    "tgt": "מפה של העיר, בבקשה.",
+    "ro": "Mapa shel ha-ir, bevakasha.",
+    "lit": "plan · [de] · [la]-ville · s'il-te-plaît"
+   },
+   {
+    "fr": "Voilà, un plan gratuit.",
+    "tgt": "בבקשה, מפה בחינם.",
+    "ro": "Bevakasha, mapa be-khinam.",
+    "lit": "voici · plan · gratuitement"
+   },
+   {
+    "fr": "Où est la sortie, s'il te plaît ?",
+    "tgt": "איפה היציאה, בבקשה?",
+    "ro": "Eifo ha-yetsi'a, bevakasha?",
+    "lit": "où · [la]-sortie · s'il-te-plaît ?"
+   },
+   {
+    "fr": "C'est tout droit, puis à gauche.",
+    "tgt": "ישר ואז שמאלה.",
+    "ro": "Yashar ve-az smola.",
+    "lit": "tout-droit · et-alors · à-gauche"
+   },
+   {
+    "fr": "Pardon, le bus pour la vieille ville ?",
+    "tgt": "סליחה, האוטובוס לעיר העתיקה?",
+    "ro": "Slikha, ha-otobus la-ir ha-atika?",
+    "lit": "pardon · [le]-bus · vers-[la]-ville · [l']-ancienne ?"
+   },
+   {
+    "fr": "Merci, et passe une bonne journée !",
+    "tgt": "תודה, ויום טוב!",
+    "ro": "Toda, ve-yom tov!",
+    "lit": "merci · et-jour · bon !"
+   }
+  ]
+ },
+ "0-1-4": {
+  "module": "En voyage",
+  "title": "Dans la vieille ville de Jérusalem",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Voici la porte de Jaffa.",
+    "tgt": "הנה שער יפו.",
+    "ro": "Hine sha'ar Yafo.",
+    "lit": "voici · porte-de · Jaffa"
+   },
+   {
+    "fr": "Les remparts sont très anciens.",
+    "tgt": "החומות עתיקות מאוד.",
+    "ro": "Ha-khomot atikot me'od.",
+    "lit": "[les]-remparts · anciens · très"
+   },
+   {
+    "fr": "Il y a une promenade sur les remparts.",
+    "tgt": "יש טיול על החומות.",
+    "ro": "Yesh tiyul al ha-khomot.",
+    "lit": "il-y-a · promenade · sur · [les]-remparts"
+   },
+   {
+    "fr": "La vue est magnifique d'ici.",
+    "tgt": "הנוף מדהים מכאן.",
+    "ro": "Ha-nof madhim mi-kan.",
+    "lit": "[la]-vue · magnifique · d'-ici"
+   },
+   {
+    "fr": "Les ruelles sont étroites.",
+    "tgt": "הסמטאות צרות.",
+    "ro": "Ha-simta'ot tsarot.",
+    "lit": "[les]-ruelles · étroites"
+   },
+   {
+    "fr": "Il y a beaucoup de touristes aujourd'hui.",
+    "tgt": "יש הרבה תיירים היום.",
+    "ro": "Yesh harbe tayarim hayom.",
+    "lit": "il-y-a · beaucoup · touristes · aujourd'hui"
+   },
+   {
+    "fr": "Où est le musée ?",
+    "tgt": "איפה המוזיאון?",
+    "ro": "Eifo ha-muze'on?",
+    "lit": "où · [le]-musée ?"
+   },
+   {
+    "fr": "Le musée est à côté de la porte.",
+    "tgt": "המוזיאון ליד השער.",
+    "ro": "Ha-muze'on leyad ha-sha'ar.",
+    "lit": "[le]-musée · à-côté-de · [la]-porte"
+   },
+   {
+    "fr": "Il fait très chaud ici.",
+    "tgt": "חם מאוד פה.",
+    "ro": "Kham me'od po.",
+    "lit": "chaud · très · ici"
+   },
+   {
+    "fr": "J'ai de l'eau dans le sac.",
+    "tgt": "יש לי מים בתיק.",
+    "ro": "Yesh li mayim ba-tik.",
+    "lit": "il-y-a · [à moi] · eau · dans-[le]-sac"
+   }
+  ]
+ },
+ "0-1-5": {
+  "module": "En voyage",
+  "title": "Au marché Mahane Yehuda",
+  "grammaire_de_la_lecon": "« Kama ze ole ? » : demander un prix, les shekels",
+  "phrases": [
+   {
+    "fr": "Combien coûte ce fromage-là ?",
+    "tgt": "כמה עולה הגבינה הזאת?",
+    "ro": "Kama ola ha-gvina ha-zot?",
+    "lit": "combien · monte · [le]-fromage · [le]-celui-ci ?"
+   },
+   {
+    "fr": "Dix shekels le kilo.",
+    "tgt": "עשרה שקלים לקילו.",
+    "ro": "Asara shkalim la-kilo.",
+    "lit": "dix · shekels · pour-[le]-kilo"
+   },
+   {
+    "fr": "Et ça, combien ça coûte ?",
+    "tgt": "וזה, כמה זה עולה?",
+    "ro": "Ve-ze, kama ze ole?",
+    "lit": "et-ça · combien · ça · monte ?"
+   },
+   {
+    "fr": "Seulement cinq shekels.",
+    "tgt": "רק חמישה שקלים.",
+    "ro": "Rak khamisha shkalim.",
+    "lit": "seulement · cinq · shekels"
+   },
+   {
+    "fr": "C'est cher !",
+    "tgt": "זה יקר!",
+    "ro": "Ze yakar!",
+    "lit": "ça · cher !"
+   },
+   {
+    "fr": "Non, c'est bon marché.",
+    "tgt": "לא, זה זול.",
+    "ro": "Lo, ze zol.",
+    "lit": "non · ça · bon-marché"
+   },
+   {
+    "fr": "Combien coûtent les dattes ?",
+    "tgt": "כמה עולים התמרים?",
+    "ro": "Kama olim ha-tmarim?",
+    "lit": "combien · montent · [les]-dattes ?"
+   },
+   {
+    "fr": "Vingt shekels la boîte.",
+    "tgt": "עשרים שקל לקופסה.",
+    "ro": "Esrim shekel la-kufsa.",
+    "lit": "vingt · shekel · pour-[la]-boîte"
+   },
+   {
+    "fr": "Je prends deux boîtes.",
+    "tgt": "אני לוקח שתי קופסאות.",
+    "ro": "Ani loke'akh shtei kufsa'ot.",
+    "lit": "moi · prends · deux · boîtes"
+   },
+   {
+    "fr": "Combien ça fait, tout ensemble ?",
+    "tgt": "כמה זה ביחד?",
+    "ro": "Kama ze beyakhad?",
+    "lit": "combien · ça · ensemble ?"
+   }
+  ]
+ },
+ "0-1-6": {
+  "module": "En voyage",
+  "title": "Une journée à la mer Morte",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "La mer Morte est très salée.",
+    "tgt": "ים המלח מלוח מאוד.",
+    "ro": "Yam ha-Melakh malu'akh me'od.",
+    "lit": "mer-de · [le]-sel · salée · très"
+   },
+   {
+    "fr": "C'est l'endroit le plus bas du monde.",
+    "tgt": "זה המקום הכי נמוך בעולם.",
+    "ro": "Ze ha-makom hakhi namukh ba-olam.",
+    "lit": "ce · [le]-endroit · le-plus · bas · dans-[le]-monde"
+   },
+   {
+    "fr": "On flotte sur l'eau !",
+    "tgt": "צפים על המים!",
+    "ro": "Tsafim al ha-mayim!",
+    "lit": "flottons · sur · [les]-eaux !"
+   },
+   {
+    "fr": "L'eau est chaude.",
+    "tgt": "המים חמים.",
+    "ro": "Ha-mayim khamim.",
+    "lit": "[les]-eaux · chaudes"
+   },
+   {
+    "fr": "Attention aux yeux !",
+    "tgt": "זהירות עם העיניים!",
+    "ro": "Zehirut im ha-einayim!",
+    "lit": "prudence · avec · [les]-yeux !"
+   },
+   {
+    "fr": "La boue est noire.",
+    "tgt": "הבוץ שחור.",
+    "ro": "Ha-buts shakhor.",
+    "lit": "[la]-boue · noire"
+   },
+   {
+    "fr": "Il y a de l'ombre là-bas ?",
+    "tgt": "יש צל שם?",
+    "ro": "Yesh tsel sham?",
+    "lit": "il-y-a · ombre · là-bas ?"
+   },
+   {
+    "fr": "N'oublie pas ta crème solaire.",
+    "tgt": "אל תשכח קרם הגנה.",
+    "ro": "Al tishkakh krem hagana.",
+    "lit": "ne-pas · oublie · crème · protection"
+   },
+   {
+    "fr": "Le soleil est très fort.",
+    "tgt": "השמש חזקה מאוד.",
+    "ro": "Ha-shemesh khazaka me'od.",
+    "lit": "[le]-soleil · forte · très"
+   },
+   {
+    "fr": "Je veux une douche.",
+    "tgt": "אני רוצה מקלחת.",
+    "ro": "Ani rotse miklakhat.",
+    "lit": "moi · veux · douche"
+   }
+  ]
+ },
+ "0-1-7": {
+  "module": "En voyage",
+  "title": "Horaires et distances",
+  "grammaire_de_la_lecon": "« Mi... ad... » : de... à...",
+  "phrases": [
+   {
+    "fr": "Le musée est ouvert de neuf heures à cinq heures.",
+    "tgt": "המוזיאון פתוח מתשע עד חמש.",
+    "ro": "Ha-muze'on patu'akh mi-tesha ad khamesh.",
+    "lit": "[le]-musée · ouvert · de-neuf · jusqu'à · cinq"
+   },
+   {
+    "fr": "Le petit-déjeuner, de sept à dix heures.",
+    "tgt": "ארוחת בוקר משבע עד עשר.",
+    "ro": "Arukhat boker mi-sheva ad eser.",
+    "lit": "repas-de · matin · de-sept · jusqu'à · dix"
+   },
+   {
+    "fr": "La piscine est ouverte jusqu'à quand ?",
+    "tgt": "הבריכה פתוחה עד מתי?",
+    "ro": "Ha-brekha ptukha ad matay?",
+    "lit": "[la]-piscine · ouverte · jusqu'à · quand ?"
+   },
+   {
+    "fr": "Jusqu'à huit heures du soir.",
+    "tgt": "עד שמונה בערב.",
+    "ro": "Ad shmone ba-erev.",
+    "lit": "jusqu'à · huit · dans-[le]-soir"
+   },
+   {
+    "fr": "De Tel Aviv à Jérusalem, c'est une heure.",
+    "tgt": "מתל אביב עד ירושלים זה שעה.",
+    "ro": "Mi-Tel Aviv ad Yerushalayim ze sha'a.",
+    "lit": "de-Tel Aviv · jusqu'à · Jérusalem · ça · heure"
+   },
+   {
+    "fr": "Il y a un bus d'ici jusqu'à l'hôtel ?",
+    "tgt": "יש אוטובוס מכאן עד המלון?",
+    "ro": "Yesh otobus mi-kan ad ha-malon?",
+    "lit": "il-y-a · bus · d'-ici · jusqu'à · [l']-hôtel ?"
+   },
+   {
+    "fr": "Je suis ici de lundi à jeudi.",
+    "tgt": "אני פה מיום שני עד יום חמישי.",
+    "ro": "Ani po mi-yom sheni ad yom khamishi.",
+    "lit": "moi · ici · de-jour · deuxième · jusqu'à · jour · cinquième"
+   },
+   {
+    "fr": "La chambre est libre jusqu'à midi.",
+    "tgt": "החדר פנוי עד הצהריים.",
+    "ro": "Ha-kheder panui ad ha-tsohorayim.",
+    "lit": "[la]-chambre · libre · jusqu'à · [le]-midi"
+   },
+   {
+    "fr": "Du matin au soir, on marche.",
+    "tgt": "מהבוקר עד הערב אנחנו הולכים.",
+    "ro": "Me-ha-boker ad ha-erev anakhnu holkhim.",
+    "lit": "de-[le]-matin · jusqu'à · [le]-soir · nous · marchons"
+   },
+   {
+    "fr": "D'ici à la plage, cinq minutes.",
+    "tgt": "מכאן עד החוף, חמש דקות.",
+    "ro": "Mi-kan ad ha-khof, khamesh dakot.",
+    "lit": "d'-ici · jusqu'à · [la]-plage · cinq · minutes"
+   }
+  ]
+ },
+ "0-1-8": {
+  "module": "En voyage",
+  "title": "À la réception de l'hôtel",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "J'ai une réservation.",
+    "tgt": "יש לי הזמנה.",
+    "ro": "Yesh li hazmana.",
+    "lit": "il-y-a · [à moi] · réservation"
+   },
+   {
+    "fr": "À quel nom ?",
+    "tgt": "על איזה שם?",
+    "ro": "Al eize shem?",
+    "lit": "sur · quel · nom ?"
+   },
+   {
+    "fr": "Au nom de Martin.",
+    "tgt": "על שם מרטין.",
+    "ro": "Al shem Martin.",
+    "lit": "sur · nom · Martin"
+   },
+   {
+    "fr": "Voici la clé de ta chambre.",
+    "tgt": "הנה המפתח לחדר שלך.",
+    "ro": "Hine ha-mafte'akh la-kheder shelkha.",
+    "lit": "voici · [la]-clé · pour-[la]-chambre · [de]-toi"
+   },
+   {
+    "fr": "La chambre est au troisième étage.",
+    "tgt": "החדר בקומה השלישית.",
+    "ro": "Ha-kheder ba-koma ha-shlishit.",
+    "lit": "[la]-chambre · à-[l']-étage · [le]-troisième"
+   },
+   {
+    "fr": "Où est l'ascenseur ?",
+    "tgt": "איפה המעלית?",
+    "ro": "Eifo ha-ma'alit?",
+    "lit": "où · [l']-ascenseur ?"
+   },
+   {
+    "fr": "Il y a Internet dans la chambre ?",
+    "tgt": "יש אינטרנט בחדר?",
+    "ro": "Yesh internet ba-kheder?",
+    "lit": "il-y-a · Internet · dans-[la]-chambre ?"
+   },
+   {
+    "fr": "Le mot de passe est sur la carte.",
+    "tgt": "הסיסמה על הכרטיס.",
+    "ro": "Ha-sisma al ha-kartis.",
+    "lit": "[le]-mot-de-passe · sur · [la]-carte"
+   },
+   {
+    "fr": "Le climatiseur ne marche pas.",
+    "tgt": "המזגן לא עובד.",
+    "ro": "Ha-mazgan lo oved.",
+    "lit": "[le]-climatiseur · ne-pas · travaille"
+   },
+   {
+    "fr": "Pas de problème, on arrive tout de suite.",
+    "tgt": "אין בעיה, אנחנו באים מיד.",
+    "ro": "Ein be'aya, anakhnu ba'im miyad.",
+    "lit": "il-n'y-a-pas · problème · nous · venons · tout-de-suite"
+   }
+  ]
+ },
+ "0-1-9": {
+  "module": "En voyage",
+  "title": "Qu'as-tu fait hier ?",
+  "grammaire_de_la_lecon": "Le passé : « halakhti, halakhta »",
+  "phrases": [
+   {
+    "fr": "Hier, je suis allé à la vieille ville.",
+    "tgt": "אתמול הלכתי לעיר העתיקה.",
+    "ro": "Etmol halakhti la-ir ha-atika.",
+    "lit": "hier · suis-allé · à-[la]-ville · [l']-ancienne"
+   },
+   {
+    "fr": "Tu es allé au marché ?",
+    "tgt": "הלכת לשוק?",
+    "ro": "Halakhta la-shuk?",
+    "lit": "es-allé · au-[le]-marché ?"
+   },
+   {
+    "fr": "Oui, je suis allé au marché le matin.",
+    "tgt": "כן, הלכתי לשוק בבוקר.",
+    "ro": "Ken, halakhti la-shuk ba-boker.",
+    "lit": "oui · suis-allé · au-[le]-marché · dans-[le]-matin"
+   },
+   {
+    "fr": "J'ai marché sur les remparts.",
+    "tgt": "הלכתי על החומות.",
+    "ro": "Halakhti al ha-khomot.",
+    "lit": "ai-marché · sur · [les]-remparts"
+   },
+   {
+    "fr": "Tu as marché longtemps ?",
+    "tgt": "הלכת הרבה זמן?",
+    "ro": "Halakhta harbe zman?",
+    "lit": "as-marché · beaucoup · temps ?"
+   },
+   {
+    "fr": "Trois heures, c'était super.",
+    "tgt": "שלוש שעות, היה מעולה.",
+    "ro": "Shalosh sha'ot, haya me'ule.",
+    "lit": "trois · heures · était · excellent"
+   },
+   {
+    "fr": "Nous sommes allés à la plage.",
+    "tgt": "הלכנו לחוף.",
+    "ro": "Halakhnu la-khof.",
+    "lit": "sommes-allés · à-[la]-plage"
+   },
+   {
+    "fr": "Et toi, Dana, où es-tu allée ?",
+    "tgt": "ואת, דנה, לאן הלכת?",
+    "ro": "Ve-at, Dana, le-an halakht?",
+    "lit": "et-toi · Dana · vers-où · es-allée ?"
+   },
+   {
+    "fr": "J'ai mangé au marché.",
+    "tgt": "אכלתי בשוק.",
+    "ro": "Akhalti ba-shuk.",
+    "lit": "ai-mangé · dans-[le]-marché"
+   },
+   {
+    "fr": "Je suis allé dormir tôt.",
+    "tgt": "הלכתי לישון מוקדם.",
+    "ro": "Halakhti lishon mukdam.",
+    "lit": "suis-allé · dormir · tôt"
+   }
+  ]
+ },
+ "0-1-10": {
+  "module": "En voyage",
+  "title": "Massada au lever du soleil",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Massada est un site historique.",
+    "tgt": "מצדה היא אתר היסטורי.",
+    "ro": "Metsada hi atar histori.",
+    "lit": "Massada · elle · site · historique"
+   },
+   {
+    "fr": "On monte à pied ou en téléphérique ?",
+    "tgt": "עולים ברגל או ברכבל?",
+    "ro": "Olim ba-regel o ba-rakhbal?",
+    "lit": "montons · à-[le]-pied · ou · en-[le]-téléphérique ?"
+   },
+   {
+    "fr": "Le sentier commence ici.",
+    "tgt": "השביל מתחיל כאן.",
+    "ro": "Ha-shvil matkhil kan.",
+    "lit": "[le]-sentier · commence · ici"
+   },
+   {
+    "fr": "Il est quatre heures du matin !",
+    "tgt": "עכשיו ארבע בבוקר!",
+    "ro": "Akhshav arba ba-boker!",
+    "lit": "maintenant · quatre · dans-[le]-matin !"
+   },
+   {
+    "fr": "Il fait encore nuit.",
+    "tgt": "עדיין חושך.",
+    "ro": "Adayin khoshekh.",
+    "lit": "encore · obscurité"
+   },
+   {
+    "fr": "Prends une lampe de poche.",
+    "tgt": "קח פנס.",
+    "ro": "Kakh panas.",
+    "lit": "prends · lampe"
+   },
+   {
+    "fr": "Le lever du soleil est magnifique.",
+    "tgt": "הזריחה מדהימה.",
+    "ro": "Ha-zrikha madhima.",
+    "lit": "[le]-lever-du-soleil · magnifique"
+   },
+   {
+    "fr": "En bas, on voit la mer Morte.",
+    "tgt": "למטה רואים את ים המלח.",
+    "ro": "Lemata ro'im et Yam ha-Melakh.",
+    "lit": "en-bas · voyons · [objet] · mer-de · [le]-sel"
+   },
+   {
+    "fr": "Les ruines sont très impressionnantes.",
+    "tgt": "השרידים מרשימים מאוד.",
+    "ro": "Ha-sridim marshimim me'od.",
+    "lit": "[les]-vestiges · impressionnants · très"
+   },
+   {
+    "fr": "On redescend en téléphérique.",
+    "tgt": "יורדים ברכבל.",
+    "ro": "Yordim ba-rakhbal.",
+    "lit": "descendons · en-[le]-téléphérique"
+   }
+  ]
+ },
+ "0-1-11": {
+  "module": "En voyage",
+  "title": "Comment aller à Ein Gedi ?",
+  "grammaire_de_la_lecon": "« Ekh » : comment, et comment aller",
+  "phrases": [
+   {
+    "fr": "Comment on va à Ein Gedi ?",
+    "tgt": "איך מגיעים לעין גדי?",
+    "ro": "Ekh magi'im le-Ein Gedi?",
+    "lit": "comment · arrive-t-on · à-Ein Gedi ?"
+   },
+   {
+    "fr": "En bus, depuis Jérusalem.",
+    "tgt": "באוטובוס, מירושלים.",
+    "ro": "Ba-otobus, mi-Yerushalayim.",
+    "lit": "en-[le]-bus · de-Jérusalem"
+   },
+   {
+    "fr": "Comment ça se dit en hébreu ?",
+    "tgt": "איך אומרים את זה בעברית?",
+    "ro": "Ekh omrim et ze be-ivrit?",
+    "lit": "comment · dit-on · [objet] · ça · en-hébreu ?"
+   },
+   {
+    "fr": "Comment va-t-on à la cascade ?",
+    "tgt": "איך מגיעים למפל?",
+    "ro": "Ekh magi'im la-mapal?",
+    "lit": "comment · arrive-t-on · à-[la]-cascade ?"
+   },
+   {
+    "fr": "C'était comment, l'excursion ?",
+    "tgt": "איך היה הטיול?",
+    "ro": "Ekh haya ha-tiyul?",
+    "lit": "comment · était · [l']-excursion ?"
+   },
+   {
+    "fr": "Super, il y a de l'eau partout.",
+    "tgt": "מעולה, יש מים בכל מקום.",
+    "ro": "Me'ule, yesh mayim be-khol makom.",
+    "lit": "excellent · il-y-a · eau · dans-tout · endroit"
+   },
+   {
+    "fr": "Comment s'appelle ce sentier ?",
+    "tgt": "איך קוראים לשביל הזה?",
+    "ro": "Ekh kor'im la-shvil ha-ze?",
+    "lit": "comment · appelle-t-on · à-[le]-sentier · [le]-celui-ci ?"
+   },
+   {
+    "fr": "C'est le ruisseau de David.",
+    "tgt": "זה נחל דוד.",
+    "ro": "Ze Nakhal David.",
+    "lit": "ce · ruisseau · David"
+   },
+   {
+    "fr": "Comment tu te sens ?",
+    "tgt": "איך אתה מרגיש?",
+    "ro": "Ekh ata margish?",
+    "lit": "comment · toi · sens ?"
+   },
+   {
+    "fr": "Fatigué, mais très content.",
+    "tgt": "עייף, אבל שמח מאוד.",
+    "ro": "Ayef, aval same'akh me'od.",
+    "lit": "fatigué · mais · content · très"
+   }
+  ]
+ },
+ "0-1-12": {
+  "module": "En voyage",
+  "title": "La nature à Ein Gedi",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Regarde, un bouquetin !",
+    "tgt": "תראה, יעל!",
+    "ro": "Tir'e, ya'el!",
+    "lit": "regarde · bouquetin !"
+   },
+   {
+    "fr": "Il y a beaucoup de bouquetins ici.",
+    "tgt": "יש פה הרבה יעלים.",
+    "ro": "Yesh po harbe ye'elim.",
+    "lit": "il-y-a · ici · beaucoup · bouquetins"
+   },
+   {
+    "fr": "Ne donne pas à manger aux animaux.",
+    "tgt": "אל תאכיל את החיות.",
+    "ro": "Al ta'akhil et ha-khayot.",
+    "lit": "ne-pas · nourris · [objet] · [les]-animaux"
+   },
+   {
+    "fr": "L'eau de la cascade est froide.",
+    "tgt": "המים במפל קרים.",
+    "ro": "Ha-mayim ba-mapal karim.",
+    "lit": "[les]-eaux · dans-[la]-cascade · froides"
+   },
+   {
+    "fr": "Il y a des palmiers partout.",
+    "tgt": "יש דקלים בכל מקום.",
+    "ro": "Yesh dkalim be-khol makom.",
+    "lit": "il-y-a · palmiers · dans-tout · endroit"
+   },
+   {
+    "fr": "C'est une vraie oasis.",
+    "tgt": "זה נווה מדבר אמיתי.",
+    "ro": "Ze neve midbar amiti.",
+    "lit": "ce · oasis-de · désert · vraie"
+   },
+   {
+    "fr": "Le désert est tout autour.",
+    "tgt": "המדבר מסביב.",
+    "ro": "Ha-midbar misaviv.",
+    "lit": "[le]-désert · tout-autour"
+   },
+   {
+    "fr": "J'ai soif.",
+    "tgt": "אני צמא.",
+    "ro": "Ani tsame.",
+    "lit": "moi · assoiffé"
+   },
+   {
+    "fr": "Il y a un robinet près de l'entrée.",
+    "tgt": "יש ברז ליד הכניסה.",
+    "ro": "Yesh berez leyad ha-knisa.",
+    "lit": "il-y-a · robinet · à-côté-de · [l']-entrée"
+   },
+   {
+    "fr": "Quelle belle nature !",
+    "tgt": "איזה טבע יפה!",
+    "ro": "Eize teva yafe!",
+    "lit": "quelle · nature · belle !"
+   }
+  ]
+ },
+ "0-1-13": {
+  "module": "En voyage",
+  "title": "Une petite demande",
+  "grammaire_de_la_lecon": "« Yakhol » : pouvoir",
+  "phrases": [
+   {
+    "fr": "Je peux laisser mon sac ici ?",
+    "tgt": "אני יכול להשאיר את התיק פה?",
+    "ro": "Ani yakhol lehash'ir et ha-tik po?",
+    "lit": "moi · peux · laisser · [objet] · [le]-sac · ici ?"
+   },
+   {
+    "fr": "Oui, tu peux.",
+    "tgt": "כן, אתה יכול.",
+    "ro": "Ken, ata yakhol.",
+    "lit": "oui · toi · peux"
+   },
+   {
+    "fr": "Tu peux m'aider ?",
+    "tgt": "אתה יכול לעזור לי?",
+    "ro": "Ata yakhol la'azor li?",
+    "lit": "toi · peux · aider · [à moi] ?"
+   },
+   {
+    "fr": "Bien sûr, avec grand plaisir.",
+    "tgt": "בטח, בכיף.",
+    "ro": "Betakh, be-kef.",
+    "lit": "bien-sûr · avec-plaisir"
+   },
+   {
+    "fr": "Tu peux répéter, s'il te plaît ?",
+    "tgt": "אתה יכול לחזור על זה, בבקשה?",
+    "ro": "Ata yakhol lakhzor al ze, bevakasha?",
+    "lit": "toi · peux · revenir · sur · ça · s'il-te-plaît ?"
+   },
+   {
+    "fr": "Je ne peux pas marcher vite.",
+    "tgt": "אני לא יכול ללכת מהר.",
+    "ro": "Ani lo yakhol lalekhet maher.",
+    "lit": "moi · ne-pas · peux · marcher · vite"
+   },
+   {
+    "fr": "Dana, tu peux prendre une photo ?",
+    "tgt": "דנה, את יכולה לצלם?",
+    "ro": "Dana, at yekhola letsalem?",
+    "lit": "Dana · toi · peux · photographier ?"
+   },
+   {
+    "fr": "On peut entrer gratuitement ?",
+    "tgt": "אפשר להיכנס בחינם?",
+    "ro": "Efshar lehikanes be-khinam?",
+    "lit": "possible · entrer · gratuitement ?"
+   },
+   {
+    "fr": "Nous pouvons venir demain.",
+    "tgt": "אנחנו יכולים לבוא מחר.",
+    "ro": "Anakhnu yekholim lavo makhar.",
+    "lit": "nous · pouvons · venir · demain"
+   },
+   {
+    "fr": "Pardon, je ne peux pas aujourd'hui.",
+    "tgt": "סליחה, אני לא יכול היום.",
+    "ro": "Slikha, ani lo yakhol hayom.",
+    "lit": "pardon · moi · ne-pas · peux · aujourd'hui"
+   }
+  ]
+ },
+ "0-1-14": {
+  "module": "En voyage",
+  "title": "À la pharmacie",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "J'ai vraiment mal à la tête.",
+    "tgt": "ממש כואב לי הראש.",
+    "ro": "Mamash ko'ev li ha-rosh.",
+    "lit": "vraiment · fait-mal · [à moi] · [la]-tête"
+   },
+   {
+    "fr": "J'ai un coup de soleil.",
+    "tgt": "יש לי כוויה מהשמש.",
+    "ro": "Yesh li kviya me-ha-shemesh.",
+    "lit": "il-y-a · [à moi] · brûlure · de-[le]-soleil"
+   },
+   {
+    "fr": "Tu as une crème pour ça ?",
+    "tgt": "יש לך קרם לזה?",
+    "ro": "Yesh lekha krem la-ze?",
+    "lit": "il-y-a · [à toi] · crème · pour-ça ?"
+   },
+   {
+    "fr": "Oui, cette crème est très bonne.",
+    "tgt": "כן, הקרם הזה טוב מאוד.",
+    "ro": "Ken, ha-krem ha-ze tov me'od.",
+    "lit": "oui · [la]-crème · [la]-celle-ci · bonne · très"
+   },
+   {
+    "fr": "Et j'ai aussi mal au ventre.",
+    "tgt": "וגם כואבת לי הבטן.",
+    "ro": "Ve-gam ko'evet li ha-beten.",
+    "lit": "et-aussi · fait-mal · [à moi] · [le]-ventre"
+   },
+   {
+    "fr": "Tu as de la fièvre ?",
+    "tgt": "יש לך חום?",
+    "ro": "Yesh lekha khom?",
+    "lit": "il-y-a · [à toi] · fièvre ?"
+   },
+   {
+    "fr": "Non, juste un peu.",
+    "tgt": "לא, רק קצת.",
+    "ro": "Lo, rak ktsat.",
+    "lit": "non · seulement · un-peu"
+   },
+   {
+    "fr": "Un comprimé, trois fois par jour.",
+    "tgt": "כדור אחד, שלוש פעמים ביום.",
+    "ro": "Kadur ekhad, shalosh pe'amim ba-yom.",
+    "lit": "comprimé · un · trois · fois · dans-[le]-jour"
+   },
+   {
+    "fr": "Avec de l'eau, après le repas.",
+    "tgt": "עם מים, אחרי האוכל.",
+    "ro": "Im mayim, akharei ha-okhel.",
+    "lit": "avec · eau · après · [la]-nourriture"
+   },
+   {
+    "fr": "Prompt rétablissement !",
+    "tgt": "רפואה שלמה!",
+    "ro": "Refu'a shlema!",
+    "lit": "guérison · complète !"
+   }
+  ]
+ },
+ "0-1-15": {
+  "module": "En voyage",
+  "title": "Des envies de vacances",
+  "grammaire_de_la_lecon": "« Le » + verbe : l'infinitif",
+  "phrases": [
+   {
+    "fr": "Je veux visiter Massada.",
+    "tgt": "אני רוצה לבקר במצדה.",
+    "ro": "Ani rotse levaker be-Metsada.",
+    "lit": "moi · veux · visiter · à-Massada"
+   },
+   {
+    "fr": "Tu veux manger quelque chose ?",
+    "tgt": "אתה רוצה לאכול משהו?",
+    "ro": "Ata rotse le'ekhol mashehu?",
+    "lit": "toi · veux · manger · quelque-chose ?"
+   },
+   {
+    "fr": "Oui, j'aime manger au marché.",
+    "tgt": "כן, אני אוהב לאכול בשוק.",
+    "ro": "Ken, ani ohev le'ekhol ba-shuk.",
+    "lit": "oui · moi · aime · manger · dans-[le]-marché"
+   },
+   {
+    "fr": "Elle veut nager dans la mer.",
+    "tgt": "היא רוצה לשחות בים.",
+    "ro": "Hi rotsa liskhot ba-yam.",
+    "lit": "elle · veut · nager · dans-[la]-mer"
+   },
+   {
+    "fr": "Nous voulons dormir un peu.",
+    "tgt": "אנחנו רוצים לישון קצת.",
+    "ro": "Anakhnu rotsim lishon ktsat.",
+    "lit": "nous · voulons · dormir · un-peu"
+   },
+   {
+    "fr": "J'aime marcher dans la vieille ville.",
+    "tgt": "אני אוהב ללכת בעיר העתיקה.",
+    "ro": "Ani ohev lalekhet ba-ir ha-atika.",
+    "lit": "moi · aime · marcher · dans-[la]-ville · [l']-ancienne"
+   },
+   {
+    "fr": "Il est interdit de fumer ici.",
+    "tgt": "אסור לעשן כאן.",
+    "ro": "Asur le'ashen kan.",
+    "lit": "interdit · fumer · ici"
+   },
+   {
+    "fr": "On a le droit de prendre des photos ?",
+    "tgt": "מותר לצלם?",
+    "ro": "Mutar letsalem?",
+    "lit": "permis · photographier ?"
+   },
+   {
+    "fr": "C'est difficile de trouver l'hôtel.",
+    "tgt": "קשה למצוא את המלון.",
+    "ro": "Kashe limtso et ha-malon.",
+    "lit": "difficile · trouver · [objet] · [l']-hôtel"
+   },
+   {
+    "fr": "Parler hébreu, c'est amusant !",
+    "tgt": "כיף לדבר עברית!",
+    "ro": "Kef ledaber ivrit!",
+    "lit": "plaisir · parler · hébreu !"
+   }
+  ]
+ },
+ "0-1-16": {
+  "module": "En voyage",
+  "title": "Une valise perdue",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Ma valise n'est toujours pas arrivée.",
+    "tgt": "המזוודה שלי עדיין לא הגיעה.",
+    "ro": "Ha-mizvada sheli adayin lo hegi'a.",
+    "lit": "[la]-valise · [de]-moi · encore · ne-pas · est-arrivée"
+   },
+   {
+    "fr": "Ta valise est de quelle couleur ?",
+    "tgt": "באיזה צבע המזוודה שלך?",
+    "ro": "Be-eize tseva ha-mizvada shelkha?",
+    "lit": "en-quelle · couleur · [la]-valise · [de]-toi ?"
+   },
+   {
+    "fr": "Elle est grande et rouge.",
+    "tgt": "היא גדולה ואדומה.",
+    "ro": "Hi gdola ve-aduma.",
+    "lit": "elle · grande · et-rouge"
+   },
+   {
+    "fr": "Voici mon numéro de vol.",
+    "tgt": "הנה מספר הטיסה שלי.",
+    "ro": "Hine mispar ha-tisa sheli.",
+    "lit": "voici · numéro-de · [le]-vol · [de]-moi"
+   },
+   {
+    "fr": "On la cherche maintenant.",
+    "tgt": "אנחנו מחפשים אותה עכשיו.",
+    "ro": "Anakhnu mekhapsim ota akhshav.",
+    "lit": "nous · cherchons · elle · maintenant"
+   },
+   {
+    "fr": "Tu as un numéro de téléphone ?",
+    "tgt": "יש לך מספר טלפון?",
+    "ro": "Yesh lekha mispar telefon?",
+    "lit": "il-y-a · [à toi] · numéro-de · téléphone ?"
+   },
+   {
+    "fr": "Oui, voici mon numéro.",
+    "tgt": "כן, הנה המספר שלי.",
+    "ro": "Ken, hine ha-mispar sheli.",
+    "lit": "oui · voici · [le]-numéro · [de]-moi"
+   },
+   {
+    "fr": "Je n'ai pas de vêtements !",
+    "tgt": "אין לי בגדים!",
+    "ro": "Ein li bgadim!",
+    "lit": "il-n'y-a-pas · [à moi] · vêtements !"
+   },
+   {
+    "fr": "La valise arrive demain à l'hôtel.",
+    "tgt": "המזוודה מגיעה מחר למלון.",
+    "ro": "Ha-mizvada magi'a makhar la-malon.",
+    "lit": "[la]-valise · arrive · demain · à-[l']-hôtel"
+   },
+   {
+    "fr": "Quel soulagement !",
+    "tgt": "איזו הקלה!",
+    "ro": "Eizo hakala!",
+    "lit": "quel · soulagement !"
+   }
+  ]
+ },
+ "0-1-17": {
+  "module": "En voyage",
+  "title": "Petits imprévus",
+  "grammaire_de_la_lecon": "« Tsarikh » : avoir besoin de, il faut",
+  "phrases": [
+   {
+    "fr": "J'ai besoin d'un taxi.",
+    "tgt": "אני צריך מונית.",
+    "ro": "Ani tsarikh monit.",
+    "lit": "moi · ai-besoin · taxi"
+   },
+   {
+    "fr": "Tu as besoin d'aide ?",
+    "tgt": "אתה צריך עזרה?",
+    "ro": "Ata tsarikh ezra?",
+    "lit": "toi · as-besoin · aide ?"
+   },
+   {
+    "fr": "Oui, j'ai besoin d'un chargeur.",
+    "tgt": "כן, אני צריך מטען.",
+    "ro": "Ken, ani tsarikh mit'an.",
+    "lit": "oui · moi · ai-besoin · chargeur"
+   },
+   {
+    "fr": "Il faut changer de train.",
+    "tgt": "צריך להחליף רכבת.",
+    "ro": "Tsarikh lehakhlif rakevet.",
+    "lit": "il-faut · changer · train"
+   },
+   {
+    "fr": "Il faut acheter un nouveau billet ?",
+    "tgt": "צריך לקנות כרטיס חדש?",
+    "ro": "Tsarikh liknot kartis khadash?",
+    "lit": "il-faut · acheter · billet · nouveau ?"
+   },
+   {
+    "fr": "Dana a besoin d'un médecin.",
+    "tgt": "דנה צריכה רופא.",
+    "ro": "Dana tsrikha rofe.",
+    "lit": "Dana · a-besoin · médecin"
+   },
+   {
+    "fr": "Il faut appeler l'hôtel.",
+    "tgt": "צריך להתקשר למלון.",
+    "ro": "Tsarikh lehitkasher la-malon.",
+    "lit": "il-faut · téléphoner · à-[l']-hôtel"
+   },
+   {
+    "fr": "Nous avons besoin d'une chambre.",
+    "tgt": "אנחנו צריכים חדר.",
+    "ro": "Anakhnu tsrikhim kheder.",
+    "lit": "nous · avons-besoin · chambre"
+   },
+   {
+    "fr": "Le bus est en retard.",
+    "tgt": "האוטובוס מאחר.",
+    "ro": "Ha-otobus me'akher.",
+    "lit": "[le]-bus · est-en-retard"
+   },
+   {
+    "fr": "Il faut attendre un peu.",
+    "tgt": "צריך לחכות קצת.",
+    "ro": "Tsarikh lekhakot ktsat.",
+    "lit": "il-faut · attendre · un-peu"
+   }
+  ]
+ },
+ "0-1-18": {
+  "module": "En voyage",
+  "title": "Le dernier jour du voyage",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "C'est le dernier jour du voyage.",
+    "tgt": "זה היום האחרון של הטיול.",
+    "ro": "Ze ha-yom ha-akharon shel ha-tiyul.",
+    "lit": "ce · [le]-jour · [le]-dernier · [de] · [le]-voyage"
+   },
+   {
+    "fr": "Je fais ma valise.",
+    "tgt": "אני אורז את המזוודה.",
+    "ro": "Ani orez et ha-mizvada.",
+    "lit": "moi · emballe · [objet] · [la]-valise"
+   },
+   {
+    "fr": "Le vol part à midi.",
+    "tgt": "הטיסה יוצאת בצהריים.",
+    "ro": "Ha-tisa yotset ba-tsohorayim.",
+    "lit": "[le]-vol · sort · à-[le]-midi"
+   },
+   {
+    "fr": "On rend la clé à la réception.",
+    "tgt": "מחזירים את המפתח בקבלה.",
+    "ro": "Makhzirim et ha-mafte'akh ba-kabala.",
+    "lit": "rendons · [objet] · [la]-clé · à-[la]-réception"
+   },
+   {
+    "fr": "Le taxi attend dehors.",
+    "tgt": "המונית מחכה בחוץ.",
+    "ro": "Ha-monit mekhaka ba-khuts.",
+    "lit": "[le]-taxi · attend · dans-[le]-dehors"
+   },
+   {
+    "fr": "J'ai des cadeaux pour la famille.",
+    "tgt": "יש לי מתנות למשפחה.",
+    "ro": "Yesh li matanot la-mishpakha.",
+    "lit": "il-y-a · [à moi] · cadeaux · pour-[la]-famille"
+   },
+   {
+    "fr": "Des épices du marché Mahane Yehuda.",
+    "tgt": "תבלינים משוק מחנה יהודה.",
+    "ro": "Tavlinim mi-shuk Makhane Yehuda.",
+    "lit": "épices · de-marché-de · Mahane Yehuda"
+   },
+   {
+    "fr": "Et du sel de la mer Morte.",
+    "tgt": "ומלח מים המלח.",
+    "ro": "U-melakh mi-Yam ha-Melakh.",
+    "lit": "et-sel · de-mer-de · [le]-sel"
+   },
+   {
+    "fr": "Israël me manque déjà.",
+    "tgt": "אני כבר מתגעגע לישראל.",
+    "ro": "Ani kvar mitga'ge'a le-Yisra'el.",
+    "lit": "moi · déjà · m'ennuie · à-Israël"
+   },
+   {
+    "fr": "Au revoir, Jérusalem !",
+    "tgt": "להתראות, ירושלים!",
+    "ro": "Lehitra'ot, Yerushalayim!",
+    "lit": "au-revoir · Jérusalem !"
+   }
+  ]
+ },
+ "0-1-19": {
+  "module": "En voyage",
+  "title": "Fin du module : un bilan de voyage",
+  "grammaire_de_la_lecon": "Le futur : « elekh, nelekh »",
+  "phrases": [
+   {
+    "fr": "Demain, j'irai à l'aéroport.",
+    "tgt": "מחר אני אלך לשדה התעופה.",
+    "ro": "Makhar ani elekh li-sde ha-te'ufa.",
+    "lit": "demain · moi · irai · au-champ-de · [l']-aviation"
+   },
+   {
+    "fr": "Ce soir, nous irons au marché.",
+    "tgt": "הערב נלך לשוק.",
+    "ro": "Ha-erev nelekh la-shuk.",
+    "lit": "[le]-soir · irons · au-[le]-marché"
+   },
+   {
+    "fr": "Tu iras à la plage ?",
+    "tgt": "אתה תלך לחוף?",
+    "ro": "Ata telekh la-khof?",
+    "lit": "toi · iras · à-[la]-plage ?"
+   },
+   {
+    "fr": "Dans ce module, on a beaucoup voyagé.",
+    "tgt": "במודול הזה טיילנו הרבה.",
+    "ro": "Ba-modul ha-ze tiyalnu harbe.",
+    "lit": "dans-[le]-module · [le]-celui-ci · avons-voyagé · beaucoup"
+   },
+   {
+    "fr": "Tu parles déjà un peu hébreu.",
+    "tgt": "אתה כבר מדבר קצת עברית.",
+    "ro": "Ata kvar medaber ktsat ivrit.",
+    "lit": "toi · déjà · parles · un-peu · hébreu"
+   },
+   {
+    "fr": "Maintenant, tu sais demander un prix.",
+    "tgt": "עכשיו אתה יודע לשאול מחיר.",
+    "ro": "Akhshav ata yode'a lish'ol mekhir.",
+    "lit": "maintenant · toi · sais · demander · prix"
+   },
+   {
+    "fr": "Et tu sais demander ton chemin.",
+    "tgt": "ואתה יודע לשאול על הדרך.",
+    "ro": "Ve-ata yode'a lish'ol al ha-derekh.",
+    "lit": "et-toi · sais · demander · sur · [le]-chemin"
+   },
+   {
+    "fr": "Au prochain module, on parlera avec les gens.",
+    "tgt": "במודול הבא נדבר עם אנשים.",
+    "ro": "Ba-modul ha-ba nedaber im anashim.",
+    "lit": "dans-[le]-module · [le]-suivant · parlerons · avec · gens"
+   },
+   {
+    "fr": "Bravo, et merci !",
+    "tgt": "כל הכבוד, ותודה!",
+    "ro": "Kol ha-kavod, ve-toda!",
+    "lit": "tout · [l']-honneur · et-merci !"
+   },
+   {
+    "fr": "Nous irons loin ensemble !",
+    "tgt": "נלך רחוק ביחד!",
+    "ro": "Nelekh rakhok beyakhad!",
+    "lit": "irons · loin · ensemble !"
+   }
+  ]
+ },
+ "0-2-0": {
+  "module": "Conversation sociale",
+  "title": "Une rencontre au port de Haïfa",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Bonjour, tu habites à Haïfa ?",
+    "tgt": "שלום, אתה גר בחיפה?",
+    "ro": "Shalom, ata gar be-Kheifa?",
+    "lit": "paix · toi · habitant · à-Haïfa ?"
+   },
+   {
+    "fr": "Oui, j'habite près du port.",
+    "tgt": "כן, אני גר ליד הנמל.",
+    "ro": "Ken, ani gar leyad ha-namal.",
+    "lit": "oui · moi · habitant · à-côté-de · [le]-port"
+   },
+   {
+    "fr": "Le port est très beau ce soir.",
+    "tgt": "הנמל יפה מאוד הערב.",
+    "ro": "Ha-namal yafe me'od ha-erev.",
+    "lit": "[le]-port · beau · très · [le]-soir"
+   },
+   {
+    "fr": "Tu es nouveau ici ?",
+    "tgt": "אתה חדש פה?",
+    "ro": "Ata khadash po?",
+    "lit": "toi · nouveau · ici ?"
+   },
+   {
+    "fr": "Oui, je suis français.",
+    "tgt": "כן, אני צרפתי.",
+    "ro": "Ken, ani tsarfati.",
+    "lit": "oui · moi · français"
+   },
+   {
+    "fr": "Je suis à Haïfa pour le travail.",
+    "tgt": "אני בחיפה בשביל העבודה.",
+    "ro": "Ani be-Kheifa bishvil ha-avoda.",
+    "lit": "moi · à-Haïfa · pour · [le]-travail"
+   },
+   {
+    "fr": "Bienvenue chez nous, à Haïfa !",
+    "tgt": "ברוך הבא לחיפה!",
+    "ro": "Barukh ha-ba le-Kheifa!",
+    "lit": "béni · [le]-venant · à-Haïfa !"
+   },
+   {
+    "fr": "Merci, la ville est très agréable.",
+    "tgt": "תודה, העיר מאוד נעימה.",
+    "ro": "Toda, ha-ir me'od ne'ima.",
+    "lit": "merci · [le]-ville · très · agréable"
+   },
+   {
+    "fr": "Tu bois un café avec moi ?",
+    "tgt": "אתה שותה איתי קפה?",
+    "ro": "Ata shote iti kafe?",
+    "lit": "toi · buvant · avec-moi · café ?"
+   },
+   {
+    "fr": "Oui, avec joie !",
+    "tgt": "כן, בשמחה!",
+    "ro": "Ken, be-simkha!",
+    "lit": "oui · avec-joie !"
+   }
+  ]
+ },
+ "0-2-1": {
+  "module": "Conversation sociale",
+  "title": "Se présenter",
+  "grammaire_de_la_lecon": "Se présenter : « kor'im li »",
+  "phrases": [
+   {
+    "fr": "Comment tu t'appelles, toi ?",
+    "tgt": "איך קוראים לך?",
+    "ro": "Eikh kor'im lekha?",
+    "lit": "comment · on-appelle · à-toi ?"
+   },
+   {
+    "fr": "Je m'appelle Daniel.",
+    "tgt": "קוראים לי דניאל.",
+    "ro": "Kor'im li Daniel.",
+    "lit": "on-appelle · à-moi · Daniel"
+   },
+   {
+    "fr": "Et elle, comment elle s'appelle ?",
+    "tgt": "ואיך קוראים לה?",
+    "ro": "Ve-eikh kor'im la?",
+    "lit": "[et]-comment · on-appelle · à-elle ?"
+   },
+   {
+    "fr": "Elle s'appelle Noa, c'est ma collègue.",
+    "tgt": "קוראים לה נועה, היא קולגה שלי.",
+    "ro": "Kor'im la No'a, hi kolega sheli.",
+    "lit": "on-appelle · à-elle · Noa · elle · collègue · [de]-moi"
+   },
+   {
+    "fr": "Enchanté, Noa.",
+    "tgt": "נעים מאוד, נועה.",
+    "ro": "Na'im me'od, No'a.",
+    "lit": "agréable · très · Noa"
+   },
+   {
+    "fr": "Et moi, je m'appelle Tamar.",
+    "tgt": "ולי קוראים תמר.",
+    "ro": "Ve-li kor'im Tamar.",
+    "lit": "[et]-à-moi · on-appelle · Tamar"
+   },
+   {
+    "fr": "Comment s'appelle ton chef ?",
+    "tgt": "איך קוראים למנהל שלך?",
+    "ro": "Eikh kor'im la-menahel shelkha?",
+    "lit": "comment · on-appelle · à-[le]-directeur · [de]-toi ?"
+   },
+   {
+    "fr": "Il s'appelle Yossi.",
+    "tgt": "קוראים לו יוסי.",
+    "ro": "Kor'im lo Yossi.",
+    "lit": "on-appelle · à-lui · Yossi"
+   },
+   {
+    "fr": "Moi, c'est Daniel, de Paris.",
+    "tgt": "אני דניאל, מפריז.",
+    "ro": "Ani Daniel, mi-Pariz.",
+    "lit": "moi · Daniel · de-Paris"
+   },
+   {
+    "fr": "Ravi de faire ta connaissance.",
+    "tgt": "נעים להכיר.",
+    "ro": "Na'im lehakir.",
+    "lit": "agréable · connaître"
+   }
+  ]
+ },
+ "0-2-2": {
+  "module": "Conversation sociale",
+  "title": "D'où viens-tu ?",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Tu es d'où, toi ?",
+    "tgt": "מאיפה אתה?",
+    "ro": "Me'eifo ata?",
+    "lit": "d'où · toi ?"
+   },
+   {
+    "fr": "Je viens de Lyon.",
+    "tgt": "אני מליון.",
+    "ro": "Ani mi-Lyon.",
+    "lit": "moi · de-Lyon"
+   },
+   {
+    "fr": "Et toi, tu es de Haïfa ?",
+    "tgt": "ואתה מחיפה?",
+    "ro": "Ve-ata mi-Kheifa?",
+    "lit": "[et]-toi · de-Haïfa ?"
+   },
+   {
+    "fr": "Oui, ma famille est d'ici.",
+    "tgt": "כן, המשפחה שלי מפה.",
+    "ro": "Ken, ha-mishpakha sheli mi-po.",
+    "lit": "oui · [le]-famille · [de]-moi · d'ici"
+   },
+   {
+    "fr": "Tu habites dans quel quartier ?",
+    "tgt": "באיזו שכונה אתה גר?",
+    "ro": "Be-eizo shkhuna ata gar?",
+    "lit": "dans-quel · quartier · toi · habitant ?"
+   },
+   {
+    "fr": "J'habite sur le mont Carmel.",
+    "tgt": "אני גר בכרמל.",
+    "ro": "Ani gar ba-Karmel.",
+    "lit": "moi · habitant · dans-[le]-Carmel"
+   },
+   {
+    "fr": "C'est un quartier calme et vert.",
+    "tgt": "זאת שכונה שקטה וירוקה.",
+    "ro": "Zot shkhuna shketa ve-yeruka.",
+    "lit": "ceci · quartier · calme · [et]-verte"
+   },
+   {
+    "fr": "Mon amie habite à Bat Galim.",
+    "tgt": "החברה שלי גרה בבת גלים.",
+    "ro": "Ha-khavera sheli gara be-Bat Galim.",
+    "lit": "[le]-amie · [de]-moi · habitante · à-Bat-Galim"
+   },
+   {
+    "fr": "C'est près de la mer ?",
+    "tgt": "זה קרוב לים?",
+    "ro": "Ze karov la-yam?",
+    "lit": "ceci · proche · à-[le]-mer ?"
+   },
+   {
+    "fr": "Oui, à cinq minutes à pied.",
+    "tgt": "כן, חמש דקות ברגל.",
+    "ro": "Ken, khamesh dakot ba-regel.",
+    "lit": "oui · cinq · minutes · à-[le]-pied"
+   }
+  ]
+ },
+ "0-2-3": {
+  "module": "Conversation sociale",
+  "title": "Ce que j'aime",
+  "grammaire_de_la_lecon": "« Ohev » et « ohevet » : aimer",
+  "phrases": [
+   {
+    "fr": "J'aime le café.",
+    "tgt": "אני אוהב קפה.",
+    "ro": "Ani ohev kafe.",
+    "lit": "moi · aimant · café"
+   },
+   {
+    "fr": "Noa aime le thé à la menthe.",
+    "tgt": "נועה אוהבת תה עם נענע.",
+    "ro": "No'a ohevet te im nana.",
+    "lit": "Noa · aimante · thé · avec · menthe"
+   },
+   {
+    "fr": "Tu aimes le houmous ?",
+    "tgt": "אתה אוהב חומוס?",
+    "ro": "Ata ohev khumus?",
+    "lit": "toi · aimant · houmous ?"
+   },
+   {
+    "fr": "Oui, j'en suis fou !",
+    "tgt": "כן, אני מת על זה!",
+    "ro": "Ken, ani met al ze!",
+    "lit": "oui · moi · mort · sur · ceci !"
+   },
+   {
+    "fr": "Et toi, Tamar, tu aimes la mer ?",
+    "tgt": "ואת, תמר, אוהבת את הים?",
+    "ro": "Ve-at, Tamar, ohevet et ha-yam?",
+    "lit": "[et]-toi · Tamar · aimante · [objet] · [le]-mer ?"
+   },
+   {
+    "fr": "Oui, j'aime beaucoup la mer.",
+    "tgt": "כן, אני מאוד אוהבת את הים.",
+    "ro": "Ken, ani me'od ohevet et ha-yam.",
+    "lit": "oui · moi · très · aimante · [objet] · [le]-mer"
+   },
+   {
+    "fr": "Mon collègue n'aime pas le café.",
+    "tgt": "הקולגה שלי לא אוהב קפה.",
+    "ro": "Ha-kolega sheli lo ohev kafe.",
+    "lit": "[le]-collègue · [de]-moi · ne-pas · aimant · café"
+   },
+   {
+    "fr": "Elle aime les fleurs.",
+    "tgt": "היא אוהבת פרחים.",
+    "ro": "Hi ohevet prakhim.",
+    "lit": "elle · aimante · fleurs"
+   },
+   {
+    "fr": "Nous aimons le Carmel.",
+    "tgt": "אנחנו אוהבים את הכרמל.",
+    "ro": "Anakhnu ohavim et ha-Karmel.",
+    "lit": "nous · aimants · [objet] · [le]-Carmel"
+   },
+   {
+    "fr": "Il aime Haïfa le soir.",
+    "tgt": "הוא אוהב את חיפה בערב.",
+    "ro": "Hu ohev et Kheifa ba-erev.",
+    "lit": "lui · aimant · [objet] · Haïfa · dans-[le]-soir"
+   }
+  ]
+ },
+ "0-2-4": {
+  "module": "Conversation sociale",
+  "title": "Au café sur le Carmel",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Est-ce que cette table est libre ?",
+    "tgt": "השולחן הזה פנוי?",
+    "ro": "Ha-shulkhan ha-ze panui?",
+    "lit": "[le]-table · [le]-ceci · libre ?"
+   },
+   {
+    "fr": "Oui, vas-y, assieds-toi.",
+    "tgt": "כן, שב.",
+    "ro": "Ken, shev.",
+    "lit": "oui · assieds-toi"
+   },
+   {
+    "fr": "Qu'est-ce que tu bois, toi ?",
+    "tgt": "מה אתה שותה?",
+    "ro": "Ma ata shote?",
+    "lit": "quoi · toi · buvant ?"
+   },
+   {
+    "fr": "Un café noir, s'il te plaît.",
+    "tgt": "קפה שחור, בבקשה.",
+    "ro": "Kafe shakhor, bevakasha.",
+    "lit": "café · noir · s'il-te-plaît"
+   },
+   {
+    "fr": "Et pour moi, une limonade.",
+    "tgt": "ובשבילי לימונדה.",
+    "ro": "U-vishvili limonada.",
+    "lit": "[et]-pour-moi · limonade"
+   },
+   {
+    "fr": "La vue d'ici est étonnante.",
+    "tgt": "הנוף מפה מדהים.",
+    "ro": "Ha-nof mi-po madhim.",
+    "lit": "[le]-vue · d'ici · étonnant"
+   },
+   {
+    "fr": "On voit tout le port.",
+    "tgt": "רואים את כל הנמל.",
+    "ro": "Ro'im et kol ha-namal.",
+    "lit": "voyant · [objet] · tout · [le]-port"
+   },
+   {
+    "fr": "Le café ici est très bon.",
+    "tgt": "הקפה פה טוב מאוד.",
+    "ro": "Ha-kafe po tov me'od.",
+    "lit": "[le]-café · ici · bon · très"
+   },
+   {
+    "fr": "Tu veux aussi un gâteau ?",
+    "tgt": "אתה רוצה גם עוגה?",
+    "ro": "Ata rotse gam uga?",
+    "lit": "toi · voulant · aussi · gâteau ?"
+   },
+   {
+    "fr": "Non merci, ça me suffit.",
+    "tgt": "לא תודה, זה מספיק.",
+    "ro": "Lo toda, ze maspik.",
+    "lit": "non · merci · ceci · suffisant"
+   }
+  ]
+ },
+ "0-2-5": {
+  "module": "Conversation sociale",
+  "title": "Parler de sa famille",
+  "grammaire_de_la_lecon": "La famille : « aba, ima, akh, akhot »",
+  "phrases": [
+   {
+    "fr": "Tu as des frères et sœurs, toi ?",
+    "tgt": "יש לך אחים?",
+    "ro": "Yesh lekha akhim?",
+    "lit": "il-y-a · à-toi · frères ?"
+   },
+   {
+    "fr": "Oui, j'ai un frère et aussi une sœur.",
+    "tgt": "כן, יש לי אח וגם אחות.",
+    "ro": "Ken, yesh li akh ve-gam akhot.",
+    "lit": "oui · il-y-a · à-moi · frère · [et]-aussi · sœur"
+   },
+   {
+    "fr": "Mon frère habite à Tel Aviv.",
+    "tgt": "האח שלי גר בתל אביב.",
+    "ro": "Ha-akh sheli gar be-Tel Aviv.",
+    "lit": "[le]-frère · [de]-moi · habitant · à-Tel-Aviv"
+   },
+   {
+    "fr": "Ma sœur est étudiante à Haïfa.",
+    "tgt": "האחות שלי סטודנטית בחיפה.",
+    "ro": "Ha-akhot sheli studentit be-Kheifa.",
+    "lit": "[le]-sœur · [de]-moi · étudiante · à-Haïfa"
+   },
+   {
+    "fr": "Mon père est médecin.",
+    "tgt": "אבא שלי רופא.",
+    "ro": "Aba sheli rofe.",
+    "lit": "papa · [de]-moi · médecin"
+   },
+   {
+    "fr": "Et ta mère, qu'est-ce qu'elle fait ?",
+    "tgt": "ומה אמא שלך עושה?",
+    "ro": "U-ma ima shelkha osa?",
+    "lit": "[et]-quoi · maman · [de]-toi · faisant ?"
+   },
+   {
+    "fr": "Ma mère est professeure.",
+    "tgt": "אמא שלי מורה.",
+    "ro": "Ima sheli mora.",
+    "lit": "maman · [de]-moi · professeure"
+   },
+   {
+    "fr": "Mes parents habitent près du port.",
+    "tgt": "ההורים שלי גרים ליד הנמל.",
+    "ro": "Ha-horim sheli garim leyad ha-namal.",
+    "lit": "[le]-parents · [de]-moi · habitants · à-côté-de · [le]-port"
+   },
+   {
+    "fr": "Ta famille est grande ?",
+    "tgt": "המשפחה שלך גדולה?",
+    "ro": "Ha-mishpakha shelkha gdola?",
+    "lit": "[le]-famille · [de]-toi · grande ?"
+   },
+   {
+    "fr": "Non, nous sommes quatre.",
+    "tgt": "לא, אנחנו ארבעה.",
+    "ro": "Lo, anakhnu arba'a.",
+    "lit": "non · nous · quatre"
+   }
+  ]
+ },
+ "0-2-6": {
+  "module": "Conversation sociale",
+  "title": "Les collègues au travail",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Voici Avi, mon collègue.",
+    "tgt": "זה אבי, הקולגה שלי.",
+    "ro": "Ze Avi, ha-kolega sheli.",
+    "lit": "ceci · Avi · [le]-collègue · [de]-moi"
+   },
+   {
+    "fr": "Il travaille avec moi au bureau.",
+    "tgt": "הוא עובד איתי במשרד.",
+    "ro": "Hu oved iti ba-misrad.",
+    "lit": "lui · travaillant · avec-moi · dans-[le]-bureau"
+   },
+   {
+    "fr": "Le bureau est à côté du port.",
+    "tgt": "המשרד ליד הנמל.",
+    "ro": "Ha-misrad leyad ha-namal.",
+    "lit": "[le]-bureau · à-côté-de · [le]-port"
+   },
+   {
+    "fr": "Tu travailles ici depuis longtemps ?",
+    "tgt": "אתה עובד פה הרבה זמן?",
+    "ro": "Ata oved po harbe zman?",
+    "lit": "toi · travaillant · ici · beaucoup · temps ?"
+   },
+   {
+    "fr": "Non, je suis nouveau dans l'équipe.",
+    "tgt": "לא, אני חדש בצוות.",
+    "ro": "Lo, ani khadash ba-tsevet.",
+    "lit": "non · moi · nouveau · dans-[le]-équipe"
+   },
+   {
+    "fr": "L'équipe est très sympa.",
+    "tgt": "הצוות נחמד מאוד.",
+    "ro": "Ha-tsevet nekhmad me'od.",
+    "lit": "[le]-équipe · sympathique · très"
+   },
+   {
+    "fr": "On mange ensemble à midi ?",
+    "tgt": "אוכלים ביחד בצהריים?",
+    "ro": "Okhlim be-yakhad ba-tsohorayim?",
+    "lit": "mangeant · ensemble · dans-[le]-midi ?"
+   },
+   {
+    "fr": "Oui, il y a un bon restaurant en bas.",
+    "tgt": "כן, יש מסעדה טובה למטה.",
+    "ro": "Ken, yesh mis'ada tova le-mata.",
+    "lit": "oui · il-y-a · restaurant · bon · en-bas"
+   },
+   {
+    "fr": "Avi est toujours de bonne humeur.",
+    "tgt": "אבי תמיד במצב רוח טוב.",
+    "ro": "Avi tamid be-matsav ru'akh tov.",
+    "lit": "Avi · toujours · dans-état · esprit · bon"
+   },
+   {
+    "fr": "Mon travail est intéressant.",
+    "tgt": "העבודה שלי מעניינת.",
+    "ro": "Ha-avoda sheli me'anyenet.",
+    "lit": "[le]-travail · [de]-moi · intéressant"
+   }
+  ]
+ },
+ "0-2-7": {
+  "module": "Conversation sociale",
+  "title": "Mon nom, ma maison",
+  "grammaire_de_la_lecon": "Les possessifs collés : « shmi, beiti »",
+  "phrases": [
+   {
+    "fr": "Je m'appelle Yonatan.",
+    "tgt": "שמי יונתן.",
+    "ro": "Shmi Yonatan.",
+    "lit": "nom-de-moi · Yonatan"
+   },
+   {
+    "fr": "Et ton nom, c'est quoi ?",
+    "tgt": "מה שמך?",
+    "ro": "Ma shimkha?",
+    "lit": "quoi · nom-de-toi ?"
+   },
+   {
+    "fr": "Comment vas-tu, Avi ?",
+    "tgt": "מה שלומך, אבי?",
+    "ro": "Ma shlomkha, Avi?",
+    "lit": "quoi · paix-de-toi · Avi ?"
+   },
+   {
+    "fr": "Et toi, Noa, comment vas-tu ?",
+    "tgt": "ומה שלומך, נועה?",
+    "ro": "U-ma shlomekh, No'a?",
+    "lit": "[et]-quoi · paix-de-toi · Noa ?"
+   },
+   {
+    "fr": "Ma femme s'appelle Michal.",
+    "tgt": "לאשתי קוראים מיכל.",
+    "ro": "Le-ishti kor'im Mikhal.",
+    "lit": "à-femme-de-moi · on-appelle · Michal"
+   },
+   {
+    "fr": "Mon mari travaille au port.",
+    "tgt": "בעלי עובד בנמל.",
+    "ro": "Ba'ali oved ba-namal.",
+    "lit": "mari-de-moi · travaillant · dans-[le]-port"
+   },
+   {
+    "fr": "Ma maison est ta maison.",
+    "tgt": "ביתי הוא ביתך.",
+    "ro": "Beiti hu beitkha.",
+    "lit": "maison-de-moi · lui · maison-de-toi"
+   },
+   {
+    "fr": "Viens avec moi au café.",
+    "tgt": "בוא איתי לבית הקפה.",
+    "ro": "Bo iti le-veit ha-kafe.",
+    "lit": "viens · avec-moi · à-maison-de · [le]-café"
+   },
+   {
+    "fr": "Mon ami habite sur le Carmel.",
+    "tgt": "חברי גר בכרמל.",
+    "ro": "Khaveri gar ba-Karmel.",
+    "lit": "ami-de-moi · habitant · dans-[le]-Carmel"
+   },
+   {
+    "fr": "Ma famille vit à Haïfa.",
+    "tgt": "משפחתי גרה בחיפה.",
+    "ro": "Mishpakhti gara be-Kheifa.",
+    "lit": "famille-de-moi · habitante · à-Haïfa"
+   }
+  ]
+ },
+ "0-2-8": {
+  "module": "Conversation sociale",
+  "title": "Les jardins en terrasses",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Tu connais les jardins en terrasses ?",
+    "tgt": "אתה מכיר את הגנים המדורגים?",
+    "ro": "Ata makir et ha-ganim ha-medoragim?",
+    "lit": "toi · connaissant · [objet] · [le]-jardins · [le]-en-terrasses ?"
+   },
+   {
+    "fr": "Oui, ils sont magnifiques.",
+    "tgt": "כן, הם מדהימים.",
+    "ro": "Ken, hem madhimim.",
+    "lit": "oui · eux · étonnants"
+   },
+   {
+    "fr": "On y va ensemble demain ?",
+    "tgt": "הולכים מחר ביחד?",
+    "ro": "Holkhim makhar be-yakhad?",
+    "lit": "allant · demain · ensemble ?"
+   },
+   {
+    "fr": "Bonne idée, le matin c'est mieux.",
+    "tgt": "רעיון טוב, בבוקר יותר טוב.",
+    "ro": "Ra'ayon tov, ba-boker yoter tov.",
+    "lit": "idée · bonne · dans-[le]-matin · plus · bon"
+   },
+   {
+    "fr": "Le matin, il fait moins chaud.",
+    "tgt": "בבוקר פחות חם.",
+    "ro": "Ba-boker pakhot kham.",
+    "lit": "dans-[le]-matin · moins · chaud"
+   },
+   {
+    "fr": "D'en haut, on voit toute la ville.",
+    "tgt": "מלמעלה רואים את כל העיר.",
+    "ro": "Mi-lemala ro'im et kol ha-ir.",
+    "lit": "d'en-haut · voyant · [objet] · toute · [le]-ville"
+   },
+   {
+    "fr": "Il y a énormément de fleurs.",
+    "tgt": "יש הרבה פרחים.",
+    "ro": "Yesh harbe prakhim.",
+    "lit": "il-y-a · beaucoup · fleurs"
+   },
+   {
+    "fr": "L'entrée des jardins est gratuite.",
+    "tgt": "הכניסה לגנים בחינם.",
+    "ro": "Ha-knisa la-ganim be-khinam.",
+    "lit": "[le]-entrée · à-[le]-jardins · gratuitement"
+   },
+   {
+    "fr": "Il y a beaucoup de marches !",
+    "tgt": "יש הרבה מדרגות!",
+    "ro": "Yesh harbe madregot!",
+    "lit": "il-y-a · beaucoup · marches !"
+   },
+   {
+    "fr": "Pas grave, on descend doucement.",
+    "tgt": "לא נורא, יורדים לאט.",
+    "ro": "Lo nora, yordim le'at.",
+    "lit": "pas · terrible · descendant · lentement"
+   }
+  ]
+ },
+ "0-2-9": {
+  "module": "Conversation sociale",
+  "title": "Comparer",
+  "grammaire_de_la_lecon": "Comparer : « yoter »... mi-",
+  "phrases": [
+   {
+    "fr": "Haïfa est plus calme que Tel Aviv.",
+    "tgt": "חיפה יותר שקטה מתל אביב.",
+    "ro": "Kheifa yoter shketa mi-Tel Aviv.",
+    "lit": "Haïfa · plus · calme · que-Tel-Aviv"
+   },
+   {
+    "fr": "Le Carmel est plus vert que le centre.",
+    "tgt": "הכרמל יותר ירוק מהמרכז.",
+    "ro": "Ha-Karmel yoter yarok me-ha-merkaz.",
+    "lit": "[le]-Carmel · plus · vert · que-[le]-centre"
+   },
+   {
+    "fr": "Mon frère est plus grand que moi.",
+    "tgt": "אחי יותר גבוה ממני.",
+    "ro": "Akhi yoter gavoha mimeni.",
+    "lit": "frère-de-moi · plus · grand · que-moi"
+   },
+   {
+    "fr": "Tu préfères le thé ou le café ?",
+    "tgt": "אתה מעדיף תה או קפה?",
+    "ro": "Ata ma'adif te o kafe?",
+    "lit": "toi · préférant · thé · ou · café ?"
+   },
+   {
+    "fr": "Pour moi, le café est meilleur que le thé.",
+    "tgt": "בשבילי קפה יותר טוב מתה.",
+    "ro": "Bishvili kafe yoter tov mi-te.",
+    "lit": "pour-moi · café · plus · bon · que-thé"
+   },
+   {
+    "fr": "Ce café-là est moins cher.",
+    "tgt": "בית הקפה הזה יותר זול.",
+    "ro": "Beit ha-kafe ha-ze yoter zol.",
+    "lit": "maison-de · [le]-café · [le]-ceci · plus · bon-marché"
+   },
+   {
+    "fr": "Ma sœur est plus jeune que mon frère.",
+    "tgt": "אחותי יותר צעירה מאחי.",
+    "ro": "Akhoti yoter tse'ira me-akhi.",
+    "lit": "sœur-de-moi · plus · jeune · que-frère-de-moi"
+   },
+   {
+    "fr": "La Carmelit est plus rapide que le bus.",
+    "tgt": "הכרמלית יותר מהירה מהאוטובוס.",
+    "ro": "Ha-Karmelit yoter mehira me-ha-otobus.",
+    "lit": "[le]-Carmelit · plus · rapide · que-[le]-bus"
+   },
+   {
+    "fr": "C'est le plus beau quartier de la ville.",
+    "tgt": "זאת השכונה הכי יפה בעיר.",
+    "ro": "Zot ha-shkhuna hakhi yafa ba-ir.",
+    "lit": "ceci · [le]-quartier · le-plus · beau · dans-[le]-ville"
+   },
+   {
+    "fr": "Sur la montagne, il fait plus frais.",
+    "tgt": "על ההר יותר קריר.",
+    "ro": "Al ha-har yoter karir.",
+    "lit": "sur · [le]-montagne · plus · frais"
+   }
+  ]
+ },
+ "0-2-10": {
+  "module": "Conversation sociale",
+  "title": "Parler de son métier",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Tu fais quoi dans la vie, toi ?",
+    "tgt": "מה אתה עושה בחיים?",
+    "ro": "Ma ata ose ba-khayim?",
+    "lit": "quoi · toi · faisant · dans-[le]-vie ?"
+   },
+   {
+    "fr": "Je suis ingénieur.",
+    "tgt": "אני מהנדס.",
+    "ro": "Ani mehandes.",
+    "lit": "moi · ingénieur"
+   },
+   {
+    "fr": "Je travaille dans la high-tech.",
+    "tgt": "אני עובד בהייטק.",
+    "ro": "Ani oved be-haitek.",
+    "lit": "moi · travaillant · dans-high-tech"
+   },
+   {
+    "fr": "Et toi, Michal, tu travailles où ?",
+    "tgt": "ואת, מיכל, איפה את עובדת?",
+    "ro": "Ve-at, Mikhal, eifo at ovedet?",
+    "lit": "[et]-toi · Michal · où · toi · travaillante ?"
+   },
+   {
+    "fr": "Je suis infirmière à l'hôpital.",
+    "tgt": "אני אחות בבית החולים.",
+    "ro": "Ani akhot be-veit ha-kholim.",
+    "lit": "moi · infirmière · dans-maison-de · [le]-malades"
+   },
+   {
+    "fr": "C'est un travail difficile ?",
+    "tgt": "זאת עבודה קשה?",
+    "ro": "Zot avoda kasha?",
+    "lit": "ceci · travail · difficile ?"
+   },
+   {
+    "fr": "Oui, mais j'aime beaucoup ça.",
+    "tgt": "כן, אבל אני מאוד אוהבת את זה.",
+    "ro": "Ken, aval ani me'od ohevet et ze.",
+    "lit": "oui · mais · moi · très · aimante · [objet] · ceci"
+   },
+   {
+    "fr": "Tu travailles le vendredi ?",
+    "tgt": "אתה עובד בימי שישי?",
+    "ro": "Ata oved be-yemei shishi?",
+    "lit": "toi · travaillant · dans-jours-de · sixième ?"
+   },
+   {
+    "fr": "Non, le vendredi je suis libre.",
+    "tgt": "לא, ביום שישי אני חופשי.",
+    "ro": "Lo, be-yom shishi ani khofshi.",
+    "lit": "non · dans-jour · sixième · moi · libre"
+   },
+   {
+    "fr": "Mon bureau est au centre-ville.",
+    "tgt": "המשרד שלי במרכז העיר.",
+    "ro": "Ha-misrad sheli be-merkaz ha-ir.",
+    "lit": "[le]-bureau · [de]-moi · dans-centre-de · [le]-ville"
+   }
+  ]
+ },
+ "0-2-11": {
+  "module": "Conversation sociale",
+  "title": "Expliquer pourquoi",
+  "grammaire_de_la_lecon": "« Ki » et « biglal » : parce que",
+  "phrases": [
+   {
+    "fr": "Pourquoi tu es fatigué ?",
+    "tgt": "למה אתה עייף?",
+    "ro": "Lama ata ayef?",
+    "lit": "pourquoi · toi · fatigué ?"
+   },
+   {
+    "fr": "Parce que je travaille beaucoup.",
+    "tgt": "כי אני עובד הרבה.",
+    "ro": "Ki ani oved harbe.",
+    "lit": "parce-que · moi · travaillant · beaucoup"
+   },
+   {
+    "fr": "Je suis en retard à cause du bus.",
+    "tgt": "אני מאחר בגלל האוטובוס.",
+    "ro": "Ani me'akher biglal ha-otobus.",
+    "lit": "moi · en-retard · à-cause-de · [le]-bus"
+   },
+   {
+    "fr": "J'aime Haïfa parce qu'il y a la mer.",
+    "tgt": "אני אוהב את חיפה כי יש ים.",
+    "ro": "Ani ohev et Kheifa ki yesh yam.",
+    "lit": "moi · aimant · [objet] · Haïfa · parce-que · il-y-a · mer"
+   },
+   {
+    "fr": "Et aussi à cause de la montagne.",
+    "tgt": "וגם בגלל ההר.",
+    "ro": "Ve-gam biglal ha-har.",
+    "lit": "[et]-aussi · à-cause-de · [le]-montagne"
+   },
+   {
+    "fr": "Elle ne vient pas, parce qu'elle est malade.",
+    "tgt": "היא לא באה, כי היא חולה.",
+    "ro": "Hi lo ba'a, ki hi khola.",
+    "lit": "elle · ne-pas · venante · parce-que · elle · malade"
+   },
+   {
+    "fr": "On reste à la maison à cause de la pluie.",
+    "tgt": "נשארים בבית בגלל הגשם.",
+    "ro": "Nish'arim ba-bayit biglal ha-geshem.",
+    "lit": "restant · dans-[le]-maison · à-cause-de · [le]-pluie"
+   },
+   {
+    "fr": "Je prends du thé, parce que c'est déjà le soir.",
+    "tgt": "אני שותה תה, כי כבר ערב.",
+    "ro": "Ani shote te, ki kvar erev.",
+    "lit": "moi · buvant · thé · parce-que · déjà · soir"
+   },
+   {
+    "fr": "Pourquoi tu aimes ce café ?",
+    "tgt": "למה אתה אוהב את בית הקפה הזה?",
+    "ro": "Lama ata ohev et beit ha-kafe ha-ze?",
+    "lit": "pourquoi · toi · aimant · [objet] · maison-de · [le]-café · [le]-ceci ?"
+   },
+   {
+    "fr": "À cause de la vue sur le port.",
+    "tgt": "בגלל הנוף לנמל.",
+    "ro": "Biglal ha-nof la-namal.",
+    "lit": "à-cause-de · [le]-vue · vers-[le]-port"
+   }
+  ]
+ },
+ "0-2-12": {
+  "module": "Conversation sociale",
+  "title": "Une invitation au dîner du vendredi",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Vendredi soir, tu es libre ?",
+    "tgt": "אתה פנוי ביום שישי בערב?",
+    "ro": "Ata panui be-yom shishi ba-erev?",
+    "lit": "toi · libre · dans-jour · sixième · dans-[le]-soir ?"
+   },
+   {
+    "fr": "Oui, pourquoi ?",
+    "tgt": "כן, למה?",
+    "ro": "Ken, lama?",
+    "lit": "oui · pourquoi ?"
+   },
+   {
+    "fr": "Viens dîner chez nous.",
+    "tgt": "בוא לארוחת ערב אצלנו.",
+    "ro": "Bo le-arukhat erev etslenu.",
+    "lit": "viens · à-repas-de · soir · chez-nous"
+   },
+   {
+    "fr": "Toute la famille vient.",
+    "tgt": "כל המשפחה באה.",
+    "ro": "Kol ha-mishpakha ba'a.",
+    "lit": "toute · [le]-famille · venante"
+   },
+   {
+    "fr": "C'est vraiment gentil, merci !",
+    "tgt": "זה מאוד נחמד, תודה!",
+    "ro": "Ze me'od nekhmad, toda!",
+    "lit": "ceci · très · gentil · merci !"
+   },
+   {
+    "fr": "Et c'est à quelle heure ?",
+    "tgt": "באיזו שעה?",
+    "ro": "Be-eizo sha'a?",
+    "lit": "dans-quelle · heure ?"
+   },
+   {
+    "fr": "Vers sept heures.",
+    "tgt": "בסביבות שבע.",
+    "ro": "Bi-svivot sheva.",
+    "lit": "dans-environs · sept"
+   },
+   {
+    "fr": "Vous habitez où exactement ?",
+    "tgt": "איפה אתם גרים?",
+    "ro": "Eifo atem garim?",
+    "lit": "où · vous · habitants ?"
+   },
+   {
+    "fr": "À Hadar, près du marché.",
+    "tgt": "בהדר, ליד השוק.",
+    "ro": "Be-Hadar, leyad ha-shuk.",
+    "lit": "à-Hadar · à-côté-de · [le]-marché"
+   },
+   {
+    "fr": "Parfait, alors à vendredi !",
+    "tgt": "מעולה, אז ביום שישי!",
+    "ro": "Me'ule, az be-yom shishi!",
+    "lit": "excellent · alors · dans-jour · sixième !"
+   }
+  ]
+ },
+ "0-2-13": {
+  "module": "Conversation sociale",
+  "title": "Ce qu'on apporte",
+  "grammaire_de_la_lecon": "« Et » : la petite marque de l'objet défini",
+  "phrases": [
+   {
+    "fr": "Tu connais ma sœur ?",
+    "tgt": "אתה מכיר את אחותי?",
+    "ro": "Ata makir et akhoti?",
+    "lit": "toi · connaissant · [objet] · sœur-de-moi ?"
+   },
+   {
+    "fr": "Je ne connais pas encore ta famille.",
+    "tgt": "אני עוד לא מכיר את המשפחה שלך.",
+    "ro": "Ani od lo makir et ha-mishpakha shelkha.",
+    "lit": "moi · encore · ne-pas · connaissant · [objet] · [le]-famille · [de]-toi"
+   },
+   {
+    "fr": "J'apporte le vin.",
+    "tgt": "אני מביא את היין.",
+    "ro": "Ani mevi et ha-yayin.",
+    "lit": "moi · apportant · [objet] · [le]-vin"
+   },
+   {
+    "fr": "Noa apporte des fleurs.",
+    "tgt": "נועה מביאה פרחים.",
+    "ro": "No'a mevi'a prakhim.",
+    "lit": "Noa · apportante · fleurs"
+   },
+   {
+    "fr": "Ma mère prépare le dîner.",
+    "tgt": "אמא שלי מכינה את ארוחת הערב.",
+    "ro": "Ima sheli mekhina et arukhat ha-erev.",
+    "lit": "maman · [de]-moi · préparante · [objet] · repas-de · [le]-soir"
+   },
+   {
+    "fr": "Tu vois la maison bleue ?",
+    "tgt": "אתה רואה את הבית הכחול?",
+    "ro": "Ata ro'e et ha-bayit ha-kakhol?",
+    "lit": "toi · voyant · [objet] · [le]-maison · [le]-bleue ?"
+   },
+   {
+    "fr": "Je cherche l'arrêt de bus.",
+    "tgt": "אני מחפש את התחנה.",
+    "ro": "Ani mekhapes et ha-takhana.",
+    "lit": "moi · cherchant · [objet] · [le]-arrêt"
+   },
+   {
+    "fr": "Tu aimes la cuisine de ma mère ?",
+    "tgt": "אתה אוהב את האוכל של אמא שלי?",
+    "ro": "Ata ohev et ha-okhel shel ima sheli?",
+    "lit": "toi · aimant · [objet] · [le]-nourriture · [de] · maman · [de]-moi ?"
+   },
+   {
+    "fr": "Tu me passes le pain, s'il te plaît ?",
+    "tgt": "תעביר לי את הלחם, בבקשה?",
+    "ro": "Ta'avir li et ha-lekhem, bevakasha?",
+    "lit": "tu-passeras · à-moi · [objet] · [le]-pain · s'il-te-plaît ?"
+   },
+   {
+    "fr": "Je ne vois pas Daniel.",
+    "tgt": "אני לא רואה את דניאל.",
+    "ro": "Ani lo ro'e et Daniel.",
+    "lit": "moi · ne-pas · voyant · [objet] · Daniel"
+   }
+  ]
+ },
+ "0-2-14": {
+  "module": "Conversation sociale",
+  "title": "Offrir un cadeau",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "On apporte quoi comme cadeau ?",
+    "tgt": "מה מביאים במתנה?",
+    "ro": "Ma mevi'im be-matana?",
+    "lit": "quoi · apportant · en-cadeau ?"
+   },
+   {
+    "fr": "Une bouteille de vin, c'est bien.",
+    "tgt": "בקבוק יין זה טוב.",
+    "ro": "Bakbuk yayin ze tov.",
+    "lit": "bouteille · vin · ceci · bon"
+   },
+   {
+    "fr": "Ou peut-être des fleurs ?",
+    "tgt": "או אולי פרחים?",
+    "ro": "O ulai prakhim?",
+    "lit": "ou · peut-être · fleurs ?"
+   },
+   {
+    "fr": "Les fleurs, c'est pour la maman.",
+    "tgt": "הפרחים בשביל אמא.",
+    "ro": "Ha-prakhim bishvil ima.",
+    "lit": "[le]-fleurs · pour · maman"
+   },
+   {
+    "fr": "Ce cadeau est pour toi.",
+    "tgt": "המתנה הזאת בשבילך.",
+    "ro": "Ha-matana ha-zot bishvilkha.",
+    "lit": "[le]-cadeau · [le]-ceci · pour-toi"
+   },
+   {
+    "fr": "Merci beaucoup, il ne fallait pas !",
+    "tgt": "תודה רבה, אין צורך!",
+    "ro": "Toda raba, ein tsorekh!",
+    "lit": "merci · nombreuse · il-n'y-a-pas · besoin !"
+   },
+   {
+    "fr": "C'est un petit souvenir de France.",
+    "tgt": "זאת מזכרת קטנה מצרפת.",
+    "ro": "Zot mazkeret ktana mi-Tsarfat.",
+    "lit": "ceci · souvenir · petit · de-France"
+   },
+   {
+    "fr": "Quel joli cadeau !",
+    "tgt": "איזו מתנה יפה!",
+    "ro": "Eizo matana yafa!",
+    "lit": "quel · cadeau · joli !"
+   },
+   {
+    "fr": "Les gâteaux sont pour le dessert.",
+    "tgt": "העוגות בשביל הקינוח.",
+    "ro": "Ha-ugot bishvil ha-kinu'akh.",
+    "lit": "[le]-gâteaux · pour · [le]-dessert"
+   },
+   {
+    "fr": "Ma mère fait les meilleurs gâteaux.",
+    "tgt": "אמא שלי עושה את העוגות הכי טובות.",
+    "ro": "Ima sheli osa et ha-ugot hakhi tovot.",
+    "lit": "maman · [de]-moi · faisante · [objet] · [le]-gâteaux · le-plus · bons"
+   }
+  ]
+ },
+ "0-2-15": {
+  "module": "Conversation sociale",
+  "title": "Un, deux, beaucoup",
+  "grammaire_de_la_lecon": "Le pluriel : -im et -ot",
+  "phrases": [
+   {
+    "fr": "J'ai deux frères.",
+    "tgt": "יש לי שני אחים.",
+    "ro": "Yesh li shnei akhim.",
+    "lit": "il-y-a · à-moi · deux · frères"
+   },
+   {
+    "fr": "Et trois sœurs.",
+    "tgt": "ושלוש אחיות.",
+    "ro": "Ve-shalosh akhayot.",
+    "lit": "[et]-trois · sœurs"
+   },
+   {
+    "fr": "Mes amis sont très gentils.",
+    "tgt": "החברים שלי מאוד נחמדים.",
+    "ro": "Ha-khaverim sheli me'od nekhmadim.",
+    "lit": "[le]-amis · [de]-moi · très · gentils"
+   },
+   {
+    "fr": "Mes amies sont étudiantes.",
+    "tgt": "החברות שלי סטודנטיות.",
+    "ro": "Ha-khaverot sheli studentiyot.",
+    "lit": "[le]-amies · [de]-moi · étudiantes"
+   },
+   {
+    "fr": "Il y a beaucoup de restaurants au port.",
+    "tgt": "יש הרבה מסעדות בנמל.",
+    "ro": "Yesh harbe mis'adot ba-namal.",
+    "lit": "il-y-a · beaucoup · restaurants · dans-[le]-port"
+   },
+   {
+    "fr": "Les jardins sont très beaux.",
+    "tgt": "הגנים מאוד יפים.",
+    "ro": "Ha-ganim me'od yafim.",
+    "lit": "[le]-jardins · très · beaux"
+   },
+   {
+    "fr": "Le soir, les rues sont calmes.",
+    "tgt": "הרחובות שקטים בערב.",
+    "ro": "Ha-rekhovot shketim ba-erev.",
+    "lit": "[le]-rues · calmes · dans-[le]-soir"
+   },
+   {
+    "fr": "Les enfants jouent dans le parc.",
+    "tgt": "הילדים משחקים בפארק.",
+    "ro": "Ha-yeladim mesakhakim ba-park.",
+    "lit": "[le]-enfants · jouant · dans-[le]-parc"
+   },
+   {
+    "fr": "Les filles aiment la plage.",
+    "tgt": "הבנות אוהבות את החוף.",
+    "ro": "Ha-banot ohavot et ha-khof.",
+    "lit": "[le]-filles · aimantes · [objet] · [le]-plage"
+   },
+   {
+    "fr": "Il y a de nouveaux cafés sur le Carmel.",
+    "tgt": "יש בתי קפה חדשים בכרמל.",
+    "ro": "Yesh batei kafe khadashim ba-Karmel.",
+    "lit": "il-y-a · maisons-de · café · nouveaux · dans-[le]-Carmel"
+   }
+  ]
+ },
+ "0-2-16": {
+  "module": "Conversation sociale",
+  "title": "Le dîner en famille",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Bon appétit à tous !",
+    "tgt": "בתיאבון לכולם!",
+    "ro": "Be-te'avon le-khulam!",
+    "lit": "avec-appétit · à-tous !"
+   },
+   {
+    "fr": "Tout a l'air délicieux.",
+    "tgt": "הכול נראה טעים.",
+    "ro": "Ha-kol nir'e ta'im.",
+    "lit": "[le]-tout · semblant · délicieux"
+   },
+   {
+    "fr": "Tu veux encore du riz ?",
+    "tgt": "אתה רוצה עוד אורז?",
+    "ro": "Ata rotse od orez?",
+    "lit": "toi · voulant · encore · riz ?"
+   },
+   {
+    "fr": "Oui, avec plaisir, c'est très bon.",
+    "tgt": "כן, בשמחה, זה טעים מאוד.",
+    "ro": "Ken, be-simkha, ze ta'im me'od.",
+    "lit": "oui · avec-joie · ceci · délicieux · très"
+   },
+   {
+    "fr": "C'est la recette de ta grand-mère ?",
+    "tgt": "זה המתכון של סבתא שלך?",
+    "ro": "Ze ha-matkon shel savta shelkha?",
+    "lit": "ceci · [le]-recette · [de] · mamie · [de]-toi ?"
+   },
+   {
+    "fr": "Oui, ma grand-mère cuisine très bien.",
+    "tgt": "כן, סבתא שלי מבשלת מעולה.",
+    "ro": "Ken, savta sheli mevashelet me'ule.",
+    "lit": "oui · mamie · [de]-moi · cuisinante · excellent"
+   },
+   {
+    "fr": "Le vendredi, toute la famille mange ensemble.",
+    "tgt": "בימי שישי כל המשפחה אוכלת ביחד.",
+    "ro": "Be-yemei shishi kol ha-mishpakha okhelet be-yakhad.",
+    "lit": "dans-jours-de · sixième · toute · [le]-famille · mangeante · ensemble"
+   },
+   {
+    "fr": "C'est une belle habitude.",
+    "tgt": "זה מנהג יפה.",
+    "ro": "Ze minhag yafe.",
+    "lit": "ceci · coutume · belle"
+   },
+   {
+    "fr": "Ton grand-père parle français ?",
+    "tgt": "סבא שלך מדבר צרפתית?",
+    "ro": "Saba shelkha medaber tsarfatit?",
+    "lit": "papi · [de]-toi · parlant · français ?"
+   },
+   {
+    "fr": "Un peu, il adore Paris.",
+    "tgt": "קצת, הוא מאוד אוהב את פריז.",
+    "ro": "Ktsat, hu me'od ohev et Pariz.",
+    "lit": "un-peu · lui · très · aimant · [objet] · Paris"
+   }
+  ]
+ },
+ "0-2-17": {
+  "module": "Conversation sociale",
+  "title": "Ce que j'aime faire",
+  "grammaire_de_la_lecon": "Aimer faire quelque chose : « ani ohev » li-",
+  "phrases": [
+   {
+    "fr": "J'aime marcher au bord de la mer.",
+    "tgt": "אני אוהב ללכת ליד הים.",
+    "ro": "Ani ohev lalekhet leyad ha-yam.",
+    "lit": "moi · aimant · marcher · à-côté-de · [le]-mer"
+   },
+   {
+    "fr": "Tu aimes cuisiner ?",
+    "tgt": "אתה אוהב לבשל?",
+    "ro": "Ata ohev levashel?",
+    "lit": "toi · aimant · cuisiner ?"
+   },
+   {
+    "fr": "Oui, j'aime cuisiner pour mes amis.",
+    "tgt": "כן, אני אוהב לבשל לחברים שלי.",
+    "ro": "Ken, ani ohev levashel la-khaverim sheli.",
+    "lit": "oui · moi · aimant · cuisiner · pour-[le]-amis · [de]-moi"
+   },
+   {
+    "fr": "Michal aime lire au café.",
+    "tgt": "מיכל אוהבת לקרוא בבית קפה.",
+    "ro": "Mikhal ohevet likro be-veit kafe.",
+    "lit": "Michal · aimante · lire · dans-maison-de · café"
+   },
+   {
+    "fr": "Nous aimons nager le matin.",
+    "tgt": "אנחנו אוהבים לשחות בבוקר.",
+    "ro": "Anakhnu ohavim liskhot ba-boker.",
+    "lit": "nous · aimants · nager · dans-[le]-matin"
+   },
+   {
+    "fr": "Je n'aime pas me lever tôt.",
+    "tgt": "אני לא אוהב לקום מוקדם.",
+    "ro": "Ani lo ohev lakum mukdam.",
+    "lit": "moi · ne-pas · aimant · se-lever · tôt"
+   },
+   {
+    "fr": "Et toi, Noa, qu'est-ce que tu aimes faire ?",
+    "tgt": "ומה את אוהבת לעשות, נועה?",
+    "ro": "U-ma at ohevet la'asot, No'a?",
+    "lit": "[et]-quoi · toi · aimante · faire · Noa ?"
+   },
+   {
+    "fr": "J'aime danser et chanter.",
+    "tgt": "אני אוהבת לרקוד ולשיר.",
+    "ro": "Ani ohevet lirkod ve-lashir.",
+    "lit": "moi · aimante · danser · [et]-chanter"
+   },
+   {
+    "fr": "Mon père aime jardiner.",
+    "tgt": "אבא שלי אוהב לעבוד בגינה.",
+    "ro": "Aba sheli ohev la'avod ba-gina.",
+    "lit": "papa · [de]-moi · aimant · travailler · dans-[le]-jardin"
+   },
+   {
+    "fr": "Nous aimons nous balader sur le Carmel.",
+    "tgt": "אנחנו אוהבים לטייל בכרמל.",
+    "ro": "Anakhnu ohavim letayel ba-Karmel.",
+    "lit": "nous · aimants · se-promener · dans-[le]-Carmel"
+   }
+  ]
+ },
+ "0-2-18": {
+  "module": "Conversation sociale",
+  "title": "Se dire au revoir après le dîner",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Il est déjà tard.",
+    "tgt": "כבר מאוחר.",
+    "ro": "Kvar me'ukhar.",
+    "lit": "déjà · tard"
+   },
+   {
+    "fr": "Merci pour cette belle soirée.",
+    "tgt": "תודה על הערב היפה.",
+    "ro": "Toda al ha-erev ha-yafe.",
+    "lit": "merci · sur · [le]-soir · [le]-beau"
+   },
+   {
+    "fr": "Ta mère cuisine merveilleusement.",
+    "tgt": "אמא שלך מבשלת נהדר.",
+    "ro": "Ima shelkha mevashelet nehedar.",
+    "lit": "maman · [de]-toi · cuisinante · merveilleux"
+   },
+   {
+    "fr": "Reviens quand tu veux.",
+    "tgt": "תחזור מתי שאתה רוצה.",
+    "ro": "Takhzor matai she-ata rotse.",
+    "lit": "tu-reviendras · quand · que-toi · voulant"
+   },
+   {
+    "fr": "Avec plaisir, et la prochaine fois, c'est chez moi.",
+    "tgt": "בשמחה, בפעם הבאה אצלי.",
+    "ro": "Be-simkha, ba-pa'am ha-ba'a etsli.",
+    "lit": "avec-joie · dans-[le]-fois · [le]-prochaine · chez-moi"
+   },
+   {
+    "fr": "Et toi, tu rentres comment ?",
+    "tgt": "ואיך אתה חוזר הביתה?",
+    "ro": "Ve-eikh ata khozer ha-bayta?",
+    "lit": "[et]-comment · toi · revenant · à-la-maison ?"
+   },
+   {
+    "fr": "Je prends un taxi.",
+    "tgt": "אני לוקח מונית.",
+    "ro": "Ani lokeakh monit.",
+    "lit": "moi · prenant · taxi"
+   },
+   {
+    "fr": "Bonne nuit à tous !",
+    "tgt": "לילה טוב לכולם!",
+    "ro": "Laila tov le-khulam!",
+    "lit": "nuit · bonne · à-tous !"
+   },
+   {
+    "fr": "Rentre prudemment.",
+    "tgt": "סע בזהירות.",
+    "ro": "Sa bi-zehirut.",
+    "lit": "roule · avec-prudence"
+   },
+   {
+    "fr": "On se revoit la semaine prochaine !",
+    "tgt": "להתראות בשבוע הבא!",
+    "ro": "Lehitra'ot ba-shavua ha-ba!",
+    "lit": "se-revoir · dans-[le]-semaine · [le]-prochaine !"
+   }
+  ]
+ },
+ "0-2-19": {
+  "module": "Conversation sociale",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "« Yalla », « sababa », « beseder » : les mots de la conversation",
+  "phrases": [
+   {
+    "fr": "Allez, on y va !",
+    "tgt": "יאללה, הולכים!",
+    "ro": "Yalla, holkhim!",
+    "lit": "allez · allant !"
+   },
+   {
+    "fr": "Demain à huit heures, ça te va ?",
+    "tgt": "מחר בשמונה, בסדר?",
+    "ro": "Makhar bi-shmone, beseder?",
+    "lit": "demain · à-huit · en-ordre ?"
+   },
+   {
+    "fr": "Oui, c'est d'accord pour moi.",
+    "tgt": "כן, בסדר לי.",
+    "ro": "Ken, beseder li.",
+    "lit": "oui · en-ordre · à-moi"
+   },
+   {
+    "fr": "Cool, c'est parfait !",
+    "tgt": "סבבה, מעולה!",
+    "ro": "Sababa, me'ule!",
+    "lit": "cool · excellent !"
+   },
+   {
+    "fr": "Maintenant, je peux me présenter en hébreu.",
+    "tgt": "עכשיו אני יכול להציג את עצמי בעברית.",
+    "ro": "Akhshav ani yakhol lehatsig et atsmi be-ivrit.",
+    "lit": "maintenant · moi · pouvant · présenter · [objet] · moi-même · en-hébreu"
+   },
+   {
+    "fr": "Je parle de ma famille et de mon travail.",
+    "tgt": "אני מדבר על המשפחה ועל העבודה שלי.",
+    "ro": "Ani medaber al ha-mishpakha ve-al ha-avoda sheli.",
+    "lit": "moi · parlant · sur · [le]-famille · [et]-sur · [le]-travail · [de]-moi"
+   },
+   {
+    "fr": "Je sais dire ce que j'aime.",
+    "tgt": "אני יודע להגיד מה אני אוהב.",
+    "ro": "Ani yode'a lehagid ma ani ohev.",
+    "lit": "moi · sachant · dire · quoi · moi · aimant"
+   },
+   {
+    "fr": "L'hébreu devient de plus en plus facile.",
+    "tgt": "עברית זה יותר ויותר קל.",
+    "ro": "Ivrit ze yoter ve-yoter kal.",
+    "lit": "hébreu · ceci · plus · [et]-plus · facile"
+   },
+   {
+    "fr": "Tout est cool !",
+    "tgt": "הכול סבבה!",
+    "ro": "Ha-kol sababa!",
+    "lit": "[le]-tout · cool !"
+   },
+   {
+    "fr": "Allez, à la prochaine leçon !",
+    "tgt": "יאללה, לשיעור הבא!",
+    "ro": "Yalla, la-shi'ur ha-ba!",
+    "lit": "allez · à-[le]-leçon · [le]-prochaine !"
+   }
+  ]
+ }
+}

@@ -1,0 +1,4022 @@
+{
+ "0-0-0": {
+  "module": "Le quotidien",
+  "title": "Le réveil dans le petit appartement",
+  "grammaire_de_la_lecon": "Pas de conjugaison : le verbe ne change jamais",
+  "phrases": [
+   {
+    "fr": "Le matin, je me lève à sept heures.",
+    "tgt": "我朝早七點起身。",
+    "ro": "Ngo5 ziu1 zou2 cat1 dim2 hei2 san1.",
+    "lit": "je · matin · sept · heure · se lever"
+   },
+   {
+    "fr": "Hier, je me suis levé à huit heures.",
+    "tgt": "我琴日八點起身。",
+    "ro": "Ngo5 kam4 jat6 baat3 dim2 hei2 san1.",
+    "lit": "je · hier · huit · heure · se lever"
+   },
+   {
+    "fr": "Demain, je me lèverai à six heures.",
+    "tgt": "我聽日六點起身。",
+    "ro": "Ngo5 ting1 jat6 luk6 dim2 hei2 san1.",
+    "lit": "je · demain · six · heure · se lever"
+   },
+   {
+    "fr": "Ma colocataire se lève tard.",
+    "tgt": "我室友好晏起身。",
+    "ro": "Ngo5 sat1 jau5 hou2 aan3 hei2 san1.",
+    "lit": "je · colocataire · très · tard · se lever"
+   },
+   {
+    "fr": "Je bois un thé au lait chaud.",
+    "tgt": "我飲杯熱奶茶。",
+    "ro": "Ngo5 jam2 bui1 jit6 naai5 caa4.",
+    "lit": "je · boire · tasse · chaud · lait · thé"
+   },
+   {
+    "fr": "Elle, elle boit du café.",
+    "tgt": "佢飲咖啡。",
+    "ro": "Keoi5 jam2 gaa3 fe1.",
+    "lit": "elle · boire · café"
+   },
+   {
+    "fr": "Nous prenons notre douche le matin.",
+    "tgt": "我哋朝早沖涼。",
+    "ro": "Ngo5 dei6 ziu1 zou2 cung1 loeng4.",
+    "lit": "je [pluriel] · matin · se doucher"
+   },
+   {
+    "fr": "Tous les jours, je vais au travail en métro.",
+    "tgt": "我日日搭地鐵返工。",
+    "ro": "Ngo5 jat6 jat6 daap3 dei6 tit3 faan1 gung1.",
+    "lit": "je · jour · jour · prendre · métro · aller au travail"
+   },
+   {
+    "fr": "Hier, elle est allée travailler en minibus.",
+    "tgt": "佢琴日搭小巴返工。",
+    "ro": "Keoi5 kam4 jat6 daap3 siu2 baa1 faan1 gung1.",
+    "lit": "elle · hier · prendre · minibus · aller au travail"
+   },
+   {
+    "fr": "Le soir, je rentre à la maison et je dors.",
+    "tgt": "我夜晚返屋企瞓覺。",
+    "ro": "Ngo5 je6 maan5 faan1 uk1 kei2 fan3 gaau3.",
+    "lit": "je · soir · rentrer · maison · dormir"
+   }
+  ]
+ },
+ "0-0-1": {
+  "module": "Le quotidien",
+  "title": "Le petit-déjeuner au cha chaan teng",
+  "grammaire_de_la_lecon": "Les six tons du cantonais",
+  "phrases": [
+   {
+    "fr": "Bonjour ! (le matin)",
+    "tgt": "早晨！",
+    "ro": "Zou2 san4!",
+    "lit": "tôt · matin"
+   },
+   {
+    "fr": "Un thé au lait glacé, s'il vous plaît.",
+    "tgt": "一杯凍奶茶，唔該。",
+    "ro": "Jat1 bui1 dung3 naai5 caa4, m4 goi1.",
+    "lit": "un · tasse · froid · lait · thé · s'il vous plaît"
+   },
+   {
+    "fr": "Un toast au lait concentré et au beurre.",
+    "tgt": "一份奶油多。",
+    "ro": "Jat1 fan6 naai5 jau4 do1.",
+    "lit": "un · portion · lait · beurre · toast"
+   },
+   {
+    "fr": "Le toast est vraiment bon.",
+    "tgt": "多士好好食。",
+    "ro": "Do1 si2 hou2 hou2 sik6.",
+    "lit": "toast · très · bon à manger"
+   },
+   {
+    "fr": "Ce thé au lait sent très bon.",
+    "tgt": "呢杯奶茶好香。",
+    "ro": "Ni1 bui1 naai5 caa4 hou2 hoeng1.",
+    "lit": "ce · tasse · lait · thé · très · parfumé"
+   },
+   {
+    "fr": "J'achète du pain, il vend du pain.",
+    "tgt": "我買麵包，佢賣麵包。",
+    "ro": "Ngo5 maai5 min6 baau1, keoi5 maai6 min6 baau1.",
+    "lit": "je · acheter · pain · il · vendre · pain"
+   },
+   {
+    "fr": "Le patron du cha chaan teng est très occupé.",
+    "tgt": "茶餐廳老闆好忙。",
+    "ro": "Caa4 caan1 teng1 lou5 baan2 hou2 mong4.",
+    "lit": "cha chaan teng · patron · très · occupé"
+   },
+   {
+    "fr": "Le matin, il y a beaucoup de monde.",
+    "tgt": "朝早好多人。",
+    "ro": "Ziu1 zou2 hou2 do1 jan4.",
+    "lit": "matin · très · beaucoup · personne"
+   },
+   {
+    "fr": "Un pain à l'ananas, s'il vous plaît.",
+    "tgt": "一個菠蘿包，唔該。",
+    "ro": "Jat1 go3 bo1 lo4 baau1, m4 goi1.",
+    "lit": "un · [classificateur] · ananas · pain · s'il vous plaît"
+   },
+   {
+    "fr": "Moins sucré, s'il vous plaît.",
+    "tgt": "少甜，唔該。",
+    "ro": "Siu2 tim4, m4 goi1.",
+    "lit": "peu · sucré · s'il vous plaît"
+   }
+  ]
+ },
+ "0-0-2": {
+  "module": "Le quotidien",
+  "title": "Se présenter aux voisins",
+  "grammaire_de_la_lecon": "« Hai6 » : être, entre deux noms",
+  "phrases": [
+   {
+    "fr": "Je suis votre voisin du dessus.",
+    "tgt": "我係你樓上鄰居。",
+    "ro": "Ngo5 hai6 nei5 lau4 soeng6 leon4 geoi1.",
+    "lit": "je · être · tu · étage · dessus · voisin"
+   },
+   {
+    "fr": "Je suis français, j'habite au dixième étage.",
+    "tgt": "我係法國人，住十樓。",
+    "ro": "Ngo5 hai6 Faat3 gwok3 jan4, zyu6 sap6 lau2.",
+    "lit": "je · être · France · pays · personne · habiter · dix · étage"
+   },
+   {
+    "fr": "Elle, c'est ma fille.",
+    "tgt": "佢係我個女。",
+    "ro": "Keoi5 hai6 ngo5 go3 neoi2.",
+    "lit": "elle · être · je · [classificateur] · fille"
+   },
+   {
+    "fr": "Moi, je suis professeur de français.",
+    "tgt": "我係法文老師。",
+    "ro": "Ngo5 hai6 Faat3 man2 lou5 si1.",
+    "lit": "je · être · français (langue) · professeur"
+   },
+   {
+    "fr": "Mon mari est cuisinier.",
+    "tgt": "我老公係廚師。",
+    "ro": "Ngo5 lou5 gung1 hai6 cyu4 si1.",
+    "lit": "je · mari · être · cuisinier"
+   },
+   {
+    "fr": "Lui, c'est mon collègue.",
+    "tgt": "佢係我同事。",
+    "ro": "Keoi5 hai6 ngo5 tung4 si6.",
+    "lit": "il · être · je · collègue"
+   },
+   {
+    "fr": "Monsieur Wong est le gardien de l'immeuble.",
+    "tgt": "黃生係看更。",
+    "ro": "Wong4 saang1 hai6 hon1 gaang1.",
+    "lit": "Wong · monsieur · être · gardien"
+   },
+   {
+    "fr": "Nous sommes les nouveaux locataires.",
+    "tgt": "我哋係新租客。",
+    "ro": "Ngo5 dei6 hai6 san1 zou1 haak3.",
+    "lit": "je [pluriel] · être · nouveau · locataire"
+   },
+   {
+    "fr": "Madame Chan est la propriétaire.",
+    "tgt": "陳太係業主。",
+    "ro": "Can4 taai2 hai6 jip6 zyu2.",
+    "lit": "Chan · madame · être · propriétaire"
+   },
+   {
+    "fr": "Très content de faire votre connaissance.",
+    "tgt": "好高興認識你。",
+    "ro": "Hou2 gou1 hing3 jing6 sik1 nei5.",
+    "lit": "très · content · connaître · tu"
+   }
+  ]
+ },
+ "0-0-3": {
+  "module": "Le quotidien",
+  "title": "La famille à Mong Kok",
+  "grammaire_de_la_lecon": "Les pronoms : « ngo5 », « nei5 », « keoi5 », et le pluriel en « dei6 »",
+  "phrases": [
+   {
+    "fr": "Nous habitons à Mong Kok.",
+    "tgt": "我哋住喺旺角。",
+    "ro": "Ngo5 dei6 zyu6 hai2 Wong6 gok3.",
+    "lit": "je [pluriel] · habiter · à · Mong Kok"
+   },
+   {
+    "fr": "Il travaille à Tsim Sha Tsui.",
+    "tgt": "佢喺尖沙咀返工。",
+    "ro": "Keoi5 hai2 Zim1 saa1 zeoi2 faan1 gung1.",
+    "lit": "il · à · Tsim Sha Tsui · aller au travail"
+   },
+   {
+    "fr": "Vous êtes vraiment gentils.",
+    "tgt": "你哋好好人。",
+    "ro": "Nei5 dei6 hou2 hou2 jan4.",
+    "lit": "tu [pluriel] · très · bon · personne"
+   },
+   {
+    "fr": "Ce sont mes parents.",
+    "tgt": "佢哋係我爸爸媽媽。",
+    "ro": "Keoi5 dei6 hai6 ngo5 baa4 baa1 maa4 maa1.",
+    "lit": "il [pluriel] · être · je · papa · maman"
+   },
+   {
+    "fr": "Je te téléphone ce soir.",
+    "tgt": "我今晚打電話俾你。",
+    "ro": "Ngo5 gam1 maan5 daa2 din6 waa2 bei2 nei5.",
+    "lit": "je · ce soir · faire · téléphone · à · tu"
+   },
+   {
+    "fr": "Elle, c'est ma petite sœur.",
+    "tgt": "佢係我細妹。",
+    "ro": "Keoi5 hai6 ngo5 sai3 mui2.",
+    "lit": "elle · être · je · petite sœur"
+   },
+   {
+    "fr": "Le soir, nous dînons ensemble à la maison.",
+    "tgt": "我哋夜晚喺屋企一齊食飯。",
+    "ro": "Ngo5 dei6 je6 maan5 hai2 uk1 kei2 jat1 cai4 sik6 faan6.",
+    "lit": "je [pluriel] · soir · à · maison · ensemble · manger · riz"
+   },
+   {
+    "fr": "Ils ont deux enfants.",
+    "tgt": "佢哋有兩個細路。",
+    "ro": "Keoi5 dei6 jau5 loeng5 go3 sai3 lou6.",
+    "lit": "il [pluriel] · avoir · deux · [classificateur] · enfant"
+   },
+   {
+    "fr": "Mon petit frère et moi habitons ensemble.",
+    "tgt": "我同我細佬一齊住。",
+    "ro": "Ngo5 tung4 ngo5 sai3 lou2 jat1 cai4 zyu6.",
+    "lit": "je · et · je · petit frère · ensemble · habiter"
+   },
+   {
+    "fr": "Il l'aide tous les jours.",
+    "tgt": "佢日日幫佢。",
+    "ro": "Keoi5 jat6 jat6 bong1 keoi5.",
+    "lit": "il · jour · jour · aider · elle"
+   }
+  ]
+ },
+ "0-0-4": {
+  "module": "Le quotidien",
+  "title": "Ce que je ne mange pas",
+  "grammaire_de_la_lecon": "« M4 » : la négation",
+  "phrases": [
+   {
+    "fr": "Je ne mange pas de bœuf.",
+    "tgt": "我唔食牛肉。",
+    "ro": "Ngo5 m4 sik6 ngau4 juk6.",
+    "lit": "je · ne pas · manger · bœuf · viande"
+   },
+   {
+    "fr": "Elle ne boit pas de café.",
+    "tgt": "佢唔飲咖啡。",
+    "ro": "Keoi5 m4 jam2 gaa3 fe1.",
+    "lit": "elle · ne pas · boire · café"
+   },
+   {
+    "fr": "Ce n'est pas mon thé au lait.",
+    "tgt": "呢杯唔係我嘅奶茶。",
+    "ro": "Ni1 bui1 m4 hai6 ngo5 ge3 naai5 caa4.",
+    "lit": "ce · tasse · ne pas · être · je · [possessif] · lait · thé"
+   },
+   {
+    "fr": "Le riz au poulet n'est pas cher.",
+    "tgt": "雞飯唔貴。",
+    "ro": "Gai1 faan6 m4 gwai3.",
+    "lit": "poulet · riz · ne pas · cher"
+   },
+   {
+    "fr": "Je ne veux pas de glaçons.",
+    "tgt": "我唔要冰。",
+    "ro": "Ngo5 m4 jiu3 bing1.",
+    "lit": "je · ne pas · vouloir · glace"
+   },
+   {
+    "fr": "Aujourd'hui, je ne vais pas au bureau.",
+    "tgt": "我今日唔返工。",
+    "ro": "Ngo5 gam1 jat6 m4 faan1 gung1.",
+    "lit": "je · aujourd'hui · ne pas · aller au travail"
+   },
+   {
+    "fr": "Désolé, je ne comprends pas très bien.",
+    "tgt": "唔好意思，我唔係好明。",
+    "ro": "M4 hou2 ji3 si3, ngo5 m4 hai6 hou2 ming4.",
+    "lit": "ne pas · bon · sens · je · ne pas · être · très · comprendre"
+   },
+   {
+    "fr": "La soupe n'est pas chaude.",
+    "tgt": "啲湯唔熱。",
+    "ro": "Di1 tong1 m4 jit6.",
+    "lit": "[classificateur] · soupe · ne pas · chaud"
+   },
+   {
+    "fr": "Il ne mange pas épicé.",
+    "tgt": "佢唔食辣。",
+    "ro": "Keoi5 m4 sik6 laat6.",
+    "lit": "il · ne pas · manger · piquant"
+   },
+   {
+    "fr": "Ce n'est pas loin, c'est juste à côté.",
+    "tgt": "唔遠，就喺隔籬。",
+    "ro": "M4 jyun5, zau6 hai2 gaak3 lei4.",
+    "lit": "ne pas · loin · justement · se trouver · à côté"
+   }
+  ]
+ },
+ "0-0-5": {
+  "module": "Le quotidien",
+  "title": "Au comptoir : poser des questions",
+  "grammaire_de_la_lecon": "« Me1 » et « hai6 m4 hai6 » : poser une question oui-non",
+  "phrases": [
+   {
+    "fr": "C'est vous, le patron ?",
+    "tgt": "你係唔係老闆呀？",
+    "ro": "Nei5 hai6 m4 hai6 lou5 baan2 aa3?",
+    "lit": "tu · être · ne pas · être · patron · [question]"
+   },
+   {
+    "fr": "C'est bien du thé au citron ?",
+    "tgt": "呢杯係唔係檸檬茶呀？",
+    "ro": "Ni1 bui1 hai6 m4 hai6 ning4 mung1 caa4 aa3?",
+    "lit": "ce · tasse · être · ne pas · être · citron · thé · [question]"
+   },
+   {
+    "fr": "Tu manges épicé ?",
+    "tgt": "你食唔食辣呀？",
+    "ro": "Nei5 sik6 m4 sik6 laat6 aa3?",
+    "lit": "tu · manger · ne pas · manger · piquant · [question]"
+   },
+   {
+    "fr": "Ah bon, tu ne bois pas de thé ?",
+    "tgt": "你唔飲茶咩？",
+    "ro": "Nei5 m4 jam2 caa4 me1?",
+    "lit": "tu · ne pas · boire · thé · [question]"
+   },
+   {
+    "fr": "Ah bon, ils n'ouvrent pas aujourd'hui ?",
+    "tgt": "今日唔開門咩？",
+    "ro": "Gam1 jat6 m4 hoi1 mun4 me1?",
+    "lit": "aujourd'hui · ne pas · ouvrir · porte · [question]"
+   },
+   {
+    "fr": "Vous êtes français ?",
+    "tgt": "你係唔係法國人呀？",
+    "ro": "Nei5 hai6 m4 hai6 Faat3 gwok3 jan4 aa3?",
+    "lit": "tu · être · ne pas · être · France · pays · personne · [question]"
+   },
+   {
+    "fr": "Tu es vraiment de Hong Kong ?",
+    "tgt": "你真係香港人咩？",
+    "ro": "Nei5 zan1 hai6 Hoeng1 gong2 jan4 me1?",
+    "lit": "tu · vraiment · être · Hong Kong · personne · [question]"
+   },
+   {
+    "fr": "Il y a quelqu'un à cette place ?",
+    "tgt": "呢個位有冇人呀？",
+    "ro": "Ni1 go3 wai2 jau5 mou5 jan4 aa3?",
+    "lit": "ce · [classificateur] · place · avoir · ne pas avoir · personne · [question]"
+   },
+   {
+    "fr": "Le toast est chaud ?",
+    "tgt": "多士熱唔熱呀？",
+    "ro": "Do1 si2 jit6 m4 jit6 aa3?",
+    "lit": "toast · chaud · ne pas · chaud · [question]"
+   },
+   {
+    "fr": "Ah bon, c'est si cher que ça ?",
+    "tgt": "咁貴咩？",
+    "ro": "Gam3 gwai3 me1?",
+    "lit": "si · cher · [question]"
+   }
+  ]
+ },
+ "0-0-6": {
+  "module": "Le quotidien",
+  "title": "Mes affaires",
+  "grammaire_de_la_lecon": "« Ge3 » : le possessif, « ngo5 ge3 »",
+  "phrases": [
+   {
+    "fr": "C'est mon téléphone.",
+    "tgt": "呢部係我嘅手機。",
+    "ro": "Ni1 bou6 hai6 ngo5 ge3 sau2 gei1.",
+    "lit": "ce · [classificateur] · être · je · [possessif] · téléphone"
+   },
+   {
+    "fr": "Où sont mes clés ?",
+    "tgt": "我嘅鎖匙喺邊度？",
+    "ro": "Ngo5 ge3 so2 si4 hai2 bin1 dou6?",
+    "lit": "je · [possessif] · clé · se trouver · quel · endroit"
+   },
+   {
+    "fr": "Ce sac est à toi ?",
+    "tgt": "呢個袋係唔係你嘅？",
+    "ro": "Ni1 go3 doi2 hai6 m4 hai6 nei5 ge3?",
+    "lit": "ce · [classificateur] · sac · être · ne pas · être · tu · [possessif]"
+   },
+   {
+    "fr": "Ce n'est pas le mien, c'est le sien.",
+    "tgt": "唔係我嘅，係佢嘅。",
+    "ro": "M4 hai6 ngo5 ge3, hai6 keoi5 ge3.",
+    "lit": "ne pas · être · je · [possessif] · être · il · [possessif]"
+   },
+   {
+    "fr": "Mon appartement est tout petit.",
+    "tgt": "我嘅屋好細。",
+    "ro": "Ngo5 ge3 uk1 hou2 sai3.",
+    "lit": "je · [possessif] · appartement · très · petit"
+   },
+   {
+    "fr": "Le portefeuille de mon collègue est sur la table.",
+    "tgt": "我同事嘅銀包喺枱上面。",
+    "ro": "Ngo5 tung4 si6 ge3 ngan4 baau1 hai2 toi2 soeng6 min6.",
+    "lit": "je · collègue · [possessif] · portefeuille · se trouver · table · dessus"
+   },
+   {
+    "fr": "Notre cuisine est minuscule.",
+    "tgt": "我哋嘅廚房好細。",
+    "ro": "Ngo5 dei6 ge3 cyu4 fong2 hou2 sai3.",
+    "lit": "je [pluriel] · [possessif] · cuisine · très · petit"
+   },
+   {
+    "fr": "C'est le chat de la voisine.",
+    "tgt": "呢隻係鄰居嘅貓。",
+    "ro": "Ni1 zek3 hai6 leon4 geoi1 ge3 maau1.",
+    "lit": "ce · [classificateur] · être · voisin · [possessif] · chat"
+   },
+   {
+    "fr": "Ma mère habite en France.",
+    "tgt": "我媽媽住喺法國。",
+    "ro": "Ngo5 maa4 maa1 zyu6 hai2 Faat3 gwok3.",
+    "lit": "je · maman · habiter · à · France"
+   },
+   {
+    "fr": "Ce livre est à mon petit frère.",
+    "tgt": "呢本書係我細佬嘅。",
+    "ro": "Ni1 bun2 syu1 hai6 ngo5 sai3 lou2 ge3.",
+    "lit": "ce · [classificateur] · livre · être · je · petit frère · [possessif]"
+   }
+  ]
+ },
+ "0-0-7": {
+  "module": "Le quotidien",
+  "title": "Une balade à Mong Kok",
+  "grammaire_de_la_lecon": "« Hou2 » + adjectif : pas besoin du verbe être",
+  "phrases": [
+   {
+    "fr": "Mong Kok est très animé.",
+    "tgt": "旺角好熱鬧。",
+    "ro": "Wong6 gok3 hou2 jit6 naau6.",
+    "lit": "Mong Kok · très · animé"
+   },
+   {
+    "fr": "Aujourd'hui, il fait vraiment très chaud.",
+    "tgt": "今日好熱。",
+    "ro": "Gam1 jat6 hou2 jit6.",
+    "lit": "aujourd'hui · très · chaud"
+   },
+   {
+    "fr": "Les trottoirs sont noirs de monde.",
+    "tgt": "啲街好逼。",
+    "ro": "Di1 gaai1 hou2 bik1.",
+    "lit": "[classificateur] · rue · très · bondé"
+   },
+   {
+    "fr": "Cette paire de chaussures est très jolie.",
+    "tgt": "呢對鞋好靚。",
+    "ro": "Ni1 deoi3 haai4 hou2 leng3.",
+    "lit": "ce · paire · chaussure · très · joli"
+   },
+   {
+    "fr": "Le marché de nuit est vraiment bon marché.",
+    "tgt": "夜市好平。",
+    "ro": "Je6 si5 hou2 peng4.",
+    "lit": "nuit · marché · très · bon marché"
+   },
+   {
+    "fr": "Je suis très fatigué.",
+    "tgt": "我好攰。",
+    "ro": "Ngo5 hou2 gui6.",
+    "lit": "je · très · fatigué"
+   },
+   {
+    "fr": "Les nouilles de ce stand sont délicieuses.",
+    "tgt": "呢檔麵好好食。",
+    "ro": "Ni1 dong3 min6 hou2 hou2 sik6.",
+    "lit": "ce · stand · nouilles · très · bon à manger"
+   },
+   {
+    "fr": "Le soir, les néons sont magnifiques.",
+    "tgt": "夜晚啲霓虹燈好靚。",
+    "ro": "Je6 maan5 di1 ngai4 hung4 dang1 hou2 leng3.",
+    "lit": "soir · [classificateur] · néon · très · beau"
+   },
+   {
+    "fr": "Mon appartement est petit, mais il est propre.",
+    "tgt": "我間屋好細，不過好乾淨。",
+    "ro": "Ngo5 gaan1 uk1 hou2 sai3, bat1 gwo3 hou2 gon1 zeng6.",
+    "lit": "je · [classificateur] · appartement · très · petit · mais · très · propre"
+   },
+   {
+    "fr": "Le thé au lait est trop sucré.",
+    "tgt": "啲奶茶太甜。",
+    "ro": "Di1 naai5 caa4 taai3 tim4.",
+    "lit": "[classificateur] · lait · thé · trop · sucré"
+   }
+  ]
+ },
+ "0-0-8": {
+  "module": "Le quotidien",
+  "title": "Au marché de quartier",
+  "grammaire_de_la_lecon": "« Ni1 » et « go2 » : ceci et cela",
+  "phrases": [
+   {
+    "fr": "Ces légumes-ci sont très frais.",
+    "tgt": "呢啲菜好新鮮。",
+    "ro": "Ni1 di1 coi3 hou2 san1 sin1.",
+    "lit": "ce · [pluriel] · légume · très · frais"
+   },
+   {
+    "fr": "Je prends ce poisson-là.",
+    "tgt": "我要嗰條魚。",
+    "ro": "Ngo5 jiu3 go2 tiu4 jyu2.",
+    "lit": "je · vouloir · cela · [classificateur] · poisson"
+   },
+   {
+    "fr": "Et celui-ci, c'est combien ?",
+    "tgt": "呢個幾多錢？",
+    "ro": "Ni1 go3 gei2 do1 cin2?",
+    "lit": "ce · [classificateur] · combien · argent"
+   },
+   {
+    "fr": "Ces oranges-là sont sucrées ?",
+    "tgt": "嗰啲橙甜唔甜呀？",
+    "ro": "Go2 di1 caang2 tim4 m4 tim4 aa3?",
+    "lit": "cela · [pluriel] · orange · sucré · ne pas · sucré · [question]"
+   },
+   {
+    "fr": "Pas celui-ci, celui-là.",
+    "tgt": "唔係呢個，係嗰個。",
+    "ro": "M4 hai6 ni1 go3, hai6 go2 go3.",
+    "lit": "ne pas · être · ce · [classificateur] · être · cela · [classificateur]"
+   },
+   {
+    "fr": "Ce marchand est très sympathique.",
+    "tgt": "呢個老闆好好人。",
+    "ro": "Ni1 go3 lou5 baan2 hou2 hou2 jan4.",
+    "lit": "ce · [classificateur] · patron · très · bon · personne"
+   },
+   {
+    "fr": "Ici, les fruits ne sont pas chers.",
+    "tgt": "呢度啲生果唔貴。",
+    "ro": "Ni1 dou6 di1 saang1 gwo2 m4 gwai3.",
+    "lit": "ce · endroit · [classificateur] · fruit · ne pas · cher"
+   },
+   {
+    "fr": "Là-bas, il y a un étal de porc.",
+    "tgt": "嗰度有檔豬肉。",
+    "ro": "Go2 dou6 jau5 dong3 zyu1 juk6.",
+    "lit": "cela · endroit · avoir · étal · porc · viande"
+   },
+   {
+    "fr": "Ce poulet-ci est frais ?",
+    "tgt": "呢隻雞新唔新鮮呀？",
+    "ro": "Ni1 zek3 gai1 san1 m4 san1 sin1 aa3?",
+    "lit": "ce · [classificateur] · poulet · frais · ne pas · frais · [question]"
+   },
+   {
+    "fr": "Je prends ces tomates-ci.",
+    "tgt": "我要呢啲番茄。",
+    "ro": "Ngo5 jiu3 ni1 di1 faan1 ke2.",
+    "lit": "je · vouloir · ce · [pluriel] · tomate"
+   }
+  ]
+ },
+ "0-0-9": {
+  "module": "Le quotidien",
+  "title": "Une journée de travail",
+  "grammaire_de_la_lecon": "L'ordre des mots : sujet, temps, lieu, verbe",
+  "phrases": [
+   {
+    "fr": "Je travaille dans un bureau à Tsim Sha Tsui.",
+    "tgt": "我喺尖沙咀寫字樓返工。",
+    "ro": "Ngo5 hai2 Zim1 saa1 zeoi2 se2 zi6 lau4 faan1 gung1.",
+    "lit": "je · à · Tsim Sha Tsui · bureau · aller au travail"
+   },
+   {
+    "fr": "Demain, je commence le travail à huit heures.",
+    "tgt": "我聽日八點返工。",
+    "ro": "Ngo5 ting1 jat6 baat3 dim2 faan1 gung1.",
+    "lit": "je · demain · huit · heure · aller au travail"
+   },
+   {
+    "fr": "À midi, je mange au cha chaan teng avec mes collègues.",
+    "tgt": "我晏晝同同事喺茶餐廳食飯。",
+    "ro": "Ngo5 aan3 zau3 tung4 tung4 si6 hai2 caa4 caan1 teng1 sik6 faan6.",
+    "lit": "je · midi · avec · collègue · à · cha chaan teng · manger · riz"
+   },
+   {
+    "fr": "Mon chef arrive au bureau à neuf heures.",
+    "tgt": "我老細九點返到公司。",
+    "ro": "Ngo5 lou5 sai3 gau2 dim2 faan1 dou3 gung1 si1.",
+    "lit": "je · chef · neuf · heure · arriver · bureau"
+   },
+   {
+    "fr": "Aujourd'hui, je travaille à la maison.",
+    "tgt": "我今日喺屋企做嘢。",
+    "ro": "Ngo5 gam1 jat6 hai2 uk1 kei2 zou6 je5.",
+    "lit": "je · aujourd'hui · à · maison · faire · chose"
+   },
+   {
+    "fr": "Le soir, j'achète de quoi dîner au marché.",
+    "tgt": "我夜晚喺街市買餸。",
+    "ro": "Ngo5 je6 maan5 hai2 gaai1 si5 maai5 sung3.",
+    "lit": "je · soir · à · marché · acheter · plats"
+   },
+   {
+    "fr": "Le lundi, nous avons une réunion.",
+    "tgt": "我哋星期一開會。",
+    "ro": "Ngo5 dei6 sing1 kei4 jat1 hoi1 wui2.",
+    "lit": "je [pluriel] · lundi · tenir · réunion"
+   },
+   {
+    "fr": "Après le travail, je prends le minibus.",
+    "tgt": "我放工搭小巴。",
+    "ro": "Ngo5 faang3 gung1 daap3 siu2 baa1.",
+    "lit": "je · quitter le travail · prendre · minibus"
+   },
+   {
+    "fr": "Mes collègues déjeunent au bureau.",
+    "tgt": "我啲同事喺公司食晏。",
+    "ro": "Ngo5 di1 tung4 si6 hai2 gung1 si1 sik6 aan3.",
+    "lit": "je · [pluriel] · collègue · à · bureau · déjeuner"
+   },
+   {
+    "fr": "Ce soir, je dîne avec un ami à Mong Kok.",
+    "tgt": "我今晚同朋友喺旺角食飯。",
+    "ro": "Ngo5 gam1 maan5 tung4 pang4 jau5 hai2 Wong6 gok3 sik6 faan6.",
+    "lit": "je · ce soir · avec · ami · à · Mong Kok · manger · riz"
+   }
+  ]
+ },
+ "0-0-10": {
+  "module": "Le quotidien",
+  "title": "Les prix au marché",
+  "grammaire_de_la_lecon": "Compter de un à dix, et au-delà",
+  "phrases": [
+   {
+    "fr": "Un, deux, trois, quatre, cinq.",
+    "tgt": "一、二、三、四、五。",
+    "ro": "Jat1, ji6, saam1, sei3, ng5.",
+    "lit": "un · deux · trois · quatre · cinq"
+   },
+   {
+    "fr": "Six, sept, huit, neuf, dix.",
+    "tgt": "六、七、八、九、十。",
+    "ro": "Luk6, cat1, baat3, gau2, sap6.",
+    "lit": "six · sept · huit · neuf · dix"
+   },
+   {
+    "fr": "Les oranges sont à dix dollars de Hong Kong.",
+    "tgt": "啲橙十蚊。",
+    "ro": "Di1 caang2 sap6 man1.",
+    "lit": "[classificateur] · orange · dix · dollar"
+   },
+   {
+    "fr": "Ça fait vingt-cinq dollars de Hong Kong.",
+    "tgt": "二十五蚊。",
+    "ro": "Ji6 sap6 ng5 man1.",
+    "lit": "deux · dix · cinq · dollar"
+   },
+   {
+    "fr": "Trois pommes pour vingt dollars de Hong Kong.",
+    "tgt": "三個蘋果二十蚊。",
+    "ro": "Saam1 go3 ping4 gwo2 ji6 sap6 man1.",
+    "lit": "trois · [classificateur] · pomme · deux · dix · dollar"
+   },
+   {
+    "fr": "Je voudrais deux poissons.",
+    "tgt": "我要兩條魚。",
+    "ro": "Ngo5 jiu3 loeng5 tiu4 jyu2.",
+    "lit": "je · vouloir · deux · [classificateur] · poisson"
+   },
+   {
+    "fr": "Le poisson coûte quarante-huit dollars de Hong Kong.",
+    "tgt": "條魚四十八蚊。",
+    "ro": "Tiu4 jyu2 sei3 sap6 baat3 man1.",
+    "lit": "[classificateur] · poisson · quatre · dix · huit · dollar"
+   },
+   {
+    "fr": "Cent dollars de Hong Kong, ça suffit ?",
+    "tgt": "一百蚊夠唔夠呀？",
+    "ro": "Jat1 baak3 man1 gau3 m4 gau3 aa3?",
+    "lit": "un · cent · dollar · suffire · ne pas · suffire · [question]"
+   },
+   {
+    "fr": "J'habite au douzième étage.",
+    "tgt": "我住十二樓。",
+    "ro": "Ngo5 zyu6 sap6 ji6 lau2.",
+    "lit": "je · habiter · dix · deux · étage"
+   },
+   {
+    "fr": "Ça coûte quatre-vingt-dix-neuf dollars de Hong Kong.",
+    "tgt": "九十九蚊。",
+    "ro": "Gau2 sap6 gau2 man1.",
+    "lit": "neuf · dix · neuf · dollar"
+   }
+  ]
+ },
+ "0-0-11": {
+  "module": "Le quotidien",
+  "title": "Les courses de la semaine",
+  "grammaire_de_la_lecon": "Les classificateurs : « go3 », « zek3 », « bun2 »",
+  "phrases": [
+   {
+    "fr": "J'achète deux pains à l'ananas.",
+    "tgt": "我買兩個菠蘿包。",
+    "ro": "Ngo5 maai5 loeng5 go3 bo1 lo4 baau1.",
+    "lit": "je · acheter · deux · [classificateur] · ananas · pain"
+   },
+   {
+    "fr": "Elle a un chat.",
+    "tgt": "佢有一隻貓。",
+    "ro": "Keoi5 jau5 jat1 zek3 maau1.",
+    "lit": "elle · avoir · un · [classificateur] · chat"
+   },
+   {
+    "fr": "J'achète un livre de cuisine.",
+    "tgt": "我買一本食譜。",
+    "ro": "Ngo5 maai5 jat1 bun2 sik6 pou2.",
+    "lit": "je · acheter · un · [classificateur] · recette"
+   },
+   {
+    "fr": "Trois œufs, s'il vous plaît.",
+    "tgt": "三隻雞蛋，唔該。",
+    "ro": "Saam1 zek3 gai1 daan2, m4 goi1.",
+    "lit": "trois · [classificateur] · poule · œuf · s'il vous plaît"
+   },
+   {
+    "fr": "Ce magazine est très intéressant.",
+    "tgt": "呢本雜誌好好睇。",
+    "ro": "Ni1 bun2 zaap6 zi3 hou2 hou2 tai2.",
+    "lit": "ce · [classificateur] · magazine · très · bon à regarder"
+   },
+   {
+    "fr": "Ce pain-ci est encore tout chaud.",
+    "tgt": "呢個麵包仲好熱。",
+    "ro": "Ni1 go3 min6 baau1 zung6 hou2 jit6.",
+    "lit": "ce · [classificateur] · pain · encore · très · chaud"
+   },
+   {
+    "fr": "Je voudrais ce poulet-là.",
+    "tgt": "我要嗰隻雞。",
+    "ro": "Ngo5 jiu3 go2 zek3 gai1.",
+    "lit": "je · vouloir · cela · [classificateur] · poulet"
+   },
+   {
+    "fr": "Mon voisin a deux chiens.",
+    "tgt": "我鄰居有兩隻狗。",
+    "ro": "Ngo5 leon4 geoi1 jau5 loeng5 zek3 gau2.",
+    "lit": "je · voisin · avoir · deux · [classificateur] · chien"
+   },
+   {
+    "fr": "Une bouteille d'eau, s'il vous plaît.",
+    "tgt": "一支水，唔該。",
+    "ro": "Jat1 zi1 seoi2, m4 goi1.",
+    "lit": "un · [classificateur] · eau · s'il vous plaît"
+   },
+   {
+    "fr": "Le livre coûte quatre-vingts dollars de Hong Kong.",
+    "tgt": "本書八十蚊。",
+    "ro": "Bun2 syu1 baat3 sap6 man1.",
+    "lit": "[classificateur] · livre · huit · dix · dollar"
+   }
+  ]
+ },
+ "0-0-12": {
+  "module": "Le quotidien",
+  "title": "L'appartement : ce qu'il y a, ce qu'il n'y a pas",
+  "grammaire_de_la_lecon": "« Jau5 » et « mou5 » : avoir et ne pas avoir",
+  "phrases": [
+   {
+    "fr": "L'appartement a deux chambres.",
+    "tgt": "間屋有兩間房。",
+    "ro": "Gaan1 uk1 jau5 loeng5 gaan1 fong2.",
+    "lit": "[classificateur] · appartement · avoir · deux · [classificateur] · chambre"
+   },
+   {
+    "fr": "Notre appartement n'a pas de balcon.",
+    "tgt": "我哋間屋冇露台。",
+    "ro": "Ngo5 dei6 gaan1 uk1 mou5 lou6 toi4.",
+    "lit": "je [pluriel] · [classificateur] · appartement · ne pas avoir · balcon"
+   },
+   {
+    "fr": "Il y a la climatisation dans la chambre.",
+    "tgt": "房間有冷氣。",
+    "ro": "Fong4 gaan1 jau5 laang5 hei3.",
+    "lit": "chambre · avoir · climatisation"
+   },
+   {
+    "fr": "Tu as un moment ce soir ?",
+    "tgt": "你今晚有冇時間呀？",
+    "ro": "Nei5 gam1 maan5 jau5 mou5 si4 gaan3 aa3?",
+    "lit": "tu · ce soir · avoir · ne pas avoir · temps · [question]"
+   },
+   {
+    "fr": "Je n'ai pas de voiture.",
+    "tgt": "我冇車。",
+    "ro": "Ngo5 mou5 ce1.",
+    "lit": "je · ne pas avoir · voiture"
+   },
+   {
+    "fr": "Il y a un supermarché en bas de l'immeuble.",
+    "tgt": "樓下有超市。",
+    "ro": "Lau4 haa6 jau5 ciu1 si5.",
+    "lit": "immeuble · bas · avoir · supermarché"
+   },
+   {
+    "fr": "Il n'y a pas de lait dans le frigo.",
+    "tgt": "雪櫃冇奶。",
+    "ro": "Syut3 gwai6 mou5 naai5.",
+    "lit": "frigo · ne pas avoir · lait"
+   },
+   {
+    "fr": "Est-ce qu'il y a un ascenseur ?",
+    "tgt": "有冇電梯呀？",
+    "ro": "Jau5 mou5 din6 tai1 aa3?",
+    "lit": "avoir · ne pas avoir · ascenseur · [question]"
+   },
+   {
+    "fr": "Il n'y a pas d'ascenseur, il faut prendre l'escalier.",
+    "tgt": "冇電梯，要行樓梯。",
+    "ro": "Mou5 din6 tai1, jiu3 haang4 lau4 tai1.",
+    "lit": "ne pas avoir · ascenseur · devoir · marcher · escalier"
+   },
+   {
+    "fr": "J'ai une petite table près de la fenêtre.",
+    "tgt": "我喺窗口隔籬有張細枱。",
+    "ro": "Ngo5 hai2 coeng1 hau2 gaak3 lei4 jau5 zoeng1 sai3 toi2.",
+    "lit": "je · à · fenêtre · à côté · avoir · [classificateur] · petit · table"
+   }
+  ]
+ },
+ "0-0-13": {
+  "module": "Le quotidien",
+  "title": "Où est-ce que ça se trouve ?",
+  "grammaire_de_la_lecon": "« Hai2 » : être à un endroit",
+  "phrases": [
+   {
+    "fr": "Je suis à la maison.",
+    "tgt": "我喺屋企。",
+    "ro": "Ngo5 hai2 uk1 kei2.",
+    "lit": "je · se trouver · maison"
+   },
+   {
+    "fr": "Tu es où ?",
+    "tgt": "你喺邊度呀？",
+    "ro": "Nei5 hai2 bin1 dou6 aa3?",
+    "lit": "tu · se trouver · quel · endroit · [question]"
+   },
+   {
+    "fr": "Je suis au cha chaan teng d'en bas.",
+    "tgt": "我喺樓下茶餐廳。",
+    "ro": "Ngo5 hai2 lau4 haa6 caa4 caan1 teng1.",
+    "lit": "je · se trouver · immeuble · bas · cha chaan teng"
+   },
+   {
+    "fr": "L'arrêt du minibus est en face.",
+    "tgt": "小巴站喺對面。",
+    "ro": "Siu2 baa1 zaam6 hai2 deoi3 min6.",
+    "lit": "minibus · arrêt · se trouver · en face"
+   },
+   {
+    "fr": "Où sont les toilettes ?",
+    "tgt": "洗手間喺邊度呀？",
+    "ro": "Sai2 sau2 gaan1 hai2 bin1 dou6 aa3?",
+    "lit": "toilettes · se trouver · quel · endroit · [question]"
+   },
+   {
+    "fr": "Le marché est à côté de la station de métro.",
+    "tgt": "街市喺地鐵站隔籬。",
+    "ro": "Gaai1 si5 hai2 dei6 tit3 zaam6 gaak3 lei4.",
+    "lit": "marché · se trouver · métro · station · à côté"
+   },
+   {
+    "fr": "Ma clé est dans le sac.",
+    "tgt": "我條鎖匙喺袋入面。",
+    "ro": "Ngo5 tiu4 so2 si4 hai2 doi2 jap6 min6.",
+    "lit": "je · [classificateur] · clé · se trouver · sac · dedans"
+   },
+   {
+    "fr": "Le chat est sous le lit.",
+    "tgt": "隻貓喺張床下面。",
+    "ro": "Zek3 maau1 hai2 zoeng1 cong4 haa6 min6.",
+    "lit": "[classificateur] · chat · se trouver · [classificateur] · lit · dessous"
+   },
+   {
+    "fr": "Mon bureau n'est pas à Mong Kok.",
+    "tgt": "我公司唔喺旺角。",
+    "ro": "Ngo5 gung1 si1 m4 hai2 Wong6 gok3.",
+    "lit": "je · bureau · ne pas · se trouver · Mong Kok"
+   },
+   {
+    "fr": "Nous déjeunons au deuxième étage.",
+    "tgt": "我哋喺二樓食晏。",
+    "ro": "Ngo5 dei6 hai2 ji6 lau2 sik6 aan3.",
+    "lit": "je [pluriel] · à · deux · étage · déjeuner"
+   }
+  ]
+ },
+ "0-0-14": {
+  "module": "Le quotidien",
+  "title": "Prendre le minibus à l'heure",
+  "grammaire_de_la_lecon": "L'heure : « dim2 » et « fan1 »",
+  "phrases": [
+   {
+    "fr": "Il est quelle heure maintenant ?",
+    "tgt": "而家幾點呀？",
+    "ro": "Ji4 gaa1 gei2 dim2 aa3?",
+    "lit": "maintenant · combien · heure · [question]"
+   },
+   {
+    "fr": "Il est sept heures et demie.",
+    "tgt": "而家七點半。",
+    "ro": "Ji4 gaa1 cat1 dim2 bun3.",
+    "lit": "maintenant · sept · heure · demi"
+   },
+   {
+    "fr": "Le minibus part à huit heures dix.",
+    "tgt": "小巴八點十分開。",
+    "ro": "Siu2 baa1 baat3 dim2 sap6 fan1 hoi1.",
+    "lit": "minibus · huit · heure · dix · minute · partir"
+   },
+   {
+    "fr": "Il est neuf heures et quart.",
+    "tgt": "九點三個字。",
+    "ro": "Gau2 dim2 saam1 go3 zi6.",
+    "lit": "neuf · heure · trois · [classificateur] · chiffre (cinq minutes)"
+   },
+   {
+    "fr": "Le prochain minibus arrive dans cinq minutes.",
+    "tgt": "下一架小巴五分鐘之後到。",
+    "ro": "Haa6 jat1 gaa3 siu2 baa1 ng5 fan1 zung1 zi1 hau6 dou3.",
+    "lit": "prochain · un · [classificateur] · minibus · cinq · minute · après · arriver"
+   },
+   {
+    "fr": "Je descends au prochain arrêt, s'il vous plaît !",
+    "tgt": "前面有落，唔該！",
+    "ro": "Cin4 min6 jau5 lok6, m4 goi1!",
+    "lit": "devant · il y a · descendre · s'il vous plaît"
+   },
+   {
+    "fr": "Je quitte le travail à six heures.",
+    "tgt": "我六點放工。",
+    "ro": "Ngo5 luk6 dim2 faang3 gung1.",
+    "lit": "je · six · heure · quitter le travail"
+   },
+   {
+    "fr": "Le cha chaan teng ouvre à six heures et demie du matin.",
+    "tgt": "茶餐廳朝早六點半開門。",
+    "ro": "Caa4 caan1 teng1 ziu1 zou2 luk6 dim2 bun3 hoi1 mun4.",
+    "lit": "cha chaan teng · matin · six · heure · demi · ouvrir · porte"
+   },
+   {
+    "fr": "On se retrouve à deux heures de l'après-midi ?",
+    "tgt": "我哋下晝兩點見，好唔好呀？",
+    "ro": "Ngo5 dei6 haa6 zau3 loeng5 dim2 gin3, hou2 m4 hou2 aa3?",
+    "lit": "je [pluriel] · après-midi · deux · heure · voir · bien · ne pas · bien · [question]"
+   },
+   {
+    "fr": "Il est déjà onze heures du soir.",
+    "tgt": "已經夜晚十一點喇。",
+    "ro": "Ji5 ging1 je6 maan5 sap6 jat1 dim2 laa3.",
+    "lit": "déjà · soir · dix · un · heure · [particule finale]"
+   }
+  ]
+ },
+ "0-0-15": {
+  "module": "Le quotidien",
+  "title": "Demander son chemin à Tsim Sha Tsui",
+  "grammaire_de_la_lecon": "Les mots interrogatifs : « me1 je5 », « bin1 dou6 », « bin1 go3 », « gei2 do1 »",
+  "phrases": [
+   {
+    "fr": "Où est l'embarcadère du Star Ferry ?",
+    "tgt": "天星碼頭喺邊度呀？",
+    "ro": "Tin1 sing1 maa5 tau4 hai2 bin1 dou6 aa3?",
+    "lit": "Star Ferry · embarcadère · se trouver · quel · endroit · [question]"
+   },
+   {
+    "fr": "Qu'est-ce que tu as envie de manger ?",
+    "tgt": "你想食咩嘢呀？",
+    "ro": "Nei5 soeng2 sik6 me1 je5 aa3?",
+    "lit": "tu · avoir envie · manger · quoi · chose · [question]"
+   },
+   {
+    "fr": "C'est qui, ce monsieur ?",
+    "tgt": "嗰位先生係邊個呀？",
+    "ro": "Go2 wai2 sin1 saang1 hai6 bin1 go3 aa3?",
+    "lit": "cela · [classificateur poli] · monsieur · être · quel · [classificateur] · [question]"
+   },
+   {
+    "fr": "Le billet coûte combien ?",
+    "tgt": "張飛幾多錢呀？",
+    "ro": "Zoeng1 fei1 gei2 do1 cin2 aa3?",
+    "lit": "[classificateur] · billet · combien · argent · [question]"
+   },
+   {
+    "fr": "Qu'est-ce que c'est, ça ?",
+    "tgt": "呢個係咩嘢呀？",
+    "ro": "Ni1 go3 hai6 me1 je5 aa3?",
+    "lit": "ce · [classificateur] · être · quoi · chose · [question]"
+   },
+   {
+    "fr": "Où est la sortie du métro ?",
+    "tgt": "地鐵站出口喺邊度呀？",
+    "ro": "Dei6 tit3 zaam6 ceot1 hau2 hai2 bin1 dou6 aa3?",
+    "lit": "métro · station · sortie · se trouver · quel · endroit · [question]"
+   },
+   {
+    "fr": "Vous êtes combien de personnes ?",
+    "tgt": "你哋有幾多個人呀？",
+    "ro": "Nei5 dei6 jau5 gei2 do1 go3 jan4 aa3?",
+    "lit": "tu [pluriel] · avoir · combien · [classificateur] · personne · [question]"
+   },
+   {
+    "fr": "Qui vient avec nous ?",
+    "tgt": "邊個同我哋一齊去呀？",
+    "ro": "Bin1 go3 tung4 ngo5 dei6 jat1 cai4 heoi3 aa3?",
+    "lit": "quel · [classificateur] · avec · je [pluriel] · ensemble · aller · [question]"
+   },
+   {
+    "fr": "Tu vas où ?",
+    "tgt": "你去邊度呀？",
+    "ro": "Nei5 heoi3 bin1 dou6 aa3?",
+    "lit": "tu · aller · quel · endroit · [question]"
+   },
+   {
+    "fr": "Il faut combien de minutes à pied jusqu'au bord de mer ?",
+    "tgt": "行去海旁要幾多分鐘呀？",
+    "ro": "Haang4 heoi3 hoi2 pong4 jiu3 gei2 do1 fan1 zung1 aa3?",
+    "lit": "marcher · aller · bord de mer · falloir · combien · minute · [question]"
+   }
+  ]
+ },
+ "0-0-16": {
+  "module": "Le quotidien",
+  "title": "Le week-end entre amis",
+  "grammaire_de_la_lecon": "« Dou1 » : aussi, et tous",
+  "phrases": [
+   {
+    "fr": "Moi aussi, j'aime le thé au lait.",
+    "tgt": "我都鍾意飲奶茶。",
+    "ro": "Ngo5 dou1 zung1 ji3 jam2 naai5 caa4.",
+    "lit": "je · aussi · aimer · boire · lait · thé"
+   },
+   {
+    "fr": "Samedi, nous sommes tous libres.",
+    "tgt": "我哋星期六都得閒。",
+    "ro": "Ngo5 dei6 sing1 kei4 luk6 dou1 dak1 haan4.",
+    "lit": "je [pluriel] · samedi · tous · libre"
+   },
+   {
+    "fr": "Il vient, lui aussi ?",
+    "tgt": "佢都嚟嗎？",
+    "ro": "Keoi5 dou1 lei4 maa3?",
+    "lit": "il · aussi · venir · [question]"
+   },
+   {
+    "fr": "Mes amis habitent tous à Kowloon.",
+    "tgt": "我啲朋友都住喺九龍。",
+    "ro": "Ngo5 di1 pang4 jau5 dou1 zyu6 hai2 Gau2 lung4.",
+    "lit": "je · [pluriel] · ami · tous · habiter · à · Kowloon"
+   },
+   {
+    "fr": "Le samedi comme le dimanche, je n'ai pas besoin de travailler.",
+    "tgt": "星期六同星期日我都唔使返工。",
+    "ro": "Sing1 kei4 luk6 tung4 sing1 kei4 jat6 ngo5 dou1 m4 sai2 faan1 gung1.",
+    "lit": "samedi · et · dimanche · je · tous · ne pas · avoir besoin · aller au travail"
+   },
+   {
+    "fr": "Elle aussi est française.",
+    "tgt": "佢都係法國人。",
+    "ro": "Keoi5 dou1 hai6 Faat3 gwok3 jan4.",
+    "lit": "elle · aussi · être · France · pays · personne"
+   },
+   {
+    "fr": "Les deux restaurants sont bons.",
+    "tgt": "兩間餐廳都好好食。",
+    "ro": "Loeng5 gaan1 caan1 teng1 dou1 hou2 hou2 sik6.",
+    "lit": "deux · [classificateur] · restaurant · tous · très · bon à manger"
+   },
+   {
+    "fr": "On prend tous le Star Ferry.",
+    "tgt": "我哋全部都搭天星小輪。",
+    "ro": "Ngo5 dei6 cyun4 bou6 dou1 daap3 Tin1 sing1 siu2 leon4.",
+    "lit": "je [pluriel] · entièrement · tous · prendre · Star Ferry"
+   },
+   {
+    "fr": "Moi non plus, je ne mange pas épicé.",
+    "tgt": "我都唔食辣。",
+    "ro": "Ngo5 dou1 m4 sik6 laat6.",
+    "lit": "je · aussi · ne pas · manger · piquant"
+   },
+   {
+    "fr": "Tout le monde est content.",
+    "tgt": "個個都好開心。",
+    "ro": "Go3 go3 dou1 hou2 hoi1 sam1.",
+    "lit": "[classificateur] · [classificateur] (chacun) · tous · très · content"
+   }
+  ]
+ },
+ "0-0-17": {
+  "module": "Le quotidien",
+  "title": "Commander au cha chaan teng",
+  "grammaire_de_la_lecon": "« Soeng2 » et « jiu3 » : vouloir",
+  "phrases": [
+   {
+    "fr": "Je voudrais un thé au lait chaud.",
+    "tgt": "我想要一杯熱奶茶。",
+    "ro": "Ngo5 soeng2 jiu3 jat1 bui1 jit6 naai5 caa4.",
+    "lit": "je · avoir envie · vouloir · un · tasse · chaud · lait · thé"
+   },
+   {
+    "fr": "Je prends un pain perdu à la hongkongaise.",
+    "tgt": "我要一份西多士。",
+    "ro": "Ngo5 jiu3 jat1 fan6 sai1 do1 si2.",
+    "lit": "je · vouloir · un · portion · occidental · toast"
+   },
+   {
+    "fr": "Qu'est-ce que tu as envie de boire ?",
+    "tgt": "你想飲咩呀？",
+    "ro": "Nei5 soeng2 jam2 me1 aa3?",
+    "lit": "tu · avoir envie · boire · quoi · [question]"
+   },
+   {
+    "fr": "J'ai envie de nouilles.",
+    "tgt": "我想食麵。",
+    "ro": "Ngo5 soeng2 sik6 min6.",
+    "lit": "je · avoir envie · manger · nouilles"
+   },
+   {
+    "fr": "Je veux un thé au citron froid, sans glaçons.",
+    "tgt": "我要凍檸茶，走冰。",
+    "ro": "Ngo5 jiu3 dung3 ning4 caa4, zau2 bing1.",
+    "lit": "je · vouloir · froid · citron · thé · enlever · glace"
+   },
+   {
+    "fr": "Elle ne veut pas d'œuf.",
+    "tgt": "佢唔要蛋。",
+    "ro": "Keoi5 m4 jiu3 daan2.",
+    "lit": "elle · ne pas · vouloir · œuf"
+   },
+   {
+    "fr": "Je voudrais payer, s'il vous plaît.",
+    "tgt": "我想埋單，唔該。",
+    "ro": "Ngo5 soeng2 maai4 daan1, m4 goi1.",
+    "lit": "je · avoir envie · régler · addition · s'il vous plaît"
+   },
+   {
+    "fr": "Nous voulons une table pour deux.",
+    "tgt": "我哋要兩個位。",
+    "ro": "Ngo5 dei6 jiu3 loeng5 go3 wai2.",
+    "lit": "je [pluriel] · vouloir · deux · [classificateur] · place"
+   },
+   {
+    "fr": "Je le prends à emporter.",
+    "tgt": "我要外賣。",
+    "ro": "Ngo5 jiu3 ngoi6 maai6.",
+    "lit": "je · vouloir · à emporter"
+   },
+   {
+    "fr": "Je n'ai pas envie de sortir ce soir.",
+    "tgt": "我今晚唔想出街。",
+    "ro": "Ngo5 gam1 maan5 m4 soeng2 ceot1 gaai1.",
+    "lit": "je · ce soir · ne pas · avoir envie · sortir · rue"
+   }
+  ]
+ },
+ "0-0-18": {
+  "module": "Le quotidien",
+  "title": "Une soirée chez les voisins",
+  "grammaire_de_la_lecon": "« Aa3 » et « laa1 » : adoucir et proposer en fin de phrase",
+  "phrases": [
+   {
+    "fr": "Venez, on passe à table !",
+    "tgt": "嚟啦，食飯啦！",
+    "ro": "Lei4 laa1, sik6 faan6 laa1!",
+    "lit": "venir · [particule finale] · manger · riz · [particule finale]"
+   },
+   {
+    "fr": "Assieds-toi donc !",
+    "tgt": "坐啦！",
+    "ro": "Co5 laa1!",
+    "lit": "s'asseoir · [particule finale]"
+   },
+   {
+    "fr": "Reprends-en un peu !",
+    "tgt": "食多啲啦！",
+    "ro": "Sik6 do1 di1 laa1!",
+    "lit": "manger · plus · un peu · [particule finale]"
+   },
+   {
+    "fr": "C'est vraiment délicieux !",
+    "tgt": "好好食呀！",
+    "ro": "Hou2 hou2 sik6 aa3!",
+    "lit": "très · bon à manger · [particule finale]"
+   },
+   {
+    "fr": "Allons-y ensemble !",
+    "tgt": "一齊去啦！",
+    "ro": "Jat1 cai4 heoi3 laa1!",
+    "lit": "ensemble · aller · [particule finale]"
+   },
+   {
+    "fr": "Tu es d'où ?",
+    "tgt": "你邊度人呀？",
+    "ro": "Nei5 bin1 dou6 jan4 aa3?",
+    "lit": "tu · quel · endroit · personne · [question]"
+   },
+   {
+    "fr": "Prenons le minibus !",
+    "tgt": "我哋搭小巴啦！",
+    "ro": "Ngo5 dei6 daap3 siu2 baa1 laa1!",
+    "lit": "je [pluriel] · prendre · minibus · [particule finale]"
+   },
+   {
+    "fr": "Ce n'est pas grave !",
+    "tgt": "唔緊要呀！",
+    "ro": "M4 gan2 jiu3 aa3!",
+    "lit": "ne pas · important · [particule finale]"
+   },
+   {
+    "fr": "Bois donc un peu de thé !",
+    "tgt": "飲啲茶啦！",
+    "ro": "Jam2 di1 caa4 laa1!",
+    "lit": "boire · un peu · thé · [particule finale]"
+   },
+   {
+    "fr": "Il fait vraiment chaud ce soir !",
+    "tgt": "今晚好熱呀！",
+    "ro": "Gam1 maan5 hou2 jit6 aa3!",
+    "lit": "ce soir · très · chaud · [particule finale]"
+   }
+  ]
+ },
+ "0-0-19": {
+  "module": "Le quotidien",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "Les formules magiques : « nei5 hou2 », « m4 goi1 », « do1 ze6 », « deoi3 m4 zyu6 »",
+  "phrases": [
+   {
+    "fr": "Bonjour, je parle un peu le cantonais.",
+    "tgt": "你好，我識講少少廣東話。",
+    "ro": "Nei5 hou2, ngo5 sik1 gong2 siu2 siu2 Gwong2 dung1 waa2.",
+    "lit": "tu · bien · je · savoir · parler · un peu · cantonais"
+   },
+   {
+    "fr": "Merci beaucoup pour ton aide !",
+    "tgt": "多謝你幫手！",
+    "ro": "Do1 ze6 nei5 bong1 sau2!",
+    "lit": "merci · tu · aider"
+   },
+   {
+    "fr": "Pardon, vous pouvez répéter ?",
+    "tgt": "對唔住，可唔可以講多次呀？",
+    "ro": "Deoi3 m4 zyu6, ho2 m4 ho2 ji5 gong2 do1 ci3 aa3?",
+    "lit": "désolé · pouvoir · ne pas · pouvoir · dire · encore · fois · [question]"
+   },
+   {
+    "fr": "Excusez-moi, où est le minibus pour Mong Kok ?",
+    "tgt": "唔該，去旺角嘅小巴喺邊度呀？",
+    "ro": "M4 goi1, heoi3 Wong6 gok3 ge3 siu2 baa1 hai2 bin1 dou6 aa3?",
+    "lit": "excusez-moi · aller · Mong Kok · [possessif] · minibus · se trouver · quel · endroit · [question]"
+   },
+   {
+    "fr": "Le cantonais a six tons.",
+    "tgt": "廣東話有六個聲調。",
+    "ro": "Gwong2 dung1 waa2 jau5 luk6 go3 sing1 diu6.",
+    "lit": "cantonais · avoir · six · [classificateur] · ton"
+   },
+   {
+    "fr": "Je pratique le cantonais tous les jours.",
+    "tgt": "我日日練習廣東話。",
+    "ro": "Ngo5 jat6 jat6 lin6 zaap6 Gwong2 dung1 waa2.",
+    "lit": "je · jour · jour · pratiquer · cantonais"
+   },
+   {
+    "fr": "Le cantonais, ce n'est pas si difficile !",
+    "tgt": "廣東話唔係咁難呀！",
+    "ro": "Gwong2 dung1 waa2 m4 hai6 gam3 naan4 aa3!",
+    "lit": "cantonais · ne pas · être · si · difficile · [particule finale]"
+   },
+   {
+    "fr": "Pardon, je suis en retard.",
+    "tgt": "對唔住，我遲到喇。",
+    "ro": "Deoi3 m4 zyu6, ngo5 ci4 dou3 laa3.",
+    "lit": "désolé · je · tard · arriver · [particule finale]"
+   },
+   {
+    "fr": "Merci pour tout, au revoir !",
+    "tgt": "多謝晒，再見！",
+    "ro": "Do1 ze6 saai3, zoi3 gin3!",
+    "lit": "merci · tout · encore · voir"
+   },
+   {
+    "fr": "Maintenant, je commande mon thé au lait en cantonais.",
+    "tgt": "而家我用廣東話叫奶茶。",
+    "ro": "Ji4 gaa1 ngo5 jung6 Gwong2 dung1 waa2 giu3 naai5 caa4.",
+    "lit": "maintenant · je · utiliser · cantonais · commander · lait · thé"
+   }
+  ]
+ },
+ "0-1-0": {
+  "module": "En voyage",
+  "title": "Arrivée à l'hôtel, à Central",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Bonjour, j'ai réservé une chambre.",
+    "tgt": "你好，我有訂房。",
+    "ro": "Nei5 hou2, ngo5 jau5 deng6 fong2.",
+    "lit": "toi · bien · je · avoir · réserver · chambre"
+   },
+   {
+    "fr": "Je peux voir votre passeport, s'il vous plaît ?",
+    "tgt": "請俾護照我睇吓。",
+    "ro": "Ceng2 bei2 wu6 ziu3 ngo5 tai2 haa5.",
+    "lit": "prier · donner · passeport · moi · regarder · [un peu]"
+   },
+   {
+    "fr": "Tenez, c'est mon passeport.",
+    "tgt": "呢本係我嘅護照。",
+    "ro": "Ni1 bun2 hai6 ngo5 ge3 wu6 ziu3.",
+    "lit": "ce · [classificateur] · être · je · [possessif] · passeport"
+   },
+   {
+    "fr": "Votre chambre est au douzième étage.",
+    "tgt": "你間房喺十二樓。",
+    "ro": "Nei5 gaan1 fong2 hai2 sap6 ji6 lau2.",
+    "lit": "toi · [classificateur] · chambre · être à · dix · deux · étage"
+   },
+   {
+    "fr": "Le petit-déjeuner est servi à quelle heure ?",
+    "tgt": "早餐幾點呀？",
+    "ro": "Zou2 caan1 gei2 dim2 aa3?",
+    "lit": "petit-déjeuner · combien · heure · [question]"
+   },
+   {
+    "fr": "De sept heures à dix heures.",
+    "tgt": "七點到十點。",
+    "ro": "Cat1 dim2 dou3 sap6 dim2.",
+    "lit": "sept · heure · arriver à · dix · heure"
+   },
+   {
+    "fr": "Où se trouve l'ascenseur, s'il vous plaît ?",
+    "tgt": "電梯喺邊度？",
+    "ro": "Din6 tai1 hai2 bin1 dou6?",
+    "lit": "ascenseur · être à · où"
+   },
+   {
+    "fr": "Juste à côté de la réception.",
+    "tgt": "就喺前台隔籬。",
+    "ro": "Zau6 hai2 cin4 toi4 gaak3 lei4.",
+    "lit": "justement · être à · réception · à côté"
+   },
+   {
+    "fr": "Peut-on se connecter à internet dans la chambre ?",
+    "tgt": "間房有冇得上網呀？",
+    "ro": "Gaan1 fong2 jau5 mou5 dak1 soeng5 mong5 aa3?",
+    "lit": "[classificateur] · chambre · avoir · ne pas avoir · possibilité · monter · réseau · [question]"
+   },
+   {
+    "fr": "Oui, et c'est gratuit.",
+    "tgt": "有，免費㗎。",
+    "ro": "Jau5, min5 fai3 gaa3.",
+    "lit": "avoir · gratuit · [particule finale]"
+   }
+  ]
+ },
+ "0-1-1": {
+  "module": "En voyage",
+  "title": "Les projets du séjour",
+  "grammaire_de_la_lecon": "« Gam1 jat6 », « ting1 jat6 », « kam4 jat6 » : aujourd'hui, demain, hier",
+  "phrases": [
+   {
+    "fr": "Aujourd'hui, on va au Peak.",
+    "tgt": "今日我哋去山頂。",
+    "ro": "Gam1 jat6 ngo5 dei6 heoi3 saan1 deng2.",
+    "lit": "aujourd'hui · nous · aller · sommet de la montagne"
+   },
+   {
+    "fr": "Demain, on prend le Star Ferry.",
+    "tgt": "聽日我哋坐天星小輪。",
+    "ro": "Ting1 jat6 ngo5 dei6 co5 tin1 sing1 siu2 leon4.",
+    "lit": "demain · nous · s'asseoir · ciel · étoile · petit · bateau"
+   },
+   {
+    "fr": "Hier, je suis arrivé à Hong Kong.",
+    "tgt": "琴日我到咗香港。",
+    "ro": "Kam4 jat6 ngo5 dou3 zo2 hoeng1 gong2.",
+    "lit": "hier · je · arriver · [accompli] · Hong Kong"
+   },
+   {
+    "fr": "Il fait très beau aujourd'hui.",
+    "tgt": "今日天氣好好。",
+    "ro": "Gam1 jat6 tin1 hei3 hou2 hou2.",
+    "lit": "aujourd'hui · temps · très · bien"
+   },
+   {
+    "fr": "Demain, il va peut-être pleuvoir.",
+    "tgt": "聽日可能會落雨。",
+    "ro": "Ting1 jat6 ho2 nang4 wui5 lok6 jyu5.",
+    "lit": "demain · possible · [futur] · tomber · pluie"
+   },
+   {
+    "fr": "Qu'est-ce qu'on fait demain ?",
+    "tgt": "聽日做咩呀？",
+    "ro": "Ting1 jat6 zou6 me1 aa3?",
+    "lit": "demain · faire · quoi · [question]"
+   },
+   {
+    "fr": "Demain matin, on se balade à Central.",
+    "tgt": "聽朝去中環行吓。",
+    "ro": "Ting1 ziu1 heoi3 zung1 waan4 haang4 haa5.",
+    "lit": "demain matin · aller · Central · marcher · [un peu]"
+   },
+   {
+    "fr": "Hier soir, on a dîné à Wan Chai.",
+    "tgt": "琴晚我哋喺灣仔食飯。",
+    "ro": "Kam4 maan5 ngo5 dei6 hai2 waan1 zai2 sik6 faan6.",
+    "lit": "hier soir · nous · être à · Wan Chai · manger · riz"
+   },
+   {
+    "fr": "Quel jour de la semaine sommes-nous ?",
+    "tgt": "今日星期幾呀？",
+    "ro": "Gam1 jat6 sing1 kei4 gei2 aa3?",
+    "lit": "aujourd'hui · semaine · combien · [question]"
+   },
+   {
+    "fr": "Aujourd'hui, nous sommes samedi.",
+    "tgt": "今日星期六。",
+    "ro": "Gam1 jat6 sing1 kei4 luk6.",
+    "lit": "aujourd'hui · semaine · six"
+   }
+  ]
+ },
+ "0-1-2": {
+  "module": "En voyage",
+  "title": "Le métro de Hong Kong",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Où est la station de métro la plus proche ?",
+    "tgt": "地鐵站喺邊度？",
+    "ro": "Dei6 tit3 zaam6 hai2 bin1 dou6?",
+    "lit": "métro · station · être à · où"
+   },
+   {
+    "fr": "La station Central est tout près.",
+    "tgt": "中環站好近。",
+    "ro": "Zung1 waan4 zaam6 hou2 kan5.",
+    "lit": "Central · station · très · proche"
+   },
+   {
+    "fr": "Je voudrais un ticket pour Admiralty.",
+    "tgt": "我想買一張去金鐘嘅飛。",
+    "ro": "Ngo5 soeng2 maai5 jat1 zoeng1 heoi3 gam1 zung1 ge3 fei1.",
+    "lit": "je · vouloir · acheter · un · [classificateur] · aller · Admiralty · [de] · ticket"
+   },
+   {
+    "fr": "Le métro est vraiment propre.",
+    "tgt": "地鐵好乾淨。",
+    "ro": "Dei6 tit3 hou2 gon1 zeng6.",
+    "lit": "métro · très · propre"
+   },
+   {
+    "fr": "Il y a beaucoup de monde à cette heure-ci.",
+    "tgt": "呢個時間好多人。",
+    "ro": "Ni1 go3 si4 gaan3 hou2 do1 jan4.",
+    "lit": "ce · [classificateur] · moment · très · beaucoup · personne"
+   },
+   {
+    "fr": "On doit prendre quelle ligne de métro ?",
+    "tgt": "要搭邊條綫？",
+    "ro": "Jiu3 daap3 bin1 tiu4 sin3?",
+    "lit": "falloir · prendre · quel · [classificateur] · ligne"
+   },
+   {
+    "fr": "Celle qui est en rouge.",
+    "tgt": "紅色嗰條。",
+    "ro": "Hung4 sik1 go2 tiu4.",
+    "lit": "rouge · couleur · celle-là · [classificateur]"
+   },
+   {
+    "fr": "Il faut changer à Admiralty.",
+    "tgt": "喺金鐘轉車。",
+    "ro": "Hai2 gam1 zung1 zyun3 ce1.",
+    "lit": "être à · Admiralty · changer · véhicule"
+   },
+   {
+    "fr": "Le prochain métro arrive dans deux minutes.",
+    "tgt": "下一班車兩分鐘就到。",
+    "ro": "Haa6 jat1 baan1 ce1 loeng5 fan1 zung1 zau6 dou3.",
+    "lit": "suivant · un · [classificateur] · train · deux · minute · aussitôt · arriver"
+   },
+   {
+    "fr": "Attention à l'espace entre le train et le quai.",
+    "tgt": "小心月台空隙。",
+    "ro": "Siu2 sam1 jyut6 toi4 hung1 kwik1.",
+    "lit": "attention · quai · espace vide"
+   }
+  ]
+ },
+ "0-1-3": {
+  "module": "En voyage",
+  "title": "Un service à l'hôtel",
+  "grammaire_de_la_lecon": "« M4 goi1 » : s'il vous plaît, et merci pour un service",
+  "phrases": [
+   {
+    "fr": "Pardon, vous pouvez m'aider ?",
+    "tgt": "唔該，可唔可以幫我呀？",
+    "ro": "M4 goi1, ho2 m4 ho2 ji5 bong1 ngo5 aa3?",
+    "lit": "s'il vous plaît · pouvoir · ne pas · pouvoir · aider · moi · [question]"
+   },
+   {
+    "fr": "Je voudrais une serviette en plus, s'il vous plaît.",
+    "tgt": "唔該俾多條毛巾我。",
+    "ro": "M4 goi1 bei2 do1 tiu4 mou4 gan1 ngo5.",
+    "lit": "s'il vous plaît · donner · en plus · [classificateur] · serviette · moi"
+   },
+   {
+    "fr": "Merci, vous êtes vraiment gentil.",
+    "tgt": "唔該晒，你好好人。",
+    "ro": "M4 goi1 saai3, nei5 hou2 hou2 jan4.",
+    "lit": "merci · tout · toi · très · bon · personne"
+   },
+   {
+    "fr": "Pourriez-vous m'appeler un taxi, s'il vous plaît ?",
+    "tgt": "唔該幫我叫架的士。",
+    "ro": "M4 goi1 bong1 ngo5 giu3 gaa3 dik1 si2.",
+    "lit": "s'il vous plaît · aider · moi · appeler · [classificateur] · taxi"
+   },
+   {
+    "fr": "Pas de problème, il arrive dans cinq minutes.",
+    "tgt": "冇問題，五分鐘就到。",
+    "ro": "Mou5 man6 tai4, ng5 fan1 zung1 zau6 dou3.",
+    "lit": "ne pas avoir · problème · cinq · minute · aussitôt · arriver"
+   },
+   {
+    "fr": "S'il vous plaît, je voudrais laisser mes bagages.",
+    "tgt": "唔該，我想寄存行李。",
+    "ro": "M4 goi1, ngo5 soeng2 gei3 cyun4 hang4 lei5.",
+    "lit": "s'il vous plaît · je · vouloir · déposer · bagages"
+   },
+   {
+    "fr": "Merci mille fois pour votre aide.",
+    "tgt": "唔該晒你幫手。",
+    "ro": "M4 goi1 saai3 nei5 bong1 sau2.",
+    "lit": "merci · tout · toi · aider · main"
+   },
+   {
+    "fr": "Je vous en prie, c'est normal.",
+    "tgt": "唔使客氣。",
+    "ro": "M4 sai2 haak3 hei3.",
+    "lit": "ne pas · falloir · politesse"
+   },
+   {
+    "fr": "Excusez-moi, où sont les toilettes ?",
+    "tgt": "唔該，洗手間喺邊度？",
+    "ro": "M4 goi1, sai2 sau2 gaan1 hai2 bin1 dou6?",
+    "lit": "s'il vous plaît · toilettes · être à · où"
+   },
+   {
+    "fr": "Merci pour ce petit cadeau !",
+    "tgt": "多謝你嘅禮物！",
+    "ro": "Do1 ze6 nei5 ge3 lai5 mat6!",
+    "lit": "merci · toi · [possessif] · cadeau"
+   }
+  ]
+ },
+ "0-1-4": {
+  "module": "En voyage",
+  "title": "Sur le Star Ferry",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Le Star Ferry part bien d'ici ?",
+    "tgt": "天星小輪係唔係喺呢度開㗎？",
+    "ro": "Tin1 sing1 siu2 leon4 hai6 m4 hai6 hai2 ni1 dou6 hoi1 gaa3?",
+    "lit": "ciel · étoile · petit · bateau · être · ne pas · être · être à · ici · partir · [particule finale]"
+   },
+   {
+    "fr": "Oui, l'embarcadère est juste devant.",
+    "tgt": "係，碼頭就喺前面。",
+    "ro": "Hai6, maa5 tau4 zau6 hai2 cin4 min6.",
+    "lit": "être · embarcadère · justement · être à · devant"
+   },
+   {
+    "fr": "En dix minutes, on est de l'autre côté.",
+    "tgt": "十分鐘就到對面。",
+    "ro": "Sap6 fan1 zung1 zau6 dou3 deoi3 min6.",
+    "lit": "dix · minute · aussitôt · arriver · en face"
+   },
+   {
+    "fr": "Les tickets ne coûtent presque rien.",
+    "tgt": "啲飛好平。",
+    "ro": "Di1 fei1 hou2 peng4.",
+    "lit": "[les] · ticket · très · bon marché"
+   },
+   {
+    "fr": "Je veux m'asseoir près de la fenêtre.",
+    "tgt": "我想坐窗口位。",
+    "ro": "Ngo5 soeng2 co5 coeng1 hau2 wai2.",
+    "lit": "je · vouloir · s'asseoir · fenêtre · place"
+   },
+   {
+    "fr": "Regarde, c'est Tsim Sha Tsui en face.",
+    "tgt": "你睇，對面係尖沙咀。",
+    "ro": "Nei5 tai2, deoi3 min6 hai6 zim1 saa1 zeoi2.",
+    "lit": "toi · regarder · en face · être · Tsim Sha Tsui"
+   },
+   {
+    "fr": "Le soir, le port est magnifique.",
+    "tgt": "晚黑個海港好靚。",
+    "ro": "Maan5 hak1 go3 hoi2 gong2 hou2 leng3.",
+    "lit": "soir · [classificateur] · port · très · beau"
+   },
+   {
+    "fr": "Il y a beaucoup de vent sur le bateau.",
+    "tgt": "船上面好大風。",
+    "ro": "Syun4 soeng6 min6 hou2 daai6 fung1.",
+    "lit": "bateau · dessus · très · grand · vent"
+   },
+   {
+    "fr": "On se prend en photo tous les deux ?",
+    "tgt": "一齊影張相吖？",
+    "ro": "Jat1 cai4 jing2 zoeng1 soeng2 aa1?",
+    "lit": "ensemble · prendre · [classificateur] · photo · [proposition]"
+   },
+   {
+    "fr": "Le Star Ferry a une longue histoire.",
+    "tgt": "天星小輪好有歷史。",
+    "ro": "Tin1 sing1 siu2 leon4 hou2 jau5 lik6 si2.",
+    "lit": "ciel · étoile · petit · bateau · très · avoir · histoire"
+   }
+  ]
+ },
+ "0-1-5": {
+  "module": "En voyage",
+  "title": "Acheter des tickets",
+  "grammaire_de_la_lecon": "« Gei2 do1 cin2 » : demander un prix, les dollars en « man1 »",
+  "phrases": [
+   {
+    "fr": "Combien coûte un ticket de ferry ?",
+    "tgt": "一張船飛幾多錢？",
+    "ro": "Jat1 zoeng1 syun4 fei1 gei2 do1 cin2?",
+    "lit": "un · [classificateur] · bateau · ticket · combien · argent"
+   },
+   {
+    "fr": "Cinq dollars de Hong Kong.",
+    "tgt": "五蚊。",
+    "ro": "Ng5 man1.",
+    "lit": "cinq · dollar"
+   },
+   {
+    "fr": "Et pour un enfant ?",
+    "tgt": "小朋友呢？",
+    "ro": "Siu2 pang4 jau5 ne1?",
+    "lit": "petit · ami · [et lui ?]"
+   },
+   {
+    "fr": "Les enfants paient moitié prix.",
+    "tgt": "小朋友半價。",
+    "ro": "Siu2 pang4 jau5 bun3 gaa3.",
+    "lit": "petit · ami · moitié · prix"
+   },
+   {
+    "fr": "Deux tickets pour le funiculaire du Peak, ça fait combien ?",
+    "tgt": "兩張山頂纜車飛，幾多錢呀？",
+    "ro": "Loeng5 zoeng1 saan1 deng2 laam6 ce1 fei1, gei2 do1 cin2 aa3?",
+    "lit": "deux · [classificateur] · sommet · funiculaire · ticket · combien · argent · [question]"
+   },
+   {
+    "fr": "Cent soixante dollars de Hong Kong.",
+    "tgt": "一百六十蚊。",
+    "ro": "Jat1 baak3 luk6 sap6 man1.",
+    "lit": "un · cent · six · dix · dollar"
+   },
+   {
+    "fr": "C'est un peu cher quand même.",
+    "tgt": "有啲貴。",
+    "ro": "Jau5 di1 gwai3.",
+    "lit": "avoir · un peu · cher"
+   },
+   {
+    "fr": "L'aller-retour, c'est combien ?",
+    "tgt": "來回幾多錢？",
+    "ro": "Loi4 wui4 gei2 do1 cin2?",
+    "lit": "venir · retourner · combien · argent"
+   },
+   {
+    "fr": "Je vais payer en espèces.",
+    "tgt": "我俾現金。",
+    "ro": "Ngo5 bei2 jin6 gam1.",
+    "lit": "je · donner · espèces"
+   },
+   {
+    "fr": "Tenez, voici cent dollars de Hong Kong.",
+    "tgt": "呢度一百蚊。",
+    "ro": "Ni1 dou6 jat1 baak3 man1.",
+    "lit": "ici · un · cent · dollar"
+   }
+  ]
+ },
+ "0-1-6": {
+  "module": "En voyage",
+  "title": "Changer de l'argent",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Où est-ce qu'on peut changer de l'argent ?",
+    "tgt": "邊度可以換錢？",
+    "ro": "Bin1 dou6 ho2 ji5 wun6 cin2?",
+    "lit": "où · pouvoir · changer · argent"
+   },
+   {
+    "fr": "Il y a un bureau de change juste à côté.",
+    "tgt": "隔籬有找換店。",
+    "ro": "Gaak3 lei4 jau5 zaau2 wun6 dim3.",
+    "lit": "à côté · avoir · change · boutique"
+   },
+   {
+    "fr": "Je voudrais changer des euros.",
+    "tgt": "我想換歐元。",
+    "ro": "Ngo5 soeng2 wun6 au1 jyun4.",
+    "lit": "je · vouloir · changer · euro"
+   },
+   {
+    "fr": "Combien voulez-vous changer ?",
+    "tgt": "你想換幾多？",
+    "ro": "Nei5 soeng2 wun6 gei2 do1?",
+    "lit": "toi · vouloir · changer · combien"
+   },
+   {
+    "fr": "Deux cents euros, s'il vous plaît.",
+    "tgt": "唔該，兩百歐元。",
+    "ro": "M4 goi1, loeng5 baak3 au1 jyun4.",
+    "lit": "s'il vous plaît · deux · cent · euro"
+   },
+   {
+    "fr": "Le taux est-il bon aujourd'hui ?",
+    "tgt": "今日個價好唔好呀？",
+    "ro": "Gam1 jat6 go3 gaa3 hou2 m4 hou2 aa3?",
+    "lit": "aujourd'hui · [classificateur] · prix · bon · ne pas · bon · [question]"
+   },
+   {
+    "fr": "Pas mal, meilleur qu'hier.",
+    "tgt": "唔錯，好過琴日。",
+    "ro": "M4 co3, hou2 gwo3 kam4 jat6.",
+    "lit": "ne pas · mauvais · bon · dépasser · hier"
+   },
+   {
+    "fr": "Voici vos dollars de Hong Kong.",
+    "tgt": "呢啲係你嘅港紙。",
+    "ro": "Ni1 di1 hai6 nei5 ge3 gong2 zi2.",
+    "lit": "ces · être · toi · [possessif] · billets de Hong Kong"
+   },
+   {
+    "fr": "Je voudrais aussi de la petite monnaie.",
+    "tgt": "我都想要啲散紙。",
+    "ro": "Ngo5 dou1 soeng2 jiu3 di1 saan2 zi2.",
+    "lit": "je · aussi · vouloir · avoir · [un peu] · petite monnaie"
+   },
+   {
+    "fr": "Recomptez bien votre argent, s'il vous plaît.",
+    "tgt": "唔該點清楚啲錢。",
+    "ro": "M4 goi1 dim2 cing1 co2 di1 cin2.",
+    "lit": "s'il vous plaît · compter · clairement · [les] · argent"
+   }
+  ]
+ },
+ "0-1-7": {
+  "module": "En voyage",
+  "title": "En tramway de Central à Causeway Bay",
+  "grammaire_de_la_lecon": "« Jau4... heoi3... » : de... à...",
+  "phrases": [
+   {
+    "fr": "Ce tram va de Central à Causeway Bay.",
+    "tgt": "呢架電車由中環去銅鑼灣。",
+    "ro": "Ni1 gaa3 din6 ce1 jau4 zung1 waan4 heoi3 tung4 lo4 waan1.",
+    "lit": "ce · [classificateur] · tram · depuis · Central · aller · Causeway Bay"
+   },
+   {
+    "fr": "Dans le tram, on monte par l'arrière.",
+    "tgt": "由後門上車。",
+    "ro": "Jau4 hau6 mun4 soeng5 ce1.",
+    "lit": "depuis · arrière · porte · monter · véhicule"
+   },
+   {
+    "fr": "On paie en descendant, à l'avant.",
+    "tgt": "落車嗰陣喺前面俾錢。",
+    "ro": "Lok6 ce1 go2 zan6 hai2 cin4 min6 bei2 cin2.",
+    "lit": "descendre · véhicule · ce moment · être à · devant · donner · argent"
+   },
+   {
+    "fr": "De Central à Wan Chai, ça va vite.",
+    "tgt": "由中環去灣仔好快。",
+    "ro": "Jau4 zung1 waan4 heoi3 waan1 zai2 hou2 faai3.",
+    "lit": "depuis · Central · aller · Wan Chai · très · rapide"
+   },
+   {
+    "fr": "Le tram est lent, mais c'est joli.",
+    "tgt": "電車好慢，不過好好睇。",
+    "ro": "Din6 ce1 hou2 maan6, bat1 gwo3 hou2 hou2 tai2.",
+    "lit": "tram · très · lent · mais · très · bon · regarder"
+   },
+   {
+    "fr": "Montons à l'étage du haut.",
+    "tgt": "我哋上上層啦。",
+    "ro": "Ngo5 dei6 soeng5 soeng6 cang4 laa1.",
+    "lit": "nous · monter · haut · étage · [proposition]"
+   },
+   {
+    "fr": "D'en haut, on voit toute la rue.",
+    "tgt": "喺上面睇到成條街。",
+    "ro": "Hai2 soeng6 min6 tai2 dou2 seng4 tiu4 gaai1.",
+    "lit": "être à · dessus · regarder · [atteint] · entier · [classificateur] · rue"
+   },
+   {
+    "fr": "Il faut combien de temps de Central à Causeway Bay ?",
+    "tgt": "由中環去銅鑼灣要幾耐？",
+    "ro": "Jau4 zung1 waan4 heoi3 tung4 lo4 waan1 jiu3 gei2 noi6?",
+    "lit": "depuis · Central · aller · Causeway Bay · falloir · combien · longtemps"
+   },
+   {
+    "fr": "Environ une demi-heure.",
+    "tgt": "大概半個鐘。",
+    "ro": "Daai6 koi3 bun3 go3 zung1.",
+    "lit": "environ · demi · [classificateur] · heure"
+   },
+   {
+    "fr": "Le tram coûte environ trois dollars de Hong Kong.",
+    "tgt": "坐電車大概三蚊。",
+    "ro": "Co5 din6 ce1 daai6 koi3 saam1 man1.",
+    "lit": "s'asseoir · tram · environ · trois · dollar"
+   }
+  ]
+ },
+ "0-1-8": {
+  "module": "En voyage",
+  "title": "Au sommet du Peak",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "On prend le funiculaire pour monter au Peak.",
+    "tgt": "我哋坐纜車上山頂。",
+    "ro": "Ngo5 dei6 co5 laam6 ce1 soeng5 saan1 deng2.",
+    "lit": "nous · s'asseoir · funiculaire · monter · sommet"
+   },
+   {
+    "fr": "Il y a beaucoup de monde dans la file.",
+    "tgt": "排隊好多人。",
+    "ro": "Paai4 deoi2 hou2 do1 jan4.",
+    "lit": "faire la queue · très · beaucoup · personne"
+   },
+   {
+    "fr": "Qu'est-ce que ça grimpe !",
+    "tgt": "好斜呀！",
+    "ro": "Hou2 ce3 aa3!",
+    "lit": "très · en pente · [particule finale]"
+   },
+   {
+    "fr": "D'ici, la vue est splendide.",
+    "tgt": "呢度個景好靚。",
+    "ro": "Ni1 dou6 go3 ging2 hou2 leng3.",
+    "lit": "ici · [classificateur] · vue · très · beau"
+   },
+   {
+    "fr": "On voit tout le port de Victoria.",
+    "tgt": "睇到成個維港。",
+    "ro": "Tai2 dou2 seng4 go3 wai4 gong2.",
+    "lit": "regarder · [atteint] · entier · [classificateur] · port de Victoria"
+   },
+   {
+    "fr": "La nuit, la vue est encore plus belle.",
+    "tgt": "夜晚嘅夜景更加靚。",
+    "ro": "Je6 maan5 ge3 je6 ging2 gang3 gaa1 leng3.",
+    "lit": "nuit · [de] · vue de nuit · encore plus · beau"
+   },
+   {
+    "fr": "Il fait plus frais là-haut.",
+    "tgt": "山頂涼爽啲。",
+    "ro": "Saan1 deng2 loeng4 song2 di1.",
+    "lit": "sommet · frais · [un peu plus]"
+   },
+   {
+    "fr": "Tu veux boire un thé au lait ?",
+    "tgt": "你想唔想飲杯奶茶？",
+    "ro": "Nei5 soeng2 m4 soeng2 jam2 bui1 naai5 caa4?",
+    "lit": "toi · vouloir · ne pas · vouloir · boire · [classificateur] · lait · thé"
+   },
+   {
+    "fr": "Et si on redescendait à pied ?",
+    "tgt": "我哋行落山好唔好？",
+    "ro": "Ngo5 dei6 haang4 lok6 saan1 hou2 m4 hou2?",
+    "lit": "nous · marcher · descendre · montagne · bien · ne pas · bien"
+   },
+   {
+    "fr": "Non merci, je suis trop fatigué.",
+    "tgt": "唔好喇，我好攰。",
+    "ro": "M4 hou2 laa3, ngo5 hou2 gui6.",
+    "lit": "ne pas · bien · [particule finale] · je · très · fatigué"
+   }
+  ]
+ },
+ "0-1-9": {
+  "module": "En voyage",
+  "title": "Retrouver des amis",
+  "grammaire_de_la_lecon": "« Heoi3 » et « lai4 » : aller et venir",
+  "phrases": [
+   {
+    "fr": "Tu viens au restaurant ce soir ?",
+    "tgt": "你今晚嚟唔嚟餐廳呀？",
+    "ro": "Nei5 gam1 maan5 lai4 m4 lai4 caan1 teng1 aa3?",
+    "lit": "toi · ce soir · venir · ne pas · venir · restaurant · [question]"
+   },
+   {
+    "fr": "Oui, je viens à sept heures.",
+    "tgt": "嚟，我七點嚟。",
+    "ro": "Lai4, ngo5 cat1 dim2 lai4.",
+    "lit": "venir · je · sept · heure · venir"
+   },
+   {
+    "fr": "Là, je vais à Causeway Bay.",
+    "tgt": "我而家去銅鑼灣。",
+    "ro": "Ngo5 ji4 gaa1 heoi3 tung4 lo4 waan1.",
+    "lit": "je · maintenant · aller · Causeway Bay"
+   },
+   {
+    "fr": "Viens ici, vite !",
+    "tgt": "快啲嚟呢度！",
+    "ro": "Faai3 di1 lai4 ni1 dou6!",
+    "lit": "vite · [un peu] · venir · ici"
+   },
+   {
+    "fr": "Mon ami vient de France.",
+    "tgt": "我朋友係法國嚟嘅。",
+    "ro": "Ngo5 pang4 jau5 hai6 faat3 gwok3 lai4 ge3.",
+    "lit": "je · ami · être · France · venir · [particule finale]"
+   },
+   {
+    "fr": "C'est la première fois qu'il vient à Hong Kong.",
+    "tgt": "佢第一次嚟香港。",
+    "ro": "Keoi5 dai6 jat1 ci3 lai4 hoeng1 gong2.",
+    "lit": "il · [ordinal] · un · fois · venir · Hong Kong"
+   },
+   {
+    "fr": "Et après, on va où ?",
+    "tgt": "之後去邊度呀？",
+    "ro": "Zi1 hau6 heoi3 bin1 dou6 aa3?",
+    "lit": "après · aller · où · [question]"
+   },
+   {
+    "fr": "Allons boire un verre à Lan Kwai Fong.",
+    "tgt": "去蘭桂坊飲嘢啦。",
+    "ro": "Heoi3 laan4 gwai3 fong1 jam2 je5 laa1.",
+    "lit": "aller · Lan Kwai Fong · boire · chose · [proposition]"
+   },
+   {
+    "fr": "Je ne viens pas, je rentre à l'hôtel.",
+    "tgt": "我唔嚟喇，我返酒店。",
+    "ro": "Ngo5 m4 lai4 laa3, ngo5 faan1 zau2 dim3.",
+    "lit": "je · ne pas · venir · [particule finale] · je · rentrer · hôtel"
+   },
+   {
+    "fr": "Reviens nous voir demain !",
+    "tgt": "聽日再嚟搵我哋啦！",
+    "ro": "Ting1 jat6 zoi3 lai4 wan2 ngo5 dei6 laa1!",
+    "lit": "demain · de nouveau · venir · chercher · nous · [proposition]"
+   }
+  ]
+ },
+ "0-1-10": {
+  "module": "En voyage",
+  "title": "Dîner à Wan Chai",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Une table pour trois, s'il vous plaît.",
+    "tgt": "唔該，三位。",
+    "ro": "M4 goi1, saam1 wai2.",
+    "lit": "s'il vous plaît · trois · [classificateur des personnes]"
+   },
+   {
+    "fr": "Il faut attendre une dizaine de minutes.",
+    "tgt": "要等十分鐘。",
+    "ro": "Jiu3 dang2 sap6 fan1 zung1.",
+    "lit": "falloir · attendre · dix · minute"
+   },
+   {
+    "fr": "Avez-vous une carte en français ?",
+    "tgt": "有冇法文餐牌？",
+    "ro": "Jau5 mou5 faat3 man2 caan1 paai2?",
+    "lit": "avoir · ne pas avoir · France · langue · menu"
+   },
+   {
+    "fr": "Désolé, non, mais il y a des photos.",
+    "tgt": "唔好意思，冇，不過有相。",
+    "ro": "M4 hou2 ji3 si3, mou5, bat1 gwo3 jau5 soeng2.",
+    "lit": "ne pas · bien · sens · ne pas avoir · mais · avoir · photo"
+   },
+   {
+    "fr": "Qu'est-ce que vous nous conseillez de bon ?",
+    "tgt": "你有咩介紹呀？",
+    "ro": "Nei5 jau5 me1 gaai3 siu6 aa3?",
+    "lit": "toi · avoir · quoi · recommander · [question]"
+   },
+   {
+    "fr": "Ici, le riz frit est excellent.",
+    "tgt": "呢度嘅炒飯好好食。",
+    "ro": "Ni1 dou6 ge3 caau2 faan6 hou2 hou2 sik6.",
+    "lit": "ici · [de] · frire · riz · très · bon · manger"
+   },
+   {
+    "fr": "Je ne mange rien de pimenté.",
+    "tgt": "我唔食辣。",
+    "ro": "Ngo5 m4 sik6 laat6.",
+    "lit": "je · ne pas · manger · piquant"
+   },
+   {
+    "fr": "Une bière glacée pour moi, s'il vous plaît.",
+    "tgt": "唔該，一支凍啤酒。",
+    "ro": "M4 goi1, jat1 zi1 dung3 be1 zau2.",
+    "lit": "s'il vous plaît · un · [classificateur] · froid · bière"
+   },
+   {
+    "fr": "Ce plat est vraiment délicieux !",
+    "tgt": "呢味餸真係好好食！",
+    "ro": "Ni1 mei6 sung3 zan1 hai6 hou2 hou2 sik6!",
+    "lit": "ce · [classificateur] · plat · vraiment · très · bon · manger"
+   },
+   {
+    "fr": "On peut avoir l'addition ?",
+    "tgt": "唔該，埋單。",
+    "ro": "M4 goi1, maai4 daan1.",
+    "lit": "s'il vous plaît · clore · note"
+   }
+  ]
+ },
+ "0-1-11": {
+  "module": "En voyage",
+  "title": "Demander son chemin",
+  "grammaire_de_la_lecon": "« Dim2 heoi3 » : comment aller quelque part",
+  "phrases": [
+   {
+    "fr": "Pardon, comment va-t-on au métro ?",
+    "tgt": "唔該，地鐵站點去呀？",
+    "ro": "M4 goi1, dei6 tit3 zaam6 dim2 heoi3 aa3?",
+    "lit": "s'il vous plaît · métro · station · comment · aller · [question]"
+   },
+   {
+    "fr": "Comment aller à l'embarcadère du Star Ferry ?",
+    "tgt": "天星碼頭點去呀？",
+    "ro": "Tin1 sing1 maa5 tau4 dim2 heoi3 aa3?",
+    "lit": "ciel · étoile · embarcadère · comment · aller · [question]"
+   },
+   {
+    "fr": "Continuez tout droit, et ensuite à gauche.",
+    "tgt": "直行，然後轉左。",
+    "ro": "Zik6 haang4, jin4 hau6 zyun3 zo2.",
+    "lit": "droit · marcher · ensuite · tourner · gauche"
+   },
+   {
+    "fr": "C'est au deuxième feu.",
+    "tgt": "第二個交通燈就係。",
+    "ro": "Dai6 ji6 go3 gaau1 tung1 dang1 zau6 hai6.",
+    "lit": "[ordinal] · deux · [classificateur] · feu de circulation · justement · être"
+   },
+   {
+    "fr": "D'ici, comment on va au Peak ?",
+    "tgt": "由呢度點去山頂呀？",
+    "ro": "Jau4 ni1 dou6 dim2 heoi3 saan1 deng2 aa3?",
+    "lit": "depuis · ici · comment · aller · sommet · [question]"
+   },
+   {
+    "fr": "Vous pouvez prendre le bus numéro quinze.",
+    "tgt": "你可以搭十五號巴士。",
+    "ro": "Nei5 ho2 ji5 daap3 sap6 ng5 hou6 baa1 si2.",
+    "lit": "toi · pouvoir · prendre · dix · cinq · numéro · bus"
+   },
+   {
+    "fr": "Et à pied, comment on y va ?",
+    "tgt": "行路點去呀？",
+    "ro": "Haang4 lou6 dim2 heoi3 aa3?",
+    "lit": "marcher · route · comment · aller · [question]"
+   },
+   {
+    "fr": "Traversez la rue et tournez à droite.",
+    "tgt": "過馬路，然後轉右。",
+    "ro": "Gwo3 maa5 lou6, jin4 hau6 zyun3 jau6.",
+    "lit": "traverser · rue · ensuite · tourner · droite"
+   },
+   {
+    "fr": "Vous pouvez me montrer sur le plan ?",
+    "tgt": "可唔可以喺地圖指俾我睇？",
+    "ro": "Ho2 m4 ho2 ji5 hai2 dei6 tou4 zi2 bei2 ngo5 tai2?",
+    "lit": "pouvoir · ne pas · pouvoir · être à · carte · montrer du doigt · donner · moi · regarder"
+   },
+   {
+    "fr": "Je ne sais pas du tout comment on y va.",
+    "tgt": "我真係唔知點去。",
+    "ro": "Ngo5 zan1 hai6 m4 zi1 dim2 heoi3.",
+    "lit": "je · vraiment · ne pas · savoir · comment · aller"
+   }
+  ]
+ },
+ "0-1-12": {
+  "module": "En voyage",
+  "title": "Perdu à Sheung Wan",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Je crois que je suis perdu.",
+    "tgt": "我好似蕩失路。",
+    "ro": "Ngo5 hou2 ci5 dong6 sat1 lou6.",
+    "lit": "je · sembler · errer · perdre · chemin"
+   },
+   {
+    "fr": "Où sommes-nous sur ce plan ?",
+    "tgt": "我哋喺地圖邊度？",
+    "ro": "Ngo5 dei6 hai2 dei6 tou4 bin1 dou6?",
+    "lit": "nous · être à · carte · où"
+   },
+   {
+    "fr": "Ici, c'est Sheung Wan.",
+    "tgt": "呢度係上環。",
+    "ro": "Ni1 dou6 hai6 soeng6 waan4.",
+    "lit": "ici · être · Sheung Wan"
+   },
+   {
+    "fr": "Cette rue est très étroite.",
+    "tgt": "呢條街好窄。",
+    "ro": "Ni1 tiu4 gaai1 hou2 zaak3.",
+    "lit": "ce · [classificateur] · rue · très · étroit"
+   },
+   {
+    "fr": "Il y a plein de boutiques de produits séchés ici.",
+    "tgt": "呢度有好多海味舖。",
+    "ro": "Ni1 dou6 jau5 hou2 do1 hoi2 mei6 pou3.",
+    "lit": "ici · avoir · très · beaucoup · produits de la mer séchés · boutique"
+   },
+   {
+    "fr": "Excusez-moi, je cherche mon hôtel.",
+    "tgt": "唔好意思，我搵緊我間酒店。",
+    "ro": "M4 hou2 ji3 si3, ngo5 wan2 gan2 ngo5 gaan1 zau2 dim3.",
+    "lit": "ne pas · bien · sens · je · chercher · [en cours] · je · [classificateur] · hôtel"
+   },
+   {
+    "fr": "Comment s'appelle votre hôtel ?",
+    "tgt": "你間酒店叫咩名呀？",
+    "ro": "Nei5 gaan1 zau2 dim3 giu3 me1 meng2 aa3?",
+    "lit": "toi · [classificateur] · hôtel · s'appeler · quel · nom · [question]"
+   },
+   {
+    "fr": "Il est juste derrière cet immeuble.",
+    "tgt": "就喺嗰棟大廈後面。",
+    "ro": "Zau6 hai2 go2 dung6 daai6 haa6 hau6 min6.",
+    "lit": "justement · être à · ce · [classificateur] · immeuble · derrière"
+   },
+   {
+    "fr": "Ah, je comprends ! Merci beaucoup.",
+    "tgt": "啊，我明喇！唔該晒。",
+    "ro": "Aa3, ngo5 ming4 laa3! M4 goi1 saai3.",
+    "lit": "ah · je · comprendre · [particule finale] · merci · tout"
+   },
+   {
+    "fr": "De rien, amusez-vous bien !",
+    "tgt": "唔使唔該，玩得開心啲！",
+    "ro": "M4 sai2 m4 goi1, waan2 dak1 hoi1 sam1 di1!",
+    "lit": "ne pas · falloir · merci · s'amuser · [manière] · joyeux · [un peu]"
+   }
+  ]
+ },
+ "0-1-13": {
+  "module": "En voyage",
+  "title": "Parler un peu cantonais en voyage",
+  "grammaire_de_la_lecon": "« Ho2 ji5 », « sik1 », « wui5 » : pouvoir et savoir",
+  "phrases": [
+   {
+    "fr": "Est-ce que vous savez parler français ?",
+    "tgt": "你識唔識講法文呀？",
+    "ro": "Nei5 sik1 m4 sik1 gong2 faat3 man2 aa3?",
+    "lit": "toi · savoir · ne pas · savoir · parler · France · langue · [question]"
+   },
+   {
+    "fr": "Je parle un petit peu le cantonais.",
+    "tgt": "我識講少少廣東話。",
+    "ro": "Ngo5 sik1 gong2 siu2 siu2 gwong2 dung1 waa2.",
+    "lit": "je · savoir · parler · un peu · un peu · cantonais"
+   },
+   {
+    "fr": "Pourriez-vous parler plus lentement ?",
+    "tgt": "你可唔可以講慢啲呀？",
+    "ro": "Nei5 ho2 m4 ho2 ji5 gong2 maan6 di1 aa3?",
+    "lit": "toi · pouvoir · ne pas · pouvoir · parler · lent · [un peu plus] · [question]"
+   },
+   {
+    "fr": "A-t-on le droit de prendre des photos ici ?",
+    "tgt": "呢度可唔可以影相呀？",
+    "ro": "Ni1 dou6 ho2 m4 ho2 ji5 jing2 soeng2 aa3?",
+    "lit": "ici · pouvoir · ne pas · pouvoir · prendre · photo · [question]"
+   },
+   {
+    "fr": "Oui, mais sans flash.",
+    "tgt": "可以，不過唔好用閃光燈。",
+    "ro": "Ho2 ji5, bat1 gwo3 m4 hou2 jung6 sim2 gwong1 dang1.",
+    "lit": "pouvoir · mais · ne pas · bien · utiliser · flash"
+   },
+   {
+    "fr": "Je ne sais pas nager.",
+    "tgt": "我唔識游水。",
+    "ro": "Ngo5 m4 sik1 jau4 seoi2.",
+    "lit": "je · ne pas · savoir · nager · eau"
+   },
+   {
+    "fr": "Est-ce qu'il va pleuvoir ce soir ?",
+    "tgt": "今晚會唔會落雨呀？",
+    "ro": "Gam1 maan5 wui5 m4 wui5 lok6 jyu5 aa3?",
+    "lit": "ce soir · [futur] · ne pas · [futur] · tomber · pluie · [question]"
+   },
+   {
+    "fr": "Je ne pense pas.",
+    "tgt": "我諗唔會。",
+    "ro": "Ngo5 nam2 m4 wui5.",
+    "lit": "je · penser · ne pas · [futur]"
+   },
+   {
+    "fr": "Je peux régler par carte bancaire ?",
+    "tgt": "可唔可以碌卡呀？",
+    "ro": "Ho2 m4 ho2 ji5 luk1 kaat1 aa3?",
+    "lit": "pouvoir · ne pas · pouvoir · glisser · carte · [question]"
+   },
+   {
+    "fr": "Tu sais lire ce plan, toi ?",
+    "tgt": "你識唔識睇呢張地圖呀？",
+    "ro": "Nei5 sik1 m4 sik1 tai2 ni1 zoeng1 dei6 tou4 aa3?",
+    "lit": "toi · savoir · ne pas · savoir · regarder · ce · [classificateur] · carte · [question]"
+   }
+  ]
+ },
+ "0-1-14": {
+  "module": "En voyage",
+  "title": "Shopping à Causeway Bay",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Causeway Bay, c'est le paradis du shopping.",
+    "tgt": "銅鑼灣係買嘢嘅好地方。",
+    "ro": "Tung4 lo4 waan1 hai6 maai5 je5 ge3 hou2 dei6 fong1.",
+    "lit": "Causeway Bay · être · acheter · chose · [de] · bon · endroit"
+   },
+   {
+    "fr": "Je voudrais acheter un cadeau pour ma maman.",
+    "tgt": "我想買份禮物俾我媽媽。",
+    "ro": "Ngo5 soeng2 maai5 fan6 lai5 mat6 bei2 ngo5 maa4 maa1.",
+    "lit": "je · vouloir · acheter · [classificateur] · cadeau · donner · je · maman"
+   },
+   {
+    "fr": "Est-ce que je peux l'essayer, s'il vous plaît ?",
+    "tgt": "可唔可以試吓？",
+    "ro": "Ho2 m4 ho2 ji5 si3 haa5?",
+    "lit": "pouvoir · ne pas · pouvoir · essayer · [un peu]"
+   },
+   {
+    "fr": "Vous l'avez en plus grand ?",
+    "tgt": "有冇大啲嘅？",
+    "ro": "Jau5 mou5 daai6 di1 ge3?",
+    "lit": "avoir · ne pas avoir · grand · [un peu plus] · [celui qui]"
+   },
+   {
+    "fr": "Cette couleur te va très bien.",
+    "tgt": "呢個顏色好襯你。",
+    "ro": "Ni1 go3 ngaan4 sik1 hou2 can3 nei5.",
+    "lit": "ce · [classificateur] · couleur · très · aller bien · toi"
+   },
+   {
+    "fr": "Vous pouvez me faire un prix ?",
+    "tgt": "可唔可以平啲呀？",
+    "ro": "Ho2 m4 ho2 ji5 peng4 di1 aa3?",
+    "lit": "pouvoir · ne pas · pouvoir · bon marché · [un peu plus] · [question]"
+   },
+   {
+    "fr": "Pour vous, ce sera deux cents dollars de Hong Kong.",
+    "tgt": "算你兩百蚊啦。",
+    "ro": "Syun3 nei5 loeng5 baak3 man1 laa1.",
+    "lit": "compter · toi · deux · cent · dollar · [particule finale]"
+   },
+   {
+    "fr": "Bon, d'accord, je prends celui-là.",
+    "tgt": "好，我要呢個。",
+    "ro": "Hou2, ngo5 jiu3 ni1 go3.",
+    "lit": "bien · je · vouloir · ce · [classificateur]"
+   },
+   {
+    "fr": "Vous pouvez me donner un sac ?",
+    "tgt": "唔該俾個袋我。",
+    "ro": "M4 goi1 bei2 go3 doi2 ngo5.",
+    "lit": "s'il vous plaît · donner · [classificateur] · sac · moi"
+   },
+   {
+    "fr": "Je porte plein de sacs !",
+    "tgt": "我拎住好多袋呀！",
+    "ro": "Ngo5 ling1 zyu6 hou2 do1 doi2 aa3!",
+    "lit": "je · porter · [continu] · très · beaucoup · sac · [particule finale]"
+   }
+  ]
+ },
+ "0-1-15": {
+  "module": "En voyage",
+  "title": "En bus jusqu'à Stanley",
+  "grammaire_de_la_lecon": "« Daap3 » + moyen de transport : prendre le bus, le ferry",
+  "phrases": [
+   {
+    "fr": "On prend le bus pour Stanley ?",
+    "tgt": "我哋搭巴士去赤柱好唔好？",
+    "ro": "Ngo5 dei6 daap3 baa1 si2 heoi3 cik3 cyu5 hou2 m4 hou2?",
+    "lit": "nous · prendre · bus · aller · Stanley · bien · ne pas · bien"
+   },
+   {
+    "fr": "Le bus part de Central.",
+    "tgt": "巴士喺中環開。",
+    "ro": "Baa1 si2 hai2 zung1 waan4 hoi1.",
+    "lit": "bus · être à · Central · partir"
+   },
+   {
+    "fr": "Moi, je préférerais prendre le minibus.",
+    "tgt": "我想搭小巴。",
+    "ro": "Ngo5 soeng2 daap3 siu2 baa1.",
+    "lit": "je · vouloir · prendre · minibus"
+   },
+   {
+    "fr": "Le minibus va plus vite.",
+    "tgt": "小巴快啲。",
+    "ro": "Siu2 baa1 faai3 di1.",
+    "lit": "minibus · rapide · [un peu plus]"
+   },
+   {
+    "fr": "En minibus, il faut annoncer soi-même son arrêt.",
+    "tgt": "搭小巴要自己叫落車。",
+    "ro": "Daap3 siu2 baa1 jiu3 zi6 gei2 giu3 lok6 ce1.",
+    "lit": "prendre · minibus · falloir · soi-même · crier · descendre · véhicule"
+   },
+   {
+    "fr": "Prochain arrêt, je descends, s'il vous plaît !",
+    "tgt": "有落，唔該！",
+    "ro": "Jau5 lok6, m4 goi1!",
+    "lit": "avoir · descendre · s'il vous plaît"
+   },
+   {
+    "fr": "Sinon, on peut aussi prendre un taxi.",
+    "tgt": "都可以搭的士。",
+    "ro": "Dou1 ho2 ji5 daap3 dik1 si2.",
+    "lit": "aussi · pouvoir · prendre · taxi"
+   },
+   {
+    "fr": "Les taxis rouges vont partout sur l'île.",
+    "tgt": "紅色的士成個港島都去得。",
+    "ro": "Hung4 sik1 dik1 si2 seng4 go3 gong2 dou2 dou1 heoi3 dak1.",
+    "lit": "rouge · couleur · taxi · entier · [classificateur] · île de Hong Kong · tous · aller · [possible]"
+   },
+   {
+    "fr": "Tu as déjà pris le bateau pour Lantau ?",
+    "tgt": "你搭過船去大嶼山未呀？",
+    "ro": "Nei5 daap3 gwo3 syun4 heoi3 daai6 jyu4 saan1 mei6 aa3?",
+    "lit": "toi · prendre · [expérience] · bateau · aller · Lantau · pas encore · [question]"
+   },
+   {
+    "fr": "Pas encore, on le prend demain.",
+    "tgt": "未呀，聽日搭。",
+    "ro": "Mei6 aa3, ting1 jat6 daap3.",
+    "lit": "pas encore · [particule finale] · demain · prendre"
+   }
+  ]
+ },
+ "0-1-16": {
+  "module": "En voyage",
+  "title": "Une journée à Repulse Bay",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "La plage de Repulse Bay est superbe.",
+    "tgt": "淺水灣個沙灘好靚。",
+    "ro": "Cin2 seoi2 waan1 go3 saa1 taan1 hou2 leng3.",
+    "lit": "Repulse Bay · [classificateur] · plage · très · beau"
+   },
+   {
+    "fr": "L'eau est un peu froide.",
+    "tgt": "啲水有啲凍。",
+    "ro": "Di1 seoi2 jau5 di1 dung3.",
+    "lit": "[les] · eau · avoir · un peu · froid"
+   },
+   {
+    "fr": "Tu as pris de la crème solaire ?",
+    "tgt": "你有冇帶防曬呀？",
+    "ro": "Nei5 jau5 mou5 daai3 fong4 saai3 aa3?",
+    "lit": "toi · avoir · ne pas avoir · apporter · anti-soleil · [question]"
+   },
+   {
+    "fr": "Il fait chaud et humide.",
+    "tgt": "天氣又熱又濕。",
+    "ro": "Tin1 hei3 jau6 jit6 jau6 sap1.",
+    "lit": "temps · à la fois · chaud · à la fois · humide"
+   },
+   {
+    "fr": "Allez, on va se baigner !",
+    "tgt": "去游水啦！",
+    "ro": "Heoi3 jau4 seoi2 laa1!",
+    "lit": "aller · nager · eau · [proposition]"
+   },
+   {
+    "fr": "Moi, je m'assois sous l'arbre.",
+    "tgt": "我坐喺樹底下。",
+    "ro": "Ngo5 co5 hai2 syu6 dai2 haa6.",
+    "lit": "je · s'asseoir · être à · arbre · dessous"
+   },
+   {
+    "fr": "On achète deux boissons fraîches ?",
+    "tgt": "買兩支凍飲好唔好？",
+    "ro": "Maai5 loeng5 zi1 dung3 jam2 hou2 m4 hou2?",
+    "lit": "acheter · deux · [classificateur] · froid · boisson · bien · ne pas · bien"
+   },
+   {
+    "fr": "Est-ce qu'il y a des douches sur la plage ?",
+    "tgt": "沙灘有冇沖身房呀？",
+    "ro": "Saa1 taan1 jau5 mou5 cung1 san1 fong2 aa3?",
+    "lit": "plage · avoir · ne pas avoir · rincer · corps · pièce · [question]"
+   },
+   {
+    "fr": "Le coucher de soleil est magnifique.",
+    "tgt": "日落好靚。",
+    "ro": "Jat6 lok6 hou2 leng3.",
+    "lit": "soleil · tomber · très · beau"
+   },
+   {
+    "fr": "On a passé une journée vraiment géniale !",
+    "tgt": "今日真係好開心！",
+    "ro": "Gam1 jat6 zan1 hai6 hou2 hoi1 sam1!",
+    "lit": "aujourd'hui · vraiment · très · joyeux"
+   }
+  ]
+ },
+ "0-1-17": {
+  "module": "En voyage",
+  "title": "Se balader dans Wan Chai",
+  "grammaire_de_la_lecon": "« Lei4 » : la distance, c'est loin d'ici",
+  "phrases": [
+   {
+    "fr": "Le marché est-il loin d'ici ?",
+    "tgt": "街市離呢度遠唔遠呀？",
+    "ro": "Gaai1 si5 lei4 ni1 dou6 jyun5 m4 jyun5 aa3?",
+    "lit": "marché · être distant de · ici · loin · ne pas · loin · [question]"
+   },
+   {
+    "fr": "Non, c'est tout près d'ici.",
+    "tgt": "唔遠，離呢度好近。",
+    "ro": "M4 jyun5, lei4 ni1 dou6 hou2 kan5.",
+    "lit": "ne pas · loin · être distant de · ici · très · proche"
+   },
+   {
+    "fr": "L'hôtel est loin du métro.",
+    "tgt": "酒店離地鐵站好遠。",
+    "ro": "Zau2 dim3 lei4 dei6 tit3 zaam6 hou2 jyun5.",
+    "lit": "hôtel · être distant de · métro · station · très · loin"
+   },
+   {
+    "fr": "Wan Chai est tout près de Causeway Bay.",
+    "tgt": "灣仔離銅鑼灣好近。",
+    "ro": "Waan1 zai2 lei4 tung4 lo4 waan1 hou2 kan5.",
+    "lit": "Wan Chai · être distant de · Causeway Bay · très · proche"
+   },
+   {
+    "fr": "C'est à dix minutes à pied.",
+    "tgt": "行路十分鐘。",
+    "ro": "Haang4 lou6 sap6 fan1 zung1.",
+    "lit": "marcher · route · dix · minute"
+   },
+   {
+    "fr": "L'aéroport est très loin de Central.",
+    "tgt": "機場離中環好遠。",
+    "ro": "Gei1 coeng4 lei4 zung1 waan4 hou2 jyun5.",
+    "lit": "aéroport · être distant de · Central · très · loin"
+   },
+   {
+    "fr": "Il faut prendre la ligne express de l'aéroport.",
+    "tgt": "要搭機場快綫。",
+    "ro": "Jiu3 daap3 gei1 coeng4 faai3 sin3.",
+    "lit": "falloir · prendre · aéroport · rapide · ligne"
+   },
+   {
+    "fr": "C'est trop loin pour y aller à pied.",
+    "tgt": "太遠喇，行唔到。",
+    "ro": "Taai3 jyun5 laa3, haang4 m4 dou3.",
+    "lit": "trop · loin · [particule finale] · marcher · ne pas · arriver"
+   },
+   {
+    "fr": "On trouve de tout au marché de Wan Chai.",
+    "tgt": "灣仔街市乜都有得賣。",
+    "ro": "Waan1 zai2 gaai1 si5 mat1 dou1 jau5 dak1 maai6.",
+    "lit": "Wan Chai · marché · quoi · tout · avoir · possibilité · vendre"
+   },
+   {
+    "fr": "On y retourne demain ?",
+    "tgt": "聽日再去好唔好？",
+    "ro": "Ting1 jat6 zoi3 heoi3 hou2 m4 hou2?",
+    "lit": "demain · de nouveau · aller · bien · ne pas · bien"
+   }
+  ]
+ },
+ "0-1-18": {
+  "module": "En voyage",
+  "title": "Quitter l'hôtel",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Je voudrais libérer la chambre.",
+    "tgt": "我想退房。",
+    "ro": "Ngo5 soeng2 teoi3 fong2.",
+    "lit": "je · vouloir · rendre · chambre"
+   },
+   {
+    "fr": "Voici la carte de la chambre.",
+    "tgt": "呢張係房卡。",
+    "ro": "Ni1 zoeng1 hai6 fong2 kaat1.",
+    "lit": "ce · [classificateur] · être · chambre · carte"
+   },
+   {
+    "fr": "Avez-vous bu quelque chose dans le frigo ?",
+    "tgt": "你有冇飲雪櫃啲嘢呀？",
+    "ro": "Nei5 jau5 mou5 jam2 syut3 gwai6 di1 je5 aa3?",
+    "lit": "toi · avoir · ne pas avoir · boire · réfrigérateur · [les] · chose · [question]"
+   },
+   {
+    "fr": "Non, je n'ai rien pris du tout.",
+    "tgt": "冇，乜都冇飲。",
+    "ro": "Mou5, mat1 dou1 mou5 jam2.",
+    "lit": "ne pas avoir · quoi · tout · ne pas avoir · boire"
+   },
+   {
+    "fr": "Le séjour vous a plu ?",
+    "tgt": "你住得開唔開心呀？",
+    "ro": "Nei5 zyu6 dak1 hoi1 m4 hoi1 sam1 aa3?",
+    "lit": "toi · loger · [manière] · joyeux · ne pas · joyeux · [question]"
+   },
+   {
+    "fr": "Oui, la chambre était très confortable.",
+    "tgt": "開心，間房好舒服。",
+    "ro": "Hoi1 sam1, gaan1 fong2 hou2 syu1 fuk6.",
+    "lit": "joyeux · [classificateur] · chambre · très · confortable"
+   },
+   {
+    "fr": "À quelle heure part la navette pour l'aéroport ?",
+    "tgt": "去機場嘅穿梭巴士幾點開？",
+    "ro": "Heoi3 gei1 coeng4 ge3 cyun1 so1 baa1 si2 gei2 dim2 hoi1?",
+    "lit": "aller · aéroport · [de] · navette · bus · combien · heure · partir"
+   },
+   {
+    "fr": "Toutes les demi-heures, devant l'hôtel.",
+    "tgt": "每半個鐘一班，喺酒店門口。",
+    "ro": "Mui5 bun3 go3 zung1 jat1 baan1, hai2 zau2 dim3 mun4 hau2.",
+    "lit": "chaque · demi · [classificateur] · heure · un · [classificateur] · être à · hôtel · entrée"
+   },
+   {
+    "fr": "Puis-je laisser ma valise jusqu'à midi ?",
+    "tgt": "我個篋可唔可以放到十二點？",
+    "ro": "Ngo5 go3 gip1 ho2 m4 ho2 ji5 fong3 dou3 sap6 ji6 dim2?",
+    "lit": "je · [classificateur] · valise · pouvoir · ne pas · pouvoir · poser · jusqu'à · dix · deux · heure"
+   },
+   {
+    "fr": "Au revoir, à la prochaine fois !",
+    "tgt": "拜拜，下次見！",
+    "ro": "Baai1 baai3, haa6 ci3 gin3!",
+    "lit": "au revoir · prochain · fois · voir"
+   }
+  ]
+ },
+ "0-1-19": {
+  "module": "En voyage",
+  "title": "Fin du module : un bilan de voyage",
+  "grammaire_de_la_lecon": "« Sin1... zoi3... » : d'abord... ensuite...",
+  "phrases": [
+   {
+    "fr": "D'abord le Peak, ensuite le Star Ferry.",
+    "tgt": "先去山頂，再坐天星小輪。",
+    "ro": "Sin1 heoi3 saan1 deng2, zoi3 co5 tin1 sing1 siu2 leon4.",
+    "lit": "d'abord · aller · sommet · ensuite · s'asseoir · ciel · étoile · petit · bateau"
+   },
+   {
+    "fr": "Maintenant, je sais demander mon chemin en cantonais.",
+    "tgt": "而家我識用廣東話問路。",
+    "ro": "Ji4 gaa1 ngo5 sik1 jung6 gwong2 dung1 waa2 man6 lou6.",
+    "lit": "maintenant · je · savoir · utiliser · cantonais · demander · chemin"
+   },
+   {
+    "fr": "Je sais aussi demander un prix.",
+    "tgt": "我都識問價錢。",
+    "ro": "Ngo5 dou1 sik1 man6 gaa3 cin4.",
+    "lit": "je · aussi · savoir · demander · prix"
+   },
+   {
+    "fr": "D'abord on écoute, ensuite on parle.",
+    "tgt": "先聽，再講。",
+    "ro": "Sin1 teng1, zoi3 gong2.",
+    "lit": "d'abord · écouter · ensuite · parler"
+   },
+   {
+    "fr": "Le cantonais a six tons, ce n'est pas facile.",
+    "tgt": "廣東話有六個聲調，好難。",
+    "ro": "Gwong2 dung1 waa2 jau5 luk6 go3 sing1 diu6, hou2 naan4.",
+    "lit": "cantonais · avoir · six · [classificateur] · ton · très · difficile"
+   },
+   {
+    "fr": "Mais je progresse un peu chaque jour.",
+    "tgt": "不過我每日都進步。",
+    "ro": "Bat1 gwo3 ngo5 mui5 jat6 dou1 zeon3 bou6.",
+    "lit": "mais · je · chaque · jour · tous · progresser"
+   },
+   {
+    "fr": "Prendre le tram, c'est facile maintenant.",
+    "tgt": "而家搭電車好容易。",
+    "ro": "Ji4 gaa1 daap3 din6 ce1 hou2 jung4 ji6.",
+    "lit": "maintenant · prendre · tram · très · facile"
+   },
+   {
+    "fr": "Je reviendrai à Hong Kong, c'est sûr.",
+    "tgt": "我一定會再嚟香港。",
+    "ro": "Ngo5 jat1 ding6 wui5 zoi3 lai4 hoeng1 gong2.",
+    "lit": "je · certainement · [futur] · de nouveau · venir · Hong Kong"
+   },
+   {
+    "fr": "D'abord je me repose, ensuite je révise.",
+    "tgt": "我先休息，再溫習。",
+    "ro": "Ngo5 sin1 jau1 sik1, zoi3 wan1 zaap6.",
+    "lit": "je · d'abord · se reposer · ensuite · réviser"
+   },
+   {
+    "fr": "Bravo, la partie sur le voyage est terminée !",
+    "tgt": "好嘢，旅行呢課完成喇！",
+    "ro": "Hou2 je5, leoi5 hang4 ni1 fo3 jyun4 sing4 laa3!",
+    "lit": "bien · chose · voyage · ce · leçon · terminer · [particule finale]"
+   }
+  ]
+ },
+ "0-2-0": {
+  "module": "Conversation sociale",
+  "title": "Un nouveau voisin à Sha Tin",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Bonjour, vous êtes le nouveau voisin ?",
+    "tgt": "早晨，你係新嚟嘅鄰居呀？",
+    "ro": "Zou2 san4, nei5 hai6 san1 lei4 ge3 leon4 geoi1 aa3?",
+    "lit": "bonjour (matin) · tu · être · nouvellement · venir · [possessif] · voisin · [question]"
+   },
+   {
+    "fr": "Oui, j'habite au dixième étage.",
+    "tgt": "係呀，我住十樓。",
+    "ro": "Hai6 aa3, ngo5 zyu6 sap6 lau2.",
+    "lit": "oui · [particule finale] · je · habiter · dix · étage"
+   },
+   {
+    "fr": "Moi, j'habite juste à côté.",
+    "tgt": "我住喺隔籬。",
+    "ro": "Ngo5 zyu6 hai2 gaak3 lei4.",
+    "lit": "je · habiter · à · à côté"
+   },
+   {
+    "fr": "Sha Tin, c'est un quartier très calme.",
+    "tgt": "沙田好靜。",
+    "ro": "Saa1 tin4 hou2 zing6.",
+    "lit": "Sha Tin · très · calme"
+   },
+   {
+    "fr": "Oui, et en plus il y a beaucoup d'arbres.",
+    "tgt": "係呀，仲有好多樹。",
+    "ro": "Hai6 aa3, zung6 jau5 hou2 do1 syu6.",
+    "lit": "oui · [particule finale] · en plus · avoir · beaucoup · arbre"
+   },
+   {
+    "fr": "Le marché est juste en bas de l'immeuble.",
+    "tgt": "街市喺樓下。",
+    "ro": "Gaai1 si5 hai2 lau4 haa6.",
+    "lit": "marché · être à · bas de l'immeuble"
+   },
+   {
+    "fr": "Le gardien de l'immeuble est très gentil.",
+    "tgt": "管理員好好人。",
+    "ro": "Gun2 lei5 jyun4 hou2 hou2 jan4.",
+    "lit": "gardien · très · bon · personne"
+   },
+   {
+    "fr": "Si tu as besoin de quoi que ce soit, viens me voir.",
+    "tgt": "有乜嘢需要，就嚟搵我啦。",
+    "ro": "Jau5 mat1 je5 seoi1 jiu3, zau6 lei4 wan2 ngo5 laa1.",
+    "lit": "avoir · quoi · besoin · alors · venir · chercher · moi · [particule finale]"
+   },
+   {
+    "fr": "Merci, vous êtes vraiment très gentil.",
+    "tgt": "多謝，你真係好好人。",
+    "ro": "Do1 ze6, nei5 zan1 hai6 hou2 hou2 jan4.",
+    "lit": "merci · tu · vraiment · très · bon · personne"
+   },
+   {
+    "fr": "À plus tard, voisin !",
+    "tgt": "遲啲見呀，鄰居！",
+    "ro": "Ci4 di1 gin3 aa3, leon4 geoi1!",
+    "lit": "plus tard · voir · [particule finale] · voisin"
+   }
+  ]
+ },
+ "0-2-1": {
+  "module": "Conversation sociale",
+  "title": "Se présenter",
+  "grammaire_de_la_lecon": "Se présenter : « giu3 », « sing3 », et le nom de famille en premier",
+  "phrases": [
+   {
+    "fr": "Comment vous appelez-vous ?",
+    "tgt": "你叫乜嘢名呀？",
+    "ro": "Nei5 giu3 mat1 je5 meng2 aa3?",
+    "lit": "tu · s'appeler · quoi · nom · [question]"
+   },
+   {
+    "fr": "Je m'appelle Sophie.",
+    "tgt": "我叫蘇菲。",
+    "ro": "Ngo5 giu3 Sou1 fei1.",
+    "lit": "je · s'appeler · Sophie"
+   },
+   {
+    "fr": "Et votre nom de famille, c'est quoi ?",
+    "tgt": "你姓乜嘢呀？",
+    "ro": "Nei5 sing3 mat1 je5 aa3?",
+    "lit": "tu · avoir pour nom de famille · quoi · [question]"
+   },
+   {
+    "fr": "Mon nom de famille est Chan, je m'appelle Chan Ka-ming.",
+    "tgt": "我姓陳，叫陳家明。",
+    "ro": "Ngo5 sing3 Can4, giu3 Can4 Gaa1 ming4.",
+    "lit": "je · avoir pour nom de famille · Chan · s'appeler · Chan · Ka-ming"
+   },
+   {
+    "fr": "Appelez-moi simplement Ka-ming.",
+    "tgt": "叫我家明得啦。",
+    "ro": "Giu3 ngo5 Gaa1 ming4 dak1 laa1.",
+    "lit": "appeler · moi · Ka-ming · ça va · [particule finale]"
+   },
+   {
+    "fr": "Madame Wong, ravie de faire votre connaissance.",
+    "tgt": "黃太，好高興識你。",
+    "ro": "Wong4 taai2, hou2 gou1 hing3 sik1 nei5.",
+    "lit": "Wong · madame · très · content · connaître · toi"
+   },
+   {
+    "fr": "Je suis française, de Paris.",
+    "tgt": "我係法國人，喺巴黎嚟。",
+    "ro": "Ngo5 hai6 Faat3 gwok3 jan4, hai2 Baa1 lai4 lei4.",
+    "lit": "je · être · France · pays · personne · de · Paris · venir"
+   },
+   {
+    "fr": "Vous êtes Monsieur Lee, du douzième étage ?",
+    "tgt": "你係十二樓嘅李生？",
+    "ro": "Nei5 hai6 sap6 ji6 lau2 ge3 Lei5 saang1?",
+    "lit": "tu · être · dix · deux · étage · [possessif] · Lee · monsieur"
+   },
+   {
+    "fr": "Non, mon nom, c'est Cheung.",
+    "tgt": "唔係，我姓張。",
+    "ro": "M4 hai6, ngo5 sing3 Zoeng1.",
+    "lit": "ne pas · être · je · avoir pour nom de famille · Cheung"
+   },
+   {
+    "fr": "Comment s'appelle votre fils ?",
+    "tgt": "你個仔叫乜嘢名呀？",
+    "ro": "Nei5 go3 zai2 giu3 mat1 je5 meng2 aa3?",
+    "lit": "toi · [classificateur] · fils · s'appeler · quoi · nom · [question]"
+   }
+  ]
+ },
+ "0-2-2": {
+  "module": "Conversation sociale",
+  "title": "Parler de son travail",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Vous faites quoi comme travail ?",
+    "tgt": "你做乜嘢工呀？",
+    "ro": "Nei5 zou6 mat1 je5 gung1 aa3?",
+    "lit": "tu · faire · quoi · travail · [question]"
+   },
+   {
+    "fr": "Moi, je suis prof de français.",
+    "tgt": "我係法文老師。",
+    "ro": "Ngo5 hai6 faat3 man2 lou5 si1.",
+    "lit": "je · être · français · professeur"
+   },
+   {
+    "fr": "Je travaille à l'hôpital de Sha Tin.",
+    "tgt": "我喺沙田醫院返工。",
+    "ro": "Ngo5 hai2 Saa1 tin4 ji1 jyun2 faan1 gung1.",
+    "lit": "je · à · Sha Tin · hôpital · aller travailler"
+   },
+   {
+    "fr": "Moi, je suis infirmière.",
+    "tgt": "我係護士。",
+    "ro": "Ngo5 hai6 wu6 si6.",
+    "lit": "je · être · infirmière"
+   },
+   {
+    "fr": "Mon mari, il est cuisinier.",
+    "tgt": "我老公係廚師。",
+    "ro": "Ngo5 lou5 gung1 hai6 cyu4 si1.",
+    "lit": "moi · mari · être · cuisinier"
+   },
+   {
+    "fr": "Il travaille dans un restaurant à Tai Po.",
+    "tgt": "佢喺大埔一間餐廳做嘢。",
+    "ro": "Keoi5 hai2 Daai6 bou3 jat1 gaan1 caan1 teng1 zou6 je5.",
+    "lit": "il · à · Tai Po · un · [classificateur] · restaurant · faire · chose (travailler)"
+   },
+   {
+    "fr": "C'est dur, ton travail ?",
+    "tgt": "你份工辛唔辛苦呀？",
+    "ro": "Nei5 fan6 gung1 san1 m4 san1 fu2 aa3?",
+    "lit": "toi · [classificateur] · travail · du- · ne pas · dur · [question]"
+   },
+   {
+    "fr": "Un peu, mais c'est très intéressant.",
+    "tgt": "有少少，不過好有趣。",
+    "ro": "Jau5 siu2 siu2, bat1 gwo3 hou2 jau5 ceoi3.",
+    "lit": "avoir · un peu · mais · très · intéressant"
+   },
+   {
+    "fr": "Moi, je suis encore étudiant.",
+    "tgt": "我仲係學生。",
+    "ro": "Ngo5 zung6 hai6 hok6 saang1.",
+    "lit": "je · encore · être · étudiant"
+   },
+   {
+    "fr": "J'étudie à l'université, à Sha Tin.",
+    "tgt": "我喺沙田讀大學。",
+    "ro": "Ngo5 hai2 Saa1 tin4 duk6 daai6 hok6.",
+    "lit": "je · à · Sha Tin · étudier · université"
+   }
+  ]
+ },
+ "0-2-3": {
+  "module": "Conversation sociale",
+  "title": "Les loisirs",
+  "grammaire_de_la_lecon": "« Zung1 ji3 » : aimer",
+  "phrases": [
+   {
+    "fr": "Qu'est-ce que tu aimes faire le week-end ?",
+    "tgt": "你週末鍾意做乜嘢呀？",
+    "ro": "Nei5 zau1 mut6 zung1 ji3 zou6 mat1 je5 aa3?",
+    "lit": "tu · week-end · aimer · faire · quoi · [question]"
+   },
+   {
+    "fr": "J'aime faire de la randonnée.",
+    "tgt": "我鍾意行山。",
+    "ro": "Ngo5 zung1 ji3 haang4 saan1.",
+    "lit": "je · aimer · marcher · montagne"
+   },
+   {
+    "fr": "Moi, j'aime bien lire.",
+    "tgt": "我鍾意睇書。",
+    "ro": "Ngo5 zung1 ji3 tai2 syu1.",
+    "lit": "je · aimer · regarder · livre"
+   },
+   {
+    "fr": "Tu aimes faire du vélo ?",
+    "tgt": "你鍾唔鍾意踩單車呀？",
+    "ro": "Nei5 zung1 m4 zung1 ji3 caai2 daan1 ce1 aa3?",
+    "lit": "tu · ai- · ne pas · aimer · pédaler · vélo · [question]"
+   },
+   {
+    "fr": "Oui, j'en fais souvent le long de la rivière Shing Mun.",
+    "tgt": "鍾意，我成日沿住城門河踩。",
+    "ro": "Zung1 ji3, ngo5 seng4 jat6 jyun4 zyu6 Sing4 mun4 ho4 caai2.",
+    "lit": "aimer · je · souvent · le long de · Shing Mun · rivière · pédaler"
+   },
+   {
+    "fr": "Je n'aime pas trop faire du sport.",
+    "tgt": "我唔係幾鍾意做運動。",
+    "ro": "Ngo5 m4 hai6 gei2 zung1 ji3 zou6 wan6 dung6.",
+    "lit": "je · ne pas · être · assez · aimer · faire · sport"
+   },
+   {
+    "fr": "J'adore chanter.",
+    "tgt": "我好鍾意唱歌。",
+    "ro": "Ngo5 hou2 zung1 ji3 coeng3 go1.",
+    "lit": "je · très · aimer · chanter · chanson"
+   },
+   {
+    "fr": "Ma petite sœur aime prendre des photos.",
+    "tgt": "我細妹鍾意影相。",
+    "ro": "Ngo5 sai3 mui2 zung1 ji3 jing2 soeng2.",
+    "lit": "moi · petite sœur · aimer · prendre · photo"
+   },
+   {
+    "fr": "Nous aimons tous les deux le cinéma.",
+    "tgt": "我哋兩個都鍾意睇戲。",
+    "ro": "Ngo5 dei6 loeng5 go3 dou1 zung1 ji3 tai2 hei3.",
+    "lit": "nous · deux · [classificateur] · tous · aimer · regarder · film"
+   },
+   {
+    "fr": "Tu aimes les chansons cantonaises ?",
+    "tgt": "你鍾唔鍾意聽廣東歌呀？",
+    "ro": "Nei5 zung1 m4 zung1 ji3 teng1 gwong2 dung1 go1 aa3?",
+    "lit": "tu · ai- · ne pas · aimer · écouter · cantonais · chanson · [question]"
+   }
+  ]
+ },
+ "0-2-4": {
+  "module": "Conversation sociale",
+  "title": "Inviter un voisin à dîner",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Samedi soir, tu es libre ?",
+    "tgt": "你星期六晚得唔得閒呀？",
+    "ro": "Nei5 sing1 kei4 luk6 maan5 dak1 m4 dak1 haan4 aa3?",
+    "lit": "tu · samedi · soir · li- · ne pas · libre · [question]"
+   },
+   {
+    "fr": "Je voudrais t'inviter à manger à la maison.",
+    "tgt": "我想請你嚟我屋企食飯。",
+    "ro": "Ngo5 soeng2 ceng2 nei5 lei4 ngo5 uk1 kei2 sik6 faan6.",
+    "lit": "je · vouloir · inviter · toi · venir · moi · maison · manger · repas"
+   },
+   {
+    "fr": "Volontiers, merci beaucoup !",
+    "tgt": "好呀，多謝晒！",
+    "ro": "Hou2 aa3, do1 ze6 saai3!",
+    "lit": "bien · [particule finale] · merci · tout"
+   },
+   {
+    "fr": "J'habite dans la tour numéro trois.",
+    "tgt": "我住第三座。",
+    "ro": "Ngo5 zyu6 dai6 saam1 zo6.",
+    "lit": "je · habiter · numéro · trois · tour"
+   },
+   {
+    "fr": "Il faut que j'apporte quelque chose ?",
+    "tgt": "使唔使帶嘢嚟呀？",
+    "ro": "Sai2 m4 sai2 daai3 je5 lei4 aa3?",
+    "lit": "fal- · ne pas · falloir · apporter · chose · venir · [question]"
+   },
+   {
+    "fr": "Non, ce n'est pas la peine.",
+    "tgt": "唔使喇。",
+    "ro": "M4 sai2 laa3.",
+    "lit": "ne pas · falloir · [particule finale]"
+   },
+   {
+    "fr": "Ma femme va préparer une soupe maison.",
+    "tgt": "我老婆會煲湯。",
+    "ro": "Ngo5 lou5 po4 wui5 bou1 tong1.",
+    "lit": "moi · épouse · [futur] · mijoter · soupe"
+   },
+   {
+    "fr": "Est-ce que tu manges épicé ?",
+    "tgt": "你食唔食辣㗎？",
+    "ro": "Nei5 sik6 m4 sik6 laat6 gaa3?",
+    "lit": "tu · manger · ne pas · manger · épicé · [question]"
+   },
+   {
+    "fr": "J'en mange un tout petit peu.",
+    "tgt": "食少少啦。",
+    "ro": "Sik6 siu2 siu2 laa1.",
+    "lit": "manger · un peu · [particule finale]"
+   },
+   {
+    "fr": "Alors à samedi, sept heures du soir !",
+    "tgt": "噉星期六夜晚七點見！",
+    "ro": "Gam2 sing1 kei4 luk6 je6 maan5 cat1 dim2 gin3!",
+    "lit": "alors · samedi · soir · sept · heure · voir"
+   }
+  ]
+ },
+ "0-2-5": {
+  "module": "Conversation sociale",
+  "title": "Parler de sa famille",
+  "grammaire_de_la_lecon": "La famille : « baa4 baa1 », « maa4 maa1 », « go4 go1 », « ze4 ze1 »",
+  "phrases": [
+   {
+    "fr": "Voici mon papa, et là, c'est ma maman.",
+    "tgt": "呢個係我爸爸，嗰個係我媽媽。",
+    "ro": "Ni1 go3 hai6 ngo5 baa4 baa1, go2 go3 hai6 ngo5 maa4 maa1.",
+    "lit": "ce · [classificateur] · être · moi · papa · celui-là · [classificateur] · être · moi · maman"
+   },
+   {
+    "fr": "Est-ce que tu as des frères ou des sœurs ?",
+    "tgt": "你有冇兄弟姊妹呀？",
+    "ro": "Nei5 jau5 mou5 hing1 dai6 zi2 mui6 aa3?",
+    "lit": "tu · avoir · ne pas avoir · frères · sœurs · [question]"
+   },
+   {
+    "fr": "J'ai un grand frère et une grande sœur.",
+    "tgt": "我有個哥哥，仲有個姐姐。",
+    "ro": "Ngo5 jau5 go3 go4 go1, zung6 jau5 go3 ze4 ze1.",
+    "lit": "je · avoir · [classificateur] · grand frère · en plus · avoir · [classificateur] · grande sœur"
+   },
+   {
+    "fr": "Mon grand frère habite en France.",
+    "tgt": "我哥哥住喺法國。",
+    "ro": "Ngo5 go4 go1 zyu6 hai2 Faat3 gwok3.",
+    "lit": "moi · grand frère · habiter · à · France"
+   },
+   {
+    "fr": "Ma grande sœur est aussi à Hong Kong.",
+    "tgt": "我姐姐都喺香港。",
+    "ro": "Ngo5 ze4 ze1 dou1 hai2 Hoeng1 gong2.",
+    "lit": "moi · grande sœur · aussi · être à · Hong Kong"
+   },
+   {
+    "fr": "Ta maman habite où ?",
+    "tgt": "你媽媽住喺邊度呀？",
+    "ro": "Nei5 maa4 maa1 zyu6 hai2 bin1 dou6 aa3?",
+    "lit": "toi · maman · habiter · à · où · [question]"
+   },
+   {
+    "fr": "Elle habite à Tai Po, près du marché.",
+    "tgt": "佢住喺大埔，近街市。",
+    "ro": "Keoi5 zyu6 hai2 Daai6 bou3, kan5 gaai1 si5.",
+    "lit": "elle · habiter · à · Tai Po · près · marché"
+   },
+   {
+    "fr": "Mon papa est déjà à la retraite.",
+    "tgt": "我爸爸已經退休。",
+    "ro": "Ngo5 baa4 baa1 ji5 ging1 teoi3 jau1.",
+    "lit": "moi · papa · déjà · retraité"
+   },
+   {
+    "fr": "Ta grande sœur a des enfants ?",
+    "tgt": "你姐姐有冇仔女呀？",
+    "ro": "Nei5 ze4 ze1 jau5 mou5 zai2 neoi2 aa3?",
+    "lit": "toi · grande sœur · avoir · ne pas avoir · fils · fille · [question]"
+   },
+   {
+    "fr": "Oui, deux petits garçons très mignons.",
+    "tgt": "有，兩個仔，好得意。",
+    "ro": "Jau5, loeng5 go3 zai2, hou2 dak1 ji3.",
+    "lit": "avoir · deux · [classificateur] · fils · très · mignon"
+   }
+  ]
+ },
+ "0-2-6": {
+  "module": "Conversation sociale",
+  "title": "Parler du temps qu'il fait",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Il fait chaud aujourd'hui, pas vrai ?",
+    "tgt": "今日好熱呀，係咪？",
+    "ro": "Gam1 jat6 hou2 jit6 aa3, hai6 mai6?",
+    "lit": "aujourd'hui · très · chaud · [particule finale] · être · ne pas être"
+   },
+   {
+    "fr": "Oui, il fait trente-trois degrés.",
+    "tgt": "係呀，有三十三度。",
+    "ro": "Hai6 aa3, jau5 saam1 sap6 saam1 dou6.",
+    "lit": "oui · [particule finale] · avoir · trois · dix · trois · degré"
+   },
+   {
+    "fr": "Cet après-midi, il va pleuvoir.",
+    "tgt": "今日晏晝會落雨。",
+    "ro": "Gam1 jat6 aan3 zau3 wui5 lok6 jyu5.",
+    "lit": "aujourd'hui · après-midi · [futur] · tomber · pluie"
+   },
+   {
+    "fr": "J'aime bien l'hiver à Hong Kong.",
+    "tgt": "我鍾意香港嘅冬天。",
+    "ro": "Ngo5 zung1 ji3 Hoeng1 gong2 ge3 dung1 tin1.",
+    "lit": "je · aimer · Hong Kong · [possessif] · hiver"
+   },
+   {
+    "fr": "En hiver, il ne fait pas très froid.",
+    "tgt": "冬天唔係好凍。",
+    "ro": "Dung1 tin1 m4 hai6 hou2 dung3.",
+    "lit": "hiver · ne pas · être · très · froid"
+   },
+   {
+    "fr": "Il y a beaucoup de vent ce soir.",
+    "tgt": "今晚好大風。",
+    "ro": "Gam1 maan5 hou2 daai6 fung1.",
+    "lit": "ce soir · très · grand · vent"
+   },
+   {
+    "fr": "Il y aura un typhon demain ?",
+    "tgt": "聽日會唔會打風呀？",
+    "ro": "Ting1 jat6 wui5 m4 wui5 daa2 fung1 aa3?",
+    "lit": "demain · [futur] · ne pas · [futur] · frapper · vent · [question]"
+   },
+   {
+    "fr": "Je pense que non.",
+    "tgt": "我諗唔會。",
+    "ro": "Ngo5 nam2 m4 wui5.",
+    "lit": "je · penser · ne pas · [futur]"
+   },
+   {
+    "fr": "Il fait très beau, allons au parc !",
+    "tgt": "天氣好好，去公園啦！",
+    "ro": "Tin1 hei3 hou2 hou2, heoi3 gung1 jyun2 laa1!",
+    "lit": "temps · très · bon · aller · parc · [particule finale]"
+   },
+   {
+    "fr": "En été, c'est très humide.",
+    "tgt": "夏天好潮濕。",
+    "ro": "Haa6 tin1 hou2 ciu4 sap1.",
+    "lit": "été · très · humide"
+   }
+  ]
+ },
+ "0-2-7": {
+  "module": "Conversation sociale",
+  "title": "Demander l'âge",
+  "grammaire_de_la_lecon": "« Gei2 do1 seoi3 » : demander et dire l'âge",
+  "phrases": [
+   {
+    "fr": "Ton fils a quel âge ?",
+    "tgt": "你個仔幾多歲呀？",
+    "ro": "Nei5 go3 zai2 gei2 do1 seoi3 aa3?",
+    "lit": "toi · [classificateur] · fils · combien · an · [question]"
+   },
+   {
+    "fr": "Il a cinq ans.",
+    "tgt": "佢五歲。",
+    "ro": "Keoi5 ng5 seoi3.",
+    "lit": "il · cinq · an"
+   },
+   {
+    "fr": "Et ta fille ?",
+    "tgt": "你個女呢？",
+    "ro": "Nei5 go3 neoi2 ne1?",
+    "lit": "toi · [classificateur] · fille · [question : et ?]"
+   },
+   {
+    "fr": "Elle a huit ans cette année.",
+    "tgt": "佢今年八歲。",
+    "ro": "Keoi5 gam1 nin4 baat3 seoi3.",
+    "lit": "elle · cette année · huit · an"
+   },
+   {
+    "fr": "Est-ce que je peux vous demander votre âge ?",
+    "tgt": "我可唔可以問你幾多歲呀？",
+    "ro": "Ngo5 ho2 m4 ho2 ji5 man6 nei5 gei2 do1 seoi3 aa3?",
+    "lit": "je · pou- · ne pas · pouvoir · demander · toi · combien · an · [question]"
+   },
+   {
+    "fr": "Moi, j'ai trente-deux ans.",
+    "tgt": "我三十二歲。",
+    "ro": "Ngo5 saam1 sap6 ji6 seoi3.",
+    "lit": "je · trois · dix · deux · an"
+   },
+   {
+    "fr": "Tu as l'air très jeune !",
+    "tgt": "你睇落好後生！",
+    "ro": "Nei5 tai2 lok6 hou2 hau6 saang1!",
+    "lit": "tu · regarder · descendre (avoir l'air) · très · jeune"
+   },
+   {
+    "fr": "Ma grand-mère a quatre-vingt-dix ans.",
+    "tgt": "我婆婆九十歲。",
+    "ro": "Ngo5 po4 po2 gau2 sap6 seoi3.",
+    "lit": "moi · grand-mère · neuf · dix · an"
+   },
+   {
+    "fr": "Elle est encore en très bonne santé.",
+    "tgt": "佢仲好健康。",
+    "ro": "Keoi5 zung6 hou2 gin6 hong1.",
+    "lit": "elle · encore · très · en bonne santé"
+   },
+   {
+    "fr": "Et votre chien, il a quel âge ?",
+    "tgt": "你隻狗幾多歲呀？",
+    "ro": "Nei5 zek3 gau2 gei2 do1 seoi3 aa3?",
+    "lit": "toi · [classificateur] · chien · combien · an · [question]"
+   }
+  ]
+ },
+ "0-2-8": {
+  "module": "Conversation sociale",
+  "title": "Proposer un dim sum",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Et si on allait au dim sum dimanche ?",
+    "tgt": "星期日去飲茶好唔好呀？",
+    "ro": "Sing1 kei4 jat6 heoi3 jam2 caa4 hou2 m4 hou2 aa3?",
+    "lit": "dimanche · aller · boire · thé · bien · ne pas · bien · [question]"
+   },
+   {
+    "fr": "Bonne idée, à quelle heure ?",
+    "tgt": "好主意，幾點呀？",
+    "ro": "Hou2 zyu2 ji3, gei2 dim2 aa3?",
+    "lit": "bon · idée · combien · heure · [question]"
+   },
+   {
+    "fr": "Dix heures, ça te va ?",
+    "tgt": "十點得唔得呀？",
+    "ro": "Sap6 dim2 dak1 m4 dak1 aa3?",
+    "lit": "dix · heure · ça va · ne pas · ça va · [question]"
+   },
+   {
+    "fr": "Le dimanche, il y a beaucoup de monde.",
+    "tgt": "星期日好多人。",
+    "ro": "Sing1 kei4 jat6 hou2 do1 jan4.",
+    "lit": "dimanche · très · beaucoup · personne"
+   },
+   {
+    "fr": "Il faut arriver tôt pour avoir une place.",
+    "tgt": "要早啲去先有位。",
+    "ro": "Jiu3 zou2 di1 heoi3 sin1 jau5 wai2.",
+    "lit": "falloir · tôt · un peu · aller · seulement alors · avoir · place"
+   },
+   {
+    "fr": "On se retrouve devant la gare de Tai Po Market ?",
+    "tgt": "喺大埔墟站門口等，好唔好？",
+    "ro": "Hai2 Daai6 bou3 heoi1 zaam6 mun4 hau2 dang2, hou2 m4 hou2?",
+    "lit": "à · Tai Po Market · gare · entrée · attendre · bien · ne pas · bien"
+   },
+   {
+    "fr": "Je connais un très bon restaurant près d'ici.",
+    "tgt": "我知道附近有間好好嘅酒樓。",
+    "ro": "Ngo5 zi1 dou3 fu6 gan6 jau5 gaan1 hou2 hou2 ge3 zau2 lau4.",
+    "lit": "je · savoir · près d'ici · avoir · [classificateur] · très · bon · [possessif] · restaurant"
+   },
+   {
+    "fr": "On sera combien de personnes ?",
+    "tgt": "我哋有幾多個人呀？",
+    "ro": "Ngo5 dei6 jau5 gei2 do1 go3 jan4 aa3?",
+    "lit": "nous · avoir · combien · [classificateur] · personne · [question]"
+   },
+   {
+    "fr": "Nous serons quatre.",
+    "tgt": "我哋有四個人。",
+    "ro": "Ngo5 dei6 jau5 sei3 go3 jan4.",
+    "lit": "nous · avoir · quatre · [classificateur] · personne"
+   },
+   {
+    "fr": "Alors j'appelle pour réserver une table.",
+    "tgt": "噉我打電話訂位啦。",
+    "ro": "Gam2 ngo5 daa2 din6 waa2 deng6 wai2 laa1.",
+    "lit": "alors · je · frapper · téléphone · réserver · place · [particule finale]"
+   }
+  ]
+ },
+ "0-2-9": {
+  "module": "Conversation sociale",
+  "title": "Dim sum entre amis à Tai Po",
+  "grammaire_de_la_lecon": "« Tung4 » : avec, et",
+  "phrases": [
+   {
+    "fr": "Je viens avec ma femme.",
+    "tgt": "我同我老婆一齊嚟。",
+    "ro": "Ngo5 tung4 ngo5 lou5 po4 jat1 cai4 lei4.",
+    "lit": "je · avec · moi · épouse · ensemble · venir"
+   },
+   {
+    "fr": "Je prends le dim sum avec les voisins.",
+    "tgt": "我同鄰居飲茶。",
+    "ro": "Ngo5 tung4 leon4 geoi1 jam2 caa4.",
+    "lit": "je · avec · voisin · boire · thé"
+   },
+   {
+    "fr": "Un thé au jasmin et un thé au chrysanthème, s'il vous plaît.",
+    "tgt": "一壺香片同一壺菊花，唔該。",
+    "ro": "Jat1 wu4 hoeng1 pin2 tung4 jat1 wu4 guk1 faa1, m4 goi1.",
+    "lit": "un · théière · jasmin · et · un · théière · chrysanthème · s'il vous plaît"
+   },
+   {
+    "fr": "Des raviolis aux crevettes et des siu mai.",
+    "tgt": "蝦餃同燒賣。",
+    "ro": "Haa1 gaau2 tung4 siu1 maai2.",
+    "lit": "ravioli aux crevettes · et · siu mai"
+   },
+   {
+    "fr": "J'adore les pattes de poulet et les rouleaux de riz.",
+    "tgt": "我好鍾意鳳爪同腸粉。",
+    "ro": "Ngo5 hou2 zung1 ji3 fung6 zaau2 tung4 ceong4 fan2.",
+    "lit": "je · très · aimer · phénix · griffe (pattes de poulet) · et · rouleau de riz"
+   },
+   {
+    "fr": "Tu veux venir avec nous ?",
+    "tgt": "你想唔想同我哋一齊去呀？",
+    "ro": "Nei5 soeng2 m4 soeng2 tung4 ngo5 dei6 jat1 cai4 heoi3 aa3?",
+    "lit": "tu · vou- · ne pas · vouloir · avec · nous · ensemble · aller · [question]"
+   },
+   {
+    "fr": "Mon fils et ma fille arrivent plus tard.",
+    "tgt": "我個仔同個女遲啲到。",
+    "ro": "Ngo5 go3 zai2 tung4 go3 neoi2 ci4 di1 dou3.",
+    "lit": "moi · [classificateur] · fils · et · [classificateur] · fille · plus tard · arriver"
+   },
+   {
+    "fr": "Je te sers du thé.",
+    "tgt": "我同你斟茶。",
+    "ro": "Ngo5 tung4 nei5 zam1 caa4.",
+    "lit": "je · pour · toi · verser · thé"
+   },
+   {
+    "fr": "Merci, je peux me servir moi-même.",
+    "tgt": "多謝，我自己嚟得啦。",
+    "ro": "Do1 ze6, ngo5 zi6 gei2 lei4 dak1 laa1.",
+    "lit": "merci · je · soi-même · venir · pouvoir · [particule finale]"
+   },
+   {
+    "fr": "Je suis très contente de manger avec vous.",
+    "tgt": "好開心同你哋食飯。",
+    "ro": "Hou2 hoi1 sam1 tung4 nei5 dei6 sik6 faan6.",
+    "lit": "très · content · avec · vous · manger · repas"
+   }
+  ]
+ },
+ "0-2-10": {
+  "module": "Conversation sociale",
+  "title": "Commander et payer au restaurant",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "S'il vous plaît, une feuille de commande.",
+    "tgt": "唔該，攞張點心紙。",
+    "ro": "M4 goi1, lo2 zoeng1 dim2 sam1 zi2.",
+    "lit": "s'il vous plaît · prendre · [classificateur] · dim sum · papier"
+   },
+   {
+    "fr": "Tu veux manger quoi, toi ?",
+    "tgt": "你想食乜嘢呀？",
+    "ro": "Nei5 soeng2 sik6 mat1 je5 aa3?",
+    "lit": "tu · vouloir · manger · quoi · [question]"
+   },
+   {
+    "fr": "Un panier de brioches au porc laqué.",
+    "tgt": "一籠叉燒包。",
+    "ro": "Jat1 lung4 caa1 siu1 baau1.",
+    "lit": "un · panier · porc laqué · brioche"
+   },
+   {
+    "fr": "Pourriez-vous rajouter de l'eau dans la théière ?",
+    "tgt": "唔該加水。",
+    "ro": "M4 goi1 gaa1 seoi2.",
+    "lit": "s'il vous plaît · ajouter · eau"
+   },
+   {
+    "fr": "Ces tartelettes aux œufs ont l'air délicieuses.",
+    "tgt": "啲蛋撻好似好好食。",
+    "ro": "Di1 daan6 taat1 hou2 ci5 hou2 hou2 sik6.",
+    "lit": "les · tartelette aux œufs · sembler · très · bon à manger"
+   },
+   {
+    "fr": "Elles sont encore chaudes.",
+    "tgt": "仲係熱嘅。",
+    "ro": "Zung6 hai6 jit6 ge3.",
+    "lit": "encore · être · chaud · [particule finale]"
+   },
+   {
+    "fr": "Je n'en peux plus, je suis rassasié.",
+    "tgt": "我好飽。",
+    "ro": "Ngo5 hou2 baau2.",
+    "lit": "je · très · rassasié"
+   },
+   {
+    "fr": "On peut payer, s'il vous plaît ?",
+    "tgt": "唔該埋單。",
+    "ro": "M4 goi1 maai4 daan1.",
+    "lit": "s'il vous plaît · régler · addition"
+   },
+   {
+    "fr": "Aujourd'hui, c'est moi qui invite.",
+    "tgt": "今日我請。",
+    "ro": "Gam1 jat6 ngo5 ceng2.",
+    "lit": "aujourd'hui · je · inviter"
+   },
+   {
+    "fr": "En tout, ça fait trois cent vingt dollars de Hong Kong.",
+    "tgt": "一共三百二十蚊。",
+    "ro": "Jat1 gung6 saam1 baak3 ji6 sap6 man1.",
+    "lit": "en tout · trois · cent · deux · dix · dollar"
+   }
+  ]
+ },
+ "0-2-11": {
+  "module": "Conversation sociale",
+  "title": "Expliquer ses goûts",
+  "grammaire_de_la_lecon": "« Jan1 wai6... so2 ji5... » : parce que... donc...",
+  "phrases": [
+   {
+    "fr": "Comme c'est très bon ici, je viens souvent.",
+    "tgt": "因為呢度好好食，所以我成日嚟。",
+    "ro": "Jan1 wai6 ni1 dou6 hou2 hou2 sik6, so2 ji5 ngo5 seng4 jat6 lei4.",
+    "lit": "parce que · ici · très · bon à manger · donc · je · souvent · venir"
+   },
+   {
+    "fr": "Pourquoi tu aimes Tai Po ?",
+    "tgt": "你點解鍾意大埔呀？",
+    "ro": "Nei5 dim2 gaai2 zung1 ji3 Daai6 bou3 aa3?",
+    "lit": "tu · pourquoi · aimer · Tai Po · [question]"
+   },
+   {
+    "fr": "Parce que c'est calme, et qu'il y a la mer.",
+    "tgt": "因為好靜，又有海。",
+    "ro": "Jan1 wai6 hou2 zing6, jau6 jau5 hoi2.",
+    "lit": "parce que · très · calme · aussi · avoir · mer"
+   },
+   {
+    "fr": "Je n'aime pas le café, donc je bois du thé au lait.",
+    "tgt": "因為我唔鍾意咖啡，所以我飲奶茶。",
+    "ro": "Jan1 wai6 ngo5 m4 zung1 ji3 gaa3 fe1, so2 ji5 ngo5 jam2 naai5 caa4.",
+    "lit": "parce que · je · ne pas · aimer · café · donc · je · boire · thé au lait"
+   },
+   {
+    "fr": "Il fait chaud, alors je prends une boisson fraîche.",
+    "tgt": "因為好熱，所以我飲凍嘢。",
+    "ro": "Jan1 wai6 hou2 jit6, so2 ji5 ngo5 jam2 dung3 je5.",
+    "lit": "parce que · très · chaud · donc · je · boire · froid · chose"
+   },
+   {
+    "fr": "Je n'aime pas trop les choses sucrées.",
+    "tgt": "我唔係好鍾意食甜嘢。",
+    "ro": "Ngo5 m4 hai6 hou2 zung1 ji3 sik6 tim4 je5.",
+    "lit": "je · ne pas · être · très · aimer · manger · sucré · chose"
+   },
+   {
+    "fr": "Mon mari adore l'oie rôtie.",
+    "tgt": "我老公好鍾意食燒鵝。",
+    "ro": "Ngo5 lou5 gung1 hou2 zung1 ji3 sik6 siu1 ngo2.",
+    "lit": "moi · mari · très · aimer · manger · rôti · oie"
+   },
+   {
+    "fr": "J'habite à Hong Kong, alors j'apprends le cantonais.",
+    "tgt": "因為我住喺香港，所以我學廣東話。",
+    "ro": "Jan1 wai6 ngo5 zyu6 hai2 Hoeng1 gong2, so2 ji5 ngo5 hok6 Gwong2 dung1 waa2.",
+    "lit": "parce que · je · habiter · à · Hong Kong · donc · je · apprendre · cantonais"
+   },
+   {
+    "fr": "Pourquoi tu ne manges pas de viande ?",
+    "tgt": "你點解唔食肉呀？",
+    "ro": "Nei5 dim2 gaai2 m4 sik6 juk6 aa3?",
+    "lit": "tu · pourquoi · ne pas · manger · viande · [question]"
+   },
+   {
+    "fr": "Parce que j'aime surtout les légumes.",
+    "tgt": "因為我鍾意食菜。",
+    "ro": "Jan1 wai6 ngo5 zung1 ji3 sik6 coi3.",
+    "lit": "parce que · je · aimer · manger · légume"
+   }
+  ]
+ },
+ "0-2-12": {
+  "module": "Conversation sociale",
+  "title": "Une promenade au parc de Tai Po",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "On va se promener au parc ?",
+    "tgt": "我哋去公園散步，好唔好？",
+    "ro": "Ngo5 dei6 heoi3 gung1 jyun2 saan3 bou6, hou2 m4 hou2?",
+    "lit": "nous · aller · parc · se promener · bien · ne pas · bien"
+   },
+   {
+    "fr": "Le parc du front de mer de Tai Po est immense.",
+    "tgt": "大埔海濱公園好大。",
+    "ro": "Daai6 bou3 hoi2 ban1 gung1 jyun2 hou2 daai6.",
+    "lit": "Tai Po · front de mer · parc · très · grand"
+   },
+   {
+    "fr": "Au milieu du parc, il y a une tour.",
+    "tgt": "公園中間有座塔。",
+    "ro": "Gung1 jyun2 zung1 gaan1 jau5 zo6 taap3.",
+    "lit": "parc · milieu · avoir · [classificateur] · tour"
+   },
+   {
+    "fr": "De là-haut, on voit la mer.",
+    "tgt": "喺上面睇到個海。",
+    "ro": "Hai2 soeng6 min6 tai2 dou2 go3 hoi2.",
+    "lit": "à · en haut · regarder · réussir (voir) · [classificateur] · mer"
+   },
+   {
+    "fr": "Beaucoup de gens font voler des cerfs-volants.",
+    "tgt": "好多人放風箏。",
+    "ro": "Hou2 do1 jan4 fong3 fung1 zang1.",
+    "lit": "beaucoup · personne · lâcher · cerf-volant"
+   },
+   {
+    "fr": "Les enfants jouent sur la pelouse.",
+    "tgt": "啲細路喺草地度玩。",
+    "ro": "Di1 sai3 lou6 hai2 cou2 dei6 dou6 waan2.",
+    "lit": "les · enfant · à · pelouse · là · jouer"
+   },
+   {
+    "fr": "Attention, il y a des vélos !",
+    "tgt": "小心，有單車呀！",
+    "ro": "Siu2 sam1, jau5 daan1 ce1 aa3!",
+    "lit": "attention · avoir · vélo · [particule finale]"
+   },
+   {
+    "fr": "Asseyons-nous là.",
+    "tgt": "我哋坐喺度啦。",
+    "ro": "Ngo5 dei6 co5 hai2 dou6 laa1.",
+    "lit": "nous · s'asseoir · ici · [particule finale]"
+   },
+   {
+    "fr": "L'air est vraiment frais, ici.",
+    "tgt": "呢度啲空氣好清新。",
+    "ro": "Ni1 dou6 di1 hung1 hei3 hou2 cing1 san1.",
+    "lit": "ici · [classificateur pluriel] · air · très · frais"
+   },
+   {
+    "fr": "Je viens courir ici le matin.",
+    "tgt": "我朝早嚟呢度跑步。",
+    "ro": "Ngo5 ziu1 zou2 lei4 ni1 dou6 paau2 bou6.",
+    "lit": "je · matin · venir · ici · courir"
+   }
+  ]
+ },
+ "0-2-13": {
+  "module": "Conversation sociale",
+  "title": "Une pause au parc",
+  "grammaire_de_la_lecon": "« Jat1 ha5 » : faire un petit peu, « tai2 jat1 ha5 »",
+  "phrases": [
+   {
+    "fr": "Attends-moi une seconde.",
+    "tgt": "等我一下。",
+    "ro": "Dang2 ngo5 jat1 ha5.",
+    "lit": "attendre · moi · un · coup"
+   },
+   {
+    "fr": "Regarde un peu, ces fleurs sont très belles.",
+    "tgt": "你睇一下，啲花好靚。",
+    "ro": "Nei5 tai2 jat1 ha5, di1 faa1 hou2 leng3.",
+    "lit": "tu · regarder · un · coup · les · fleur · très · beau"
+   },
+   {
+    "fr": "On se repose un moment ?",
+    "tgt": "我哋休息一下，好唔好？",
+    "ro": "Ngo5 dei6 jau1 sik1 jat1 ha5, hou2 m4 hou2?",
+    "lit": "nous · se reposer · un · coup · bien · ne pas · bien"
+   },
+   {
+    "fr": "Tu veux goûter un peu ?",
+    "tgt": "你想唔想試一下？",
+    "ro": "Nei5 soeng2 m4 soeng2 si3 jat1 ha5?",
+    "lit": "tu · vou- · ne pas · vouloir · essayer · un · coup"
+   },
+   {
+    "fr": "Je regarde d'abord le plan un instant.",
+    "tgt": "我睇一下地圖先。",
+    "ro": "Ngo5 tai2 jat1 ha5 dei6 tou4 sin1.",
+    "lit": "je · regarder · un · coup · plan · d'abord"
+   },
+   {
+    "fr": "Tu peux me prendre en photo ?",
+    "tgt": "你可唔可以幫我影張相呀？",
+    "ro": "Nei5 ho2 m4 ho2 ji5 bong1 ngo5 jing2 zoeng1 soeng2 aa3?",
+    "lit": "tu · pou- · ne pas · pouvoir · aider · moi · prendre · [classificateur] · photo · [question]"
+   },
+   {
+    "fr": "Souris un peu !",
+    "tgt": "笑一下啦！",
+    "ro": "Siu3 jat1 ha5 laa1!",
+    "lit": "sourire · un · coup · [particule finale]"
+   },
+   {
+    "fr": "Je vais demander, une seconde.",
+    "tgt": "我去問一下。",
+    "ro": "Ngo5 heoi3 man6 jat1 ha5.",
+    "lit": "je · aller · demander · un · coup"
+   },
+   {
+    "fr": "Pardon, où sont les toilettes du parc ?",
+    "tgt": "唔該，公園嘅洗手間喺邊度呀？",
+    "ro": "M4 goi1, gung1 jyun2 ge3 sai2 sau2 gaan1 hai2 bin1 dou6 aa3?",
+    "lit": "pardon · parc · [possessif] · toilettes · être à · où · [question]"
+   },
+   {
+    "fr": "Laisse-moi réfléchir un instant.",
+    "tgt": "我諗一下先。",
+    "ro": "Ngo5 nam2 jat1 ha5 sin1.",
+    "lit": "je · réfléchir · un · coup · d'abord"
+   }
+  ]
+ },
+ "0-2-14": {
+  "module": "Conversation sociale",
+  "title": "Parler de sport",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Est-ce que tu fais du sport ?",
+    "tgt": "你有冇做運動呀？",
+    "ro": "Nei5 jau5 mou5 zou6 wan6 dung6 aa3?",
+    "lit": "tu · avoir · ne pas avoir · faire · sport · [question]"
+   },
+   {
+    "fr": "Je nage deux fois par semaine.",
+    "tgt": "我一個星期游兩次水。",
+    "ro": "Ngo5 jat1 go3 sing1 kei4 jau4 loeng5 ci3 seoi2.",
+    "lit": "je · un · [classificateur] · semaine · nager · deux · fois · eau"
+   },
+   {
+    "fr": "La piscine de Sha Tin est très grande.",
+    "tgt": "沙田游泳池好大。",
+    "ro": "Saa1 tin4 jau4 wing6 ci4 hou2 daai6.",
+    "lit": "Sha Tin · piscine · très · grand"
+   },
+   {
+    "fr": "Mon grand frère joue au basket.",
+    "tgt": "我哥哥打籃球。",
+    "ro": "Ngo5 go4 go1 daa2 laam4 kau4.",
+    "lit": "moi · grand frère · frapper (jouer) · basket"
+   },
+   {
+    "fr": "Le matin, on fait du tai-chi au parc.",
+    "tgt": "我哋朝早喺公園打太極。",
+    "ro": "Ngo5 dei6 ziu1 zou2 hai2 gung1 jyun2 daa2 taai3 gik6.",
+    "lit": "nous · matin · à · parc · frapper (pratiquer) · tai-chi"
+   },
+   {
+    "fr": "Tu cours très vite !",
+    "tgt": "你跑得好快！",
+    "ro": "Nei5 paau2 dak1 hou2 faai3!",
+    "lit": "tu · courir · [complément] · très · vite"
+   },
+   {
+    "fr": "Tu veux faire de la randonnée à Ma On Shan ?",
+    "tgt": "你想唔想去馬鞍山行山呀？",
+    "ro": "Nei5 soeng2 m4 soeng2 heoi3 Maa5 on1 saan1 haang4 saan1 aa3?",
+    "lit": "tu · vou- · ne pas · vouloir · aller · Ma On Shan · marcher · montagne · [question]"
+   },
+   {
+    "fr": "C'est un peu fatigant, mais c'est très beau.",
+    "tgt": "有啲攰，不過好靚。",
+    "ro": "Jau5 di1 gui6, bat1 gwo3 hou2 leng3.",
+    "lit": "avoir · un peu · fatigué · mais · très · beau"
+   },
+   {
+    "fr": "Je joue au badminton avec mes collègues.",
+    "tgt": "我同同事打羽毛球。",
+    "ro": "Ngo5 tung4 tung4 si6 daa2 jyu5 mou4 kau4.",
+    "lit": "je · avec · collègue · frapper (jouer) · badminton"
+   },
+   {
+    "fr": "Faire du sport, c'est très bon pour la santé.",
+    "tgt": "做運動對身體好好。",
+    "ro": "Zou6 wan6 dung6 deoi3 san1 tai2 hou2 hou2.",
+    "lit": "faire · sport · pour · corps · très · bon"
+   }
+  ]
+ },
+ "0-2-15": {
+  "module": "Conversation sociale",
+  "title": "Un cadeau d'anniversaire",
+  "grammaire_de_la_lecon": "« Bei2 » : donner, et pour quelqu'un",
+  "phrases": [
+   {
+    "fr": "Demain, c'est l'anniversaire de ma voisine.",
+    "tgt": "聽日係我鄰居生日。",
+    "ro": "Ting1 jat6 hai6 ngo5 leon4 geoi1 saang1 jat6.",
+    "lit": "demain · être · moi · voisin · anniversaire"
+   },
+   {
+    "fr": "Je veux lui offrir un cadeau.",
+    "tgt": "我想送份禮物畀佢。",
+    "ro": "Ngo5 soeng2 sung3 fan6 lai5 mat6 bei2 keoi5.",
+    "lit": "je · vouloir · offrir · [classificateur] · cadeau · à · elle"
+   },
+   {
+    "fr": "Passe-moi un sac, s'il te plaît.",
+    "tgt": "畀個袋我吖。",
+    "ro": "Bei2 go3 doi2 ngo5 aa1.",
+    "lit": "donner · [classificateur] · sac · moi · [particule finale]"
+   },
+   {
+    "fr": "Ce gâteau, c'est pour toi.",
+    "tgt": "呢個蛋糕係畀你嘅。",
+    "ro": "Ni1 go3 daan6 gou1 hai6 bei2 nei5 ge3.",
+    "lit": "ce · [classificateur] · gâteau · être · pour · toi · [particule finale]"
+   },
+   {
+    "fr": "Merci, tu es trop gentille !",
+    "tgt": "多謝，你太好人喇！",
+    "ro": "Do1 ze6, nei5 taai3 hou2 jan4 laa3!",
+    "lit": "merci · tu · trop · bon · personne · [particule finale]"
+   },
+   {
+    "fr": "Je t'achète un thé au lait.",
+    "tgt": "我買杯奶茶畀你。",
+    "ro": "Ngo5 maai5 bui1 naai5 caa4 bei2 nei5.",
+    "lit": "je · acheter · [classificateur] · thé au lait · donner · toi"
+   },
+   {
+    "fr": "Donne un peu d'eau au chien.",
+    "tgt": "畀啲水隻狗飲。",
+    "ro": "Bei2 di1 seoi2 zek3 gau2 jam2.",
+    "lit": "donner · un peu · eau · [classificateur] · chien · boire"
+   },
+   {
+    "fr": "Ce pull, c'est ma maman qui me l'a donné.",
+    "tgt": "呢件冷衫係我媽媽畀我嘅。",
+    "ro": "Ni1 gin6 laang1 saam1 hai6 ngo5 maa4 maa1 bei2 ngo5 ge3.",
+    "lit": "ce · [classificateur] · pull · être · moi · maman · donner · moi · [particule finale]"
+   },
+   {
+    "fr": "Tu peux me donner ton numéro de téléphone ?",
+    "tgt": "你可唔可以畀你個電話號碼我呀？",
+    "ro": "Nei5 ho2 m4 ho2 ji5 bei2 nei5 go3 din6 waa2 hou6 maa5 ngo5 aa3?",
+    "lit": "tu · pou- · ne pas · pouvoir · donner · toi · [classificateur] · téléphone · numéro · moi · [question]"
+   },
+   {
+    "fr": "Offrons des fleurs à ta maman.",
+    "tgt": "我哋送啲花畀你媽媽啦。",
+    "ro": "Ngo5 dei6 sung3 di1 faa1 bei2 nei5 maa4 maa1 laa1.",
+    "lit": "nous · offrir · des · fleur · à · toi · maman · [particule finale]"
+   }
+  ]
+ },
+ "0-2-16": {
+  "module": "Conversation sociale",
+  "title": "Faire un compliment",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Elle est très jolie, ta robe.",
+    "tgt": "你條裙好靚。",
+    "ro": "Nei5 tiu4 kwan4 hou2 leng3.",
+    "lit": "toi · [classificateur] · robe · très · joli"
+   },
+   {
+    "fr": "Tu parles très bien cantonais !",
+    "tgt": "你講廣東話講得好好！",
+    "ro": "Nei5 gong2 Gwong2 dung1 waa2 gong2 dak1 hou2 hou2!",
+    "lit": "tu · parler · cantonais · parler · [complément] · très · bien"
+   },
+   {
+    "fr": "Mais non, j'ai encore beaucoup à apprendre.",
+    "tgt": "邊度呀，我仲要學好多。",
+    "ro": "Bin1 dou6 aa3, ngo5 zung6 jiu3 hok6 hou2 do1.",
+    "lit": "où (mais non) · [particule finale] · je · encore · devoir · apprendre · beaucoup"
+   },
+   {
+    "fr": "Ton appartement est très beau.",
+    "tgt": "你間屋好靚。",
+    "ro": "Nei5 gaan1 uk1 hou2 leng3.",
+    "lit": "toi · [classificateur] · maison · très · beau"
+   },
+   {
+    "fr": "Ta cuisine est délicieuse.",
+    "tgt": "你煮飯好好食。",
+    "ro": "Nei5 zyu2 faan6 hou2 hou2 sik6.",
+    "lit": "tu · cuisiner · repas · très · bon à manger"
+   },
+   {
+    "fr": "Ton fils est très poli.",
+    "tgt": "你個仔好有禮貌。",
+    "ro": "Nei5 go3 zai2 hou2 jau5 lai5 maau6.",
+    "lit": "toi · [classificateur] · fils · très · avoir · politesse"
+   },
+   {
+    "fr": "Merci pour ton compliment.",
+    "tgt": "多謝你讚我。",
+    "ro": "Do1 ze6 nei5 zaan3 ngo5.",
+    "lit": "merci · toi · complimenter · moi"
+   },
+   {
+    "fr": "Ta nouvelle coiffure te va très bien.",
+    "tgt": "你個新髮型好襯你。",
+    "ro": "Nei5 go3 san1 faat3 jing4 hou2 can3 nei5.",
+    "lit": "toi · [classificateur] · nouveau · coiffure · très · aller bien · toi"
+   },
+   {
+    "fr": "Les photos que tu prends sont magnifiques.",
+    "tgt": "你影嘅相好靚。",
+    "ro": "Nei5 jing2 ge3 soeng2 hou2 leng3.",
+    "lit": "tu · prendre · [possessif] · photo · très · beau"
+   },
+   {
+    "fr": "Tu es vraiment doué !",
+    "tgt": "你真係好叻！",
+    "ro": "Nei5 zan1 hai6 hou2 lek1!",
+    "lit": "tu · vraiment · très · doué"
+   }
+  ]
+ },
+ "0-2-17": {
+  "module": "Conversation sociale",
+  "title": "Donner son avis",
+  "grammaire_de_la_lecon": "« Taai3 », « hou2 », « gei2 » : trop, très, assez",
+  "phrases": [
+   {
+    "fr": "Ce restaurant est trop cher.",
+    "tgt": "呢間餐廳太貴喇。",
+    "ro": "Ni1 gaan1 caan1 teng1 taai3 gwai3 laa3.",
+    "lit": "ce · [classificateur] · restaurant · trop · cher · [particule finale]"
+   },
+   {
+    "fr": "Le film est plutôt bien.",
+    "tgt": "套戲幾好睇。",
+    "ro": "Tou3 hei3 gei2 hou2 tai2.",
+    "lit": "[classificateur] · film · assez · bon à regarder"
+   },
+   {
+    "fr": "Le thé au lait d'ici est très bon.",
+    "tgt": "呢度嘅奶茶好好飲。",
+    "ro": "Ni1 dou6 ge3 naai5 caa4 hou2 hou2 jam2.",
+    "lit": "ici · [possessif] · thé au lait · très · bon à boire"
+   },
+   {
+    "fr": "Pour moi, c'est trop sucré.",
+    "tgt": "對我嚟講太甜喇。",
+    "ro": "Deoi3 ngo5 lei4 gong2 taai3 tim4 laa3.",
+    "lit": "pour · moi · venir · dire · trop · sucré · [particule finale]"
+   },
+   {
+    "fr": "Il fait assez frais ce soir.",
+    "tgt": "今晚幾涼。",
+    "ro": "Gam1 maan5 gei2 loeng4.",
+    "lit": "ce soir · assez · frais"
+   },
+   {
+    "fr": "Ce sentier est trop long.",
+    "tgt": "條山路太長喇。",
+    "ro": "Tiu4 saan1 lou6 taai3 coeng4 laa3.",
+    "lit": "[classificateur] · montagne · chemin · trop · long · [particule finale]"
+   },
+   {
+    "fr": "Je trouve Sha Tin assez pratique.",
+    "tgt": "我覺得沙田幾方便。",
+    "ro": "Ngo5 gok3 dak1 Saa1 tin4 gei2 fong1 bin6.",
+    "lit": "je · trouver · Sha Tin · assez · pratique"
+   },
+   {
+    "fr": "Il y a trop de monde aujourd'hui.",
+    "tgt": "今日太多人喇。",
+    "ro": "Gam1 jat6 taai3 do1 jan4 laa3.",
+    "lit": "aujourd'hui · trop · beaucoup · personne · [particule finale]"
+   },
+   {
+    "fr": "Le cantonais, ce n'est pas trop difficile.",
+    "tgt": "廣東話唔係太難。",
+    "ro": "Gwong2 dung1 waa2 m4 hai6 taai3 naan4.",
+    "lit": "cantonais · ne pas · être · trop · difficile"
+   },
+   {
+    "fr": "Ton idée est très bonne.",
+    "tgt": "你個主意好好。",
+    "ro": "Nei5 go3 zyu2 ji3 hou2 hou2.",
+    "lit": "toi · [classificateur] · idée · très · bon"
+   }
+  ]
+ },
+ "0-2-18": {
+  "module": "Conversation sociale",
+  "title": "Se dire au revoir",
+  "grammaire_de_la_lecon": null,
+  "phrases": [
+   {
+    "fr": "Il est tard, je dois rentrer à la maison.",
+    "tgt": "好夜喇，我要返屋企喇。",
+    "ro": "Hou2 je6 laa3, ngo5 jiu3 faan1 uk1 kei2 laa3.",
+    "lit": "très · tard · [particule finale] · je · devoir · rentrer · maison · [particule finale]"
+   },
+   {
+    "fr": "Merci, j'ai passé une très bonne journée.",
+    "tgt": "多謝你，今日好開心。",
+    "ro": "Do1 ze6 nei5, gam1 jat6 hou2 hoi1 sam1.",
+    "lit": "merci · toi · aujourd'hui · très · content"
+   },
+   {
+    "fr": "Fais attention en rentrant !",
+    "tgt": "小心啲返去呀！",
+    "ro": "Siu2 sam1 di1 faan1 heoi3 aa3!",
+    "lit": "prudent · un peu · rentrer · aller · [particule finale]"
+   },
+   {
+    "fr": "On se revoit quand ?",
+    "tgt": "我哋幾時再見呀？",
+    "ro": "Ngo5 dei6 gei2 si4 zoi3 gin3 aa3?",
+    "lit": "nous · quand · encore · voir · [question]"
+   },
+   {
+    "fr": "La semaine prochaine, au marché ?",
+    "tgt": "下個星期，喺街市？",
+    "ro": "Haa6 go3 sing1 kei4, hai2 gaai1 si5?",
+    "lit": "prochain · [classificateur] · semaine · à · marché"
+   },
+   {
+    "fr": "N'oublie pas de m'appeler.",
+    "tgt": "記得打電話畀我。",
+    "ro": "Gei3 dak1 daa2 din6 waa2 bei2 ngo5.",
+    "lit": "se souvenir · frapper · téléphone · à · moi"
+   },
+   {
+    "fr": "Salue ton papa et ta maman de ma part.",
+    "tgt": "幫我問候你爸爸媽媽。",
+    "ro": "Bong1 ngo5 man6 hau6 nei5 baa4 baa1 maa4 maa1.",
+    "lit": "aider · moi · saluer · toi · papa · maman"
+   },
+   {
+    "fr": "Je te raccompagne jusqu'à la gare.",
+    "tgt": "我送你去車站。",
+    "ro": "Ngo5 sung3 nei5 heoi3 ce1 zaam6.",
+    "lit": "je · accompagner · toi · aller · gare"
+   },
+   {
+    "fr": "Pas la peine, c'est tout près.",
+    "tgt": "唔使喇，好近啫。",
+    "ro": "M4 sai2 laa3, hou2 kan5 ze1.",
+    "lit": "ne pas · falloir · [particule finale] · très · près · [particule finale : seulement]"
+   },
+   {
+    "fr": "Bonne nuit, et à bientôt !",
+    "tgt": "早唞，遲啲見！",
+    "ro": "Zou2 tau2, ci4 di1 gin3!",
+    "lit": "tôt · se reposer (bonne nuit) · plus tard · voir"
+   }
+  ]
+ },
+ "0-2-19": {
+  "module": "Conversation sociale",
+  "title": "Fin du module : un bilan",
+  "grammaire_de_la_lecon": "« Wo3 », « lo1 », « ge3 » : nuancer à la fin de la phrase",
+  "phrases": [
+   {
+    "fr": "Je sais me présenter en cantonais.",
+    "tgt": "我識用廣東話介紹自己。",
+    "ro": "Ngo5 sik1 jung6 Gwong2 dung1 waa2 gaai3 siu6 zi6 gei2.",
+    "lit": "je · savoir · utiliser · cantonais · présenter · soi-même"
+   },
+   {
+    "fr": "Je sais présenter ma famille.",
+    "tgt": "我識介紹我屋企人。",
+    "ro": "Ngo5 sik1 gaai3 siu6 ngo5 uk1 kei2 jan4.",
+    "lit": "je · savoir · présenter · moi · maison · personne (famille)"
+   },
+   {
+    "fr": "Tu parles plutôt bien, dis donc !",
+    "tgt": "你講得幾好喎！",
+    "ro": "Nei5 gong2 dak1 gei2 hou2 wo3!",
+    "lit": "tu · parler · [complément] · assez · bien · [particule finale : surprise]"
+   },
+   {
+    "fr": "Le cantonais a six tons, c'est normal que ce soit un peu dur.",
+    "tgt": "廣東話有六個聲調，難啲係正常嘅。",
+    "ro": "Gwong2 dung1 waa2 jau5 luk6 go3 sing1 diu6, naan4 di1 hai6 zing3 soeng4 ge3.",
+    "lit": "cantonais · avoir · six · [classificateur] · ton · difficile · un peu · être · normal · [particule finale : affirmation]"
+   },
+   {
+    "fr": "Il suffit de pratiquer chaque jour, tout simplement.",
+    "tgt": "每日練習囉。",
+    "ro": "Mui5 jat6 lin6 zaap6 lo1.",
+    "lit": "chaque · jour · pratiquer · [particule finale : évidence]"
+   },
+   {
+    "fr": "Prendre le dim sum avec les voisins, c'est vraiment sympa.",
+    "tgt": "同鄰居飲茶好開心嘅。",
+    "ro": "Tung4 leon4 geoi1 jam2 caa4 hou2 hoi1 sam1 ge3.",
+    "lit": "avec · voisin · boire · thé · très · content · [particule finale : affirmation]"
+   },
+   {
+    "fr": "Eh bien, tu connais beaucoup de cantonais !",
+    "tgt": "你識好多廣東話喎！",
+    "ro": "Nei5 sik1 hou2 do1 Gwong2 dung1 waa2 wo3!",
+    "lit": "tu · connaître · beaucoup · cantonais · [particule finale : surprise]"
+   },
+   {
+    "fr": "Bien sûr, je m'entraîne souvent avec mes voisins !",
+    "tgt": "梗係囉，我成日同鄰居練習。",
+    "ro": "Gang2 hai6 lo1, ngo5 seng4 jat6 tung4 leon4 geoi1 lin6 zaap6.",
+    "lit": "évidemment · être · [particule finale : évidence] · je · souvent · avec · voisin · pratiquer"
+   },
+   {
+    "fr": "Ça viendra petit à petit.",
+    "tgt": "慢慢嚟囉。",
+    "ro": "Maan6 maan2 lei4 lo1.",
+    "lit": "lentement · venir · [particule finale : évidence]"
+   },
+   {
+    "fr": "Félicitations, le premier niveau est terminé !",
+    "tgt": "恭喜你，第一級完成喇！",
+    "ro": "Gung1 hei2 nei5, dai6 jat1 kap1 jyun4 sing4 laa3!",
+    "lit": "féliciter · toi · numéro · un · niveau · terminer · [particule finale]"
+   }
+  ]
+ }
+}

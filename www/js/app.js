@@ -553,9 +553,26 @@ function estimateSpeechMs(text, lang, rate){
   const cps = baseCharsPerSec * (rate || 1);
   return Math.round(Math.max(500, (text.length / cps) * 1000) + 250);
 }
+/* ---------- VOIX FRANÇAISE : corrections de prononciation (toutes les langues) ----------
+   La voix française de l'iPhone lit le texte tel quel. Toutes les corrections « pour
+   l'oreille » sont ici, et s'appliquent automatiquement à toutes les langues.
+   Règles (voir aussi le document « voix française » du projet) :
+   1. Liaisons non faites : « mot à mot » → « mo ta mo ».
+   2. Mot dit seul (mot à mot) finissant par « e » : le son est coupé → on écrit « eu »
+      (je → jeu, ce → ceux, être → êtreu, parce que → parce queu). Pas pour é, ue, ée.
+   Pour ajouter une règle : l'ajouter dans FR_VOICE (texte courant) ou frIsolated (mot seul). */
+const FR_VOICE = [
+  [/mots? à mots?/gi, 'mo ta mo'],
+];
+function frVoice(text){ for(const [re, rep] of FR_VOICE) text = text.replace(re, rep); return text; }
+function frIsolated(word){
+  return word.replace(/\s*\(=[^)]*\)/g, '').trim()
+    .replace(/(^|[\s'-])ce$/i, '$1ceux')
+    .replace(/(^|[\s'-])(qu|[bcdfghjklmnpqrstvwxzç])e$/i, '$1$2eu')
+    .replace(/([bcdfghjklmnpqrstvwxzç])e$/i, '$1eu');
+}
 function S(text, lang, rate, label, ringColor, ringIcon, pulse, frDisplay, enDisplay, extra){
-  // La voix française de l'iPhone ne fait pas la liaison : on écrit « mo ta mo » pour l'oreille.
-  if(lang === 'fr') text = text.replace(/mots? à mots?/gi, 'mo ta mo');
+  if(lang === 'fr') text = frVoice(text);
   return Object.assign({
     type:'speak', text, lang, rate: rate||1, label,
     ringColor, ringIcon, pulse: !!pulse,
@@ -927,12 +944,7 @@ function buildLessonSegments(mi, li){
       segs.push(S('Traduction mot à mot.', 'fr', 1, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
       segs.push(W(350, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
       words.forEach(w=>{
-        // Un mot dit seul qui finit par « e » sonne coupé avec la voix de l'iPhone :
-        // on écrit « eu » pour faire entendre le son (je → jeu, être → êtreu, parce que → parce queu).
-        const frw = w[0].replace(/\s*\(=[^)]*\)/g, '').trim()
-          .replace(/(^|[\s'-])ce$/i, '$1ceux')
-          .replace(/(^|[\s'-])(qu|[bcdfghjklmnpqrstvwxzç])e$/i, '$1$2eu')
-          .replace(/([bcdfghjklmnpqrstvwxzç])e$/i, '$1eu');
+        const frw = frIsolated(w[0]); // voix française : mot dit seul (voir frIsolated)
         segs.push(S(frw, 'fr', 1, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
         segs.push(W(GAP, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
       });
