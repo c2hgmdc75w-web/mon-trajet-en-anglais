@@ -916,6 +916,11 @@ function buildLessonSegments(mi, li){
   // 1. Intro
   segs.push(S(`Leçon ${li+1}. ${lesson.title}.`, 'fr', 1, 'Introduction', CTX, 'headphones', false, lesson.title, ''));
   segs.push(W(400, 'Introduction', CTX, 'headphones', false, lesson.title, ''));
+  if(lesson.debut){
+    // Leçon débutant (essai chinois) : on annonce un objectif atteignable, le reste est un défi.
+    segs.push(S(`Ton objectif aujourd'hui : reconnaître ces dix phrases quand tu les entends ${L.inLang}. Et pour ceux qui veulent, un défi à la fin.`, 'fr', 1, 'Objectif', CTX, 'headphones', false, lesson.title, ''));
+    segs.push(W(600, 'Objectif', CTX, 'headphones', false, lesson.title, ''));
+  }
 
   // 2. Aperçu de toutes les phrases françaises
   segs.push(S("Voici les phrases que l'on va apprendre.", 'fr', 1, 'Aperçu des phrases', CTX, 'headphones', false, '', ''));
@@ -1003,6 +1008,8 @@ function buildLessonSegments(mi, li){
     });
   }
 
+  if(lesson.debut) segs.push(...debutTestSegments(lesson));
+  else {
   // 4. Test 1 : ordre mélangé — pause de réflexion, puis réponse x2
   //    (+3s entre les deux répétitions de la réponse, comme demandé)
   segs.push(S("Tu vas tenter de répéter les phrases. Je te les donne dans un ordre différent.", 'fr', 1, 'Phase de test 1', SPK, 'repeat', false, '', ''));
@@ -1032,6 +1039,7 @@ function buildLessonSegments(mi, li){
     segs.push(S(p.tgt, 'tgt', 0.85, 'Test 2 — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
     segs.push(W(400 + 2000, 'Test 2 — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex)); // même durée que l'écart entre les 2 répétitions
   });
+  }
 
   // 6. Clôture
   // La phrase de fin dit ce qui se passe VRAIMENT ensuite : leçon suivante, fin
@@ -1043,7 +1051,8 @@ function buildLessonSegments(mi, li){
   const closingText = (li === 0 && mi === 0 && currentLevel === 0)
     ? "Bravo, tu as fini la première leçon. Ce n'est jamais facile de commencer une nouvelle langue, mais tu verras, au fil des leçons, ça va être de plus en plus facile. Il suffit de pratiquer régulièrement."
     : (sameModuleNext && !extrasFollow ? "Ça y est, tu as fini la leçon. On va passer à la leçon suivante." : "Ça y est, tu as fini la leçon.");
-  segs.push(S(closingText, 'fr', 1, 'Leçon terminée', SPK, 'check', false, '', ''));
+  const finalText = lesson.debut ? `Bravo. Tu reconnais maintenant dix phrases ${L.inLang}. ` + closingText.replace(/^Bravo, /, '').replace(/^./, c=>c.toUpperCase()) : closingText;
+  segs.push(S(finalText, 'fr', 1, 'Leçon terminée', SPK, 'check', false, '', ''));
   segs.push(W(3000, 'Leçon terminée', SPK, 'check', false, '', ''));
 
   // 7. Le point de grammaire n'est PAS collé ici : c'est un élément distinct, joué
@@ -1056,6 +1065,50 @@ function buildLessonSegments(mi, li){
 }
 // Mot de la fin quand l'enchaînement s'arrête après cette leçon (niveau courant) :
 // fin des leçons gratuites, ou fin de tout le parcours.
+// Tests des leçons « débutant » (essai chinois) : 1. reconnaître (langue → français, objectif
+// principal), 2. mots clés (un mot par phrase), 3. défi : 5 phrases courtes en entier.
+function debutTestSegments(lesson){
+  const CTX = 'var(--context)', TGT = 'var(--target)', SPK = 'var(--speak)', out = [];
+  const n = lesson.phrases.length;
+  // 1. Reconnaissance
+  out.push(S(`Le test. Je dis la phrase ${L.inLang}, tu la dis en français.`, 'fr', 1, 'Reconnaissance', SPK, 'repeat', false, '', ''));
+  out.push(W(700, 'Reconnaissance', SPK, 'repeat', false, '', ''));
+  shuffleArray(lesson.phrases).forEach((p,i)=>{
+    const ex = {idx:i, total:n};
+    out.push(S(p.tgt, 'tgt', 0.85, 'Reconnaissance — écoute', TGT, 'speaker', false, '···', p.tgt, ex));
+    out.push(W(3000, 'Reconnaissance — en français ?', SPK, 'repeat', true, '···', p.tgt, ex));
+    out.push(S(p.fr, 'fr', 1, 'Reconnaissance — réponse', CTX, 'headphones', false, p.fr, p.tgt, ex));
+    out.push(W(400, 'Reconnaissance — réponse', CTX, 'headphones', false, p.fr, p.tgt, ex));
+    out.push(S(p.tgt, 'tgt', 0.85, 'Reconnaissance — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
+    out.push(W(900, 'Reconnaissance — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
+  });
+  // 2. Mots clés
+  out.push(S('Maintenant, je te demande un seul mot.', 'fr', 1, 'Mots clés', SPK, 'repeat', false, '', ''));
+  out.push(W(600, 'Mots clés', SPK, 'repeat', false, '', ''));
+  lesson.debut.keys.forEach(([fr, tg], i)=>{
+    const ex = {idx:i, total:n};
+    out.push(S(`Comment dit-on ${fr} ?`, 'fr', 1, 'Mots clés', CTX, 'headphones', false, fr, '···', ex));
+    out.push(W(3000, 'Mots clés — à toi', SPK, 'repeat', true, fr, '···', ex));
+    out.push(S(tgtIsolated(tg), 'tgt', 0.85, 'Mots clés — réponse', TGT, 'speaker', false, fr, tg, ex));
+    out.push(W(600, 'Mots clés — réponse', TGT, 'speaker', false, fr, tg, ex));
+    out.push(S(tgtIsolated(tg), 'tgt', 0.85, 'Mots clés — réponse', TGT, 'speaker', false, fr, tg, ex));
+    out.push(W(900, 'Mots clés — réponse', TGT, 'speaker', false, fr, tg, ex));
+  });
+  // 3. Défi
+  out.push(S("Le défi : dis la phrase entière. Si tu n'y arrives pas, c'est normal, c'est le travail des prochaines leçons.", 'fr', 1, 'Défi', SPK, 'repeat', false, '', ''));
+  out.push(W(700, 'Défi', SPK, 'repeat', false, '', ''));
+  lesson.debut.defi.forEach((k, i)=>{
+    const p = lesson.phrases[k], ex = {idx:i, total: lesson.debut.defi.length};
+    const repeatMs = Math.max(2200, (p.ro||p.tgt).length*80) + 3000;
+    out.push(S(p.fr, 'fr', 1, `Défi — traduis ${L.inLang}`, CTX, 'headphones', false, p.fr, '···', ex));
+    out.push(W(repeatMs, 'Défi — à toi', SPK, 'repeat', true, p.fr, '···', ex));
+    out.push(S(p.tgt, 'tgt', 0.85, 'Défi — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
+    out.push(W(2400, 'Défi — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
+    out.push(S(p.tgt, 'tgt', 0.85, 'Défi — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
+    out.push(W(1500, 'Défi — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
+  });
+  return out;
+}
 function byeSegments(mi, li){
   const segs = [], SPK = 'var(--speak)';
   const next = nextPos(currentLevel, mi, li);

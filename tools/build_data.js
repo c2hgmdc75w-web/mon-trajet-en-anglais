@@ -154,6 +154,31 @@ function build(code, levels) {
     }));
     if (missing.size) throw new Error(`${code} : mots sans catégorie dans extra.cats : ${[...missing].slice(0, 20).join(' ')}`);
   }
+  // Leçons « débutant » (essai chinois, extra.debut = liste de leçons) : objectif principal =
+  // reconnaître ; pour chaque phrase un mot clé à retrouver (le plus concret, jamais deux fois
+  // le même dans la leçon) ; défi final = les 5 phrases les plus courtes en entier.
+  const DEBUT = new Set(EXTRA.debut || []), seen0 = new Set();
+  const PRON = new Set(['我', '你', '他', '她', '我们', '你们', '他们', '它们', '您', '大家', '自己']);
+  const KEY_ORDER = ['nou', 'tra', 'obj', 'lie', 'per', 'act', 'des', 'nat', 'tps', 'nb', 'frm'];
+  levels[0].modules.forEach((m, b) => m.lessons.forEach((l, c) => {
+    if (!l || !l.phrases) return; delete l.debut;
+    const id = `0-${b}-${c}`; if (!DEBUT.has(id)) return;
+    if (!CATS) throw new Error(`${code} ${id} : extra.debut demande extra.cats`);
+    const used = new Set();
+    const keys = l.phrases.map((p, i) => {
+      const ws = (p.note && p.note.words || []).filter(([, tg]) => !PRON.has(tg) && CATS[tg] && CATS[tg] !== 'pm' && CATS[tg] !== 'x');
+      // les mots à mot très littéraux (« Paris-personne ») passent après les autres
+      const rank = ([fr, tg]) => KEY_ORDER.indexOf(CATS[tg]) + (/-/.test(fr) ? 100 : 0);
+      ws.sort((x, y) => rank(x) - rank(y));
+      const w = ws.find(([, tg]) => !used.has(tg)) || ws[0];
+      if (!w) throw new Error(`${code} ${id}#${i} : aucun mot clé possible`);
+      used.add(w[1]); return [w[0], w[1]];
+    });
+    const defi = l.phrases.map((p, i) => i).sort((x, y) => l.phrases[x].tgt.length - l.phrases[y].tgt.length).slice(0, 5).sort((x, y) => x - y);
+    l.debut = { keys, defi };
+    used.size; seen0.add(id);
+  }));
+  const orphanDebut = [...DEBUT].filter(k => !seen0.has(k)); if (orphanDebut.length) throw new Error(`${code} : extra.debut inconnu : ${orphanDebut.join(', ')}`);
   if (alignErr.length) throw new Error(alignErr.length + ' phrase(s) à découper à la main :\n' + alignErr.join('\n'));
   for (const [name, obj] of [['phrase_fix', PFIX], ['tips_fix', FIX], ['tips_say', SAY]]) {
     const set = used[name === 'phrase_fix' ? 'PFIX' : name === 'tips_fix' ? 'FIX' : 'SAY'];
