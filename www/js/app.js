@@ -963,6 +963,29 @@ function buildLessonSegments(mi, li){
     }
   });
 
+  // 3 ter. Liste des mots par catégorie (essai chinois) : les mots nouveaux de la leçon,
+  //         rangés par catégorie, en français puis dans la langue, au rythme du mot à mot.
+  if(lesson.wordlist && lesson.wordlist.length){
+    const CAT_LABEL = { per:'Les personnes', lie:'Les lieux', tra:'Les transports', nou:'À manger et à boire',
+      obj:'Les objets', nat:'La nature et le corps', tps:'Le temps qui passe', nb:'Les nombres',
+      act:'Les actions', des:'Pour décrire', frm:'Les formules utiles', pm:'Les petits mots' };
+    const lab = 'Mots par catégorie';
+    segs.push(S('Les nouveaux mots de la leçon, par catégorie.', 'fr', 1, lab, CTX, 'headphones', false, '', ''));
+    segs.push(W(600, lab, CTX, 'headphones', false, '', ''));
+    lesson.wordlist.forEach(g=>{
+      const title = CAT_LABEL[g.cat] || '';
+      segs.push(S(title + '.', 'fr', 1, lab, CTX, 'headphones', false, title, ''));
+      segs.push(W(500, lab, CTX, 'headphones', false, title, ''));
+      g.words.forEach(([fr, tg])=>{
+        segs.push(S(frIsolated(fr), 'fr', 1, lab, CTX, 'headphones', false, fr, tg));
+        segs.push(W(350, lab, CTX, 'headphones', false, fr, tg));
+        segs.push(S(tgtIsolated(tg), 'tgt', 0.85, lab, TGT, 'speaker', false, fr, tg));
+        segs.push(W(700, lab, TGT, 'speaker', false, fr, tg));
+      });
+      segs.push(W(400, lab, CTX, 'headphones', false, '', ''));
+    });
+  }
+
   // 3 bis. Leçon expliquée : on reprend toutes les phrases (FR une fois, cible deux fois),
   //         sans mot à mot ni règle, avant de passer aux phrases dans le désordre.
   if(withNotes){

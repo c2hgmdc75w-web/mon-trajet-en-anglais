@@ -135,6 +135,25 @@ function build(code, levels) {
     const sy = SAY[id];
     if (sy && Object.keys(sy).length) { used.SAY.add(id); l.tip.say = sy; says += Object.keys(sy).length; } else delete l.tip.say;
   })));
+  // Liste des mots par catégorie (essai chinois) : pour chaque leçon du niveau 1, les mots
+  // du mot à mot entendus pour la première fois, rangés par catégorie (extra.cats).
+  const CATS = EXTRA.cats || null, CAT_ORDER = ['per', 'lie', 'tra', 'nou', 'obj', 'nat', 'tps', 'nb', 'act', 'des', 'frm', 'pm'];
+  if (CATS && !alignErr.length) {
+    const seen = new Set(), missing = new Set();
+    levels[0].modules.forEach(m => m.lessons.forEach(l => {
+      delete l.wordlist;
+      if (!l || !l.phrases || !l.phrases.some(p => p.note && p.note.words)) return;
+      const groups = {};
+      l.phrases.forEach(p => (p.note && p.note.words || []).forEach(([fr, tg]) => {
+        if (seen.has(tg)) return; seen.add(tg);
+        const c = CATS[tg]; if (!c) { missing.add(tg); return; } if (c === 'x') return;
+        (groups[c] = groups[c] || []).push([fr, tg]);
+      }));
+      const list = CAT_ORDER.filter(c => groups[c]).map(c => ({ cat: c, words: groups[c] }));
+      if (list.length) l.wordlist = list;
+    }));
+    if (missing.size) throw new Error(`${code} : mots sans catégorie dans extra.cats : ${[...missing].slice(0, 20).join(' ')}`);
+  }
   if (alignErr.length) throw new Error(alignErr.length + ' phrase(s) à découper à la main :\n' + alignErr.join('\n'));
   for (const [name, obj] of [['phrase_fix', PFIX], ['tips_fix', FIX], ['tips_say', SAY]]) {
     const set = used[name === 'phrase_fix' ? 'PFIX' : name === 'tips_fix' ? 'FIX' : 'SAY'];
