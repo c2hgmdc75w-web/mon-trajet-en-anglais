@@ -563,6 +563,12 @@ function estimateSpeechMs(text, lang, rate){
    Pour ajouter une règle : l'ajouter dans FR_VOICE (texte courant) ou frIsolated (mot seul). */
 const FR_VOICE = [
   [/mots? à mots?/gi, 'mo ta mo'],
+  // Inversions avec trait d'union : la voix s'arrête au trait d'union et ne fait pas la
+  // liaison. a-t-il → a til, va-t-on → va ton ; dit-on → di ton, faut-il → fau til,
+  // sont-elles → son telles ; est-il → è til. (Formes en -ent, comme soient-elles, laissées telles quelles.)
+  [/\b(est)-(on|il|elle|ils|elles)\b/gi, (m, v, p) => (v[0] === 'E' ? 'È' : 'è') + ' t' + p],
+  [/\b([\p{L}]+)-t-(on|il|elle|ils|elles)\b/giu, '$1 t$2'],
+  [/\b(\p{L}+)([td])-(on|il|elle|ils|elles)\b/giu, (m, w, td, p) => (td === 't' && /en$/i.test(w)) ? m : w + ' t' + p],
 ];
 function frVoice(text){ for(const [re, rep] of FR_VOICE) text = text.replace(re, rep); return text; }
 function frIsolated(word){
@@ -949,16 +955,16 @@ function buildLessonSegments(mi, li){
       // Leçon expliquée (essai : chinois, niveau 1) : après la phrase dite deux fois,
       // traduction mot à mot (chaque mot français, un petit temps entre chacun), puis les
       // mêmes mots dans la langue apprise au même rythme, puis la règle en une ou deux phrases.
-      const GAP = 350, words = p.note.words || [];
+      const GAP = 300, words = p.note.words || [];
       segs.push(S('Traduction mot à mot.', 'fr', 1, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
       segs.push(W(350, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
+      // Mot par mot, en alternance : le mot français puis tout de suite sa traduction
+      // (« je, wǒ, depuis, cóng… »). Chaque phrase dite est déjà suivie d'un court blanc
+      // de l'iPhone : les temps ajoutés restent courts.
       words.forEach(w=>{
         const frw = frIsolated(w[0]); // voix française : mot dit seul (voir frIsolated)
         segs.push(S(frw, 'fr', 1, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
-        segs.push(W(GAP, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
-      });
-      segs.push(W(350, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
-      words.forEach(w=>{
+        segs.push(W(100, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
         segs.push(S(tgtIsolated(w[1]), 'tgt', 0.85, `Mot à mot ${L.inLang}`, TGT, 'speaker', false, p.fr, p.tgt, ex));
         segs.push(W(GAP, `Mot à mot ${L.inLang}`, TGT, 'speaker', false, p.fr, p.tgt, ex));
       });
