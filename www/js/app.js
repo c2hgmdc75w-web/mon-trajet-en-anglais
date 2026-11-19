@@ -566,6 +566,17 @@ const FR_VOICE = [
   // Mots qui existent aussi en anglais : la voix les lit à l'anglaise (« arrives » → « araïvz »).
   // Le s final est muet en français : on l'enlève, la prononciation française ne change pas.
   [/\b(arrive|change|passe)s\b/gi, '$1'],
+  // Verbe à la 2e personne du singulier (après « tu ») : la terminaison s ou x est muette ;
+  // on l'enlève pour que la voix ne la prononce pas (tu mords → tu mord, tu arrives → tu arrive,
+  // tu veux → tu veu). « tu es » → « tu è ». Les petits mots entre tu et le verbe sont gardés
+  // (tu n'y arrives pas, tu me prends).
+  [/\b(tu)((?:\s+(?:ne|y|en|me|te|le|la|les|lui|leur|nous|vous)\b|\s*\b[nmtl]'|\s+[nmtl]'|\s+y\b)*)(\s*)(\p{L}+)\b/giu,
+    (m, tu, mid, sp, v) => {
+      if (/^es$/i.test(v)) return tu + mid + sp + 'è';
+      if (v.length > 2 && /[sx]$/i.test(v) && !/ss$/i.test(v)) return tu + mid + sp + v.slice(0, -1);
+      if (/^(as|vas)$/i.test(v)) return tu + mid + sp + v.slice(0, -1);
+      return m;
+    }],
   // Inversions avec trait d'union : la voix s'arrête au trait d'union et ne fait pas la
   // liaison. a-t-il → a til, va-t-on → va ton ; dit-on → di ton, faut-il → fau til,
   // sont-elles → son telles ; est-il → è til. (Formes en -ent, comme soient-elles, laissées telles quelles.)
