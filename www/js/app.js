@@ -563,6 +563,9 @@ function estimateSpeechMs(text, lang, rate){
    Pour ajouter une règle : l'ajouter dans FR_VOICE (texte courant) ou frIsolated (mot seul). */
 const FR_VOICE = [
   [/mots? à mots?/gi, 'mo ta mo'],
+  // Mots qui existent aussi en anglais : la voix les lit à l'anglaise (« arrives » → « araïvz »).
+  // Le s final est muet en français : on l'enlève, la prononciation française ne change pas.
+  [/\b(arrive|change|passe)s\b/gi, '$1'],
   // Inversions avec trait d'union : la voix s'arrête au trait d'union et ne fait pas la
   // liaison. a-t-il → a til, va-t-on → va ton ; dit-on → di ton, faut-il → fau til,
   // sont-elles → son telles ; est-il → è til. (Formes en -ent, comme soient-elles, laissées telles quelles.)
@@ -924,7 +927,7 @@ function buildLessonSegments(mi, li){
   segs.push(W(400, 'Introduction', CTX, 'headphones', false, lesson.title, ''));
   if(lesson.debut){
     // Leçon débutant (essai chinois) : on annonce un objectif atteignable, le reste est un défi.
-    segs.push(S(`Ton objectif aujourd'hui : reconnaître ces dix phrases quand tu les entends ${L.inLang}. Et pour ceux qui veulent, un défi à la fin.`, 'fr', 1, 'Objectif', CTX, 'headphones', false, lesson.title, ''));
+    segs.push(S(`Ton objectif aujourd'hui : reconnaître ces dix phrases quand tu les entends, ${L.inLang}. Et pour ceux qui veulent, un défi à la fin.`, 'fr', 1, 'Objectif', CTX, 'headphones', false, lesson.title, ''));
     segs.push(W(600, 'Objectif', CTX, 'headphones', false, lesson.title, ''));
   }
 
