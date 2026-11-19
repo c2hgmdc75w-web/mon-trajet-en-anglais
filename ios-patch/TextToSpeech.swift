@@ -1,5 +1,6 @@
 import AVFoundation
 import Capacitor
+import CallKit
 
 // Version modifiée de @capacitor-community/text-to-speech 6.1.0 (Mon Trajet).
 // Objectif : lecture fiable en voiture (CarPlay / Bluetooth).
@@ -36,7 +37,7 @@ final class MTRenderJob {
     var done = false
 }
 
-@objc public class TextToSpeech: NSObject, AVSpeechSynthesizerDelegate, AVAudioPlayerDelegate {
+@objc public class TextToSpeech: NSObject, AVSpeechSynthesizerDelegate, AVAudioPlayerDelegate, CXCallObserverDelegate {
     let synthesizer = AVSpeechSynthesizer()      // lecture en direct (secours)
     private var renderSynth: AVSpeechSynthesizer? // fabrication des fichiers
     var calls: [CAPPluginCall] = []
@@ -64,6 +65,9 @@ final class MTRenderJob {
     private var waitRemaining: Double = 0
     private var waitStartedAt: Date?
     private var waitGen = 0
+    // Surveille les appels : iOS n'envoie pas toujours la « fin d'interruption » après un
+    // appel (surtout écran verrouillé). Quand le dernier appel se termine, on relance.
+    private let callWatcher = CXCallObserver()
 
     override init() {
         super.init()
@@ -73,6 +77,27 @@ final class MTRenderJob {
                                                selector: #selector(handleInterruption(_:)),
                                                name: AVAudioSession.interruptionNotification,
                                                object: nil)
+        callWatcher.setDelegate(self, queue: DispatchQueue.main)
+    }
+
+    // Un appel change d'état. Quand plus aucun appel n'est en cours et que la leçon avait
+    // été coupée par iOS, on la relance (même si la « fin d'interruption » n'arrive jamais).
+    public func callObserver(_ callObserver: CXCallObserver, callChanged call: CXCall) {
+        guard call.hasEnded else { return }
+        if callObserver.calls.contains(where: { !$0.hasEnded }) { return }
+        resumeAfterInterruption(1.0)
+    }
+
+    // Reprise après une coupure par iOS (appel, Siri, alarme) : on attend un peu que le son
+    // soit rendu à l'app, puis on réessaie pendant une quinzaine de secondes si besoin.
+    private func resumeAfterInterruption(_ delay: Double) {
+        guard seqInterrupted else { return }
+        let id = seqId
+        DispatchQueue.main.asyncAfter(deadline: .now() + delay) { [weak self] in
+            guard let s = self, s.seqInterrupted, s.seqActive, s.seqPaused, s.seqId == id else { return }
+            s.seqInterrupted = false
+            s.resumeNow(10, true)
+        }
     }
 
     deinit {
@@ -102,13 +127,11 @@ final class MTRenderJob {
                 s.seqInterrupted = true
                 s.notify?("seqPaused", ["seq": s.seqId])
             } else {
-                guard s.seqInterrupted else { return }
-                s.seqInterrupted = false
-                // Fin de l'appel : on reprend tout seul si iOS l'autorise ; sinon la
-                // leçon reste en pause et l'utilisateur la relance avec le bouton lecture.
-                if shouldResume, s.seqActive, s.seqPaused {
-                    s.resumeNow(2, true)
-                }
+                // Fin de l'interruption : on reprend TOUJOURS tout seul. iOS n'indique pas
+                // toujours « peut reprendre » après un appel ; l'utilisateur conduit et ne
+                // doit pas avoir à toucher le téléphone.
+                _ = shouldResume
+                s.resumeAfterInterruption(0.6)
             }
         }
     }
