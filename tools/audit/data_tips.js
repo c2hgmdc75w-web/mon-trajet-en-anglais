@@ -11,11 +11,11 @@ for (const [c, levels] of Object.entries(D)) {
   levels.forEach((lv, a) => lv.modules.forEach((m, b) => {
     const where = [];
     m.lessons.forEach((l, li) => {
-      if (!l.tip) return; where.push(li);
-      const t = l.tip, id = `${a}-${b}-${li}`;
+      for (const [t, id] of [[l.tip, `${a}-${b}-${li}`], [l.tip2, `${a}-${b}-${li}(2)`]]) {
+      if (!t) continue; if (t === l.tip) where.push(li);
       for (const k of Object.keys(t)) if (!['title', 'example', 'body', 'exampleRo', 'lit', 'say'].includes(k)) add(c, 'champ', `${id} ${k}`);
       for (const k of ['title', 'example', 'body']) if (!t[k] || !String(t[k]).trim()) add(c, 'vide', `${id} ${k}`);
-      if (!t.title || !t.body || !t.example) return;
+      if (!t.title || !t.body || !t.example) continue;
       if (t.body.length < 180) add(c, 'court', `${id} body ${t.body.length} car. : ${t.body}`);
       if (t.body.length > 1400) add(c, 'long', `${id} body ${t.body.length} car.`);
       // exemple
@@ -63,6 +63,7 @@ for (const [c, levels] of Object.entries(D)) {
         }
       }
       for (const q of quotes) if (!say[q]) ((issues[c] = issues[c] || {}).non_say = issues[c].non_say || []).push(`${id}\t${q}`);
+      }
     });
     pos[c].push(where.join(','));
   }));

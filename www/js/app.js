@@ -170,10 +170,15 @@ function computeTipNumbers(modules){
   modules.forEach((m, mi)=>{
     m.lessons.forEach((l, li)=>{
       if(l.tip){ n++; map[mi+'-'+li] = n; }
+      if(l.tip2){ n++; map[mi+'-'+li+'-2'] = n; }
     });
   });
   return map;
 }
+// Une leçon peut avoir un second point de grammaire (tip2), joué juste après le premier.
+// Dans un programme ou une liste, k = 1 désigne ce second point.
+function tipOf(lesson, k){ return lesson ? (k ? lesson.tip2 : lesson.tip) : null; }
+function tipKey(mi, li, k){ return mi+'-'+li+(k ? '-2' : ''); }
 let TIP_NUMBERS = {};
 
 /* ---------- points de contrôle "Évaluation" : tous les 5 leçons,
@@ -434,11 +439,11 @@ function renderHome(){
     </div>`;
 
     // Point de grammaire : affiché juste après la leçon qui le déclenche.
-    if(content && lesson.tip){
-      const tipNum = TIP_NUMBERS[currentModule+'-'+i] || '';
-      const tipKey = 'lv'+levelId+'-tip-'+currentModule+'-'+i;
-      const tipDone = state.completed.includes(tipKey);
-      rows += `<div class="lesson-row tip-row ${unlocked?'':'locked'}" data-tip-mi="${currentModule}" data-tip-li="${i}">
+    [0,1].forEach(k=>{ const tip = tipOf(lesson, k); if(!(content && tip)) return;
+      const tipNum = TIP_NUMBERS[tipKey(currentModule, i, k)] || '';
+      const doneKey = 'lv'+levelId+'-tip-'+tipKey(currentModule, i, k);
+      const tipDone = state.completed.includes(doneKey);
+      rows += `<div class="lesson-row tip-row ${unlocked?'':'locked'}" data-tip-mi="${currentModule}" data-tip-li="${i}" data-tip-k="${k}">
         <div class="lesson-icon ${tipDone?'done':''}">${
           tipDone ? ICONS.check.replace('stroke-width="2"','stroke="#0B2116" stroke-width="2.5"')
           : (!unlocked ? ICONS.lock
@@ -446,10 +451,10 @@ function renderHome(){
         }</div>
         <div class="lesson-text">
           <div class="lesson-title">Point grammaire ${tipNum} ${unlocked ? freeTag : ''}</div>
-          <div class="lesson-sub">${lesson.tip.title}</div>
+          <div class="lesson-sub">${tip.title}</div>
         </div>
       </div>`;
-    }
+    });
 
     // Évaluation : révision périodique, affichée juste après la leçon qui
     // la déclenche (et après son éventuel point de grammaire). Le contrôle
@@ -502,7 +507,7 @@ function renderHome(){
         const mi = parseInt(el.dataset.tipMi);
         const li = parseInt(el.dataset.tipLi);
         if(!isLessonUnlocked(MODULES[mi].id, li)){ openPaywall(); return; }
-        startTip(mi, li);
+        startTip(mi, li, parseInt(el.dataset.tipK || '0'));
         return;
       }
       if(el.dataset.evalMi !== undefined){
@@ -1480,7 +1485,8 @@ function lessonExtras(mi, li){
   const out = [];
   const m = MODULES[mi];
   if(!m || !m.lessons[li]) return out;
-  if(m.lessons[li].tip) out.push({type:'tip', lv:currentLevel, mi, li, chained:true});
+  if(m.lessons[li].tip) out.push({type:'tip', lv:currentLevel, mi, li, k:0, chained:true});
+  if(m.lessons[li].tip2) out.push({type:'tip', lv:currentLevel, mi, li, k:1, chained:true});
   const info = EVAL_NUMBERS[mi+'-'+li];
   if(info) out.push({type:'eval', lv:currentLevel, mi, anchor:li, li, chained:true});
   if(m.lessons[li].series) out.push({type:'series', lv:currentLevel, mi, li, chained:true});
@@ -1490,7 +1496,7 @@ function programSegments(prog){
   return withLevel(prog.lv, ()=>{
     if(prog.type === 'lesson') return buildLessonSegments(prog.mi, prog.li);
     if(prog.type === 'series') return buildSeriesSegments(prog.mi, prog.li);
-    if(prog.type === 'tip') return buildTipSegments(MODULES[prog.mi].lessons[prog.li].tip, TIP_NUMBERS[prog.mi+'-'+prog.li] || '');
+    if(prog.type === 'tip') return buildTipSegments(tipOf(MODULES[prog.mi].lessons[prog.li], prog.k), TIP_NUMBERS[tipKey(prog.mi, prog.li, prog.k)] || '');
     if(prog.type === 'eval'){ const info = EVAL_NUMBERS[prog.mi+'-'+prog.anchor]; return buildEvalSegments(prog.mi, prog.anchor, info.isFinal, info.isFinal ? 'Évaluation finale' : `Évaluation ${info.num}`); }
     return [];
   });
@@ -1509,7 +1515,7 @@ function lessonChainAfter(prog){
     const li = prog.type === 'eval' ? prog.anchor : prog.li;
     pos = {lv:lv0, mi:prog.mi, li};
     const all = withLevel(lv0, ()=>lessonExtras(prog.mi, li));
-    extrasLeft = all.slice(all.findIndex(x=>x.type === prog.type) + 1);
+    extrasLeft = all.slice(all.findIndex(x=>x.type === prog.type && (x.type !== 'tip' || (x.k||0) === (prog.k||0))) + 1);
   }
   else return out;
   const push = p => out.push({ prog:p, segs: programSegments(p) });
@@ -1567,7 +1573,7 @@ async function playFromNative(startIndex, token){
 }
 function completeKey(prog){
   const lv = 'lv'+LEVELS[currentLevel].id;
-  if(prog.type === 'tip') return lv+'-tip-'+prog.mi+'-'+prog.li;
+  if(prog.type === 'tip') return lv+'-tip-'+tipKey(prog.mi, prog.li, prog.k);
   if(prog.type === 'eval') return lv+'-eval-'+prog.mi+'-'+prog.anchor;
   if(prog.type === 'series') return lv+'-series-'+prog.mi+'-'+prog.li;
   return null;
@@ -1583,7 +1589,7 @@ function programTitle(prog){
   if(prog.type === 'lesson'){ const lesson = m.lessons[prog.li]; return `${m.name} · Leçon ${prog.li+1}${lesson.title? ' · '+lesson.title:''}`; }
   if(prog.type === 'eval'){ const info = EVAL_NUMBERS[prog.mi+'-'+prog.anchor]; return `${m.name} · ${info.isFinal ? 'Évaluation finale' : 'Évaluation '+info.num}`; }
   if(prog.type === 'series') return `${m.name} · Série · ${m.lessons[prog.li].series.title}`;
-  if(prog.type === 'tip') return `Point grammaire ${TIP_NUMBERS[prog.mi+'-'+prog.li] || ''}`;
+  if(prog.type === 'tip') return `Point grammaire ${TIP_NUMBERS[tipKey(prog.mi, prog.li, prog.k)] || ''}`;
   return '';
 }
 function switchToChainedProgram(pg){
@@ -1707,7 +1713,7 @@ function onProgramFinished(token){
     markDone(currentProgram);
     // élément suivant de la même leçon (évaluation, série), sinon leçon suivante / écran d'achat / fin
     const li0 = currentProgram.type === 'eval' ? currentProgram.anchor : currentProgram.li;
-    const rest = lessonExtras(currentProgram.mi, li0); const k = rest.findIndex(x=>x.type === currentProgram.type);
+    const rest = lessonExtras(currentProgram.mi, li0); const k = rest.findIndex(x=>x.type === currentProgram.type && (x.type !== 'tip' || (x.k||0) === (currentProgram.k||0)));
     if(k >= 0 && rest[k+1]){ startExtra(rest[k+1]); return; }
     goToNextLessonOrStop(currentProgram.mi, li0, token);
   } else {
@@ -1729,7 +1735,7 @@ function voiceGuard(){
 }
 
 function startExtra(x){
-  if(x.type === 'tip') startTip(x.mi, x.li);
+  if(x.type === 'tip') startTip(x.mi, x.li, x.k);
   else if(x.type === 'eval') startEval(x.mi, x.anchor);
   else startSeries(x.mi, x.li);
 }
@@ -1749,14 +1755,16 @@ function startIntro(){
 
 // Lecture autonome d'un point de grammaire depuis la liste (indépendamment
 // du déroulé automatique qui le joue aussi à la fin de sa leçon associée).
-function startTip(mi, li){
+function startTip(mi, li, k){
   if(voiceGuard()) return;
+  k = k || 0;
   const lesson = MODULES[mi].lessons[li];
-  if(!lesson || !lesson.tip) return;
-  const tipNum = TIP_NUMBERS[mi+'-'+li] || '';
+  const tip = tipOf(lesson, k);
+  if(!tip) return;
+  const tipNum = TIP_NUMBERS[tipKey(mi, li, k)] || '';
 
-  currentProgram = {type:'tip', lv:currentLevel, mi, li, chained:true};
-  segments = buildTipSegments(lesson.tip, tipNum);
+  currentProgram = {type:'tip', lv:currentLevel, mi, li, k, chained:true};
+  segments = buildTipSegments(tip, tipNum);
 
   $('home').style.display = 'none';
   $('session').style.display = 'flex';
@@ -2076,7 +2084,8 @@ function buildProgramSequence(mi){
     if(!hasContent(mi, li)) break;
     seq.push({type:'lesson', li});
     const lesson = m.lessons[li];
-    if(lesson.tip) seq.push({type:'tip', li});
+    if(lesson.tip) seq.push({type:'tip', li, k:0});
+    if(lesson.tip2) seq.push({type:'tip', li, k:1});
     if(EVAL_NUMBERS[mi+'-'+li]) seq.push({type:'eval', li, anchor: li});
     if(lesson.series) seq.push({type:'series', li});
   }
@@ -2084,7 +2093,7 @@ function buildProgramSequence(mi){
 }
 function currentSeqIndex(seq){
   if(currentProgram.type === 'lesson') return seq.findIndex(it=>it.type==='lesson' && it.li===currentProgram.li);
-  if(currentProgram.type === 'tip') return seq.findIndex(it=>it.type==='tip' && it.li===currentProgram.li);
+  if(currentProgram.type === 'tip') return seq.findIndex(it=>it.type==='tip' && it.li===currentProgram.li && (it.k||0)===(currentProgram.k||0));
   if(currentProgram.type === 'eval') return seq.findIndex(it=>it.type==='eval' && it.li===currentProgram.anchor);
   if(currentProgram.type === 'series') return seq.findIndex(it=>it.type==='series' && it.li===currentProgram.li);
   return -1;
@@ -2097,7 +2106,7 @@ function goToSeqItem(mi, item){
   }
   if(item.type === 'tip'){
     if(!isLessonUnlocked(MODULES[mi].id, item.li)){ openPaywall(); return true; }
-    startTip(mi, item.li); return true;
+    startTip(mi, item.li, item.k); return true;
   }
   if(item.type === 'eval'){
     if(!isLessonUnlocked(MODULES[mi].id, item.anchor)){ openPaywall(); return true; }

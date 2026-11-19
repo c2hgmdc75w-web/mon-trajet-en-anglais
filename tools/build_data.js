@@ -128,6 +128,9 @@ function build(code, levels) {
       const pf = PFIX[`${id}#${i}`]; if (!pf) return; used.PFIX.add(`${id}#${i}`);
       for (const k of ['fr', 'tgt', 'ro', 'lit']) if (k in pf) { if (pf[k] === null || pf[k] === '') delete p[k]; else p[k] = pf[k]; }
     });
+    // Second point de grammaire ajouté (extra.tips2), joué juste après le premier.
+    const T2 = (EXTRA.tips2 || {})[id];
+    if (T2) { used.T2 = used.T2 || new Set(); used.T2.add(id); l.tip2 = T2; tips++; } else delete l.tip2;
     if (!l.tip) return;
     tips++;
     const fx = FIX[id];
@@ -185,6 +188,7 @@ function build(code, levels) {
     const orphan = Object.keys(obj).filter(k => !set.has(k) && !(name === 'tips_say' && !Object.keys(obj[k]).length));
     if (orphan.length) throw new Error(`${code} : ${name} contient des clés qui ne correspondent à rien : ${orphan.slice(0, 8).join(', ')}`);
   }
+  { const o = Object.keys(EXTRA.tips2 || {}).filter(k => !(used.T2 && used.T2.has(k))); if (o.length) throw new Error(`${code} : extra.tips2 inconnu : ${o.join(', ')}`); }
   for (const [name, obj, set] of [['extra.vocab', VOC, used.VOC], ['extra.series', SER, used.SER], ['extra.notes', NOTES, used.NOTES], ['extra.words', WORDS, used.WORDS]]) {
     const orphan = Object.keys(obj).filter(k => !set.has(k));
     if (orphan.length) throw new Error(`${code} : ${name} contient des clés qui ne correspondent à rien : ${orphan.slice(0, 8).join(', ')}`);

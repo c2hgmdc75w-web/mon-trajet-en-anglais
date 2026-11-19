@@ -7982,10 +7982,10 @@
     }
    },
    {
-    "lit": "ce, petit mot de comptage, thé, très, parfumé",
-    "note": "Devant un adjectif, on met presque toujours très, même sans insister. Très se dit « hěn ».",
+    "lit": "ce, mot de comptage passe-partout, thé, très, parfumé",
+    "note": "En chinois, entre ce et le nom, on glisse toujours un mot de comptage. C'est comme une tranche de pain ou une feuille de papier en français. Le plus courant, qui marche presque partout, se dit « ge ».",
     "say": {
-     "hěn": "很"
+     "ge": "个"
     }
    },
    {
@@ -8024,8 +8024,8 @@
     }
    },
    {
-    "lit": "ce, petit mot de comptage, hutong, très, calme",
-    "note": "Entre ce et le nom, on glisse un petit mot de comptage. Pour une ruelle, c'est « tiáo ».",
+    "lit": "ce, mot de comptage des choses longues, hutong, très, calme",
+    "note": "Le mot de comptage change selon la forme de l'objet. Pour les choses longues, comme une ruelle, c'est « tiáo ».",
     "say": {
      "tiáo": "条"
     }
@@ -8191,14 +8191,14 @@
     }
    },
    {
-    "lit": "ce, petit mot de comptage, canard laqué, ne pas, cher",
-    "note": "Chaque nom a son petit mot de comptage. Pour les animaux, c'est « zhī ».",
+    "lit": "ce, mot de comptage des animaux, canard laqué, ne pas, cher",
+    "note": "Chaque nom a son mot de comptage. Pour les animaux, c'est « zhī ».",
     "say": {
      "zhī": "只"
     }
    },
    {
-    "lit": "ce, petit mot de comptage, plat, ne pas, être, nous, petit mot du possessif",
+    "lit": "ce, mot de comptage passe-partout, plat, ne pas, être, nous, petit mot du possessif",
     "note": "Pour dire c'est à nous, on dit nous de, sans nom après. Cela donne « wǒmen de ».",
     "say": {
      "wǒmen de": "我们的"
@@ -8277,21 +8277,21 @@
     }
    },
    {
-    "lit": "vous, combien, petit mot de comptage, personne ?",
-    "note": "Pour demander un petit nombre, on dit combien, suivi d'un petit mot de comptage. Combien se dit « jǐ ».",
+    "lit": "vous, combien, mot de comptage passe-partout, personne",
+    "note": "Pour demander un petit nombre, on dit combien, suivi d'un mot de comptage. Combien se dit « jǐ ».",
     "say": {
      "jǐ": "几"
     }
    },
    {
-    "lit": "nous, deux, petit mot de comptage, personne",
-    "note": "Devant un petit mot de comptage, deux ne se dit pas èr. Il se dit « liǎng ».",
+    "lit": "nous, deux, mot de comptage passe-partout, personne",
+    "note": "Devant un mot de comptage, deux ne se dit pas èr. Il se dit « liǎng ».",
     "say": {
      "liǎng": "两"
     }
    },
    {
-    "lit": "toi, aimer, ce, petit mot de comptage, logement, petit mot de question ?",
+    "lit": "toi, aimer, ce, mot de comptage des ensembles, logement, petit mot de question",
     "note": "Aimer, au sens de plaire, se dit « xǐhuan ». Le verbe ne change jamais.",
     "say": {
      "xǐhuan": "喜欢"
@@ -8312,8 +8312,8 @@
     }
    },
    {
-    "lit": "nous, louer, ce, petit mot de comptage",
-    "note": "Chaque nom a son petit mot de comptage. Pour un appartement, c'est « tào ».",
+    "lit": "nous, louer, ce, mot de comptage des ensembles",
+    "note": "Chaque nom a son mot de comptage. Pour un appartement, c'est « tào ».",
     "say": {
      "tào": "套"
     }
@@ -8472,15 +8472,15 @@
   ],
   "0-0-8": [
    {
-    "lit": "ce, petit mot de comptage, combien, argent ?",
-    "note": "Pour dire ça, on dit ce, suivi du petit mot de comptage. Cela donne « zhège ».",
+    "lit": "ce, mot de comptage passe-partout, combien, argent",
+    "note": "Pour dire ça, on dit ce, suivi du mot de comptage. Cela donne « zhège ».",
     "say": {
      "zhège": "这个"
     }
    },
    {
-    "lit": "ce-là, petit mot de comptage, petit mot pour dire et alors ?",
-    "note": "Pour dire celui-là, on dit là-bas plus le petit mot de comptage. Cela donne « nàge ».",
+    "lit": "ce-là, mot de comptage passe-partout, petit mot pour dire et alors",
+    "note": "Pour dire celui-là, on dit là-bas plus le mot de comptage. Cela donne « nàge ».",
     "say": {
      "nàge": "那个"
     }
@@ -8500,14 +8500,14 @@
     }
    },
    {
-    "lit": "je, vouloir, ce, petit mot de comptage",
+    "lit": "je, vouloir, ce, mot de comptage passe-partout",
     "note": "Dans un magasin, je prends se dit je veux. Je veux se dit « wǒ yào ».",
     "say": {
      "wǒ yào": "我要"
     }
    },
    {
-    "lit": "ne pas, être, ce-là, petit mot de comptage",
+    "lit": "ne pas, être, ce-là, mot de comptage passe-partout",
     "note": "Pour dire non, pas celui-là, on nie le verbe être. Ne pas être se dit « bú shì ».",
     "say": {
      "bú shì": "不是"
@@ -8528,14 +8528,14 @@
     }
    },
    {
-    "lit": "ce, petit mot de comptage, marché, très, animé",
+    "lit": "ce, mot de comptage passe-partout, marché, très, animé",
     "note": "Un marché plein de vie et de bruit, c'est un marché animé. Animé se dit « rènao ».",
     "say": {
      "rènao": "热闹"
     }
    },
    {
-    "lit": "ce-là, petit mot de comptage, patron, très, bien",
+    "lit": "ce-là, mot de comptage passe-partout, patron, très, bien",
     "note": "Le marchand, c'est le patron de l'échoppe. Patron se dit « lǎobǎn ».",
     "say": {
      "lǎobǎn": "老板"
@@ -8658,7 +8658,7 @@
     }
    },
    {
-    "lit": "nous, dix-un, petit mot de comptage, personne",
+    "lit": "nous, dix-un, mot de comptage passe-partout, personne",
     "note": "Onze, c'est dix un. Onze se dit « shíyī ».",
     "say": {
      "shíyī": "十一"
@@ -8672,8 +8672,8 @@
     }
    },
    {
-    "lit": "je, vouloir, deux, petit mot de comptage, billet",
-    "note": "Chaque nom a son petit mot de comptage. Pour un billet, comme pour tout ce qui est plat, c'est « zhāng ».",
+    "lit": "je, vouloir, deux, mot de comptage des choses plates, billet",
+    "note": "Chaque nom a son mot de comptage. Pour un billet, comme pour tout ce qui est plat, c'est « zhāng ».",
     "say": {
      "zhāng": "张"
     }
@@ -8688,8 +8688,8 @@
   ],
   "0-0-11": [
    {
-    "lit": "je, vouloir, deux, petit mot de comptage, baozi",
-    "note": "Le petit mot de comptage le plus courant marche presque partout. C'est « ge ».",
+    "lit": "je, vouloir, deux, mot de comptage passe-partout, baozi",
+    "note": "Le mot de comptage le plus courant marche presque partout. C'est « ge ».",
     "say": {
      "ge": "个"
     }
@@ -8709,14 +8709,14 @@
     }
    },
    {
-    "lit": "un, assiette, avoir, combien, petit mot de comptage, jiaozi ?",
+    "lit": "un, assiette, avoir, combien, mot de comptage passe-partout, jiaozi",
     "note": "Pour un nombre qui peut être grand, on emploie un autre combien. Ce combien, c'est « duōshao ».",
     "say": {
      "duōshao": "多少"
     }
    },
    {
-    "lit": "deux-dix, petit mot de comptage",
+    "lit": "deux-dix, mot de comptage passe-partout",
     "note": "Vingt, c'est deux dix. Vingt se dit « èrshí ».",
     "say": {
      "èrshí": "二十"
@@ -8730,7 +8730,7 @@
     }
    },
    {
-    "lit": "avoir, un, petit mot de comptage, libre, table, petit mot de question ?",
+    "lit": "avoir, un, mot de comptage des choses plates, libre, table, petit mot de question",
     "note": "Une table se compte comme tout ce qui est plat. Son petit mot, c'est « zhāng ».",
     "say": {
      "zhāng": "张"
@@ -8751,8 +8751,8 @@
     }
    },
    {
-    "lit": "ce, petit mot de comptage, petit, restaurant, vraiment, pas mal",
-    "note": "Chaque nom a son petit mot de comptage. Pour un restaurant ou un magasin, c'est « jiā ».",
+    "lit": "ce, mot de comptage des commerces, petit, restaurant, vraiment, pas mal",
+    "note": "Chaque nom a son mot de comptage. Pour un restaurant ou un magasin, c'est « jiā ».",
     "say": {
      "jiā": "家"
     }
@@ -9032,8 +9032,8 @@
     }
    },
    {
-    "lit": "combien, petit mot de comptage, personne, venir ?",
-    "note": "Pour compter les personnes, on emploie le petit mot de comptage. Combien de personnes se dit « jǐ ge rén ».",
+    "lit": "combien, mot de comptage passe-partout, personne, venir",
+    "note": "Pour compter les personnes, on emploie le mot de comptage. Combien de personnes se dit « jǐ ge rén ».",
     "say": {
      "jǐ ge rén": "几个人"
     }
@@ -9120,14 +9120,14 @@
   ],
   "0-0-17": [
    {
-    "lit": "je, vouloir, acheter, un, petit mot de comptage, veste",
-    "note": "Chaque nom a son petit mot de comptage. Pour un vêtement du haut, c'est « jiàn ».",
+    "lit": "je, vouloir, acheter, un, mot de comptage des vêtements, veste",
+    "note": "Chaque nom a son mot de comptage. Pour un vêtement du haut, c'est « jiàn ».",
     "say": {
      "jiàn": "件"
     }
    },
    {
-    "lit": "je, vouloir, essayer, ce, petit mot de comptage, pull",
+    "lit": "je, vouloir, essayer, ce, mot de comptage des vêtements, pull",
     "note": "Pour dire essayer un peu, on double le verbe. Essayer un peu se dit « shìshi ».",
     "say": {
      "shìshi": "试试"
@@ -9176,14 +9176,14 @@
     }
    },
    {
-    "lit": "ce, petit mot de comptage, manteau, trop, cher, petit mot d'exclamation",
+    "lit": "ce, mot de comptage des vêtements, manteau, trop, cher, petit mot d'exclamation",
     "note": "Pour un défaut, trop se dit « tài ». On ajoute souvent le petit mot le à la fin.",
     "say": {
      "tài": "太"
     }
    },
    {
-    "lit": "bien, je, vouloir, ce-là, petit mot de comptage",
+    "lit": "bien, je, vouloir, ce-là, mot de comptage des vêtements",
     "note": "Pour accepter, on dit simplement bien. Bien se dit « hǎo ».",
     "say": {
      "hǎo": "好"
@@ -9213,7 +9213,7 @@
     }
    },
    {
-    "lit": "prendre, petit mot de comptage, photo, petit mot de suggestion !",
+    "lit": "prendre, mot de comptage des choses plates, photo, petit mot de suggestion",
     "note": "Prendre une photo se dit prendre une image. Cela donne « pāi zhàopiàn ».",
     "say": {
      "pāi zhàopiàn": "拍照片"
@@ -9255,7 +9255,7 @@
     }
    },
    {
-    "lit": "ce, petit mot de comptage, idée, pas mal !",
+    "lit": "ce, mot de comptage passe-partout, idée, pas mal",
     "note": "Pour dire très bien, les Chinois disent pas mal. Pas mal se dit « búcuò ».",
     "say": {
      "búcuò": "不错"
@@ -9313,7 +9313,7 @@
     }
    },
    {
-    "lit": "je, déjà, savoir, quatre, petit mot de comptage, ton, petit mot de l'action accomplie",
+    "lit": "je, déjà, savoir, quatre, mot de comptage passe-partout, ton, petit mot de l'action accomplie",
     "note": "Le mot déjà se place avant le verbe. Déjà se dit « yǐjīng ».",
     "say": {
      "yǐjīng": "已经"
@@ -9371,7 +9371,7 @@
     }
    },
    {
-    "lit": "je, seulement, avoir, un, petit mot pour compter, valise",
+    "lit": "je, seulement, avoir, un, mot de comptage passe-partout, valise",
     "note": "Le mot seulement se place juste avant le verbe. Seulement se dit « zhǐ ».",
     "say": {
      "zhǐ": "只"
@@ -9392,7 +9392,7 @@
     }
    },
    {
-    "lit": "je, aller, ce, petit mot pour compter, hôtel",
+    "lit": "je, aller, ce, mot de comptage passe-partout, hôtel",
     "note": "Après aller, le lieu vient tout de suite, sans à. Aller se dit « qù ».",
     "say": {
      "qù": "去"
@@ -9587,15 +9587,15 @@
     }
    },
    {
-    "lit": "je, encore, vouloir, un, petit mot pour compter, serviette",
+    "lit": "je, encore, vouloir, un, mot de comptage des choses longues, serviette",
     "note": "Ce qui est long et souple se compte avec le même petit mot. Pour une serviette, c'est « tiáo ».",
     "say": {
      "tiáo": "条"
     }
    },
    {
-    "lit": "veuillez, aider, moi, appeler, un, petit mot pour compter, taxi",
-    "note": "Chaque nom a son petit mot de comptage. Pour une voiture, c'est « liàng ».",
+    "lit": "veuillez, aider, moi, appeler, un, mot de comptage des véhicules, taxi",
+    "note": "Chaque nom a son mot de comptage. Pour une voiture, c'est « liàng ».",
     "say": {
      "liàng": "辆"
     }
@@ -9624,7 +9624,7 @@
   ],
   "0-1-4": [
    {
-    "lit": "je, vouloir, acheter, un, petit mot pour compter, train-billet",
+    "lit": "je, vouloir, acheter, un, mot de comptage des choses plates, train-billet",
     "note": "Un billet de train se dit train billet. Cela donne « huǒchēpiào ».",
     "say": {
      "huǒchēpiào": "火车票"
@@ -9645,7 +9645,7 @@
     }
    },
    {
-    "lit": "exact, veuillez, donner, moi, deux, petit mot pour compter",
+    "lit": "exact, veuillez, donner, moi, deux, mot de comptage des choses plates",
     "note": "Quand le nom est connu, on le laisse tomber. Deux, avec son petit mot, se dit « liǎng zhāng ».",
     "say": {
      "liǎng zhāng": "两张"
@@ -9666,7 +9666,7 @@
     }
    },
    {
-    "lit": "encore, avoir, deux, petit mot pour compter, contre, fenêtre, petit mot du possessif, place",
+    "lit": "encore, avoir, deux, mot de comptage passe-partout, contre, fenêtre, petit mot du possessif, place",
     "note": "Côté fenêtre se dit contre la fenêtre. Cela donne « kào chuāng ».",
     "say": {
      "kào chuāng": "靠窗"
@@ -9696,7 +9696,7 @@
   ],
   "0-1-5": [
    {
-    "lit": "ce, petit mot pour compter, chapeau, combien, argent ?",
+    "lit": "ce, mot de comptage passe-partout, chapeau, combien, argent",
     "note": "Au marché, on achète un chapeau. Chapeau se dit « màozi ».",
     "say": {
      "màozi": "帽子"
@@ -9731,21 +9731,21 @@
     }
    },
    {
-    "lit": "ce, petit mot pour compter, carte postale, combien, argent ?",
+    "lit": "ce, mot de comptage des choses plates, carte postale, combien, argent",
     "note": "Une carte postale est une carte plate. Elle se dit « míngxìnpiàn ».",
     "say": {
      "míngxìnpiàn": "明信片"
     }
    },
    {
-    "lit": "trois, kuai, un, petit mot pour compter",
+    "lit": "trois, kuai, un, mot de comptage des choses plates",
     "note": "Pour dire pièce, le prix vient d'abord, puis une unité. Une unité se dit « yì zhāng ».",
     "say": {
      "yì zhāng": "一张"
     }
    },
    {
-    "lit": "je, vouloir, cinq, petit mot pour compter",
+    "lit": "je, vouloir, cinq, mot de comptage des choses plates",
     "note": "Pas besoin de répéter le nom. J'en prends cinq se dit je veux « wǔ zhāng ».",
     "say": {
      "wǔ zhāng": "五张"
@@ -9810,7 +9810,7 @@
     }
    },
    {
-    "lit": "veuillez, aider, moi, prendre, petit mot pour compter, photo",
+    "lit": "veuillez, aider, moi, prendre, mot de comptage des choses plates, photo",
     "note": "Pour demander de l'aide, on dit veuillez aider moi. Aider se dit « bāng ».",
     "say": {
      "bāng": "帮"
@@ -9840,21 +9840,21 @@
   ],
   "0-1-7": [
    {
-    "lit": "ce, petit mot pour compter, train, depuis, Pékin, jusqu'à, Xi'an",
+    "lit": "ce, mot de comptage des trajets, train, depuis, Pékin, jusqu'à, Xi'an",
     "note": "De Pékin à Xi'an se dit depuis Pékin jusqu'à Xi'an. Depuis se dit « cóng ».",
     "say": {
      "cóng": "从"
     }
    },
    {
-    "lit": "depuis, Pékin, jusqu'à, Xi'an, falloir, combien, petit mot pour compter, heure ?",
+    "lit": "depuis, Pékin, jusqu'à, Xi'an, falloir, combien, mot de comptage passe-partout, heure",
     "note": "La durée et l'heure de la montre sont deux mots différents. Une heure de durée se dit « xiǎoshí ».",
     "say": {
      "xiǎoshí": "小时"
     }
    },
    {
-    "lit": "environ, quatre, petit mot pour compter, demi, heure",
+    "lit": "environ, quatre, mot de comptage passe-partout, demi, heure",
     "note": "Pour une durée approximative, on commence par environ. Environ se dit « dàgài ».",
     "say": {
      "dàgài": "大概"
@@ -9919,14 +9919,14 @@
     }
    },
    {
-    "lit": "veuillez, donner, moi, deux, petit mot pour compter, billet",
+    "lit": "veuillez, donner, moi, deux, mot de comptage des choses plates, billet",
     "note": "Une entrée, c'est un billet. Billet se dit « piào ».",
     "say": {
      "piào": "票"
     }
    },
    {
-    "lit": "un, petit mot pour compter, billet, combien, argent ?",
+    "lit": "un, mot de comptage des choses plates, billet, combien, argent",
     "note": "Combien coûte se dit combien d'argent. Cela donne « duōshao qián ».",
     "say": {
      "duōshao qián": "多少钱"
@@ -9947,7 +9947,7 @@
     }
    },
    {
-    "lit": "chaque, petit mot pour compter, visage, tous, ne pas, pareil",
+    "lit": "chaque, mot de comptage des choses plates, visage, tous, ne pas, pareil",
     "note": "Chaque va toujours avec tous devant le verbe. Chaque se dit « měi ».",
     "say": {
      "měi": "每"
@@ -9975,7 +9975,7 @@
     }
    },
    {
-    "lit": "je, très, aimer, ce, petit mot pour compter, endroit",
+    "lit": "je, très, aimer, ce, mot de comptage passe-partout, endroit",
     "note": "Cet endroit, c'est ce lieu. Endroit se dit « dìfang ».",
     "say": {
      "dìfang": "地方"
@@ -9991,7 +9991,7 @@
     }
    },
    {
-    "lit": "je, louer, petit mot de l'action accomplie, un, petit mot pour compter, vélo",
+    "lit": "je, louer, petit mot de l'action accomplie, un, mot de comptage des véhicules, vélo",
     "note": "Un petit mot juste après le verbe dit que l'action est accomplie. Ce petit mot, c'est « le ».",
     "say": {
      "le": "了"
@@ -10005,7 +10005,7 @@
     }
    },
    {
-    "lit": "acheter, petit mot de l'action accomplie, acheter, petit mot de l'action accomplie, deux, petit mot pour compter",
+    "lit": "acheter, petit mot de l'action accomplie, acheter, petit mot de l'action accomplie, deux, bouteille",
     "note": "Pour répondre oui, on répète le verbe avec le petit mot. J'ai acheté se dit « mǎi le ».",
     "say": {
      "mǎi le": "买了"
@@ -10077,7 +10077,7 @@
     }
    },
    {
-    "lit": "être, un, petit mot pour compter, rouge, petit mot du possessif, grand, valise",
+    "lit": "être, un, mot de comptage passe-partout, rouge, petit mot du possessif, grand, valise",
     "note": "Plusieurs adjectifs se placent devant le nom. Rouge se dit « hóngsè ».",
     "say": {
      "hóngsè": "红色"
@@ -10156,7 +10156,7 @@
     }
    },
    {
-    "lit": "ce, petit mot pour compter, utiliser, chinois, comment, dire ?",
+    "lit": "ce, mot de comptage passe-partout, utiliser, chinois, comment, dire",
     "note": "En chinois se dit utiliser le chinois. Cela donne « yòng Zhōngwén ».",
     "say": {
      "yòng Zhōngwén": "用中文"
@@ -10235,7 +10235,7 @@
     }
    },
    {
-    "lit": "vous, manger, ce, petit mot pour compter, médicament, petit mot de suggestion",
+    "lit": "vous, manger, ce, mot de comptage passe-partout, médicament, petit mot de suggestion",
     "note": "En chinois, un médicament se mange. Prendre un médicament se dit « chī yào ».",
     "say": {
      "chī yào": "吃药"
@@ -10488,8 +10488,8 @@
   ],
   "0-1-16": [
    {
-    "lit": "ce, petit mot pour compter, bâtiment, très, haut",
-    "note": "Chaque nom a son petit mot de comptage. Pour un bâtiment, c'est « zuò ».",
+    "lit": "ce, mot de comptage des bâtiments, bâtiment, très, haut",
+    "note": "Chaque nom a son mot de comptage. Pour un bâtiment, c'est « zuò ».",
     "say": {
      "zuò": "座"
     }
@@ -10544,14 +10544,14 @@
     }
    },
    {
-    "lit": "en haut, avoir, un, petit mot pour compter, café",
+    "lit": "en haut, avoir, un, mot de comptage des commerces, café",
     "note": "Le café où l'on s'assoit, c'est la maison du café. Il se dit « kāfēiguǎn ».",
     "say": {
      "kāfēiguǎn": "咖啡馆"
     }
    },
    {
-    "lit": "je, vouloir, un, petit mot pour compter, chaud, café",
+    "lit": "je, vouloir, un, tasse, chaud, café",
     "note": "Les boissons se comptent avec un petit mot à elles. Une tasse se dit « bēi ».",
     "say": {
      "bēi": "杯"
@@ -10602,7 +10602,7 @@
     }
    },
    {
-    "lit": "nous, louer, un, petit mot pour compter, bateau, petit mot de suggestion",
+    "lit": "nous, louer, un, mot de comptage des choses longues, bateau, petit mot de suggestion",
     "note": "Sur le lac, on loue une barque. Bateau se dit « chuán ».",
     "say": {
      "chuán": "船"
@@ -10646,7 +10646,7 @@
     }
    },
    {
-    "lit": "environ, deux, petit mot pour compter, heure",
+    "lit": "environ, deux, mot de comptage passe-partout, heure",
     "note": "Pour une durée, on compte les heures avec un petit mot. Deux heures se dit « liǎng ge xiǎoshí ».",
     "say": {
      "liǎng ge xiǎoshí": "两个小时"
@@ -10753,7 +10753,7 @@
     }
    },
    {
-    "lit": "prochain, un, petit mot pour compter, unité, parler de, se faire, amis",
+    "lit": "prochain, un, mot de comptage passe-partout, unité, parler de, se faire, amis",
     "note": "Prochain se dit dessous, comme la page suivante. Prochain se dit « xià ».",
     "say": {
      "xià": "下"
@@ -10839,7 +10839,7 @@
     }
    },
    {
-    "lit": "non, je, juste, venir, un, petit mot pour compter, mois",
+    "lit": "non, je, juste, venir, un, mot de comptage passe-partout, mois",
     "note": "Pour dire venir juste de, on met un mot avant le verbe. Ce mot, c'est « gāng ».",
     "say": {
      "gāng": "刚"
@@ -10927,7 +10927,7 @@
     }
    },
    {
-    "lit": "toi, souvent, venir, ce, petit mot pour compter, parc, petit mot de question ?",
+    "lit": "toi, souvent, venir, ce, mot de comptage passe-partout, parc, petit mot de question",
     "note": "Le mot souvent se place avant le verbe. Souvent se dit « cháng ».",
     "say": {
      "cháng": "常"
@@ -10983,7 +10983,7 @@
     }
    },
    {
-    "lit": "nous, laisser, petit mot pour compter, téléphone, petit mot de suggestion ?",
+    "lit": "nous, laisser, mot de comptage passe-partout, téléphone, petit mot de suggestion",
     "note": "Échanger nos numéros se dit laisser un numéro. Laisser se dit « liú ».",
     "say": {
      "liú": "留"
@@ -11078,7 +11078,7 @@
     }
    },
    {
-    "lit": "ne pas, loin, conduire, un, petit mot pour compter, heure",
+    "lit": "ne pas, loin, conduire, un, mot de comptage passe-partout, heure",
     "note": "En voiture se dit conduire, placé avant la durée. Conduire se dit « kāichē ».",
     "say": {
      "kāichē": "开车"
@@ -11127,8 +11127,8 @@
     }
    },
    {
-    "lit": "ici, avoir, combien, petit mot pour compter, panda ?",
-    "note": "Chaque nom a son petit mot de comptage. Pour un panda, comme pour les animaux, c'est « zhī ».",
+    "lit": "ici, avoir, combien, mot de comptage des animaux, panda",
+    "note": "Chaque nom a son mot de comptage. Pour un panda, comme pour les animaux, c'est « zhī ».",
     "say": {
      "zhī": "只"
     }
@@ -11136,14 +11136,14 @@
   ],
   "0-2-5": [
    {
-    "lit": "toi, famille, avoir, combien, petit mot pour compter, personne ?",
+    "lit": "toi, famille, avoir, combien, mot de comptage des personnes, personne",
     "note": "Pour compter les membres d'une famille, le petit mot est la bouche. Il se dit « kǒu ».",
     "say": {
      "kǒu": "口"
     }
    },
    {
-    "lit": "je, famille, avoir, quatre, petit mot pour compter, personne",
+    "lit": "je, famille, avoir, quatre, mot de comptage des personnes, personne",
     "note": "Chez moi se dit je famille. Cela donne « wǒ jiā ».",
     "say": {
      "wǒ jiā": "我家"
@@ -11222,8 +11222,8 @@
     }
    },
    {
-    "lit": "je, à, un, petit mot pour compter, France, entreprise, travailler",
-    "note": "Chaque nom a son petit mot de comptage. Pour une entreprise, c'est « jiā ».",
+    "lit": "je, à, un, mot de comptage des commerces, France, entreprise, travailler",
+    "note": "Chaque nom a son mot de comptage. Pour une entreprise, c'est « jiā ».",
     "say": {
      "jiā": "家"
     }
@@ -11359,7 +11359,7 @@
     }
    },
    {
-    "lit": "ce, petit mot pour compter, maison de thé, très, vieux",
+    "lit": "ce, mot de comptage des commerces, maison de thé, très, vieux",
     "note": "Pour un lieu, ancien se dit vieux. Vieux se dit « lǎo ».",
     "say": {
      "lǎo": "老"
@@ -11408,7 +11408,7 @@
     }
    },
    {
-    "lit": "ce, petit mot pour compter, thé, combien, argent ?",
+    "lit": "ce, mot de comptage passe-partout, thé, combien, argent",
     "note": "Pour demander un prix, on dit combien d'argent. Cela donne « duōshao qián ».",
     "say": {
      "duōshao qián": "多少钱"
@@ -11459,7 +11459,7 @@
     }
    },
    {
-    "lit": "ce, petit mot pour compter, comparé à, ce-là, petit mot pour compter, bon marché",
+    "lit": "ce, mot de comptage des commerces, comparé à, ce-là, mot de comptage des commerces, bon marché",
     "note": "Moins cher se dit plus bon marché. Bon marché se dit « piányi ».",
     "say": {
      "piányi": "便宜"
@@ -11524,7 +11524,7 @@
     }
    },
    {
-    "lit": "en bas, avoir, un, petit mot pour compter, très, bien, petit mot du possessif, cantine",
+    "lit": "en bas, avoir, un, mot de comptage passe-partout, très, bien, petit mot du possessif, cantine",
     "note": "En bas de l'immeuble se dit immeuble dessous. Cela donne « lóuxià ».",
     "say": {
      "lóuxià": "楼下"
@@ -11668,7 +11668,7 @@
     }
    },
    {
-    "lit": "falloir, quatre, petit mot pour compter, personne",
+    "lit": "falloir, quatre, mot de comptage passe-partout, personne",
     "note": "Pour dire il faut, on emploie vouloir. Vouloir se dit « yào ».",
     "say": {
      "yào": "要"
@@ -11689,8 +11689,8 @@
     }
    },
    {
-    "lit": "encore, jouer, un, petit mot pour compter les parties, petit mot de suggestion ?",
-    "note": "Une partie de jeu a son propre petit mot de comptage. Il se dit « jú ».",
+    "lit": "encore, jouer, un, mot de comptage des parties de jeu, petit mot de suggestion",
+    "note": "Une partie de jeu a son propre mot de comptage. Il se dit « jú ».",
     "say": {
      "jú": "局"
     }
@@ -11712,7 +11712,7 @@
   ],
   "0-2-13": [
    {
-    "lit": "toi, goûter-goûter, ce, petit mot pour compter, thé",
+    "lit": "toi, goûter-goûter, ce, mot de comptage passe-partout, thé",
     "note": "Doubler un verbe le rend plus léger. Goûter un peu se dit « chángchang ».",
     "say": {
      "chángchang": "尝尝"
@@ -11726,7 +11726,7 @@
     }
    },
    {
-    "lit": "toi, regarder-regarder, ce, petit mot pour compter, photo",
+    "lit": "toi, regarder-regarder, ce, mot de comptage des choses plates, photo",
     "note": "Doubler un verbe le rend plus léger. Regarder un peu se dit « kànkan ».",
     "say": {
      "kànkan": "看看"
@@ -11768,8 +11768,8 @@
     }
    },
    {
-    "lit": "toi, écouter-écouter, ce, petit mot pour compter, chanson",
-    "note": "Chaque nom a son petit mot de comptage. Pour une chanson, c'est « shǒu ».",
+    "lit": "toi, écouter-écouter, ce, mot de comptage des chansons, chanson",
+    "note": "Chaque nom a son mot de comptage. Pour une chanson, c'est « shǒu ».",
     "say": {
      "shǒu": "首"
     }
@@ -11863,7 +11863,7 @@
     }
    },
    {
-    "lit": "je, donner, toi, ce, petit mot pour compter, livre",
+    "lit": "je, donner, toi, ce, mot de comptage des livres, livre",
     "note": "Pour offrir, on dit donner, puis la personne, puis la chose. Donner se dit « gěi ».",
     "say": {
      "gěi": "给"
@@ -11919,7 +11919,7 @@
     }
    },
    {
-    "lit": "je, donner, fille, un, petit mot pour compter, panda, jouet",
+    "lit": "je, donner, fille, un, mot de comptage passe-partout, panda, jouet",
     "note": "Pour la famille proche, pas de petit mot du possessif. Ma fille se dit « nǚ'ér ».",
     "say": {
      "nǚ'ér": "女儿"
@@ -11956,8 +11956,8 @@
     }
    },
    {
-    "lit": "je, maison, environs, avoir, un, petit mot pour compter",
-    "note": "Pas besoin de répéter le nom. Pour un restaurant, le petit mot de comptage est « jiā ».",
+    "lit": "je, maison, environs, avoir, un, mot de comptage des commerces",
+    "note": "Pas besoin de répéter le nom. Pour un restaurant, le mot de comptage est « jiā ».",
     "say": {
      "jiā": "家"
     }
@@ -12000,7 +12000,7 @@
   ],
   "0-2-17": [
    {
-    "lit": "ce, petit mot pour compter, fondue, trop, épicé, petit mot d'exclamation !",
+    "lit": "ce, mot de comptage passe-partout, fondue, trop, épicé, petit mot d'exclamation",
     "note": "Pour se plaindre, on dit trop, avec le petit mot le à la fin. Trop épicé se dit « tài là le ».",
     "say": {
      "tài là le": "太辣了"
@@ -12042,7 +12042,7 @@
     }
    },
    {
-    "lit": "ce, petit mot pour compter, restaurant, extrêmement, célèbre",
+    "lit": "ce, mot de comptage des commerces, restaurant, extrêmement, célèbre",
     "note": "Pas de verbe être devant un adjectif. Célèbre se dit « yǒumíng ».",
     "say": {
      "yǒumíng": "有名"
@@ -12114,7 +12114,7 @@
     }
    },
    {
-    "lit": "arriver, maison, pour, moi, envoyer, petit mot pour compter, message",
+    "lit": "arriver, maison, pour, moi, envoyer, mot de comptage passe-partout, message",
     "note": "Envoyer un message se dit envoyer une information. Cela donne « fā xìnxī ».",
     "say": {
      "fā xìnxī": "发信息"
@@ -12151,7 +12151,7 @@
     }
    },
    {
-    "lit": "ce, petit mot pour compter, module, étudier, fini, petit mot de l'action accomplie, petit mot pour dire n'est-ce pas ?",
+    "lit": "ce, mot de comptage passe-partout, module, étudier, fini, petit mot de l'action accomplie, petit mot pour dire n'est-ce pas",
     "note": "Finir d'étudier se dit étudier fini. Cela donne « xué wán ».",
     "say": {
      "xué wán": "学完"
@@ -12193,7 +12193,7 @@
     }
    },
    {
-    "lit": "nous, continuer, étudier, suivant, un, petit mot pour compter, module, petit mot de suggestion !",
+    "lit": "nous, continuer, étudier, suivant, un, mot de comptage passe-partout, module, petit mot de suggestion",
     "note": "Pour dire on continue, on emploie un verbe à part. Continuer se dit « jìxù ».",
     "say": {
      "jìxù": "继续"
@@ -12982,5 +12982,22 @@
   "0-0-2",
   "0-0-3",
   "0-0-4"
- ]
+ ],
+ "tips2": {
+  "0-0-1": {
+   "title": "Les mots de comptage",
+   "example": "Ce thé sent très bon. — 这<b>个</b>茶很香。",
+   "exampleRo": "Zhège chá hěn xiāng.",
+   "lit": "ce · mot de comptage · thé · très · parfumé",
+   "body": "En chinois, on ne peut pas dire un thé ou ce billet directement. Entre le nombre, ou le mot ce, et le nom, il faut toujours un petit mot : le mot de comptage. Le français le fait de temps en temps. On dit une tranche de pain, une feuille de papier, une paire de chaussures. En chinois, c'est obligatoire tout le temps. Le plus courant se dit « ge ». Il marche presque partout. Ce thé se dit « zhège chá ». Les autres mots de comptage dépendent de la forme de l'objet. Pour les choses plates, comme un billet ou une table, c'est « zhāng ». Pour les choses longues, comme une rue ou une serviette, c'est « tiáo ». Pour les animaux, c'est « zhī ». Et pour une boisson, on compte les tasses. Une tasse de thé se dit « yì bēi chá ». Si vous hésitez, dites « ge ». On vous comprendra presque toujours.",
+   "say": {
+    "ge": "个",
+    "zhège chá": "这个茶",
+    "zhāng": "张",
+    "tiáo": "条",
+    "zhī": "只",
+    "yì bēi chá": "一杯茶"
+   }
+  }
+ }
 }
