@@ -1,6 +1,7 @@
 import AVFoundation
 import Capacitor
 import CallKit
+import UIKit
 
 // Version modifiée de @capacitor-community/text-to-speech 6.1.0 (Mon Trajet).
 // Objectif : lecture fiable en voiture (CarPlay / Bluetooth).
@@ -68,6 +69,19 @@ final class MTRenderJob {
     // Surveille les appels : iOS n'envoie pas toujours la « fin d'interruption » après un
     // appel (surtout écran verrouillé). Quand le dernier appel se termine, on relance.
     private let callWatcher = CXCallObserver()
+    // Reprise après une coupure : numéro de la tentative en cours (une nouvelle annule
+    // l'ancienne) et « tâche de fond » qui empêche iOS d'endormir l'app pendant les essais.
+    private var resumeGen = 0
+    // Journal des coupures (appel, reprise…) : affiché dans l'app (écran des voix,
+    // « Journal audio ») pour comprendre ce qui se passe quand la reprise échoue.
+    private var audioLog: [String] = []
+    private func logAudio(_ msg: String) {
+        let f = DateFormatter(); f.dateFormat = "HH:mm:ss"
+        audioLog.append(f.string(from: Date()) + " " + msg)
+        if audioLog.count > 60 { audioLog.removeFirst(audioLog.count - 60) }
+    }
+    private var bgTask: UIBackgroundTaskIdentifier = .invalid
+    private var lastSessionError = ""
 
     override init() {
         super.init()
@@ -78,6 +92,35 @@ final class MTRenderJob {
                                                name: AVAudioSession.interruptionNotification,
                                                object: nil)
         callWatcher.setDelegate(self, queue: DispatchQueue.main)
+        // Autres moments où le son peut nous être rendu après une coupure : changement de
+        // sortie audio (fin d'appel en Bluetooth dans la voiture), retour de l'app au premier
+        // plan, redémarrage des services audio.
+        let nc = NotificationCenter.default
+        nc.addObserver(self, selector: #selector(retryResumeIfInterrupted(_:)), name: AVAudioSession.routeChangeNotification, object: nil)
+        nc.addObserver(self, selector: #selector(retryResumeIfInterrupted(_:)), name: AVAudioSession.mediaServicesWereResetNotification, object: nil)
+        nc.addObserver(self, selector: #selector(retryResumeIfInterrupted(_:)), name: UIApplication.didBecomeActiveNotification, object: nil)
+    }
+
+    @objc private func retryResumeIfInterrupted(_ note: Notification) {
+        let name = note.name.rawValue
+        DispatchQueue.main.async { [weak self] in
+            guard let s = self, s.seqInterrupted else { return }
+            s.logAudio("signal " + name)
+            s.resumeAfterInterruption(0.5)
+        }
+    }
+
+    private func beginBackgroundTime() {
+        if bgTask != .invalid { return }
+        bgTask = UIApplication.shared.beginBackgroundTask(withName: "MonTrajetReprise") { [weak self] in
+            self?.endBackgroundTime()
+        }
+    }
+
+    private func endBackgroundTime() {
+        if bgTask == .invalid { return }
+        UIApplication.shared.endBackgroundTask(bgTask)
+        bgTask = .invalid
     }
 
     // Un appel change d'état. Quand plus aucun appel n'est en cours et que la leçon avait
@@ -85,18 +128,59 @@ final class MTRenderJob {
     public func callObserver(_ callObserver: CXCallObserver, callChanged call: CXCall) {
         guard call.hasEnded else { return }
         if callObserver.calls.contains(where: { !$0.hasEnded }) { return }
+        if seqInterrupted { logAudio("fin d'appel (CallKit)") }
         resumeAfterInterruption(1.0)
     }
 
-    // Reprise après une coupure par iOS (appel, Siri, alarme) : on attend un peu que le son
-    // soit rendu à l'app, puis on réessaie pendant une quinzaine de secondes si besoin.
+    // Reprise après une coupure par iOS (appel, Siri, alarme). Dans la voiture, la fin d'un
+    // appel en Bluetooth met plusieurs secondes à rendre le son : on réessaie toutes les
+    // 0,75 s pendant environ 40 s, en vérifiant à chaque fois que (1) plus aucun appel
+    // n'est en cours, (2) iOS accepte de réactiver le son, (3) la lecture a vraiment repris.
+    // Tant que ce n'est pas le cas, la séquence reste « interrompue » : tout nouveau signal
+    // (fin d'appel, changement de sortie audio, retour dans l'app) relance les essais.
     private func resumeAfterInterruption(_ delay: Double) {
-        guard seqInterrupted else { return }
-        let id = seqId
+        guard seqInterrupted, seqActive, seqPaused else { return }
+        resumeGen += 1
+        let gen = resumeGen
+        beginBackgroundTime()
         DispatchQueue.main.asyncAfter(deadline: .now() + delay) { [weak self] in
-            guard let s = self, s.seqInterrupted, s.seqActive, s.seqPaused, s.seqId == id else { return }
-            s.seqInterrupted = false
-            s.resumeNow(10, true)
+            self?.attemptResume(gen, 54)
+        }
+    }
+
+    private func attemptResume(_ gen: Int, _ triesLeft: Int) {
+        guard gen == resumeGen else { return }
+        guard seqInterrupted, seqActive, seqPaused else { endBackgroundTime(); return }
+        let callActive = callWatcher.calls.contains(where: { !$0.hasEnded })
+        // Une autre app joue du son (musique lancée entre-temps) : on ne lui coupe pas la parole.
+        let otherAudio = AVAudioSession.sharedInstance().isOtherAudioPlaying
+        var why = callActive ? "appel en cours" : (otherAudio ? "autre son en cours" : "")
+        var ok = false
+        if why.isEmpty {
+            if !activateSession() { why = "son refusé par iOS (" + lastSessionError + ")" }
+            else if !resumeCore(true) { why = "lecture non repartie" }
+            else { ok = true }
+        }
+        if !ok && (triesLeft % 8 == 0 || triesLeft == 54) { logAudio("essai de reprise : " + why) }
+        if ok {
+            logAudio("REPRISE OK")
+            // Reprise réussie : on garde encore un peu de temps de fond, par sécurité.
+            DispatchQueue.main.asyncAfter(deadline: .now() + 3) { [weak self] in
+                guard let s = self, gen == s.resumeGen else { return }
+                s.endBackgroundTime()
+            }
+            return
+        }
+        if triesLeft <= 0 {
+            logAudio("abandon après 40 s")
+            // On abandonne pour cette fois ; la séquence reste « interrompue » et repartira
+            // au prochain signal (ou quand l'utilisateur appuie sur lecture).
+            notify?("seqPaused", ["seq": seqId])
+            endBackgroundTime()
+            return
+        }
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.75) { [weak self] in
+            self?.attemptResume(gen, triesLeft - 1)
         }
     }
 
@@ -125,12 +209,15 @@ final class MTRenderJob {
                 guard s.seqActive, !s.seqPaused else { return }
                 s.pauseNow()
                 s.seqInterrupted = true
+                s.logAudio("coupure par iOS (début)")
+                s.resumeGen += 1 // annule une reprise en cours
+                s.beginBackgroundTime() // reste éveillée le temps d'un appel court ou refusé
                 s.notify?("seqPaused", ["seq": s.seqId])
             } else {
                 // Fin de l'interruption : on reprend TOUJOURS tout seul. iOS n'indique pas
                 // toujours « peut reprendre » après un appel ; l'utilisateur conduit et ne
                 // doit pas avoir à toucher le téléphone.
-                _ = shouldResume
+                if s.seqInterrupted { s.logAudio("fin de coupure (iOS)" + (shouldResume ? ", reprise autorisée" : ", sans autorisation")) }
                 s.resumeAfterInterruption(0.6)
             }
         }
@@ -140,13 +227,22 @@ final class MTRenderJob {
 
     private func ensureSession() {
         if sessionReady { return }
+        _ = activateSession()
+    }
+
+    // (Ré)active le son de l'app ; false si iOS refuse (appel encore en cours, par exemple).
+    private func activateSession() -> Bool {
         do {
             let session = AVAudioSession.sharedInstance()
             try session.setCategory(.playback, mode: .default, options: [])
             try session.setActive(true)
             sessionReady = true
+            return true
         } catch {
+            sessionReady = false
+            lastSessionError = String((error as NSError).code)
             print("TextToSpeech: AVAudioSession error \(error)")
+            return false
         }
     }
 
@@ -527,31 +623,18 @@ final class MTRenderJob {
     }
 
     // Relance la séquence là où elle s'était arrêtée (à appeler sur le fil principal).
-    // retriesLeft : nouvelles tentatives si iOS refuse encore de rendre le son
-    // (juste après un appel) ; announce : prévenir la page que la lecture a repris.
-    private func resumeNow(_ retriesLeft: Int, _ announce: Bool) {
-        guard seqActive, seqPaused else { return }
-        sessionReady = false // après un appel, la session audio doit être réactivée
-        ensureSession()
+    // Renvoie false si le son n'a pas pu repartir (iOS ne l'a pas encore rendu à l'app).
+    private func resumeCore(_ announce: Bool) -> Bool {
+        guard seqActive, seqPaused else { return false }
+        // La piste de maintien doit jouer : c'est elle qui garde l'app éveillée pendant
+        // les silences. Si elle refuse de démarrer, le son n'est pas encore à nous.
+        touchKeepAlive()
+        if let k = keepAlive, !k.isPlaying { return false }
         if !seqInWait, let p = player, !p.isPlaying {
-            if !p.play() {
-                // Le son n'est pas encore rendu à l'app : on réessaie un peu plus tard,
-                // sinon on reste en pause (l'utilisateur relancera avec le bouton lecture).
-                let id = seqId
-                if retriesLeft > 0 {
-                    DispatchQueue.main.asyncAfter(deadline: .now() + 1.5) { [weak self] in
-                        guard let s = self, s.seqActive, s.seqPaused, s.seqId == id else { return }
-                        s.resumeNow(retriesLeft - 1, announce)
-                    }
-                } else {
-                    notify?("seqPaused", ["seq": id])
-                }
-                return
-            }
+            if !p.play() { keepAlive?.pause(); return false }
         }
         seqPaused = false
         seqInterrupted = false
-        touchKeepAlive()
         if seqInWait {
             scheduleWait(waitRemaining, seqId, seqIndex)
         } else if player == nil && liveUtterance != nil {
@@ -559,22 +642,43 @@ final class MTRenderJob {
         }
         // sinon : la phrase est en cours de fabrication, elle démarrera seule.
         if announce { notify?("seqResumed", ["seq": seqId]) }
+        return true
+    }
+
+    // Reprise demandée par l'utilisateur (bouton lecture) ; announce : prévenir la page.
+    private func resumeNow(_ retriesLeft: Int, _ announce: Bool) {
+        guard seqActive, seqPaused else { return }
+        resumeGen += 1 // l'utilisateur reprend la main : on arrête les essais automatiques
+        if activateSession() && resumeCore(announce) { endBackgroundTime(); return }
+        let id = seqId
+        if retriesLeft > 0 {
+            DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) { [weak self] in
+                guard let s = self, s.seqActive, s.seqPaused, s.seqId == id else { return }
+                s.resumeNow(retriesLeft - 1, announce)
+            }
+        } else {
+            notify?("seqPaused", ["seq": id])
+        }
     }
 
     @objc public func pauseSequence() {
         DispatchQueue.main.async { [weak self] in
-            self?.pauseNow()
+            guard let s = self else { return }
+            // Pause voulue par l'utilisateur : plus de reprise automatique.
+            s.seqInterrupted = false
+            s.resumeGen += 1
+            s.pauseNow()
         }
     }
 
     @objc public func resumeSequence() {
         DispatchQueue.main.async { [weak self] in
-            self?.resumeNow(0, false)
+            self?.resumeNow(3, false)
         }
     }
 
     @objc public func sequenceState() -> [String: Any] {
-        return ["seq": seqId, "index": seqIndex, "active": seqActive, "paused": seqPaused, "ended": seqEnded]
+        return ["seq": seqId, "index": seqIndex, "active": seqActive, "paused": seqPaused, "ended": seqEnded, "log": audioLog]
     }
 
     @objc public func getSupportedLanguages() -> [String] {

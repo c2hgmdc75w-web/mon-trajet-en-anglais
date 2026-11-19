@@ -1317,6 +1317,19 @@ document.addEventListener('visibilitychange', async ()=>{
    Liste les voix réellement installées sur le téléphone pour le français et
    la langue apprise, avec leur qualité. Un appui choisit la voix (mémorisée)
    et la fait entendre. Par défaut, la meilleure voix est choisie. */
+// Journal audio : ce que l'iPhone a signalé lors des dernières coupures (appel, reprise).
+// Sert à comprendre pourquoi une leçon n'a pas repris toute seule ; à copier et envoyer.
+async function showAudioLog(){
+  const box = $('audioLogBox'); if(!box) return;
+  box.style.display = 'block';
+  if(!isNativeApp()){ box.textContent = "Disponible dans l'app sur iPhone."; return; }
+  try{
+    const st = await getTTSPlugin().getSequenceState();
+    const log = (st && st.log) || [];
+    box.textContent = log.length ? log.join('\n') : "Aucune coupure enregistrée depuis l'ouverture de l'app.";
+  }catch(e){ box.textContent = 'Journal indisponible.'; }
+}
+if($('audioLogBtn')) $('audioLogBtn').onclick = showAudioLog;
 async function openVoicePicker(){
   $('voicePicker').classList.add('show');
   $('voiceLists').innerHTML = '<div class="voice-empty">Chargement des voix…</div>';
