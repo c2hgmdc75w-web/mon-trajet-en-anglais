@@ -82,6 +82,12 @@ final class MTRenderJob {
     }
     private var bgTask: UIBackgroundTaskIdentifier = .invalid
     private var lastSessionError = ""
+    // true quand le son de l'app est « mélangeable » avec celui des autres apps. iOS interdit
+    // à une app en arrière-plan de reprendre le son si une autre app (le GPS au premier plan)
+    // a le sien actif, sauf si elle accepte de se mélanger : c'est le plan B de la reprise.
+    private var sessionMixed = false
+    // La coupure en cours vient d'un appel (et pas de Siri ou de la musique d'une autre app).
+    private var interruptedByCall = false
 
     override init() {
         super.init()
@@ -105,6 +111,8 @@ final class MTRenderJob {
         let name = note.name.rawValue
         DispatchQueue.main.async { [weak self] in
             guard let s = self, s.seqInterrupted else { return }
+            // Hors appel, seul le retour dans l'app relance (pas un simple changement de sortie).
+            if !s.interruptedByCall && name != UIApplication.didBecomeActiveNotification.rawValue { return }
             s.logAudio("signal " + name)
             s.resumeAfterInterruption(0.5)
         }
@@ -126,9 +134,10 @@ final class MTRenderJob {
     // Un appel change d'état. Quand plus aucun appel n'est en cours et que la leçon avait
     // été coupée par iOS, on la relance (même si la « fin d'interruption » n'arrive jamais).
     public func callObserver(_ callObserver: CXCallObserver, callChanged call: CXCall) {
+        if seqInterrupted { interruptedByCall = true }
         guard call.hasEnded else { return }
         if callObserver.calls.contains(where: { !$0.hasEnded }) { return }
-        if seqInterrupted { logAudio("fin d'appel (CallKit)") }
+        if seqInterrupted { interruptedByCall = true; logAudio("fin d'appel (CallKit)") }
         resumeAfterInterruption(1.0)
     }
 
@@ -152,9 +161,10 @@ final class MTRenderJob {
         guard gen == resumeGen else { return }
         guard seqInterrupted, seqActive, seqPaused else { endBackgroundTime(); return }
         let callActive = callWatcher.calls.contains(where: { !$0.hasEnded })
-        // Une autre app joue du son (musique lancée entre-temps) : on ne lui coupe pas la parole.
+        // Coupure sans appel (musique lancée dans une autre app…) : on ne lui coupe pas la
+        // parole. Après un appel, on reprend même si le GPS a son propre son actif.
         let otherAudio = AVAudioSession.sharedInstance().isOtherAudioPlaying
-        var why = callActive ? "appel en cours" : (otherAudio ? "autre son en cours" : "")
+        var why = callActive ? "appel en cours" : ((otherAudio && !interruptedByCall) ? "autre son en cours" : "")
         var ok = false
         if why.isEmpty {
             if !activateSession() { why = "son refusé par iOS (" + lastSessionError + ")" }
@@ -209,7 +219,8 @@ final class MTRenderJob {
                 guard s.seqActive, !s.seqPaused else { return }
                 s.pauseNow()
                 s.seqInterrupted = true
-                s.logAudio("coupure par iOS (début)")
+                s.interruptedByCall = s.callWatcher.calls.contains(where: { !$0.hasEnded })
+                s.logAudio("coupure par iOS (début)" + (s.interruptedByCall ? ", appel" : ""))
                 s.resumeGen += 1 // annule une reprise en cours
                 s.beginBackgroundTime() // reste éveillée le temps d'un appel court ou refusé
                 s.notify?("seqPaused", ["seq": s.seqId])
@@ -232,16 +243,30 @@ final class MTRenderJob {
 
     // (Ré)active le son de l'app ; false si iOS refuse (appel encore en cours, par exemple).
     private func activateSession() -> Bool {
+        let session = AVAudioSession.sharedInstance()
         do {
-            let session = AVAudioSession.sharedInstance()
             try session.setCategory(.playback, mode: .default, options: [])
             try session.setActive(true)
             sessionReady = true
+            sessionMixed = false
+            return true
+        } catch {
+            lastSessionError = String((error as NSError).code)
+            print("TextToSpeech: AVAudioSession error \(error)")
+        }
+        // Plan B : son mélangeable. Nécessaire en arrière-plan quand une autre app (GPS)
+        // garde son propre son actif : iOS refuse sinon (erreur 560557684).
+        do {
+            try session.setCategory(.playback, mode: .default, options: [.mixWithOthers])
+            try session.setActive(true)
+            sessionReady = true
+            if !sessionMixed { logAudio("son réactivé en mode mélangé (refus normal : " + lastSessionError + ")") }
+            sessionMixed = true
             return true
         } catch {
             sessionReady = false
-            lastSessionError = String((error as NSError).code)
-            print("TextToSpeech: AVAudioSession error \(error)")
+            lastSessionError += "/" + String((error as NSError).code)
+            print("TextToSpeech: AVAudioSession (mix) error \(error)")
             return false
         }
     }
@@ -536,6 +561,9 @@ final class MTRenderJob {
             guard let s = self else { return }
             s.stopSequence()
             s.stopInternal()
+            // Après une reprise en mode mélangé, on revient au son normal dès que l'app
+            // est au premier plan (en arrière-plan, iOS pourrait le refuser).
+            if s.sessionMixed && UIApplication.shared.applicationState == .active { s.sessionReady = false }
             s.ensureSession()
             s.seqItems = items
             s.seqIndex = max(0, start)
