@@ -439,7 +439,7 @@ function renderHome(){
     </div>`;
 
     // Point de grammaire : affiché juste après la leçon qui le déclenche.
-    [0,1].forEach(k=>{ const tip = tipOf(lesson, k); if(!(content && tip)) return;
+    const tipRow = k=>{ const tip = tipOf(lesson, k); if(!(content && tip)) return;
       const tipNum = TIP_NUMBERS[tipKey(currentModule, i, k)] || '';
       const doneKey = 'lv'+levelId+'-tip-'+tipKey(currentModule, i, k);
       const tipDone = state.completed.includes(doneKey);
@@ -454,7 +454,8 @@ function renderHome(){
           <div class="lesson-sub">${tip.title}</div>
         </div>
       </div>`;
-    });
+    };
+    tipRow(0);
 
     // Évaluation : révision périodique, affichée juste après la leçon qui
     // la déclenche (et après son éventuel point de grammaire). Le contrôle
@@ -479,6 +480,8 @@ function renderHome(){
         </div>
       </div>`;
     }
+
+    tipRow(1); // second point de grammaire : après l'évaluation
 
     // Série fermée (nouvelle méthode) : affichée juste après sa leçon.
     if(content && lesson.series){
@@ -943,7 +946,7 @@ function buildLessonSegments(mi, li){
   segs.push(W(400, 'Introduction', CTX, 'headphones', false, lesson.title, ''));
   if(lesson.debut){
     // Leçon débutant (essai chinois) : on annonce un objectif atteignable, le reste est un défi.
-    segs.push(S(`Ton objectif aujourd'hui : reconnaître ces dix phrases quand tu les entends, ${L.inLang}. Et pour ceux qui veulent, un défi à la fin.`, 'fr', 1, 'Objectif', CTX, 'headphones', false, lesson.title, ''));
+    segs.push(S(`Ton objectif aujourd'hui : reconnaître ces dix phrases quand tu les entends, ${L.inLang}. Ensuite, on les traduira ensemble, mot par mot.`, 'fr', 1, 'Objectif', CTX, 'headphones', false, lesson.title, ''));
     segs.push(W(600, 'Objectif', CTX, 'headphones', false, lesson.title, ''));
   }
 
@@ -1007,10 +1010,11 @@ function buildLessonSegments(mi, li){
       segs.push(S(title + '.', 'fr', 1, lab, CTX, 'headphones', false, title, ''));
       segs.push(W(500, lab, CTX, 'headphones', false, title, ''));
       g.words.forEach(([fr, tg])=>{
+        // mêmes temps que le mot à mot de l'apprentissage
         segs.push(S(frIsolated(fr), 'fr', 1, lab, CTX, 'headphones', false, fr, tg));
-        segs.push(W(350, lab, CTX, 'headphones', false, fr, tg));
+        segs.push(W(100, lab, CTX, 'headphones', false, fr, tg));
         segs.push(S(tgtIsolated(tg), 'tgt', 0.85, lab, TGT, 'speaker', false, fr, tg));
-        segs.push(W(700, lab, TGT, 'speaker', false, fr, tg));
+        segs.push(W(300, lab, TGT, 'speaker', false, fr, tg));
       });
       segs.push(W(400, lab, CTX, 'headphones', false, '', ''));
     });
@@ -1091,7 +1095,7 @@ function buildLessonSegments(mi, li){
 // Mot de la fin quand l'enchaînement s'arrête après cette leçon (niveau courant) :
 // fin des leçons gratuites, ou fin de tout le parcours.
 // Tests des leçons « débutant » (essai chinois) : 1. reconnaître (langue → français, objectif
-// principal), 2. mots clés (un mot par phrase), 3. défi : 5 phrases courtes en entier.
+// principal), 2. traduction guidée (français → langue, mot après mot).
 function debutTestSegments(lesson){
   const CTX = 'var(--context)', TGT = 'var(--target)', SPK = 'var(--speak)', out = [];
   const n = lesson.phrases.length;
@@ -1107,30 +1111,25 @@ function debutTestSegments(lesson){
     out.push(S(p.tgt, 'tgt', 0.85, 'Reconnaissance — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
     out.push(W(900, 'Reconnaissance — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
   });
-  // 2. Mots clés
-  out.push(S('Maintenant, je te demande un seul mot.', 'fr', 1, 'Mots clés', SPK, 'repeat', false, '', ''));
-  out.push(W(600, 'Mots clés', SPK, 'repeat', false, '', ''));
-  lesson.debut.keys.forEach(([fr, tg], i)=>{
+  // 2. Traduction guidée : la phrase en français, un temps pour chercher, puis le mot à mot
+  //    en français avec un temps après chaque mot pour le deviner, la solution mot après
+  //    mot, et enfin la phrase entière.
+  out.push(S("Maintenant, à toi de traduire. Cherche d'abord la phrase entière. Ensuite, je te donne les mots un par un. Essaie de dire chaque mot avant moi.", 'fr', 1, 'Traduction guidée', SPK, 'repeat', false, '', ''));
+  out.push(W(700, 'Traduction guidée', SPK, 'repeat', false, '', ''));
+  lesson.phrases.forEach((p, i)=>{
     const ex = {idx:i, total:n};
-    out.push(S(`Comment dit-on ${fr} ?`, 'fr', 1, 'Mots clés', CTX, 'headphones', false, fr, '···', ex));
-    out.push(W(3000, 'Mots clés — à toi', SPK, 'repeat', true, fr, '···', ex));
-    out.push(S(tgtIsolated(tg), 'tgt', 0.85, 'Mots clés — réponse', TGT, 'speaker', false, fr, tg, ex));
-    out.push(W(600, 'Mots clés — réponse', TGT, 'speaker', false, fr, tg, ex));
-    out.push(S(tgtIsolated(tg), 'tgt', 0.85, 'Mots clés — réponse', TGT, 'speaker', false, fr, tg, ex));
-    out.push(W(900, 'Mots clés — réponse', TGT, 'speaker', false, fr, tg, ex));
-  });
-  // 3. Défi
-  out.push(S("Le défi : dis la phrase entière. Si tu n'y arrives pas, c'est normal, c'est le travail des prochaines leçons.", 'fr', 1, 'Défi', SPK, 'repeat', false, '', ''));
-  out.push(W(700, 'Défi', SPK, 'repeat', false, '', ''));
-  lesson.debut.defi.forEach((k, i)=>{
-    const p = lesson.phrases[k], ex = {idx:i, total: lesson.debut.defi.length};
-    const repeatMs = Math.max(2200, (p.ro||p.tgt).length*80) + 3000;
-    out.push(S(p.fr, 'fr', 1, `Défi — traduis ${L.inLang}`, CTX, 'headphones', false, p.fr, '···', ex));
-    out.push(W(repeatMs, 'Défi — à toi', SPK, 'repeat', true, p.fr, '···', ex));
-    out.push(S(p.tgt, 'tgt', 0.85, 'Défi — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
-    out.push(W(2400, 'Défi — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
-    out.push(S(p.tgt, 'tgt', 0.85, 'Défi — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
-    out.push(W(1500, 'Défi — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
+    const searchMs = Math.min(6000, Math.max(2200, (p.ro||p.tgt).length*80) + 2000);
+    out.push(S(p.fr, 'fr', 1, `Traduction guidée — traduis ${L.inLang}`, CTX, 'headphones', false, p.fr, '···', ex));
+    out.push(W(searchMs, 'Traduction guidée — cherche', SPK, 'repeat', true, p.fr, '···', ex));
+    ((p.note && p.note.words) || []).forEach(w=>{
+      out.push(S(frIsolated(w[0]), 'fr', 1, 'Traduction guidée — ce mot ?', CTX, 'headphones', false, p.fr, '···', ex));
+      out.push(W(1600, 'Traduction guidée — ce mot ?', SPK, 'repeat', true, p.fr, '···', ex));
+      out.push(S(tgtIsolated(w[1]), 'tgt', 0.85, 'Traduction guidée — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
+      out.push(W(300, 'Traduction guidée — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
+    });
+    out.push(W(400, 'Traduction guidée — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
+    out.push(S(p.tgt, 'tgt', 0.85, 'Traduction guidée — la phrase', TGT, 'speaker', false, p.fr, p.tgt, ex));
+    out.push(W(1800, 'Traduction guidée — la phrase', TGT, 'speaker', false, p.fr, p.tgt, ex));
   });
   return out;
 }
@@ -1499,9 +1498,10 @@ function lessonExtras(mi, li){
   const m = MODULES[mi];
   if(!m || !m.lessons[li]) return out;
   if(m.lessons[li].tip) out.push({type:'tip', lv:currentLevel, mi, li, k:0, chained:true});
-  if(m.lessons[li].tip2) out.push({type:'tip', lv:currentLevel, mi, li, k:1, chained:true});
   const info = EVAL_NUMBERS[mi+'-'+li];
   if(info) out.push({type:'eval', lv:currentLevel, mi, anchor:li, li, chained:true});
+  // Le second point de grammaire passe APRÈS l'évaluation : jamais deux points de grammaire de suite.
+  if(m.lessons[li].tip2) out.push({type:'tip', lv:currentLevel, mi, li, k:1, chained:true});
   if(m.lessons[li].series) out.push({type:'series', lv:currentLevel, mi, li, chained:true});
   return out;
 }
@@ -2098,8 +2098,8 @@ function buildProgramSequence(mi){
     seq.push({type:'lesson', li});
     const lesson = m.lessons[li];
     if(lesson.tip) seq.push({type:'tip', li, k:0});
-    if(lesson.tip2) seq.push({type:'tip', li, k:1});
     if(EVAL_NUMBERS[mi+'-'+li]) seq.push({type:'eval', li, anchor: li});
+    if(lesson.tip2) seq.push({type:'tip', li, k:1});
     if(lesson.series) seq.push({type:'series', li});
   }
   return seq;

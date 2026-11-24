@@ -130,7 +130,12 @@ function build(code, levels) {
     });
     // Second point de grammaire ajouté (extra.tips2), joué juste après le premier.
     const T2 = (EXTRA.tips2 || {})[id];
-    if (T2) { used.T2 = used.T2 || new Set(); used.T2.add(id); l.tip2 = T2; tips++; } else delete l.tip2;
+    if (T2) {
+      // Joué après l'évaluation de la leçon : il faut donc une leçon suivie d'une évaluation
+      // (leçons 5, 10, 15, 20), sinon deux points de grammaire se suivraient.
+      if (l.tip && (c + 1) % 5 !== 0) throw new Error(`${code} ${id} : un second point de grammaire (extra.tips2) doit être placé sur une leçon 5, 10, 15 ou 20`);
+      used.T2 = used.T2 || new Set(); used.T2.add(id); l.tip2 = T2; tips++;
+    } else delete l.tip2;
     if (!l.tip) return;
     tips++;
     const fx = FIX[id];

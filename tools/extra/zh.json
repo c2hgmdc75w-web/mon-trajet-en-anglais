@@ -12984,19 +12984,19 @@
   "0-0-4"
  ],
  "tips2": {
-  "0-0-1": {
+  "0-0-4": {
    "title": "Les mots de comptage",
-   "example": "Ce thé sent très bon. — 这<b>个</b>茶很香。",
-   "exampleRo": "Zhège chá hěn xiāng.",
-   "lit": "ce · mot de comptage · thé · très · parfumé",
-   "body": "En chinois, on ne peut pas dire un thé ou ce billet directement. Entre le nombre, ou le mot ce, et le nom, il faut toujours un petit mot : le mot de comptage. Le français le fait de temps en temps. On dit une tranche de pain, une feuille de papier, une paire de chaussures. En chinois, c'est obligatoire tout le temps. Le plus courant se dit « ge ». Il marche presque partout. Ce thé se dit « zhège chá ». Les autres mots de comptage dépendent de la forme de l'objet. Pour les choses plates, comme un billet ou une table, c'est « zhāng ». Pour les choses longues, comme une rue ou une serviette, c'est « tiáo ». Pour les animaux, c'est « zhī ». Et pour une boisson, on compte les tasses. Une tasse de thé se dit « yì bēi chá ». Si vous hésitez, dites « ge ». On vous comprendra presque toujours.",
+   "example": "Ce canard n'est pas cher. — 这<b>只</b>烤鸭不贵。",
+   "exampleRo": "Zhè zhī kǎoyā bú guì.",
+   "lit": "ce · mot de comptage · canard laqué · ne pas · cher",
+   "body": "En chinois, on ne peut pas dire un thé ou ce billet directement. Entre le nombre, ou le mot ce, et le nom, il faut toujours un petit mot : le mot de comptage. Le français le fait de temps en temps. On dit une tranche de pain, une feuille de papier, une paire de chaussures. En chinois, c'est obligatoire tout le temps. Le plus courant se dit « ge ». Il marche presque partout. Ce plat se dit « zhège cài ». Les autres mots de comptage dépendent de la forme de l'objet. Pour les choses plates, comme un billet ou une table, c'est « zhāng ». Pour les choses longues, comme une rue ou une serviette, c'est « tiáo ». Pour les animaux, c'est « zhī ». Et pour une boisson, on compte les tasses. Une tasse de thé se dit « yì bēi chá ». Si vous hésitez, dites « ge ». On vous comprendra presque toujours.",
    "say": {
     "ge": "个",
-    "zhège chá": "这个茶",
     "zhāng": "张",
     "tiáo": "条",
     "zhī": "只",
-    "yì bēi chá": "一杯茶"
+    "yì bēi chá": "一杯茶",
+    "zhège cài": "这个菜"
    }
   }
  }
