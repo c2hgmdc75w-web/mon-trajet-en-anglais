@@ -666,18 +666,29 @@ function buildIntroSegments(){
 // leçon automatiquement, et pour une lecture autonome depuis la liste).
 // Découpe un texte de point de grammaire : le français est lu par la voix
 // française, les mots cités « … » en langue apprise (tip.say) par la voix native.
+// Texte d'un point de grammaire, dit PHRASE PAR PHRASE : la voix française ne fait retomber
+// l'intonation qu'au point, et l'auditeur a besoin d'un temps après chaque phrase pour
+// intégrer ce qu'il vient d'entendre. Les passages entre « » sont dits par la voix native,
+// suivis d'un petit temps.
+const TIP_SENTENCE_GAP = 1100, TIP_WORD_GAP = 600;
 function tipSpeech(text, tip, lab, tx){
   const map = tip.say || {}, CTX = 'var(--context)', out = [];
-  const re = /«\s*([^»]+?)\s*»/g; let last = 0, m, buf = '';
-  const flush = ()=>{ const t = buf.replace(/\s+/g,' ').trim(); if(/[A-Za-zÀ-ÿ0-9]/.test(t)) out.push(S(t, 'fr', 1, lab, CTX, 'headphones', false, tip.title, '', tx)); buf = ''; };
-  while((m = re.exec(text))){
-    const nat = map[m[1]];
-    if(!nat) continue;
-    buf += text.slice(last, m.index); flush();
-    out.push(S(nat, 'tgt', 0.85, lab, 'var(--target)', 'speaker', false, tip.title, '', tx));
-    last = re.lastIndex;
-  }
-  buf += text.slice(last); flush();
+  const fr = t => { t = t.replace(/\s+/g,' ').trim(); if(/[A-Za-zÀ-ÿ0-9]/.test(t)) out.push(S(t, 'fr', 1, lab, CTX, 'headphones', false, tip.title, '', tx)); };
+  const sentences = String(text || '').split(/(?<=[.!?…»])\s+(?=[A-ZÀ-Ý«])/);
+  sentences.forEach(sent=>{
+    const before = out.length;
+    const re = /«\s*([^»]+?)\s*»/g; let last = 0, m;
+    while((m = re.exec(sent))){
+      const nat = map[m[1]];
+      if(!nat) continue;
+      fr(sent.slice(last, m.index));
+      out.push(S(nat, 'tgt', 0.85, lab, 'var(--target)', 'speaker', false, tip.title, '', tx));
+      out.push(W(TIP_WORD_GAP, lab, CTX, 'headphones', false, tip.title, '', tx));
+      last = re.lastIndex;
+    }
+    fr(sent.slice(last));
+    if(out.length > before) out.push(W(TIP_SENTENCE_GAP, lab, CTX, 'headphones', false, tip.title, '', tx));
+  });
   return out;
 }
 function buildTipSegments(tip, tipNum){
@@ -696,8 +707,11 @@ function buildTipSegments(tip, tipNum){
     out.push(S(`Par exemple : ${parts[0]}`, 'fr', 1, lab, CTX, 'headphones', false, tip.title, '', tx));
     out.push(W(300, lab, CTX, 'headphones', false, tip.title, '', tx));
     out.push(S(parts[1], 'tgt', 0.85, lab, 'var(--target)', 'speaker', false, tip.title, '', tx));
-    out.push(W(400, lab, CTX, 'headphones', false, tip.title, '', tx));
-    if(tip.lit) out.push(S(`Mot à mot : ${tip.lit}.`, 'fr', 1, lab, CTX, 'headphones', false, tip.title, '', tx));
+    out.push(W(900, lab, CTX, 'headphones', false, tip.title, '', tx));
+    if(tip.lit){
+      out.push(S(`Mot à mot : ${tip.lit.replace(/[\[\]]/g, '').replace(/\s*·\s*/g, ', ')}.`, 'fr', 1, lab, CTX, 'headphones', false, tip.title, '', tx));
+      out.push(W(TIP_SENTENCE_GAP, lab, CTX, 'headphones', false, tip.title, '', tx));
+    }
     out.push(...tipSpeech(tip.body, tip, lab, tx));
   } else {
     out.push(...tipSpeech(spokenTipText(tip), tip, lab, tx));
