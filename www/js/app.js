@@ -574,6 +574,11 @@ const FR_VOICE = [
   // Mots qui existent aussi en anglais : la voix les lit à l'anglaise (« arrives » → « araïvz »).
   // Le s final est muet en français : on l'enlève, la prononciation française ne change pas.
   [/\b(arrive|change|passe)s\b/gi, '$1'],
+  // « mélodie » : la voix le déforme (bruit de bulles, « mlélodi »). On dit « musique »,
+  // qui veut dire la même chose dans nos textes (la musique d'une syllabe, d'une phrase).
+  [/\bmélodieuses?\b/gi, m => /s$/i.test(m) ? 'musicales' : 'musicale'],
+  [/\bmélodieux\b/gi, 'musical'],
+  [/\b(m)élodie(s?)\b/gi, (m, a, pl) => (a === 'M' ? 'M' : 'm') + 'usique' + pl],
   // Verbe à la 2e personne du singulier (après « tu ») : la terminaison s ou x est muette ;
   // on l'enlève pour que la voix ne la prononce pas (tu mords → tu mord, tu arrives → tu arrive,
   // tu veux → tu veu). « tu es » → « tu è ». Les petits mots entre tu et le verbe sont gardés
