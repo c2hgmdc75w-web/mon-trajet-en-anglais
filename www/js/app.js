@@ -582,8 +582,9 @@ const FR_VOICE = [
   // Verbe à la 2e personne du singulier (après « tu ») : la terminaison s ou x est muette ;
   // on l'enlève pour que la voix ne la prononce pas (tu mords → tu mord, tu arrives → tu arrive,
   // tu veux → tu veu). « tu es » → « tu è ». Les petits mots entre tu et le verbe sont gardés
-  // (tu n'y arrives pas, tu me prends).
-  [/\b(tu)((?:\s+(?:ne|y|en|me|te|le|la|les|lui|leur|nous|vous)\b|\s*\b[nmtl]'|\s+[nmtl]'|\s+y\b)*)(\s*)(\p{L}+)\b/giu,
+  // (tu n'y arrives pas, tu me prends). Pas après un trait d'union (« Prends-tu le bus ? » :
+  // le mot qui suit n'est pas le verbe).
+  [/(?<![-\p{L}])(tu)((?:\s+(?:ne|y|en|me|te|le|la|les|lui|leur|nous|vous)\b|\s*\b[nmtl]'|\s+[nmtl]'|\s+y\b)*)(\s*)(\p{L}+)\b/giu,
     (m, tu, mid, sp, v) => {
       if (/^es$/i.test(v)) return tu + mid + sp + 'è';
       if (v.length > 2 && /[sx]$/i.test(v) && !/ss$/i.test(v)) return tu + mid + sp + v.slice(0, -1);
