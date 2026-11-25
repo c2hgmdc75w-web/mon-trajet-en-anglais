@@ -1,0 +1,334 @@
+# Script de la leçon 20 de chinois — « Je parle un peu chinois »
+
+## 1. Titre et objectif — ≈ 0 min 20 s
+
+- **FR** — Leçon 20. Je parle un peu chinois.
+- **FR** — Aujourd'hui, tu vas apprendre à dire que tu apprends le chinois, et que tu le parles déjà un peu. C'est la dernière leçon du module.
+- **中文** — 你好。  *(Nǐ hǎo.)*
+- *(silence 2,5 s)*
+
+## 2. Rappel — ≈ 2 min
+
+- **FR** — On commence par quelques phrases que tu connais.
+- **FR** — Aujourd'hui, il fait très chaud.
+- *(silence 4,5 s)*
+- **中文** — 今天很热。  *(Jīntiān hěn rè.)*
+- *(silence 3,0 s)*
+- **FR** — Il fait beau ?
+- *(silence 4,0 s)*
+- **中文** — 天气好吗？  *(Tiānqì hǎo ma?)*
+- *(silence 3,0 s)*
+- **FR** — Tu viens demain ?
+- *(silence 4,5 s)*
+- **中文** — 你明天来吗？  *(Nǐ míngtiān lái ma?)*
+- *(silence 3,0 s)*
+- **FR** — Mon ami vient ce soir.
+- *(silence 5,0 s)*
+- **中文** — 我朋友今天晚上来。  *(Wǒ péngyou jīntiān wǎnshang lái.)*
+- *(silence 3,0 s)*
+- **FR** — Tu as envie de manger quoi ?
+- *(silence 4,5 s)*
+- **中文** — 你想吃什么？  *(Nǐ xiǎng chī shénme?)*
+- *(silence 3,0 s)*
+- **FR** — Il y a des toilettes par ici ?
+- *(silence 5,0 s)*
+- **中文** — 这儿有厕所吗？  *(Zhèr yǒu cèsuǒ ma?)*
+- *(silence 3,0 s)*
+- **FR** — J'aime beaucoup Pékin.
+- *(silence 4,5 s)*
+- **中文** — 我很喜欢北京。  *(Wǒ hěn xǐhuan Běijīng.)*
+- *(silence 3,0 s)*
+- **FR** — Je ne suis pas étudiant.
+- *(silence 4,5 s)*
+- **中文** — 我不是学生。  *(Wǒ bú shì xuésheng.)*
+- *(silence 3,0 s)*
+- **FR** — Très bien. Tu n'as rien oublié.
+
+## 3. Oreille — ≈ 1 min 40 s
+
+- **FR** — Un peu d'écoute. On révise les quatre mélodies du chinois, avec quatre mots que tu connais.
+- **FR** — Boire. La voix reste haute et plate.
+- **中文** — 喝  *(hē)*
+- *(silence 2,0 s)*
+- **FR** — Le thé. La voix monte.
+- **中文** — 茶  *(chá)*
+- *(silence 2,0 s)*
+- **FR** — Acheter. La voix est grave.
+- **中文** — 买  *(mǎi)*
+- *(silence 2,0 s)*
+- **FR** — Vendre. La voix descend.
+- **中文** — 卖  *(mài)*
+- *(silence 2,0 s)*
+- **FR** — Maintenant, devine. Haut, qui monte, grave, ou qui descend ?
+- **中文** — 茶  *(chá)*
+- *(silence 2,5 s)*
+- **FR** — Ça monte. C'est le thé.
+- **中文** — 卖  *(mài)*
+- *(silence 2,5 s)*
+- **FR** — Ça descend. C'est vendre.
+- **中文** — 喝  *(hē)*
+- *(silence 2,5 s)*
+- **FR** — Haut et plat. C'est boire.
+- **中文** — 买  *(mǎi)*
+- *(silence 2,5 s)*
+- **FR** — Grave. C'est acheter.
+- **中文** — 学  *(xué)*
+- *(silence 2,5 s)*
+- **FR** — Ça monte, comme le thé. C'est un mot nouveau : apprendre.
+- **中文** — 说  *(shuō)*
+- *(silence 2,5 s)*
+- **FR** — Haut et plat, comme boire. Encore un mot nouveau : parler.
+
+## 4. Apprendre, le chinois — ≈ 2 min 30 s
+
+- **FR** — apprendre
+- **中文** — 学  *(xué)*
+- *(silence 2,5 s)*
+- **中文** — 学  *(xué)*
+- *(silence 2,5 s)*
+- **FR** — le chinois
+- **中文** — 中文  *(Zhōngwén)*
+- *(silence 2,5 s)*
+- **中文** — 中文  *(Zhōngwén)*
+- *(silence 2,5 s)*
+- **FR** — Tu entends ? Le début est le même que dans la Chine.
+- **FR** — J'apprends le chinois.
+- **中文** — 我学中文。  *(Wǒ xué Zhōngwén.)*
+- *(silence 3,5 s)*
+- **中文** — 我学中文。  *(Wǒ xué Zhōngwén.)*
+- *(silence 3,5 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — je
+- **中文** — 我  *(wǒ)*
+- **FR** — apprendre
+- **中文** — 学  *(xué)*
+- **FR** — chinois
+- **中文** — 中文  *(Zhōngwén)*
+- **FR** — À toi. Le chinois.
+- *(silence 3,0 s)*
+- **中文** — 中文  *(Zhōngwén)*
+- *(silence 2,0 s)*
+- **FR** — J'apprends le chinois.
+- *(silence 4,0 s)*
+- **中文** — 我学中文。  *(Wǒ xué Zhōngwén.)*
+- *(silence 3,5 s)*
+- **FR** — Ma femme apprend aussi le chinois.
+- *(silence 5,0 s)*
+- **中文** — 我太太也学中文。  *(Wǒ tàitai yě xué Zhōngwén.)*
+- *(silence 4,0 s)*
+- **FR** — Nous apprenons le chinois ensemble.
+- *(silence 5,0 s)*
+- **中文** — 我们一起学中文。  *(Wǒmen yìqǐ xué Zhōngwén.)*
+- *(silence 4,0 s)*
+- **FR** — J'aime beaucoup le chinois.
+- *(silence 4,5 s)*
+- **中文** — 我很喜欢中文。  *(Wǒ hěn xǐhuan Zhōngwén.)*
+- *(silence 3,5 s)*
+- **FR** — Très bien.
+
+## 5. Savoir parler — ≈ 2 min 30 s
+
+- **FR** — parler
+- **中文** — 说  *(shuō)*
+- *(silence 2,5 s)*
+- **中文** — 说  *(shuō)*
+- *(silence 2,5 s)*
+- **FR** — savoir faire
+- **中文** — 会  *(huì)*
+- *(silence 2,5 s)*
+- **中文** — 会  *(huì)*
+- *(silence 2,5 s)*
+- **FR** — C'est le savoir qu'on a appris, comme parler une langue.
+- **FR** — Tu parles chinois ?
+- **中文** — 你会说中文吗？  *(Nǐ huì shuō Zhōngwén ma?)*
+- *(silence 4,0 s)*
+- **中文** — 你会说中文吗？  *(Nǐ huì shuō Zhōngwén ma?)*
+- *(silence 4,0 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — tu
+- **中文** — 你  *(nǐ)*
+- **FR** — savoir
+- **中文** — 会  *(huì)*
+- **FR** — parler
+- **中文** — 说  *(shuō)*
+- **FR** — chinois
+- **中文** — 中文  *(Zhōngwén)*
+- **FR** — petit mot de question
+- **中文** — 吗  *(ma)*
+- **FR** — Il ne parle pas chinois.
+- **中文** — 他不会说中文。  *(Tā bú huì shuō Zhōngwén.)*
+- *(silence 4,0 s)*
+- **中文** — 他不会说中文。  *(Tā bú huì shuō Zhōngwén.)*
+- *(silence 4,0 s)*
+- **FR** — À toi. Tu parles chinois ?
+- *(silence 4,5 s)*
+- **中文** — 你会说中文吗？  *(Nǐ huì shuō Zhōngwén ma?)*
+- *(silence 3,5 s)*
+- **FR** — Il ne parle pas chinois.
+- *(silence 4,5 s)*
+- **中文** — 他不会说中文。  *(Tā bú huì shuō Zhōngwén.)*
+- *(silence 3,5 s)*
+- **FR** — Vous parlez chinois ? Avec le vous de politesse.
+- *(silence 5,0 s)*
+- **中文** — 您会说中文吗？  *(Nín huì shuō Zhōngwén ma?)*
+- *(silence 3,5 s)*
+- **FR** — J'apprends le chinois.
+- *(silence 4,0 s)*
+- **中文** — 我学中文。  *(Wǒ xué Zhōngwén.)*
+- *(silence 3,5 s)*
+
+## 6. Un peu — ≈ 2 min
+
+- **FR** — un peu
+- **中文** — 一点儿  *(yìdiǎnr)*
+- *(silence 2,5 s)*
+- **中文** — 一点儿  *(yìdiǎnr)*
+- *(silence 2,5 s)*
+- **FR** — Je parle un peu chinois.
+- **中文** — 我会说一点儿中文。  *(Wǒ huì shuō yìdiǎnr Zhōngwén.)*
+- *(silence 4,5 s)*
+- **中文** — 我会说一点儿中文。  *(Wǒ huì shuō yìdiǎnr Zhōngwén.)*
+- *(silence 4,5 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — je
+- **中文** — 我  *(wǒ)*
+- **FR** — savoir
+- **中文** — 会  *(huì)*
+- **FR** — parler
+- **中文** — 说  *(shuō)*
+- **FR** — un peu
+- **中文** — 一点儿  *(yìdiǎnr)*
+- **FR** — chinois
+- **中文** — 中文  *(Zhōngwén)*
+- **FR** — Un peu se place après le verbe, juste devant la chose.
+- **FR** — Tout seul, il sert de réponse. Un petit peu.
+- **中文** — 一点儿。  *(Yìdiǎnr.)*
+- *(silence 3,0 s)*
+- **FR** — À toi. Un petit peu.
+- *(silence 3,5 s)*
+- **中文** — 一点儿。  *(Yìdiǎnr.)*
+- *(silence 2,5 s)*
+- **FR** — Je parle un peu chinois.
+- *(silence 5,0 s)*
+- **中文** — 我会说一点儿中文。  *(Wǒ huì shuō yìdiǎnr Zhōngwén.)*
+- *(silence 4,0 s)*
+- **FR** — J'ai envie de boire un peu de thé.
+- *(silence 5,0 s)*
+- **中文** — 我想喝一点儿茶。  *(Wǒ xiǎng hē yìdiǎnr chá.)*
+- *(silence 4,0 s)*
+- **FR** — Tu parles chinois ?
+- *(silence 4,5 s)*
+- **中文** — 你会说中文吗？  *(Nǐ huì shuō Zhōngwén ma?)*
+- *(silence 3,5 s)*
+- **FR** — Un petit peu.
+- *(silence 3,5 s)*
+- **中文** — 一点儿。  *(Yìdiǎnr.)*
+- *(silence 2,5 s)*
+- **FR** — Tu vois, tu sais déjà le dire.
+
+## 7. On mélange — ≈ 2 min 15 s
+
+- **FR** — Maintenant, on mélange tout.
+- **FR** — Demain, je vais en Chine.
+- *(silence 4,5 s)*
+- **中文** — 我明天去中国。  *(Wǒ míngtiān qù Zhōngguó.)*
+- *(silence 3,0 s)*
+- **FR** — Mon ami parle chinois.
+- *(silence 4,5 s)*
+- **中文** — 我朋友会说中文。  *(Wǒ péngyou huì shuō Zhōngwén.)*
+- *(silence 3,0 s)*
+- **FR** — J'ai envie d'apprendre le chinois.
+- *(silence 4,5 s)*
+- **中文** — 我想学中文。  *(Wǒ xiǎng xué Zhōngwén.)*
+- *(silence 3,0 s)*
+- **FR** — Le chinois, ça te plaît ?
+- *(silence 4,5 s)*
+- **中文** — 你喜欢中文吗？  *(Nǐ xǐhuan Zhōngwén ma?)*
+- *(silence 3,0 s)*
+- **FR** — Ma femme parle un peu chinois.
+- *(silence 5,0 s)*
+- **中文** — 我太太会说一点儿中文。  *(Wǒ tàitai huì shuō yìdiǎnr Zhōngwén.)*
+- *(silence 3,5 s)*
+- **FR** — Je suis touriste, je ne parle pas chinois.
+- *(silence 5,5 s)*
+- **中文** — 我是游客，我不会说中文。  *(Wǒ shì yóukè, wǒ bú huì shuō Zhōngwén.)*
+- *(silence 3,5 s)*
+- **FR** — Ce soir, nous apprenons le chinois ensemble.
+- *(silence 5,5 s)*
+- **中文** — 我们今天晚上一起学中文。  *(Wǒmen jīntiān wǎnshang yìqǐ xué Zhōngwén.)*
+- *(silence 3,5 s)*
+- **FR** — Il est étudiant, il apprend le chinois.
+- *(silence 5,5 s)*
+- **中文** — 他是学生，他学中文。  *(Tā shì xuésheng, tā xué Zhōngwén.)*
+- *(silence 3,5 s)*
+- **FR** — Bravo. Tu parles vraiment chinois.
+
+## 8. Petite conversation — ≈ 1 min 20 s
+
+- **FR** — Écoute cette petite conversation. Tu connais déjà tous les mots.
+- **中文** — 你好。您会说中文吗？  *(Nǐ hǎo. Nín huì shuō Zhōngwén ma?)*
+- **中文** — 会一点儿。我学中文。  *(Huì yìdiǎnr. Wǒ xué Zhōngwén.)*
+- **中文** — 您是法国人吗？  *(Nín shì Fǎguórén ma?)*
+- **中文** — 对，我是巴黎人。  *(Duì, wǒ shì Bālírén.)*
+- **中文** — 您喜欢北京吗？  *(Nín xǐhuan Běijīng ma?)*
+- **中文** — 我很喜欢北京。  *(Wǒ hěn xǐhuan Běijīng.)*
+- *(silence 2,0 s)*
+- **FR** — Encore une fois, et dis le sens en français pendant le silence.
+- **中文** — 你好。您会说中文吗？  *(Nǐ hǎo. Nín huì shuō Zhōngwén ma?)*
+- *(silence 3,0 s)*
+- **FR** — Bonjour. Vous parlez chinois ?
+- **中文** — 会一点儿。我学中文。  *(Huì yìdiǎnr. Wǒ xué Zhōngwén.)*
+- *(silence 3,0 s)*
+- **FR** — Un petit peu. J'apprends le chinois.
+- **中文** — 您是法国人吗？  *(Nín shì Fǎguórén ma?)*
+- *(silence 3,0 s)*
+- **FR** — Vous êtes français ?
+- **中文** — 对，我是巴黎人。  *(Duì, wǒ shì Bālírén.)*
+- *(silence 3,0 s)*
+- **FR** — Oui, je suis parisien.
+- **中文** — 您喜欢北京吗？  *(Nín xǐhuan Běijīng ma?)*
+- *(silence 3,0 s)*
+- **FR** — Pékin vous plaît ?
+- **中文** — 我很喜欢北京。  *(Wǒ hěn xǐhuan Běijīng.)*
+- *(silence 3,0 s)*
+- **FR** — J'aime beaucoup Pékin.
+
+## 9. Test — ≈ 1 min 40 s
+
+- **FR** — Le test. Je dis une phrase en français, tu la dis en chinois.
+- **FR** — Je parle un peu chinois.
+- *(silence 5,0 s)*
+- **中文** — 我会说一点儿中文。  *(Wǒ huì shuō yìdiǎnr Zhōngwén.)*
+- **FR** — Tu parles chinois ?
+- *(silence 4,5 s)*
+- **中文** — 你会说中文吗？  *(Nǐ huì shuō Zhōngwén ma?)*
+- **FR** — J'apprends le chinois.
+- *(silence 4,0 s)*
+- **中文** — 我学中文。  *(Wǒ xué Zhōngwén.)*
+- **FR** — C'est combien, ça ?
+- *(silence 4,5 s)*
+- **中文** — 这个多少钱？  *(Zhège duōshao qián?)*
+- **FR** — Il ne parle pas chinois.
+- *(silence 4,5 s)*
+- **中文** — 他不会说中文。  *(Tā bú huì shuō Zhōngwén.)*
+- **FR** — Nous apprenons le chinois ensemble.
+- *(silence 5,0 s)*
+- **中文** — 我们一起学中文。  *(Wǒmen yìqǐ xué Zhōngwén.)*
+- **FR** — J'ai envie de manger du canard laqué.
+- *(silence 5,0 s)*
+- **中文** — 我想吃烤鸭。  *(Wǒ xiǎng chī kǎoyā.)*
+- **FR** — Demain, je vais en Chine.
+- *(silence 4,5 s)*
+- **中文** — 我明天去中国。  *(Wǒ míngtiān qù Zhōngguó.)*
+- **FR** — Pékin, nous voilà !
+- *(silence 5,0 s)*
+- **中文** — 北京，我们来了！  *(Běijīng, wǒmen lái le!)*
+
+## 10. Clôture — ≈ 0 min 40 s
+
+- **FR** — Bravo. Tu sais maintenant dire que tu apprends le chinois, et que tu le parles un peu.
+- **FR** — Et surtout, félicitations : tu as terminé tout le premier module.
+- **FR** — En vingt leçons, tu as appris à dire d'où tu viens, à prendre un taxi, à commander un thé, à acheter, à visiter, à parler du temps qu'il fait.
+- **FR** — Le module suivant t'attend. Il reprendra ces phrases pour t'emmener plus loin.
+- **中文** — 再见。  *(Zàijiàn.)*
+- *(silence 3,0 s)*

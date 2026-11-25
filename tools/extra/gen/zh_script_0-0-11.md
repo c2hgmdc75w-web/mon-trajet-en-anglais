@@ -38,7 +38,7 @@
 - *(silence 3,0 s)*
 - **FR** — Très bien.
 
-## 3. Oreille — ≈ 1 min 10 s
+## 3. Oreille — ≈ 1 min 05 s
 
 - **FR** — Écoute deux façons de dire tu et vous à une seule personne.
 - **FR** — Tu. Tu le connais.
@@ -59,9 +59,6 @@
 - **中文** — 你  *(nǐ)*
 - *(silence 2,5 s)*
 - **FR** — Pas de n à la fin. C'est tu.
-- **中文** — 你  *(nǐ)*
-- *(silence 2,5 s)*
-- **FR** — C'est tu.
 - **中文** — 您  *(nín)*
 - *(silence 2,5 s)*
 - **FR** — Avec le petit n. C'est vous.
@@ -72,7 +69,7 @@
 - *(silence 2,5 s)*
 - **FR** — C'est le bonjour de tous les jours, avec tu.
 
-## 4. La Cité interdite — ≈ 1 min 35 s
+## 4. La Cité interdite — ≈ 1 min 10 s
 
 - **FR** — la Cité interdite
 - **中文** — 故宫  *(Gùgōng)*
@@ -91,11 +88,6 @@
 - **中文** — 是  *(shì)*
 - **FR** — Cité interdite
 - **中文** — 故宫  *(Gùgōng)*
-- **FR** — La Cité interdite est immense.
-- **中文** — 故宫很大。  *(Gùgōng hěn dà.)*
-- *(silence 3,0 s)*
-- **中文** — 故宫很大。  *(Gùgōng hěn dà.)*
-- *(silence 3,0 s)*
 - **FR** — À toi. Voici la Cité interdite.
 - *(silence 4,0 s)*
 - **中文** — 这是故宫。  *(Zhè shì Gùgōng.)*
@@ -108,12 +100,8 @@
 - *(silence 4,0 s)*
 - **中文** — 故宫很大。  *(Gùgōng hěn dà.)*
 - *(silence 3,0 s)*
-- **FR** — J'ai envie d'aller à la Cité interdite.
-- *(silence 4,5 s)*
-- **中文** — 我想去故宫。  *(Wǒ xiǎng qù Gùgōng.)*
-- *(silence 3,5 s)*
 
-## 5. Le billet — ≈ 1 min 15 s
+## 5. Le billet — ≈ 1 min 05 s
 
 - **FR** — le billet
 - **中文** — 票  *(piào)*
@@ -144,19 +132,13 @@
 - *(silence 4,0 s)*
 - **中文** — 票多少钱？  *(Piào duōshao qián?)*
 - *(silence 3,0 s)*
-- **FR** — Le billet est un peu cher.
-- *(silence 4,5 s)*
-- **中文** — 票有点儿贵。  *(Piào yǒudiǎnr guì.)*
-- *(silence 3,5 s)*
 
-## 6. Mon, notre — ≈ 2 min 15 s
+## 6. Mon, notre — ≈ 1 min 55 s
 
 - **FR** — Voici un petit mot très utile : le petit mot du possessif.
 - **中文** — 的  *(de)*
 - *(silence 2,5 s)*
 - **FR** — Il se place après le possesseur. Nous, puis ce petit mot : notre.
-- **中文** — 我们的  *(wǒmen de)*
-- *(silence 2,5 s)*
 - **中文** — 我们的  *(wǒmen de)*
 - *(silence 2,5 s)*
 - **FR** — Voici nos billets.
@@ -196,15 +178,11 @@
 - *(silence 4,5 s)*
 - **中文** — 这是你的咖啡。  *(Zhè shì nǐ de kāfēi.)*
 - *(silence 3,5 s)*
-- **FR** — C'est son billet ?
-- *(silence 4,5 s)*
-- **中文** — 这是他的票吗？  *(Zhè shì tā de piào ma?)*
-- *(silence 3,5 s)*
 - **FR** — Pour les proches, rien ne change : ma femme se dit toujours
 - **中文** — 我太太  *(wǒ tàitai)*
 - *(silence 2,5 s)*
 
-## 7. Le guide — ≈ 1 min 35 s
+## 7. Le guide — ≈ 1 min 20 s
 
 - **FR** — le guide
 - **中文** — 导游  *(dǎoyóu)*
@@ -239,12 +217,8 @@
 - *(silence 4,5 s)*
 - **中文** — 导游等我们。  *(Dǎoyóu děng wǒmen.)*
 - *(silence 3,5 s)*
-- **FR** — Notre guide est pékinois.
-- *(silence 5,0 s)*
-- **中文** — 我们的导游是北京人。  *(Wǒmen de dǎoyóu shì Běijīngrén.)*
-- *(silence 3,5 s)*
 
-## 8. Vous, de politesse — ≈ 2 min 05 s
+## 8. Vous, de politesse — ≈ 1 min 55 s
 
 - **FR** — vous, le vous de politesse
 - **中文** — 您  *(nín)*
@@ -283,10 +257,6 @@
 - *(silence 4,5 s)*
 - **中文** — 这是您的票吗？  *(Zhè shì nín de piào ma?)*
 - *(silence 3,5 s)*
-- **FR** — Vous êtes touriste ?
-- *(silence 4,5 s)*
-- **中文** — 您是游客吗？  *(Nín shì yóukè ma?)*
-- *(silence 3,5 s)*
 - **FR** — Vous êtes notre guide ?
 - *(silence 5,0 s)*
 - **中文** — 您是我们的导游吗？  *(Nín shì wǒmen de dǎoyóu ma?)*
@@ -296,7 +266,7 @@
 - **中文** — 这是您的茶。  *(Zhè shì nín de chá.)*
 - *(silence 3,5 s)*
 
-## 9. On mélange — ≈ 1 min 45 s
+## 9. On mélange — ≈ 1 min 30 s
 
 - **FR** — Maintenant, on mélange tout.
 - **FR** — Nous allons à la Cité interdite en métro.
@@ -318,10 +288,6 @@
 - **FR** — L'hôtel de mon ami est très bien.
 - *(silence 5,0 s)*
 - **中文** — 我朋友的酒店很好。  *(Wǒ péngyou de jiǔdiàn hěn hǎo.)*
-- *(silence 3,0 s)*
-- **FR** — Ce n'est pas mon café.
-- *(silence 5,0 s)*
-- **中文** — 这不是我的咖啡。  *(Zhè bú shì wǒ de kāfēi.)*
 - *(silence 3,0 s)*
 - **FR** — Le guide y va avec nous.
 - *(silence 5,0 s)*
@@ -359,7 +325,7 @@
 - *(silence 3,0 s)*
 - **FR** — Oui. Venez avec moi, s'il vous plaît.
 
-## 11. Test — ≈ 1 min 30 s
+## 11. Test — ≈ 1 min 20 s
 
 - **FR** — Le test. Je dis une phrase en français, tu la dis en chinois.
 - **FR** — Voici la Cité interdite.
@@ -380,9 +346,6 @@
 - **FR** — Nous allons à la Cité interdite.
 - *(silence 4,5 s)*
 - **中文** — 我们去故宫。  *(Wǒmen qù Gùgōng.)*
-- **FR** — Notre guide est très bien.
-- *(silence 5,0 s)*
-- **中文** — 我们的导游很好。  *(Wǒmen de dǎoyóu hěn hǎo.)*
 - **FR** — Je suis touriste.
 - *(silence 4,5 s)*
 - **中文** — 我是游客。  *(Wǒ shì yóukè.)*
