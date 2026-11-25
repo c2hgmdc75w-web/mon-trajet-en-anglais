@@ -123,11 +123,17 @@ function build(code, levels) {
     const nt = NOTES[id];
     if (nt) { used.NOTES.add(id); if (nt.length !== l.phrases.length) throw new Error(`${code} ${id} : ${nt.length} notes pour ${l.phrases.length} phrases`); }
     l.phrases.forEach((p, i) => {
+      // corrections de phrase d'abord : le mot à mot est contrôlé sur la phrase corrigée
+      const pf = PFIX[`${id}#${i}`]; if (pf) { used.PFIX.add(`${id}#${i}`);
+      for (const k of ['fr', 'tgt', 'ro', 'lit']) if (k in pf) { if (pf[k] === null || pf[k] === '') delete p[k]; else p[k] = pf[k]; } }
       if (nt) { const pw = nt[i].words; p.note = { lit: pw ? pw.map(w => w[0]).join(', ') : nt[i].lit, text: nt[i].note, say: nt[i].say || {} }; try { p.note.words = pw ? checkWords(code, `${id}#${i}`, p, pw) : alignWords(code, `${id}#${i}`, p, nt[i].lit, WORDS[`${id}#${i}`]); } catch (e) { alignErr.push(e.message); } if (WORDS[`${id}#${i}`]) used.WORDS.add(`${id}#${i}`); } else delete p.note;
       phrases++;
-      const pf = PFIX[`${id}#${i}`]; if (!pf) return; used.PFIX.add(`${id}#${i}`);
-      for (const k of ['fr', 'tgt', 'ro', 'lit']) if (k in pf) { if (pf[k] === null || pf[k] === '') delete p[k]; else p[k] = pf[k]; }
     });
+    // Leçon entièrement scénarisée (extra.scripts) : suite d'étapes dites telles quelles,
+    // à la place du déroulé habituel. Les phrases de la leçon restent la référence pour les
+    // évaluations et le rappel au début de la leçon suivante.
+    const SC = (EXTRA.scripts || {})[id];
+    if (SC) { used.SC = used.SC || new Set(); used.SC.add(id); l.script = SC; } else delete l.script;
     // Second point de grammaire ajouté (extra.tips2), joué juste après le premier.
     const T2 = (EXTRA.tips2 || {})[id];
     if (T2) {
@@ -193,6 +199,7 @@ function build(code, levels) {
     const orphan = Object.keys(obj).filter(k => !set.has(k) && !(name === 'tips_say' && !Object.keys(obj[k]).length));
     if (orphan.length) throw new Error(`${code} : ${name} contient des clés qui ne correspondent à rien : ${orphan.slice(0, 8).join(', ')}`);
   }
+  { const o = Object.keys(EXTRA.scripts || {}).filter(k => !(used.SC && used.SC.has(k))); if (o.length) throw new Error(`${code} : extra.scripts inconnu : ${o.join(', ')}`); }
   { const o = Object.keys(EXTRA.tips2 || {}).filter(k => !(used.T2 && used.T2.has(k))); if (o.length) throw new Error(`${code} : extra.tips2 inconnu : ${o.join(', ')}`); }
   for (const [name, obj, set] of [['extra.vocab', VOC, used.VOC], ['extra.series', SER, used.SER], ['extra.notes', NOTES, used.NOTES], ['extra.words', WORDS, used.WORDS]]) {
     const orphan = Object.keys(obj).filter(k => !set.has(k));

@@ -230,6 +230,7 @@ async function setLanguage(code){
   TGT_INDEX = new Map();
   LEVELS.forEach(lv=>lv.modules.forEach(m=>m.lessons.forEach(l=>{
     (l && l.phrases ? l.phrases : []).forEach(p=>{ if(p.ro || p.lit) TGT_INDEX.set(p.tgt, p); });
+    (l && l.script ? l.script : []).forEach(st=>{ if(st[0] === 'z' && st[2] && !TGT_INDEX.has(st[1])) TGT_INDEX.set(st[1], { ro: st[2] }); });
     // mots de vocabulaire et séries fermées (nouvelle méthode) : transcription affichée sous le mot
     const words = (l && l.vocab ? l.vocab : []).concat(l && l.series ? l.series.chunks.flat() : []);
     words.forEach(w=>{ if(w.ro && !TGT_INDEX.has(w.tgt)) TGT_INDEX.set(w.tgt, { ro: w.ro }); });
@@ -571,6 +572,8 @@ function estimateSpeechMs(text, lang, rate){
    Pour ajouter une règle : l'ajouter dans FR_VOICE (texte courant) ou frIsolated (mot seul). */
 const FR_VOICE = [
   [/mots? à mots?/gi, 'mo ta mo'],
+  // « je » en toute fin de phrase (« Deuxième mot : je. ») : coupé, comme un mot dit seul.
+  [/\bje(?=\s*[.!?…]*\s*$)/gi, m => m[0] === 'J' ? 'Jeu' : 'jeu'],
   // Mots qui existent aussi en anglais : la voix les lit à l'anglaise (« arrives » → « araïvz »).
   // Le s final est muet en français : on l'enlève, la prononciation française ne change pas.
   [/\b(arrive|change|passe)s\b/gi, '$1'],
@@ -587,7 +590,8 @@ const FR_VOICE = [
   [/(?<![-\p{L}])(tu)((?:\s+(?:ne|y|en|me|te|le|la|les|lui|leur|nous|vous)\b|\s*\b[nmtl]'|\s+[nmtl]'|\s+y\b)*)(\s*)(\p{L}+)\b/giu,
     (m, tu, mid, sp, v) => {
       if (/^es$/i.test(v)) return tu + mid + sp + 'è';
-      if (v.length > 2 && /[sx]$/i.test(v) && !/ss$/i.test(v)) return tu + mid + sp + v.slice(0, -1);
+      // -ais / -ois (tu sais, tu connais, tu dois) : laissés tels quels, « sai » ou « doi » seraient mal lus
+      if (v.length > 2 && /[sx]$/i.test(v) && !/(ss|ais|ois)$/i.test(v)) return tu + mid + sp + v.slice(0, -1);
       if (/^(as|vas)$/i.test(v)) return tu + mid + sp + v.slice(0, -1);
       return m;
     }],
@@ -955,15 +959,76 @@ function noteSpeech(p, ex){
   return out;
 }
 
+// Leçon entièrement scénarisée (lesson.script, voir tools/extra/gen/script_to_json.js) :
+// les étapes sont dites telles quelles. ["sec", titre] nouvelle partie · ["f", phrase] voix
+// française · ["fw", mot] mot français dit seul · ["z", texte, pinyin] voix native ·
+// ["w", ms] silence laissé à l'élève. Une partie « Test… » passe dans le désordre.
+function buildScriptSegments(lesson){
+  const CTX = 'var(--context)', TGT = 'var(--target)', SPK = 'var(--speak)', out = [];
+  // découpage en parties, puis en groupes pour le test (question FR … réponse)
+  const parts = []; lesson.script.forEach(st=>{ if(st[0] === 'sec') parts.push({title: st[1], steps: []}); else if(parts.length) parts[parts.length-1].steps.push(st); });
+  const total = parts.length;
+  parts.forEach((part, pi)=>{
+    let steps = part.steps;
+    if(/^test/i.test(part.title)){
+      const first = steps.findIndex((st,i)=> st[0] === 'f' && steps[i+1] && steps[i+1][0] === 'w');
+      const head = steps.slice(0, Math.max(first, 0)), groups = [];
+      steps.slice(Math.max(first, 0)).forEach(st=>{ if(st[0] === 'f' || !groups.length) groups.push([]); groups[groups.length-1].push(st); });
+      steps = head.concat(...shuffleArray(groups).map(g=> g.concat([['w', 1200]])));
+    }
+    const ex = {idx: pi, total};
+    let lastFr = '';
+    steps.forEach((st, i)=>{
+      const next = steps[i+1], kind = st[0];
+      if(kind === 'w'){
+        const mine = st[1] >= 2000;
+        out.push(W(st[1], mine ? `${part.title} — à toi` : part.title, mine ? SPK : CTX, mine ? 'repeat' : 'headphones', mine, lastFr, '', ex));
+        return;
+      }
+      if(kind === 'z'){
+        out.push(S(tgtIsolated(st[1]), 'tgt', 0.85, part.title, TGT, 'speaker', false, lastFr, st[1], ex));
+      } else {
+        const shown = st[1];
+        lastFr = shown.length <= 60 ? shown : '';
+        out.push(S(kind === 'fw' ? frIsolated(shown) : shown, 'fr', 1, part.title, CTX, 'headphones', false, shown, '', ex));
+      }
+      // petit temps automatique quand le script n'indique pas de silence
+      if(!next || next[0] !== 'w'){
+        const gap = !next ? 600 : (kind === 'fw' && next[0] === 'z') ? 100 : (kind === 'z' && next[0] === 'z') ? 700 : (kind === 'f' && next[0] === 'z') ? 150 : 350;
+        out.push(W(gap, part.title, CTX, 'headphones', false, lastFr, kind === 'z' ? st[1] : '', ex));
+      }
+    });
+    out.push(W(500, part.title, CTX, 'headphones', false, '', '', ex));
+  });
+  return out;
+}
+// Rappel au début de la leçon qui suit une leçon scénarisée : ses phrases, en français,
+// un temps pour répondre, puis la réponse (la leçon scénarisée l'annonce à la fin).
+function recapSegments(prev){
+  const CTX = 'var(--context)', TGT = 'var(--target)', SPK = 'var(--speak)', out = [], lab = 'Rappel';
+  const picks = shuffleArray(prev.phrases).slice(0, 6);
+  out.push(S(`On commence par les phrases de la leçon précédente. Je dis la phrase en français, tu la dis ${L.inLang}.`, 'fr', 1, lab, SPK, 'repeat', false, '', ''));
+  out.push(W(600, lab, SPK, 'repeat', false, '', ''));
+  picks.forEach((p, i)=>{
+    const ex = {idx:i, total:picks.length};
+    out.push(S(p.fr, 'fr', 1, lab, CTX, 'headphones', false, p.fr, '···', ex));
+    out.push(W(Math.min(5000, Math.max(2200, (p.ro||p.tgt).length*80) + 2200), 'Rappel — à toi', SPK, 'repeat', true, p.fr, '···', ex));
+    out.push(S(p.tgt, 'tgt', 0.85, 'Rappel — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
+    out.push(W(1500, 'Rappel — réponse', TGT, 'speaker', false, p.fr, p.tgt, ex));
+  });
+  return out;
+}
 function buildLessonSegments(mi, li){
   const m = MODULES[mi];
   const lesson = m.lessons[li];
   const CTX = 'var(--context)', TGT = 'var(--target)', SPK = 'var(--speak)';
+  if(lesson.script) return buildScriptSegments(lesson);
   const segs = [];
 
   // 1. Intro
   segs.push(S(`Leçon ${li+1}. ${lesson.title}.`, 'fr', 1, 'Introduction', CTX, 'headphones', false, lesson.title, ''));
   segs.push(W(400, 'Introduction', CTX, 'headphones', false, lesson.title, ''));
+  if(li > 0 && m.lessons[li-1] && m.lessons[li-1].script) segs.push(...recapSegments(m.lessons[li-1]));
   if(lesson.debut){
     // Leçon débutant (essai chinois) : on annonce un objectif atteignable, le reste est un défi.
     segs.push(S(`Ton objectif aujourd'hui : reconnaître ces dix phrases quand tu les entends, ${L.inLang}. Ensuite, on les traduira ensemble, mot par mot.`, 'fr', 1, 'Objectif', CTX, 'headphones', false, lesson.title, ''));

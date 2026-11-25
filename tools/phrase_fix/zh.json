@@ -247,5 +247,65 @@
  },
  "0-2-19#7": {
   "lit": "nous · continuer · étudier · suivant · un · mot de comptage · module · [suggestion] !"
+ },
+ "0-0-0#0": {
+  "fr": "Je viens.",
+  "tgt": "我来。",
+  "ro": "Wǒ lái.",
+  "lit": "je · venir"
+ },
+ "0-0-0#1": {
+  "fr": "Il vient.",
+  "tgt": "他来。",
+  "ro": "Tā lái.",
+  "lit": "il · venir"
+ },
+ "0-0-0#2": {
+  "fr": "Elle vient.",
+  "tgt": "她来。",
+  "ro": "Tā lái.",
+  "lit": "elle · venir"
+ },
+ "0-0-0#3": {
+  "fr": "Nous venons.",
+  "tgt": "我们来。",
+  "ro": "Wǒmen lái.",
+  "lit": "nous · venir"
+ },
+ "0-0-0#4": {
+  "fr": "Vous venez.",
+  "tgt": "你们来。",
+  "ro": "Nǐmen lái.",
+  "lit": "vous · venir"
+ },
+ "0-0-0#5": {
+  "fr": "Vous venez ?",
+  "tgt": "你们来吗？",
+  "ro": "Nǐmen lái ma?",
+  "lit": "vous · venir · [question] ?"
+ },
+ "0-0-0#6": {
+  "fr": "Nous venons aussi.",
+  "tgt": "我们也来。",
+  "ro": "Wǒmen yě lái.",
+  "lit": "nous · aussi · venir"
+ },
+ "0-0-0#7": {
+  "fr": "Il vient aussi.",
+  "tgt": "他也来。",
+  "ro": "Tā yě lái.",
+  "lit": "il · aussi · venir"
+ },
+ "0-0-0#8": {
+  "fr": "Pékin, nous voilà !",
+  "tgt": "北京，我们来了！",
+  "ro": "Běijīng, wǒmen lái le!",
+  "lit": "Pékin · nous · venir · [accompli]"
+ },
+ "0-0-0#9": {
+  "fr": "Il est arrivé !",
+  "tgt": "他来了！",
+  "ro": "Tā lái le!",
+  "lit": "il · venir · [accompli]"
  }
 }

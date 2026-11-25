@@ -2,34 +2,34 @@
  "vocab": {
   "0-0-0": [
    {
-    "fr": "aller",
-    "tgt": "去",
-    "ro": "qù"
-   },
-   {
     "fr": "venir",
     "tgt": "来",
     "ro": "lái"
    },
    {
-    "fr": "habiter",
-    "tgt": "住",
-    "ro": "zhù"
+    "fr": "je",
+    "tgt": "我",
+    "ro": "wǒ"
    },
    {
-    "fr": "un ami",
-    "tgt": "朋友",
-    "ro": "péngyou"
+    "fr": "il",
+    "tgt": "他",
+    "ro": "tā"
    },
    {
-    "fr": "le métro",
-    "tgt": "地铁",
-    "ro": "dìtiě"
+    "fr": "nous",
+    "tgt": "我们",
+    "ro": "wǒmen"
    },
    {
-    "fr": "un taxi",
-    "tgt": "出租车",
-    "ro": "chūzūchē"
+    "fr": "vous",
+    "tgt": "你们",
+    "ro": "nǐmen"
+   },
+   {
+    "fr": "aussi",
+    "tgt": "也",
+    "ro": "yě"
    }
   ],
   "0-0-1": [
@@ -7896,73 +7896,187 @@
  "notes": {
   "0-0-0": [
    {
-    "lit": "je, depuis, Paris, venir",
-    "note": "En chinois, on dit d'où l'on vient avant le verbe. Depuis se dit « cóng ». Le verbe venir se place tout à la fin.",
+    "words": [
+     [
+      "je",
+      "我"
+     ],
+     [
+      "venir",
+      "来"
+     ]
+    ],
+    "note": "Le verbe venir ne change jamais. Quelle que soit la personne, il se dit « lái ».",
     "say": {
-     "cóng": "从"
+     "lái": "来"
     }
    },
    {
-    "lit": "nous, aller, Pékin",
-    "note": "Le verbe aller ne se conjugue jamais. Quelle que soit la personne, il se dit toujours « qù ».",
+    "words": [
+     [
+      "il",
+      "他"
+     ],
+     [
+      "venir",
+      "来"
+     ]
+    ],
+    "note": "Pour dire il, la voix reste haute et bien droite. Il se dit « tā ».",
     "say": {
-     "qù": "去"
+     "tā": "他"
     }
    },
    {
-    "lit": "je, épouse, avec, moi, ensemble, venir",
-    "note": "Avec se dit « gēn ». Il se place avant le verbe, jamais après.",
-    "say": {
-     "gēn": "跟"
-    }
-   },
-   {
-    "lit": "il, habiter, à, Pékin",
-    "note": "Pour dire où l'on habite, on met un petit mot juste avant le lieu. Ce petit mot, c'est « zài ». C'est notre à.",
-    "say": {
-     "zài": "在"
-    }
-   },
-   {
-    "lit": "je, habiter, à, Lyon",
-    "note": "Le verbe habiter ne change jamais. Je, tu ou il, c'est toujours « zhù ».",
-    "say": {
-     "zhù": "住"
-    }
-   },
-   {
-    "lit": "vous, aussi, aller, hôtel, petit mot de question ?",
-    "note": "Pour poser une question, on garde la phrase telle quelle. On ajoute simplement à la fin « ma ».",
-    "say": {
-     "ma": "吗"
-    }
-   },
-   {
-    "lit": "je, s'asseoir, taxi",
-    "note": "Les Chinois ne prennent pas un taxi, ils s'assoient dedans. S'asseoir se dit « zuò ».",
-    "say": {
-     "zuò": "坐"
-    }
-   },
-   {
-    "lit": "elle, s'asseoir, métro",
+    "words": [
+     [
+      "elle",
+      "她"
+     ],
+     [
+      "venir",
+      "来"
+     ]
+    ],
     "note": "Il et elle s'écrivent différemment. Mais ils se prononcent pareil : « tā ».",
     "say": {
      "tā": "她"
     }
    },
    {
-    "lit": "je, ami, attendre, nous",
-    "note": "Devant un proche, pas besoin de petit mot pour dire mon. Mon ami se dit simplement « wǒ péngyou ».",
+    "words": [
+     [
+      "nous",
+      "我们"
+     ],
+     [
+      "venir",
+      "来"
+     ]
+    ],
+    "note": "Pour dire nous, on ajoute un petit son après je. Nous se dit « wǒmen ».",
     "say": {
-     "wǒ péngyou": "我朋友"
+     "wǒmen": "我们"
     }
    },
    {
-    "lit": "Pékin, nous, venir, petit mot de l'action accomplie !",
+    "words": [
+     [
+      "vous",
+      "你们"
+     ],
+     [
+      "venir",
+      "来"
+     ]
+    ],
+    "note": "Pour dire vous, on ajoute le même petit son après tu. Vous se dit « nǐmen ».",
+    "say": {
+     "nǐmen": "你们"
+    }
+   },
+   {
+    "words": [
+     [
+      "vous",
+      "你们"
+     ],
+     [
+      "venir",
+      "来"
+     ],
+     [
+      "petit mot de question",
+      "吗"
+     ]
+    ],
+    "note": "Pour poser une question, on garde la phrase telle quelle. On ajoute simplement à la fin « ma ».",
+    "say": {
+     "ma": "吗"
+    }
+   },
+   {
+    "words": [
+     [
+      "nous",
+      "我们"
+     ],
+     [
+      "aussi",
+      "也"
+     ],
+     [
+      "venir",
+      "来"
+     ]
+    ],
+    "note": "Le mot aussi se place avant le verbe. Aussi se dit « yě ».",
+    "say": {
+     "yě": "也"
+    }
+   },
+   {
+    "words": [
+     [
+      "il",
+      "他"
+     ],
+     [
+      "aussi",
+      "也"
+     ],
+     [
+      "venir",
+      "来"
+     ]
+    ],
+    "note": "Le mot aussi se place toujours avant le verbe. Il vient aussi se dit « tā yě lái ».",
+    "say": {
+     "tā yě lái": "他也来"
+    }
+   },
+   {
+    "words": [
+     [
+      "Pékin",
+      "北京"
+     ],
+     [
+      "nous",
+      "我们"
+     ],
+     [
+      "venir",
+      "来"
+     ],
+     [
+      "petit mot de l'action accomplie",
+      "了"
+     ]
+    ],
     "note": "À la fin de la phrase, un petit mot dit que c'est fait. Ce petit mot, c'est « le ».",
     "say": {
      "le": "了"
+    }
+   },
+   {
+    "words": [
+     [
+      "il",
+      "他"
+     ],
+     [
+      "venir",
+      "来"
+     ],
+     [
+      "petit mot de l'action accomplie",
+      "了"
+     ]
+    ],
+    "note": "Le même petit mot sert à dire que quelqu'un est arrivé. Il est arrivé se dit « tā lái le ».",
+    "say": {
+     "tā lái le": "他来了"
     }
    }
   ],
@@ -12977,7 +13091,6 @@
   "伟": "x"
  },
  "debut": [
-  "0-0-0",
   "0-0-1",
   "0-0-2",
   "0-0-3",
@@ -12999,5 +13112,1051 @@
     "zhège cài": "这个菜"
    }
   }
+ },
+ "scripts": {
+  "0-0-0": [
+   [
+    "sec",
+    "Titre et objectif"
+   ],
+   [
+    "f",
+    "Leçon 1. Arrivée à Pékin."
+   ],
+   [
+    "f",
+    "Aujourd'hui, tu vas apprendre neuf petits mots. Avec eux, tu pourras déjà dire une dizaine de phrases."
+   ],
+   [
+    "f",
+    "Quand tu entends du chinois, répète à voix haute pendant le silence."
+   ],
+   [
+    "f",
+    "Quand je te demande de traduire, essaie de répondre en chinois avant moi. Si tu ne sais pas, ce n'est pas grave : écoute la réponse, et répète."
+   ],
+   [
+    "sec",
+    "Venir, je"
+   ],
+   [
+    "f",
+    "Premier mot : venir."
+   ],
+   [
+    "z",
+    "来",
+    "lái"
+   ],
+   [
+    "w",
+    2500
+   ],
+   [
+    "z",
+    "来",
+    "lái"
+   ],
+   [
+    "w",
+    2500
+   ],
+   [
+    "f",
+    "Écoute bien : la voix monte, comme quand on pose une question en français."
+   ],
+   [
+    "z",
+    "来",
+    "lái"
+   ],
+   [
+    "w",
+    2500
+   ],
+   [
+    "f",
+    "Deuxième mot : je."
+   ],
+   [
+    "z",
+    "我",
+    "wǒ"
+   ],
+   [
+    "w",
+    2500
+   ],
+   [
+    "z",
+    "我",
+    "wǒ"
+   ],
+   [
+    "w",
+    2500
+   ],
+   [
+    "f",
+    "Je viens."
+   ],
+   [
+    "z",
+    "我来。",
+    "Wǒ lái."
+   ],
+   [
+    "w",
+    3500
+   ],
+   [
+    "z",
+    "我来。",
+    "Wǒ lái."
+   ],
+   [
+    "w",
+    3500
+   ],
+   [
+    "f",
+    "Traduction mot à mot."
+   ],
+   [
+    "fw",
+    "je"
+   ],
+   [
+    "z",
+    "我",
+    "wǒ"
+   ],
+   [
+    "fw",
+    "venir"
+   ],
+   [
+    "z",
+    "来",
+    "lái"
+   ],
+   [
+    "f",
+    "À toi. Venir."
+   ],
+   [
+    "w",
+    3000
+   ],
+   [
+    "z",
+    "来",
+    "lái"
+   ],
+   [
+    "w",
+    2000
+   ],
+   [
+    "fw",
+    "je"
+   ],
+   [
+    "w",
+    3000
+   ],
+   [
+    "z",
+    "我",
+    "wǒ"
+   ],
+   [
+    "w",
+    2000
+   ],
+   [
+    "f",
+    "Je viens."
+   ],
+   [
+    "w",
+    4000
+   ],
+   [
+    "z",
+    "我来。",
+    "Wǒ lái."
+   ],
+   [
+    "w",
+    3500
+   ],
+   [
+    "sec",
+    "Il, elle"
+   ],
+   [
+    "fw",
+    "il"
+   ],
+   [
+    "z",
+    "他",
+    "tā"
+   ],
+   [
+    "w",
+    2500
+   ],
+   [
+    "z",
+    "他",
+    "tā"
+   ],
+   [
+    "w",
+    2500
+   ],
+   [
+    "f",
+    "Ici, la voix reste haute et bien droite."
+   ],
+   [
+    "f",
+    "Il vient."
+   ],
+   [
+    "z",
+    "他来。",
+    "Tā lái."
+   ],
+   [
+    "w",
+    3500
+   ],
+   [
+    "z",
+    "他来。",
+    "Tā lái."
+   ],
+   [
+    "w",
+    3500
+   ],
+   [
+    "fw",
+    "elle"
+   ],
+   [
+    "z",
+    "她",
+    "tā"
+   ],
+   [
+    "w",
+    2500
+   ],
+   [
+    "f",
+    "Il et elle s'écrivent différemment. Mais ils se prononcent pareil."
+   ],
+   [
+    "f",
+    "Elle vient."
+   ],
+   [
+    "z",
+    "她来。",
+    "Tā lái."
+   ],
+   [
+    "w",
+    3500
+   ],
+   [
+    "f",
+    "Tu remarques ? Je viens, il vient : le verbe ne change pas. C'est toujours"
+   ],
+   [
+    "z",
+    "来",
+    "lái"
+   ],
+   [
+    "f",
+    "À toi. Il vient."
+   ],
+   [
+    "w",
+    4000
+   ],
+   [
+    "z",
+    "他来。",
+    "Tā lái."
+   ],
+   [
+    "w",
+    3500
+   ],
+   [
+    "f",
+    "Je viens."
+   ],
+   [
+    "w",
+    4000
+   ],
+   [
+    "z",
+    "我来。",
+    "Wǒ lái."
+   ],
+   [
+    "w",
+    3500
+   ],
+   [
+    "sec",
+    "Nous, vous"
+   ],
+   [
+    "f",
+    "Pour dire nous, on ajoute un petit son après je."
+   ],
+   [
+    "z",
+    "我们",
+    "wǒmen"
+   ],
+   [
+    "w",
+    2500
+   ],
+   [
+    "z",
+    "我们",
+    "wǒmen"
+   ],
+   [
+    "w",
+    2500
+   ],
+   [
+    "f",
+    "Nous venons."
+   ],
+   [
+    "z",
+    "我们来。",
+    "Wǒmen lái."
+   ],
+   [
+    "w",
+    3500
+   ],
+   [
+    "z",
+    "我们来。",
+    "Wǒmen lái."
+   ],
+   [
+    "w",
+    3500
+   ],
+   [
+    "f",
+    "Même chose pour vous. D'abord, tu se dit"
+   ],
+   [
+    "z",
+    "你",
+    "nǐ"
+   ],
+   [
+    "w",
+    2500
+   ],
+   [
+    "f",
+    "Et vous, avec le même petit son :"
+   ],
+   [
+    "z",
+    "你们",
+    "nǐmen"
+   ],
+   [
+    "w",
+    2500
+   ],
+   [
+    "z",
+    "你们",
+    "nǐmen"
+   ],
+   [
+    "w",
+    2500
+   ],
+   [
+    "f",
+    "Vous venez."
+   ],
+   [
+    "z",
+    "你们来。",
+    "Nǐmen lái."
+   ],
+   [
+    "w",
+    3500
+   ],
+   [
+    "f",
+    "Et le verbe ne change toujours pas."
+   ],
+   [
+    "f",
+    "À toi. Nous."
+   ],
+   [
+    "w",
+    3000
+   ],
+   [
+    "z",
+    "我们",
+    "wǒmen"
+   ],
+   [
+    "w",
+    2000
+   ],
+   [
+    "f",
+    "Nous venons."
+   ],
+   [
+    "w",
+    4000
+   ],
+   [
+    "z",
+    "我们来。",
+    "Wǒmen lái."
+   ],
+   [
+    "w",
+    3500
+   ],
+   [
+    "f",
+    "Elle vient."
+   ],
+   [
+    "w",
+    4000
+   ],
+   [
+    "z",
+    "她来。",
+    "Tā lái."
+   ],
+   [
+    "w",
+    3500
+   ],
+   [
+    "f",
+    "Vous venez."
+   ],
+   [
+    "w",
+    4000
+   ],
+   [
+    "z",
+    "你们来。",
+    "Nǐmen lái."
+   ],
+   [
+    "w",
+    3500
+   ],
+   [
+    "sec",
+    "Poser une question"
+   ],
+   [
+    "f",
+    "Pour poser une question, on garde la phrase telle quelle. On ajoute simplement à la fin"
+   ],
+   [
+    "z",
+    "吗",
+    "ma"
+   ],
+   [
+    "w",
+    2500
+   ],
+   [
+    "f",
+    "Vous venez ?"
+   ],
+   [
+    "z",
+    "你们来吗？",
+    "Nǐmen lái ma?"
+   ],
+   [
+    "w",
+    4000
+   ],
+   [
+    "z",
+    "你们来吗？",
+    "Nǐmen lái ma?"
+   ],
+   [
+    "w",
+    4000
+   ],
+   [
+    "f",
+    "Traduction mot à mot."
+   ],
+   [
+    "fw",
+    "vous"
+   ],
+   [
+    "z",
+    "你们",
+    "nǐmen"
+   ],
+   [
+    "fw",
+    "venir"
+   ],
+   [
+    "z",
+    "来",
+    "lái"
+   ],
+   [
+    "fw",
+    "petit mot de question"
+   ],
+   [
+    "z",
+    "吗",
+    "ma"
+   ],
+   [
+    "f",
+    "À toi. Il vient ?"
+   ],
+   [
+    "w",
+    4500
+   ],
+   [
+    "z",
+    "他来吗？",
+    "Tā lái ma?"
+   ],
+   [
+    "w",
+    3500
+   ],
+   [
+    "f",
+    "Nous venons ?"
+   ],
+   [
+    "w",
+    4500
+   ],
+   [
+    "z",
+    "我们来吗？",
+    "Wǒmen lái ma?"
+   ],
+   [
+    "w",
+    3500
+   ],
+   [
+    "sec",
+    "Aussi"
+   ],
+   [
+    "fw",
+    "aussi"
+   ],
+   [
+    "z",
+    "也",
+    "yě"
+   ],
+   [
+    "w",
+    2500
+   ],
+   [
+    "z",
+    "也",
+    "yě"
+   ],
+   [
+    "w",
+    2500
+   ],
+   [
+    "f",
+    "Nous venons aussi."
+   ],
+   [
+    "z",
+    "我们也来。",
+    "Wǒmen yě lái."
+   ],
+   [
+    "w",
+    4000
+   ],
+   [
+    "z",
+    "我们也来。",
+    "Wǒmen yě lái."
+   ],
+   [
+    "w",
+    4000
+   ],
+   [
+    "f",
+    "Traduction mot à mot."
+   ],
+   [
+    "fw",
+    "nous"
+   ],
+   [
+    "z",
+    "我们",
+    "wǒmen"
+   ],
+   [
+    "fw",
+    "aussi"
+   ],
+   [
+    "z",
+    "也",
+    "yě"
+   ],
+   [
+    "fw",
+    "venir"
+   ],
+   [
+    "z",
+    "来",
+    "lái"
+   ],
+   [
+    "f",
+    "Aussi se place avant le verbe."
+   ],
+   [
+    "f",
+    "À toi. Il vient aussi."
+   ],
+   [
+    "w",
+    4500
+   ],
+   [
+    "z",
+    "他也来。",
+    "Tā yě lái."
+   ],
+   [
+    "w",
+    3500
+   ],
+   [
+    "f",
+    "Vous venez aussi ?"
+   ],
+   [
+    "w",
+    5000
+   ],
+   [
+    "z",
+    "你们也来吗？",
+    "Nǐmen yě lái ma?"
+   ],
+   [
+    "w",
+    4000
+   ],
+   [
+    "sec",
+    "Pékin, nous voilà !"
+   ],
+   [
+    "fw",
+    "Pékin"
+   ],
+   [
+    "z",
+    "北京",
+    "Běijīng"
+   ],
+   [
+    "w",
+    2500
+   ],
+   [
+    "z",
+    "北京",
+    "Běijīng"
+   ],
+   [
+    "w",
+    2500
+   ],
+   [
+    "f",
+    "Pékin, nous voilà !"
+   ],
+   [
+    "z",
+    "北京，我们来了！",
+    "Běijīng, wǒmen lái le!"
+   ],
+   [
+    "w",
+    4500
+   ],
+   [
+    "z",
+    "北京，我们来了！",
+    "Běijīng, wǒmen lái le!"
+   ],
+   [
+    "w",
+    4500
+   ],
+   [
+    "f",
+    "Traduction mot à mot."
+   ],
+   [
+    "fw",
+    "Pékin"
+   ],
+   [
+    "z",
+    "北京",
+    "Běijīng"
+   ],
+   [
+    "fw",
+    "nous"
+   ],
+   [
+    "z",
+    "我们",
+    "wǒmen"
+   ],
+   [
+    "fw",
+    "venir"
+   ],
+   [
+    "z",
+    "来",
+    "lái"
+   ],
+   [
+    "fw",
+    "petit mot de l'action accomplie"
+   ],
+   [
+    "z",
+    "了",
+    "le"
+   ],
+   [
+    "f",
+    "À la fin de la phrase, un petit mot dit que c'est fait. Ce petit mot, c'est"
+   ],
+   [
+    "z",
+    "了",
+    "le"
+   ],
+   [
+    "f",
+    "Il est arrivé !"
+   ],
+   [
+    "z",
+    "他来了！",
+    "Tā lái le!"
+   ],
+   [
+    "w",
+    3500
+   ],
+   [
+    "f",
+    "À toi. Pékin, nous voilà !"
+   ],
+   [
+    "w",
+    5000
+   ],
+   [
+    "z",
+    "北京，我们来了！",
+    "Běijīng, wǒmen lái le!"
+   ],
+   [
+    "w",
+    4500
+   ],
+   [
+    "f",
+    "Elle est arrivée !"
+   ],
+   [
+    "w",
+    4000
+   ],
+   [
+    "z",
+    "她来了！",
+    "Tā lái le!"
+   ],
+   [
+    "w",
+    3500
+   ],
+   [
+    "sec",
+    "Petite conversation"
+   ],
+   [
+    "f",
+    "Écoute cette petite conversation. Tu connais déjà tous les mots."
+   ],
+   [
+    "z",
+    "你们也来吗？",
+    "Nǐmen yě lái ma?"
+   ],
+   [
+    "z",
+    "我们也来。",
+    "Wǒmen yě lái."
+   ],
+   [
+    "z",
+    "他来吗？",
+    "Tā lái ma?"
+   ],
+   [
+    "z",
+    "他来了。",
+    "Tā lái le."
+   ],
+   [
+    "z",
+    "北京，我们来了！",
+    "Běijīng, wǒmen lái le!"
+   ],
+   [
+    "w",
+    2000
+   ],
+   [
+    "f",
+    "Encore une fois, et dis le sens en français pendant le silence."
+   ],
+   [
+    "z",
+    "你们也来吗？",
+    "Nǐmen yě lái ma?"
+   ],
+   [
+    "w",
+    3000
+   ],
+   [
+    "f",
+    "Vous venez aussi ?"
+   ],
+   [
+    "z",
+    "我们也来。",
+    "Wǒmen yě lái."
+   ],
+   [
+    "w",
+    3000
+   ],
+   [
+    "f",
+    "Nous venons aussi."
+   ],
+   [
+    "z",
+    "他来吗？",
+    "Tā lái ma?"
+   ],
+   [
+    "w",
+    3000
+   ],
+   [
+    "f",
+    "Il vient ?"
+   ],
+   [
+    "z",
+    "他来了。",
+    "Tā lái le."
+   ],
+   [
+    "w",
+    3000
+   ],
+   [
+    "f",
+    "Il est arrivé."
+   ],
+   [
+    "z",
+    "北京，我们来了！",
+    "Běijīng, wǒmen lái le!"
+   ],
+   [
+    "w",
+    3000
+   ],
+   [
+    "f",
+    "Pékin, nous voilà !"
+   ],
+   [
+    "sec",
+    "Test"
+   ],
+   [
+    "f",
+    "Le test. Je dis une phrase en français, tu la dis en chinois."
+   ],
+   [
+    "f",
+    "Je viens."
+   ],
+   [
+    "w",
+    4000
+   ],
+   [
+    "z",
+    "我来。",
+    "Wǒ lái."
+   ],
+   [
+    "f",
+    "Elle vient ?"
+   ],
+   [
+    "w",
+    4500
+   ],
+   [
+    "z",
+    "她来吗？",
+    "Tā lái ma?"
+   ],
+   [
+    "f",
+    "Nous venons aussi."
+   ],
+   [
+    "w",
+    4500
+   ],
+   [
+    "z",
+    "我们也来。",
+    "Wǒmen yě lái."
+   ],
+   [
+    "f",
+    "Vous venez ?"
+   ],
+   [
+    "w",
+    4500
+   ],
+   [
+    "z",
+    "你们来吗？",
+    "Nǐmen lái ma?"
+   ],
+   [
+    "f",
+    "Il est arrivé !"
+   ],
+   [
+    "w",
+    4000
+   ],
+   [
+    "z",
+    "他来了！",
+    "Tā lái le!"
+   ],
+   [
+    "f",
+    "Pékin, nous voilà !"
+   ],
+   [
+    "w",
+    5000
+   ],
+   [
+    "z",
+    "北京，我们来了！",
+    "Běijīng, wǒmen lái le!"
+   ],
+   [
+    "sec",
+    "Clôture"
+   ],
+   [
+    "f",
+    "Bravo. Tu sais maintenant dire une dizaine de phrases en chinois. Tu as fini la première leçon."
+   ],
+   [
+    "f",
+    "Demain, la leçon deux commencera par ces phrases. Pas besoin de réécouter celle-ci : il suffit de pratiquer chaque jour."
+   ],
+   [
+    "w",
+    3000
+   ]
+  ]
  }
 }

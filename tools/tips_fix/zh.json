@@ -64,5 +64,11 @@
  },
  "1-2-4": {
   "lit": "peut-être · nous · devoir · changer · un · mot de comptage · restaurant"
+ },
+ "0-0-0": {
+  "example": "Il vient. — 他<b>来</b>。",
+  "exampleRo": "Tā lái.",
+  "lit": "il · venir",
+  "body": "Bonne nouvelle pour commencer. En chinois, les verbes ne se conjuguent pas. En français, on dit je viens, il vient, nous venons. En chinois, on dit toujours « lái », quelle que soit la personne. Écoutez. Je viens se dit « Wǒ lái ». Il vient se dit « Tā lái ». Nous venons se dit « Wǒmen lái ». Seul le sujet change. Le verbe reste parfaitement identique. Et le verbe ne change pas non plus avec le temps. Hier, aujourd'hui ou demain, c'est toujours « lái ». Pour retenir, imaginez le verbe chinois comme une brique qui ne se déforme jamais. Vous posez simplement le sujet devant."
  }
 }
