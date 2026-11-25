@@ -133,7 +133,7 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   // 16. Chinois : évaluations mixtes et séries dans l'enchaînement
   await pg.evaluate(async () => { await setLanguage('zh'); }); await sleep(300);
   const zh = await pg.evaluate(async () => { startLesson(0, 4); await new Promise(z => setTimeout(z, 150)); const r = nativeSeq.programs.map(p => p.prog.type[0] + p.prog.li); const ev = nativeSeq.programs[2].segs; const words = ev.filter(x => /vocabulaire/.test(x.label) && x.lang === 'fr').length; const ser = nativeSeq.programs[6]; closeSession(); return { r, words, serType: ser.prog.type, serLen: ser.segs.length }; });
-  ok('16 chinois : leçon 5 → grammaire → évaluation (avec des mots) → 2e grammaire → leçon 6 → grammaire → série', JSON.stringify(zh.r.slice(0, 7)) === '["l4","t4","e4","t4","l5","t5","s5"]' && zh.words >= 10 && zh.serType === 'series', JSON.stringify(zh));
+  ok('16 chinois (nouvelle méthode) : leçon 5 → synthèse → évaluation (avec des mots) → leçon 6 → leçon 7 sans point de grammaire entre les deux', JSON.stringify(zh.r.slice(0, 6)) === '["l4","t4","e4","l5","l6","l7"]' && zh.words >= 10, JSON.stringify(zh));
   console.log(R.join('\n')); console.log('Erreurs JS :', errs.length ? errs : 'aucune');
   await b.close();
 })();

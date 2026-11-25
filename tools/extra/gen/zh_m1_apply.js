@@ -6,7 +6,7 @@
 // Relançable sans effet de bord. Ensuite : node tools/build_data.js zh
 const fs = require('fs'), path = require('path'), { execFileSync } = require('child_process');
 const plan = require('./zh_m1_plan.js');
-const T = f => path.join(__dirname, '..', '..', f);
+const T = f => path.join(__dirname, '..', '..', '..', f);
 const read = f => JSON.parse(fs.readFileSync(T(f), 'utf8')), write = (f, o) => fs.writeFileSync(T(f), JSON.stringify(o, null, 1) + '\n');
 const pairs = lit => lit.split(/(?<=\p{Script=Han})\s/u).map(x => x.split('|'));
 

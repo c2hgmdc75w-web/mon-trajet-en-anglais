@@ -1,91 +1,4 @@
 {
- "0-0-1#2": {
-  "lit": "ce · mot de comptage · thé · très · parfumé"
- },
- "0-0-1#8": {
-  "lit": "ce · mot de comptage · hutong · très · calme"
- },
- "0-0-4#1": {
-  "lit": "ce · mot de comptage · canard laqué · ne pas · cher"
- },
- "0-0-4#2": {
-  "lit": "ce · mot de comptage · plat · ne pas · être · nous · [possessif]"
- },
- "0-0-5#3": {
-  "lit": "vous · combien · mot de comptage · personne ?"
- },
- "0-0-5#4": {
-  "lit": "nous · deux · mot de comptage · personne"
- },
- "0-0-5#5": {
-  "lit": "toi · aimer · ce · mot de comptage · logement · [question] ?"
- },
- "0-0-5#8": {
-  "lit": "nous · louer · ce · mot de comptage"
- },
- "0-0-8#0": {
-  "lit": "ce · mot de comptage · combien · argent ?"
- },
- "0-0-8#1": {
-  "lit": "ce-là · mot de comptage · [et alors] ?"
- },
- "0-0-8#4": {
-  "lit": "je · vouloir · ce · mot de comptage"
- },
- "0-0-8#5": {
-  "lit": "ne pas · être · ce-là · mot de comptage"
- },
- "0-0-8#8": {
-  "lit": "ce · mot de comptage · marché · très · animé"
- },
- "0-0-8#9": {
-  "lit": "ce-là · mot de comptage · patron · très · bien"
- },
- "0-0-10#6": {
-  "lit": "nous · dix-un · mot de comptage · personne"
- },
- "0-0-10#8": {
-  "lit": "je · vouloir · deux · mot de comptage · billet"
- },
- "0-0-11#0": {
-  "lit": "je · vouloir · deux · mot de comptage · baozi"
- },
- "0-0-11#3": {
-  "lit": "un · assiette · avoir · combien · mot de comptage · jiaozi ?"
- },
- "0-0-11#4": {
-  "lit": "deux-dix · mot de comptage"
- },
- "0-0-11#6": {
-  "lit": "avoir · un · mot de comptage · libre · table · [question] ?"
- },
- "0-0-11#9": {
-  "lit": "ce · mot de comptage · petit · restaurant · vraiment · pas mal"
- },
- "0-0-15#8": {
-  "lit": "combien · mot de comptage · personne · venir ?"
- },
- "0-0-17#0": {
-  "lit": "je · vouloir · acheter · un · mot de comptage · veste"
- },
- "0-0-17#1": {
-  "lit": "je · vouloir · essayer · ce · mot de comptage · pull"
- },
- "0-0-17#8": {
-  "lit": "ce · mot de comptage · manteau · trop · cher · [exclamation]"
- },
- "0-0-17#9": {
-  "lit": "bien · je · vouloir · ce-là · mot de comptage"
- },
- "0-0-18#3": {
-  "lit": "prendre · mot de comptage · photo · [suggestion] !"
- },
- "0-0-18#9": {
-  "lit": "ce · mot de comptage · idée · pas mal !"
- },
- "0-0-19#7": {
-  "lit": "je · déjà · savoir · quatre · mot de comptage · ton · [accompli]"
- },
  "0-1-0#5": {
   "lit": "je · seulement · avoir · un · mot de comptage · valise"
  },
@@ -248,6 +161,9 @@
  "0-2-19#7": {
   "lit": "nous · continuer · étudier · suivant · un · mot de comptage · module · [suggestion] !"
  },
+ "0-0-0": {
+  "title": "Arrivée à Pékin"
+ },
  "0-0-0#0": {
   "fr": "Je viens.",
   "tgt": "我来。",
@@ -282,7 +198,7 @@
   "fr": "Vous venez ?",
   "tgt": "你们来吗？",
   "ro": "Nǐmen lái ma?",
-  "lit": "vous · venir · [question] ?"
+  "lit": "vous · venir · petit mot de question"
  },
  "0-0-0#6": {
   "fr": "Nous venons aussi.",
@@ -300,12 +216,1209 @@
   "fr": "Pékin, nous voilà !",
   "tgt": "北京，我们来了！",
   "ro": "Běijīng, wǒmen lái le!",
-  "lit": "Pékin · nous · venir · [accompli]"
+  "lit": "Pékin · nous · venir · petit mot de l'action accomplie"
  },
  "0-0-0#9": {
   "fr": "Il est arrivé !",
   "tgt": "他来了！",
   "ro": "Tā lái le!",
-  "lit": "il · venir · [accompli]"
+  "lit": "il · venir · petit mot de l'action accomplie"
+ },
+ "0-0-1": {
+  "title": "D'où viens-tu ?"
+ },
+ "0-0-1#0": {
+  "fr": "Bonjour.",
+  "tgt": "你好。",
+  "ro": "Nǐ hǎo.",
+  "lit": "toi · bien"
+ },
+ "0-0-1#1": {
+  "fr": "J'arrive de Paris.",
+  "tgt": "我从巴黎来。",
+  "ro": "Wǒ cóng Bālí lái.",
+  "lit": "je · depuis · Paris · venir"
+ },
+ "0-0-1#2": {
+  "fr": "Il vient de Pékin.",
+  "tgt": "他从北京来。",
+  "ro": "Tā cóng Běijīng lái.",
+  "lit": "il · depuis · Pékin · venir"
+ },
+ "0-0-1#3": {
+  "fr": "Vous venez de Paris ?",
+  "tgt": "你们从巴黎来吗？",
+  "ro": "Nǐmen cóng Bālí lái ma?",
+  "lit": "vous · depuis · Paris · venir · petit mot de question"
+ },
+ "0-0-1#4": {
+  "fr": "Nous allons à Pékin.",
+  "tgt": "我们去北京。",
+  "ro": "Wǒmen qù Běijīng.",
+  "lit": "nous · aller · Pékin"
+ },
+ "0-0-1#5": {
+  "fr": "Je vais à Paris.",
+  "tgt": "我去巴黎。",
+  "ro": "Wǒ qù Bālí.",
+  "lit": "je · aller · Paris"
+ },
+ "0-0-1#6": {
+  "fr": "Tu vas à Pékin ?",
+  "tgt": "你去北京吗？",
+  "ro": "Nǐ qù Běijīng ma?",
+  "lit": "tu · aller · Pékin · petit mot de question"
+ },
+ "0-0-1#7": {
+  "fr": "Elle y va aussi.",
+  "tgt": "她也去。",
+  "ro": "Tā yě qù.",
+  "lit": "elle · aussi · aller"
+ },
+ "0-0-1#8": {
+  "fr": "Nous allons aussi à Pékin.",
+  "tgt": "我们也去北京。",
+  "ro": "Wǒmen yě qù Běijīng.",
+  "lit": "nous · aussi · aller · Pékin"
+ },
+ "0-0-1#9": {
+  "fr": "Il y est allé.",
+  "tgt": "他去了。",
+  "ro": "Tā qù le.",
+  "lit": "il · aller · petit mot de l'action accomplie"
+ },
+ "0-0-2": {
+  "title": "Où habites-tu ?"
+ },
+ "0-0-2#0": {
+  "fr": "Il habite à Pékin.",
+  "tgt": "他住在北京。",
+  "ro": "Tā zhù zài Běijīng.",
+  "lit": "il · habiter · à · Pékin"
+ },
+ "0-0-2#1": {
+  "fr": "J'habite à Lyon.",
+  "tgt": "我住在里昂。",
+  "ro": "Wǒ zhù zài Lǐ'áng.",
+  "lit": "je · habiter · à · Lyon"
+ },
+ "0-0-2#2": {
+  "fr": "Tu habites où ?",
+  "tgt": "你住在哪儿？",
+  "ro": "Nǐ zhù zài nǎr?",
+  "lit": "tu · habiter · à · où"
+ },
+ "0-0-2#3": {
+  "fr": "Vous habitez à Paris ?",
+  "tgt": "你们住在巴黎吗？",
+  "ro": "Nǐmen zhù zài Bālí ma?",
+  "lit": "vous · habiter · à · Paris · petit mot de question"
+ },
+ "0-0-2#4": {
+  "fr": "Nous habitons en France.",
+  "tgt": "我们住在法国。",
+  "ro": "Wǒmen zhù zài Fǎguó.",
+  "lit": "nous · habiter · à · France"
+ },
+ "0-0-2#5": {
+  "fr": "Elle habite en Chine.",
+  "tgt": "她住在中国。",
+  "ro": "Tā zhù zài Zhōngguó.",
+  "lit": "elle · habiter · à · Chine"
+ },
+ "0-0-2#6": {
+  "fr": "Tu vas où ?",
+  "tgt": "你去哪儿？",
+  "ro": "Nǐ qù nǎr?",
+  "lit": "tu · aller · où"
+ },
+ "0-0-2#7": {
+  "fr": "Je vais en Chine.",
+  "tgt": "我去中国。",
+  "ro": "Wǒ qù Zhōngguó.",
+  "lit": "je · aller · Chine"
+ },
+ "0-0-2#8": {
+  "fr": "Il vient de France.",
+  "tgt": "他从法国来。",
+  "ro": "Tā cóng Fǎguó lái.",
+  "lit": "il · depuis · France · venir"
+ },
+ "0-0-2#9": {
+  "fr": "Ils habitent aussi à Lyon.",
+  "tgt": "他们也住在里昂。",
+  "ro": "Tāmen yě zhù zài Lǐ'áng.",
+  "lit": "ils · aussi · habiter · à · Lyon"
+ },
+ "0-0-3": {
+  "title": "Taxi ou métro ?"
+ },
+ "0-0-3#0": {
+  "fr": "Je prends un taxi.",
+  "tgt": "我坐出租车。",
+  "ro": "Wǒ zuò chūzūchē.",
+  "lit": "je · s'asseoir · taxi"
+ },
+ "0-0-3#1": {
+  "fr": "Elle prend le métro.",
+  "tgt": "她坐地铁。",
+  "ro": "Tā zuò dìtiě.",
+  "lit": "elle · s'asseoir · métro"
+ },
+ "0-0-3#2": {
+  "fr": "Vous allez aussi à l'hôtel ?",
+  "tgt": "你们也去酒店吗？",
+  "ro": "Nǐmen yě qù jiǔdiàn ma?",
+  "lit": "vous · aussi · aller · hôtel · petit mot de question"
+ },
+ "0-0-3#3": {
+  "fr": "Nous allons à l'hôtel.",
+  "tgt": "我们去酒店。",
+  "ro": "Wǒmen qù jiǔdiàn.",
+  "lit": "nous · aller · hôtel"
+ },
+ "0-0-3#4": {
+  "fr": "Je ne prends pas le métro.",
+  "tgt": "我不坐地铁。",
+  "ro": "Wǒ bú zuò dìtiě.",
+  "lit": "je · ne pas · s'asseoir · métro"
+ },
+ "0-0-3#5": {
+  "fr": "Il ne vient pas.",
+  "tgt": "他不来。",
+  "ro": "Tā bù lái.",
+  "lit": "il · ne pas · venir"
+ },
+ "0-0-3#6": {
+  "fr": "Tu prends un taxi ?",
+  "tgt": "你坐出租车吗？",
+  "ro": "Nǐ zuò chūzūchē ma?",
+  "lit": "tu · s'asseoir · taxi · petit mot de question"
+ },
+ "0-0-3#7": {
+  "fr": "Nous n'allons pas à Paris.",
+  "tgt": "我们不去巴黎。",
+  "ro": "Wǒmen bú qù Bālí.",
+  "lit": "nous · ne pas · aller · Paris"
+ },
+ "0-0-3#8": {
+  "fr": "Je vais à l'hôtel en taxi.",
+  "tgt": "我坐出租车去酒店。",
+  "ro": "Wǒ zuò chūzūchē qù jiǔdiàn.",
+  "lit": "je · s'asseoir · taxi · aller · hôtel"
+ },
+ "0-0-3#9": {
+  "fr": "Ils habitent à l'hôtel.",
+  "tgt": "他们住在酒店。",
+  "ro": "Tāmen zhù zài jiǔdiàn.",
+  "lit": "ils · habiter · à · hôtel"
+ },
+ "0-0-4": {
+  "title": "Ma femme, mon ami"
+ },
+ "0-0-4#0": {
+  "fr": "Ma femme vient avec moi.",
+  "tgt": "我太太跟我一起来。",
+  "ro": "Wǒ tàitai gēn wǒ yìqǐ lái.",
+  "lit": "je · épouse · avec · moi · ensemble · venir"
+ },
+ "0-0-4#1": {
+  "fr": "Mon ami nous attend.",
+  "tgt": "我朋友等我们。",
+  "ro": "Wǒ péngyou děng wǒmen.",
+  "lit": "je · ami · attendre · nous"
+ },
+ "0-0-4#2": {
+  "fr": "Je t'attends.",
+  "tgt": "我等你。",
+  "ro": "Wǒ děng nǐ.",
+  "lit": "je · attendre · toi"
+ },
+ "0-0-4#3": {
+  "fr": "Tu viens avec nous ?",
+  "tgt": "你跟我们一起来吗？",
+  "ro": "Nǐ gēn wǒmen yìqǐ lái ma?",
+  "lit": "tu · avec · nous · ensemble · venir · petit mot de question"
+ },
+ "0-0-4#4": {
+  "fr": "Son ami habite à Pékin.",
+  "tgt": "他朋友住在北京。",
+  "ro": "Tā péngyou zhù zài Běijīng.",
+  "lit": "il · ami · habiter · à · Pékin"
+ },
+ "0-0-4#5": {
+  "fr": "Ma femme n'y va pas.",
+  "tgt": "我太太不去。",
+  "ro": "Wǒ tàitai bú qù.",
+  "lit": "je · épouse · ne pas · aller"
+ },
+ "0-0-4#6": {
+  "fr": "Nous y allons ensemble.",
+  "tgt": "我们一起去。",
+  "ro": "Wǒmen yìqǐ qù.",
+  "lit": "nous · ensemble · aller"
+ },
+ "0-0-4#7": {
+  "fr": "Je vais à Pékin avec mon ami.",
+  "tgt": "我跟我朋友一起去北京。",
+  "ro": "Wǒ gēn wǒ péngyou yìqǐ qù Běijīng.",
+  "lit": "je · avec · je · ami · ensemble · aller · Pékin"
+ },
+ "0-0-4#8": {
+  "fr": "Vous attendez un taxi ?",
+  "tgt": "你们等出租车吗？",
+  "ro": "Nǐmen děng chūzūchē ma?",
+  "lit": "vous · attendre · taxi · petit mot de question"
+ },
+ "0-0-4#9": {
+  "fr": "Mon ami prend aussi le métro.",
+  "tgt": "我朋友也坐地铁。",
+  "ro": "Wǒ péngyou yě zuò dìtiě.",
+  "lit": "je · ami · aussi · s'asseoir · métro"
+ },
+ "0-0-5": {
+  "title": "Du thé ou du café ?"
+ },
+ "0-0-5#0": {
+  "fr": "Je veux du thé.",
+  "tgt": "我要茶。",
+  "ro": "Wǒ yào chá.",
+  "lit": "je · vouloir · thé"
+ },
+ "0-0-5#1": {
+  "fr": "Tu veux de l'eau ?",
+  "tgt": "你要水吗？",
+  "ro": "Nǐ yào shuǐ ma?",
+  "lit": "tu · vouloir · eau · petit mot de question"
+ },
+ "0-0-5#2": {
+  "fr": "Oui, merci.",
+  "tgt": "要，谢谢。",
+  "ro": "Yào, xièxie.",
+  "lit": "vouloir · merci"
+ },
+ "0-0-5#3": {
+  "fr": "Je bois du thé.",
+  "tgt": "我喝茶。",
+  "ro": "Wǒ hē chá.",
+  "lit": "je · boire · thé"
+ },
+ "0-0-5#4": {
+  "fr": "Elle ne boit pas de café.",
+  "tgt": "她不喝咖啡。",
+  "ro": "Tā bù hē kāfēi.",
+  "lit": "elle · ne pas · boire · café"
+ },
+ "0-0-5#5": {
+  "fr": "Vous buvez du thé ?",
+  "tgt": "你们喝茶吗？",
+  "ro": "Nǐmen hē chá ma?",
+  "lit": "vous · boire · thé · petit mot de question"
+ },
+ "0-0-5#6": {
+  "fr": "Je ne veux pas d'eau, merci.",
+  "tgt": "我不要水，谢谢。",
+  "ro": "Wǒ bú yào shuǐ, xièxie.",
+  "lit": "je · ne pas · vouloir · eau · merci"
+ },
+ "0-0-5#7": {
+  "fr": "Mon ami veut un café.",
+  "tgt": "我朋友要咖啡。",
+  "ro": "Wǒ péngyou yào kāfēi.",
+  "lit": "je · ami · vouloir · café"
+ },
+ "0-0-5#8": {
+  "fr": "Nous buvons aussi du café.",
+  "tgt": "我们也喝咖啡。",
+  "ro": "Wǒmen yě hē kāfēi.",
+  "lit": "nous · aussi · boire · café"
+ },
+ "0-0-5#9": {
+  "fr": "Ma femme veut du thé.",
+  "tgt": "我太太要茶。",
+  "ro": "Wǒ tàitai yào chá.",
+  "lit": "je · épouse · vouloir · thé"
+ },
+ "0-0-6": {
+  "title": "C'est bon, c'est cher"
+ },
+ "0-0-6#0": {
+  "fr": "Le thé est très bon.",
+  "tgt": "茶很好喝。",
+  "ro": "Chá hěn hǎohē.",
+  "lit": "thé · très · bon à boire"
+ },
+ "0-0-6#1": {
+  "fr": "Le café est cher.",
+  "tgt": "咖啡很贵。",
+  "ro": "Kāfēi hěn guì.",
+  "lit": "café · très · cher"
+ },
+ "0-0-6#2": {
+  "fr": "L'hôtel est très bien.",
+  "tgt": "酒店很好。",
+  "ro": "Jiǔdiàn hěn hǎo.",
+  "lit": "hôtel · très · bien"
+ },
+ "0-0-6#3": {
+  "fr": "Pékin est très grand.",
+  "tgt": "北京很大。",
+  "ro": "Běijīng hěn dà.",
+  "lit": "Pékin · très · grand"
+ },
+ "0-0-6#4": {
+  "fr": "Je suis fatigué.",
+  "tgt": "我很累。",
+  "ro": "Wǒ hěn lèi.",
+  "lit": "je · très · fatigué"
+ },
+ "0-0-6#5": {
+  "fr": "Tu es fatigué ?",
+  "tgt": "你累吗？",
+  "ro": "Nǐ lèi ma?",
+  "lit": "tu · fatigué · petit mot de question"
+ },
+ "0-0-6#6": {
+  "fr": "Le taxi n'est pas cher.",
+  "tgt": "出租车不贵。",
+  "ro": "Chūzūchē bú guì.",
+  "lit": "taxi · ne pas · cher"
+ },
+ "0-0-6#7": {
+  "fr": "Je ne suis pas fatigué.",
+  "tgt": "我不累。",
+  "ro": "Wǒ bú lèi.",
+  "lit": "je · ne pas · fatigué"
+ },
+ "0-0-6#8": {
+  "fr": "Le métro est bien ?",
+  "tgt": "地铁好吗？",
+  "ro": "Dìtiě hǎo ma?",
+  "lit": "métro · bien · petit mot de question"
+ },
+ "0-0-6#9": {
+  "fr": "Mon ami va très bien.",
+  "tgt": "我朋友很好。",
+  "ro": "Wǒ péngyou hěn hǎo.",
+  "lit": "je · ami · très · bien"
+ },
+ "0-0-7": {
+  "title": "Acheter du thé"
+ },
+ "0-0-7#0": {
+  "fr": "Vous vendez du thé ?",
+  "tgt": "你们卖茶吗？",
+  "ro": "Nǐmen mài chá ma?",
+  "lit": "vous · vendre · thé · petit mot de question"
+ },
+ "0-0-7#1": {
+  "fr": "J'ai envie d'acheter du thé.",
+  "tgt": "我想买茶。",
+  "ro": "Wǒ xiǎng mǎi chá.",
+  "lit": "je · avoir envie · acheter · thé"
+ },
+ "0-0-7#2": {
+  "fr": "C'est combien ?",
+  "tgt": "多少钱？",
+  "ro": "Duōshao qián?",
+  "lit": "combien d'argent"
+ },
+ "0-0-7#3": {
+  "fr": "Dix kuai.",
+  "tgt": "十块。",
+  "ro": "Shí kuài.",
+  "lit": "dix · kuai"
+ },
+ "0-0-7#4": {
+  "fr": "Le thé, c'est combien ?",
+  "tgt": "茶多少钱？",
+  "ro": "Chá duōshao qián?",
+  "lit": "thé · combien d'argent"
+ },
+ "0-0-7#5": {
+  "fr": "J'ai envie d'acheter un café.",
+  "tgt": "我想买咖啡。",
+  "ro": "Wǒ xiǎng mǎi kāfēi.",
+  "lit": "je · avoir envie · acheter · café"
+ },
+ "0-0-7#6": {
+  "fr": "Il ne vend pas d'eau.",
+  "tgt": "他不卖水。",
+  "ro": "Tā bú mài shuǐ.",
+  "lit": "il · ne pas · vendre · eau"
+ },
+ "0-0-7#7": {
+  "fr": "J'ai envie d'aller à Pékin.",
+  "tgt": "我想去北京。",
+  "ro": "Wǒ xiǎng qù Běijīng.",
+  "lit": "je · avoir envie · aller · Pékin"
+ },
+ "0-0-7#8": {
+  "fr": "Tu as envie de boire du thé ?",
+  "tgt": "你想喝茶吗？",
+  "ro": "Nǐ xiǎng hē chá ma?",
+  "lit": "tu · avoir envie · boire · thé · petit mot de question"
+ },
+ "0-0-7#9": {
+  "fr": "Dix kuai, ce n'est pas cher.",
+  "tgt": "十块不贵。",
+  "ro": "Shí kuài bú guì.",
+  "lit": "dix · kuai · ne pas · cher"
+ },
+ "0-0-8": {
+  "title": "Compter les tasses"
+ },
+ "0-0-8#0": {
+  "fr": "Je voudrais une tasse de thé.",
+  "tgt": "我要一杯茶。",
+  "ro": "Wǒ yào yì bēi chá.",
+  "lit": "je · vouloir · un · tasse · thé"
+ },
+ "0-0-8#1": {
+  "fr": "Deux cafés.",
+  "tgt": "两杯咖啡。",
+  "ro": "Liǎng bēi kāfēi.",
+  "lit": "deux · tasse · café"
+ },
+ "0-0-8#2": {
+  "fr": "Trois verres d'eau.",
+  "tgt": "三杯水。",
+  "ro": "Sān bēi shuǐ.",
+  "lit": "trois · tasse · eau"
+ },
+ "0-0-8#3": {
+  "fr": "Trente kuai.",
+  "tgt": "三十块。",
+  "ro": "Sānshí kuài.",
+  "lit": "trois · dix · kuai"
+ },
+ "0-0-8#4": {
+  "fr": "Quinze kuai.",
+  "tgt": "十五块。",
+  "ro": "Shíwǔ kuài.",
+  "lit": "dix · cinq · kuai"
+ },
+ "0-0-8#5": {
+  "fr": "Un thé, c'est combien ?",
+  "tgt": "一杯茶多少钱？",
+  "ro": "Yì bēi chá duōshao qián?",
+  "lit": "un · tasse · thé · combien d'argent"
+ },
+ "0-0-8#6": {
+  "fr": "Je veux deux tasses de thé.",
+  "tgt": "我要两杯茶。",
+  "ro": "Wǒ yào liǎng bēi chá.",
+  "lit": "je · vouloir · deux · tasse · thé"
+ },
+ "0-0-8#7": {
+  "fr": "Quarante kuai, c'est très cher.",
+  "tgt": "四十块很贵。",
+  "ro": "Sìshí kuài hěn guì.",
+  "lit": "quatre · dix · kuai · très · cher"
+ },
+ "0-0-8#8": {
+  "fr": "Nous voulons trois cafés.",
+  "tgt": "我们要三杯咖啡。",
+  "ro": "Wǒmen yào sān bēi kāfēi.",
+  "lit": "nous · vouloir · trois · tasse · café"
+ },
+ "0-0-8#9": {
+  "fr": "Cinq kuai.",
+  "tgt": "五块。",
+  "ro": "Wǔ kuài.",
+  "lit": "cinq · kuai"
+ },
+ "0-0-9": {
+  "title": "Chez le marchand de thé"
+ },
+ "0-0-9#0": {
+  "fr": "Du thé vert, s'il vous plaît.",
+  "tgt": "请给我绿茶。",
+  "ro": "Qǐng gěi wǒ lǜchá.",
+  "lit": "s'il vous plaît · donner · moi · thé vert"
+ },
+ "0-0-9#1": {
+  "fr": "C'est un peu cher.",
+  "tgt": "有点儿贵。",
+  "ro": "Yǒudiǎnr guì.",
+  "lit": "un peu · cher"
+ },
+ "0-0-9#2": {
+  "fr": "Le patron est très bien.",
+  "tgt": "老板很好。",
+  "ro": "Lǎobǎn hěn hǎo.",
+  "lit": "patron · très · bien"
+ },
+ "0-0-9#3": {
+  "fr": "Deux thés verts, s'il vous plaît.",
+  "tgt": "请给我两杯绿茶。",
+  "ro": "Qǐng gěi wǒ liǎng bēi lǜchá.",
+  "lit": "s'il vous plaît · donner · moi · deux · tasse · thé vert"
+ },
+ "0-0-9#4": {
+  "fr": "Je suis un peu fatigué.",
+  "tgt": "我有点儿累。",
+  "ro": "Wǒ yǒudiǎnr lèi.",
+  "lit": "je · un peu · fatigué"
+ },
+ "0-0-9#5": {
+  "fr": "Asseyez-vous, je vous en prie.",
+  "tgt": "请坐。",
+  "ro": "Qǐng zuò.",
+  "lit": "s'il vous plaît · s'asseoir"
+ },
+ "0-0-9#6": {
+  "fr": "Au revoir.",
+  "tgt": "再见。",
+  "ro": "Zàijiàn.",
+  "lit": "au revoir"
+ },
+ "0-0-9#7": {
+  "fr": "Patron, c'est combien ?",
+  "tgt": "老板，多少钱？",
+  "ro": "Lǎobǎn, duōshao qián?",
+  "lit": "patron · combien d'argent"
+ },
+ "0-0-9#8": {
+  "fr": "Le thé vert est très bon.",
+  "tgt": "绿茶很好喝。",
+  "ro": "Lǜchá hěn hǎohē.",
+  "lit": "thé vert · très · bon à boire"
+ },
+ "0-0-9#9": {
+  "fr": "De l'eau, s'il vous plaît.",
+  "tgt": "请给我水。",
+  "ro": "Qǐng gěi wǒ shuǐ.",
+  "lit": "s'il vous plaît · donner · moi · eau"
+ },
+ "0-0-10": {
+  "title": "Je suis touriste"
+ },
+ "0-0-10#0": {
+  "fr": "Je suis touriste.",
+  "tgt": "我是游客。",
+  "ro": "Wǒ shì yóukè.",
+  "lit": "je · être · touriste"
+ },
+ "0-0-10#1": {
+  "fr": "Elle est étudiante.",
+  "tgt": "她是学生。",
+  "ro": "Tā shì xuésheng.",
+  "lit": "elle · être · étudiant"
+ },
+ "0-0-10#2": {
+  "fr": "Tu es de Paris ?",
+  "tgt": "你是巴黎人吗？",
+  "ro": "Nǐ shì Bālírén ma?",
+  "lit": "tu · être · parisien · petit mot de question"
+ },
+ "0-0-10#3": {
+  "fr": "Oui, je suis parisien.",
+  "tgt": "对，我是巴黎人。",
+  "ro": "Duì, wǒ shì Bālírén.",
+  "lit": "exact · je · être · parisien"
+ },
+ "0-0-10#4": {
+  "fr": "C'est du thé vert.",
+  "tgt": "这是绿茶。",
+  "ro": "Zhè shì lǜchá.",
+  "lit": "ceci · être · thé vert"
+ },
+ "0-0-10#5": {
+  "fr": "Il est pékinois.",
+  "tgt": "他是北京人。",
+  "ro": "Tā shì Běijīngrén.",
+  "lit": "il · être · pékinois"
+ },
+ "0-0-10#6": {
+  "fr": "Je ne suis pas étudiant.",
+  "tgt": "我不是学生。",
+  "ro": "Wǒ bú shì xuésheng.",
+  "lit": "je · ne pas · être · étudiant"
+ },
+ "0-0-10#7": {
+  "fr": "C'est mon ami.",
+  "tgt": "这是我朋友。",
+  "ro": "Zhè shì wǒ péngyou.",
+  "lit": "ceci · être · je · ami"
+ },
+ "0-0-10#8": {
+  "fr": "C'est ma femme.",
+  "tgt": "这是我太太。",
+  "ro": "Zhè shì wǒ tàitai.",
+  "lit": "ceci · être · je · épouse"
+ },
+ "0-0-10#9": {
+  "fr": "Vous êtes touristes ?",
+  "tgt": "你们是游客吗？",
+  "ro": "Nǐmen shì yóukè ma?",
+  "lit": "vous · être · touriste · petit mot de question"
+ },
+ "0-0-11": {
+  "title": "La Cité interdite"
+ },
+ "0-0-11#0": {
+  "fr": "Voici la Cité interdite.",
+  "tgt": "这是故宫。",
+  "ro": "Zhè shì Gùgōng.",
+  "lit": "ceci · être · Cité interdite"
+ },
+ "0-0-11#1": {
+  "fr": "Lui, c'est notre guide.",
+  "tgt": "他是我们的导游。",
+  "ro": "Tā shì wǒmen de dǎoyóu.",
+  "lit": "il · être · nous · petit mot du possessif · guide"
+ },
+ "0-0-11#2": {
+  "fr": "Voici nos billets.",
+  "tgt": "这是我们的票。",
+  "ro": "Zhè shì wǒmen de piào.",
+  "lit": "ceci · être · nous · petit mot du possessif · billet"
+ },
+ "0-0-11#3": {
+  "fr": "Vous êtes de Paris ?",
+  "tgt": "您是巴黎人吗？",
+  "ro": "Nín shì Bālírén ma?",
+  "lit": "vous · être · parisien · petit mot de question"
+ },
+ "0-0-11#4": {
+  "fr": "C'est votre billet ?",
+  "tgt": "这是您的票吗？",
+  "ro": "Zhè shì nín de piào ma?",
+  "lit": "ceci · être · vous · petit mot du possessif · billet · petit mot de question"
+ },
+ "0-0-11#5": {
+  "fr": "La Cité interdite est immense.",
+  "tgt": "故宫很大。",
+  "ro": "Gùgōng hěn dà.",
+  "lit": "Cité interdite · très · grand"
+ },
+ "0-0-11#6": {
+  "fr": "Le billet n'est pas cher.",
+  "tgt": "票不贵。",
+  "ro": "Piào bú guì.",
+  "lit": "billet · ne pas · cher"
+ },
+ "0-0-11#7": {
+  "fr": "C'est mon thé.",
+  "tgt": "这是我的茶。",
+  "ro": "Zhè shì wǒ de chá.",
+  "lit": "ceci · être · je · petit mot du possessif · thé"
+ },
+ "0-0-11#8": {
+  "fr": "Notre guide est très bien.",
+  "tgt": "我们的导游很好。",
+  "ro": "Wǒmen de dǎoyóu hěn hǎo.",
+  "lit": "nous · petit mot du possessif · guide · très · bien"
+ },
+ "0-0-11#9": {
+  "fr": "Nous allons à la Cité interdite.",
+  "tgt": "我们去故宫。",
+  "ro": "Wǒmen qù Gùgōng.",
+  "lit": "nous · aller · Cité interdite"
+ },
+ "0-0-12": {
+  "title": "Il y a des toilettes ?"
+ },
+ "0-0-12#0": {
+  "fr": "Il y a des toilettes par ici ?",
+  "tgt": "这儿有厕所吗？",
+  "ro": "Zhèr yǒu cèsuǒ ma?",
+  "lit": "ici · avoir · toilettes · petit mot de question"
+ },
+ "0-0-12#1": {
+  "fr": "Vous avez un plan ?",
+  "tgt": "您有地图吗？",
+  "ro": "Nín yǒu dìtú ma?",
+  "lit": "vous · avoir · plan · petit mot de question"
+ },
+ "0-0-12#2": {
+  "fr": "Je n'ai pas de billet.",
+  "tgt": "我没有票。",
+  "ro": "Wǒ méiyǒu piào.",
+  "lit": "je · ne pas avoir · billet"
+ },
+ "0-0-12#3": {
+  "fr": "J'ai un plan.",
+  "tgt": "我有地图。",
+  "ro": "Wǒ yǒu dìtú.",
+  "lit": "je · avoir · plan"
+ },
+ "0-0-12#4": {
+  "fr": "Il y a un parc ici ?",
+  "tgt": "这儿有公园吗？",
+  "ro": "Zhèr yǒu gōngyuán ma?",
+  "lit": "ici · avoir · parc · petit mot de question"
+ },
+ "0-0-12#5": {
+  "fr": "Ici, il n'y a pas de métro.",
+  "tgt": "这儿没有地铁。",
+  "ro": "Zhèr méiyǒu dìtiě.",
+  "lit": "ici · ne pas avoir · métro"
+ },
+ "0-0-12#6": {
+  "fr": "Tu as de l'eau ?",
+  "tgt": "你有水吗？",
+  "ro": "Nǐ yǒu shuǐ ma?",
+  "lit": "tu · avoir · eau · petit mot de question"
+ },
+ "0-0-12#7": {
+  "fr": "Nous allons au parc.",
+  "tgt": "我们去公园。",
+  "ro": "Wǒmen qù gōngyuán.",
+  "lit": "nous · aller · parc"
+ },
+ "0-0-12#8": {
+  "fr": "Mon ami a les billets.",
+  "tgt": "我朋友有票。",
+  "ro": "Wǒ péngyou yǒu piào.",
+  "lit": "je · ami · avoir · billet"
+ },
+ "0-0-12#9": {
+  "fr": "Vous avez un plan du parc ?",
+  "tgt": "您有公园地图吗？",
+  "ro": "Nín yǒu gōngyuán dìtú ma?",
+  "lit": "vous · avoir · parc · plan · petit mot de question"
+ },
+ "0-0-13": {
+  "title": "Pause au parc"
+ },
+ "0-0-13#0": {
+  "fr": "Tu as faim ?",
+  "tgt": "你饿吗？",
+  "ro": "Nǐ è ma?",
+  "lit": "tu · affamé · petit mot de question"
+ },
+ "0-0-13#1": {
+  "fr": "Le paysage est joli ?",
+  "tgt": "风景好看吗？",
+  "ro": "Fēngjǐng hǎokàn ma?",
+  "lit": "paysage · joli à regarder · petit mot de question"
+ },
+ "0-0-13#2": {
+  "fr": "Magnifique !",
+  "tgt": "非常美！",
+  "ro": "Fēicháng měi!",
+  "lit": "extrêmement · beau"
+ },
+ "0-0-13#3": {
+  "fr": "Il y a énormément de monde.",
+  "tgt": "人很多。",
+  "ro": "Rén hěn duō.",
+  "lit": "gens · très · nombreux"
+ },
+ "0-0-13#4": {
+  "fr": "Je n'ai pas faim.",
+  "tgt": "我不饿。",
+  "ro": "Wǒ bú è.",
+  "lit": "je · ne pas · affamé"
+ },
+ "0-0-13#5": {
+  "fr": "Le parc est très beau.",
+  "tgt": "公园很美。",
+  "ro": "Gōngyuán hěn měi.",
+  "lit": "parc · très · beau"
+ },
+ "0-0-13#6": {
+  "fr": "J'ai très faim.",
+  "tgt": "我非常饿。",
+  "ro": "Wǒ fēicháng è.",
+  "lit": "je · extrêmement · affamé"
+ },
+ "0-0-13#7": {
+  "fr": "La Cité interdite est très jolie.",
+  "tgt": "故宫很好看。",
+  "ro": "Gùgōng hěn hǎokàn.",
+  "lit": "Cité interdite · très · joli à regarder"
+ },
+ "0-0-13#8": {
+  "fr": "Il y a beaucoup de touristes.",
+  "tgt": "游客很多。",
+  "ro": "Yóukè hěn duō.",
+  "lit": "touristes · très · nombreux"
+ },
+ "0-0-13#9": {
+  "fr": "Tu as faim, toi aussi ?",
+  "tgt": "你也饿吗？",
+  "ro": "Nǐ yě è ma?",
+  "lit": "tu · aussi · affamé · petit mot de question"
+ },
+ "0-0-14": {
+  "title": "Canard laqué"
+ },
+ "0-0-14#0": {
+  "fr": "Je ne mange pas épicé.",
+  "tgt": "我不吃辣。",
+  "ro": "Wǒ bù chī là.",
+  "lit": "je · ne pas · manger · épicé"
+ },
+ "0-0-14#1": {
+  "fr": "Le canard laqué est délicieux.",
+  "tgt": "烤鸭很好吃。",
+  "ro": "Kǎoyā hěn hǎochī.",
+  "lit": "canard laqué · très · bon à manger"
+ },
+ "0-0-14#2": {
+  "fr": "Je ne veux pas de riz.",
+  "tgt": "我不要米饭。",
+  "ro": "Wǒ bú yào mǐfàn.",
+  "lit": "je · ne pas · vouloir · riz"
+ },
+ "0-0-14#3": {
+  "fr": "Tu manges du canard laqué ?",
+  "tgt": "你吃烤鸭吗？",
+  "ro": "Nǐ chī kǎoyā ma?",
+  "lit": "tu · manger · canard laqué · petit mot de question"
+ },
+ "0-0-14#4": {
+  "fr": "J'ai envie de manger du canard laqué.",
+  "tgt": "我想吃烤鸭。",
+  "ro": "Wǒ xiǎng chī kǎoyā.",
+  "lit": "je · avoir envie · manger · canard laqué"
+ },
+ "0-0-14#5": {
+  "fr": "Le plat est très épicé.",
+  "tgt": "菜很辣。",
+  "ro": "Cài hěn là.",
+  "lit": "plat · très · épicé"
+ },
+ "0-0-14#6": {
+  "fr": "Nous mangeons ensemble.",
+  "tgt": "我们一起吃饭。",
+  "ro": "Wǒmen yìqǐ chī fàn.",
+  "lit": "nous · ensemble · manger · repas"
+ },
+ "0-0-14#7": {
+  "fr": "Le riz est bon ?",
+  "tgt": "米饭好吃吗？",
+  "ro": "Mǐfàn hǎochī ma?",
+  "lit": "riz · bon à manger · petit mot de question"
+ },
+ "0-0-14#8": {
+  "fr": "Ce n'est pas épicé.",
+  "tgt": "不辣。",
+  "ro": "Bú là.",
+  "lit": "ne pas · épicé"
+ },
+ "0-0-14#9": {
+  "fr": "Mon ami a envie de manger épicé.",
+  "tgt": "我朋友想吃辣。",
+  "ro": "Wǒ péngyou xiǎng chī là.",
+  "lit": "je · ami · avoir envie · manger · épicé"
+ },
+ "0-0-15": {
+  "title": "Trop épicé !"
+ },
+ "0-0-15#0": {
+  "fr": "Merci, je ne bois pas d'alcool.",
+  "tgt": "谢谢，我不喝酒。",
+  "ro": "Xièxie, wǒ bù hē jiǔ.",
+  "lit": "merci · je · ne pas · boire · alcool"
+ },
+ "0-0-15#1": {
+  "fr": "Le thé n'est pas trop sucré.",
+  "tgt": "茶不太甜。",
+  "ro": "Chá bú tài tián.",
+  "lit": "thé · ne pas · trop · sucré"
+ },
+ "0-0-15#2": {
+  "fr": "Je ne suis pas pressé.",
+  "tgt": "我不急。",
+  "ro": "Wǒ bù jí.",
+  "lit": "je · ne pas · pressé"
+ },
+ "0-0-15#3": {
+  "fr": "C'est trop cher !",
+  "tgt": "太贵了！",
+  "ro": "Tài guì le!",
+  "lit": "trop · cher · petit mot qui renforce"
+ },
+ "0-0-15#4": {
+  "fr": "Une bière, s'il vous plaît.",
+  "tgt": "请给我一杯啤酒。",
+  "ro": "Qǐng gěi wǒ yì bēi píjiǔ.",
+  "lit": "s'il vous plaît · donner · moi · un · tasse · bière"
+ },
+ "0-0-15#5": {
+  "fr": "C'est trop épicé !",
+  "tgt": "太辣了！",
+  "ro": "Tài là le!",
+  "lit": "trop · épicé · petit mot qui renforce"
+ },
+ "0-0-15#6": {
+  "fr": "Tu bois de l'alcool ?",
+  "tgt": "你喝酒吗？",
+  "ro": "Nǐ hē jiǔ ma?",
+  "lit": "tu · boire · alcool · petit mot de question"
+ },
+ "0-0-15#7": {
+  "fr": "La bière n'est pas trop chère.",
+  "tgt": "啤酒不太贵。",
+  "ro": "Píjiǔ bú tài guì.",
+  "lit": "bière · ne pas · trop · cher"
+ },
+ "0-0-15#8": {
+  "fr": "Le café est très sucré.",
+  "tgt": "咖啡很甜。",
+  "ro": "Kāfēi hěn tián.",
+  "lit": "café · très · sucré"
+ },
+ "0-0-15#9": {
+  "fr": "Nous voulons deux bières.",
+  "tgt": "我们要两杯啤酒。",
+  "ro": "Wǒmen yào liǎng bēi píjiǔ.",
+  "lit": "nous · vouloir · deux · tasse · bière"
+ },
+ "0-0-16": {
+  "title": "Celui-ci ou celui-là ?"
+ },
+ "0-0-16#0": {
+  "fr": "C'est combien, ça ?",
+  "tgt": "这个多少钱？",
+  "ro": "Zhège duōshao qián?",
+  "lit": "celui-ci · combien d'argent"
+ },
+ "0-0-16#1": {
+  "fr": "Et celui-là ?",
+  "tgt": "那个呢？",
+  "ro": "Nàge ne?",
+  "lit": "celui-là · et"
+ },
+ "0-0-16#2": {
+  "fr": "Je vais prendre celui-ci.",
+  "tgt": "我要这个。",
+  "ro": "Wǒ yào zhège.",
+  "lit": "je · vouloir · celui-ci"
+ },
+ "0-0-16#3": {
+  "fr": "Qu'est-ce que c'est ?",
+  "tgt": "这是什么？",
+  "ro": "Zhè shì shénme?",
+  "lit": "ceci · être · quoi"
+ },
+ "0-0-16#4": {
+  "fr": "C'est une pomme.",
+  "tgt": "这是苹果。",
+  "ro": "Zhè shì píngguǒ.",
+  "lit": "ceci · être · pomme"
+ },
+ "0-0-16#5": {
+  "fr": "Non, pas celui-là.",
+  "tgt": "不是那个。",
+  "ro": "Bú shì nàge.",
+  "lit": "ne pas · être · celui-là"
+ },
+ "0-0-16#6": {
+  "fr": "Qu'est-ce que c'est, ce fruit ?",
+  "tgt": "这是什么水果？",
+  "ro": "Zhè shì shénme shuǐguǒ?",
+  "lit": "ceci · être · quoi · fruit"
+ },
+ "0-0-16#7": {
+  "fr": "Celui-là est très cher.",
+  "tgt": "那个很贵。",
+  "ro": "Nàge hěn guì.",
+  "lit": "celui-là · très · cher"
+ },
+ "0-0-16#8": {
+  "fr": "Tu as envie de manger quoi ?",
+  "tgt": "你想吃什么？",
+  "ro": "Nǐ xiǎng chī shénme?",
+  "lit": "tu · avoir envie · manger · quoi"
+ },
+ "0-0-16#9": {
+  "fr": "J'ai envie d'acheter des pommes.",
+  "tgt": "我想买苹果。",
+  "ro": "Wǒ xiǎng mǎi píngguǒ.",
+  "lit": "je · avoir envie · acheter · pomme"
+ },
+ "0-0-17": {
+  "title": "Chercher un appartement"
+ },
+ "0-0-17#0": {
+  "fr": "Nous cherchons un appartement.",
+  "tgt": "我们找房子。",
+  "ro": "Wǒmen zhǎo fángzi.",
+  "lit": "nous · chercher · appartement"
+ },
+ "0-0-17#1": {
+  "fr": "Ça te plaît, cet appartement ?",
+  "tgt": "你喜欢这个房子吗？",
+  "ro": "Nǐ xǐhuan zhège fángzi ma?",
+  "lit": "tu · aimer · celui-ci · appartement · petit mot de question"
+ },
+ "0-0-17#2": {
+  "fr": "Oui, il me plaît beaucoup.",
+  "tgt": "我很喜欢。",
+  "ro": "Wǒ hěn xǐhuan.",
+  "lit": "je · très · aimer"
+ },
+ "0-0-17#3": {
+  "fr": "Voici ma chambre.",
+  "tgt": "这是我的房间。",
+  "ro": "Zhè shì wǒ de fángjiān.",
+  "lit": "ceci · être · je · petit mot du possessif · chambre"
+ },
+ "0-0-17#4": {
+  "fr": "La chambre est petite.",
+  "tgt": "房间很小。",
+  "ro": "Fángjiān hěn xiǎo.",
+  "lit": "chambre · très · petit"
+ },
+ "0-0-17#5": {
+  "fr": "Elle n'aime pas le café.",
+  "tgt": "她不喜欢咖啡。",
+  "ro": "Tā bù xǐhuan kāfēi.",
+  "lit": "elle · ne pas · aimer · café"
+ },
+ "0-0-17#6": {
+  "fr": "Cette chambre est confortable.",
+  "tgt": "这个房间很舒服。",
+  "ro": "Zhège fángjiān hěn shūfu.",
+  "lit": "celui-ci · chambre · très · confortable"
+ },
+ "0-0-17#7": {
+  "fr": "J'aime beaucoup Pékin.",
+  "tgt": "我很喜欢北京。",
+  "ro": "Wǒ hěn xǐhuan Běijīng.",
+  "lit": "je · très · aimer · Pékin"
+ },
+ "0-0-17#8": {
+  "fr": "Tu cherches quoi ?",
+  "tgt": "你找什么？",
+  "ro": "Nǐ zhǎo shénme?",
+  "lit": "tu · chercher · quoi"
+ },
+ "0-0-17#9": {
+  "fr": "Notre appartement n'est pas grand.",
+  "tgt": "我们的房子不大。",
+  "ro": "Wǒmen de fángzi bú dà.",
+  "lit": "nous · petit mot du possessif · appartement · ne pas · grand"
+ },
+ "0-0-18": {
+  "title": "Le temps qu’il fait"
+ },
+ "0-0-18#0": {
+  "fr": "Aujourd'hui, il fait très chaud.",
+  "tgt": "今天很热。",
+  "ro": "Jīntiān hěn rè.",
+  "lit": "aujourd'hui · très · chaud"
+ },
+ "0-0-18#1": {
+  "fr": "Demain, il fera froid.",
+  "tgt": "明天很冷。",
+  "ro": "Míngtiān hěn lěng.",
+  "lit": "demain · très · froid"
+ },
+ "0-0-18#2": {
+  "fr": "Il fait beau ?",
+  "tgt": "天气好吗？",
+  "ro": "Tiānqì hǎo ma?",
+  "lit": "temps · bien · petit mot de question"
+ },
+ "0-0-18#3": {
+  "fr": "Mon ami vient ce soir.",
+  "tgt": "我朋友今天晚上来。",
+  "ro": "Wǒ péngyou jīntiān wǎnshang lái.",
+  "lit": "je · ami · aujourd'hui · soir · venir"
+ },
+ "0-0-18#4": {
+  "fr": "Demain, nous allons à la Cité interdite.",
+  "tgt": "我们明天去故宫。",
+  "ro": "Wǒmen míngtiān qù Gùgōng.",
+  "lit": "nous · demain · aller · Cité interdite"
+ },
+ "0-0-18#5": {
+  "fr": "Il ne fait pas froid aujourd'hui.",
+  "tgt": "今天不冷。",
+  "ro": "Jīntiān bù lěng.",
+  "lit": "aujourd'hui · ne pas · froid"
+ },
+ "0-0-18#6": {
+  "fr": "Tu viens demain ?",
+  "tgt": "你明天来吗？",
+  "ro": "Nǐ míngtiān lái ma?",
+  "lit": "tu · demain · venir · petit mot de question"
+ },
+ "0-0-18#7": {
+  "fr": "L'eau est très chaude.",
+  "tgt": "水很热。",
+  "ro": "Shuǐ hěn rè.",
+  "lit": "eau · très · chaud"
+ },
+ "0-0-18#8": {
+  "fr": "Ce soir, nous mangeons du canard laqué.",
+  "tgt": "我们今天晚上吃烤鸭。",
+  "ro": "Wǒmen jīntiān wǎnshang chī kǎoyā.",
+  "lit": "nous · aujourd'hui · soir · manger · canard laqué"
+ },
+ "0-0-18#9": {
+  "fr": "Il fait très beau aujourd'hui.",
+  "tgt": "今天天气很好。",
+  "ro": "Jīntiān tiānqì hěn hǎo.",
+  "lit": "aujourd'hui · temps · très · bien"
+ },
+ "0-0-19": {
+  "title": "Je parle un peu chinois"
+ },
+ "0-0-19#0": {
+  "fr": "Je parle un peu chinois.",
+  "tgt": "我会说一点儿中文。",
+  "ro": "Wǒ huì shuō yìdiǎnr Zhōngwén.",
+  "lit": "je · savoir · parler · un peu · chinois"
+ },
+ "0-0-19#1": {
+  "fr": "Tu parles chinois ?",
+  "tgt": "你会说中文吗？",
+  "ro": "Nǐ huì shuō Zhōngwén ma?",
+  "lit": "tu · savoir · parler · chinois · petit mot de question"
+ },
+ "0-0-19#2": {
+  "fr": "J'apprends le chinois.",
+  "tgt": "我学中文。",
+  "ro": "Wǒ xué Zhōngwén.",
+  "lit": "je · apprendre · chinois"
+ },
+ "0-0-19#3": {
+  "fr": "Il ne parle pas chinois.",
+  "tgt": "他不会说中文。",
+  "ro": "Tā bú huì shuō Zhōngwén.",
+  "lit": "il · ne pas · savoir · parler · chinois"
+ },
+ "0-0-19#4": {
+  "fr": "J'aime beaucoup le chinois.",
+  "tgt": "我很喜欢中文。",
+  "ro": "Wǒ hěn xǐhuan Zhōngwén.",
+  "lit": "je · très · aimer · chinois"
+ },
+ "0-0-19#5": {
+  "fr": "Ma femme apprend aussi le chinois.",
+  "tgt": "我太太也学中文。",
+  "ro": "Wǒ tàitai yě xué Zhōngwén.",
+  "lit": "je · épouse · aussi · apprendre · chinois"
+ },
+ "0-0-19#6": {
+  "fr": "Nous apprenons le chinois ensemble.",
+  "tgt": "我们一起学中文。",
+  "ro": "Wǒmen yìqǐ xué Zhōngwén.",
+  "lit": "nous · ensemble · apprendre · chinois"
+ },
+ "0-0-19#7": {
+  "fr": "Vous parlez chinois ?",
+  "tgt": "您会说中文吗？",
+  "ro": "Nín huì shuō Zhōngwén ma?",
+  "lit": "vous · savoir · parler · chinois · petit mot de question"
+ },
+ "0-0-19#8": {
+  "fr": "Un petit peu.",
+  "tgt": "一点儿。",
+  "ro": "Yìdiǎnr.",
+  "lit": "un peu"
+ },
+ "0-0-19#9": {
+  "fr": "Demain, je vais en Chine.",
+  "tgt": "我明天去中国。",
+  "ro": "Wǒ míngtiān qù Zhōngguó.",
+  "lit": "je · demain · aller · Chine"
  }
 }

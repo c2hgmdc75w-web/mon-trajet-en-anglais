@@ -1,16 +1,4 @@
 {
- "0-0-5": {
-  "title": "Les pronoms : « wǒ, nǐ, tā », et le pluriel en « men »"
- },
- "0-0-6": {
-  "title": "« De » : le possessif, « wǒ de »"
- },
- "0-0-15": {
-  "title": "Les mots interrogatifs : « shénme, nǎr, shéi, jǐ »"
- },
- "0-0-19": {
-  "title": "Les formules magiques : « nǐ hǎo, xièxie, duìbuqǐ, méi guānxi »"
- },
  "0-2-5": {
   "title": "La famille : « bàba, māma, gēge, jiějie »"
  },
@@ -36,20 +24,6 @@
  "2-2-2": {
   "title": "Les expressions du quotidien : « chī le ma, mànmàn chī, jiāyóu »"
  },
- "0-0-11": {
-  "title": "Les mots de comptage : « ge » et ses amis",
-  "body": "En chinois, on ne peut pas coller un nombre directement devant un nom. Il faut glisser entre les deux un mot de comptage, comme on l'a vu au début. Le français fait parfois pareil : on dit une tasse de thé, une paire de baguettes. En chinois, c'est obligatoire tout le temps. Le plus courant, et le plus pratique, est « ge », sans ton : « liǎng ge bāozi », deux baozi. Mot à mot : deux, mot de comptage passe-partout, baozi. Il en existe d'autres, plus précis : « zhāng » pour les choses plates comme une table ou un billet, « píng » pour une bouteille, « wǎn » pour un bol, « shuāng » pour une paire. Après « zhè » et « nà », on le met aussi : « zhè jiā fànguǎn », ce restaurant. Astuce : si vous ne savez pas lequel choisir, dites « ge » ; on vous comprendra presque toujours, avec un sourire.",
-  "lit": "je · vouloir · deux · mot de comptage · baozi"
- },
- "0-0-8": {
-  "lit": "je · vouloir · ce · mot de comptage"
- },
- "0-0-17": {
-  "lit": "je · vouloir · acheter · un · mot de comptage · veste"
- },
- "0-0-18": {
-  "lit": "prendre · mot de comptage · photo · [suggestion] !"
- },
  "0-1-5": {
   "lit": "ce · mot de comptage · chapeau · combien · argent ?"
  },
@@ -64,11 +38,5 @@
  },
  "1-2-4": {
   "lit": "peut-être · nous · devoir · changer · un · mot de comptage · restaurant"
- },
- "0-0-0": {
-  "example": "Il vient. — 他<b>来</b>。",
-  "exampleRo": "Tā lái.",
-  "lit": "il · venir",
-  "body": "Bonne nouvelle pour commencer. En chinois, les verbes ne se conjuguent pas. En français, on dit je viens, il vient, nous venons. En chinois, on dit toujours « lái », quelle que soit la personne. Écoutez. Je viens se dit « Wǒ lái ». Il vient se dit « Tā lái ». Nous venons se dit « Wǒmen lái ». Seul le sujet change. Le verbe reste parfaitement identique. Et le verbe ne change pas non plus avec le temps. Hier, aujourd'hui ou demain, c'est toujours « lái ». Pour retenir, imaginez le verbe chinois comme une brique qui ne se déforme jamais. Vous posez simplement le sujet devant."
  }
 }
