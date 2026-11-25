@@ -1,0 +1,391 @@
+# Script de la leçon 16 de chinois — « Trop épicé ! »
+
+## 1. Titre et objectif — ≈ 0 min 10 s
+
+- **FR** — Leçon 16. Trop épicé !
+- **FR** — Aujourd'hui, tu vas apprendre à dire que c'est trop, ou pas trop, et à commander une bière.
+- *(silence 1,5 s)*
+
+## 2. Rappel — ≈ 1 min 20 s
+
+- **FR** — On commence par quelques phrases que tu connais.
+- **FR** — Je ne mange pas épicé.
+- *(silence 4,0 s)*
+- **中文** — 我不吃辣。  *(Wǒ bù chī là.)*
+- *(silence 3,0 s)*
+- **FR** — Le canard laqué est délicieux.
+- *(silence 4,0 s)*
+- **中文** — 烤鸭很好吃。  *(Kǎoyā hěn hǎochī.)*
+- *(silence 3,0 s)*
+- **FR** — Nous mangeons ensemble.
+- *(silence 4,5 s)*
+- **中文** — 我们一起吃饭。  *(Wǒmen yìqǐ chī fàn.)*
+- *(silence 3,0 s)*
+- **FR** — Le plat est très épicé.
+- *(silence 4,0 s)*
+- **中文** — 菜很辣。  *(Cài hěn là.)*
+- *(silence 3,0 s)*
+- **FR** — Tu as de l'eau ?
+- *(silence 4,0 s)*
+- **中文** — 你有水吗？  *(Nǐ yǒu shuǐ ma?)*
+- *(silence 3,0 s)*
+- **FR** — Je voudrais une tasse de thé.
+- *(silence 4,0 s)*
+- **中文** — 我要一杯茶。  *(Wǒ yào yì bēi chá.)*
+- *(silence 3,0 s)*
+- **FR** — Très bien.
+
+## 3. Oreille — ≈ 1 min 10 s
+
+- **FR** — Écoute deux mots qui commencent pareil. Le premier, tu le connais.
+- **FR** — Il. La voix reste haute et plate.
+- **中文** — 他  *(tā)*
+- *(silence 2,0 s)*
+- **FR** — Trop. C'est un mot nouveau. La voix descend.
+- **中文** — 太  *(tài)*
+- *(silence 2,0 s)*
+- **FR** — Tu as déjà entendu ce son, au début du mot épouse.
+- **中文** — 太太  *(tàitai)*
+- *(silence 2,5 s)*
+- **FR** — Maintenant, devine. Il, ou trop ?
+- **中文** — 太  *(tài)*
+- *(silence 2,5 s)*
+- **FR** — Celui-là descend. C'est trop.
+- **中文** — 他  *(tā)*
+- *(silence 2,5 s)*
+- **FR** — Haut et plat. C'est il.
+- **中文** — 他  *(tā)*
+- *(silence 2,5 s)*
+- **FR** — Il reste en haut. C'est il.
+- **中文** — 太  *(tài)*
+- *(silence 2,5 s)*
+- **FR** — La voix descend. C'est trop.
+- **中文** — 太  *(tài)*
+- *(silence 2,5 s)*
+- **FR** — Il descend encore. C'est trop.
+- **中文** — 他  *(tā)*
+- *(silence 2,5 s)*
+- **FR** — Haut et plat. C'est il. Bravo.
+
+## 4. Trop — ≈ 1 min 40 s
+
+- **FR** — trop
+- **中文** — 太  *(tài)*
+- *(silence 2,5 s)*
+- **中文** — 太  *(tài)*
+- *(silence 2,5 s)*
+- **FR** — C'est trop cher !
+- **中文** — 太贵了！  *(Tài guì le!)*
+- *(silence 3,5 s)*
+- **中文** — 太贵了！  *(Tài guì le!)*
+- *(silence 3,5 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — trop
+- **中文** — 太  *(tài)*
+- **FR** — cher
+- **中文** — 贵  *(guì)*
+- **FR** — petit mot qui renforce
+- **中文** — 了  *(le)*
+- **FR** — Avec trop, on ajoute souvent à la fin un petit mot que tu connais déjà.
+- **FR** — À toi. C'est trop cher !
+- *(silence 4,0 s)*
+- **中文** — 太贵了！  *(Tài guì le!)*
+- *(silence 3,0 s)*
+- **FR** — C'est trop épicé !
+- *(silence 4,0 s)*
+- **中文** — 太辣了！  *(Tài là le!)*
+- *(silence 3,0 s)*
+- **FR** — C'est trop grand !
+- *(silence 4,0 s)*
+- **中文** — 太大了！  *(Tài dà le!)*
+- *(silence 3,0 s)*
+- **FR** — Je suis trop fatigué.
+- *(silence 4,0 s)*
+- **中文** — 我太累了。  *(Wǒ tài lèi le.)*
+- *(silence 3,0 s)*
+- **FR** — Et pour dire formidable, on dit simplement : trop bien.
+- *(silence 4,0 s)*
+- **中文** — 太好了！  *(Tài hǎo le!)*
+- *(silence 3,0 s)*
+- **中文** — 太好了！  *(Tài hǎo le!)*
+- *(silence 3,0 s)*
+
+## 5. Sucré — ≈ 1 min
+
+- **FR** — sucré
+- **中文** — 甜  *(tián)*
+- *(silence 2,5 s)*
+- **中文** — 甜  *(tián)*
+- *(silence 2,5 s)*
+- **FR** — Le café est très sucré.
+- **中文** — 咖啡很甜。  *(Kāfēi hěn tián.)*
+- *(silence 3,5 s)*
+- **中文** — 咖啡很甜。  *(Kāfēi hěn tián.)*
+- *(silence 3,5 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — café
+- **中文** — 咖啡  *(kāfēi)*
+- **FR** — très
+- **中文** — 很  *(hěn)*
+- **FR** — sucré
+- **中文** — 甜  *(tián)*
+- **FR** — À toi. C'est trop sucré !
+- *(silence 4,0 s)*
+- **中文** — 太甜了！  *(Tài tián le!)*
+- *(silence 3,0 s)*
+- **FR** — Le café est très sucré.
+- *(silence 4,0 s)*
+- **中文** — 咖啡很甜。  *(Kāfēi hěn tián.)*
+- *(silence 3,0 s)*
+- **FR** — Le thé n'est pas sucré.
+- *(silence 4,0 s)*
+- **中文** — 茶不甜。  *(Chá bù tián.)*
+- *(silence 3,0 s)*
+
+## 6. L'alcool, la bière — ≈ 2 min 50 s
+
+- **FR** — l'alcool
+- **中文** — 酒  *(jiǔ)*
+- *(silence 2,5 s)*
+- **中文** — 酒  *(jiǔ)*
+- *(silence 2,5 s)*
+- **FR** — Tu connais déjà ce mot : c'est le début du mot hôtel.
+- **中文** — 酒店  *(jiǔdiàn)*
+- *(silence 2,5 s)*
+- **FR** — Tu bois de l'alcool ?
+- **中文** — 你喝酒吗？  *(Nǐ hē jiǔ ma?)*
+- *(silence 3,5 s)*
+- **中文** — 你喝酒吗？  *(Nǐ hē jiǔ ma?)*
+- *(silence 3,5 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — tu
+- **中文** — 你  *(nǐ)*
+- **FR** — boire
+- **中文** — 喝  *(hē)*
+- **FR** — alcool
+- **中文** — 酒  *(jiǔ)*
+- **FR** — petit mot de question
+- **中文** — 吗  *(ma)*
+- **FR** — Merci, je ne bois pas d'alcool.
+- **中文** — 谢谢，我不喝酒。  *(Xièxie, wǒ bù hē jiǔ.)*
+- *(silence 4,0 s)*
+- **中文** — 谢谢，我不喝酒。  *(Xièxie, wǒ bù hē jiǔ.)*
+- *(silence 4,0 s)*
+- **FR** — La bière. On ajoute un son devant le mot alcool.
+- **中文** — 啤酒  *(píjiǔ)*
+- *(silence 3,0 s)*
+- **中文** — 啤酒  *(píjiǔ)*
+- *(silence 3,0 s)*
+- **FR** — Une bière, s'il vous plaît.
+- **中文** — 请给我一杯啤酒。  *(Qǐng gěi wǒ yì bēi píjiǔ.)*
+- *(silence 4,0 s)*
+- **中文** — 请给我一杯啤酒。  *(Qǐng gěi wǒ yì bēi píjiǔ.)*
+- *(silence 4,0 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — s'il vous plaît
+- **中文** — 请  *(qǐng)*
+- **FR** — donner
+- **中文** — 给  *(gěi)*
+- **FR** — moi
+- **中文** — 我  *(wǒ)*
+- **FR** — un
+- **中文** — 一  *(yī)*
+- **FR** — tasse
+- **中文** — 杯  *(bēi)*
+- **FR** — bière
+- **中文** — 啤酒  *(píjiǔ)*
+- **FR** — À toi. Tu bois de l'alcool ?
+- *(silence 4,0 s)*
+- **中文** — 你喝酒吗？  *(Nǐ hē jiǔ ma?)*
+- *(silence 3,0 s)*
+- **FR** — Merci, je ne bois pas d'alcool.
+- *(silence 4,5 s)*
+- **中文** — 谢谢，我不喝酒。  *(Xièxie, wǒ bù hē jiǔ.)*
+- *(silence 3,5 s)*
+- **FR** — Une bière, s'il vous plaît.
+- *(silence 4,5 s)*
+- **中文** — 请给我一杯啤酒。  *(Qǐng gěi wǒ yì bēi píjiǔ.)*
+- *(silence 3,5 s)*
+- **FR** — Nous voulons deux bières.
+- *(silence 4,5 s)*
+- **中文** — 我们要两杯啤酒。  *(Wǒmen yào liǎng bēi píjiǔ.)*
+- *(silence 3,5 s)*
+- **FR** — La bière est très bonne.
+- *(silence 4,5 s)*
+- **中文** — 啤酒很好喝。  *(Píjiǔ hěn hǎohē.)*
+- *(silence 3,0 s)*
+
+## 7. Pas trop — ≈ 1 min 30 s
+
+- **FR** — pas trop
+- **中文** — 不太  *(bú tài)*
+- *(silence 3,0 s)*
+- **中文** — 不太  *(bú tài)*
+- *(silence 3,0 s)*
+- **FR** — Le thé n'est pas trop sucré.
+- **中文** — 茶不太甜。  *(Chá bú tài tián.)*
+- *(silence 3,5 s)*
+- **中文** — 茶不太甜。  *(Chá bú tài tián.)*
+- *(silence 3,5 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — thé
+- **中文** — 茶  *(chá)*
+- **FR** — ne pas
+- **中文** — 不  *(bù)*
+- **FR** — trop
+- **中文** — 太  *(tài)*
+- **FR** — sucré
+- **中文** — 甜  *(tián)*
+- **FR** — C'est une façon polie d'adoucir ce qu'on dit.
+- **FR** — À toi. Le thé n'est pas trop sucré.
+- *(silence 4,0 s)*
+- **中文** — 茶不太甜。  *(Chá bú tài tián.)*
+- *(silence 3,0 s)*
+- **FR** — La bière n'est pas trop chère.
+- *(silence 4,5 s)*
+- **中文** — 啤酒不太贵。  *(Píjiǔ bú tài guì.)*
+- *(silence 3,0 s)*
+- **FR** — Le plat n'est pas trop épicé.
+- *(silence 4,0 s)*
+- **中文** — 菜不太辣。  *(Cài bú tài là.)*
+- *(silence 3,0 s)*
+- **FR** — Je n'ai pas trop faim.
+- *(silence 4,0 s)*
+- **中文** — 我不太饿。  *(Wǒ bú tài è.)*
+- *(silence 3,0 s)*
+
+## 8. Pressé — ≈ 1 min 20 s
+
+- **FR** — pressé
+- **中文** — 急  *(jí)*
+- *(silence 2,5 s)*
+- **中文** — 急  *(jí)*
+- *(silence 2,5 s)*
+- **FR** — Je ne suis pas pressé.
+- **中文** — 我不急。  *(Wǒ bù jí.)*
+- *(silence 3,5 s)*
+- **中文** — 我不急。  *(Wǒ bù jí.)*
+- *(silence 3,5 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — je
+- **中文** — 我  *(wǒ)*
+- **FR** — ne pas
+- **中文** — 不  *(bù)*
+- **FR** — pressé
+- **中文** — 急  *(jí)*
+- **FR** — À toi. Je ne suis pas pressé.
+- *(silence 4,0 s)*
+- **中文** — 我不急。  *(Wǒ bù jí.)*
+- *(silence 3,0 s)*
+- **FR** — Tu es pressé ?
+- *(silence 4,0 s)*
+- **中文** — 你急吗？  *(Nǐ jí ma?)*
+- *(silence 3,0 s)*
+- **FR** — Nous ne sommes pas pressés.
+- *(silence 4,0 s)*
+- **中文** — 我们不急。  *(Wǒmen bù jí.)*
+- *(silence 3,0 s)*
+- **FR** — Il est très pressé.
+- *(silence 4,0 s)*
+- **中文** — 他很急。  *(Tā hěn jí.)*
+- *(silence 3,0 s)*
+- **FR** — Tu vois, tu sais déjà le dire.
+
+## 9. On mélange — ≈ 1 min 30 s
+
+- **FR** — Maintenant, on mélange tout.
+- **FR** — Le canard laqué est trop cher !
+- *(silence 4,0 s)*
+- **中文** — 烤鸭太贵了！  *(Kǎoyā tài guì le!)*
+- *(silence 3,0 s)*
+- **FR** — Ma femme ne boit pas d'alcool.
+- *(silence 4,5 s)*
+- **中文** — 我太太不喝酒。  *(Wǒ tàitai bù hē jiǔ.)*
+- *(silence 3,0 s)*
+- **FR** — Ici, la bière est très bonne.
+- *(silence 4,5 s)*
+- **中文** — 这儿的啤酒很好喝。  *(Zhèr de píjiǔ hěn hǎohē.)*
+- *(silence 3,0 s)*
+- **FR** — Je ne suis pas trop fatigué.
+- *(silence 4,0 s)*
+- **中文** — 我不太累。  *(Wǒ bú tài lèi.)*
+- *(silence 3,0 s)*
+- **FR** — Il y a trop de monde !
+- *(silence 4,0 s)*
+- **中文** — 人太多了！  *(Rén tài duō le!)*
+- *(silence 3,0 s)*
+- **FR** — Mon ami a envie de boire une bière.
+- *(silence 4,5 s)*
+- **中文** — 我朋友想喝啤酒。  *(Wǒ péngyou xiǎng hē píjiǔ.)*
+- *(silence 3,0 s)*
+- **FR** — Je ne suis pas pressé, je t'attends.
+- *(silence 4,5 s)*
+- **中文** — 我不急，我等你。  *(Wǒ bù jí, wǒ děng nǐ.)*
+- *(silence 3,0 s)*
+
+## 10. Petite conversation — ≈ 1 min 10 s
+
+- **FR** — Écoute cette petite conversation. Tu connais déjà tous les mots.
+- **中文** — 你喝酒吗？  *(Nǐ hē jiǔ ma?)*
+- **中文** — 谢谢，我不喝酒。  *(Xièxie, wǒ bù hē jiǔ.)*
+- **中文** — 请给我一杯啤酒。  *(Qǐng gěi wǒ yì bēi píjiǔ.)*
+- **中文** — 菜好吃吗？  *(Cài hǎochī ma?)*
+- **中文** — 太辣了！  *(Tài là le!)*
+- **中文** — 我的菜不太辣。  *(Wǒ de cài bú tài là.)*
+- *(silence 2,0 s)*
+- **FR** — Encore une fois, et dis le sens en français pendant le silence.
+- **中文** — 你喝酒吗？  *(Nǐ hē jiǔ ma?)*
+- *(silence 3,0 s)*
+- **FR** — Tu bois de l'alcool ?
+- **中文** — 谢谢，我不喝酒。  *(Xièxie, wǒ bù hē jiǔ.)*
+- *(silence 3,0 s)*
+- **FR** — Merci, je ne bois pas d'alcool.
+- **中文** — 请给我一杯啤酒。  *(Qǐng gěi wǒ yì bēi píjiǔ.)*
+- *(silence 3,0 s)*
+- **FR** — Une bière, s'il vous plaît.
+- **中文** — 菜好吃吗？  *(Cài hǎochī ma?)*
+- *(silence 3,0 s)*
+- **FR** — Le plat est bon ?
+- **中文** — 太辣了！  *(Tài là le!)*
+- *(silence 3,0 s)*
+- **FR** — C'est trop épicé !
+- **中文** — 我的菜不太辣。  *(Wǒ de cài bú tài là.)*
+- *(silence 3,0 s)*
+- **FR** — Mon plat n'est pas trop épicé.
+
+## 11. Test — ≈ 1 min 20 s
+
+- **FR** — Le test. Je dis une phrase en français, tu la dis en chinois.
+- **FR** — C'est trop cher !
+- *(silence 4,0 s)*
+- **中文** — 太贵了！  *(Tài guì le!)*
+- **FR** — C'est trop épicé !
+- *(silence 4,0 s)*
+- **中文** — 太辣了！  *(Tài là le!)*
+- **FR** — Je ne suis pas pressé.
+- *(silence 4,0 s)*
+- **中文** — 我不急。  *(Wǒ bù jí.)*
+- **FR** — Le thé n'est pas trop sucré.
+- *(silence 4,0 s)*
+- **中文** — 茶不太甜。  *(Chá bú tài tián.)*
+- **FR** — Tu bois de l'alcool ?
+- *(silence 4,0 s)*
+- **中文** — 你喝酒吗？  *(Nǐ hē jiǔ ma?)*
+- **FR** — Une bière, s'il vous plaît.
+- *(silence 4,5 s)*
+- **中文** — 请给我一杯啤酒。  *(Qǐng gěi wǒ yì bēi píjiǔ.)*
+- **FR** — Le café est très sucré.
+- *(silence 4,0 s)*
+- **中文** — 咖啡很甜。  *(Kāfēi hěn tián.)*
+- **FR** — Je ne mange pas épicé.
+- *(silence 4,0 s)*
+- **中文** — 我不吃辣。  *(Wǒ bù chī là.)*
+- **FR** — Je voudrais une tasse de thé.
+- *(silence 4,0 s)*
+- **中文** — 我要一杯茶。  *(Wǒ yào yì bēi chá.)*
+
+## 12. Clôture — ≈ 0 min 20 s
+
+- **FR** — Bravo. Tu sais maintenant dire que c'est trop cher ou trop épicé, refuser poliment un verre d'alcool, et commander une bière.
+- **FR** — Demain, la leçon suivante commencera par ces phrases.
+- *(silence 3,0 s)*

@@ -1,0 +1,383 @@
+# Script de la leçon 15 de chinois — « Canard laqué »
+
+## 1. Titre et objectif — ≈ 0 min 10 s
+
+- **FR** — Leçon 15. Canard laqué.
+- **FR** — Aujourd'hui, tu vas apprendre à dire ce que tu manges, et à dire que tu ne manges pas épicé.
+- *(silence 1,5 s)*
+
+## 2. Rappel — ≈ 1 min 10 s
+
+- **FR** — On commence par quelques phrases que tu connais.
+- **FR** — Tu as faim ?
+- *(silence 4,0 s)*
+- **中文** — 你饿吗？  *(Nǐ è ma?)*
+- *(silence 3,0 s)*
+- **FR** — J'ai très faim.
+- *(silence 4,0 s)*
+- **中文** — 我非常饿。  *(Wǒ fēicháng è.)*
+- *(silence 3,0 s)*
+- **FR** — Il y a énormément de monde.
+- *(silence 4,0 s)*
+- **中文** — 人很多。  *(Rén hěn duō.)*
+- *(silence 3,0 s)*
+- **FR** — Notre guide est très bien.
+- *(silence 4,5 s)*
+- **中文** — 我们的导游很好。  *(Wǒmen de dǎoyóu hěn hǎo.)*
+- *(silence 3,0 s)*
+- **FR** — J'ai envie d'acheter du thé.
+- *(silence 4,0 s)*
+- **中文** — 我想买茶。  *(Wǒ xiǎng mǎi chá.)*
+- *(silence 3,0 s)*
+- **FR** — Le thé est très bon.
+- *(silence 4,0 s)*
+- **中文** — 茶很好喝。  *(Chá hěn hǎohē.)*
+- *(silence 3,0 s)*
+- **FR** — Très bien.
+
+## 3. Oreille — ≈ 1 min 10 s
+
+- **FR** — Écoute deux mots qui se ressemblent. Le premier, tu le connais.
+- **FR** — Dix. La voix monte.
+- **中文** — 十  *(shí)*
+- *(silence 2,0 s)*
+- **FR** — Manger. C'est un mot nouveau. La voix reste haute et plate, et le début claque un peu plus.
+- **中文** — 吃  *(chī)*
+- *(silence 2,0 s)*
+- **FR** — Encore une fois, les deux.
+- **中文** — 十  *(shí)*
+- *(silence 1,5 s)*
+- **中文** — 吃  *(chī)*
+- *(silence 1,5 s)*
+- **FR** — Maintenant, devine. Dix, ou manger ?
+- **中文** — 吃  *(chī)*
+- *(silence 2,5 s)*
+- **FR** — Haut et plat. C'est manger.
+- **中文** — 十  *(shí)*
+- *(silence 2,5 s)*
+- **FR** — Celui-là monte. C'est dix.
+- **中文** — 十  *(shí)*
+- *(silence 2,5 s)*
+- **FR** — Il monte encore. C'est dix.
+- **中文** — 吃  *(chī)*
+- *(silence 2,5 s)*
+- **FR** — Il reste en haut. C'est manger.
+- **中文** — 吃  *(chī)*
+- *(silence 2,5 s)*
+- **FR** — Haut et plat. C'est manger.
+- **中文** — 十  *(shí)*
+- *(silence 2,5 s)*
+- **FR** — La voix monte. C'est dix. Bravo.
+
+## 4. Manger, le canard laqué — ≈ 1 min 50 s
+
+- **FR** — manger
+- **中文** — 吃  *(chī)*
+- *(silence 2,5 s)*
+- **中文** — 吃  *(chī)*
+- *(silence 2,5 s)*
+- **FR** — Le canard laqué. Écoute la fin du mot.
+- **中文** — 鸭  *(yā)*
+- *(silence 2,0 s)*
+- **FR** — Le mot entier.
+- **中文** — 烤鸭  *(kǎoyā)*
+- *(silence 3,0 s)*
+- **中文** — 烤鸭  *(kǎoyā)*
+- *(silence 3,0 s)*
+- **FR** — Tu manges du canard laqué ?
+- **中文** — 你吃烤鸭吗？  *(Nǐ chī kǎoyā ma?)*
+- *(silence 4,0 s)*
+- **中文** — 你吃烤鸭吗？  *(Nǐ chī kǎoyā ma?)*
+- *(silence 4,0 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — tu
+- **中文** — 你  *(nǐ)*
+- **FR** — manger
+- **中文** — 吃  *(chī)*
+- **FR** — canard laqué
+- **中文** — 烤鸭  *(kǎoyā)*
+- **FR** — petit mot de question
+- **中文** — 吗  *(ma)*
+- **FR** — À toi. Le canard laqué.
+- *(silence 3,0 s)*
+- **中文** — 烤鸭  *(kǎoyā)*
+- *(silence 2,0 s)*
+- **FR** — Je mange du canard laqué.
+- *(silence 4,0 s)*
+- **中文** — 我吃烤鸭。  *(Wǒ chī kǎoyā.)*
+- *(silence 3,0 s)*
+- **FR** — Tu manges du canard laqué ?
+- *(silence 4,5 s)*
+- **中文** — 你吃烤鸭吗？  *(Nǐ chī kǎoyā ma?)*
+- *(silence 3,0 s)*
+- **FR** — J'ai envie de manger du canard laqué. Avoir envie, tu le connais.
+- *(silence 4,5 s)*
+- **中文** — 我想吃烤鸭。  *(Wǒ xiǎng chī kǎoyā.)*
+- *(silence 3,0 s)*
+- **FR** — Il ne mange pas de canard laqué.
+- *(silence 4,5 s)*
+- **中文** — 他不吃烤鸭。  *(Tā bù chī kǎoyā.)*
+- *(silence 3,0 s)*
+
+## 5. Bon à manger — ≈ 1 min 20 s
+
+- **FR** — bon à manger
+- **中文** — 好吃  *(hǎochī)*
+- *(silence 3,0 s)*
+- **中文** — 好吃  *(hǎochī)*
+- *(silence 3,0 s)*
+- **FR** — C'est bon, suivi de manger. Comme bon à boire.
+- **FR** — Le canard laqué est délicieux.
+- **中文** — 烤鸭很好吃。  *(Kǎoyā hěn hǎochī.)*
+- *(silence 4,0 s)*
+- **中文** — 烤鸭很好吃。  *(Kǎoyā hěn hǎochī.)*
+- *(silence 4,0 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — canard laqué
+- **中文** — 烤鸭  *(kǎoyā)*
+- **FR** — très
+- **中文** — 很  *(hěn)*
+- **FR** — bon à manger
+- **中文** — 好吃  *(hǎochī)*
+- **FR** — À toi. Le canard laqué est délicieux.
+- *(silence 4,5 s)*
+- **中文** — 烤鸭很好吃。  *(Kǎoyā hěn hǎochī.)*
+- *(silence 3,0 s)*
+- **FR** — Le canard laqué est bon ?
+- *(silence 4,5 s)*
+- **中文** — 烤鸭好吃吗？  *(Kǎoyā hǎochī ma?)*
+- *(silence 3,0 s)*
+- **FR** — Le canard laqué est extrêmement bon.
+- *(silence 4,5 s)*
+- **中文** — 烤鸭非常好吃。  *(Kǎoyā fēicháng hǎochī.)*
+- *(silence 3,5 s)*
+
+## 6. Le repas, le riz — ≈ 2 min 20 s
+
+- **FR** — le repas
+- **中文** — 饭  *(fàn)*
+- *(silence 2,5 s)*
+- **中文** — 饭  *(fàn)*
+- *(silence 2,5 s)*
+- **FR** — Nous mangeons ensemble.
+- **中文** — 我们一起吃饭。  *(Wǒmen yìqǐ chī fàn.)*
+- *(silence 4,0 s)*
+- **中文** — 我们一起吃饭。  *(Wǒmen yìqǐ chī fàn.)*
+- *(silence 4,0 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — nous
+- **中文** — 我们  *(wǒmen)*
+- **FR** — ensemble
+- **中文** — 一起  *(yìqǐ)*
+- **FR** — manger
+- **中文** — 吃  *(chī)*
+- **FR** — repas
+- **中文** — 饭  *(fàn)*
+- **FR** — Manger le repas, c'est simplement prendre son repas.
+- **FR** — Le riz. On ajoute un son devant le mot repas.
+- **中文** — 米饭  *(mǐfàn)*
+- *(silence 3,0 s)*
+- **中文** — 米饭  *(mǐfàn)*
+- *(silence 3,0 s)*
+- **FR** — Je ne veux pas de riz.
+- **中文** — 我不要米饭。  *(Wǒ bú yào mǐfàn.)*
+- *(silence 4,0 s)*
+- **中文** — 我不要米饭。  *(Wǒ bú yào mǐfàn.)*
+- *(silence 4,0 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — je
+- **中文** — 我  *(wǒ)*
+- **FR** — ne pas
+- **中文** — 不  *(bù)*
+- **FR** — vouloir
+- **中文** — 要  *(yào)*
+- **FR** — riz
+- **中文** — 米饭  *(mǐfàn)*
+- **FR** — À toi. Le riz.
+- *(silence 3,0 s)*
+- **中文** — 米饭  *(mǐfàn)*
+- *(silence 2,0 s)*
+- **FR** — Je ne veux pas de riz.
+- *(silence 4,5 s)*
+- **中文** — 我不要米饭。  *(Wǒ bú yào mǐfàn.)*
+- *(silence 3,0 s)*
+- **FR** — Nous mangeons ensemble.
+- *(silence 4,5 s)*
+- **中文** — 我们一起吃饭。  *(Wǒmen yìqǐ chī fàn.)*
+- *(silence 3,5 s)*
+- **FR** — Le riz est bon ?
+- *(silence 4,5 s)*
+- **中文** — 米饭好吃吗？  *(Mǐfàn hǎochī ma?)*
+- *(silence 3,0 s)*
+- **FR** — Du riz, s'il vous plaît.
+- *(silence 4,5 s)*
+- **中文** — 请给我米饭。  *(Qǐng gěi wǒ mǐfàn.)*
+- *(silence 3,0 s)*
+
+## 7. Épicé, le plat — ≈ 2 min 20 s
+
+- **FR** — épicé
+- **中文** — 辣  *(là)*
+- *(silence 2,5 s)*
+- **中文** — 辣  *(là)*
+- *(silence 2,5 s)*
+- **FR** — le plat
+- **中文** — 菜  *(cài)*
+- *(silence 2,5 s)*
+- **中文** — 菜  *(cài)*
+- *(silence 2,5 s)*
+- **FR** — Le plat est très épicé.
+- **中文** — 菜很辣。  *(Cài hěn là.)*
+- *(silence 3,5 s)*
+- **中文** — 菜很辣。  *(Cài hěn là.)*
+- *(silence 3,5 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — plat
+- **中文** — 菜  *(cài)*
+- **FR** — très
+- **中文** — 很  *(hěn)*
+- **FR** — épicé
+- **中文** — 辣  *(là)*
+- **FR** — Ce n'est pas épicé.
+- **中文** — 不辣。  *(Bú là.)*
+- *(silence 3,5 s)*
+- **中文** — 不辣。  *(Bú là.)*
+- *(silence 3,5 s)*
+- **FR** — Je ne mange pas épicé.
+- **中文** — 我不吃辣。  *(Wǒ bù chī là.)*
+- *(silence 3,5 s)*
+- **中文** — 我不吃辣。  *(Wǒ bù chī là.)*
+- *(silence 3,5 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — je
+- **中文** — 我  *(wǒ)*
+- **FR** — ne pas
+- **中文** — 不  *(bù)*
+- **FR** — manger
+- **中文** — 吃  *(chī)*
+- **FR** — épicé
+- **中文** — 辣  *(là)*
+- **FR** — À toi. Le plat est très épicé.
+- *(silence 4,0 s)*
+- **中文** — 菜很辣。  *(Cài hěn là.)*
+- *(silence 3,0 s)*
+- **FR** — Ce n'est pas épicé.
+- *(silence 3,0 s)*
+- **中文** — 不辣。  *(Bú là.)*
+- *(silence 2,0 s)*
+- **FR** — Je ne mange pas épicé.
+- *(silence 4,0 s)*
+- **中文** — 我不吃辣。  *(Wǒ bù chī là.)*
+- *(silence 3,0 s)*
+- **FR** — Le plat est épicé ?
+- *(silence 4,0 s)*
+- **中文** — 菜辣吗？  *(Cài là ma?)*
+- *(silence 3,0 s)*
+- **FR** — Mon ami a envie de manger épicé.
+- *(silence 4,5 s)*
+- **中文** — 我朋友想吃辣。  *(Wǒ péngyou xiǎng chī là.)*
+- *(silence 3,5 s)*
+- **FR** — Le plat n'est pas épicé.
+- *(silence 4,0 s)*
+- **中文** — 菜不辣。  *(Cài bú là.)*
+- *(silence 3,0 s)*
+- **FR** — Très bien. Tu peux déjà commander au restaurant.
+
+## 8. On mélange — ≈ 1 min 40 s
+
+- **FR** — Maintenant, on mélange tout.
+- **FR** — Ma femme ne mange pas épicé.
+- *(silence 4,5 s)*
+- **中文** — 我太太不吃辣。  *(Wǒ tàitai bù chī là.)*
+- *(silence 3,0 s)*
+- **FR** — Ici, le canard laqué est délicieux.
+- *(silence 4,5 s)*
+- **中文** — 这儿的烤鸭很好吃。  *(Zhèr de kǎoyā hěn hǎochī.)*
+- *(silence 3,0 s)*
+- **FR** — J'ai très faim, j'ai envie de manger.
+- *(silence 4,5 s)*
+- **中文** — 我非常饿，我想吃饭。  *(Wǒ fēicháng è, wǒ xiǎng chī fàn.)*
+- *(silence 3,0 s)*
+- **FR** — Tu manges avec nous ?
+- *(silence 5,0 s)*
+- **中文** — 你跟我们一起吃饭吗？  *(Nǐ gēn wǒmen yìqǐ chī fàn ma?)*
+- *(silence 3,0 s)*
+- **FR** — Il y a du canard laqué ici ?
+- *(silence 4,5 s)*
+- **中文** — 这儿有烤鸭吗？  *(Zhèr yǒu kǎoyā ma?)*
+- *(silence 3,0 s)*
+- **FR** — Le plat est un peu épicé.
+- *(silence 4,0 s)*
+- **中文** — 菜有点儿辣。  *(Cài yǒudiǎnr là.)*
+- *(silence 3,0 s)*
+- **FR** — Les plats chinois sont délicieux.
+- *(silence 4,5 s)*
+- **中文** — 中国菜很好吃。  *(Zhōngguó cài hěn hǎochī.)*
+- *(silence 3,0 s)*
+
+## 9. Petite conversation — ≈ 1 min 20 s
+
+- **FR** — Écoute cette petite conversation. Tu connais déjà tous les mots.
+- **中文** — 你饿吗？  *(Nǐ è ma?)*
+- **中文** — 我非常饿，我想吃烤鸭。  *(Wǒ fēicháng è, wǒ xiǎng chī kǎoyā.)*
+- **中文** — 这儿的烤鸭很好吃。  *(Zhèr de kǎoyā hěn hǎochī.)*
+- **中文** — 菜辣吗？  *(Cài là ma?)*
+- **中文** — 不辣。  *(Bú là.)*
+- **中文** — 好，我们一起吃饭。  *(Hǎo, wǒmen yìqǐ chī fàn.)*
+- *(silence 2,0 s)*
+- **FR** — Encore une fois, et dis le sens en français pendant le silence.
+- **中文** — 你饿吗？  *(Nǐ è ma?)*
+- *(silence 3,0 s)*
+- **FR** — Tu as faim ?
+- **中文** — 我非常饿，我想吃烤鸭。  *(Wǒ fēicháng è, wǒ xiǎng chī kǎoyā.)*
+- *(silence 3,0 s)*
+- **FR** — J'ai très faim, j'ai envie de manger du canard laqué.
+- **中文** — 这儿的烤鸭很好吃。  *(Zhèr de kǎoyā hěn hǎochī.)*
+- *(silence 3,0 s)*
+- **FR** — Ici, le canard laqué est délicieux.
+- **中文** — 菜辣吗？  *(Cài là ma?)*
+- *(silence 3,0 s)*
+- **FR** — Le plat est épicé ?
+- **中文** — 不辣。  *(Bú là.)*
+- *(silence 3,0 s)*
+- **FR** — Ce n'est pas épicé.
+- **中文** — 好，我们一起吃饭。  *(Hǎo, wǒmen yìqǐ chī fàn.)*
+- *(silence 3,0 s)*
+- **FR** — Bien, nous mangeons ensemble.
+
+## 10. Test — ≈ 1 min 20 s
+
+- **FR** — Le test. Je dis une phrase en français, tu la dis en chinois.
+- **FR** — Je ne mange pas épicé.
+- *(silence 4,0 s)*
+- **中文** — 我不吃辣。  *(Wǒ bù chī là.)*
+- **FR** — Le canard laqué est délicieux.
+- *(silence 4,0 s)*
+- **中文** — 烤鸭很好吃。  *(Kǎoyā hěn hǎochī.)*
+- **FR** — Je ne veux pas de riz.
+- *(silence 4,0 s)*
+- **中文** — 我不要米饭。  *(Wǒ bú yào mǐfàn.)*
+- **FR** — Tu manges du canard laqué ?
+- *(silence 4,0 s)*
+- **中文** — 你吃烤鸭吗？  *(Nǐ chī kǎoyā ma?)*
+- **FR** — Nous mangeons ensemble.
+- *(silence 4,5 s)*
+- **中文** — 我们一起吃饭。  *(Wǒmen yìqǐ chī fàn.)*
+- **FR** — Le plat est très épicé.
+- *(silence 4,0 s)*
+- **中文** — 菜很辣。  *(Cài hěn là.)*
+- **FR** — Mon ami a envie de manger épicé.
+- *(silence 4,5 s)*
+- **中文** — 我朋友想吃辣。  *(Wǒ péngyou xiǎng chī là.)*
+- **FR** — Tu as faim ?
+- *(silence 4,0 s)*
+- **中文** — 你饿吗？  *(Nǐ è ma?)*
+- **FR** — J'ai envie d'acheter du thé.
+- *(silence 4,0 s)*
+- **中文** — 我想买茶。  *(Wǒ xiǎng mǎi chá.)*
+
+## 11. Clôture — ≈ 0 min 20 s
+
+- **FR** — Bravo. Tu sais maintenant dire ce que tu as envie de manger, demander si c'est bon, et dire que tu ne manges pas épicé.
+- **FR** — Demain, la leçon suivante commencera par ces phrases.
+- *(silence 3,0 s)*

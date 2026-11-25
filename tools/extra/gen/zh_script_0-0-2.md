@@ -1,0 +1,376 @@
+# Script de la leçon 3 de chinois — « Où habites-tu ? »
+
+**FR** = voix française, **中文** = voix chinoise (avec la prononciation en pinyin), *(silence)* = temps laissé à l'élève.
+
+
+## 1. Titre et objectif — ≈ 0 min 20 s
+
+- **FR** — Leçon 3. Où habites-tu ?
+- **FR** — Aujourd'hui, tu vas apprendre à dire où tu habites, et à demander à quelqu'un où il habite et où il va.
+
+## 2. Rappel — ≈ 2 min
+
+- **FR** — On commence par quelques phrases que tu connais. Dis-les en chinois avant moi.
+- **FR** — Bonjour.
+- *(silence 4,0 s)*
+- **中文** — 你好。  *(Nǐ hǎo.)*
+- *(silence 3,0 s)*
+- **FR** — J'arrive de Paris.
+- *(silence 4,5 s)*
+- **中文** — 我从巴黎来。  *(Wǒ cóng Bālí lái.)*
+- *(silence 3,0 s)*
+- **FR** — Nous allons à Pékin.
+- *(silence 4,5 s)*
+- **中文** — 我们去北京。  *(Wǒmen qù Běijīng.)*
+- *(silence 3,0 s)*
+- **FR** — Nous venons aussi.
+- *(silence 4,5 s)*
+- **中文** — 我们也来。  *(Wǒmen yě lái.)*
+- *(silence 3,0 s)*
+- **FR** — Tu vas à Pékin ?
+- *(silence 4,5 s)*
+- **中文** — 你去北京吗？  *(Nǐ qù Běijīng ma?)*
+- *(silence 3,0 s)*
+- **FR** — Elle y va aussi.
+- *(silence 4,0 s)*
+- **中文** — 她也去。  *(Tā yě qù.)*
+- *(silence 3,0 s)*
+- **FR** — Vous venez de Paris ?
+- *(silence 5,0 s)*
+- **中文** — 你们从巴黎来吗？  *(Nǐmen cóng Bālí lái ma?)*
+- *(silence 3,0 s)*
+- **FR** — Très bien. Tout est encore là.
+
+## 3. Oreille — ≈ 1 min 30 s
+
+- **FR** — Maintenant, on entraîne ton oreille. Écoute deux mots.
+- **FR** — Le premier, tu le connais. C'est il. La voix reste haute et bien plate.
+- **中文** — 他  *(tā)*
+- *(silence 2,0 s)*
+- **中文** — 他  *(tā)*
+- *(silence 2,0 s)*
+- **FR** — Le second est nouveau. C'est habiter. La voix descend d'un coup.
+- **中文** — 住  *(zhù)*
+- *(silence 2,0 s)*
+- **中文** — 住  *(zhù)*
+- *(silence 2,0 s)*
+- **FR** — Les deux, l'un après l'autre.
+- **中文** — 他  *(tā)*
+- *(silence 1,5 s)*
+- **中文** — 住  *(zhù)*
+- *(silence 2,0 s)*
+- **FR** — À toi d'écouter. Est-ce que la voix reste haute, ou est-ce qu'elle descend ?
+- **中文** — 住  *(zhù)*
+- *(silence 2,5 s)*
+- **FR** — Celui-là descend. C'est habiter.
+- **中文** — 他  *(tā)*
+- *(silence 2,5 s)*
+- **FR** — Celui-là reste haut. C'est il.
+- **FR** — Encore un mot nouveau. Reste haut, ou descend ?
+- **中文** — 在  *(zài)*
+- *(silence 2,5 s)*
+- **FR** — Il descend lui aussi. Tu vas l'apprendre tout de suite.
+- **中文** — 他  *(tā)*
+- *(silence 2,5 s)*
+- **FR** — Il reste haut. C'est il.
+- **FR** — Très bien.
+
+## 4. Habiter à — ≈ 2 min 10 s
+
+- **FR** — habiter
+- **中文** — 住  *(zhù)*
+- *(silence 2,5 s)*
+- **中文** — 住  *(zhù)*
+- *(silence 2,5 s)*
+- **FR** — Et le petit mot qui veut dire à.
+- **中文** — 在  *(zài)*
+- *(silence 2,5 s)*
+- **中文** — 在  *(zài)*
+- *(silence 2,5 s)*
+- **FR** — Il habite à Pékin.
+- **中文** — 他住在北京。  *(Tā zhù zài Běijīng.)*
+- *(silence 3,5 s)*
+- **中文** — 他住在北京。  *(Tā zhù zài Běijīng.)*
+- *(silence 3,5 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — il
+- **中文** — 他  *(tā)*
+- **FR** — habiter
+- **中文** — 住  *(zhù)*
+- **FR** — à
+- **中文** — 在  *(zài)*
+- **FR** — Pékin
+- **中文** — 北京  *(Běijīng)*
+- **FR** — Le petit mot à se place juste avant le lieu.
+- **FR** — À toi. Habiter.
+- *(silence 3,0 s)*
+- **中文** — 住  *(zhù)*
+- *(silence 2,0 s)*
+- **FR** — Il habite à Pékin.
+- *(silence 4,5 s)*
+- **中文** — 他住在北京。  *(Tā zhù zài Běijīng.)*
+- *(silence 3,5 s)*
+- **FR** — J'habite à Paris.
+- *(silence 4,5 s)*
+- **中文** — 我住在巴黎。  *(Wǒ zhù zài Bālí.)*
+- *(silence 3,5 s)*
+- **FR** — Vous habitez à Paris ?
+- *(silence 4,5 s)*
+- **中文** — 你们住在巴黎吗？  *(Nǐmen zhù zài Bālí ma?)*
+- *(silence 3,5 s)*
+
+## 5. Lyon, où — ≈ 2 min 30 s
+
+- **FR** — Lyon. Écoute d'abord la fin du mot.
+- **中文** — 昂  *(áng)*
+- *(silence 2,5 s)*
+- **FR** — Et maintenant, le mot entier.
+- **中文** — 里昂  *(Lǐ'áng)*
+- *(silence 2,5 s)*
+- **中文** — 里昂  *(Lǐ'áng)*
+- *(silence 2,5 s)*
+- **FR** — J'habite à Lyon.
+- **中文** — 我住在里昂。  *(Wǒ zhù zài Lǐ'áng.)*
+- *(silence 3,5 s)*
+- **中文** — 我住在里昂。  *(Wǒ zhù zài Lǐ'áng.)*
+- *(silence 3,5 s)*
+- **FR** — Et maintenant, le mot pour demander où.
+- **中文** — 哪儿  *(nǎr)*
+- *(silence 2,5 s)*
+- **中文** — 哪儿  *(nǎr)*
+- *(silence 2,5 s)*
+- **FR** — Tu habites où ?
+- **中文** — 你住在哪儿？  *(Nǐ zhù zài nǎr?)*
+- *(silence 3,5 s)*
+- **中文** — 你住在哪儿？  *(Nǐ zhù zài nǎr?)*
+- *(silence 3,5 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — tu
+- **中文** — 你  *(nǐ)*
+- **FR** — habiter
+- **中文** — 住  *(zhù)*
+- **FR** — à
+- **中文** — 在  *(zài)*
+- **FR** — où
+- **中文** — 哪儿  *(nǎr)*
+- **FR** — Le mot où se place à la fin, là où viendra la réponse.
+- **FR** — À toi. Où.
+- *(silence 3,0 s)*
+- **中文** — 哪儿  *(nǎr)*
+- *(silence 2,0 s)*
+- **FR** — Tu habites où ?
+- *(silence 4,5 s)*
+- **中文** — 你住在哪儿？  *(Nǐ zhù zài nǎr?)*
+- *(silence 3,5 s)*
+- **FR** — J'habite à Lyon.
+- *(silence 4,5 s)*
+- **中文** — 我住在里昂。  *(Wǒ zhù zài Lǐ'áng.)*
+- *(silence 3,5 s)*
+- **FR** — Tu vas où ?
+- **中文** — 你去哪儿？  *(Nǐ qù nǎr?)*
+- *(silence 3,5 s)*
+- **FR** — À toi. Tu vas où ?
+- *(silence 4,0 s)*
+- **中文** — 你去哪儿？  *(Nǐ qù nǎr?)*
+- *(silence 3,5 s)*
+- **FR** — Il habite où ?
+- *(silence 4,5 s)*
+- **中文** — 他住在哪儿？  *(Tā zhù zài nǎr?)*
+- *(silence 3,5 s)*
+
+## 6. La France, la Chine — ≈ 2 min 20 s
+
+- **FR** — La France. Écoute d'abord la fin du mot.
+- **中文** — 国  *(guó)*
+- *(silence 2,5 s)*
+- **FR** — Et maintenant, le mot entier.
+- **中文** — 法国  *(Fǎguó)*
+- *(silence 2,5 s)*
+- **中文** — 法国  *(Fǎguó)*
+- *(silence 2,5 s)*
+- **FR** — Nous habitons en France.
+- **中文** — 我们住在法国。  *(Wǒmen zhù zài Fǎguó.)*
+- *(silence 4,0 s)*
+- **中文** — 我们住在法国。  *(Wǒmen zhù zài Fǎguó.)*
+- *(silence 4,0 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — nous
+- **中文** — 我们  *(wǒmen)*
+- **FR** — habiter
+- **中文** — 住  *(zhù)*
+- **FR** — à
+- **中文** — 在  *(zài)*
+- **FR** — France
+- **中文** — 法国  *(Fǎguó)*
+- **FR** — La Chine. La fin du mot est la même.
+- **中文** — 中国  *(Zhōngguó)*
+- *(silence 2,5 s)*
+- **中文** — 中国  *(Zhōngguó)*
+- *(silence 2,5 s)*
+- **FR** — Mot à mot, la Chine, c'est le pays du milieu.
+- **FR** — Elle habite en Chine.
+- **中文** — 她住在中国。  *(Tā zhù zài Zhōngguó.)*
+- *(silence 3,5 s)*
+- **中文** — 她住在中国。  *(Tā zhù zài Zhōngguó.)*
+- *(silence 3,5 s)*
+- **FR** — À toi. La France.
+- *(silence 3,0 s)*
+- **中文** — 法国  *(Fǎguó)*
+- *(silence 2,0 s)*
+- **FR** — La Chine.
+- *(silence 3,0 s)*
+- **中文** — 中国  *(Zhōngguó)*
+- *(silence 2,0 s)*
+- **FR** — Nous habitons en France.
+- *(silence 4,5 s)*
+- **中文** — 我们住在法国。  *(Wǒmen zhù zài Fǎguó.)*
+- *(silence 3,5 s)*
+- **FR** — Je vais en Chine.
+- *(silence 4,0 s)*
+- **中文** — 我去中国。  *(Wǒ qù Zhōngguó.)*
+- *(silence 3,5 s)*
+- **FR** — Il vient de France.
+- *(silence 4,5 s)*
+- **中文** — 他从法国来。  *(Tā cóng Fǎguó lái.)*
+- *(silence 3,5 s)*
+- **FR** — Elle habite en Chine.
+- *(silence 4,5 s)*
+- **中文** — 她住在中国。  *(Tā zhù zài Zhōngguó.)*
+- *(silence 3,5 s)*
+
+## 7. Ils — ≈ 1 min 30 s
+
+- **FR** — Pour dire ils, on ajoute à il le même petit son que pour nous et vous.
+- **中文** — 他们  *(tāmen)*
+- *(silence 2,5 s)*
+- **中文** — 他们  *(tāmen)*
+- *(silence 2,5 s)*
+- **FR** — Ils habitent aussi à Lyon.
+- **中文** — 他们也住在里昂。  *(Tāmen yě zhù zài Lǐ'áng.)*
+- *(silence 4,0 s)*
+- **中文** — 他们也住在里昂。  *(Tāmen yě zhù zài Lǐ'áng.)*
+- *(silence 4,0 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — ils
+- **中文** — 他们  *(tāmen)*
+- **FR** — aussi
+- **中文** — 也  *(yě)*
+- **FR** — habiter
+- **中文** — 住  *(zhù)*
+- **FR** — à
+- **中文** — 在  *(zài)*
+- **FR** — Lyon
+- **中文** — 里昂  *(Lǐ'áng)*
+- **FR** — À toi. Ils.
+- *(silence 3,0 s)*
+- **中文** — 他们  *(tāmen)*
+- *(silence 2,0 s)*
+- **FR** — Ils habitent aussi à Lyon.
+- *(silence 4,5 s)*
+- **中文** — 他们也住在里昂。  *(Tāmen yě zhù zài Lǐ'áng.)*
+- *(silence 3,5 s)*
+- **FR** — Ils vont où ?
+- *(silence 4,5 s)*
+- **中文** — 他们去哪儿？  *(Tāmen qù nǎr?)*
+- *(silence 3,5 s)*
+- **FR** — Ils viennent de Chine.
+- *(silence 4,5 s)*
+- **中文** — 他们从中国来。  *(Tāmen cóng Zhōngguó lái.)*
+- *(silence 3,5 s)*
+
+## 8. On mélange — ≈ 2 min
+
+- **FR** — Maintenant, on mélange tout.
+- **FR** — Bonjour. Tu habites où ?
+- *(silence 5,0 s)*
+- **中文** — 你好。你住在哪儿？  *(Nǐ hǎo. Nǐ zhù zài nǎr?)*
+- *(silence 3,0 s)*
+- **FR** — J'habite en France.
+- *(silence 4,5 s)*
+- **中文** — 我住在法国。  *(Wǒ zhù zài Fǎguó.)*
+- *(silence 3,0 s)*
+- **FR** — Vous venez d'où ?
+- *(silence 4,5 s)*
+- **中文** — 你们从哪儿来？  *(Nǐmen cóng nǎr lái?)*
+- *(silence 3,0 s)*
+- **FR** — Nous venons de Lyon.
+- *(silence 4,5 s)*
+- **中文** — 我们从里昂来。  *(Wǒmen cóng Lǐ'áng lái.)*
+- *(silence 3,0 s)*
+- **FR** — Ils sont allés en Chine.
+- *(silence 4,5 s)*
+- **中文** — 他们去中国了。  *(Tāmen qù Zhōngguó le.)*
+- *(silence 3,0 s)*
+- **FR** — Tu habites aussi en Chine ?
+- *(silence 5,0 s)*
+- **中文** — 你也住在中国吗？  *(Nǐ yě zhù zài Zhōngguó ma?)*
+- *(silence 3,0 s)*
+- **FR** — Ils habitent où ?
+- *(silence 4,5 s)*
+- **中文** — 他们住在哪儿？  *(Tāmen zhù zài nǎr?)*
+- *(silence 3,0 s)*
+- **FR** — Très bien. Tu parles déjà de toi.
+
+## 9. Petite conversation — ≈ 1 min 15 s
+
+- **FR** — Écoute cette petite conversation. Tu connais déjà tous les mots.
+- **中文** — 你好。你从哪儿来？  *(Nǐ hǎo. Nǐ cóng nǎr lái?)*
+- **中文** — 我从法国来。  *(Wǒ cóng Fǎguó lái.)*
+- **中文** — 你住在哪儿？  *(Nǐ zhù zài nǎr?)*
+- **中文** — 我住在里昂。你去哪儿？  *(Wǒ zhù zài Lǐ'áng. Nǐ qù nǎr?)*
+- **中文** — 我去中国。  *(Wǒ qù Zhōngguó.)*
+- **中文** — 他们也去中国。  *(Tāmen yě qù Zhōngguó.)*
+- *(silence 2,0 s)*
+- **FR** — Encore une fois, et dis le sens en français pendant le silence.
+- **中文** — 你好。你从哪儿来？  *(Nǐ hǎo. Nǐ cóng nǎr lái?)*
+- *(silence 3,0 s)*
+- **FR** — Bonjour. Tu viens d'où ?
+- **中文** — 我从法国来。  *(Wǒ cóng Fǎguó lái.)*
+- *(silence 3,0 s)*
+- **FR** — Je viens de France.
+- **中文** — 你住在哪儿？  *(Nǐ zhù zài nǎr?)*
+- *(silence 3,0 s)*
+- **FR** — Tu habites où ?
+- **中文** — 我住在里昂。你去哪儿？  *(Wǒ zhù zài Lǐ'áng. Nǐ qù nǎr?)*
+- *(silence 3,0 s)*
+- **FR** — J'habite à Lyon. Tu vas où ?
+- **中文** — 我去中国。  *(Wǒ qù Zhōngguó.)*
+- *(silence 3,0 s)*
+- **FR** — Je vais en Chine.
+- **中文** — 他们也去中国。  *(Tāmen yě qù Zhōngguó.)*
+- *(silence 3,0 s)*
+- **FR** — Ils vont aussi en Chine.
+
+## 10. Test — ≈ 1 min 30 s
+
+- **FR** — Le test. Je dis une phrase en français, tu la dis en chinois.
+- **FR** — Tu habites où ?
+- *(silence 4,5 s)*
+- **中文** — 你住在哪儿？  *(Nǐ zhù zài nǎr?)*
+- **FR** — J'habite à Lyon.
+- *(silence 4,5 s)*
+- **中文** — 我住在里昂。  *(Wǒ zhù zài Lǐ'áng.)*
+- **FR** — J'arrive de Paris.
+- *(silence 4,5 s)*
+- **中文** — 我从巴黎来。  *(Wǒ cóng Bālí lái.)*
+- **FR** — Tu vas où ?
+- *(silence 4,5 s)*
+- **中文** — 你去哪儿？  *(Nǐ qù nǎr?)*
+- **FR** — Je vais en Chine.
+- *(silence 4,5 s)*
+- **中文** — 我去中国。  *(Wǒ qù Zhōngguó.)*
+- **FR** — Nous venons aussi.
+- *(silence 4,5 s)*
+- **中文** — 我们也来。  *(Wǒmen yě lái.)*
+- **FR** — Il vient de France.
+- *(silence 4,5 s)*
+- **中文** — 他从法国来。  *(Tā cóng Fǎguó lái.)*
+- **FR** — Ils habitent aussi à Lyon.
+- *(silence 5,0 s)*
+- **中文** — 他们也住在里昂。  *(Tāmen yě zhù zài Lǐ'áng.)*
+
+## 11. Clôture — ≈ 0 min 20 s
+
+- **FR** — Bravo. Tu sais maintenant dire où tu habites, demander à quelqu'un où il habite, et parler de la France et de la Chine.
+- **FR** — Demain, la leçon suivante commencera par ces phrases.
+- *(silence 3,0 s)*

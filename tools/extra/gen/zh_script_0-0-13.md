@@ -1,0 +1,382 @@
+# Script de la leçon 14 de chinois — « Pause au parc »
+
+## 1. Titre et objectif — ≈ 0 min 10 s
+
+- **FR** — Leçon 14. Pause au parc.
+- **FR** — Aujourd'hui, tu vas apprendre à dire que tu as faim, et à dire qu'un endroit est beau.
+- *(silence 1,5 s)*
+
+## 2. Rappel — ≈ 1 min 20 s
+
+- **FR** — On commence par quelques phrases que tu connais.
+- **FR** — Il y a des toilettes par ici ?
+- *(silence 4,5 s)*
+- **中文** — 这儿有厕所吗？  *(Zhèr yǒu cèsuǒ ma?)*
+- *(silence 3,0 s)*
+- **FR** — Je n'ai pas de billet.
+- *(silence 4,0 s)*
+- **中文** — 我没有票。  *(Wǒ méiyǒu piào.)*
+- *(silence 3,0 s)*
+- **FR** — Vous avez un plan ? Avec le vous de politesse.
+- *(silence 4,0 s)*
+- **中文** — 您有地图吗？  *(Nín yǒu dìtú ma?)*
+- *(silence 3,0 s)*
+- **FR** — Nous allons au parc.
+- *(silence 4,0 s)*
+- **中文** — 我们去公园。  *(Wǒmen qù gōngyuán.)*
+- *(silence 3,0 s)*
+- **FR** — Je suis touriste.
+- *(silence 4,0 s)*
+- **中文** — 我是游客。  *(Wǒ shì yóukè.)*
+- *(silence 3,0 s)*
+- **FR** — Je suis fatigué.
+- *(silence 4,0 s)*
+- **中文** — 我很累。  *(Wǒ hěn lèi.)*
+- *(silence 3,0 s)*
+- **FR** — Très bien.
+
+## 3. Oreille — ≈ 1 min 10 s
+
+- **FR** — Écoute deux mots qui ont la même voyelle. Seule la mélodie change.
+- **FR** — Boire. La voix reste haute et plate.
+- **中文** — 喝  *(hē)*
+- *(silence 2,0 s)*
+- **FR** — Affamé. C'est un mot nouveau. La voix descend.
+- **中文** — 饿  *(è)*
+- *(silence 2,0 s)*
+- **FR** — Encore une fois, les deux.
+- **中文** — 喝  *(hē)*
+- *(silence 1,5 s)*
+- **中文** — 饿  *(è)*
+- *(silence 1,5 s)*
+- **FR** — Maintenant, devine. Boire, ou affamé ?
+- **中文** — 饿  *(è)*
+- *(silence 2,5 s)*
+- **FR** — Celui-là descend. C'est affamé.
+- **中文** — 喝  *(hē)*
+- *(silence 2,5 s)*
+- **FR** — Haut et plat. C'est boire.
+- **中文** — 喝  *(hē)*
+- *(silence 2,5 s)*
+- **FR** — Encore haut et plat. C'est boire.
+- **中文** — 饿  *(è)*
+- *(silence 2,5 s)*
+- **FR** — La voix descend. C'est affamé.
+- **中文** — 喝  *(hē)*
+- *(silence 2,5 s)*
+- **FR** — Il reste en haut. C'est boire.
+- **中文** — 饿  *(è)*
+- *(silence 2,5 s)*
+- **FR** — Il descend. C'est affamé. Bravo.
+
+## 4. Affamé — ≈ 1 min 30 s
+
+- **FR** — affamé
+- **中文** — 饿  *(è)*
+- *(silence 2,5 s)*
+- **中文** — 饿  *(è)*
+- *(silence 2,5 s)*
+- **FR** — Tu as faim ?
+- **中文** — 你饿吗？  *(Nǐ è ma?)*
+- *(silence 3,5 s)*
+- **中文** — 你饿吗？  *(Nǐ è ma?)*
+- *(silence 3,5 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — tu
+- **中文** — 你  *(nǐ)*
+- **FR** — affamé
+- **中文** — 饿  *(è)*
+- **FR** — petit mot de question
+- **中文** — 吗  *(ma)*
+- **FR** — En chinois, on n'a pas faim. On est affamé, tout simplement.
+- **FR** — À toi. Tu as faim ?
+- *(silence 4,0 s)*
+- **中文** — 你饿吗？  *(Nǐ è ma?)*
+- *(silence 3,0 s)*
+- **FR** — Je n'ai pas faim. Souviens-toi de : je ne suis pas fatigué.
+- *(silence 4,5 s)*
+- **中文** — 我不饿。  *(Wǒ bú è.)*
+- *(silence 3,0 s)*
+- **中文** — 我不饿。  *(Wǒ bú è.)*
+- *(silence 3,0 s)*
+- **FR** — J'ai faim.
+- *(silence 4,0 s)*
+- **中文** — 我很饿。  *(Wǒ hěn è.)*
+- *(silence 3,0 s)*
+- **FR** — Tu as faim, toi aussi ?
+- *(silence 4,0 s)*
+- **中文** — 你也饿吗？  *(Nǐ yě è ma?)*
+- *(silence 3,0 s)*
+
+## 5. Extrêmement — ≈ 1 min 10 s
+
+- **FR** — extrêmement
+- **中文** — 非常  *(fēicháng)*
+- *(silence 3,0 s)*
+- **中文** — 非常  *(fēicháng)*
+- *(silence 3,0 s)*
+- **FR** — J'ai très faim.
+- **中文** — 我非常饿。  *(Wǒ fēicháng è.)*
+- *(silence 3,5 s)*
+- **中文** — 我非常饿。  *(Wǒ fēicháng è.)*
+- *(silence 3,5 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — je
+- **中文** — 我  *(wǒ)*
+- **FR** — extrêmement
+- **中文** — 非常  *(fēicháng)*
+- **FR** — affamé
+- **中文** — 饿  *(è)*
+- **FR** — C'est plus fort que très, et ça se place au même endroit.
+- **FR** — À toi. J'ai très faim.
+- *(silence 4,0 s)*
+- **中文** — 我非常饿。  *(Wǒ fēicháng è.)*
+- *(silence 3,0 s)*
+- **FR** — Je suis extrêmement fatigué.
+- *(silence 4,0 s)*
+- **中文** — 我非常累。  *(Wǒ fēicháng lèi.)*
+- *(silence 3,0 s)*
+- **FR** — Pékin est extrêmement grand.
+- *(silence 4,5 s)*
+- **中文** — 北京非常大。  *(Běijīng fēicháng dà.)*
+- *(silence 3,0 s)*
+
+## 6. Beau, le paysage — ≈ 2 min 10 s
+
+- **FR** — beau
+- **中文** — 美  *(měi)*
+- *(silence 2,5 s)*
+- **中文** — 美  *(měi)*
+- *(silence 2,5 s)*
+- **FR** — Le parc est très beau.
+- **中文** — 公园很美。  *(Gōngyuán hěn měi.)*
+- *(silence 3,5 s)*
+- **中文** — 公园很美。  *(Gōngyuán hěn měi.)*
+- *(silence 3,5 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — parc
+- **中文** — 公园  *(gōngyuán)*
+- **FR** — très
+- **中文** — 很  *(hěn)*
+- **FR** — beau
+- **中文** — 美  *(měi)*
+- **FR** — Et maintenant, le paysage. Écoute la fin du mot.
+- **中文** — 景  *(jǐng)*
+- *(silence 2,0 s)*
+- **FR** — Le mot entier.
+- **中文** — 风景  *(fēngjǐng)*
+- *(silence 3,0 s)*
+- **中文** — 风景  *(fēngjǐng)*
+- *(silence 3,0 s)*
+- **FR** — Le paysage est très beau.
+- **中文** — 风景很美。  *(Fēngjǐng hěn měi.)*
+- *(silence 3,5 s)*
+- **中文** — 风景很美。  *(Fēngjǐng hěn měi.)*
+- *(silence 3,5 s)*
+- **FR** — Magnifique !
+- **中文** — 非常美！  *(Fēicháng měi!)*
+- *(silence 3,5 s)*
+- **中文** — 非常美！  *(Fēicháng měi!)*
+- *(silence 3,5 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — extrêmement
+- **中文** — 非常  *(fēicháng)*
+- **FR** — beau
+- **中文** — 美  *(měi)*
+- **FR** — À toi. Le paysage est très beau.
+- *(silence 4,0 s)*
+- **中文** — 风景很美。  *(Fēngjǐng hěn měi.)*
+- *(silence 3,0 s)*
+- **FR** — Magnifique !
+- *(silence 4,0 s)*
+- **中文** — 非常美！  *(Fēicháng měi!)*
+- *(silence 3,0 s)*
+- **FR** — La Cité interdite est extrêmement belle.
+- *(silence 4,5 s)*
+- **中文** — 故宫非常美。  *(Gùgōng fēicháng měi.)*
+- *(silence 3,0 s)*
+- **FR** — Le parc est très beau.
+- *(silence 4,0 s)*
+- **中文** — 公园很美。  *(Gōngyuán hěn měi.)*
+- *(silence 3,0 s)*
+
+## 7. Joli à regarder — ≈ 1 min 40 s
+
+- **FR** — joli à regarder
+- **中文** — 好看  *(hǎokàn)*
+- *(silence 3,0 s)*
+- **中文** — 好看  *(hǎokàn)*
+- *(silence 3,0 s)*
+- **FR** — C'est bon, suivi de regarder. Comme bon à boire, que tu connais.
+- **中文** — 好喝  *(hǎohē)*
+- *(silence 2,0 s)*
+- **中文** — 好看  *(hǎokàn)*
+- *(silence 2,5 s)*
+- **FR** — La Cité interdite est très jolie.
+- **中文** — 故宫很好看。  *(Gùgōng hěn hǎokàn.)*
+- *(silence 4,0 s)*
+- **中文** — 故宫很好看。  *(Gùgōng hěn hǎokàn.)*
+- *(silence 4,0 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — Cité interdite
+- **中文** — 故宫  *(Gùgōng)*
+- **FR** — très
+- **中文** — 很  *(hěn)*
+- **FR** — joli à regarder
+- **中文** — 好看  *(hǎokàn)*
+- **FR** — Le paysage est joli ?
+- **中文** — 风景好看吗？  *(Fēngjǐng hǎokàn ma?)*
+- *(silence 4,0 s)*
+- **中文** — 风景好看吗？  *(Fēngjǐng hǎokàn ma?)*
+- *(silence 4,0 s)*
+- **FR** — À toi. Le paysage est joli ?
+- *(silence 4,5 s)*
+- **中文** — 风景好看吗？  *(Fēngjǐng hǎokàn ma?)*
+- *(silence 3,0 s)*
+- **FR** — Le parc est très joli.
+- *(silence 4,5 s)*
+- **中文** — 公园很好看。  *(Gōngyuán hěn hǎokàn.)*
+- *(silence 3,0 s)*
+- **FR** — La Cité interdite est très jolie.
+- *(silence 4,5 s)*
+- **中文** — 故宫很好看。  *(Gùgōng hěn hǎokàn.)*
+- *(silence 3,0 s)*
+
+## 8. Nombreux — ≈ 1 min 40 s
+
+- **FR** — nombreux
+- **中文** — 多  *(duō)*
+- *(silence 2,5 s)*
+- **中文** — 多  *(duō)*
+- *(silence 2,5 s)*
+- **FR** — Il y a énormément de monde.
+- **中文** — 人很多。  *(Rén hěn duō.)*
+- *(silence 3,5 s)*
+- **中文** — 人很多。  *(Rén hěn duō.)*
+- *(silence 3,5 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — gens
+- **中文** — 人  *(rén)*
+- **FR** — très
+- **中文** — 很  *(hěn)*
+- **FR** — nombreux
+- **中文** — 多  *(duō)*
+- **FR** — On ne dit pas : il y a beaucoup de gens. On dit : les gens sont nombreux.
+- **FR** — Il y a beaucoup de touristes.
+- **中文** — 游客很多。  *(Yóukè hěn duō.)*
+- *(silence 3,5 s)*
+- **中文** — 游客很多。  *(Yóukè hěn duō.)*
+- *(silence 3,5 s)*
+- **FR** — À toi. Il y a énormément de monde.
+- *(silence 4,0 s)*
+- **中文** — 人很多。  *(Rén hěn duō.)*
+- *(silence 3,0 s)*
+- **FR** — Il y a beaucoup de touristes.
+- *(silence 4,0 s)*
+- **中文** — 游客很多。  *(Yóukè hěn duō.)*
+- *(silence 3,0 s)*
+- **FR** — Ici, il y a beaucoup de monde.
+- *(silence 4,5 s)*
+- **中文** — 这儿人很多。  *(Zhèr rén hěn duō.)*
+- *(silence 3,0 s)*
+- **FR** — Il n'y a pas beaucoup de monde.
+- *(silence 4,0 s)*
+- **中文** — 人不多。  *(Rén bù duō.)*
+- *(silence 3,0 s)*
+- **FR** — Tu vois, tu sais déjà le dire.
+
+## 9. On mélange — ≈ 1 min 40 s
+
+- **FR** — Maintenant, on mélange tout.
+- **FR** — Ma femme a très faim.
+- *(silence 4,5 s)*
+- **中文** — 我太太非常饿。  *(Wǒ tàitai fēicháng è.)*
+- *(silence 3,0 s)*
+- **FR** — Nous n'avons pas faim, merci.
+- *(silence 4,5 s)*
+- **中文** — 我们不饿，谢谢。  *(Wǒmen bú è, xièxie.)*
+- *(silence 3,0 s)*
+- **FR** — La Chine est très belle.
+- *(silence 4,0 s)*
+- **中文** — 中国很美。  *(Zhōngguó hěn měi.)*
+- *(silence 3,0 s)*
+- **FR** — Ici, le paysage est magnifique.
+- *(silence 4,5 s)*
+- **中文** — 这儿的风景非常美。  *(Zhèr de fēngjǐng fēicháng měi.)*
+- *(silence 3,0 s)*
+- **FR** — À la Cité interdite, il y a beaucoup de touristes.
+- *(silence 4,5 s)*
+- **中文** — 故宫的游客很多。  *(Gùgōng de yóukè hěn duō.)*
+- *(silence 3,0 s)*
+- **FR** — Mon ami a un peu faim.
+- *(silence 4,5 s)*
+- **中文** — 我朋友有点儿饿。  *(Wǒ péngyou yǒudiǎnr è.)*
+- *(silence 3,0 s)*
+- **FR** — Je suis fatigué, et j'ai faim aussi.
+- *(silence 4,5 s)*
+- **中文** — 我很累，也很饿。  *(Wǒ hěn lèi, yě hěn è.)*
+- *(silence 3,0 s)*
+
+## 10. Petite conversation — ≈ 1 min 10 s
+
+- **FR** — Écoute cette petite conversation. Tu connais déjà tous les mots.
+- **中文** — 这儿的风景好看吗？  *(Zhèr de fēngjǐng hǎokàn ma?)*
+- **中文** — 非常美！  *(Fēicháng měi!)*
+- **中文** — 游客很多。  *(Yóukè hěn duō.)*
+- **中文** — 你饿吗？  *(Nǐ è ma?)*
+- **中文** — 我不饿，我有点儿累。  *(Wǒ bú è, wǒ yǒudiǎnr lèi.)*
+- **中文** — 请坐。  *(Qǐng zuò.)*
+- *(silence 2,0 s)*
+- **FR** — Encore une fois, et dis le sens en français pendant le silence.
+- **中文** — 这儿的风景好看吗？  *(Zhèr de fēngjǐng hǎokàn ma?)*
+- *(silence 3,0 s)*
+- **FR** — Le paysage est joli, ici ?
+- **中文** — 非常美！  *(Fēicháng měi!)*
+- *(silence 3,0 s)*
+- **FR** — Magnifique !
+- **中文** — 游客很多。  *(Yóukè hěn duō.)*
+- *(silence 3,0 s)*
+- **FR** — Il y a beaucoup de touristes.
+- **中文** — 你饿吗？  *(Nǐ è ma?)*
+- *(silence 3,0 s)*
+- **FR** — Tu as faim ?
+- **中文** — 我不饿，我有点儿累。  *(Wǒ bú è, wǒ yǒudiǎnr lèi.)*
+- *(silence 3,0 s)*
+- **FR** — Je n'ai pas faim, je suis un peu fatigué.
+- **中文** — 请坐。  *(Qǐng zuò.)*
+- *(silence 3,0 s)*
+- **FR** — Assieds-toi, je t'en prie.
+
+## 11. Test — ≈ 1 min 10 s
+
+- **FR** — Le test. Je dis une phrase en français, tu la dis en chinois.
+- **FR** — Tu as faim ?
+- *(silence 4,0 s)*
+- **中文** — 你饿吗？  *(Nǐ è ma?)*
+- **FR** — J'ai très faim.
+- *(silence 4,0 s)*
+- **中文** — 我非常饿。  *(Wǒ fēicháng è.)*
+- **FR** — Le paysage est joli ?
+- *(silence 4,0 s)*
+- **中文** — 风景好看吗？  *(Fēngjǐng hǎokàn ma?)*
+- **FR** — Magnifique !
+- *(silence 4,0 s)*
+- **中文** — 非常美！  *(Fēicháng měi!)*
+- **FR** — Il y a énormément de monde.
+- *(silence 4,0 s)*
+- **中文** — 人很多。  *(Rén hěn duō.)*
+- **FR** — Le parc est très beau.
+- *(silence 4,0 s)*
+- **中文** — 公园很美。  *(Gōngyuán hěn měi.)*
+- **FR** — Il y a un parc ici ?
+- *(silence 4,5 s)*
+- **中文** — 这儿有公园吗？  *(Zhèr yǒu gōngyuán ma?)*
+- **FR** — Je suis fatigué.
+- *(silence 4,0 s)*
+- **中文** — 我很累。  *(Wǒ hěn lèi.)*
+
+## 12. Clôture — ≈ 0 min 20 s
+
+- **FR** — Bravo. Tu sais maintenant dire que tu as faim, qu'un paysage est magnifique, et qu'il y a beaucoup de monde.
+- **FR** — Demain, la leçon suivante commencera par ces phrases.
+- *(silence 3,0 s)*
