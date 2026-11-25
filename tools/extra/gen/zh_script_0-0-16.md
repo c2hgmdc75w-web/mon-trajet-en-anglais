@@ -1,0 +1,387 @@
+# Script de la leçon 17 de chinois — « Celui-ci ou celui-là ? »
+
+## 1. Titre et objectif — ≈ 0 min 10 s
+
+- **FR** — Leçon 17. Celui-ci ou celui-là ?
+- **FR** — Aujourd'hui, tu vas apprendre à montrer ce que tu veux, et à demander ce que c'est.
+- *(silence 1,5 s)*
+
+## 2. Rappel — ≈ 1 min 30 s
+
+- **FR** — On commence par quelques phrases que tu connais.
+- **FR** — C'est trop cher !
+- *(silence 4,0 s)*
+- **中文** — 太贵了！  *(Tài guì le!)*
+- *(silence 3,0 s)*
+- **FR** — Une bière, s'il vous plaît.
+- *(silence 4,5 s)*
+- **中文** — 请给我一杯啤酒。  *(Qǐng gěi wǒ yì bēi píjiǔ.)*
+- *(silence 3,0 s)*
+- **FR** — Je ne suis pas pressé.
+- *(silence 4,0 s)*
+- **中文** — 我不急。  *(Wǒ bù jí.)*
+- *(silence 3,0 s)*
+- **FR** — Le thé n'est pas trop sucré.
+- *(silence 4,0 s)*
+- **中文** — 茶不太甜。  *(Chá bú tài tián.)*
+- *(silence 3,0 s)*
+- **FR** — Tu as faim ?
+- *(silence 4,0 s)*
+- **中文** — 你饿吗？  *(Nǐ è ma?)*
+- *(silence 3,0 s)*
+- **FR** — C'est un peu cher.
+- *(silence 4,0 s)*
+- **中文** — 有点儿贵。  *(Yǒudiǎnr guì.)*
+- *(silence 3,0 s)*
+- **FR** — Patron, c'est combien ?
+- *(silence 4,0 s)*
+- **中文** — 老板，多少钱？  *(Lǎobǎn, duōshao qián?)*
+- *(silence 3,0 s)*
+- **FR** — Très bien.
+
+## 3. Oreille — ≈ 1 min
+
+- **FR** — Écoute deux mots. Les deux descendent. C'est le premier son qui change.
+- **FR** — Ceci. Tu le connais.
+- **中文** — 这  *(zhè)*
+- *(silence 2,0 s)*
+- **FR** — Cela. C'est un son nouveau.
+- **中文** — 那  *(nà)*
+- *(silence 2,0 s)*
+- **FR** — Encore une fois, les deux.
+- **中文** — 这  *(zhè)*
+- *(silence 1,5 s)*
+- **中文** — 那  *(nà)*
+- *(silence 1,5 s)*
+- **FR** — Maintenant, devine. Ceci, ou cela ?
+- **中文** — 那  *(nà)*
+- *(silence 2,5 s)*
+- **FR** — C'est cela, ce qui est loin de toi.
+- **中文** — 这  *(zhè)*
+- *(silence 2,5 s)*
+- **FR** — C'est ceci, ce qui est près de toi.
+- **中文** — 这  *(zhè)*
+- *(silence 2,5 s)*
+- **FR** — Encore ceci.
+- **中文** — 那  *(nà)*
+- *(silence 2,5 s)*
+- **FR** — C'est cela.
+- **中文** — 那个  *(nàge)*
+- *(silence 2,5 s)*
+- **FR** — Celui-là. Tu vas l'apprendre tout de suite.
+- **中文** — 这个  *(zhège)*
+- *(silence 2,5 s)*
+- **FR** — Celui-ci. Bravo.
+
+## 4. Celui-ci, celui-là — ≈ 2 min 40 s
+
+- **FR** — celui-ci
+- **中文** — 这个  *(zhège)*
+- *(silence 3,0 s)*
+- **中文** — 这个  *(zhège)*
+- *(silence 3,0 s)*
+- **FR** — C'est le mot ceci, suivi d'un petit mot passe-partout.
+- **FR** — C'est combien, ça ?
+- **中文** — 这个多少钱？  *(Zhège duōshao qián?)*
+- *(silence 4,0 s)*
+- **中文** — 这个多少钱？  *(Zhège duōshao qián?)*
+- *(silence 4,0 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — celui-ci
+- **中文** — 这个  *(zhège)*
+- **FR** — combien d'argent
+- **中文** — 多少钱  *(duōshao qián)*
+- **FR** — celui-là
+- **中文** — 那个  *(nàge)*
+- *(silence 3,0 s)*
+- **中文** — 那个  *(nàge)*
+- *(silence 3,0 s)*
+- **FR** — Celui-là est très cher.
+- **中文** — 那个很贵。  *(Nàge hěn guì.)*
+- *(silence 3,5 s)*
+- **中文** — 那个很贵。  *(Nàge hěn guì.)*
+- *(silence 3,5 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — celui-là
+- **中文** — 那个  *(nàge)*
+- **FR** — très
+- **中文** — 很  *(hěn)*
+- **FR** — cher
+- **中文** — 贵  *(guì)*
+- **FR** — Je vais prendre celui-ci.
+- **中文** — 我要这个。  *(Wǒ yào zhège.)*
+- *(silence 3,5 s)*
+- **中文** — 我要这个。  *(Wǒ yào zhège.)*
+- *(silence 3,5 s)*
+- **FR** — À toi. C'est combien, ça ?
+- *(silence 4,5 s)*
+- **中文** — 这个多少钱？  *(Zhège duōshao qián?)*
+- *(silence 3,0 s)*
+- **FR** — Celui-là est très cher.
+- *(silence 4,0 s)*
+- **中文** — 那个很贵。  *(Nàge hěn guì.)*
+- *(silence 3,0 s)*
+- **FR** — Je vais prendre celui-ci.
+- *(silence 4,0 s)*
+- **中文** — 我要这个。  *(Wǒ yào zhège.)*
+- *(silence 3,0 s)*
+- **FR** — Je vais prendre celui-là.
+- *(silence 4,0 s)*
+- **中文** — 我要那个。  *(Wǒ yào nàge.)*
+- *(silence 3,0 s)*
+- **FR** — Non, pas celui-là.
+- **中文** — 不是那个。  *(Bú shì nàge.)*
+- *(silence 3,5 s)*
+- **中文** — 不是那个。  *(Bú shì nàge.)*
+- *(silence 3,5 s)*
+- **FR** — À toi. Non, pas celui-là.
+- *(silence 4,0 s)*
+- **中文** — 不是那个。  *(Bú shì nàge.)*
+- *(silence 3,0 s)*
+
+## 5. Et… ? — ≈ 1 min 10 s
+
+- **FR** — Un petit mot pour renvoyer la question.
+- **中文** — 呢  *(ne)*
+- *(silence 2,5 s)*
+- **中文** — 呢  *(ne)*
+- *(silence 2,5 s)*
+- **FR** — Et celui-là ?
+- **中文** — 那个呢？  *(Nàge ne?)*
+- *(silence 3,5 s)*
+- **中文** — 那个呢？  *(Nàge ne?)*
+- *(silence 3,5 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — celui-là
+- **中文** — 那个  *(nàge)*
+- **FR** — et
+- **中文** — 呢  *(ne)*
+- **FR** — Il se place à la fin, et il évite de tout répéter.
+- **FR** — À toi. Et celui-là ?
+- *(silence 4,0 s)*
+- **中文** — 那个呢？  *(Nàge ne?)*
+- *(silence 3,0 s)*
+- **FR** — Et celui-ci ?
+- *(silence 4,0 s)*
+- **中文** — 这个呢？  *(Zhège ne?)*
+- *(silence 3,0 s)*
+- **FR** — Et toi ?
+- *(silence 3,0 s)*
+- **中文** — 你呢？  *(Nǐ ne?)*
+- *(silence 2,0 s)*
+- **FR** — J'ai faim, et toi ?
+- *(silence 4,5 s)*
+- **中文** — 我很饿，你呢？  *(Wǒ hěn è, nǐ ne?)*
+- *(silence 3,0 s)*
+
+## 6. Quoi — ≈ 1 min 50 s
+
+- **FR** — quoi
+- **中文** — 什么  *(shénme)*
+- *(silence 3,0 s)*
+- **中文** — 什么  *(shénme)*
+- *(silence 3,0 s)*
+- **FR** — Qu'est-ce que c'est ?
+- **中文** — 这是什么？  *(Zhè shì shénme?)*
+- *(silence 3,5 s)*
+- **中文** — 这是什么？  *(Zhè shì shénme?)*
+- *(silence 3,5 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — ceci
+- **中文** — 这  *(zhè)*
+- **FR** — être
+- **中文** — 是  *(shì)*
+- **FR** — quoi
+- **中文** — 什么  *(shénme)*
+- **FR** — Quoi se place là où serait la réponse.
+- **FR** — Tu as envie de manger quoi ?
+- **中文** — 你想吃什么？  *(Nǐ xiǎng chī shénme?)*
+- *(silence 4,0 s)*
+- **中文** — 你想吃什么？  *(Nǐ xiǎng chī shénme?)*
+- *(silence 4,0 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — tu
+- **中文** — 你  *(nǐ)*
+- **FR** — avoir envie
+- **中文** — 想  *(xiǎng)*
+- **FR** — manger
+- **中文** — 吃  *(chī)*
+- **FR** — quoi
+- **中文** — 什么  *(shénme)*
+- **FR** — À toi. Qu'est-ce que c'est ?
+- *(silence 4,0 s)*
+- **中文** — 这是什么？  *(Zhè shì shénme?)*
+- *(silence 3,0 s)*
+- **FR** — Tu as envie de manger quoi ?
+- *(silence 4,5 s)*
+- **中文** — 你想吃什么？  *(Nǐ xiǎng chī shénme?)*
+- *(silence 3,0 s)*
+- **FR** — Tu as envie de boire quoi ?
+- *(silence 4,5 s)*
+- **中文** — 你想喝什么？  *(Nǐ xiǎng hē shénme?)*
+- *(silence 3,0 s)*
+- **FR** — Tu as envie d'acheter quoi ?
+- *(silence 4,5 s)*
+- **中文** — 你想买什么？  *(Nǐ xiǎng mǎi shénme?)*
+- *(silence 3,0 s)*
+
+## 7. La pomme, le fruit — ≈ 2 min 40 s
+
+- **FR** — La pomme. Écoute la fin du mot.
+- **中文** — 果  *(guǒ)*
+- *(silence 2,0 s)*
+- **FR** — Le mot entier.
+- **中文** — 苹果  *(píngguǒ)*
+- *(silence 3,0 s)*
+- **中文** — 苹果  *(píngguǒ)*
+- *(silence 3,0 s)*
+- **FR** — C'est une pomme.
+- **中文** — 这是苹果。  *(Zhè shì píngguǒ.)*
+- *(silence 3,5 s)*
+- **中文** — 这是苹果。  *(Zhè shì píngguǒ.)*
+- *(silence 3,5 s)*
+- **FR** — Le fruit. Tu entends le mot eau au début, et la même fin que pomme.
+- **中文** — 水果  *(shuǐguǒ)*
+- *(silence 3,0 s)*
+- **中文** — 水果  *(shuǐguǒ)*
+- *(silence 3,0 s)*
+- **FR** — Qu'est-ce que c'est, ce fruit ?
+- **中文** — 这是什么水果？  *(Zhè shì shénme shuǐguǒ?)*
+- *(silence 4,0 s)*
+- **中文** — 这是什么水果？  *(Zhè shì shénme shuǐguǒ?)*
+- *(silence 4,0 s)*
+- **FR** — Traduction mot à mot.
+- **FR** — ceci
+- **中文** — 这  *(zhè)*
+- **FR** — être
+- **中文** — 是  *(shì)*
+- **FR** — quoi
+- **中文** — 什么  *(shénme)*
+- **FR** — fruit
+- **中文** — 水果  *(shuǐguǒ)*
+- **FR** — À toi. C'est une pomme.
+- *(silence 4,0 s)*
+- **中文** — 这是苹果。  *(Zhè shì píngguǒ.)*
+- *(silence 3,0 s)*
+- **FR** — J'ai envie d'acheter des pommes.
+- *(silence 4,5 s)*
+- **中文** — 我想买苹果。  *(Wǒ xiǎng mǎi píngguǒ.)*
+- *(silence 3,0 s)*
+- **FR** — Qu'est-ce que c'est, ce fruit ?
+- *(silence 4,5 s)*
+- **中文** — 这是什么水果？  *(Zhè shì shénme shuǐguǒ?)*
+- *(silence 3,5 s)*
+- **FR** — J'ai envie de manger des fruits.
+- *(silence 4,5 s)*
+- **中文** — 我想吃水果。  *(Wǒ xiǎng chī shuǐguǒ.)*
+- *(silence 3,0 s)*
+- **FR** — Pour dire cette pomme, on dit : celui-ci, pomme.
+- **FR** — Cette pomme est très sucrée.
+- **中文** — 这个苹果很甜。  *(Zhège píngguǒ hěn tián.)*
+- *(silence 4,0 s)*
+- **中文** — 这个苹果很甜。  *(Zhège píngguǒ hěn tián.)*
+- *(silence 4,0 s)*
+- **FR** — À toi. Cette pomme est très sucrée.
+- *(silence 4,5 s)*
+- **中文** — 这个苹果很甜。  *(Zhège píngguǒ hěn tián.)*
+- *(silence 3,5 s)*
+- **FR** — Très bien. Tu es prêt pour le marché.
+
+## 8. On mélange — ≈ 1 min 40 s
+
+- **FR** — Maintenant, on mélange tout.
+- **FR** — Patron, c'est combien, ça ?
+- *(silence 4,5 s)*
+- **中文** — 老板，这个多少钱？  *(Lǎobǎn, zhège duōshao qián?)*
+- *(silence 3,0 s)*
+- **FR** — Trop cher ! Et celui-là ?
+- *(silence 4,5 s)*
+- **中文** — 太贵了！那个呢？  *(Tài guì le! Nàge ne?)*
+- *(silence 3,0 s)*
+- **FR** — Je ne veux pas celui-ci, je veux celui-là.
+- *(silence 5,0 s)*
+- **中文** — 我不要这个，我要那个。  *(Wǒ bú yào zhège, wǒ yào nàge.)*
+- *(silence 3,0 s)*
+- **FR** — Vous vendez quoi, comme fruits ?
+- *(silence 4,5 s)*
+- **中文** — 你们卖什么水果？  *(Nǐmen mài shénme shuǐguǒ?)*
+- *(silence 3,0 s)*
+- **FR** — Il y a des pommes ici ?
+- *(silence 4,5 s)*
+- **中文** — 这儿有苹果吗？  *(Zhèr yǒu píngguǒ ma?)*
+- *(silence 3,0 s)*
+- **FR** — J'ai envie de boire du thé, et toi ?
+- *(silence 4,5 s)*
+- **中文** — 我想喝茶，你呢？  *(Wǒ xiǎng hē chá, nǐ ne?)*
+- *(silence 3,0 s)*
+- **FR** — Les fruits ne sont pas trop chers.
+- *(silence 4,0 s)*
+- **中文** — 水果不太贵。  *(Shuǐguǒ bú tài guì.)*
+- *(silence 3,0 s)*
+
+## 9. Petite conversation — ≈ 1 min 10 s
+
+- **FR** — Écoute cette petite conversation. Tu connais déjà tous les mots.
+- **中文** — 这是什么？  *(Zhè shì shénme?)*
+- **中文** — 这是苹果。  *(Zhè shì píngguǒ.)*
+- **中文** — 这个多少钱？  *(Zhège duōshao qián?)*
+- **中文** — 十块。  *(Shí kuài.)*
+- **中文** — 那个呢？  *(Nàge ne?)*
+- **中文** — 那个很贵。  *(Nàge hěn guì.)*
+- *(silence 2,0 s)*
+- **FR** — Encore une fois, et dis le sens en français pendant le silence.
+- **中文** — 这是什么？  *(Zhè shì shénme?)*
+- *(silence 3,0 s)*
+- **FR** — Qu'est-ce que c'est ?
+- **中文** — 这是苹果。  *(Zhè shì píngguǒ.)*
+- *(silence 3,0 s)*
+- **FR** — C'est une pomme.
+- **中文** — 这个多少钱？  *(Zhège duōshao qián?)*
+- *(silence 3,0 s)*
+- **FR** — C'est combien, ça ?
+- **中文** — 十块。  *(Shí kuài.)*
+- *(silence 3,0 s)*
+- **FR** — Dix kuai.
+- **中文** — 那个呢？  *(Nàge ne?)*
+- *(silence 3,0 s)*
+- **FR** — Et celui-là ?
+- **中文** — 那个很贵。  *(Nàge hěn guì.)*
+- *(silence 3,0 s)*
+- **FR** — Celui-là est très cher.
+
+## 10. Test — ≈ 1 min 20 s
+
+- **FR** — Le test. Je dis une phrase en français, tu la dis en chinois.
+- **FR** — C'est combien, ça ?
+- *(silence 4,0 s)*
+- **中文** — 这个多少钱？  *(Zhège duōshao qián?)*
+- **FR** — Et celui-là ?
+- *(silence 4,0 s)*
+- **中文** — 那个呢？  *(Nàge ne?)*
+- **FR** — Je vais prendre celui-ci.
+- *(silence 4,0 s)*
+- **中文** — 我要这个。  *(Wǒ yào zhège.)*
+- **FR** — Qu'est-ce que c'est ?
+- *(silence 4,0 s)*
+- **中文** — 这是什么？  *(Zhè shì shénme?)*
+- **FR** — Non, pas celui-là.
+- *(silence 4,0 s)*
+- **中文** — 不是那个。  *(Bú shì nàge.)*
+- **FR** — Tu as envie de manger quoi ?
+- *(silence 4,0 s)*
+- **中文** — 你想吃什么？  *(Nǐ xiǎng chī shénme?)*
+- **FR** — J'ai envie d'acheter des pommes.
+- *(silence 4,0 s)*
+- **中文** — 我想买苹果。  *(Wǒ xiǎng mǎi píngguǒ.)*
+- **FR** — C'est trop cher !
+- *(silence 4,0 s)*
+- **中文** — 太贵了！  *(Tài guì le!)*
+- **FR** — C'est un peu cher.
+- *(silence 4,0 s)*
+- **中文** — 有点儿贵。  *(Yǒudiǎnr guì.)*
+
+## 11. Clôture — ≈ 0 min 20 s
+
+- **FR** — Bravo. Tu sais maintenant montrer ce que tu veux, demander ce que c'est, et renvoyer la question avec et toi.
+- **FR** — Demain, la leçon suivante commencera par ces phrases.
+- *(silence 3,0 s)*

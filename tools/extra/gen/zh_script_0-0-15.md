@@ -254,7 +254,7 @@
 - **中文** — 我不太饿。  *(Wǒ bú tài è.)*
 - *(silence 3,0 s)*
 
-## 8. Pressé — ≈ 1 min 20 s
+## 8. Pressé — ≈ 1 min 10 s
 
 - **FR** — pressé
 - **中文** — 急  *(jí)*
@@ -284,10 +284,6 @@
 - **FR** — Nous ne sommes pas pressés.
 - *(silence 4,0 s)*
 - **中文** — 我们不急。  *(Wǒmen bù jí.)*
-- *(silence 3,0 s)*
-- **FR** — Il est très pressé.
-- *(silence 4,0 s)*
-- **中文** — 他很急。  *(Tā hěn jí.)*
 - *(silence 3,0 s)*
 - **FR** — Tu vois, tu sais déjà le dire.
 
