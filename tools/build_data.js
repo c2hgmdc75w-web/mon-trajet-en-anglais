@@ -134,6 +134,13 @@ function build(code, levels) {
     // évaluations et le rappel au début de la leçon suivante.
     const SC = (EXTRA.scripts || {})[id];
     if (SC) { used.SC = used.SC || new Set(); used.SC.add(id); l.script = SC; } else delete l.script;
+    // Points de grammaire remplacés ou retirés (extra.tipsReplace : objet complet, ou null
+    // pour retirer celui de la leçon). Sert à la nouvelle méthode : plus de point de grammaire
+    // après chaque leçon, mais une courte synthèse toutes les 5 leçons.
+    if (EXTRA.tipsReplace && id in EXTRA.tipsReplace) {
+      used.TR = used.TR || new Set(); used.TR.add(id);
+      if (EXTRA.tipsReplace[id]) l.tip = JSON.parse(JSON.stringify(EXTRA.tipsReplace[id])); else delete l.tip;
+    }
     // Second point de grammaire ajouté (extra.tips2), joué juste après le premier.
     const T2 = (EXTRA.tips2 || {})[id];
     if (T2) {
@@ -200,6 +207,7 @@ function build(code, levels) {
     if (orphan.length) throw new Error(`${code} : ${name} contient des clés qui ne correspondent à rien : ${orphan.slice(0, 8).join(', ')}`);
   }
   { const o = Object.keys(EXTRA.scripts || {}).filter(k => !(used.SC && used.SC.has(k))); if (o.length) throw new Error(`${code} : extra.scripts inconnu : ${o.join(', ')}`); }
+  { const o = Object.keys(EXTRA.tipsReplace || {}).filter(k => !(used.TR && used.TR.has(k))); if (o.length) throw new Error(`${code} : extra.tipsReplace inconnu : ${o.join(', ')}`); }
   { const o = Object.keys(EXTRA.tips2 || {}).filter(k => !(used.T2 && used.T2.has(k))); if (o.length) throw new Error(`${code} : extra.tips2 inconnu : ${o.join(', ')}`); }
   for (const [name, obj, set] of [['extra.vocab', VOC, used.VOC], ['extra.series', SER, used.SER], ['extra.notes', NOTES, used.NOTES], ['extra.words', WORDS, used.WORDS]]) {
     const orphan = Object.keys(obj).filter(k => !set.has(k));
