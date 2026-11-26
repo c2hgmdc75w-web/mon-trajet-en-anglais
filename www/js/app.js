@@ -570,8 +570,86 @@ function estimateSpeechMs(text, lang, rate){
    2. Mot dit seul (mot à mot) finissant par « e » : le son est coupé → on écrit « eu »
       (je → jeu, ce → ceux, être → êtreu, parce que → parce queu). Pas pour é, ue, ée.
    Pour ajouter une règle : l'ajouter dans FR_VOICE (texte courant) ou frIsolated (mot seul). */
+// Questions : la voix française ne fait pas entendre l'intonation d'une question. On les
+// dit donc sous une forme qui s'entend sans intonation : inversion (« Tu vas à Paris ? »
+// → « Vas-tu à Paris ? », « Tu habites où ? » → « Où habites-tu ? », « C'est ton billet ? »
+// → « Est-ce ton billet ? ») ou, à défaut, « Est-ce que… ». Seule la voix change : le
+// texte affiché reste celui d'origine. Ce qu'on ne sait pas transformer est laissé tel quel.
+const FRQ_CLITIC = "(?:(?:me|te|se|le|la|les|lui|leur|nous|vous|y|en)\\s+|[mtsl]')";
+const FRQ_SUBJ = "(tu|vous|il|elle|on|ils|elles|nous)";
+const FRQ_WH = "(où|quand|comment|combien|pourquoi|quoi|qui)";
+const FRQ_VERBS = /^(est|sont|était|étaient|sera|a|ont|avait|va|vont|vient|viennent|fait|font|peut|peuvent|veut|veulent|doit|doivent|sait|savent|connaît|habite|habitent|travaille|travaillent|parle|parlent|coûte|coûtent|plaît|marche|marchent|ouvre|ouvrent|ferme|ferment|commence|finit|reste|restent|prend|prennent|part|partent|arrive|arrivent|aime|aiment|vend|vendent|accepte|acceptent|passe|passent|existe|mange|mangent|boit|boivent|dort|attend|attendent|cherche|cherchent|s'appelle|s'appellent|n'est|n'a|ne)$/i;
+function frqInvert(subj, neg, clitics, verb, rest){
+  // « tu ne viens pas » → « ne viens-tu pas » ; « il a mangé » → « a-t-il mangé »
+  const s = subj.toLowerCase();
+  const link = (/^(il|elle|on)$/.test(s) && /[aeéc]$/i.test(verb)) ? '-t-' : '-';
+  let out = (neg || '') + (clitics || '') + verb + link + s + (rest ? ' ' + rest.trim() : '');
+  return out.replace(/\s+/g, ' ').trim();
+}
+function frqCap(t){ return t.charAt(0).toUpperCase() + t.slice(1); }
+function frQuestionSentence(q){
+  // q : une phrase finissant par « ? » (sans le ?), déjà nettoyée
+  let lead = '';
+  const mLead = q.match(/^((?:et|alors|dis|dites|pardon|excusez-moi|excuse-moi|sinon|mais|donc|bon)(?:\s+(?:toi|vous|lui|elle))?,?\s+|[^,]{1,22},\s+)(?=(?:tu|vous|il|elle|on|ils|elles|nous|c'est|ce n'est)\b)/i);
+  if(mLead){ lead = mLead[1]; q = q.slice(lead.length); }
+  const fin = t => lead ? lead + t.charAt(0).toLowerCase() + t.slice(1) : frqCap(t);
+  if(/^(est-ce|qu'est-ce|qui|que|qu'|quoi|où|quand|comment|combien|pourquoi|quel|quelle|quels|quelles|lequel|laquelle|d'où|y a-t-il|n'est-ce)\b/i.test(q)) return null;
+  if(/-(tu|vous|il|elle|on|ils|elles|nous|je|ce)\b|-t-/i.test(q)) return null;
+  if(/,\s*(non|hein|d'accord|pas vrai|si|oui|n'est-ce pas|et (toi|vous|lui|elle|eux|elles))\s*$/i.test(q)) return null;
+  let m;
+  const subjRe = "^" + FRQ_SUBJ + "\\s+(ne\\s+|n')?((?:" + FRQ_CLITIC + ")*)(\\S+)";
+  // 1. mot interrogatif à la fin : « Tu vas où » → « Où vas-tu »
+  m = q.match(new RegExp(subjRe + "(.*?)\\s+((?:d'|de |à |avec |pour |chez |en |par |depuis |dans |sur |vers |sous |jusqu'|contre )?)" + FRQ_WH + "$", 'i'));
+  if(m){
+    const [, subj, neg, cl, verb, mid, prep, wh] = m;
+    const w = (!prep && /^quoi$/i.test(wh)) ? 'que' : prep + wh;
+    const inv = frqInvert(subj, neg, cl, verb, mid);
+    return fin((/^que$/i.test(w) && /^[aeiouyhéèêâ]/i.test(inv) ? "qu'" : w + ' ') + inv);
+  }
+  m = q.match(/^c'est\s+(?:(.+?)\s+)?(où|quand|comment|combien|pourquoi|quoi|qui)$/i);
+  if(m){
+    const w = m[2].toLowerCase(), mid = m[1] || '';
+    // « c'est par où » → « par où est-ce » ; « c'est à qui » → « à qui est-ce »
+    if(/^(par|de|à|pour|avec|chez|dans|sur|vers|en|depuis)$/i.test(mid)) return fin(mid.toLowerCase() + ' ' + w + ' est-ce');
+    return fin(w === 'quoi' ? "qu'est-ce que c'est" + (mid ? ' ' + mid : '') : w + ' est-ce' + (mid ? ' ' + mid : ''));
+  }
+  m = q.match(/^c'est\s+(quoi|qui|où|combien|comment|quand),\s+(.+)$/i);
+  if(m){ const w = m[1].toLowerCase(); return fin((w === 'quoi' ? "qu'est-ce que c'est" : w + ' est-ce') + ', ' + m[2]); }
+  m = q.match(/^(.+?)\s+(est|sont)\s+où$/i);
+  if(m && !/,/.test(m[1]) && !/^(tu|vous|il|elle|on|ils|elles|nous|je)$/i.test(m[1])) return fin('où ' + m[2] + ' ' + m[1].charAt(0).toLowerCase() + m[1].slice(1));
+  // un mot interrogatif ailleurs dans la phrase (« Tu as quel âge ? ») : on l'entend déjà comme une question
+  if(/(^|[\s'])(quel|quelle|quels|quelles|où|combien|comment|pourquoi|quand|quoi|lequel|laquelle)(?=[\s,]|$)/i.test(q)) return null;
+  // 2. « C'est… » → « Est-ce… »
+  m = q.match(/^c'est\s+(.+)$/i); if(m) return fin('est-ce ' + m[1]);
+  m = q.match(/^ce n'est\s+(.+)$/i); if(m) return fin("n'est-ce " + m[1]);
+  // 3. sujet pronom : inversion
+  m = q.match(new RegExp(subjRe + "(.*)$", 'i'));
+  // « on » : l'inversion change le ton (« Dîne-t-on ? ») ; « Est-ce qu'on dîne ? » reste naturel
+  if(m && /^on$/i.test(m[1])) return fin("est-ce qu'" + q.charAt(0).toLowerCase() + q.slice(1));
+  if(m && !/^(pas|plus|rien|jamais)$/i.test(m[4])) return fin(frqInvert(m[1], m[2], m[3], m[4], m[5]));
+  // 4. sujet nom + verbe reconnu : « Est-ce que… »
+  const words = q.split(/\s+/);
+  if(words.length >= 3 && /^(le|la|les|l'|un|une|des|ce|cet|cette|ces|mon|ma|mes|ton|ta|tes|son|sa|ses|notre|nos|votre|vos|leur|leurs|ça|cela|je|j')/i.test(q) && words.slice(1, 5).some(w => FRQ_VERBS.test(w.replace(/[,;]/g, '')) || /^(n'|j')/i.test(w))){
+    const low = q.charAt(0).toLowerCase() + q.slice(1);
+    return fin((/^[aeiouyhéèêâ]/i.test(low) ? "est-ce qu'" : 'est-ce que ') + low);
+  }
+  if(/^j'|^je\s/i.test(q)) return fin((/^j'/i.test(q) ? "est-ce que " : 'est-ce que ') + q.charAt(0).toLowerCase() + q.slice(1));
+  return null;
+}
+function frQuestions(text){
+  if(text.indexOf('?') < 0) return text;
+  return text.replace(/([^.!?…]+?)(\s*\?)/g, (all, body, mark)=>{
+    const m = body.match(/^(\s*)([\s\S]*?)$/); const q = m[2].replace(/\s+/g, ' ').trim();
+    if(!q || q.split(' ').length > 14 || /[«»]/.test(q)) return all;
+    let r = null; try{ r = frQuestionSentence(q); }catch(e){ r = null; }
+    return r ? m[1] + r + mark : all;
+  });
+}
 const FR_VOICE = [
   [/mots? à mots?/gi, 'mo ta mo'],
+  // Deux-points suivis d'un mot (« Deuxième mot : il. ») : la voix enchaîne et fait la liaison
+  // (« mo-t-il »). Un point marque un vrai temps et coupe la liaison.
+  [/\s+:\s+(?=\S)/g, '. '],
   // « je » en toute fin de phrase (« Deuxième mot : je. ») : coupé, comme un mot dit seul.
   [/\bje(?=\s*[.!?…]*\s*$)/gi, m => m[0] === 'J' ? 'Jeu' : 'jeu'],
   // Mots qui existent aussi en anglais : la voix les lit à l'anglaise (« arrives » → « araïvz »).
@@ -598,11 +676,21 @@ const FR_VOICE = [
   // Inversions avec trait d'union : la voix s'arrête au trait d'union et ne fait pas la
   // liaison. a-t-il → a til, va-t-on → va ton ; dit-on → di ton, faut-il → fau til,
   // sont-elles → son telles ; est-il → è til. (Formes en -ent, comme soient-elles, laissées telles quelles.)
+  // Inversion avec tu, vous, nous (« Vas-tu à Paris ? ») : on enlève le trait d'union, et le
+  // s ou x muet devant « tu » (vas-tu → va tu, habites-tu → habite tu, es-tu → è tu).
+  [/\b(\p{L}+)-(tu|vous|nous)\b/giu, (m, v, p) => {
+    if (/^tu$/i.test(p)) {
+      if (/^es$/i.test(v)) v = (v[0] === 'E' ? 'È' : 'è');
+      else if (/^(as|vas)$/i.test(v) || (v.length > 2 && /[sx]$/i.test(v) && !/(ss|ais|ois)$/i.test(v))) v = v.slice(0, -1);
+    }
+    return v + ' ' + p; }],
+  // viennent-ils → vienne tils (le « ent » du pluriel est muet, la liaison en t s'entend)
+  [/\b(\p{L}{2,})ent-(ils|elles)\b/giu, '$1e t$2'],
   [/\b(est)-(on|il|elle|ils|elles)\b/gi, (m, v, p) => (v[0] === 'E' ? 'È' : 'è') + ' t' + p],
   [/\b([\p{L}]+)-t-(on|il|elle|ils|elles)\b/giu, '$1 t$2'],
   [/\b(\p{L}+)([td])-(on|il|elle|ils|elles)\b/giu, (m, w, td, p) => (td === 't' && /en$/i.test(w)) ? m : w + ' t' + p],
 ];
-function frVoice(text){ for(const [re, rep] of FR_VOICE) text = text.replace(re, rep); return text; }
+function frVoice(text){ text = frQuestions(text); for(const [re, rep] of FR_VOICE) text = text.replace(re, rep); return text; }
 function frIsolated(word){
   return word.replace(/\s*\(=[^)]*\)/g, '').trim()
     .replace(/(^|[\s'-])ce$/i, '$1ceux')
