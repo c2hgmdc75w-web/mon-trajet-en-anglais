@@ -68,6 +68,16 @@ for (const [c, levels] of Object.entries(D)) {
     pos[c].push(where.join(','));
   }));
 }
+// Groupes C à F (champ group de LANGS dans www/js/app.js) : dans le module 1 du niveau 1,
+// 4 synthèses de grammaire exactement, après les leçons 5, 10, 15 et 20.
+const APP = require('fs').readFileSync(require('path').join(__dirname, '..', '..', 'www', 'js', 'app.js'), 'utf8');
+const GROUP = {}; for (const m of APP.matchAll(/\n  (\w+):\s+\{ name:'[^']*', group:'([A-F])'/g)) GROUP[m[1]] = m[2];
+for (const c of Object.keys(D)) {
+  if (!GROUP[c]) { add(c, 'groupe', `${c} : pas de champ group dans LANGS`); continue; }
+  if (!'CDEF'.includes(GROUP[c])) continue;
+  const where = D[c][0].modules[0].lessons.map((l, i) => l.tip || l.tip2 ? i : -1).filter(i => i >= 0).join(',');
+  if (where !== '4,9,14,19') add(c, 'groupe', `groupe ${GROUP[c]} : module 1 avec des points de grammaire après les leçons ${where.split(',').map(i => +i + 1).join(',')} (attendu : 5,10,15,20)`);
+}
 const kinds = new Set(); Object.values(issues).forEach(o => Object.keys(o).forEach(k => kinds.add(k)));
 for (const c of Object.keys(D)) console.log(c.padEnd(5), [...kinds].map(k => `${k}:${(issues[c] && issues[c][k] || []).length}`).filter(s => !s.endsWith(':0')).join('  ') || 'RAS');
 console.log('\nPositions des points de grammaire (index de leçon, par module) :');

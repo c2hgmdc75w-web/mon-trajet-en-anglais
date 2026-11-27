@@ -16316,5 +16316,51 @@
     }
    }
   ]
+ },
+ "tipsReplace": {
+  "0-0-0": null,
+  "0-0-1": null,
+  "0-0-2": null,
+  "0-0-3": null,
+  "0-0-4": {
+   "title": "Ce que tu sais déjà : leçons 1 à 5",
+   "example": "Je suis professeur. — ผม<b>เป็น</b>ครูครับ",
+   "body": "Tu as fait cinq leçons. Voici l'essentiel à retenir. Premièrement, le verbe ne change jamais : « phǒm pai », je vais, « khǎo pai », il va, « rao pai », nous allons. Deuxièmement, la mélodie de chaque mot compte : « klâi », près, et « klai », loin, ne diffèrent que par le ton. Troisièmement, à la fin de la phrase, un homme ajoute « khráp » et une femme « khâ », pour être poli. Quatrièmement, les pronoms : « phǒm », je pour un homme, « chǎn », je pour une femme, « khun », vous. Enfin, être, entre deux noms, se dit « pen » : « Phǒm pen khruu khráp », je suis professeur.",
+   "exampleRo": "Phǒm pen khruu khráp.",
+   "lit": "je (homme) · être · professeur · [politesse]"
+  },
+  "0-0-5": null,
+  "0-0-6": null,
+  "0-0-7": null,
+  "0-0-8": null,
+  "0-0-9": {
+   "title": "Ce que tu sais déjà : leçons 6 à 10",
+   "example": "Et voici mon appartement. — แล้วนี่คือห้อง<b>ของ</b>ผมครับ",
+   "body": "Tu as fait dix leçons. Voici l'essentiel des cinq dernières. Premièrement, pour poser une question, on ajoute « mái » à la fin : « Thîi-nîi wâang mái khráp ? », cette place est libre ? Deuxièmement, pour dire non, on met « mâi » devant le mot, avec une voix qui descend : « mâi phèt », pas épicé. Troisièmement, l'adjectif se dit sans verbe être : « aa-hǎan à-ròi », la nourriture est bonne. Quatrièmement, « nîi » veut dire ceci et « nân » cela : « Nîi à-rai khráp ? », qu'est-ce que c'est ? Enfin, de se dit « khǎwng » : « Hâwng khǎwng phǒm », ma chambre, mot à mot chambre de moi.",
+   "exampleRo": "Láew nîi khue hâwng khǎwng phǒm khráp.",
+   "lit": "et puis · ceci · c'est · chambre · [de] · je · [politesse]"
+  },
+  "0-0-10": null,
+  "0-0-11": null,
+  "0-0-12": null,
+  "0-0-13": null,
+  "0-0-14": {
+   "title": "Ce que tu sais déjà : leçons 11 à 15",
+   "example": "Où est la station de métro ? — สถานีรถไฟใต้ดินอยู่<b>ที่ไหน</b>ครับ",
+   "body": "Tu as fait quinze leçons. Voici l'essentiel des cinq dernières. Premièrement, compter : « nùeng, sǎwng, sǎam », un, deux, trois, jusqu'à « sìp », dix. Deuxièmement, « mii » veut dire avoir, et aussi il y a : « Mii náam yen mái khráp ? », vous avez de l'eau fraîche ? Troisièmement, pour dire où l'on est, on emploie « yùu » : « yùu thîi-nǎi ? », c'est où ? Quatrièmement, l'adjectif se place après le nom, et les couleurs aussi : « sǐi daeng », rouge, mot à mot couleur rouge. Enfin, les petits mots des questions : « à-rai, thîi-nǎi, khrai, mûea-rài », quoi, où, qui, quand.",
+   "exampleRo": "Sà-thǎa-nii rót-fai-tâi-din yùu thîi-nǎi khráp?",
+   "lit": "station · train · sous · terre · se trouver · où · [politesse]"
+  },
+  "0-0-15": null,
+  "0-0-16": null,
+  "0-0-17": null,
+  "0-0-18": null,
+  "0-0-19": {
+   "title": "Ce que tu sais déjà : leçons 16 à 20",
+   "example": "Ce n'est rien, continuez ! — <b>ไม่เป็นไร</b>ครับ พูดต่อไปครับ",
+   "body": "Tu as fini le module. Voici l'essentiel des cinq dernières leçons. Premièrement, aussi se dit avec « kâw » avant le verbe et « dûai » à la fin : « Phǒm kâw hǐw dûai khráp », moi aussi, j'ai faim. Deuxièmement, l'heure se dit autrement selon le moment de la journée : « pàet moong cháao », huit heures du matin, « bàai sǎam moong », trois heures de l'après-midi. Troisièmement, vouloir se dit « yàak » : « yàak kin », je veux manger. Quatrièmement, pour proposer, on ajoute « kan thòe » à la fin : « Pai kin khâaw kan thòe khráp », allons manger. Enfin, les formules magiques : « sà-wàt-dii, khàwp-khun, khǎw-thôot, mâi pen rai », bonjour, merci, pardon, et ce n'est rien. Tu as maintenant de quoi te débrouiller dans les situations de tous les jours.",
+   "exampleRo": "Mâi pen rai khráp, phûut tàw pai khráp.",
+   "lit": "ne pas · être · quoi · [politesse] · parler · continuer · aller · [politesse]"
+  }
  }
 }

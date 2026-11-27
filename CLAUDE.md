@@ -21,13 +21,13 @@ l'oreille sur son iPhone, souvent en voiture.
 | Chemin | Rôle |
 |---|---|
 | `www/index.html`, `www/css/style.css` | L'écran (accueil, lecture, voix, achat) |
-| `www/js/app.js` | Toute la logique : registre `LANGS`, construction des leçons (`buildLessonSegments`, `buildScriptSegments`), points de grammaire, évaluations, achats RevenueCat, corrections de la voix française (`FR_VOICE`, `frVoice`, `frQuestions`, `frIsolated`) |
+| `www/js/app.js` | Toute la logique : registre `LANGS` (avec `group`, A à F), construction des leçons (`buildLessonSegments`, `buildScriptSegments`), points de grammaire, évaluations, achats RevenueCat, corrections de la voix française (`FR_VOICE`, `frVoice`, `frQuestions`, `frIsolated`) |
 | `www/data/<code>.js` | Le contenu d'une langue : `window.MT_DATA['<code>']` = 3 niveaux × 3 modules × 20 leçons × 10 phrases `{fr, tgt, ro?, lit?, note?}` ; une leçon peut porter `tip`, `tip2`, `vocab`, `series`, `wordlist`, `debut`, `script`. **Fichier généré : ne jamais le modifier à la main.** |
 | `tools/build_data.js` | Fabrique `www/data/*.js` en appliquant les corrections ci-dessous |
 | `tools/phrase_fix/<code>.json` | Corrections de phrases et de titres (`"0-0-3#2"` = niveau 1, module 1, leçon 4, phrase 3) |
 | `tools/tips_fix/`, `tools/tips_say/` | Corrections des points de grammaire ; mots à faire lire par la voix native |
 | `tools/extra/<code>.json` | Compléments : `vocab`, `series`, `notes`, `words`, `cats`, `debut`, `tips2`, `scripts`, `tipsReplace` |
-| `tools/extra/gen/` | Chaîne de production du contenu (consignes, plans, scripts, contrôles). Chinois module 1 : `zh_m1_plan.js` → `zh_m1_prompt.md` → `zh_script_0-0-N.md` → `zh_m1_check_script.js` → `zh_m1_apply.js` |
+| `tools/extra/gen/` | Chaîne de production du contenu (consignes, plans, scripts, contrôles). Chinois module 1 : `zh_m1_plan.js` → `zh_m1_prompt.md` → `zh_script_0-0-N.md` → `zh_m1_check_script.js` → `zh_m1_apply.js`. Mot à mot dit (id, pl, tr, vi) : `lit_to_notes.js` (+ `lit_words_manual.json`). Synthèses du module 1 (groupes C à F) : `syntheses_m1.json` → `syntheses_m1_apply.js` |
 | `tools/audit/` | Contrôles avant chaque build (voir `tools/audit/README.md`) |
 | `ios-patch/*.swift` | Remplace le code iOS du plugin de synthèse vocale : lecture en séquence, écran verrouillé, CarPlay/Bluetooth, reprise après un appel (même avec un GPS au premier plan). Copié pendant le build. **Ne peut pas être compilé ici** : seul le build Codemagic le vérifie. |
 | `codemagic.yaml` | Le build iOS (le dossier `ios/` est regénéré à chaque build, il n'est pas dans le dépôt) |
@@ -52,6 +52,9 @@ node tools/audit/data_unquoted.js
 NODE_PATH=$(npm root -g) node tools/audit/app_all_programs.js
 NODE_PATH=$(npm root -g) node tools/audit/app_scenarios.js
 NODE_PATH=$(npm root -g) node tools/audit/app_layout.js
+
+# Mot à mot dit (id, pl, tr, vi) et synthèses du module 1 (groupes C à F)
+node tools/extra/gen/lit_to_notes.js && node tools/extra/gen/syntheses_m1_apply.js && node tools/build_data.js
 
 # Chinois, module 1 (nouvelle méthode)
 node tools/extra/gen/zh_m1_check_script.js <n>   # depuis tools/extra/gen

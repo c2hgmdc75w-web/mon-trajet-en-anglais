@@ -1,231 +1,67 @@
 {
- "0-0-0": {
+ "0-0-4": {
   "jestem": "jestem",
   "ja": "ja",
-  "Jestem": "Jestem",
-  "mieszkam": "mieszkam",
-  "Pracuję w centrum": "Pracuję w centrum",
-  "pracuję": "pracuję",
-  "centrum": "centrum",
-  "piję kawę": "piję kawę",
-  "mówię po polsku": "mówię po polsku",
-  "w": "w"
- },
- "0-0-1": {
   "dziękuję": "dziękuję",
   "poproszę": "poproszę",
-  "bagietka": "bagietka",
-  "dzię": "dzię",
-  "ku": "ku",
-  "ję": "ję",
-  "pro": "pro"
- },
- "0-0-2": {
   "dzień dobry": "dzień dobry",
   "cześć": "cześć",
   "do widzenia": "do widzenia",
-  "Dzień dobry": "Dzień dobry",
-  "dobry wieczór": "dobry wieczór",
-  "na razie": "na razie",
-  "dobranoc": "dobranoc"
- },
- "0-0-3": {
-  "Nie": "Nie",
   "nie": "nie",
-  "Piję": "Piję",
-  "nie piję": "nie piję",
-  "Rozumiem": "Rozumiem",
   "nie rozumiem": "nie rozumiem",
-  "jest": "jest",
-  "nie jest": "nie jest",
-  "kawę": "kawę",
-  "kawy": "kawy"
- },
- "0-0-4": {
-  "Czy": "Czy",
   "czy": "czy",
-  "Mogę zapłacić kartą": "Mogę zapłacić kartą",
-  "czy mogę zapłacić kartą ?": "czy mogę zapłacić kartą?",
   "czy jest tu wifi ?": "czy jest tu wifi?"
  },
- "0-0-5": {
+ "0-0-9": {
   "ja": "ja",
   "ty": "ty",
   "on": "on",
   "ona": "ona",
   "my": "my",
-  "wy": "wy",
-  "oni": "oni",
-  "ja jestem z Paryża": "ja jestem z Paryża",
-  "on nie mówi po francusku": "on nie mówi po francusku"
- },
- "0-0-6": {
-  "Być": "Być",
-  "jestem": "jestem",
-  "jesteś": "jesteś",
-  "jest": "jest",
-  "być": "być",
-  "jesteśmy": "jesteśmy",
-  "jesteście": "jesteście",
-  "są": "są",
-  "szef jest na spotkaniu": "szef jest na spotkaniu",
   "jestem, jesteś, jest": "jestem, jesteś, jest",
-  "eś": "eś",
-  "eśmy": "eśmy"
- },
- "0-0-7": {
+  "są": "są",
   "ser": "ser",
-  "targ": "targ",
   "zupa": "zupa",
   "mleko": "mleko",
-  "jabłko": "jabłko",
-  "pomidor": "pomidor"
- },
- "0-0-8": {
-  "To jest": "To jest",
   "to jest": "to jest",
-  "to": "to",
-  "jest": "jest",
-  "To jest moja kuchnia": "To jest moja kuchnia",
   "To jest moja żona": "To jest moja żona",
-  "co to jest ?": "co to jest?"
- },
- "0-0-9": {
-  "dobry": "dobry",
-  "dobra": "dobra",
-  "dobre": "dobre",
-  "Żurek jest dobry": "Żurek jest dobry",
   "Zupa jest dobra": "Zupa jest dobra",
-  "Danie jest dobre": "Danie jest dobre",
-  "pierogi są dobre": "pierogi są dobre",
-  "żurek": "żurek"
+  "Danie jest dobre": "Danie jest dobre"
  },
- "0-0-10": {
-  "Mieć": "Mieć",
+ "0-0-14": {
   "mam": "mam",
   "masz": "masz",
   "ma": "ma",
-  "mieć": "mieć",
-  "mamy": "mamy",
-  "macie": "macie",
-  "mają": "mają",
-  "mam małe mieszkanie": "mam małe mieszkanie",
-  "masz klucze ?": "masz klucze?",
   "nie mam": "nie mam",
-  "ma pan chwilę ?": "ma pan chwilę?"
- },
- "0-0-11": {
   "jeden": "jeden",
   "dwa": "dwa",
   "trzy": "trzy",
   "cztery": "cztery",
   "pięć": "pięć",
-  "sześć": "sześć",
-  "siedem": "siedem",
-  "osiem": "osiem",
-  "dziewięć": "dziewięć",
-  "dziesięć": "dziesięć",
-  "Jeden": "Jeden",
-  "jedna": "jedna",
-  "jedno": "jedno",
-  "dwie": "dwie",
-  "dwie butelki": "dwie butelki",
-  "trzy złote": "trzy złote",
-  "pięć złotych": "pięć złotych"
- },
- "0-0-12": {
-  "Pan": "Pan",
-  "pani": "pani",
   "pan": "pan",
-  "czy pani jest z Warszawy ?": "czy pani jest z Warszawy?",
-  "ma pan chwilę ?": "ma pan chwilę?"
- },
- "0-0-13": {
-  "poproszę kawę": "poproszę kawę",
-  "Kawa": "Kawa",
-  "kawę": "kawę",
-  "Zupa": "Zupa",
+  "pani": "pani",
+  "ma pan chwilę ?": "ma pan chwilę?",
+  "zupa": "zupa",
   "zupę": "zupę",
-  "herbata": "herbata",
-  "herbatę": "herbatę",
-  "czarna kawa": "czarna kawa",
-  "czarną kawę": "czarną kawę",
-  "poproszę": "poproszę",
-  "ę": "ę"
- },
- "0-0-14": {
   "co": "co",
   "gdzie": "gdzie",
   "kto": "kto",
-  "ile": "ile",
-  "Co": "Co",
-  "Gdzie": "Gdzie",
-  "Kto": "Kto",
-  "gdzie jest przystanek ?": "gdzie jest przystanek?",
-  "kto to jest ?": "kto to jest?",
-  "ile kosztuje bilet ?": "ile kosztuje bilet?",
-  "czy": "czy",
-  "co, gdzie, kto, ile": "co, gdzie, kto, ile"
+  "ile": "ile"
  },
- "0-0-15": {
+ "0-0-19": {
   "która godzina ?": "która godzina?",
   "o ósmej": "o ósmej",
-  "Jest siódma": "Jest siódma",
-  "o dziewiątej": "o dziewiątej",
-  "o szóstej": "o szóstej",
-  "w południe": "w południe",
-  "ej": "ej"
- },
- "0-0-16": {
-  "Chcę": "Chcę",
-  "chcę zobaczyć": "chcę zobaczyć",
-  "chcę zjeść": "chcę zjeść",
   "chcę": "chcę",
   "idę": "idę",
   "mogę": "mogę",
-  "piszę": "piszę",
-  "poproszę": "poproszę",
-  "chcesz": "chcesz",
-  "chce": "chce",
-  "-ę": "ę",
-  "ę": "ę"
- },
- "0-0-17": {
-  "być": "być",
   "jestem studentem": "jestem studentem",
-  "student": "student",
-  "inżynier": "inżynier",
-  "jestem inżynierem": "jestem inżynierem",
-  "lekarka": "lekarka",
-  "jest lekarką": "jest lekarką",
-  "to jest": "to jest",
-  "to jest student": "to jest student",
-  "jestem": "jestem",
-  "ą": "ą"
- },
- "0-0-18": {
-  "Też": "Też",
-  "tylko": "tylko",
   "też": "też",
+  "tylko": "tylko",
   "ja też": "ja też",
-  "ona też": "ona też",
-  "ja też lubię ten park": "ja też lubię ten park",
-  "Tylko": "Tylko",
   "tylko herbatę": "tylko herbatę",
-  "tylko dziesięć minut": "tylko dziesięć minut"
- },
- "0-0-19": {
   "proszę": "proszę",
   "dziękuję": "dziękuję",
-  "przepraszam": "przepraszam",
-  "Proszę": "Proszę",
-  "Dziękuję": "Dziękuję",
-  "bardzo dziękuję": "bardzo dziękuję",
-  "Przepraszam": "Przepraszam",
-  "przepraszam, może pan powtórzyć ?": "przepraszam, może pan powtórzyć?",
-  "pro": "pro",
-  "ku": "ku",
-  "pra": "pra"
+  "przepraszam": "przepraszam"
  },
  "0-1-1": {
   "Dzisiaj": "Dzisiaj",

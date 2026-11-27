@@ -13,7 +13,7 @@
 //   tools/tips_say/<code>.json    { "<niv>-<mod>-<leçon>": { "<passage entre « »>": "<texte lu par la voix native>" } }
 //   tools/extra/<code>.json       { vocab: { "<niv>-<mod>-<leçon>": [ {fr, tgt, ro?}, … ] },        mots de vocabulaire (évaluations mixtes)
 //                                   series: { "<niv>-<mod>-<leçon>": { title, intro, chunks: [[{fr, tgt, ro?}, …], …] } },   séries fermées
-//                                   notes: { "<niv>-<mod>-<leçon>": [ { lit | words, note, say }, … une par phrase ] },   mot à mot parlé + explication par phrase
+//                                   notes: { "<niv>-<mod>-<leçon>": [ { lit | words, note?, say? }, … une par phrase ] },   mot à mot parlé + explication par phrase (facultative)
 //                                          (words = [[français, mot cible], …] dans l'ordre de la phrase ; sinon lit est aligné automatiquement, chinois seulement)
 //                                   words: { "<niv>-<mod>-<leçon>#<phrase>": [ "mot cible 1", … ] } }   découpe à la main quand l'alignement automatique sur le mot à mot échoue
 //
@@ -126,7 +126,7 @@ function build(code, levels) {
       // corrections de phrase d'abord : le mot à mot est contrôlé sur la phrase corrigée
       const pf = PFIX[`${id}#${i}`]; if (pf) { used.PFIX.add(`${id}#${i}`);
       for (const k of ['fr', 'tgt', 'ro', 'lit']) if (k in pf) { if (pf[k] === null || pf[k] === '') delete p[k]; else p[k] = pf[k]; } }
-      if (nt) { const pw = nt[i].words; p.note = { lit: pw ? pw.map(w => w[0]).join(', ') : nt[i].lit, text: nt[i].note, say: nt[i].say || {} }; try { p.note.words = pw ? checkWords(code, `${id}#${i}`, p, pw) : alignWords(code, `${id}#${i}`, p, nt[i].lit, WORDS[`${id}#${i}`]); } catch (e) { alignErr.push(e.message); } if (WORDS[`${id}#${i}`]) used.WORDS.add(`${id}#${i}`); } else delete p.note;
+      if (nt) { const pw = nt[i].words; p.note = { lit: pw ? pw.map(w => w[0]).join(', ') : nt[i].lit, text: nt[i].note || '', say: nt[i].say || {} }; try { p.note.words = pw ? checkWords(code, `${id}#${i}`, p, pw) : alignWords(code, `${id}#${i}`, p, nt[i].lit, WORDS[`${id}#${i}`]); } catch (e) { alignErr.push(e.message); } if (WORDS[`${id}#${i}`]) used.WORDS.add(`${id}#${i}`); } else delete p.note;
       phrases++;
     });
     // Leçon entièrement scénarisée (extra.scripts) : suite d'étapes dites telles quelles,

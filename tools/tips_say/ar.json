@@ -1,216 +1,52 @@
 {
- "0-0-0": {
-  "al-kitabu": "الْكِتَابُ",
-  "ahlan": "أَهْلًا",
-  "hunaka": "هُنَاكَ"
- },
- "0-0-1": {
-  "ana": "أَنَا",
-  "talibun": "طَالِبٌ",
+ "0-0-4": {
   "ana talibun": "أَنَا طَالِبٌ",
-  "al-funduqu qaribun": "الْفُنْدُقُ قَرِيبٌ",
-  "ana fi al-funduqi": "أَنَا فِي الْفُنْدُقِ"
- },
- "0-0-2": {
-  "al-qahwa": "الْقَهْوَة",
   "al-kitab": "الْكِتَاب",
   "ash-shams": "الشَّمْس",
-  "ash-shayu sakhinun": "الشَّايُ سَاخِنٌ",
-  "al-qahwatu": "الْقَهْوَةُ",
-  "al-qamar": "الْقَمَر",
-  "as-suq": "السُّوق",
-  "an-nadil": "النَّادِل"
- },
- "0-0-3": {
-  "Ana": "أَنَا",
-  "huwa": "هُوَ",
-  "hiya": "هِيَ",
-  "anta": "أَنْتَ",
-  "anti": "أَنْتِ",
-  "anti latifatun ya Layla": "أَنْتِ لَطِيفَةٌ يَا لَيْلَى",
-  "ya": "يَا",
-  "anta latifun": "أَنْتَ لَطِيفٌ",
-  "anti latifatun": "أَنْتِ لَطِيفَةٌ",
-  "huwa saiqu taksi": "هُوَ سَائِقُ تَاكْسِي",
-  "ana, anta, anti, huwa, hiya": "أَنَا، أَنْتَ، أَنْتِ، هُوَ، هِيَ"
- },
- "0-0-4": {
+  "ana, anta, anti, huwa, hiya": "أَنَا، أَنْتَ، أَنْتِ، هُوَ، هِيَ",
   "Talib": "طَالِب",
   "taliba": "طَالِبَة",
-  "jamil": "جَمِيل",
-  "jamila": "جَمِيلَة",
-  "huwa urduniyyun wa hiya urduniyyatun": "هُوَ أُرْدُنِيٌّ وَهِيَ أُرْدُنِيَّةٌ",
-  "ash-shari": "الشَّارِع",
-  "madina": "مَدِينَة",
-  "shaqqa": "شَقَّة"
+  "huwa urduniyyun wa hiya urduniyyatun": "هُوَ أُرْدُنِيٌّ وَهِيَ أُرْدُنِيَّةٌ"
  },
- "0-0-5": {
+ "0-0-9": {
   "hal": "هَلْ",
-  "Anta mutabun": "أَنْتَ مُتْعَبٌ",
   "hal anta mutabun": "هَلْ أَنْتَ مُتْعَبٌ",
-  "anta talibun ?": "أَنْتَ طَالِبٌ؟",
-  "hali al-kunafatu sakhinatun ?": "هَلِ الْكُنَافَةُ سَاخِنَةٌ؟",
-  "naam": "نَعَمْ",
-  "la": "لَا"
- },
- "0-0-6": {
   "hadha": "هَذَا",
   "hadhihi": "هَذِهِ",
-  "hadha maalamun": "هَذَا مَعْلَمٌ",
-  "hadhihi al-madinatu": "هَذِهِ الْمَدِينَةُ",
   "hadhihi al-madinatu qadimatun": "هَذِهِ الْمَدِينَةُ قَدِيمَةٌ",
-  "hadha al-manzaru": "هَذَا الْمَنْظَرُ",
-  "hadha Karimun": "هَذَا كَرِيمٌ",
-  "hadhihi Layla": "هَذِهِ لَيْلَى",
-  "Hadha": "هَذَا"
- },
- "0-0-7": {
   "laysa": "لَيْسَ",
-  "lastu": "لَسْتُ",
-  "lasta": "لَسْتَ",
-  "lasti": "لَسْتِ",
-  "laysat": "لَيْسَتْ",
   "at-taamu laysa ghaliyan": "الطَّعَامُ لَيْسَ غَالِيًا",
-  "baidun": "بَعِيدٌ",
-  "laysa baidan": "لَيْسَ بَعِيدًا",
-  "ana mutabun": "أَنَا مُتْعَبٌ",
-  "lastu mutaban": "لَسْتُ مُتْعَبًا"
- },
- "0-0-8": {
   "kitab": "كِتَاب",
   "kitabi": "كِتَابِي",
   "kitabuka": "كِتَابُكَ",
-  "kitabuki": "كِتَابُكِ",
-  "kitabuhu": "كِتَابُهُ",
-  "kitabuha": "كِتَابُهَا",
-  "kitabuka ala at-tawilati": "كِتَابُكَ عَلَى الطَّاوِلَةِ",
-  "ghurfa": "غُرْفَة",
-  "ghurfati": "غُرْفَتِي",
-  "shaqqa": "شَقَّة",
-  "shaqqati": "شَقَّتِي"
+  "kitabu at-talibi": "كِتَابُ الطَّالِبِ"
  },
- "0-0-9": {
-  "kitabu at-talibi": "كِتَابُ الطَّالِبِ",
-  "miftahu ash-shaqqati": "مِفْتَاحُ الشَّقَّةِ",
-  "at-talibi": "الطَّالِبِ",
-  "ash-shaqqati": "الشَّقَّةِ",
-  "ghurfatu Layla": "غُرْفَةُ لَيْلَى",
-  "kitab at-talib": "كِتَابُ الطَّالِبِ"
- },
- "0-0-10": {
-  "Ma": "مَا",
-  "man": "مَنْ",
-  "ayna": "أَيْنَ",
-  "mata": "مَتَى",
-  "kayfa": "كَيْفَ",
-  "kayfa haluka ?": "كَيْفَ حَالُكَ؟",
-  "ayna as-suqu ?": "أَيْنَ السُّوقُ؟",
-  "ma": "مَا",
-  "ma hadha ?": "مَا هَذَا؟",
-  "man hadhihi as-sayyidatu ?": "مَنْ هَذِهِ السَّيِّدَةُ؟",
-  "ma, man, ayna, mata, kayfa": "مَا، مَنْ، أَيْنَ، مَتَى، كَيْفَ"
- },
- "0-0-11": {
+ "0-0-14": {
+  "ma, man, ayna, mata, kayfa": "مَا، مَنْ، أَيْنَ، مَتَى، كَيْفَ",
   "aktubu": "أَكْتُبُ",
   "taktubu": "تَكْتُبُ",
   "yaktubu": "يَكْتُبُ",
-  "yaktubu Karimun fi daftarihi": "يَكْتُبُ كَرِيمٌ فِي دَفْتَرِهِ",
-  "ashrabu": "أَشْرَبُ",
-  "tashrabu Layla": "تَشْرَبُ لَيْلَى",
-  "aktubu, taktubu, yaktubu": "أَكْتُبُ، تَكْتُبُ، يَكْتُبُ"
- },
- "0-0-12": {
-  "Kataba": "كَتَبَ",
   "kitab": "كِتَاب",
   "katib": "كَاتِب",
   "maktab": "مَكْتَب",
-  "maktaba": "مَكْتَبَة",
-  "al-kitabu ala al-maktabi": "الْكِتَابُ عَلَى الْمَكْتَبِ",
-  "maktub": "مَكْتُوب",
-  "matam": "مَطْعَم"
+  "fi, ala, min, ila": "فِي، عَلَى، مِنْ، إِلَى",
+  "Indi hatifun jadidun": "عِنْدِي هَاتِفٌ جَدِيدٌ"
  },
- "0-0-13": {
-  "Fi": "فِي",
-  "ala": "عَلَى",
-  "min": "مِنْ",
-  "ila": "إِلَى",
-  "adhhabu mina al-funduqi ila al-qalati": "أَذْهَبُ مِنَ الْفُنْدُقِ إِلَى الْقَلْعَةِ",
-  "mina": "مِنَ",
-  "fi ash-sharii": "فِي الشَّارِعِ",
-  "ala at-tawilati": "عَلَى الطَّاوِلَةِ",
-  "nahnu fi at-taksi": "نَحْنُ فِي التَّاكْسِي",
-  "fi, ala, min, ila": "فِي، عَلَى، مِنْ، إِلَى"
- },
- "0-0-14": {
-  "indi": "عِنْدِي",
-  "Indi hatifun jadidun": "عِنْدِي هَاتِفٌ جَدِيدٌ",
-  "indaka": "عِنْدَكَ",
-  "indaki": "عِنْدَكِ",
-  "indahu": "عِنْدَهُ",
-  "indaha": "عِنْدَهَا",
-  "inda Karimin": "عِنْدَ كَرِيمٍ",
-  "laysa": "لَيْسَ",
-  "laysa indi waqtun": "لَيْسَ عِنْدِي وَقْتٌ",
-  "Indi": "عِنْدِي"
- },
- "0-0-15": {
+ "0-0-19": {
   "wahid": "وَاحِد",
   "ithnan": "اِثْنَان",
   "thalatha": "ثَلَاثَة",
-  "arbaa": "أَرْبَعَة",
-  "khamsa": "خَمْسَة",
-  "sitta": "سِتَّة",
-  "saba": "سَبْعَة",
-  "thamaniya": "ثَمَانِيَة",
-  "tisa": "تِسْعَة",
   "ashara": "عَشَرَة",
-  "wahidun, ithnani, thalathatun": "وَاحِدٌ، اِثْنَانِ، ثَلَاثَةٌ",
-  "kitabani": "كِتَابَانِ",
-  "arbaatu dananira": "أَرْبَعَةُ دَنَانِيرَ",
-  "thalathu akhawatin": "ثَلَاثُ أَخَوَاتٍ",
-  "as-saatu al-ashiratu": "السَّاعَةُ الْعَاشِرَةُ"
- },
- "0-0-16": {
   "qamisun abyadu": "قَمِيصٌ أَبْيَضُ",
   "as-sutratu al-khadrau": "السُّتْرَةُ الْخَضْرَاءُ",
-  "as-sutratu jamilatun": "السُّتْرَةُ جَمِيلَةٌ",
-  "as-sutratu al-khadrau jamilatun": "السُّتْرَةُ الْخَضْرَاءُ جَمِيلَةٌ",
-  "akhdar": "أَخْضَر",
-  "khadra": "خَضْرَاء",
-  "abyad": "أَبْيَض",
-  "bayda": "بَيْضَاء"
- },
- "0-0-17": {
   "hunaka": "هُنَاكَ",
-  "hunaka suqun": "هُنَاكَ سُوقٌ",
   "hunaka suqun qaribun min huna": "هُنَاكَ سُوقٌ قَرِيبٌ مِنْ هُنَا",
-  "hunaka thaljun fi ash-shitai": "هُنَاكَ ثَلْجٌ فِي الشِّتَاءِ",
-  "hunaka ghuyumun": "هُنَاكَ غُيُومٌ",
-  "hal hunaka matarun ?": "هَلْ هُنَاكَ مَطَرٌ؟",
-  "huna": "هُنَا",
-  "Hunaka": "هُنَاكَ",
-  "hal": "هَلْ"
- },
- "0-0-18": {
   "la": "لَا",
-  "Ashrabu": "أَشْرَبُ",
-  "la ashrabu": "لَا أَشْرَبُ",
-  "la ashrabu al-qahwata fi al-masai": "لَا أَشْرَبُ الْقَهْوَةَ فِي الْمَسَاءِ",
   "la afhamu": "لَا أَفْهَمُ",
-  "la arifu": "لَا أَعْرِفُ",
-  "laysa": "لَيْسَ",
-  "lastu mutaban": "لَسْتُ مُتْعَبًا"
- },
- "0-0-19": {
-  "Min fadlik": "مِنْ فَضْلِك",
-  "min fadliki": "مِنْ فَضْلِكِ",
-  "Shukran": "شُكْرًا",
-  "shukran jazilan": "شُكْرًا جَزِيلًا",
-  "afwan": "عَفْوًا",
-  "ahlan wa sahlan": "أَهْلًا وَسَهْلًا",
-  "shayun bin-nanai min fadlika": "شَايٌ بِالنَّعْنَاعِ مِنْ فَضْلِكَ",
   "min fadlik": "مِنْ فَضْلِك",
-  "shukran": "شُكْرًا"
+  "shukran": "شُكْرًا",
+  "afwan": "عَفْوًا",
+  "ahlan wa sahlan": "أَهْلًا وَسَهْلًا"
  },
  "0-1-1": {
   "al-haqiba": "الْحَقِيبَة",

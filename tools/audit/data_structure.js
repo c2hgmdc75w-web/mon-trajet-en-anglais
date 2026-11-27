@@ -49,6 +49,8 @@ for (const [c, levels] of Object.entries(D)) {
           if (/[Ѐ-ӿ֐-ۿऀ-෿฀-๿぀-ヿ一-鿿가-힯]/.test(p.fr)) add(c, 'script', `${pid} fr écriture non latine: ${p.fr}`);
           if (LIT_LANGS.has(c)) {
             if (a === 0 && !(p.lit && p.lit.trim())) add(c, 'lit', `${pid} lit manquant (niveau 1)`);
+            // mot à mot DIT au niveau 1 (note.words), sauf leçon entièrement scénarisée (chinois, module 1)
+            if (a === 0 && !l.script && !(p.note && Array.isArray(p.note.words) && p.note.words.length)) add(c, 'mot_a_mot_dit', `${pid} mot à mot non dit (note.words absent)`);
             if (a > 0 && p.lit) add(c, 'lit', `${pid} lit inattendu (niveau ${a + 1})`);
           } else if (p.lit) add(c, 'lit', `${pid} lit inattendu`);
           const f = p.fr.toLowerCase().replace(/[\s  ]+/g, ' ').trim();

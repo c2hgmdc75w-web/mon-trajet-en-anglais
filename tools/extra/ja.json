@@ -16104,5 +16104,51 @@
     }
    }
   ]
+ },
+ "tipsReplace": {
+  "0-0-0": null,
+  "0-0-1": null,
+  "0-0-2": null,
+  "0-0-3": null,
+  "0-0-4": {
+   "title": "Ce que tu sais déjà : leçons 1 à 5",
+   "example": "Je lis un livre dans le train. — 電車で本を<b>読みます</b>。",
+   "body": "Tu as fait cinq leçons. Voici l'essentiel à retenir. Premièrement, on n'a pas besoin de dire je : « Furansujin desu », mot à mot Français, être, veut dire je suis français. Deuxièmement, « desu » est le verbe être poli, toujours à la fin : « Konbini wa benri desu », la supérette, c'est pratique. Troisièmement, le petit mot « wa » annonce de quoi on parle : « Kyō wa ii tenki desu », aujourd'hui, il fait beau. Quatrièmement, pour poser une question, on ajoute « ka » à la fin : « Gakusei desu ka », vous êtes étudiant ? Enfin, le verbe se place toujours à la fin : « Ongaku o kikimasu », j'écoute de la musique.",
+   "exampleRo": "Densha de hon o yomimasu.",
+   "lit": "train · [lieu] · livre · [objet] · lire (poli)"
+  },
+  "0-0-5": null,
+  "0-0-6": null,
+  "0-0-7": null,
+  "0-0-8": null,
+  "0-0-9": {
+   "title": "Ce que tu sais déjà : leçons 6 à 10",
+   "example": "J'achète un bentō. — お弁当<b>を</b>買います。",
+   "body": "Tu as fait dix leçons. Voici l'essentiel des cinq dernières. Premièrement, « Kore, sore, are » veulent dire ceci, près de moi, cela, près de toi, et ce là-bas, loin de nous deux. Deuxièmement, le petit mot « no » veut dire de : « Satō-san no jitensha », le vélo de monsieur Satō. Troisièmement, pour dire ce n'est pas, on remplace « desu » par « ja arimasen » : « Gakusei ja arimasen », je ne suis pas étudiant. Quatrièmement, les verbes polis finissent par « masu », pour le présent comme pour le futur : « Ashita, Asakusa ni ikimasu », demain, je vais à Asakusa. Enfin, le petit mot « o » se place après l'objet : « Mizu o nomimasu », je bois de l'eau.",
+   "exampleRo": "Obentō o kaimasu.",
+   "lit": "honorable-bentō · [objet] · acheter (poli)"
+  },
+  "0-0-10": null,
+  "0-0-11": null,
+  "0-0-12": null,
+  "0-0-13": null,
+  "0-0-14": {
+   "title": "Ce que tu sais déjà : leçons 11 à 15",
+   "example": "Il y a un chat dans le parc. — 公園に猫が<b>います</b>。",
+   "body": "Tu as fait quinze leçons. Voici l'essentiel des cinq dernières. Premièrement, « ni » indique le lieu où l'on va et l'heure : « Jūji ni demasu », je pars à dix heures. Deuxièmement, « de » indique le lieu où l'on fait quelque chose, ou le moyen : « Sumaho de haraimasu », je paie avec mon téléphone. Troisièmement, pour dire non, « masu » devient « masen » : « Wakarimasen », je ne comprends pas. Quatrièmement, compter : « ichi, ni, san », un, deux, trois, et les heures : « sanji », trois heures, « yoji », quatre heures. Enfin, il y a se dit « arimasu » pour les objets et « imasu » pour les êtres vivants : « Kōen ni neko ga imasu », il y a un chat dans le parc.",
+   "exampleRo": "Kōen ni neko ga imasu.",
+   "lit": "parc · [lieu] · chat · [sujet] · il y a, être vivant (poli)"
+  },
+  "0-0-15": null,
+  "0-0-16": null,
+  "0-0-17": null,
+  "0-0-18": null,
+  "0-0-19": {
+   "title": "Ce que tu sais déjà : leçons 16 à 20",
+   "example": "Excusez-moi, encore une fois, s'il vous plaît. — <b>すみません</b>、もう一度<b>お願いします</b>。",
+   "body": "Tu as fini le module. Voici l'essentiel des cinq dernières leçons. Premièrement, certains adjectifs se placent directement devant « desu » : « Kono kasa wa takai desu », ce parapluie est cher, et au négatif ils changent leur fin : « Kyō wa samukunai desu », aujourd'hui, il ne fait pas froid. Deuxièmement, d'autres adjectifs prennent « na » devant un nom : « Shizuka na tokoro desu », c'est un endroit calme. Troisièmement, « mo » veut dire aussi : « Watashi mo kaimasu », moi aussi, je l'achète. Quatrièmement, pour proposer, on dit « Ikimashō », allons-y, et pour inviter poliment, « Issho ni rāmen o tabemasen ka », on mange des ramen ensemble ? Enfin, les formules magiques : « sumimasen », excusez-moi, « Onegaishimasu », s'il vous plaît, et « arigatō gozaimasu », merci beaucoup. Tu as maintenant de quoi te débrouiller dans les situations de tous les jours.",
+   "exampleRo": "Sumimasen, mō ichido onegaishimasu.",
+   "lit": "excusez-moi · encore · une fois · je vous le demande (poli)"
+  }
  }
 }

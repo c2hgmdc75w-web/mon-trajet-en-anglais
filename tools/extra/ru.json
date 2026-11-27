@@ -14840,5 +14840,51 @@
     }
    }
   ]
+ },
+ "tipsReplace": {
+  "0-0-0": null,
+  "0-0-1": null,
+  "0-0-2": null,
+  "0-0-3": null,
+  "0-0-4": {
+   "title": "Ce que tu sais déjà : leçons 1 à 5",
+   "example": "Je m'appelle Pierre. — <b>Меня зовут</b> Пьер.",
+   "body": "Tu as fait cinq leçons. Voici l'essentiel à retenir. Premièrement, pour saluer, on dit « zdrávstvuyte » à un inconnu et « privét » à un ami. Deuxièmement, chaque mot a une syllabe forte, plus longue et plus appuyée : on dit « metró », avec la force sur la fin. Troisièmement, les pronoms sont courts : « ya », je, « ty », tu, « vy », vous. Quatrièmement, au présent, il n'y a ni verbe être ni article : « Ya frantsúz », mot à mot je, Français, veut dire je suis français. Enfin, pour dire son prénom, on dit on m'appelle : « Menyá zavút », suivi du prénom.",
+   "exampleRo": "Menyá zavút P'yer.",
+   "lit": "moi · on appelle · Pierre"
+  },
+  "0-0-5": null,
+  "0-0-6": null,
+  "0-0-7": null,
+  "0-0-8": null,
+  "0-0-9": {
+   "title": "Ce que tu sais déjà : leçons 6 à 10",
+   "example": "Où est ma tasse ? — Где <b>моя</b> чашка?",
+   "body": "Tu as fait dix leçons. Voici l'essentiel des cinq dernières. Premièrement, « éta » veut dire c'est ou voici, et il ne change jamais : « Éta kúkhnya », c'est la cuisine. Deuxièmement, pour poser une question, on garde la phrase et seule la voix change : elle monte sur le mot important, comme dans « Metró dalekó ? ». Troisièmement, pour dire non, un seul petit mot, « ne », juste devant le verbe : « Ya ne panimáyu », je ne comprends pas. Quatrièmement, chaque nom est masculin, féminin ou neutre, et cela s'entend à la fin du mot : « khleb », le pain, est masculin, « búlka », la brioche, est féminin, « malakó », le lait, est neutre. Enfin, mon et ma s'accordent avec ce genre : « moy telefón », mon téléphone, « mayá cháshka », ma tasse, « mayó aknó », ma fenêtre.",
+   "exampleRo": "Gde mayá cháshka?",
+   "lit": "où · ma · tasse ?"
+  },
+  "0-0-10": null,
+  "0-0-11": null,
+  "0-0-12": null,
+  "0-0-13": null,
+  "0-0-14": {
+   "title": "Ce que tu sais déjà : leçons 11 à 15",
+   "example": "Une baguette et deux petites brioches. — <b>Один</b> батон и <b>две</b> булочки.",
+   "body": "Tu as fait quinze leçons. Voici l'essentiel des cinq dernières. Premièrement, pour dire j'ai, on dit chez moi il y a : « U menyá yest' chay », j'ai du thé. Deuxièmement, pour dire je n'ai pas, on remplace « yest' » par « net » : « U menyá net mélachi », je n'ai pas de monnaie. Troisièmement, le verbe change selon la personne : « ya rabótayu », je travaille, « vy rabótayete », vous travaillez, « on rabótayet », il travaille. Quatrièmement, pour demander où se trouve quelque chose, on commence par « gde » : « Gde aptéka ? », où est la pharmacie ? Enfin, pour compter de un à dix : « adín, dva, tri, chetýre, pyat', shest', sem', vósem', dévyat', désyat' ».",
+   "exampleRo": "Adín batón i dve búlachki.",
+   "lit": "un · baguette · et · deux · petites brioches [cas]"
+  },
+  "0-0-15": null,
+  "0-0-16": null,
+  "0-0-17": null,
+  "0-0-18": null,
+  "0-0-19": {
+   "title": "Ce que tu sais déjà : leçons 16 à 20",
+   "example": "Merci beaucoup pour votre aide ! — Большое <b>спасибо</b> за помощь!",
+   "body": "Tu as fini le module. Voici l'essentiel des cinq dernières leçons. Premièrement, pour demander l'heure, on dit « Katóryy chas ? », et on répond par exemple « Seychás chas », il est une heure. Deuxièmement, les petits mots des questions : « shto », quoi, « kto », qui, « kak », comment, « kagdá », quand. Troisièmement, pour dire je veux, on dit « khachú », et l'objet change parfois sa fin : « Vadá », l'eau, devient « Ya khachú vódu », je veux de l'eau. Quatrièmement, « tózhe » veut dire aussi et « óchen' » veut dire très : « Ya tózhe », moi aussi. Enfin, les formules magiques : « spasíba », merci, « pazhálsta », s'il vous plaît, « izviníte », pardon. Tu as maintenant de quoi te débrouiller dans les situations de tous les jours.",
+   "exampleRo": "Bal'shóye spasíba za pómashch'!",
+   "lit": "grand · merci · pour · aide"
+  }
  }
 }

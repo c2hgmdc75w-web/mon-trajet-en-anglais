@@ -17788,5 +17788,51 @@
     }
    }
   ]
+ },
+ "tipsReplace": {
+  "0-0-0": null,
+  "0-0-1": null,
+  "0-0-2": null,
+  "0-0-3": null,
+  "0-0-4": {
+   "title": "Ce que tu sais déjà : leçons 1 à 5",
+   "example": "Je ne mange pas de bœuf. — 我<b>唔</b>食牛肉。",
+   "body": "Tu as fait cinq leçons. Voici l'essentiel à retenir. Premièrement, le verbe ne change jamais : « ngo5 jam2 », je bois, « keoi5 jam2 », il boit. Deuxièmement, le cantonais a six tons, et la mélodie change le sens : « si1 », « si2 », « si3 », « si4 », « si5 » et « si6 » sont six mots différents. Troisièmement, être, entre deux noms, se dit « hai6 » : « keoi5 hai6 ngo5 tung4 si6 », il est mon collègue. Quatrièmement, les pronoms : « ngo5 », je, « nei5 », tu, « keoi5 », il ou elle, et on ajoute « dei6 » pour le pluriel : « ngo5 dei6 », nous. Enfin, pour dire non, on met « m4 » devant le mot : « m4 gwai3 », ce n'est pas cher.",
+   "exampleRo": "Ngo5 m4 sik6 ngau4 juk6.",
+   "lit": "je · ne pas · manger · bœuf · viande"
+  },
+  "0-0-5": null,
+  "0-0-6": null,
+  "0-0-7": null,
+  "0-0-8": null,
+  "0-0-9": {
+   "title": "Ce que tu sais déjà : leçons 6 à 10",
+   "example": "À midi, je mange au cha chaan teng avec mes collègues. — 我<b>晏晝</b>同同事<b>喺茶餐廳</b>食飯。",
+   "body": "Tu as fait dix leçons. Voici l'essentiel des cinq dernières. Premièrement, pour poser une question, on répète le verbe avec « m4 » au milieu : « nei5 sik6 m4 sik6 laat6 », tu manges épicé ? Deuxièmement, de se dit « ge3 » : « ngo5 ge3 », à moi, « leon4 geoi1 ge3 maau1 », le chat du voisin. Troisièmement, devant un adjectif, on met « hou2 », sans verbe être : « ngo5 hou2 gui6 », je suis très fatigué. Quatrièmement, « ni1 » veut dire ce, tout près, et « go2 » ce là-bas : « ni1 go3 », celui-ci, « go2 go3 », celui-là. Enfin, l'ordre des mots est : qui, quand, où, puis l'action : « ngo5 gam1 jat6 hai2 uk1 kei2 zou6 je5 », aujourd'hui, je travaille à la maison.",
+   "exampleRo": "Ngo5 aan3 zau3 tung4 tung4 si6 hai2 caa4 caan1 teng1 sik6 faan6.",
+   "lit": "je · midi · avec · collègue · à · cha chaan teng · manger · riz"
+  },
+  "0-0-10": null,
+  "0-0-11": null,
+  "0-0-12": null,
+  "0-0-13": null,
+  "0-0-14": {
+   "title": "Ce que tu sais déjà : leçons 11 à 15",
+   "example": "Le minibus part à huit heures dix. — 小巴<b>八點十分</b>開。",
+   "body": "Tu as fait quinze leçons. Voici l'essentiel des cinq dernières. Premièrement, compter de un à dix : « jat1, ji6, saam1, sei3, ng5, luk6, cat1, baat3, gau2, sap6 ». Devant un nom, deux se dit « loeng5 ». Deuxièmement, entre le nombre et le nom, on glisse un petit mot de comptage : « jat1 bun2 syu1 », un livre, « loeng5 go3 bo1 lo4 baau1 », deux pains à l'ananas. Troisièmement, avoir se dit « jau5 », et ne pas avoir « mou5 » : « jau5 mou5 din6 tai1 », il y a un ascenseur ? Quatrièmement, pour dire où l'on est, on emploie « hai2 » : « ngo5 hai2 uk1 kei2 », je suis à la maison. Enfin, l'heure se dit avec « dim2 » pour les heures et « fan1 » pour les minutes : « baat3 dim2 sap6 fan1 », huit heures dix.",
+   "exampleRo": "Siu2 baa1 baat3 dim2 sap6 fan1 hoi1.",
+   "lit": "minibus · huit · heure · dix · minute · partir"
+  },
+  "0-0-15": null,
+  "0-0-16": null,
+  "0-0-17": null,
+  "0-0-18": null,
+  "0-0-19": {
+   "title": "Ce que tu sais déjà : leçons 16 à 20",
+   "example": "Merci beaucoup pour ton aide ! — <b>多謝</b>你幫手！",
+   "body": "Tu as fini le module. Voici l'essentiel des cinq dernières leçons. Premièrement, les petits mots des questions : « me1 je5 », quoi, « bin1 dou6 », où, « bin1 go3 », qui, « gei2 do1 », combien. Deuxièmement, « dou1 » veut dire aussi, ou tous : « ngo5 dei6 dou1 dak1 haan4 », nous sommes tous libres. Troisièmement, « soeng2 » veut dire avoir envie, et « jiu3 » vouloir ou demander : « ngo5 jiu3 ngoi6 maai6 », je voudrais à emporter. Quatrièmement, deux petits mots de fin de phrase : « Aa3 » adoucit, et « laa1 » propose : « jat1 cai4 heoi3 laa1 », allons-y ensemble. Enfin, les formules magiques : « nei5 hou2 », bonjour, « m4 goi1 », merci pour un service, « do1 ze6 », merci pour un cadeau, et « deoi3 m4 zyu6 », pardon. Tu as maintenant de quoi te débrouiller dans les situations de tous les jours.",
+   "exampleRo": "Do1 ze6 nei5 bong1 sau2!",
+   "lit": "merci · tu · aider"
+  }
  }
 }

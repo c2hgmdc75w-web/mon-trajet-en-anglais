@@ -16,71 +16,75 @@
    L'abonnement « Toutes les langues » débloque tout (entitlement
    all_languages). L'anglais garde son produit historique (version_complete /
    mon_trajet_pro) pour que les acheteurs existants restent débloqués. */
+// group : groupe de langues selon l'éloignement du français à l'oral (décidé le 26/11/2026,
+// voir le document « Méthode par groupes de langues ») — A romanes, B accessibles,
+// C slaves, D verbe à la fin, E sémitiques, F à tons. Les groupes C à F ont 4 synthèses
+// de grammaire dans le module 1 (au lieu d'un point par leçon) : voir tools/audit/data_tips.js.
 const LANGS = {
-  de:   { name:'Allemand', inLang:'en allemand', learn:"l'allemand", flag:'🇩🇪', tts:'de-DE', cps:16,
+  de:   { name:'Allemand', group:'B', inLang:'en allemand', learn:"l'allemand", flag:'🇩🇪', tts:'de-DE', cps:16,
           voice:{ exact:'de-de', prefix:'de', label:'Allemand', settings:'Allemand', sample:"Hallo! Ich bin es, die dir die Sätze auf Deutsch vorliest." },
           product:'mt_lang_de', entitlement:'lang_de' },
-  en:   { name:'Anglais', inLang:'en anglais', learn:"l'anglais", flag:'🇬🇧', tts:'en-US', cps:16,
+  en:   { name:'Anglais', group:'B', inLang:'en anglais', learn:"l'anglais", flag:'🇬🇧', tts:'en-US', cps:16,
           voice:{ exact:'en-us', prefix:'en', label:'Anglais', settings:'Anglais, puis les voix « États-Unis »', sample:"Hello! I'll be the one reading the English sentences to you." },
           product:'version_complete', entitlement:'mon_trajet_pro' },
-  ar:   { name:'Arabe', inLang:'en arabe', learn:"l'arabe littéraire", flag:'🌙', tts:'ar-SA', cps:11, rtl:true,
+  ar:   { name:'Arabe', group:'E', inLang:'en arabe', learn:"l'arabe littéraire", flag:'🌙', tts:'ar-SA', cps:11, rtl:true,
           voice:{ exact:'ar-sa', prefix:'ar', label:'Arabe', settings:'Arabe', sample:"مَرْحَبًا! أَنَا مَنْ سَيَقْرَأُ لَكَ الجُمَلَ بِالعَرَبِيَّةِ." },
           product:'mt_lang_ar', entitlement:'lang_ar' },
-  es:   { name:'Espagnol', inLang:'en espagnol', learn:"l'espagnol", flag:'🇪🇸', tts:'es-ES', cps:16,
+  es:   { name:'Espagnol', group:'A', inLang:'en espagnol', learn:"l'espagnol", flag:'🇪🇸', tts:'es-ES', cps:16,
           voice:{ exact:'es-es', prefix:'es', label:'Espagnol', settings:'Espagnol, puis les voix « Espagne »', sample:"¡Hola! Soy yo quien te leerá las frases en español." },
           product:'mt_lang_es', entitlement:'lang_es' },
-  it:   { name:'Italien', inLang:'en italien', learn:"l'italien", flag:'🇮🇹', tts:'it-IT', cps:16,
+  it:   { name:'Italien', group:'A', inLang:'en italien', learn:"l'italien", flag:'🇮🇹', tts:'it-IT', cps:16,
           voice:{ exact:'it-it', prefix:'it', label:'Italien', settings:'Italien', sample:"Ciao! Sono io che ti leggerò le frasi in italiano." },
           product:'mt_lang_it', entitlement:'lang_it' },
-  ja:   { name:'Japonais', inLang:'en japonais', learn:'le japonais', flag:'🇯🇵', tts:'ja-JP', cps:7,
+  ja:   { name:'Japonais', group:'D', inLang:'en japonais', learn:'le japonais', flag:'🇯🇵', tts:'ja-JP', cps:7,
           voice:{ exact:'ja-jp', prefix:'ja', label:'Japonais', settings:'Japonais', sample:"こんにちは。日本語の文を読むのは私です。" },
           product:'mt_lang_ja', entitlement:'lang_ja' },
-  ptbr: { name:'Portugais (Brésil)', inLang:'en portugais', learn:'le portugais du Brésil', flag:'🇧🇷', tts:'pt-BR', cps:16,
+  ptbr: { name:'Portugais (Brésil)', group:'A', inLang:'en portugais', learn:'le portugais du Brésil', flag:'🇧🇷', tts:'pt-BR', cps:16,
           voice:{ exact:'pt-br', prefix:'pt', label:'Portugais (Brésil)', settings:'Portugais, puis les voix « Brésil »', sample:"Olá! Sou eu que vou ler as frases em português para você." },
           product:'mt_lang_ptbr', entitlement:'lang_ptbr' },
-  ptpt: { name:'Portugais (Portugal)', inLang:'en portugais', learn:'le portugais du Portugal', flag:'🇵🇹', tts:'pt-PT', cps:16,
+  ptpt: { name:'Portugais (Portugal)', group:'A', inLang:'en portugais', learn:'le portugais du Portugal', flag:'🇵🇹', tts:'pt-PT', cps:16,
           voice:{ exact:'pt-pt', prefix:'pt', label:'Portugais (Portugal)', settings:'Portugais, puis les voix « Portugal »', sample:"Olá! Sou eu que vou ler as frases em português para ti." },
           product:'mt_lang_ptpt', entitlement:'lang_ptpt' },
-  zh:   { name:'Chinois', inLang:'en chinois', learn:'le chinois mandarin', flag:'🇨🇳', tts:'zh-CN', cps:6,
+  zh:   { name:'Chinois', group:'F', inLang:'en chinois', learn:'le chinois mandarin', flag:'🇨🇳', tts:'zh-CN', cps:6,
           voice:{ exact:'zh-cn', prefix:'zh-cn', label:'Chinois', settings:'Chinois, puis les voix « Chine continentale »', sample:"你好！我来给你读中文句子。" },
           product:'mt_lang_zh', entitlement:'lang_zh' },
-  he:   { name:'Hébreu', inLang:'en hébreu', learn:"l'hébreu", flag:'🇮🇱', tts:'he-IL', cps:13, rtl:true,
+  he:   { name:'Hébreu', group:'E', inLang:'en hébreu', learn:"l'hébreu", flag:'🇮🇱', tts:'he-IL', cps:13, rtl:true,
           voice:{ exact:'he-il', prefix:'he', label:'Hébreu', settings:'Hébreu', sample:"שלום! אני אקרא לך את המשפטים בעברית." },
           product:'mt_lang_he', entitlement:'lang_he' },
-  hi:   { name:'Hindi', inLang:'en hindi', learn:'le hindi', flag:'🇮🇳', tts:'hi-IN', cps:12,
+  hi:   { name:'Hindi', group:'D', inLang:'en hindi', learn:'le hindi', flag:'🇮🇳', tts:'hi-IN', cps:12,
           voice:{ exact:'hi-in', prefix:'hi', label:'Hindi', settings:'Hindi', sample:"नमस्ते! मैं आपको हिंदी के वाक्य पढ़कर सुनाऊँगी।" },
           product:'mt_lang_hi', entitlement:'lang_hi' },
-  th:   { name:'Thaï', inLang:'en thaï', learn:'le thaï', flag:'🇹🇭', tts:'th-TH', cps:9,
+  th:   { name:'Thaï', group:'F', inLang:'en thaï', learn:'le thaï', flag:'🇹🇭', tts:'th-TH', cps:9,
           voice:{ exact:'th-th', prefix:'th', label:'Thaï', settings:'Thaï', sample:"สวัสดีค่ะ ฉันจะอ่านประโยคภาษาไทยให้คุณฟังค่ะ" },
           product:'mt_lang_th', entitlement:'lang_th' },
-  bn:   { name:'Bengali', inLang:'en bengali', learn:'le bengali', flag:'🇧🇩', tts:'bn-IN', cps:12,
+  bn:   { name:'Bengali', group:'D', inLang:'en bengali', learn:'le bengali', flag:'🇧🇩', tts:'bn-IN', cps:12,
           voice:{ exact:'bn-in', prefix:'bn', label:'Bengali', settings:'Bengali', sample:"হ্যালো! আমি আপনাকে বাংলা বাক্যগুলো পড়ে শোনাব।" },
           product:'mt_lang_bn', entitlement:'lang_bn' },
-  ru:   { name:'Russe', inLang:'en russe', learn:'le russe', flag:'🇷🇺', tts:'ru-RU', cps:14,
+  ru:   { name:'Russe', group:'C', inLang:'en russe', learn:'le russe', flag:'🇷🇺', tts:'ru-RU', cps:14,
           voice:{ exact:'ru-ru', prefix:'ru', label:'Russe', settings:'Russe', sample:"Здравствуйте! Я буду читать вам фразы по-русски." },
           product:'mt_lang_ru', entitlement:'lang_ru' },
-  id:   { name:'Indonésien', inLang:'en indonésien', learn:'l\'indonésien', flag:'🇮🇩', tts:'id-ID', cps:15,
+  id:   { name:'Indonésien', group:'B', inLang:'en indonésien', learn:'l\'indonésien', flag:'🇮🇩', tts:'id-ID', cps:15,
           voice:{ exact:'id-id', prefix:'id', label:'Indonésien', settings:'Indonésien', sample:"Halo! Saya akan membacakan kalimat-kalimat dalam bahasa Indonesia untuk Anda." },
           product:'mt_lang_id', entitlement:'lang_id' },
-  vi:   { name:'Vietnamien', inLang:'en vietnamien', learn:'le vietnamien', flag:'🇻🇳', tts:'vi-VN', cps:12,
+  vi:   { name:'Vietnamien', group:'F', inLang:'en vietnamien', learn:'le vietnamien', flag:'🇻🇳', tts:'vi-VN', cps:12,
           voice:{ exact:'vi-vn', prefix:'vi', label:'Vietnamien', settings:'Vietnamien', sample:"Xin chào! Tôi sẽ đọc cho bạn các câu tiếng Việt." },
           product:'mt_lang_vi', entitlement:'lang_vi' },
-  tr:   { name:'Turc', inLang:'en turc', learn:'le turc', flag:'🇹🇷', tts:'tr-TR', cps:14,
+  tr:   { name:'Turc', group:'D', inLang:'en turc', learn:'le turc', flag:'🇹🇷', tts:'tr-TR', cps:14,
           voice:{ exact:'tr-tr', prefix:'tr', label:'Turc', settings:'Turc', sample:"Merhaba! Size Türkçe cümleleri ben okuyacağım." },
           product:'mt_lang_tr', entitlement:'lang_tr' },
-  yue:  { name:'Cantonais', inLang:'en cantonais', learn:'le cantonais', flag:'🇭🇰', tts:'zh-HK', cps:6,
+  yue:  { name:'Cantonais', group:'F', inLang:'en cantonais', learn:'le cantonais', flag:'🇭🇰', tts:'zh-HK', cps:6,
           voice:{ exact:'zh-hk', prefix:'zh-hk', label:'Cantonais', settings:'Chinois, puis les voix « Hong Kong »', sample:"你好！我會讀廣東話句子俾你聽。" },
           product:'mt_lang_yue', entitlement:'lang_yue' },
-  ta:   { name:'Tamoul', inLang:'en tamoul', learn:'le tamoul', flag:'🇮🇳', tts:'ta-IN', cps:12,
+  ta:   { name:'Tamoul', group:'D', inLang:'en tamoul', learn:'le tamoul', flag:'🇮🇳', tts:'ta-IN', cps:12,
           voice:{ exact:'ta-in', prefix:'ta', label:'Tamoul', settings:'Tamoul', sample:"வணக்கம்! நான் உங்களுக்குத் தமிழ் வாக்கியங்களைப் படித்துக் காட்டுவேன்." },
           product:'mt_lang_ta', entitlement:'lang_ta' },
-  ko:   { name:'Coréen', inLang:'en coréen', learn:'le coréen', flag:'🇰🇷', tts:'ko-KR', cps:8,
+  ko:   { name:'Coréen', group:'D', inLang:'en coréen', learn:'le coréen', flag:'🇰🇷', tts:'ko-KR', cps:8,
           voice:{ exact:'ko-kr', prefix:'ko', label:'Coréen', settings:'Coréen', sample:"안녕하세요! 제가 한국어 문장을 읽어 드릴게요." },
           product:'mt_lang_ko', entitlement:'lang_ko' },
-  fa:   { name:'Persan', inLang:'en persan', learn:'le persan', flag:'🇮🇷', tts:'fa-IR', cps:12, rtl:true,
+  fa:   { name:'Persan', group:'D', inLang:'en persan', learn:'le persan', flag:'🇮🇷', tts:'fa-IR', cps:12, rtl:true,
           voice:{ exact:'fa-ir', prefix:'fa', label:'Persan', settings:'Persan', sample:"سلام! من جمله‌های فارسی را برایتان می‌خوانم." },
           product:'mt_lang_fa', entitlement:'lang_fa' },
-  pl:   { name:'Polonais', inLang:'en polonais', learn:'le polonais', flag:'🇵🇱', tts:'pl-PL', cps:14,
+  pl:   { name:'Polonais', group:'C', inLang:'en polonais', learn:'le polonais', flag:'🇵🇱', tts:'pl-PL', cps:14,
           voice:{ exact:'pl-pl', prefix:'pl', label:'Polonais', settings:'Polonais', sample:"Dzień dobry! Będę czytać ci zdania po polsku." },
           product:'mt_lang_pl', entitlement:'lang_pl' },
 };
@@ -1163,9 +1167,13 @@ function buildLessonSegments(mi, li){
         segs.push(S(tgtIsolated(w[1]), 'tgt', 0.85, `Mot à mot ${L.inLang}`, TGT, 'speaker', false, p.fr, p.tgt, ex));
         segs.push(W(GAP, `Mot à mot ${L.inLang}`, TGT, 'speaker', false, p.fr, p.tgt, ex));
       });
-      segs.push(W(350, 'Explication', CTX, 'headphones', false, p.fr, p.tgt, ex));
-      segs.push(...noteSpeech(p, ex));
-      segs.push(W(900, 'Explication', CTX, 'headphones', false, p.fr, p.tgt, ex));
+      // Explication facultative : l'indonésien, le polonais, le turc et le vietnamien n'ont
+      // pour l'instant que le mot à mot (tiré de leur ancien mot à mot affiché).
+      if(p.note.text){
+        segs.push(W(350, 'Explication', CTX, 'headphones', false, p.fr, p.tgt, ex));
+        segs.push(...noteSpeech(p, ex));
+        segs.push(W(900, 'Explication', CTX, 'headphones', false, p.fr, p.tgt, ex));
+      } else segs.push(W(700, 'Mot à mot', CTX, 'headphones', false, p.fr, p.tgt, ex));
     }
   });
 

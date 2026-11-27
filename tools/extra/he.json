@@ -13276,5 +13276,51 @@
     }
    }
   ]
+ },
+ "tipsReplace": {
+  "0-0-0": null,
+  "0-0-1": null,
+  "0-0-2": null,
+  "0-0-3": null,
+  "0-0-4": {
+   "title": "Ce que tu sais déjà : leçons 1 à 5",
+   "example": "Tu es étudiante, Maya ? — <b>את</b> סטודנטית, מאיה?",
+   "body": "Tu as fait cinq leçons. Voici l'essentiel à retenir. Premièrement, au présent, pas de verbe être : « ani student », mot à mot moi, étudiant, veut dire je suis étudiant. Deuxièmement, la syllabe forte est souvent la dernière : « toda », merci, « mushlam », parfait. Troisièmement, le, la, les se disent avec un petit son collé au début du mot : « Yam », mer, devient « ha-yam », la mer. Quatrièmement, tout s'accorde au masculin ou au féminin : « matok », sucré, devient « metuka » au féminin, comme dans « ha-te'ena metuka », la figue est sucrée. Enfin, les pronoms : « ani, ata, at, hu, hi », je, tu pour un homme, tu pour une femme, il, elle.",
+   "exampleRo": "At studentit, Maya?",
+   "lit": "toi · étudiante · Maya ?"
+  },
+  "0-0-5": null,
+  "0-0-6": null,
+  "0-0-7": null,
+  "0-0-8": null,
+  "0-0-9": {
+   "title": "Ce que tu sais déjà : leçons 6 à 10",
+   "example": "Maya travaille à Jaffa. — מאיה <b>עובדת</b> ביפו.",
+   "body": "Tu as fait dix leçons. Voici l'essentiel des cinq dernières. Premièrement, pour poser une question, la voix monte à la fin, ou on commence par « ha'im » : « Ha'im ha-pita triya ? », la pita est fraîche ? Deuxièmement, pour dire non, on met « lo » devant le mot : « ha-otobus lo yakar », le bus n'est pas cher. Troisièmement, de se dit « shel » : « Ha-mirpeset shel Dana », le balcon de Dana, et mon se dit « sheli » : « ha-dira sheli », mon appartement. Quatrièmement, « ze » veut dire ceci pour un nom masculin, et « zot » pour un nom féminin : « ze khumus », c'est du houmous. Enfin, le verbe au présent a quatre formes, selon qu'on parle d'un homme, d'une femme, de plusieurs hommes ou de plusieurs femmes : « oved », « ovedet », « ovdim », « ovdot ».",
+   "exampleRo": "Maya ovedet be-Yafo.",
+   "lit": "Maya · travaillant · à-Jaffa"
+  },
+  "0-0-10": null,
+  "0-0-11": null,
+  "0-0-12": null,
+  "0-0-13": null,
+  "0-0-14": {
+   "title": "Ce que tu sais déjà : leçons 11 à 15",
+   "example": "Je cherche une chemise blanche. — אני מחפש חולצה <b>לבנה</b>.",
+   "body": "Tu as fait quinze leçons. Voici l'essentiel des cinq dernières. Premièrement, compter : « akhat, shtayim, shalosh, arba, khamesh », un, deux, trois, quatre, cinq. Deuxièmement, « yesh » veut dire il y a, et « ein » il n'y a pas : « yesh po makolet ? », il y a une épicerie ici ? Troisièmement, pour dire j'ai, on dit il y a à moi : « Yesh li telefon khadash », j'ai un téléphone neuf, et « ein li zman », je n'ai pas le temps. Quatrièmement, dans, vers et de sont de petits sons collés au début du mot : « Mi-Tel Aviv le-Yafo ba-regel », de Tel-Aviv à Jaffa, à pied. Enfin, l'adjectif se place après le nom : « bayit gadol », une grande maison, « khultsa levana », une chemise blanche.",
+   "exampleRo": "Ani mekhapes khultsa levana.",
+   "lit": "moi · cherchant · chemise · blanche"
+  },
+  "0-0-15": null,
+  "0-0-16": null,
+  "0-0-17": null,
+  "0-0-18": null,
+  "0-0-19": {
+   "title": "Ce que tu sais déjà : leçons 16 à 20",
+   "example": "Pardon, encore une fois, s'il te plaît. — <b>סליחה</b>, עוד פעם, <b>בבקשה</b>.",
+   "body": "Tu as fini le module. Voici l'essentiel des cinq dernières leçons. Premièrement, les petits mots des questions : « ma, mi, eifo, matai, kama », quoi, qui, où, quand, combien. Deuxièmement, aussi se dit « gam », placé devant le mot : « Gam ani », moi aussi. Troisièmement, vouloir se dit « rotse » pour un homme : « ani rotse falafel », je veux un falafel, et autrement pour une femme : « Noa rotsa lirkod », Noa veut danser. Quatrièmement, pour l'heure, on demande « ma ha-sha'a ? » et on répond par exemple « ha-sha'a shmone », il est huit heures. Enfin, les formules magiques : « shalom, toda, bevakasha, slikha », bonjour, merci, s'il te plaît, pardon. Tu as maintenant de quoi te débrouiller dans les situations de tous les jours.",
+   "exampleRo": "Slikha, od pa'am, bevakasha.",
+   "lit": "pardon · encore · fois · s'il-te-plaît"
+  }
  }
 }

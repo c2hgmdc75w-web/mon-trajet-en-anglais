@@ -1,196 +1,52 @@
 {
- "0-0-0": {
+ "0-0-4": {
   "ani student": "אני סטודנט",
-  "ata ayef ?": "אתה עייף?",
-  "ha-monit po": "המונית פה"
- },
- "0-0-1": {
   "toda": "תודה",
   "mushlam": "מושלם",
-  "kafe": "קפה",
-  "khalav": "חלב",
-  "boker": "בוקר",
-  "erev": "ערב",
-  "to-da, to-da": "תודה, תודה"
- },
- "0-0-2": {
   "Yam": "ים",
   "ha-yam": "הים",
-  "ha-khol": "החול",
-  "ha-shemesh": "השמש",
-  "ha-mayim": "המים",
-  "magevet": "מגבת",
-  "ha-yam kakhol": "הים כחול"
- },
- "0-0-3": {
   "matok": "מתוק",
   "metuka": "מתוקה",
   "ha-te'ena metuka": "התאנה מתוקה",
-  "ha-pilpel adom": "הפלפל אדום",
-  "ha-agvaniya aduma": "העגבנייה אדומה",
-  "ha-zeitim te'imim": "הזיתים טעימים",
-  "avati'akh": "אבטיח"
- },
- "0-0-4": {
-  "ani": "אני",
-  "ata": "אתה",
-  "at": "את",
-  "hu": "הוא",
-  "hi": "היא",
-  "at studentit, Maya ?": "את סטודנטית, מאיה?",
-  "studentit": "סטודנטית",
-  "hu muzika'i": "הוא מוזיקאי",
-  "hi rofa": "היא רופאה",
-  "hu ve-hi": "הוא והיא",
   "ani, ata, at, hu, hi": "אני, אתה, את, הוא, היא"
  },
- "0-0-5": {
+ "0-0-9": {
   "ha'im": "האם",
-  "Ata ra'ev": "אתה רעב",
-  "ata ra'ev ?": "אתה רעב?",
-  "Ha'im ha-pita triya ?": "האם הפיתה טרייה?"
- },
- "0-0-6": {
-  "Lo": "לא",
+  "Ha'im ha-pita triya ?": "האם הפיתה טרייה?",
   "lo": "לא",
-  "Ani memaher": "אני ממהר",
-  "ani lo memaher": "אני לא ממהר",
   "ha-otobus lo yakar": "האוטובוס לא יקר",
-  "lo kar ha-yom": "לא קר היום"
- },
- "0-0-7": {
-  "Shel": "של",
   "shel": "של",
   "Ha-mirpeset shel Dana": "המרפסת של דנה",
   "sheli": "שלי",
-  "shelkha": "שלך",
-  "shelo": "שלו",
-  "shela": "שלה",
   "ha-dira sheli": "הדירה שלי",
-  "ha-mafte'akh sheli": "המפתח שלי",
-  "ha-kheder shelkha": "החדר שלך"
- },
- "0-0-8": {
-  "Ze": "זה",
+  "ze": "זה",
   "zot": "זאת",
   "ze khumus": "זה חומוס",
-  "zot tkhina": "זאת טחינה",
-  "Ha-tsalakhat ha-zot": "הצלחת הזאת",
-  "ha-khumus ha-ze": "החומוס הזה",
-  "ha-shulkhan ha-ze": "השולחן הזה",
-  "ze": "זה"
- },
- "0-0-9": {
   "oved": "עובד",
   "ovedet": "עובדת",
   "ovdim": "עובדים",
-  "ovdot": "עובדות",
-  "ani oved": "אני עובד",
-  "ani ovedet": "אני עובדת",
-  "Maya ovedet be-Yafo": "מאיה עובדת ביפו",
-  "shote": "שותה",
-  "shotim": "שותים",
-  "shotot": "שותות"
- },
- "0-0-10": {
-  "akhat, shtayim, shalosh, arba, khamesh": "אחת, שתיים, שלוש, ארבע, חמש",
-  "agvaniya": "עגבנייה",
-  "shalosh agvaniyot": "שלוש עגבניות",
-  "shekel": "שקל",
-  "khamisha shkalim": "חמישה שקלים",
-  "asara shkalim": "עשרה שקלים",
-  "pita akhat": "פיתה אחת",
-  "kafe ekhad": "קפה אחד",
-  "ze ole khamisha shkalim": "זה עולה חמישה שקלים",
-  "ekhad, shtayim, shalosh": "אחד, שתיים, שלוש"
- },
- "0-0-11": {
-  "Yesh": "יש",
-  "ein": "אין",
-  "yesh": "יש",
-  "Yesh harbe ofanayim": "יש הרבה אופניים",
-  "Ein ma'alit ba-binyan": "אין מעלית בבניין",
-  "yesh po makolet ?": "יש פה מכולת?"
- },
- "0-0-12": {
-  "Yesh li": "יש לי",
-  "yesh li": "יש לי",
-  "Yesh li telefon khadash": "יש לי טלפון חדש",
-  "yesh": "יש",
-  "li": "לי",
-  "lekha": "לך",
-  "lo": "לו",
-  "la": "לה",
-  "ein": "אין",
-  "ein li zman": "אין לי זמן",
-  "yesh lekha zman ?": "יש לך זמן?"
- },
- "0-0-13": {
-  "Mi-Tel Aviv le-Yafo ba-regel": "מתל אביב ליפו ברגל",
-  "ba-khof": "בחוף",
-  "la-yam": "לים",
-  "me-ha-yam": "מהים"
+  "ovdot": "עובדות"
  },
  "0-0-14": {
+  "akhat, shtayim, shalosh, arba, khamesh": "אחת, שתיים, שלוש, ארבע, חמש",
+  "yesh": "יש",
+  "ein": "אין",
+  "yesh po makolet ?": "יש פה מכולת?",
+  "Yesh li telefon khadash": "יש לי טלפון חדש",
+  "ein li zman": "אין לי זמן",
+  "Mi-Tel Aviv le-Yafo ba-regel": "מתל אביב ליפו ברגל",
   "bayit gadol": "בית גדול",
-  "khultsa levana": "חולצה לבנה",
-  "ha-simla ha-aduma": "השמלה האדומה",
-  "ha-na'alayim ha-khadashot": "הנעליים החדשות"
- },
- "0-0-15": {
-  "Ma": "מה",
-  "mi": "מי",
-  "eifo": "איפה",
-  "matai": "מתי",
-  "kama": "כמה",
-  "Matai ha-otobus yotse ?": "מתי האוטובוס יוצא?",
-  "Eifo shuk ha-Karmel ?": "איפה שוק הכרמל?",
-  "kama dakot ba-regel ?": "כמה דקות ברגל?",
-  "ma, mi, eifo, matai, kama": "מה, מי, איפה, מתי, כמה"
- },
- "0-0-16": {
-  "Gam": "גם",
-  "Gam ani": "גם אני",
-  "Gam ha-salat tari": "גם הסלט טרי",
-  "yesh gam gvina levana": "יש גם גבינה לבנה",
-  "gam": "גם",
-  "ve-gam": "וגם",
-  "gam ani !": "גם אני!"
- },
- "0-0-17": {
-  "Rotse": "רוצה",
-  "rotse": "רוצה",
-  "rotsim": "רוצים",
-  "rotsot": "רוצות",
-  "Noa rotsa lirkod": "נועה רוצה לרקוד",
-  "ani rotse falafel": "אני רוצה פלאפל",
-  "lirkod": "לרקוד",
-  "lalekhet": "ללכת",
-  "lavo": "לבוא",
-  "lo": "לא",
-  "ani lo rotse": "אני לא רוצה"
- },
- "0-0-18": {
-  "ma ha-sha'a ?": "מה השעה?",
-  "ha-sha'a": "השעה",
-  "ha-sha'a shmone": "השעה שמונה",
-  "va-khetsi": "וחצי",
-  "va-reva": "ורבע",
-  "ha-sha'a tesha va-khetsi": "השעה תשע וחצי",
-  "be-eser": "בעשר",
-  "be-shesh": "בשש",
-  "ba-boker": "בבוקר",
-  "ba-erev": "בערב"
+  "khultsa levana": "חולצה לבנה"
  },
  "0-0-19": {
-  "Shalom": "שלום",
-  "Toda": "תודה",
-  "toda raba": "תודה רבה",
-  "Bevakasha": "בבקשה",
-  "slikha": "סליחה",
-  "slikha, od pa'am, bevakasha": "סליחה, עוד פעם, בבקשה",
-  "toda": "תודה",
-  "bevakasha": "בבקשה",
+  "ma, mi, eifo, matai, kama": "מה, מי, איפה, מתי, כמה",
+  "gam": "גם",
+  "Gam ani": "גם אני",
+  "rotse": "רוצה",
+  "ani rotse falafel": "אני רוצה פלאפל",
+  "Noa rotsa lirkod": "נועה רוצה לרקוד",
+  "ma ha-sha'a ?": "מה השעה?",
+  "ha-sha'a shmone": "השעה שמונה",
   "shalom, toda, bevakasha, slikha": "שלום, תודה, בבקשה, סליחה"
  },
  "0-1-1": {

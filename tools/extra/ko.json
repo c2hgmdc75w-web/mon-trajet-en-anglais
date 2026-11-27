@@ -12412,5 +12412,51 @@
     }
    }
   ]
+ },
+ "tipsReplace": {
+  "0-0-0": null,
+  "0-0-1": null,
+  "0-0-2": null,
+  "0-0-3": null,
+  "0-0-4": {
+   "title": "Ce que tu sais déjà : leçons 1 à 5",
+   "example": "Moi, je travaille à Hongdae. — <b>저는</b> 홍대에서 일해요.",
+   "body": "Tu as fait cinq leçons. Voici l'essentiel à retenir. Premièrement, le verbe est toujours à la fin : « Jeoneun achime babeul meogeoyo », mot à mot moi, le matin, riz, mange. Deuxièmement, « Annyeonghaseyo » veut dire bonjour, à toute heure de la journée. Troisièmement, la forme polie de tous les jours : « meogeoyo », je mange, « haeyo », je fais, « sarayo », j'habite. Quatrièmement, pour dire je suis, entre deux noms, on ajoute « ieyo » ou « yeyo » : « Jeoneun hoesawonieyo », je suis employé de bureau. Enfin, « jeo » veut dire moi, poliment, et « jeoneun » veut dire quant à moi : « Jeoneun Hongdaeeseo ilhaeyo », moi, je travaille à Hongdae.",
+   "exampleRo": "Jeoneun Hongdaeeseo ilhaeyo.",
+   "lit": "moi-[thème] · Hongdae-[dans] · travaille-[politesse]"
+  },
+  "0-0-5": null,
+  "0-0-6": null,
+  "0-0-7": null,
+  "0-0-8": null,
+  "0-0-9": {
+   "title": "Ce que tu sais déjà : leçons 6 à 10",
+   "example": "Vous travaillez ici ? — 여기서 <b>일해요</b>?",
+   "body": "Tu as fait dix leçons. Voici l'essentiel des cinq dernières. Premièrement, oui se dit « ne », et non se dit « aniyo ». Deuxièmement, après le sujet, on ajoute un petit mot : « biga wayo », il pleut, mot à mot pluie, vient. Troisièmement, après l'objet, on ajoute « eul » ou « reul » : « dubureul », le tofu, « gyeraneul », les œufs. Quatrièmement, pour dire non, on met « an » juste devant le verbe : « an meogeoyo », je ne mange pas. Enfin, pour poser une question, on garde la même phrase et la voix monte à la fin : « masisseoyo ? », c'est bon ?",
+   "exampleRo": "Yeogiseo ilhaeyo?",
+   "lit": "ici-[dans] · travaillez-[politesse][question]"
+  },
+  "0-0-10": null,
+  "0-0-11": null,
+  "0-0-12": null,
+  "0-0-13": null,
+  "0-0-14": {
+   "title": "Ce que tu sais déjà : leçons 11 à 15",
+   "example": "Le kimbap coûte trois mille wons. — 김밥은 <b>삼천</b> 원이에요.",
+   "body": "Tu as fait quinze leçons. Voici l'essentiel des cinq dernières. Premièrement, « isseoyo » veut dire il y a ou j'ai, et « eopseoyo », il n'y a pas ou je n'ai pas : « sigan isseoyo ? », tu as le temps ? Deuxièmement, « i » veut dire ce, tout près, « geu », ce dont on parle, et « jeo », ce là-bas : « i moja », ce chapeau. Troisièmement, les petits mots des questions : « mwo », quoi, « eodi », où, « nugu », qui, « eonje », quand. Quatrièmement, une petite fin ajoutée au lieu ou au moment veut dire à : « gongwone gayo », je vais au parc. Enfin, pour les prix et les dates, on compte avec « il, i, sam, sa, o », un, deux, trois, quatre, cinq.",
+   "exampleRo": "Gimbabeun samcheon wonieyo.",
+   "lit": "kimbap-[thème] · trois mille · won-est"
+  },
+  "0-0-15": null,
+  "0-0-16": null,
+  "0-0-17": null,
+  "0-0-18": null,
+  "0-0-19": {
+   "title": "Ce que tu sais déjà : leçons 16 à 20",
+   "example": "Merci beaucoup, professeur ! — 선생님, 정말 <b>감사합니다</b>!",
+   "body": "Tu as fini le module. Voici l'essentiel des cinq dernières leçons. Premièrement, pour compter les objets et les personnes, on utilise une autre série : « hana, dul, set, net », un, deux, trois, quatre. Deuxièmement, pour l'heure, on dit les heures avec cette série-là, et les minutes avec l'autre : « du si ban », deux heures et demie, « sip bun », dix minutes. Troisièmement, pour demander quelque chose, on dit « juseyo », donnez-moi : « Bibimbap hana juseyo », un bibimbap, s'il vous plaît. Quatrièmement, « joayo » veut dire c'est bien, ou ça me plaît : « nalssiga joayo », il fait beau. Enfin, les formules magiques : « gamsahamnida, joesonghamnida, gwaenchanayo, sillyehamnida », merci, pardon, ce n'est pas grave, et excusez-moi. Tu as maintenant de quoi te débrouiller dans les situations de tous les jours.",
+   "exampleRo": "Seonsaengnim, jeongmal gamsahamnida!",
+   "lit": "professeur · vraiment · merci-[formel]"
+  }
  }
 }

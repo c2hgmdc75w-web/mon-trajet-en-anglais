@@ -1,0 +1,11282 @@
+{
+ "notes": {
+  "0-0-0": [
+   {
+    "words": [
+     [
+      "maison",
+      "Ev"
+     ],
+     [
+      "grand",
+      "büyük"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "appartement",
+      "Daire"
+     ],
+     [
+      "petit",
+      "küçük"
+     ],
+     [
+      "mais",
+      "ama"
+     ],
+     [
+      "joli",
+      "güzel"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Kadıköy",
+      "Kadıköy"
+     ],
+     [
+      "beau",
+      "güzel"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "quartier",
+      "semt"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "cuisine",
+      "Mutfak"
+     ],
+     [
+      "tout-propre",
+      "tertemiz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "balcon",
+      "Balkon"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "beau",
+      "güzel"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "fenêtre",
+      "Pencere"
+     ],
+     [
+      "ouvert",
+      "açık"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "salon",
+      "Salon"
+     ],
+     [
+      "lumineux",
+      "aydınlık"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ceci",
+      "Bu"
+     ],
+     [
+      "vieux",
+      "eski"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "maison",
+      "ev"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "rue",
+      "Sokak"
+     ],
+     [
+      "calme",
+      "sakin"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "quartier",
+      "Mahalle"
+     ],
+     [
+      "vivant",
+      "canlı"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-0-1": [
+   {
+    "words": [
+     [
+      "un",
+      "Bir"
+     ],
+     [
+      "simit",
+      "simit"
+     ],
+     [
+      "s'il-vous-plaît",
+      "lütfen"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "simit",
+      "Simit"
+     ],
+     [
+      "encore",
+      "hâlâ"
+     ],
+     [
+      "chaud",
+      "sıcak"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "moi-à",
+      "Bana"
+     ],
+     [
+      "sucre-sans",
+      "şekersiz"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "thé",
+      "çay"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "fromage",
+      "Peynir"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "savoureux",
+      "lezzetli"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "fromage-avec",
+      "Peynirli"
+     ],
+     [
+      "simit",
+      "simit"
+     ],
+     [
+      "s'il-vous-plaît",
+      "lütfen"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "lait-avec",
+      "Sütlü"
+     ],
+     [
+      "café",
+      "kahve"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "chaud",
+      "sıcak"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "lait-sans",
+      "Sütsüz"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "café",
+      "kahve"
+     ],
+     [
+      "s'il-vous-plaît",
+      "lütfen"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "sésame-avec",
+      "Susamlı"
+     ],
+     [
+      "simit",
+      "simit"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "savoureux",
+      "lezzetli"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "matin",
+      "Sabah"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "simit",
+      "simit"
+     ],
+     [
+      "et",
+      "ve"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "thé",
+      "çay"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "turc",
+      "Türk"
+     ],
+     [
+      "petit-déjeuner-son",
+      "kahvaltısı"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "riche",
+      "zengin"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-0-2": [
+   {
+    "words": [
+     [
+      "bonjour",
+      "Merhaba"
+     ],
+     [
+      "Ayşe",
+      "Ayşe"
+     ],
+     [
+      "madame",
+      "Hanım"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "comment-vous-êtes",
+      "Nasılsınız"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "bien-je-suis",
+      "İyiyim"
+     ],
+     [
+      "merci",
+      "teşekkürler"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "vous",
+      "Siz"
+     ],
+     [
+      "comment-vous-êtes",
+      "nasılsınız"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "tout-le-monde-à",
+      "Herkese"
+     ],
+     [
+      "bonjour-du-matin",
+      "günaydın"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "bon",
+      "İyi"
+     ],
+     [
+      "soirs",
+      "akşamlar"
+     ],
+     [
+      "voisins",
+      "komşular"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "très",
+      "Çok"
+     ],
+     [
+      "bien-je-suis",
+      "iyiyim"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "merci",
+      "teşekkürler"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "famille-votre",
+      "Aileniz"
+     ],
+     [
+      "comment",
+      "nasıl"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "agréablement",
+      "Hoşça"
+     ],
+     [
+      "restez",
+      "kalın"
+     ],
+     [
+      "bons",
+      "iyi"
+     ],
+     [
+      "jours",
+      "günler"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "vous-à",
+      "Size"
+     ],
+     [
+      "bonnes",
+      "iyi"
+     ],
+     [
+      "nuits",
+      "geceler"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-0-3": [
+   {
+    "words": [
+     [
+      "moi",
+      "Ben"
+     ],
+     [
+      "étudiant-je-suis",
+      "öğrenciyim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "toi",
+      "Sen"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "gentil-tu-es",
+      "naziksin"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "lui",
+      "O"
+     ],
+     [
+      "ingénieur",
+      "mühendis"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "elle",
+      "O"
+     ],
+     [
+      "aujourd'hui",
+      "bugün"
+     ],
+     [
+      "maison-à",
+      "evde"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "nous",
+      "Biz"
+     ],
+     [
+      "collègue-nous-sommes",
+      "meslektaşız"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "vous",
+      "Siz"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "gentil-vous-êtes",
+      "naziksiniz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "eux",
+      "Onlar"
+     ],
+     [
+      "bureau-à",
+      "ofiste"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "aujourd'hui",
+      "Bugün"
+     ],
+     [
+      "fatigué-je-suis",
+      "yorgunum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "lui",
+      "O"
+     ],
+     [
+      "ce",
+      "bu"
+     ],
+     [
+      "matin",
+      "sabah"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "occupé",
+      "meşgul"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "heureux-nous-sommes",
+      "Mutluyuz"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-0-4": [
+   {
+    "words": [
+     [
+      "moi",
+      "Ben"
+     ],
+     [
+      "Française-je-suis",
+      "Fransızım"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Lyon-de-je-suis",
+      "Lyonluyum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "enseignant-je-suis",
+      "Öğretmenim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "vous",
+      "Siz"
+     ],
+     [
+      "Turc-vous-êtes",
+      "Türksünüz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "quartier-dans",
+      "Mahallede"
+     ],
+     [
+      "nouveau-je-suis",
+      "yeniyim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "deux-de-nous",
+      "İkimiz"
+     ],
+     [
+      "aussi",
+      "de"
+     ],
+     [
+      "Français-nous-sommes",
+      "Fransızız"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "très",
+      "Çok"
+     ],
+     [
+      "heureux-je-suis",
+      "mutluyum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "mari-mon",
+      "Kocam"
+     ],
+     [
+      "Turc",
+      "Türk"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "marié-je-suis",
+      "Evliyim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "porte",
+      "Kapı"
+     ],
+     [
+      "voisin-son-nous-sommes",
+      "komşusuyuz"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-0-5": [
+   {
+    "words": [
+     [
+      "moi",
+      "Ben"
+     ],
+     [
+      "Turc",
+      "Türk"
+     ],
+     [
+      "pas je-suis",
+      "değilim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ceci",
+      "Bu"
+     ],
+     [
+      "de-moi",
+      "benim"
+     ],
+     [
+      "verre-mon",
+      "bardağım"
+     ],
+     [
+      "pas",
+      "değil"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "thé",
+      "Çay"
+     ],
+     [
+      "chaud",
+      "sıcak"
+     ],
+     [
+      "pas",
+      "değil"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "du-tout",
+      "Hiç"
+     ],
+     [
+      "fatigué",
+      "yorgun"
+     ],
+     [
+      "pas je-suis",
+      "değilim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "cet-endroit",
+      "Burası"
+     ],
+     [
+      "cher",
+      "pahalı"
+     ],
+     [
+      "pas",
+      "değil"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "nous",
+      "Biz"
+     ],
+     [
+      "d'ici",
+      "buralı"
+     ],
+     [
+      "pas nous-sommes",
+      "değiliz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "café",
+      "Kafe"
+     ],
+     [
+      "loin",
+      "uzak"
+     ],
+     [
+      "pas",
+      "değil"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "thé",
+      "Çay"
+     ],
+     [
+      "bon",
+      "güzel"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "foncé",
+      "koyu"
+     ],
+     [
+      "pas",
+      "değil"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "serveur",
+      "Garson"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "chaleureux",
+      "sıcakkanlı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "problème",
+      "Sorun"
+     ],
+     [
+      "pas",
+      "değil"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-0-6": [
+   {
+    "words": [
+     [
+      "ferry-à",
+      "Vapura"
+     ],
+     [
+      "monte-je",
+      "biniyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "matin",
+      "Sabah"
+     ],
+     [
+      "journal-son-le",
+      "gazetesini"
+     ],
+     [
+      "lis-je",
+      "okuyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Ahmet",
+      "Ahmet"
+     ],
+     [
+      "thé",
+      "çay"
+     ],
+     [
+      "boit",
+      "içiyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "mer-vers",
+      "Denize"
+     ],
+     [
+      "regarde-je",
+      "bakıyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ferry",
+      "Vapur"
+     ],
+     [
+      "Bosphore-le",
+      "Boğaz'ı"
+     ],
+     [
+      "traverse",
+      "geçiyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Eminönü-à",
+      "Eminönü'ne"
+     ],
+     [
+      "vais-je",
+      "gidiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "mouettes-aux",
+      "Martılara"
+     ],
+     [
+      "simit",
+      "simit"
+     ],
+     [
+      "lance-je",
+      "atıyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ferry",
+      "Vapur"
+     ],
+     [
+      "heure",
+      "saat"
+     ],
+     [
+      "huit-à",
+      "sekizde"
+     ],
+     [
+      "part",
+      "kalkıyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ferry-sur",
+      "Vapurda"
+     ],
+     [
+      "thé",
+      "çay"
+     ],
+     [
+      "achète-je",
+      "alıyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "trajet",
+      "Yolculuk"
+     ],
+     [
+      "vingt",
+      "yirmi"
+     ],
+     [
+      "minute",
+      "dakika"
+     ],
+     [
+      "dure",
+      "sürüyor"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-0-7": [
+   {
+    "words": [
+     [
+      "pain",
+      "Ekmek"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "pain",
+      "Ekmek"
+     ],
+     [
+      "frais",
+      "taze"
+     ],
+     [
+      "petit mot de question",
+      "mi"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "cher",
+      "Pahalı"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "épicier",
+      "Bakkal"
+     ],
+     [
+      "vous",
+      "siz"
+     ],
+     [
+      "est-ce que vous-êtes",
+      "misiniz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ces",
+      "Bu"
+     ],
+     [
+      "tomates",
+      "domatesler"
+     ],
+     [
+      "bon",
+      "iyi"
+     ],
+     [
+      "petit mot de question",
+      "mi"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "boutique",
+      "Dükkân"
+     ],
+     [
+      "ouvert",
+      "açık"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "blanc",
+      "Beyaz"
+     ],
+     [
+      "fromage",
+      "peynir"
+     ],
+     [
+      "s'il-vous-plaît",
+      "lütfen"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "vous",
+      "Siz"
+     ],
+     [
+      "aussi",
+      "de"
+     ],
+     [
+      "Français",
+      "Fransız"
+     ],
+     [
+      "est-ce que vous-êtes",
+      "mısınız"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "vache",
+      "İnek"
+     ],
+     [
+      "lait-son",
+      "sütü"
+     ],
+     [
+      "petit mot de question",
+      "mü"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "merci",
+      "Teşekkürler"
+     ],
+     [
+      "demain",
+      "yarın"
+     ],
+     [
+      "nous-nous-voyons",
+      "görüşürüz"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-0-8": [
+   {
+    "words": [
+     [
+      "cuisine-dans",
+      "Mutfakta"
+     ],
+     [
+      "thé",
+      "çay"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "lait",
+      "Süt"
+     ],
+     [
+      "il-n'y-a-pas",
+      "yok"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "frigo-son-dans",
+      "Buzdolabında"
+     ],
+     [
+      "œuf",
+      "yumurta"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "aucun",
+      "Hiç"
+     ],
+     [
+      "pain",
+      "ekmek"
+     ],
+     [
+      "il-n'y-a-pas",
+      "yok"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un",
+      "Bir"
+     ],
+     [
+      "problème",
+      "sorun"
+     ],
+     [
+      "petit mot de question",
+      "mu"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "non",
+      "Hayır"
+     ],
+     [
+      "problème",
+      "sorun"
+     ],
+     [
+      "il-n'y-a-pas",
+      "yok"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "coin-à",
+      "Köşede"
+     ],
+     [
+      "une",
+      "bir"
+     ],
+     [
+      "épicerie",
+      "bakkal"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "olive",
+      "Zeytin"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "maison-à",
+      "Evde"
+     ],
+     [
+      "sucre",
+      "şeker"
+     ],
+     [
+      "il-n'y-a-pas",
+      "yok"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "fromage",
+      "Peynir"
+     ],
+     [
+      "et",
+      "ve"
+     ],
+     [
+      "tomate",
+      "domates"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-0-9": [
+   {
+    "words": [
+     [
+      "pardon",
+      "Pardon"
+     ],
+     [
+      "ceci",
+      "bu"
+     ],
+     [
+      "quoi",
+      "ne"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ceci",
+      "Bu"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "frais",
+      "taze"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "et",
+      "Ya"
+     ],
+     [
+      "ce-là",
+      "şu"
+     ],
+     [
+      "melon",
+      "kavun"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "cette",
+      "Bu"
+     ],
+     [
+      "pomme",
+      "elma"
+     ],
+     [
+      "sucré",
+      "tatlı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce-là",
+      "Şu"
+     ],
+     [
+      "poisson",
+      "balık"
+     ],
+     [
+      "cher",
+      "pahalı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce-là-bas",
+      "O"
+     ],
+     [
+      "boutique",
+      "dükkân"
+     ],
+     [
+      "fermé",
+      "kapalı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ceci-le",
+      "Bunu"
+     ],
+     [
+      "prends-je",
+      "alıyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "cela-les",
+      "Şunları"
+     ],
+     [
+      "donnez",
+      "verin"
+     ],
+     [
+      "s'il-vous-plaît",
+      "lütfen"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ces",
+      "Bu"
+     ],
+     [
+      "figues",
+      "incirler"
+     ],
+     [
+      "magnifique",
+      "harika"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "mardi",
+      "Salı"
+     ],
+     [
+      "marché-son",
+      "pazarı"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "bondé",
+      "kalabalık"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-0-10": [
+   {
+    "words": [
+     [
+      "deux",
+      "İki"
+     ],
+     [
+      "simit",
+      "simit"
+     ],
+     [
+      "s'il-vous-plaît",
+      "lütfen"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "trois",
+      "Üç"
+     ],
+     [
+      "verre",
+      "bardak"
+     ],
+     [
+      "thé",
+      "çay"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "quatre",
+      "Dört"
+     ],
+     [
+      "tomate",
+      "domates"
+     ],
+     [
+      "veux-je",
+      "istiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "cinq",
+      "Beş"
+     ],
+     [
+      "pomme",
+      "elma"
+     ],
+     [
+      "s'il-vous-plaît",
+      "lütfen"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "six",
+      "Altı"
+     ],
+     [
+      "œuf",
+      "yumurta"
+     ],
+     [
+      "suffit",
+      "yeter"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "une",
+      "Bir"
+     ],
+     [
+      "semaine-dans",
+      "haftada"
+     ],
+     [
+      "sept",
+      "yedi"
+     ],
+     [
+      "jour",
+      "gün"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "table-à",
+      "Masada"
+     ],
+     [
+      "huit",
+      "sekiz"
+     ],
+     [
+      "personne-nous-sommes",
+      "kişiyiz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "fils-mon",
+      "Oğlum"
+     ],
+     [
+      "neuf",
+      "dokuz"
+     ],
+     [
+      "âge-son-dans",
+      "yaşında"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "en-marchant",
+      "Yürüyerek"
+     ],
+     [
+      "dix",
+      "on"
+     ],
+     [
+      "minute",
+      "dakika"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un",
+      "Bir"
+     ],
+     [
+      "deux",
+      "iki"
+     ],
+     [
+      "trois",
+      "üç"
+     ],
+     [
+      "allez",
+      "haydi"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-0-11": [
+   {
+    "words": [
+     [
+      "enfant-s",
+      "Çocuklar"
+     ],
+     [
+      "rue-dans",
+      "sokakta"
+     ],
+     [
+      "joue",
+      "oynuyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "voisin-s",
+      "Komşular"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "gentil",
+      "nazik"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "chat-s",
+      "Kediler"
+     ],
+     [
+      "soleil-au",
+      "güneşte"
+     ],
+     [
+      "dort",
+      "uyuyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Kadıköy-de",
+      "Kadıköy'ün"
+     ],
+     [
+      "rue-s-ses",
+      "sokakları"
+     ],
+     [
+      "vivant",
+      "canlı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "livre-s",
+      "Kitaplar"
+     ],
+     [
+      "table-sur",
+      "masada"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "toutes",
+      "Bütün"
+     ],
+     [
+      "fenêtre-s",
+      "pencereler"
+     ],
+     [
+      "ouvert",
+      "açık"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "maison-s",
+      "Evler"
+     ],
+     [
+      "coloré",
+      "rengârenk"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "simit-s",
+      "Simitler"
+     ],
+     [
+      "encore",
+      "hâlâ"
+     ],
+     [
+      "chaud",
+      "sıcak"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "matin-s-les",
+      "Sabahları"
+     ],
+     [
+      "ferry-s",
+      "vapurlar"
+     ],
+     [
+      "plein",
+      "dolu"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ici",
+      "Burada"
+     ],
+     [
+      "beaucoup",
+      "çok"
+     ],
+     [
+      "chat",
+      "kedi"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-0-12": [
+   {
+    "words": [
+     [
+      "clé",
+      "Anahtar"
+     ],
+     [
+      "où",
+      "nerede"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "clé",
+      "Anahtar"
+     ],
+     [
+      "table-basse-sur",
+      "sehpada"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Şu"
+     ],
+     [
+      "moment",
+      "an"
+     ],
+     [
+      "où-vous-êtes",
+      "neredesiniz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "maison-à-je-suis",
+      "Evdeyim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "frère-mon",
+      "Kardeşim"
+     ],
+     [
+      "Kadıköy-à",
+      "Kadıköy'de"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "bus",
+      "Otobüs"
+     ],
+     [
+      "arrêt-son",
+      "durağı"
+     ],
+     [
+      "où",
+      "nerede"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "chat",
+      "Kedi"
+     ],
+     [
+      "jardin-dans",
+      "bahçede"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ferry-sur-nous-sommes",
+      "Vapurdayız"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "téléphone",
+      "Telefon"
+     ],
+     [
+      "sac-dans",
+      "çantada"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "toilette",
+      "Tuvalet"
+     ],
+     [
+      "où",
+      "nerede"
+     ],
+     [
+      "s'il-vous-plaît",
+      "lütfen"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-0-13": [
+   {
+    "words": [
+     [
+      "heure",
+      "Saat"
+     ],
+     [
+      "sept-à",
+      "yedide"
+     ],
+     [
+      "réveille-je",
+      "uyanıyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "thé",
+      "Çay"
+     ],
+     [
+      "bois-je",
+      "içiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "petit-déjeuner-au",
+      "Kahvaltıda"
+     ],
+     [
+      "simit",
+      "simit"
+     ],
+     [
+      "mange-je",
+      "yiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "rapidement",
+      "Hızlıca"
+     ],
+     [
+      "douche",
+      "duş"
+     ],
+     [
+      "prends-je",
+      "alıyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ensuite",
+      "Sonra"
+     ],
+     [
+      "m'habille-je",
+      "giyiniyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "épouse-ma",
+      "Eşim"
+     ],
+     [
+      "nouvelles-les",
+      "haberleri"
+     ],
+     [
+      "lit",
+      "okuyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "petit-s",
+      "Küçükler"
+     ],
+     [
+      "encore",
+      "hâlâ"
+     ],
+     [
+      "dort",
+      "uyuyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "quoi",
+      "Ne"
+     ],
+     [
+      "faites-vous",
+      "yapıyorsunuz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "travail-au",
+      "İşe"
+     ],
+     [
+      "vais-je",
+      "gidiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ferry-le",
+      "Vapuru"
+     ],
+     [
+      "attendons-nous",
+      "bekliyoruz"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-0-14": [
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "soir",
+      "akşam"
+     ],
+     [
+      "venir pas je",
+      "gelmiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "dimanche",
+      "Pazar"
+     ],
+     [
+      "jour-s-les",
+      "günleri"
+     ],
+     [
+      "travailler pas je",
+      "çalışmıyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "pluie",
+      "Yağmur"
+     ],
+     [
+      "tomber pas",
+      "yağmıyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "café",
+      "Kahve"
+     ],
+     [
+      "boire pas je",
+      "içmiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "enfant-s",
+      "Çocuklar"
+     ],
+     [
+      "dormir pas",
+      "uyumuyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "faute-à",
+      "Kusura"
+     ],
+     [
+      "ne-regardez-pas",
+      "bakmayın"
+     ],
+     [
+      "comprendre pas je",
+      "anlamıyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ferry",
+      "Vapur"
+     ],
+     [
+      "partir pas",
+      "kalkmıyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "soir",
+      "akşam"
+     ],
+     [
+      "dehors",
+      "dışarı"
+     ],
+     [
+      "sortir pas nous",
+      "çıkmıyoruz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "manger pas",
+      "Yemiyor"
+     ],
+     [
+      "est-ce que vous",
+      "musunuz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "maison-à",
+      "Evde"
+     ],
+     [
+      "reste-je",
+      "kalıyorum"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-0-15": [
+   {
+    "words": [
+     [
+      "ceci",
+      "Bu"
+     ],
+     [
+      "qui",
+      "kim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "quoi",
+      "Ne"
+     ],
+     [
+      "buvez-vous",
+      "içiyorsunuz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "nom-votre",
+      "Adınız"
+     ],
+     [
+      "quoi",
+      "ne"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "nouveau",
+      "Yeni"
+     ],
+     [
+      "bureau",
+      "ofis"
+     ],
+     [
+      "comment",
+      "nasıl"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "combien",
+      "Kaç"
+     ],
+     [
+      "travail",
+      "iş"
+     ],
+     [
+      "ami-votre",
+      "arkadaşınız"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "combien",
+      "Kaç"
+     ],
+     [
+      "livre",
+      "lira"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "directeur-votre",
+      "Müdürünüz"
+     ],
+     [
+      "qui",
+      "kim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "soir",
+      "akşam"
+     ],
+     [
+      "quoi",
+      "ne"
+     ],
+     [
+      "faites-vous",
+      "yapıyorsunuz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "travail-au",
+      "İşe"
+     ],
+     [
+      "comment",
+      "nasıl"
+     ],
+     [
+      "allez-vous",
+      "gidiyorsunuz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "combien",
+      "Kaç"
+     ],
+     [
+      "âge-son-dans-vous-êtes",
+      "yaşındasınız"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-0-16": [
+   {
+    "words": [
+     [
+      "ce",
+      "Şu"
+     ],
+     [
+      "moment",
+      "an"
+     ],
+     [
+      "heure",
+      "saat"
+     ],
+     [
+      "combien",
+      "kaç"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "heure",
+      "Saat"
+     ],
+     [
+      "pile",
+      "tam"
+     ],
+     [
+      "huit",
+      "sekiz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "heure",
+      "Saat"
+     ],
+     [
+      "encore",
+      "daha"
+     ],
+     [
+      "neuf",
+      "dokuz"
+     ],
+     [
+      "demi",
+      "buçuk"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ferry",
+      "Vapur"
+     ],
+     [
+      "heure",
+      "saat"
+     ],
+     [
+      "combien-à",
+      "kaçta"
+     ],
+     [
+      "part",
+      "kalkıyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ferry",
+      "Vapur"
+     ],
+     [
+      "heure",
+      "saat"
+     ],
+     [
+      "dix-à",
+      "onda"
+     ],
+     [
+      "part",
+      "kalkıyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "bureau-au",
+      "Ofiste"
+     ],
+     [
+      "heure",
+      "saat"
+     ],
+     [
+      "neuf-à",
+      "dokuzda"
+     ],
+     [
+      "commence-je",
+      "başlıyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "heure",
+      "Saat"
+     ],
+     [
+      "dix",
+      "on"
+     ],
+     [
+      "deux",
+      "iki"
+     ],
+     [
+      "devenu",
+      "oldu"
+     ],
+     [
+      "même",
+      "bile"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "heure",
+      "Saat"
+     ],
+     [
+      "trois-le",
+      "üçü"
+     ],
+     [
+      "quart",
+      "çeyrek"
+     ],
+     [
+      "passe",
+      "geçiyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "heure",
+      "Saat"
+     ],
+     [
+      "six-à",
+      "altıda"
+     ],
+     [
+      "maison-à",
+      "eve"
+     ],
+     [
+      "rentre-je",
+      "dönüyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "heure",
+      "Saat"
+     ],
+     [
+      "sept-à",
+      "yedide"
+     ],
+     [
+      "embarcadère-à",
+      "iskelede"
+     ],
+     [
+      "retrouvons-nous",
+      "buluşalım"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-0-17": [
+   {
+    "words": [
+     [
+      "tigré",
+      "Tekir"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "chat-mon",
+      "kedim"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "deux",
+      "İki"
+     ],
+     [
+      "enfant-mon",
+      "çocuğum"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "chat-votre",
+      "Kediniz"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "matin",
+      "sabah"
+     ],
+     [
+      "temps-mon",
+      "vaktim"
+     ],
+     [
+      "il-n'y-a-pas",
+      "yok"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "petit",
+      "Küçük"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "balcon-notre",
+      "balkonumuz"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "frère-mon-de",
+      "Kardeşimin"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "bateau-son",
+      "teknesi"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "petite",
+      "Küçük"
+     ],
+     [
+      "une",
+      "bir"
+     ],
+     [
+      "question-ma",
+      "sorum"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "frère-ou-sœur-votre",
+      "Kardeşiniz"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "dessus-mon-sur",
+      "Üstümde"
+     ],
+     [
+      "argent-mon",
+      "param"
+     ],
+     [
+      "il-n'y-a-pas",
+      "yok"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "demain",
+      "Yarın"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "rendez-vous-mon",
+      "randevum"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-0-18": [
+   {
+    "words": [
+     [
+      "tout-chaud",
+      "Sıcacık"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "thé",
+      "çay"
+     ],
+     [
+      "veux-je",
+      "istiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "film",
+      "Film"
+     ],
+     [
+      "regarder",
+      "izlemek"
+     ],
+     [
+      "veux-je",
+      "istiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "quoi",
+      "Ne"
+     ],
+     [
+      "manger",
+      "yemek"
+     ],
+     [
+      "voulez-vous",
+      "istiyorsunuz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "lentille",
+      "Mercimek"
+     ],
+     [
+      "soupe-sa",
+      "çorbası"
+     ],
+     [
+      "veux-je",
+      "istiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "enfant-s",
+      "Çocuklar"
+     ],
+     [
+      "jouer",
+      "oynamak"
+     ],
+     [
+      "veut",
+      "istiyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "soir",
+      "akşam"
+     ],
+     [
+      "dehors",
+      "dışarı"
+     ],
+     [
+      "sortir",
+      "çıkmak"
+     ],
+     [
+      "vouloir pas je",
+      "istemiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "dessert",
+      "Tatlı"
+     ],
+     [
+      "voulez",
+      "istiyor"
+     ],
+     [
+      "est-ce que vous",
+      "musunuz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "seulement",
+      "Sadece"
+     ],
+     [
+      "se-reposer",
+      "dinlenmek"
+     ],
+     [
+      "veux-je",
+      "istiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "une",
+      "Bir"
+     ],
+     [
+      "pide",
+      "pide"
+     ],
+     [
+      "commande",
+      "sipariş"
+     ],
+     [
+      "faire",
+      "etmek"
+     ],
+     [
+      "voulons-nous",
+      "istiyoruz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un-peu",
+      "Biraz"
+     ],
+     [
+      "musique",
+      "müzik"
+     ],
+     [
+      "veux-je",
+      "istiyorum"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-0-19": [
+   {
+    "words": [
+     [
+      "voilà",
+      "İşte"
+     ],
+     [
+      "premier",
+      "ilk"
+     ],
+     [
+      "module",
+      "modül"
+     ],
+     [
+      "finit",
+      "bitiyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "patience-votre",
+      "Sabrınız"
+     ],
+     [
+      "pour",
+      "için"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "merci",
+      "teşekkürler"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "turc",
+      "Türkçe"
+     ],
+     [
+      "plus",
+      "daha"
+     ],
+     [
+      "facile",
+      "kolay"
+     ],
+     [
+      "devient",
+      "oluyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "pardon",
+      "Pardon"
+     ],
+     [
+      "répétition",
+      "tekrar"
+     ],
+     [
+      "faire",
+      "eder"
+     ],
+     [
+      "est-ce que vous",
+      "misiniz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un-peu",
+      "Biraz"
+     ],
+     [
+      "plus",
+      "daha"
+     ],
+     [
+      "lent",
+      "yavaş"
+     ],
+     [
+      "s'il-vous-plaît",
+      "lütfen"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "demande",
+      "Rica"
+     ],
+     [
+      "fais-je",
+      "ederim"
+     ],
+     [
+      "quoi",
+      "ne"
+     ],
+     [
+      "dire",
+      "demek"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un-peu",
+      "Biraz"
+     ],
+     [
+      "turc",
+      "Türkçe"
+     ],
+     [
+      "parle-je",
+      "konuşuyorum"
+     ],
+     [
+      "déjà",
+      "bile"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "prochain",
+      "Sonraki"
+     ],
+     [
+      "module-dans",
+      "modülde"
+     ],
+     [
+      "voyage-au",
+      "yolculuğa"
+     ],
+     [
+      "partons-nous",
+      "çıkıyoruz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "bravo",
+      "Bravo"
+     ],
+     [
+      "ainsi",
+      "böyle"
+     ],
+     [
+      "suite",
+      "devam"
+     ],
+     [
+      "faites",
+      "edin"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "merci",
+      "Teşekkürler"
+     ],
+     [
+      "se-voir",
+      "görüşmek"
+     ],
+     [
+      "sur-le-point-de",
+      "üzere"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-0": [
+   {
+    "words": [
+     [
+      "bonjour",
+      "Merhaba"
+     ],
+     [
+      "voici",
+      "buyurun"
+     ],
+     [
+      "passeport-mon",
+      "pasaportum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Français",
+      "Fransız"
+     ],
+     [
+      "est-ce que vous-êtes",
+      "mısınız"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "oui",
+      "Evet"
+     ],
+     [
+      "Français-je-suis",
+      "Fransızım"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "vacances",
+      "Tatil"
+     ],
+     [
+      "pour",
+      "için"
+     ],
+     [
+      "ici-je-suis",
+      "buradayım"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "valise-s",
+      "Valizler"
+     ],
+     [
+      "où",
+      "nerede"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "valise-ma",
+      "Valizim"
+     ],
+     [
+      "là-bas",
+      "orada"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "centre-vers",
+      "Merkeze"
+     ],
+     [
+      "bus",
+      "otobüs"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "oui",
+      "Evet"
+     ],
+     [
+      "porte-de",
+      "kapının"
+     ],
+     [
+      "juste",
+      "hemen"
+     ],
+     [
+      "devant-son-à",
+      "önünde"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "sortie",
+      "Çıkış"
+     ],
+     [
+      "où",
+      "nerede"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Izmir-à",
+      "İzmir'e"
+     ],
+     [
+      "agréable",
+      "hoş"
+     ],
+     [
+      "venir vous",
+      "geldiniz"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-1": [
+   {
+    "words": [
+     [
+      "aujourd'hui",
+      "Bugün"
+     ],
+     [
+      "temps",
+      "hava"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "beau",
+      "güzel"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "demain",
+      "Yarın"
+     ],
+     [
+      "Éphèse-à",
+      "Efes'e"
+     ],
+     [
+      "aller nous",
+      "gidiyoruz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "hier",
+      "Dün"
+     ],
+     [
+      "Izmir-à",
+      "İzmir'e"
+     ],
+     [
+      "venir je",
+      "geldim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "aujourd'hui",
+      "Bugün"
+     ],
+     [
+      "hôtel-dans",
+      "otelde"
+     ],
+     [
+      "rester nous",
+      "kalıyoruz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "demain",
+      "Yarın"
+     ],
+     [
+      "matin",
+      "sabah"
+     ],
+     [
+      "bus",
+      "otobüs"
+     ],
+     [
+      "heure",
+      "saat"
+     ],
+     [
+      "huit-à",
+      "sekizde"
+     ],
+     [
+      "partir",
+      "kalkıyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "hier",
+      "Dün"
+     ],
+     [
+      "temps",
+      "hava"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "chaud",
+      "sıcaktı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "aujourd'hui",
+      "Bugün"
+     ],
+     [
+      "quoi",
+      "ne"
+     ],
+     [
+      "faire nous",
+      "yapıyoruz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "aujourd'hui",
+      "Bugün"
+     ],
+     [
+      "plage-à",
+      "plaja"
+     ],
+     [
+      "aller nous",
+      "gidiyoruz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "et",
+      "Ya"
+     ],
+     [
+      "demain",
+      "yarın"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "demain",
+      "Yarın"
+     ],
+     [
+      "regarder nous",
+      "bakarız"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-2": [
+   {
+    "words": [
+     [
+      "bon",
+      "İyi"
+     ],
+     [
+      "soirs",
+      "akşamlar"
+     ],
+     [
+      "réservation-ma",
+      "rezervasyonum"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "quel",
+      "Hangi"
+     ],
+     [
+      "nom-avec",
+      "isimle"
+     ],
+     [
+      "s'il-vous-plaît",
+      "lütfen"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "nom-mon",
+      "Adım"
+     ],
+     [
+      "Paul Martin",
+      "Paul Martin"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "trois",
+      "Üç"
+     ],
+     [
+      "nuit",
+      "gece"
+     ],
+     [
+      "pour",
+      "için"
+     ],
+     [
+      "une",
+      "bir"
+     ],
+     [
+      "chambre",
+      "oda"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "chambre-votre",
+      "Odanız"
+     ],
+     [
+      "deuxième",
+      "ikinci"
+     ],
+     [
+      "étage-à",
+      "katta"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "voici",
+      "Buyurun"
+     ],
+     [
+      "clé-votre",
+      "anahtarınız"
+     ],
+     [
+      "bonnes",
+      "iyi"
+     ],
+     [
+      "vacances",
+      "tatiller"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "petit-déjeuner",
+      "Kahvaltı"
+     ],
+     [
+      "heure",
+      "saat"
+     ],
+     [
+      "combien-à",
+      "kaçta"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "matin",
+      "Sabah"
+     ],
+     [
+      "heure",
+      "saat"
+     ],
+     [
+      "sept-à",
+      "yedide"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "chambre-dans-qui-est",
+      "Odadaki"
+     ],
+     [
+      "climatisation",
+      "klima"
+     ],
+     [
+      "marcher pas",
+      "çalışmıyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "chambre-de",
+      "Odanın"
+     ],
+     [
+      "mer",
+      "deniz"
+     ],
+     [
+      "vue-sa",
+      "manzarası"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-3": [
+   {
+    "words": [
+     [
+      "où-vers",
+      "Nereye"
+     ],
+     [
+      "aller vous",
+      "gidiyorsunuz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Izmir-à",
+      "İzmir'e"
+     ],
+     [
+      "aller je",
+      "gidiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "mer-à",
+      "Denize"
+     ],
+     [
+      "aller nous",
+      "gidiyoruz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "bus",
+      "otobüs"
+     ],
+     [
+      "Çeşme-à",
+      "Çeşme'ye"
+     ],
+     [
+      "aller",
+      "gidiyor"
+     ],
+     [
+      "petit mot de question",
+      "mu"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "non",
+      "Hayır"
+     ],
+     [
+      "aéroport-à",
+      "havalimanına"
+     ],
+     [
+      "aller",
+      "gidiyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "maintenant",
+      "Şimdi"
+     ],
+     [
+      "hôtel-à",
+      "otele"
+     ],
+     [
+      "aller je",
+      "gidiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "marché-à",
+      "Pazara"
+     ],
+     [
+      "venir",
+      "geliyor"
+     ],
+     [
+      "est-ce que vous",
+      "musunuz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "amie-mon",
+      "Arkadaşım"
+     ],
+     [
+      "plage-à",
+      "plaja"
+     ],
+     [
+      "aller",
+      "gidiyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "soir",
+      "akşam"
+     ],
+     [
+      "port-à",
+      "limana"
+     ],
+     [
+      "aller nous",
+      "gidiyoruz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "bons",
+      "İyi"
+     ],
+     [
+      "voyages",
+      "yolculuklar"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-4": [
+   {
+    "words": [
+     [
+      "devise",
+      "Döviz"
+     ],
+     [
+      "bureau-son",
+      "bürosu"
+     ],
+     [
+      "où",
+      "nerede"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un-peu",
+      "Biraz"
+     ],
+     [
+      "argent",
+      "para"
+     ],
+     [
+      "faire-changer",
+      "bozdurmak"
+     ],
+     [
+      "vouloir je",
+      "istiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "distributeur",
+      "ATM"
+     ],
+     [
+      "banque-de",
+      "bankanın"
+     ],
+     [
+      "côté-son-à",
+      "yanında"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "carte-ma",
+      "Kartım"
+     ],
+     [
+      "marcher pas",
+      "çalışmıyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "espèces",
+      "Nakit"
+     ],
+     [
+      "payer je",
+      "ödüyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "seulement",
+      "Sadece"
+     ],
+     [
+      "turque",
+      "Türk"
+     ],
+     [
+      "livre-ma",
+      "liram"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "pas-du-tout",
+      "Hiç"
+     ],
+     [
+      "petite",
+      "bozuk"
+     ],
+     [
+      "monnaie-ma",
+      "param"
+     ],
+     [
+      "il-n'y-a-pas",
+      "yok"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "cent",
+      "Yüz"
+     ],
+     [
+      "livre-de",
+      "liranın"
+     ],
+     [
+      "monnaie-sa",
+      "bozuğu"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "voici",
+      "Buyurun"
+     ],
+     [
+      "argent-votre",
+      "paranız"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "beaucoup",
+      "Çok"
+     ],
+     [
+      "merci-s",
+      "teşekkürler"
+     ],
+     [
+      "agréablement",
+      "hoşça"
+     ],
+     [
+      "restez",
+      "kalın"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-5": [
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "figue-s",
+      "incirler"
+     ],
+     [
+      "combien",
+      "kaç"
+     ],
+     [
+      "livre",
+      "lira"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "kilo-son",
+      "Kilosu"
+     ],
+     [
+      "quatre-vingts",
+      "seksen"
+     ],
+     [
+      "livre",
+      "lira"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "foulard",
+      "şal"
+     ],
+     [
+      "combien",
+      "kaç"
+     ],
+     [
+      "livre",
+      "lira"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "deux",
+      "İki"
+     ],
+     [
+      "cent",
+      "yüz"
+     ],
+     [
+      "livre",
+      "lira"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "moi-à",
+      "Bana"
+     ],
+     [
+      "un-peu",
+      "biraz"
+     ],
+     [
+      "cher",
+      "pahalı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "cent",
+      "Yüz"
+     ],
+     [
+      "cinquante",
+      "elli"
+     ],
+     [
+      "livre",
+      "lira"
+     ],
+     [
+      "ça-va",
+      "olur"
+     ],
+     [
+      "petit mot de question",
+      "mu"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "d'accord",
+      "Tamam"
+     ],
+     [
+      "cent",
+      "yüz"
+     ],
+     [
+      "soixante-dix",
+      "yetmiş"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "olive-s",
+      "Zeytinler"
+     ],
+     [
+      "combien",
+      "kaç"
+     ],
+     [
+      "livre",
+      "lira"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "dette-ma",
+      "Borcum"
+     ],
+     [
+      "quoi",
+      "ne"
+     ],
+     [
+      "autant",
+      "kadar"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "total",
+      "Toplam"
+     ],
+     [
+      "trois",
+      "üç"
+     ],
+     [
+      "cent",
+      "yüz"
+     ],
+     [
+      "livre",
+      "lira"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-6": [
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "poisson",
+      "balık"
+     ],
+     [
+      "frais",
+      "taze"
+     ],
+     [
+      "petit mot de question",
+      "mi"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "oui",
+      "Evet"
+     ],
+     [
+      "ce",
+      "bu"
+     ],
+     [
+      "matin",
+      "sabah"
+     ],
+     [
+      "venir",
+      "geldi"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "quel",
+      "hangi"
+     ],
+     [
+      "poisson",
+      "balık"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "daurade",
+      "çipura"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un",
+      "Bir"
+     ],
+     [
+      "kilo",
+      "kilo"
+     ],
+     [
+      "sardine",
+      "sardalya"
+     ],
+     [
+      "vouloir je",
+      "istiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "nettoyer",
+      "Temizler"
+     ],
+     [
+      "est-ce que vous",
+      "misiniz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "moule",
+      "Midye"
+     ],
+     [
+      "farcie",
+      "dolma"
+     ],
+     [
+      "aussi",
+      "da"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ici",
+      "Burada"
+     ],
+     [
+      "moule-s",
+      "midyeler"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "délicieux",
+      "lezzetli"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "soir",
+      "akşam"
+     ],
+     [
+      "poisson",
+      "balık"
+     ],
+     [
+      "manger nous",
+      "yiyoruz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "marché",
+      "Pazar"
+     ],
+     [
+      "heure",
+      "saat"
+     ],
+     [
+      "combien-à",
+      "kaçta"
+     ],
+     [
+      "fermer",
+      "kapanıyor"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-7": [
+   {
+    "words": [
+     [
+      "bus",
+      "Otobüs"
+     ],
+     [
+      "grande",
+      "büyük"
+     ],
+     [
+      "gare-routière-de",
+      "otogardan"
+     ],
+     [
+      "partir",
+      "kalkıyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Izmir-de",
+      "İzmir'den"
+     ],
+     [
+      "Selçuk-à",
+      "Selçuk'a"
+     ],
+     [
+      "jusque",
+      "kadar"
+     ],
+     [
+      "une",
+      "bir"
+     ],
+     [
+      "heure",
+      "saat"
+     ],
+     [
+      "durer",
+      "sürüyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "hôtel-de",
+      "Otelden"
+     ],
+     [
+      "gare-routière-à",
+      "otogara"
+     ],
+     [
+      "jusque",
+      "kadar"
+     ],
+     [
+      "taxi-avec",
+      "taksiyle"
+     ],
+     [
+      "aller je",
+      "gidiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Selçuk-à",
+      "Selçuk'a"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "billet",
+      "bilet"
+     ],
+     [
+      "s'il-vous-plaît",
+      "lütfen"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "bus",
+      "Otobüs"
+     ],
+     [
+      "Éphèse-à",
+      "Efes'e"
+     ],
+     [
+      "jusque",
+      "kadar"
+     ],
+     [
+      "aller",
+      "gidiyor"
+     ],
+     [
+      "petit mot de question",
+      "mu"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "non",
+      "Hayır"
+     ],
+     [
+      "seulement",
+      "sadece"
+     ],
+     [
+      "Selçuk-à",
+      "Selçuk'a"
+     ],
+     [
+      "jusque",
+      "kadar"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Lyon-de",
+      "Lyon'dan"
+     ],
+     [
+      "venir nous",
+      "geliyoruz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ruines",
+      "Ören"
+     ],
+     [
+      "lieu-son",
+      "yeri"
+     ],
+     [
+      "heure",
+      "saat"
+     ],
+     [
+      "huit-de",
+      "sekizden"
+     ],
+     [
+      "dix",
+      "on"
+     ],
+     [
+      "neuf-à",
+      "dokuza"
+     ],
+     [
+      "jusque",
+      "kadar"
+     ],
+     [
+      "ouvert",
+      "açık"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "heure",
+      "Saat"
+     ],
+     [
+      "combien-à",
+      "kaça"
+     ],
+     [
+      "jusque",
+      "kadar"
+     ],
+     [
+      "attendre vous",
+      "bekliyorsunuz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "midi-à",
+      "Öğlene"
+     ],
+     [
+      "jusque",
+      "kadar"
+     ],
+     [
+      "ici",
+      "burada"
+     ],
+     [
+      "attendre nous",
+      "bekliyoruz"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-8": [
+   {
+    "words": [
+     [
+      "entrée",
+      "Giriş"
+     ],
+     [
+      "combien",
+      "kaç"
+     ],
+     [
+      "livre",
+      "lira"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "voici",
+      "Buyurun"
+     ],
+     [
+      "deux",
+      "iki"
+     ],
+     [
+      "billet",
+      "bilet"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ruines",
+      "Ören"
+     ],
+     [
+      "lieu-son",
+      "yeri"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "grand",
+      "büyük"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Şu"
+     ],
+     [
+      "bibliothèque-à",
+      "kütüphaneye"
+     ],
+     [
+      "regardez",
+      "bakın"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "Celsus",
+      "Celsus"
+     ],
+     [
+      "bibliothèque-sa",
+      "Kütüphanesi"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "aujourd'hui",
+      "Bugün"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "bondé",
+      "kalabalık"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "temps",
+      "Hava"
+     ],
+     [
+      "chaud",
+      "sıcak"
+     ],
+     [
+      "eau-votre",
+      "suyunuz"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "grand",
+      "Büyük"
+     ],
+     [
+      "théâtre",
+      "tiyatro"
+     ],
+     [
+      "magnifique",
+      "harika"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "une",
+      "Bir"
+     ],
+     [
+      "photo",
+      "fotoğraf"
+     ],
+     [
+      "tirer je",
+      "çekiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Éphèse",
+      "Efes"
+     ],
+     [
+      "vraiment",
+      "gerçekten"
+     ],
+     [
+      "impressionnant",
+      "etkileyici"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-9": [
+   {
+    "words": [
+     [
+      "Karşıyaka-à",
+      "Karşıyaka'ya"
+     ],
+     [
+      "ferry-avec",
+      "vapurla"
+     ],
+     [
+      "aller nous",
+      "gidiyoruz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ferry",
+      "Vapur"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "agréable",
+      "keyifli"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Çeşme-à",
+      "Çeşme'ye"
+     ],
+     [
+      "bus-avec",
+      "otobüsle"
+     ],
+     [
+      "aller je",
+      "gidiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "nous-avec",
+      "Bizimle"
+     ],
+     [
+      "venir",
+      "geliyor"
+     ],
+     [
+      "est-ce que vous",
+      "musunuz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "épouse-ma-avec",
+      "Eşimle"
+     ],
+     [
+      "voyage",
+      "seyahat"
+     ],
+     [
+      "faire je",
+      "ediyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "carte-avec",
+      "Kartla"
+     ],
+     [
+      "payer je",
+      "ödüyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "baie",
+      "Körfezi"
+     ],
+     [
+      "ferry-avec",
+      "vapurla"
+     ],
+     [
+      "traverser nous",
+      "geçiyoruz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ferry",
+      "Vapur"
+     ],
+     [
+      "vingt",
+      "yirmi"
+     ],
+     [
+      "minute-dans",
+      "dakikada"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "partir",
+      "kalkıyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "mouette-s",
+      "Martılar"
+     ],
+     [
+      "ferry",
+      "vapuru"
+     ],
+     [
+      "suivi",
+      "takip"
+     ],
+     [
+      "faire",
+      "ediyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "et",
+      "Ya"
+     ],
+     [
+      "vous",
+      "siz"
+     ],
+     [
+      "voiture-avec",
+      "arabayla"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ],
+     [
+      "voyager vous",
+      "geziyorsunuz"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-10": [
+   {
+    "words": [
+     [
+      "mer-à",
+      "Denize"
+     ],
+     [
+      "proche",
+      "yakın"
+     ],
+     [
+      "une",
+      "bir"
+     ],
+     [
+      "table",
+      "masa"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "oui",
+      "Evet"
+     ],
+     [
+      "terrasse-sur",
+      "terasta"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "menu",
+      "Menüyü"
+     ],
+     [
+      "apporter",
+      "getirir"
+     ],
+     [
+      "est-ce que vous",
+      "misiniz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "soir",
+      "akşam"
+     ],
+     [
+      "quoi",
+      "ne"
+     ],
+     [
+      "conseil",
+      "tavsiye"
+     ],
+     [
+      "faire vous",
+      "edersiniz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "grillé",
+      "Izgara"
+     ],
+     [
+      "bar",
+      "levrek"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "bon",
+      "güzel"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "d'abord",
+      "Önce"
+     ],
+     [
+      "mezzé",
+      "meze"
+     ],
+     [
+      "prendre nous",
+      "alıyoruz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un",
+      "Bir"
+     ],
+     [
+      "aussi",
+      "de"
+     ],
+     [
+      "salade",
+      "salata"
+     ],
+     [
+      "s'il-vous-plaît",
+      "lütfen"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "poisson",
+      "Balık"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "délicieux",
+      "lezzetli"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "addition",
+      "Hesap"
+     ],
+     [
+      "s'il-vous-plaît",
+      "lütfen"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "jour",
+      "Gün"
+     ],
+     [
+      "coucher-son",
+      "batımı"
+     ],
+     [
+      "magnifique",
+      "harika"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-11": [
+   {
+    "words": [
+     [
+      "allons",
+      "Gidelim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "soir",
+      "akşam"
+     ],
+     [
+      "port-à",
+      "limana"
+     ],
+     [
+      "allons",
+      "gidelim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un",
+      "Bir"
+     ],
+     [
+      "thé",
+      "çay"
+     ],
+     [
+      "buvons",
+      "içelim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ici",
+      "Burada"
+     ],
+     [
+      "mangeons",
+      "yiyelim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Kordon-sur",
+      "Kordon'da"
+     ],
+     [
+      "marchons",
+      "yürüyelim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "très",
+      "Çok"
+     ],
+     [
+      "bonne",
+      "iyi"
+     ],
+     [
+      "idée",
+      "fikir"
+     ],
+     [
+      "allons",
+      "gidelim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "taxi-à",
+      "Taksiye"
+     ],
+     [
+      "montons",
+      "binelim"
+     ],
+     [
+      "petit mot de question",
+      "mi"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "non",
+      "Hayır"
+     ],
+     [
+      "marchons",
+      "yürüyelim"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "près",
+      "yakın"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un-peu",
+      "Biraz"
+     ],
+     [
+      "attendons",
+      "bekleyelim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "demain",
+      "Yarın"
+     ],
+     [
+      "Çeşme-à",
+      "Çeşme'ye"
+     ],
+     [
+      "allons",
+      "gidelim"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-12": [
+   {
+    "words": [
+     [
+      "mer",
+      "Deniz"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "limpide",
+      "berrak"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "eau",
+      "Su"
+     ],
+     [
+      "froid",
+      "soğuk"
+     ],
+     [
+      "petit mot de question",
+      "mu"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "non",
+      "Hayır"
+     ],
+     [
+      "tiède",
+      "ılık"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "deux",
+      "İki"
+     ],
+     [
+      "transat",
+      "şezlong"
+     ],
+     [
+      "louons",
+      "kiralayalım"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "parasol",
+      "Şemsiye"
+     ],
+     [
+      "combien",
+      "kaç"
+     ],
+     [
+      "livre",
+      "lira"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "aujourd'hui",
+      "Bugün"
+     ],
+     [
+      "beaucoup",
+      "çok"
+     ],
+     [
+      "vent",
+      "rüzgâr"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Alaçatı",
+      "Alaçatı"
+     ],
+     [
+      "vent-son-avec",
+      "rüzgârıyla"
+     ],
+     [
+      "célèbre",
+      "ünlü"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un-peu",
+      "Biraz"
+     ],
+     [
+      "nager je",
+      "yüzüyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "soleil",
+      "Güneş"
+     ],
+     [
+      "crème-sa",
+      "kremini"
+     ],
+     [
+      "oubliez pas",
+      "unutmayın"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "cette",
+      "Bu"
+     ],
+     [
+      "plage",
+      "plaj"
+     ],
+     [
+      "vrai",
+      "gerçek"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "paradis",
+      "cennet"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-13": [
+   {
+    "words": [
+     [
+      "plage",
+      "Plaj"
+     ],
+     [
+      "loin",
+      "uzak"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "non",
+      "Hayır"
+     ],
+     [
+      "juste",
+      "hemen"
+     ],
+     [
+      "près-dans",
+      "yakında"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "aéroport",
+      "Havalimanı"
+     ],
+     [
+      "ici-à",
+      "buraya"
+     ],
+     [
+      "loin",
+      "uzak"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "oui",
+      "Evet"
+     ],
+     [
+      "assez",
+      "oldukça"
+     ],
+     [
+      "loin",
+      "uzak"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "en-marchant",
+      "Yürüyerek"
+     ],
+     [
+      "dix",
+      "on"
+     ],
+     [
+      "minute",
+      "dakika"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "pharmacie",
+      "Eczane"
+     ],
+     [
+      "hôtel-à",
+      "otele"
+     ],
+     [
+      "près",
+      "yakın"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "loin",
+      "Uzak"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ],
+     [
+      "près",
+      "yakın"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "non",
+      "Hayır"
+     ],
+     [
+      "loin",
+      "uzak"
+     ],
+     [
+      "pas",
+      "değil"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "marché",
+      "Pazar"
+     ],
+     [
+      "port-à",
+      "limana"
+     ],
+     [
+      "près",
+      "yakın"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "près-dans",
+      "Yakında"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "café",
+      "kafe"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-14": [
+   {
+    "words": [
+     [
+      "taxi",
+      "Taksi"
+     ],
+     [
+      "libre",
+      "Boş"
+     ],
+     [
+      "est-ce que vous-êtes",
+      "musunuz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "gare-routière-à",
+      "Otogara"
+     ],
+     [
+      "s'il-vous-plaît",
+      "lütfen"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "compteur",
+      "Taksimetreyi"
+     ],
+     [
+      "ouvrir",
+      "açar"
+     ],
+     [
+      "est-ce que vous",
+      "mısınız"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "quoi",
+      "Ne"
+     ],
+     [
+      "autant",
+      "kadar"
+     ],
+     [
+      "durer",
+      "sürer"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "environ",
+      "Yaklaşık"
+     ],
+     [
+      "vingt",
+      "yirmi"
+     ],
+     [
+      "minute",
+      "dakika"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "circulation",
+      "Trafik"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "dense",
+      "yoğun"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un-peu",
+      "Biraz"
+     ],
+     [
+      "lentement",
+      "yavaş"
+     ],
+     [
+      "aller",
+      "gider"
+     ],
+     [
+      "est-ce que vous",
+      "misiniz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ici",
+      "Burada"
+     ],
+     [
+      "arrêtez",
+      "durun"
+     ],
+     [
+      "s'il-vous-plaît",
+      "lütfen"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "quoi",
+      "Ne"
+     ],
+     [
+      "autant",
+      "kadar"
+     ],
+     [
+      "tenir",
+      "tuttu"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "reste-son",
+      "Üstü"
+     ],
+     [
+      "qu'il-reste",
+      "kalsın"
+     ],
+     [
+      "merci-s",
+      "teşekkürler"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-15": [
+   {
+    "words": [
+     [
+      "thé",
+      "Çayı"
+     ],
+     [
+      "sucre-sans",
+      "şekersiz"
+     ],
+     [
+      "boire je",
+      "içiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "turc",
+      "Türk"
+     ],
+     [
+      "petit-déjeuner-son",
+      "kahvaltısını"
+     ],
+     [
+      "aimer",
+      "seviyor"
+     ],
+     [
+      "est-ce que vous",
+      "musunuz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "fromage",
+      "peyniri"
+     ],
+     [
+      "beaucoup",
+      "çok"
+     ],
+     [
+      "aimer je",
+      "seviyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "pain",
+      "Ekmeği"
+     ],
+     [
+      "tendre",
+      "uzatır"
+     ],
+     [
+      "est-ce que vous",
+      "mısınız"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "noir",
+      "Siyah"
+     ],
+     [
+      "olive-s",
+      "zeytinleri"
+     ],
+     [
+      "prendre je",
+      "alıyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "plat",
+      "yemeği"
+     ],
+     [
+      "savoir pas je",
+      "bilmiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "menemen",
+      "menemen"
+     ],
+     [
+      "tomate-avec",
+      "domatesli"
+     ],
+     [
+      "œuf",
+      "yumurta"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "menemen",
+      "Menemen"
+     ],
+     [
+      "génial",
+      "harika"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un",
+      "Bir"
+     ],
+     [
+      "thé",
+      "çay"
+     ],
+     [
+      "encore",
+      "daha"
+     ],
+     [
+      "s'il-vous-plaît",
+      "lütfen"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "simit",
+      "Simidi"
+     ],
+     [
+      "fromage-avec",
+      "peynirle"
+     ],
+     [
+      "manger je",
+      "yiyorum"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-16": [
+   {
+    "words": [
+     [
+      "le-plus",
+      "En"
+     ],
+     [
+      "proche",
+      "yakın"
+     ],
+     [
+      "pharmacie",
+      "eczane"
+     ],
+     [
+      "où",
+      "nerede"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "hier",
+      "Dün"
+     ],
+     [
+      "soleil-dans",
+      "güneşte"
+     ],
+     [
+      "brûler je",
+      "yandım"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ventre-mon",
+      "Karnım"
+     ],
+     [
+      "un-peu",
+      "biraz"
+     ],
+     [
+      "faire-mal",
+      "ağrıyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "cela-de",
+      "Bunun"
+     ],
+     [
+      "pour",
+      "için"
+     ],
+     [
+      "une",
+      "bir"
+     ],
+     [
+      "crème",
+      "krem"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "jour-dans",
+      "Günde"
+     ],
+     [
+      "deux",
+      "iki"
+     ],
+     [
+      "fois",
+      "kez"
+     ],
+     [
+      "étalez",
+      "sürün"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "nuit-s",
+      "Geceleri"
+     ],
+     [
+      "moustique-s",
+      "sivrisinekler"
+     ],
+     [
+      "moi",
+      "beni"
+     ],
+     [
+      "piquer",
+      "ısırıyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "spray",
+      "sprey"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "efficace",
+      "etkili"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "abondant",
+      "Bol"
+     ],
+     [
+      "eau",
+      "su"
+     ],
+     [
+      "buvez",
+      "için"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "aujourd'hui",
+      "Bugün"
+     ],
+     [
+      "ombre-dans",
+      "gölgede"
+     ],
+     [
+      "reposez-vous",
+      "dinlenin"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "merci-s",
+      "Teşekkürler"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "gentil-vous-êtes",
+      "naziksiniz"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-17": [
+   {
+    "words": [
+     [
+      "pardon",
+      "Affedersiniz"
+     ],
+     [
+      "horloge",
+      "Saat"
+     ],
+     [
+      "tour-sa",
+      "Kulesi"
+     ],
+     [
+      "où",
+      "nerede"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "droit",
+      "Düz"
+     ],
+     [
+      "continuation",
+      "devam"
+     ],
+     [
+      "faites",
+      "edin"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ensuite",
+      "Sonra"
+     ],
+     [
+      "droite-à",
+      "sağa"
+     ],
+     [
+      "tournez",
+      "dönün"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "feux-de",
+      "Işıklardan"
+     ],
+     [
+      "gauche-à",
+      "sola"
+     ],
+     [
+      "tournez",
+      "dönün"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "droite-à",
+      "Sağda"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ],
+     [
+      "gauche-à",
+      "solda"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "gauche-votre-à",
+      "Solunuzda"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "droite-de",
+      "Sağdan"
+     ],
+     [
+      "deuxième",
+      "ikinci"
+     ],
+     [
+      "rue",
+      "sokak"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "marché",
+      "Pazar"
+     ],
+     [
+      "juste",
+      "tam"
+     ],
+     [
+      "en-face-votre-à",
+      "karşınızda"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "droit",
+      "Düz"
+     ],
+     [
+      "ensuite",
+      "sonra"
+     ],
+     [
+      "gauche-à",
+      "sola"
+     ],
+     [
+      "n'est-ce-pas",
+      "değil mi"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "oui",
+      "Evet"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "facile",
+      "kolay"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-18": [
+   {
+    "words": [
+     [
+      "cadeau-pour",
+      "Hediyelik"
+     ],
+     [
+      "objet",
+      "eşya"
+     ],
+     [
+      "chercher je",
+      "arıyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ces",
+      "Bu"
+     ],
+     [
+      "céramique",
+      "seramik"
+     ],
+     [
+      "bol-s",
+      "kâseler"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "joli",
+      "güzel"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "huile-d'olive-avec",
+      "zeytinyağlı"
+     ],
+     [
+      "savon",
+      "sabun"
+     ],
+     [
+      "bon",
+      "güzel"
+     ],
+     [
+      "sentir",
+      "kokuyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "trois",
+      "Üç"
+     ],
+     [
+      "mauvais-œil",
+      "nazar"
+     ],
+     [
+      "perle-sa",
+      "boncuğu"
+     ],
+     [
+      "prendre je",
+      "alıyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "mère-ma",
+      "Annem"
+     ],
+     [
+      "pour",
+      "için"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "cadeau",
+      "Hediye"
+     ],
+     [
+      "paquet-son",
+      "paketi"
+     ],
+     [
+      "faire",
+      "yapar"
+     ],
+     [
+      "est-ce que vous",
+      "mısınız"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "turc",
+      "Türk"
+     ],
+     [
+      "café-son",
+      "kahvesi"
+     ],
+     [
+      "aussi",
+      "de"
+     ],
+     [
+      "prendre je",
+      "alıyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "valise-ma-dans",
+      "Valizimde"
+     ],
+     [
+      "place",
+      "yer"
+     ],
+     [
+      "il-n'y-a-pas",
+      "yok"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "tapis",
+      "halı"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "beau",
+      "güzel"
+     ],
+     [
+      "mais",
+      "ama"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "cher",
+      "pahalı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "demain",
+      "Yarın"
+     ],
+     [
+      "encore",
+      "tekrar"
+     ],
+     [
+      "venir je",
+      "geliyorum"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-1-19": [
+   {
+    "words": [
+     [
+      "voyage",
+      "Seyahat"
+     ],
+     [
+      "pour",
+      "için"
+     ],
+     [
+      "un-peu",
+      "biraz"
+     ],
+     [
+      "turc",
+      "Türkçe"
+     ],
+     [
+      "nécessaire",
+      "lazım"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "désormais",
+      "Artık"
+     ],
+     [
+      "prix",
+      "fiyat"
+     ],
+     [
+      "demander",
+      "sormayı"
+     ],
+     [
+      "savoir je",
+      "biliyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "chemin",
+      "Yol"
+     ],
+     [
+      "demander",
+      "sormayı"
+     ],
+     [
+      "aussi",
+      "da"
+     ],
+     [
+      "savoir je",
+      "biliyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un-peu",
+      "Biraz"
+     ],
+     [
+      "plus",
+      "daha"
+     ],
+     [
+      "pratique",
+      "pratik"
+     ],
+     [
+      "nécessaire",
+      "lazım"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "chaque",
+      "Her"
+     ],
+     [
+      "jour",
+      "gün"
+     ],
+     [
+      "turc",
+      "Türkçe"
+     ],
+     [
+      "parler",
+      "konuşmak"
+     ],
+     [
+      "nécessaire",
+      "gerek"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "désormais",
+      "Artık"
+     ],
+     [
+      "dictionnaire-à",
+      "sözlüğe"
+     ],
+     [
+      "besoin",
+      "gerek"
+     ],
+     [
+      "il-n'y-a-pas",
+      "yok"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "turc",
+      "Türkçe"
+     ],
+     [
+      "moi-de",
+      "benim"
+     ],
+     [
+      "pour",
+      "için"
+     ],
+     [
+      "facile-devenir",
+      "kolaylaşıyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "moi-à",
+      "Bana"
+     ],
+     [
+      "courte",
+      "kısa"
+     ],
+     [
+      "une",
+      "bir"
+     ],
+     [
+      "pause",
+      "mola"
+     ],
+     [
+      "nécessaire",
+      "lazım"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "suivant",
+      "Sonraki"
+     ],
+     [
+      "module-dans",
+      "modülde"
+     ],
+     [
+      "conversation",
+      "sohbet"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "bientôt",
+      "Yakında"
+     ],
+     [
+      "se-voir nous",
+      "görüşürüz"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-0": [
+   {
+    "words": [
+     [
+      "bonjour",
+      "Merhaba"
+     ],
+     [
+      "moi",
+      "ben"
+     ],
+     [
+      "nouveau",
+      "yeni"
+     ],
+     [
+      "voisin-votre-je-suis",
+      "komşunuzum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Ankara-à",
+      "Ankara'ya"
+     ],
+     [
+      "nouvellement",
+      "yeni"
+     ],
+     [
+      "venir je",
+      "geldim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "immeuble-à",
+      "Apartmana"
+     ],
+     [
+      "agréable",
+      "hoş"
+     ],
+     [
+      "venir vous",
+      "geldiniz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "remerciement",
+      "Teşekkür"
+     ],
+     [
+      "faire-je",
+      "ederim"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "gentil-vous-êtes",
+      "naziksiniz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "moi",
+      "Ben"
+     ],
+     [
+      "juste",
+      "hemen"
+     ],
+     [
+      "dessus-à",
+      "üstte"
+     ],
+     [
+      "troisième",
+      "üçüncü"
+     ],
+     [
+      "étage-à-je-suis",
+      "kattayım"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "nous",
+      "Biz"
+     ],
+     [
+      "deuxième",
+      "ikinci"
+     ],
+     [
+      "étage-à-nous-sommes",
+      "kattayız"
+     ],
+     [
+      "juste",
+      "hemen"
+     ],
+     [
+      "dessous-votre-à",
+      "altınızda"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ici",
+      "Burada"
+     ],
+     [
+      "long",
+      "uzun"
+     ],
+     [
+      "temps-depuis",
+      "zamandır"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ],
+     [
+      "habiter vous",
+      "oturuyorsunuz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "oui",
+      "Evet"
+     ],
+     [
+      "dix",
+      "on"
+     ],
+     [
+      "an-depuis",
+      "yıldır"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "quartier",
+      "Mahalle"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "calme",
+      "sakin"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ici-qui-est",
+      "Buradaki"
+     ],
+     [
+      "voisin-s",
+      "komşular"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "bon",
+      "iyi"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-1": [
+   {
+    "words": [
+     [
+      "ton",
+      "Senin"
+     ],
+     [
+      "nom-ton",
+      "adın"
+     ],
+     [
+      "quoi",
+      "ne"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "nom-mon",
+      "Adım"
+     ],
+     [
+      "Camille",
+      "Camille"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "mon",
+      "Benim"
+     ],
+     [
+      "nom-mon",
+      "adım"
+     ],
+     [
+      "Mert",
+      "Mert"
+     ],
+     [
+      "content",
+      "memnun"
+     ],
+     [
+      "devenir je",
+      "oldum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ami-ton-de",
+      "Arkadaşının"
+     ],
+     [
+      "nom-son",
+      "adı"
+     ],
+     [
+      "quoi",
+      "ne"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "lui-de",
+      "Onun"
+     ],
+     [
+      "nom-son",
+      "adı"
+     ],
+     [
+      "Can",
+      "Can"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Français-je-suis",
+      "Fransızım"
+     ],
+     [
+      "Lyon-de-je-suis",
+      "Lyonluyum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "très",
+      "Çok"
+     ],
+     [
+      "content",
+      "memnun"
+     ],
+     [
+      "devenir je",
+      "oldum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "nom-mon",
+      "Adım"
+     ],
+     [
+      "difficile",
+      "zor"
+     ],
+     [
+      "petit mot de question",
+      "mu"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "non",
+      "Hayır"
+     ],
+     [
+      "nom-ton",
+      "adın"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "beau",
+      "güzel"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "tout-le-monde",
+      "Herkes"
+     ],
+     [
+      "moi-à",
+      "bana"
+     ],
+     [
+      "Cami",
+      "Cami"
+     ],
+     [
+      "dire il",
+      "diyor"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-2": [
+   {
+    "words": [
+     [
+      "Mert",
+      "Mert"
+     ],
+     [
+      "quel",
+      "ne"
+     ],
+     [
+      "travail",
+      "iş"
+     ],
+     [
+      "faire tu",
+      "yapıyorsun"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "français",
+      "Fransızca"
+     ],
+     [
+      "professeur-je-suis",
+      "öğretmeniyim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Kızılay-à",
+      "Kızılay'da"
+     ],
+     [
+      "une",
+      "bir"
+     ],
+     [
+      "école-dans",
+      "okulda"
+     ],
+     [
+      "travailler je",
+      "çalışıyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "toi",
+      "Sen"
+     ],
+     [
+      "où",
+      "nerede"
+     ],
+     [
+      "travailler tu",
+      "çalışıyorsun"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "grand",
+      "Büyük"
+     ],
+     [
+      "une",
+      "bir"
+     ],
+     [
+      "entreprise-dans",
+      "şirkette"
+     ],
+     [
+      "ingénieur-je-suis",
+      "mühendisim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "travail-ton",
+      "İşin"
+     ],
+     [
+      "intéressant",
+      "ilginç"
+     ],
+     [
+      "petit mot de question",
+      "mi"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "oui",
+      "Evet"
+     ],
+     [
+      "mais",
+      "ama"
+     ],
+     [
+      "beaucoup",
+      "çok"
+     ],
+     [
+      "travailler je",
+      "çalışıyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "université-à",
+      "Üniversitede"
+     ],
+     [
+      "étudiant-je-suis",
+      "öğrenciyim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "très",
+      "Çok"
+     ],
+     [
+      "bien",
+      "iyi"
+     ],
+     [
+      "français",
+      "Fransızca"
+     ],
+     [
+      "parler tu",
+      "konuşuyorsun"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "deux",
+      "İki"
+     ],
+     [
+      "mois-depuis",
+      "aydır"
+     ],
+     [
+      "turc",
+      "Türkçe"
+     ],
+     [
+      "apprendre je",
+      "öğreniyorum"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-3": [
+   {
+    "words": [
+     [
+      "Ankara",
+      "Ankara'yı"
+     ],
+     [
+      "aimer je",
+      "seviyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "turc",
+      "Türk"
+     ],
+     [
+      "thé-son",
+      "çayını"
+     ],
+     [
+      "beaucoup",
+      "çok"
+     ],
+     [
+      "aimer je",
+      "seviyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "café",
+      "Kahveyi"
+     ],
+     [
+      "aimer",
+      "seviyor"
+     ],
+     [
+      "est-ce que tu",
+      "musun"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "non",
+      "Hayır"
+     ],
+     [
+      "café",
+      "kahveyi"
+     ],
+     [
+      "guère",
+      "pek"
+     ],
+     [
+      "aimer pas je",
+      "sevmiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "repas",
+      "Yemek"
+     ],
+     [
+      "faire",
+      "yapmayı"
+     ],
+     [
+      "beaucoup",
+      "çok"
+     ],
+     [
+      "aimer je",
+      "seviyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Mert",
+      "Mert"
+     ],
+     [
+      "football",
+      "futbolu"
+     ],
+     [
+      "aimer il",
+      "seviyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "turc",
+      "Türk"
+     ],
+     [
+      "musique-sa",
+      "müziğini"
+     ],
+     [
+      "aimer nous",
+      "seviyoruz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "soir-les",
+      "Akşamları"
+     ],
+     [
+      "quoi",
+      "ne"
+     ],
+     [
+      "faire",
+      "yapmayı"
+     ],
+     [
+      "aimer tu",
+      "seviyorsun"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "livre",
+      "Kitap"
+     ],
+     [
+      "lire",
+      "okumayı"
+     ],
+     [
+      "et",
+      "ve"
+     ],
+     [
+      "marcher",
+      "yürümeyi"
+     ],
+     [
+      "aimer je",
+      "seviyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "moi",
+      "Ben"
+     ],
+     [
+      "chat-s",
+      "kedileri"
+     ],
+     [
+      "beaucoup",
+      "çok"
+     ],
+     [
+      "aimer je",
+      "seviyorum"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-4": [
+   {
+    "words": [
+     [
+      "je-vous-en-prie",
+      "Buyurun"
+     ],
+     [
+      "intérieur",
+      "içeri"
+     ],
+     [
+      "venez",
+      "gelin"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "thé",
+      "Çay"
+     ],
+     [
+      "vouloir",
+      "ister"
+     ],
+     [
+      "est-ce que vous",
+      "misiniz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "oui",
+      "Evet"
+     ],
+     [
+      "plaisir-avec",
+      "memnuniyetle"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "thé",
+      "Çay"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "chaud",
+      "sıcak"
+     ],
+     [
+      "attention",
+      "dikkat"
+     ],
+     [
+      "faites",
+      "edin"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "sucre",
+      "Şeker"
+     ],
+     [
+      "prendre",
+      "alır"
+     ],
+     [
+      "est-ce que vous",
+      "mısınız"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un",
+      "Bir"
+     ],
+     [
+      "sucre",
+      "şeker"
+     ],
+     [
+      "s'il-vous-plaît",
+      "lütfen"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "biscuit-s",
+      "kurabiyeler"
+     ],
+     [
+      "maison",
+      "ev"
+     ],
+     [
+      "fabrication-sa",
+      "yapımı"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "oui",
+      "Evet"
+     ],
+     [
+      "fille-ma",
+      "kızım"
+     ],
+     [
+      "faire elle",
+      "yapıyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "vraiment",
+      "Gerçekten"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "délicieux",
+      "lezzetli"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un",
+      "Bir"
+     ],
+     [
+      "verre",
+      "bardak"
+     ],
+     [
+      "thé",
+      "çay"
+     ],
+     [
+      "encore",
+      "daha"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-5": [
+   {
+    "words": [
+     [
+      "Elif",
+      "Elif"
+     ],
+     [
+      "frère-ou-sœur-ton",
+      "kardeşin"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "oui",
+      "Evet"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "garçon",
+      "erkek"
+     ],
+     [
+      "frère-mon",
+      "kardeşim"
+     ],
+     [
+      "et",
+      "ve"
+     ],
+     [
+      "une",
+      "bir"
+     ],
+     [
+      "grande-sœur-ma",
+      "ablam"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "grande-sœur-ma",
+      "Ablam"
+     ],
+     [
+      "Paris-à",
+      "Paris'te"
+     ],
+     [
+      "habiter elle",
+      "oturuyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "garçon",
+      "Erkek"
+     ],
+     [
+      "frère-mon",
+      "kardeşim"
+     ],
+     [
+      "encore",
+      "hâlâ"
+     ],
+     [
+      "étudiant",
+      "öğrenci"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "mère-ma-de",
+      "Annemin"
+     ],
+     [
+      "nom-son",
+      "adı"
+     ],
+     [
+      "Sophie",
+      "Sophie"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "père-mon",
+      "Babam"
+     ],
+     [
+      "Lyon-à",
+      "Lyon'da"
+     ],
+     [
+      "médecin",
+      "doktor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "mère-ta",
+      "Annen"
+     ],
+     [
+      "père-ton",
+      "baban"
+     ],
+     [
+      "où",
+      "nerede"
+     ],
+     [
+      "habiter ils",
+      "oturuyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Bordeaux",
+      "Bordeaux"
+     ],
+     [
+      "près-son-à",
+      "yakınında"
+     ],
+     [
+      "habiter ils",
+      "oturuyorlar"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Mert",
+      "Mert"
+     ],
+     [
+      "seul",
+      "tek"
+     ],
+     [
+      "enfant",
+      "çocuk"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Elif-de",
+      "Elif'in"
+     ],
+     [
+      "deux",
+      "iki"
+     ],
+     [
+      "garçon",
+      "erkek"
+     ],
+     [
+      "frère-son",
+      "kardeşi"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-6": [
+   {
+    "words": [
+     [
+      "regarde",
+      "Bak"
+     ],
+     [
+      "ceci",
+      "bu"
+     ],
+     [
+      "mon",
+      "benim"
+     ],
+     [
+      "famille-ma",
+      "ailem"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "petit",
+      "küçük"
+     ],
+     [
+      "fille",
+      "kız"
+     ],
+     [
+      "qui",
+      "kim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "nièce-ma",
+      "Yeğenim"
+     ],
+     [
+      "cinq",
+      "beş"
+     ],
+     [
+      "âge-son-à",
+      "yaşında"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "très",
+      "Çok"
+     ],
+     [
+      "mignon",
+      "tatlı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "monsieur",
+      "bey"
+     ],
+     [
+      "grand-père-ton",
+      "deden"
+     ],
+     [
+      "petit mot de question",
+      "mi"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "oui",
+      "Evet"
+     ],
+     [
+      "quatre-vingts",
+      "seksen"
+     ],
+     [
+      "âge-son-à",
+      "yaşında"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "grand-mère-ma",
+      "Babaannem"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "beau",
+      "güzel"
+     ],
+     [
+      "repas",
+      "yemek"
+     ],
+     [
+      "faire elle",
+      "yapıyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ton",
+      "Senin"
+     ],
+     [
+      "enfant-ton",
+      "çocuğun"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "non",
+      "Hayır"
+     ],
+     [
+      "encore",
+      "henüz"
+     ],
+     [
+      "il-n'y-a-pas",
+      "yok"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "famille-ma",
+      "Ailemi"
+     ],
+     [
+      "un-peu",
+      "biraz"
+     ],
+     [
+      "regretter je",
+      "özlüyorum"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-7": [
+   {
+    "words": [
+     [
+      "l'un-l'autre-à",
+      "Birbirimize"
+     ],
+     [
+      "tu",
+      "sen"
+     ],
+     [
+      "disons",
+      "diyelim"
+     ],
+     [
+      "petit mot de question",
+      "mi"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "bien-sûr",
+      "Tabii"
+     ],
+     [
+      "moi-à",
+      "bana"
+     ],
+     [
+      "tu",
+      "sen"
+     ],
+     [
+      "dis",
+      "de"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "toi",
+      "Sen"
+     ],
+     [
+      "comment-tu-es",
+      "nasılsın"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "comment-vous-êtes",
+      "Nasılsınız"
+     ],
+     [
+      "madame",
+      "hanımefendi"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "où-de-tu-es",
+      "Nerelisin"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "où-de-vous-êtes",
+      "Nerelisiniz"
+     ],
+     [
+      "monsieur",
+      "beyefendi"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Ayşe",
+      "Ayşe"
+     ],
+     [
+      "tante-à",
+      "Teyze'ye"
+     ],
+     [
+      "vous",
+      "siz"
+     ],
+     [
+      "dire je",
+      "diyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Mert-à",
+      "Mert'e"
+     ],
+     [
+      "tu",
+      "sen"
+     ],
+     [
+      "dire je",
+      "diyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "soir",
+      "akşam"
+     ],
+     [
+      "libre",
+      "boş"
+     ],
+     [
+      "est-ce que tu",
+      "musun"
+     ],
+     [
+      "Mert",
+      "Mert"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "soir",
+      "akşam"
+     ],
+     [
+      "libre",
+      "boş"
+     ],
+     [
+      "est-ce que vous",
+      "musunuz"
+     ],
+     [
+      "madame",
+      "hanımefendi"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-8": [
+   {
+    "words": [
+     [
+      "samedi",
+      "Cumartesi"
+     ],
+     [
+      "soir",
+      "akşam"
+     ],
+     [
+      "repas-son-à",
+      "yemeğine"
+     ],
+     [
+      "nous-à",
+      "bize"
+     ],
+     [
+      "viens",
+      "gel"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "plaisir-avec",
+      "Memnuniyetle"
+     ],
+     [
+      "heure",
+      "Saat"
+     ],
+     [
+      "combien",
+      "kaç"
+     ],
+     [
+      "vers",
+      "gibi"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "huit",
+      "Sekiz"
+     ],
+     [
+      "vers",
+      "gibi"
+     ],
+     [
+      "convenable",
+      "uygun"
+     ],
+     [
+      "petit mot de question",
+      "mu"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "génial",
+      "Harika"
+     ],
+     [
+      "une",
+      "bir"
+     ],
+     [
+      "chose",
+      "şey"
+     ],
+     [
+      "apporter-que-je",
+      "getireyim"
+     ],
+     [
+      "petit mot de question",
+      "mi"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "non",
+      "Hayır"
+     ],
+     [
+      "seulement",
+      "sadece"
+     ],
+     [
+      "toi",
+      "sen"
+     ],
+     [
+      "viens",
+      "gel"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "époux-mon",
+      "Eşim"
+     ],
+     [
+      "kebab",
+      "kebap"
+     ],
+     [
+      "faire il",
+      "yapıyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "maison-notre",
+      "Evimiz"
+     ],
+     [
+      "Kuğulu",
+      "Kuğulu"
+     ],
+     [
+      "parc-à",
+      "Park'a"
+     ],
+     [
+      "proche",
+      "yakın"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "téléphone",
+      "Telefon"
+     ],
+     [
+      "numéro-notre",
+      "numaramız"
+     ],
+     [
+      "toi-chez",
+      "sende"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ],
+     [
+      "petit mot de question",
+      "mı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "oui",
+      "Evet"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "O"
+     ],
+     [
+      "temps",
+      "zaman"
+     ],
+     [
+      "samedi",
+      "cumartesi"
+     ],
+     [
+      "on-se-voit",
+      "görüşürüz"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-9": [
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "kebab",
+      "kebap"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "délicieux",
+      "lezzetli"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Adana",
+      "Adana"
+     ],
+     [
+      "kebab-son",
+      "kebabı"
+     ],
+     [
+      "plus",
+      "daha"
+     ],
+     [
+      "piquant",
+      "acı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Urfa",
+      "Urfa"
+     ],
+     [
+      "kebab-son",
+      "kebabı"
+     ],
+     [
+      "plus",
+      "daha"
+     ],
+     [
+      "peu",
+      "az"
+     ],
+     [
+      "piquant",
+      "acı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "le-plus",
+      "En"
+     ],
+     [
+      "aimé-ton",
+      "sevdiğin"
+     ],
+     [
+      "plat",
+      "yemek"
+     ],
+     [
+      "quoi",
+      "ne"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "le-plus",
+      "En"
+     ],
+     [
+      "célèbre",
+      "ünlü"
+     ],
+     [
+      "plat",
+      "yemek"
+     ],
+     [
+      "kebab",
+      "kebap"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ton",
+      "Senin"
+     ],
+     [
+      "plat-ton",
+      "yemeğin"
+     ],
+     [
+      "restaurant-que",
+      "restorandan"
+     ],
+     [
+      "plus",
+      "daha"
+     ],
+     [
+      "bon",
+      "güzel"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "vie-ma-de",
+      "Hayatımın"
+     ],
+     [
+      "le-plus",
+      "en"
+     ],
+     [
+      "beau",
+      "güzel"
+     ],
+     [
+      "soir",
+      "akşam"
+     ],
+     [
+      "repas-son",
+      "yemeği"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un-peu",
+      "Biraz"
+     ],
+     [
+      "plus",
+      "daha"
+     ],
+     [
+      "riz",
+      "pilav"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "merci",
+      "Teşekkürler"
+     ],
+     [
+      "désormais",
+      "artık"
+     ],
+     [
+      "rassasié-je-suis",
+      "tokum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "kebab-de",
+      "Kebabın"
+     ],
+     [
+      "côté-son-à",
+      "yanında"
+     ],
+     [
+      "le-plus",
+      "en"
+     ],
+     [
+      "bon-son",
+      "iyisi"
+     ],
+     [
+      "ayran",
+      "ayran"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-10": [
+   {
+    "words": [
+     [
+      "voici",
+      "İşte"
+     ],
+     [
+      "dessert",
+      "tatlı"
+     ],
+     [
+      "baklava",
+      "baklava"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "baklava",
+      "baklava"
+     ],
+     [
+      "Gaziantep-de",
+      "Gaziantep'ten"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "pistache-avec",
+      "Fıstıklı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "très",
+      "Çok"
+     ],
+     [
+      "sucré",
+      "tatlı"
+     ],
+     [
+      "mais",
+      "ama"
+     ],
+     [
+      "bon",
+      "güzel"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "une",
+      "Bir"
+     ],
+     [
+      "tranche",
+      "dilim"
+     ],
+     [
+      "encore",
+      "daha"
+     ],
+     [
+      "vouloir",
+      "ister"
+     ],
+     [
+      "est-ce que tu",
+      "misin"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "seulement",
+      "Sadece"
+     ],
+     [
+      "petit",
+      "küçük"
+     ],
+     [
+      "une",
+      "bir"
+     ],
+     [
+      "tranche",
+      "dilim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "turc",
+      "Türk"
+     ],
+     [
+      "café-son-avec",
+      "kahvesiyle"
+     ],
+     [
+      "parfait",
+      "mükemmel"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "soir-les",
+      "Akşamları"
+     ],
+     [
+      "café",
+      "kahve"
+     ],
+     [
+      "boire pas je",
+      "içmiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "O"
+     ],
+     [
+      "temps",
+      "zaman"
+     ],
+     [
+      "thé",
+      "çay"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "vraiment",
+      "Gerçekten"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "bien",
+      "iyi"
+     ],
+     [
+      "repas",
+      "yemek"
+     ],
+     [
+      "faire tu",
+      "yapıyorsun"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-11": [
+   {
+    "words": [
+     [
+      "semaine",
+      "Hafta"
+     ],
+     [
+      "fin-s-son",
+      "sonları"
+     ],
+     [
+      "en-général",
+      "genelde"
+     ],
+     [
+      "quoi",
+      "ne"
+     ],
+     [
+      "faire tu",
+      "yapıyorsun"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "marche",
+      "Yürüyüş"
+     ],
+     [
+      "faire je",
+      "yapıyorum"
+     ],
+     [
+      "parce-que",
+      "çünkü"
+     ],
+     [
+      "nature",
+      "doğayı"
+     ],
+     [
+      "aimer je",
+      "seviyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "télévision",
+      "Televizyon"
+     ],
+     [
+      "regarder pas je",
+      "izlemiyorum"
+     ],
+     [
+      "parce-que",
+      "çünkü"
+     ],
+     [
+      "ennuyeux",
+      "sıkıcı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "pourquoi",
+      "Neden"
+     ],
+     [
+      "turc",
+      "Türkçe"
+     ],
+     [
+      "apprendre tu",
+      "öğreniyorsun"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "parce-que",
+      "Çünkü"
+     ],
+     [
+      "Ankara-à",
+      "Ankara'da"
+     ],
+     [
+      "habiter je",
+      "oturuyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "guitare",
+      "Gitar"
+     ],
+     [
+      "jouer je",
+      "çalıyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "matin-les",
+      "Sabahları"
+     ],
+     [
+      "yoga",
+      "yoga"
+     ],
+     [
+      "faire je",
+      "yapıyorum"
+     ],
+     [
+      "parce-que",
+      "çünkü"
+     ],
+     [
+      "alentours",
+      "ortalık"
+     ],
+     [
+      "calme",
+      "sakin"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "beaucoup",
+      "Çok"
+     ],
+     [
+      "livre",
+      "kitap"
+     ],
+     [
+      "lire",
+      "okuyor"
+     ],
+     [
+      "est-ce que tu",
+      "musun"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "oui",
+      "Evet"
+     ],
+     [
+      "surtout",
+      "özellikle"
+     ],
+     [
+      "bus-dans",
+      "otobüste"
+     ],
+     [
+      "parce-que",
+      "çünkü"
+     ],
+     [
+      "trajet",
+      "yol"
+     ],
+     [
+      "long",
+      "uzun"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "turc",
+      "Türk"
+     ],
+     [
+      "cuisine-sa",
+      "mutfağını"
+     ],
+     [
+      "aimer je",
+      "seviyorum"
+     ],
+     [
+      "parce-que",
+      "çünkü"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "varié",
+      "çeşitli"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-12": [
+   {
+    "words": [
+     [
+      "sport",
+      "Spor"
+     ],
+     [
+      "faire",
+      "yapıyor"
+     ],
+     [
+      "est-ce que tu",
+      "musun"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "semaine-dans",
+      "Haftada"
+     ],
+     [
+      "deux",
+      "iki"
+     ],
+     [
+      "fois",
+      "kez"
+     ],
+     [
+      "nager je",
+      "yüzüyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Mert",
+      "Mert"
+     ],
+     [
+      "ami-s-ses-avec",
+      "arkadaşlarıyla"
+     ],
+     [
+      "basket",
+      "basketbol"
+     ],
+     [
+      "jouer il",
+      "oynuyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "soir",
+      "akşam"
+     ],
+     [
+      "match",
+      "maç"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ensemble",
+      "Birlikte"
+     ],
+     [
+      "regardons",
+      "izleyelim"
+     ],
+     [
+      "petit mot de question",
+      "mi"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "quel",
+      "Ne"
+     ],
+     [
+      "genre",
+      "tür"
+     ],
+     [
+      "musique",
+      "müzik"
+     ],
+     [
+      "écouter tu",
+      "dinliyorsun"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "beaucoup",
+      "Çok"
+     ],
+     [
+      "turc",
+      "Türkçe"
+     ],
+     [
+      "pop",
+      "pop"
+     ],
+     [
+      "écouter je",
+      "dinliyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "saz",
+      "Sazı"
+     ],
+     [
+      "savoir",
+      "biliyor"
+     ],
+     [
+      "est-ce que tu",
+      "musun"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "traditionnel",
+      "Geleneksel"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "turc",
+      "Türk"
+     ],
+     [
+      "instrument-son",
+      "çalgısı"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "voisin-mon",
+      "Komşum"
+     ],
+     [
+      "chaque",
+      "her"
+     ],
+     [
+      "soir",
+      "akşam"
+     ],
+     [
+      "saz",
+      "saz"
+     ],
+     [
+      "jouer il",
+      "çalıyor"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-13": [
+   {
+    "words": [
+     [
+      "samedi",
+      "Cumartesi"
+     ],
+     [
+      "Gençlik",
+      "Gençlik"
+     ],
+     [
+      "parc-son-à",
+      "Parkı'na"
+     ],
+     [
+      "aller nous",
+      "gidiyoruz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Elif",
+      "Elif"
+     ],
+     [
+      "aussi",
+      "de"
+     ],
+     [
+      "venir elle",
+      "geliyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "pain",
+      "Ekmek"
+     ],
+     [
+      "et",
+      "ve"
+     ],
+     [
+      "fromage",
+      "peynir"
+     ],
+     [
+      "apporter je",
+      "getiriyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "moi",
+      "Ben"
+     ],
+     [
+      "aussi",
+      "de"
+     ],
+     [
+      "fruit",
+      "meyve"
+     ],
+     [
+      "apporter je",
+      "getiriyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "temps",
+      "Hava"
+     ],
+     [
+      "beau",
+      "güzel"
+     ],
+     [
+      "mais",
+      "ama"
+     ],
+     [
+      "vent",
+      "rüzgâr"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "parc",
+      "Park"
+     ],
+     [
+      "grand",
+      "büyük"
+     ],
+     [
+      "et",
+      "ve"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "vert",
+      "yeşil"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un",
+      "Bir"
+     ],
+     [
+      "lac",
+      "göl"
+     ],
+     [
+      "et",
+      "ve"
+     ],
+     [
+      "barque-s",
+      "kayıklar"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "parc",
+      "parkı"
+     ],
+     [
+      "aimer je",
+      "seviyorum"
+     ],
+     [
+      "mais",
+      "ama"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "bondé",
+      "kalabalık"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Can",
+      "Can"
+     ],
+     [
+      "aussi",
+      "da"
+     ],
+     [
+      "venir il",
+      "geliyor"
+     ],
+     [
+      "mais",
+      "ama"
+     ],
+     [
+      "un-peu",
+      "biraz"
+     ],
+     [
+      "tard",
+      "geç"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "dimanche",
+      "Pazar"
+     ],
+     [
+      "jour-son",
+      "günü"
+     ],
+     [
+      "aussi",
+      "de"
+     ],
+     [
+      "venons",
+      "gelelim"
+     ],
+     [
+      "petit mot de question",
+      "mi"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-14": [
+   {
+    "words": [
+     [
+      "ouf",
+      "Of"
+     ],
+     [
+      "aujourd'hui",
+      "bugün"
+     ],
+     [
+      "temps",
+      "hava"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "chaud",
+      "sıcak"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce-là",
+      "Şu"
+     ],
+     [
+      "arbre-de",
+      "ağacın"
+     ],
+     [
+      "dessous-son-à",
+      "altına"
+     ],
+     [
+      "asseyons-nous",
+      "oturalım"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Eymir",
+      "Eymir"
+     ],
+     [
+      "lac-son",
+      "Gölü"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "beau",
+      "güzel"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "qui",
+      "Kim"
+     ],
+     [
+      "salade",
+      "salata"
+     ],
+     [
+      "vouloir il",
+      "istiyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "moi",
+      "Ben"
+     ],
+     [
+      "s'il-te-plaît",
+      "lütfen"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "verre-s",
+      "Bardaklar"
+     ],
+     [
+      "où",
+      "nerede"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "bleu",
+      "Mavi"
+     ],
+     [
+      "sac-dans",
+      "çantada"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "enfant-s",
+      "Çocuklar"
+     ],
+     [
+      "ballon",
+      "top"
+     ],
+     [
+      "jouer ils",
+      "oynuyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un-peu",
+      "Biraz"
+     ],
+     [
+      "faire-la-sieste je",
+      "kestiriyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "lac",
+      "Göl"
+     ],
+     [
+      "bord-son-à",
+      "kenarında"
+     ],
+     [
+      "quel",
+      "ne"
+     ],
+     [
+      "beau",
+      "güzel"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "jour",
+      "gün"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-15": [
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "soir",
+      "akşam"
+     ],
+     [
+      "ami-mon",
+      "arkadaşım"
+     ],
+     [
+      "Mert-à",
+      "Mert'e"
+     ],
+     [
+      "aller je",
+      "gidiyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ami-mon-de",
+      "Arkadaşımın"
+     ],
+     [
+      "maison-sa",
+      "evi"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "beau",
+      "güzel"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Mert-de",
+      "Mert'in"
+     ],
+     [
+      "mère-sa",
+      "annesi"
+     ],
+     [
+      "soir",
+      "akşam"
+     ],
+     [
+      "repas-son",
+      "yemeği"
+     ],
+     [
+      "préparer elle",
+      "hazırlıyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "voisin-de",
+      "Komşunun"
+     ],
+     [
+      "chat-son",
+      "kedisi"
+     ],
+     [
+      "balcon-sur",
+      "balkonda"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ceci",
+      "Bu"
+     ],
+     [
+      "frère-ton-de",
+      "kardeşinin"
+     ],
+     [
+      "vélo-son",
+      "bisikleti"
+     ],
+     [
+      "petit mot de question",
+      "mi"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Elif-de",
+      "Elif'in"
+     ],
+     [
+      "chambre-sa",
+      "odası"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "petit",
+      "küçük"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "appartement-de",
+      "Dairenin"
+     ],
+     [
+      "vue-sa",
+      "manzarası"
+     ],
+     [
+      "génial",
+      "harika"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "voisin-de",
+      "Komşunun"
+     ],
+     [
+      "jardin-son",
+      "bahçesi"
+     ],
+     [
+      "fleur",
+      "çiçek"
+     ],
+     [
+      "plein",
+      "dolu"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "rue-de",
+      "Sokağın"
+     ],
+     [
+      "nom-son",
+      "adı"
+     ],
+     [
+      "quoi-était",
+      "neydi"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Mert-de",
+      "Mert'in"
+     ],
+     [
+      "ami-s-ses",
+      "arkadaşları"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "drôle",
+      "komik"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-16": [
+   {
+    "words": [
+     [
+      "robe-ta",
+      "Elbisen"
+     ],
+     [
+      "vraiment",
+      "gerçekten"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "beau",
+      "güzel"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "merci",
+      "Teşekkürler"
+     ],
+     [
+      "mère-ma-de",
+      "annemin"
+     ],
+     [
+      "cadeau-son",
+      "hediyesi"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "turc-ton",
+      "Türkçen"
+     ],
+     [
+      "désormais",
+      "artık"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "bon",
+      "iyi"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "très",
+      "Çok"
+     ],
+     [
+      "gentil-tu-es",
+      "naziksin"
+     ],
+     [
+      "mais",
+      "ama"
+     ],
+     [
+      "encore",
+      "hâlâ"
+     ],
+     [
+      "erreur",
+      "hata"
+     ],
+     [
+      "faire je",
+      "yapıyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "tout-le-monde",
+      "Herkes"
+     ],
+     [
+      "erreur",
+      "hata"
+     ],
+     [
+      "faire il",
+      "yapıyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "maison-ta",
+      "Evin"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "lumineux",
+      "aydınlık"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "nouveau",
+      "Yeni"
+     ],
+     [
+      "cheveu-ton",
+      "saçın"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "beau",
+      "güzel"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "toujours",
+      "Hep"
+     ],
+     [
+      "sourire tu",
+      "gülümsüyorsun"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "très",
+      "Çok"
+     ],
+     [
+      "se-réjouir je",
+      "sevindim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "toi",
+      "Sen"
+     ],
+     [
+      "vrai",
+      "gerçek"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "ami-tu-es",
+      "arkadaşsın"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-17": [
+   {
+    "words": [
+     [
+      "turc",
+      "Türkçe"
+     ],
+     [
+      "parler",
+      "konuşuyor"
+     ],
+     [
+      "est-ce que tu",
+      "musun"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "oui",
+      "Evet"
+     ],
+     [
+      "un-peu",
+      "biraz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un-peu",
+      "Biraz"
+     ],
+     [
+      "comprendre je",
+      "anlıyorum"
+     ],
+     [
+      "mais",
+      "ama"
+     ],
+     [
+      "lent",
+      "yavaş"
+     ],
+     [
+      "parler je",
+      "konuşuyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "très",
+      "Çok"
+     ],
+     [
+      "rapide",
+      "hızlı"
+     ],
+     [
+      "parler tu",
+      "konuşuyorsun"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "Elif",
+      "Elif"
+     ],
+     [
+      "un-peu",
+      "biraz"
+     ],
+     [
+      "plus",
+      "daha"
+     ],
+     [
+      "lent",
+      "yavaş"
+     ],
+     [
+      "parle",
+      "konuş"
+     ],
+     [
+      "s'il-te-plaît",
+      "lütfen"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "turc-à",
+      "Türkçeye"
+     ],
+     [
+      "beaucoup",
+      "çok"
+     ],
+     [
+      "travailler je",
+      "çalışıyorum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un-peu",
+      "Biraz"
+     ],
+     [
+      "avoir-faim je",
+      "acıktım"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ici-ce",
+      "Burası"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "bondé",
+      "kalabalık"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "un-peu",
+      "Biraz"
+     ],
+     [
+      "attends",
+      "bekle"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "aide-ton",
+      "Yardımın"
+     ],
+     [
+      "pour",
+      "için"
+     ],
+     [
+      "beaucoup",
+      "çok"
+     ],
+     [
+      "merci",
+      "teşekkürler"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-18": [
+   {
+    "words": [
+     [
+      "tard",
+      "Geç"
+     ],
+     [
+      "devenir",
+      "oldu"
+     ],
+     [
+      "maison-à",
+      "eve"
+     ],
+     [
+      "aller mon",
+      "gitmem"
+     ],
+     [
+      "nécessaire",
+      "lazım"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "dès-maintenant",
+      "Şimdiden"
+     ],
+     [
+      "petit mot de question",
+      "mi"
+     ],
+     [
+      "un-peu",
+      "Biraz"
+     ],
+     [
+      "plus",
+      "daha"
+     ],
+     [
+      "reste",
+      "kal"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "ce",
+      "Bu"
+     ],
+     [
+      "beau",
+      "güzel"
+     ],
+     [
+      "soir",
+      "akşam"
+     ],
+     [
+      "pour",
+      "için"
+     ],
+     [
+      "merci",
+      "teşekkürler"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "demain",
+      "Yarın"
+     ],
+     [
+      "appeler je",
+      "ararım"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "maison-à",
+      "Eve"
+     ],
+     [
+      "arriver-quand",
+      "varınca"
+     ],
+     [
+      "moi-à",
+      "bana"
+     ],
+     [
+      "message",
+      "mesaj"
+     ],
+     [
+      "lance",
+      "at"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "bon",
+      "İyi"
+     ],
+     [
+      "nuit-s",
+      "geceler"
+     ],
+     [
+      "demain",
+      "yarın"
+     ],
+     [
+      "on-se-voit",
+      "görüşürüz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "famille-ta-à",
+      "Ailene"
+     ],
+     [
+      "salut",
+      "selam"
+     ],
+     [
+      "dis",
+      "söyle"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "toi-même-à",
+      "Kendine"
+     ],
+     [
+      "bien",
+      "iyi"
+     ],
+     [
+      "regarde",
+      "bak"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "on-se-voit",
+      "Görüşürüz"
+     ],
+     [
+      "ami-mon",
+      "dostum"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "porte-notre",
+      "Kapımız"
+     ],
+     [
+      "toi-à",
+      "sana"
+     ],
+     [
+      "chaque",
+      "her"
+     ],
+     [
+      "temps",
+      "zaman"
+     ],
+     [
+      "ouvert",
+      "açık"
+     ]
+    ],
+    "note": ""
+   }
+  ],
+  "0-2-19": [
+   {
+    "words": [
+     [
+      "d'accord",
+      "Tamam"
+     ],
+     [
+      "ce",
+      "bu"
+     ],
+     [
+      "module",
+      "modül"
+     ],
+     [
+      "finir",
+      "bitti"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "turc",
+      "Türkçe"
+     ],
+     [
+      "nous-mêmes",
+      "kendimizi"
+     ],
+     [
+      "présenter",
+      "tanıtmayı"
+     ],
+     [
+      "savoir nous",
+      "biliyoruz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "famille-de",
+      "Aileden"
+     ],
+     [
+      "et",
+      "ve"
+     ],
+     [
+      "loisir-s-de",
+      "hobilerden"
+     ],
+     [
+      "parler nous",
+      "konuşuyoruz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "bref",
+      "Yani"
+     ],
+     [
+      "désormais",
+      "artık"
+     ],
+     [
+      "Ankara-à",
+      "Ankara'da"
+     ],
+     [
+      "ami-s-nos",
+      "arkadaşlarımız"
+     ],
+     [
+      "il-y-a",
+      "var"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "turc",
+      "Türkçe"
+     ],
+     [
+      "difficile",
+      "zor"
+     ],
+     [
+      "mais",
+      "ama"
+     ],
+     [
+      "très",
+      "çok"
+     ],
+     [
+      "beau",
+      "güzel"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "allez",
+      "Hadi"
+     ],
+     [
+      "ensemble",
+      "birlikte"
+     ],
+     [
+      "continuation",
+      "devam"
+     ],
+     [
+      "faisons",
+      "edelim"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "deuxième",
+      "İkinci"
+     ],
+     [
+      "niveau",
+      "seviye"
+     ],
+     [
+      "bientôt",
+      "yakında"
+     ],
+     [
+      "commencer il",
+      "başlıyor"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "c'est-à-dire",
+      "Yani"
+     ],
+     [
+      "nouveau",
+      "yeni"
+     ],
+     [
+      "phrase-s",
+      "cümleler"
+     ],
+     [
+      "nouveau",
+      "yeni"
+     ],
+     [
+      "mot-s",
+      "kelimeler"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "d'accord",
+      "Tamam"
+     ],
+     [
+      "un",
+      "bir"
+     ],
+     [
+      "suivant",
+      "sonraki"
+     ],
+     [
+      "module-dans",
+      "modülde"
+     ],
+     [
+      "on-se-voit",
+      "görüşürüz"
+     ]
+    ],
+    "note": ""
+   },
+   {
+    "words": [
+     [
+      "allez",
+      "Hadi"
+     ],
+     [
+      "bientôt",
+      "yakında"
+     ],
+     [
+      "on-se-voit",
+      "görüşürüz"
+     ]
+    ],
+    "note": ""
+   }
+  ]
+ },
+ "tipsReplace": {
+  "0-0-0": null,
+  "0-0-1": null,
+  "0-0-2": null,
+  "0-0-3": null,
+  "0-0-4": {
+   "title": "Ce que tu sais déjà : leçons 1 à 5",
+   "example": "Moi, je suis française. — Ben <b>Fransızım</b>.",
+   "body": "Tu as fait cinq leçons. Voici l'essentiel à retenir. Premièrement, pas de genre ni d'article : « ev » veut dire la maison ou une maison, et « ev büyük », mot à mot maison, grand, veut dire la maison est grande. Deuxièmement, les voyelles d'un mot s'accordent entre elles, comme une mélodie : on dit « peynirli », au fromage, mais « susamlı », au sésame. Troisièmement, pour saluer, on dit « merhaba », bonjour, et pour demander comment ça va, « nasılsınız ». Quatrièmement, les pronoms « ben », je, « sen », tu, et « o », il ou elle, sont souvent sous-entendus. Enfin, être se dit avec une fin collée au mot : « Fransızım », je suis français.",
+   "lit": "moi · Française-je-suis"
+  },
+  "0-0-5": null,
+  "0-0-6": null,
+  "0-0-7": null,
+  "0-0-8": null,
+  "0-0-9": {
+   "title": "Ce que tu sais déjà : leçons 6 à 10",
+   "example": "Ce poisson-là est cher. — <b>Şu</b> balık pahalı.",
+   "body": "Tu as fait dix leçons. Voici l'essentiel des cinq dernières. Premièrement, ne pas être se dit « değil », placé après le mot : « çay sıcak değil », le thé n'est pas chaud. Deuxièmement, le verbe se place toujours à la fin : « Ahmet çay içiyor », mot à mot Ahmet, thé, boit. Troisièmement, pour poser une question, on ajoute le petit mot « mi » après le mot sur lequel porte la question : « pahalı mı », c'est cher ? Quatrièmement, « var » veut dire il y a et « yok » il n'y a pas : « Çay var », il y a du thé, « süt yok », il n'y a pas de lait. Enfin, « bu » veut dire ceci, tout près, et « şu » cela, un peu plus loin : « bu elma », cette pomme.",
+   "lit": "ce-là · poisson · cher"
+  },
+  "0-0-10": null,
+  "0-0-11": null,
+  "0-0-12": null,
+  "0-0-13": null,
+  "0-0-14": {
+   "title": "Ce que tu sais déjà : leçons 11 à 15",
+   "example": "Je ne viens pas ce soir. — Bu akşam <b>gelmiyorum</b>.",
+   "body": "Tu as fait quinze leçons. Voici l'essentiel des cinq dernières. Premièrement, compter : « bir, iki, üç », un, deux, trois. Après un nombre, le nom reste au singulier : « iki simit », deux simits. Deuxièmement, le pluriel s'ajoute à la fin du mot : « kediler », les chats, « kitaplar », les livres. Troisièmement, où se dit « nerede », et une petite fin collée au lieu veut dire à ou dans : « evde », à la maison. Quatrièmement, ce que je fais en ce moment se dit avec la fin « iyor » : « geliyorum », je viens, « içiyorum », je bois. Enfin, pour dire non, on glisse un petit son dans le verbe : « gelmiyorum », je ne viens pas.",
+   "lit": "ce · soir · venir-[ne… pas]-je"
+  },
+  "0-0-15": null,
+  "0-0-16": null,
+  "0-0-17": null,
+  "0-0-18": null,
+  "0-0-19": {
+   "title": "Ce que tu sais déjà : leçons 16 à 20",
+   "example": "Je vous en prie, c'est normal. — <b>Rica ederim</b>, ne demek.",
+   "body": "Tu as fini le module. Voici l'essentiel des cinq dernières leçons. Premièrement, les petits mots des questions : « ne », quoi, « kim », qui, « nasıl », comment, « kaç », combien. Deuxièmement, pour l'heure, on demande « Saat kaç ? » et on répond par exemple « saat sekiz », il est huit heures. Troisièmement, pour dire j'ai, on dit mon chat, il y a : « kedim var », j'ai un chat, et « param yok », je n'ai pas d'argent. Quatrièmement, je veux se dit « istiyorum » : « çay istiyorum », je veux du thé. Enfin, les formules magiques : « teşekkürler », merci, « lütfen », s'il vous plaît, « rica ederim », je vous en prie. Tu as maintenant de quoi te débrouiller dans les situations de tous les jours.",
+   "lit": "demande · fais-je · quoi · dire"
+  }
+ }
+}

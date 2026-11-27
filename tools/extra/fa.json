@@ -15392,5 +15392,51 @@
     }
    }
   ]
+ },
+ "tipsReplace": {
+  "0-0-0": null,
+  "0-0-1": null,
+  "0-0-2": null,
+  "0-0-3": null,
+  "0-0-4": {
+   "title": "Ce que tu sais déjà : leçons 1 à 5",
+   "example": "Je ne suis pas fatigué. — من خسته <b>نیستم</b>.",
+   "body": "Tu as fait cinq leçons. Voici l'essentiel à retenir. Premièrement, on salue avec « salâm », bonjour, et on part avec « khodâ hâfez », au revoir. Deuxièmement, les pronoms : « man », je, « to », tu, « u », il ou elle, « shomâ », vous. Troisièmement, être se dit « hastam », je suis, « hasti », tu es, et souvent « ast », il est, à la fin de la phrase. Quatrièmement, le verbe se place toujours à la fin : « Man nân o panir mikhoram », mot à mot je, pain et fromage, mange. Enfin, pour dire non, on dit « nist » à la place de « hast », et devant un verbe on ajoute un petit son au début : « nadârim », nous n'avons pas, « nemikhoram », je ne mange pas.",
+   "exampleRo": "Man khaste nistam.",
+   "lit": "moi · fatigué · ne suis pas"
+  },
+  "0-0-5": null,
+  "0-0-6": null,
+  "0-0-7": null,
+  "0-0-8": null,
+  "0-0-9": {
+   "title": "Ce que tu sais déjà : leçons 6 à 10",
+   "example": "Ceci est une grenade. — <b>این</b> انار است.",
+   "body": "Tu as fait dix leçons. Voici l'essentiel des cinq dernières. Premièrement, pour poser une question, la voix monte à la fin, et on peut commencer par « âyâ » : « Âyâ shomâ farânsavi hastid ? », êtes-vous français ? Deuxièmement, entre le nom et l'adjectif, on glisse un petit son qui les relie : « shâl-e âbi », le châle bleu. Troisièmement, ce même petit son sert à dire de : « ketâb-e man », mon livre, mot à mot livre de moi. Quatrièmement, on peut aussi coller mon, ton, son à la fin du nom : « barâdaram », mon frère, « mâdaret », ta mère, « pesaresh », son fils. Enfin, « in » veut dire ceci et « ân » veut dire cela : « In anâr ast », c'est une grenade.",
+   "exampleRo": "In anâr ast.",
+   "lit": "ceci · grenade · est"
+  },
+  "0-0-10": null,
+  "0-0-11": null,
+  "0-0-12": null,
+  "0-0-13": null,
+  "0-0-14": {
+   "title": "Ce que tu sais déjà : leçons 11 à 15",
+   "example": "Il est quelle heure ? — <b>ساعت چنده</b>؟",
+   "body": "Tu as fait quinze leçons. Voici l'essentiel des cinq dernières. Premièrement, compter : « yek, do, se », un, deux, trois, jusqu'à « dah », dix. Deuxièmement, avoir se dit « dâram », j'ai, et ne pas avoir « nadâram ». Troisièmement, les petits mots des questions : « kojâ », où, « chi », quoi, « ki », qui, « key », quand. Quatrièmement, pour demander combien, on dit « chand », et après un nombre on ajoute souvent le petit mot « tâ » : « do tâ baste », deux paquets. Enfin, pour l'heure, on demande « Sâ'at chande ? » et on répond par exemple « Sâ'at hasht ast », il est huit heures.",
+   "exampleRo": "Sâ'at chande?",
+   "lit": "heure · combien-est"
+  },
+  "0-0-15": null,
+  "0-0-16": null,
+  "0-0-17": null,
+  "0-0-18": null,
+  "0-0-19": {
+   "title": "Ce que tu sais déjà : leçons 16 à 20",
+   "example": "Je vous en prie. — <b>خواهش می‌کنم</b>.",
+   "body": "Tu as fini le module. Voici l'essentiel des cinq dernières leçons. Premièrement, le présent se forme avec un petit son au début du verbe : « miravam », je vais, « mikhoram », je mange. Deuxièmement, je veux se dit « mikhâham » : « Yek livân âb mikhâham », je veux un verre d'eau. Troisièmement, quand l'objet est précis, on ajoute « râ » juste après lui : « Emshab nâme râ miferestam », ce soir, j'envoie la lettre. Quatrièmement, les petits mots de lieu : « dar », dans, « be », vers, « az », de. Enfin, les formules magiques : « mersi » ou « mamnun », merci, « bebakhshid », pardon, et « khâhesh mikonam », je vous en prie. Tu as maintenant de quoi te débrouiller dans les situations de tous les jours.",
+   "exampleRo": "Khâhesh mikonam.",
+   "lit": "demande · fais"
+  }
  }
 }

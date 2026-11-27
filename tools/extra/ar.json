@@ -13276,5 +13276,51 @@
     }
    }
   ]
+ },
+ "tipsReplace": {
+  "0-0-0": null,
+  "0-0-1": null,
+  "0-0-2": null,
+  "0-0-3": null,
+  "0-0-4": {
+   "title": "Ce que tu sais déjà : leçons 1 à 5",
+   "example": "Il est jordanien, elle est jordanienne. — هُوَ أُرْدُنِيٌّ وَهِيَ <b>أُرْدُنِيَّةٌ</b>.",
+   "body": "Tu as fait cinq leçons. Voici l'essentiel à retenir. Premièrement, au présent, il n'y a pas de verbe être : « ana talibun », mot à mot moi, étudiant, veut dire je suis étudiant. Deuxièmement, le, la, les se disent avec un petit mot collé au nom : « al-kitab », le livre. Devant certains sons, il se fond dans le son suivant : on dit « ash-shams », le soleil. Troisièmement, les pronoms : « ana, anta, anti, huwa, hiya », je, tu pour un homme, tu pour une femme, il, elle. Quatrièmement, le féminin se reconnaît souvent à sa fin : « Talib », étudiant, devient « taliba », étudiante. Enfin, l'adjectif s'accorde aussi : « huwa urduniyyun wa hiya urduniyyatun », il est jordanien, et elle est jordanienne.",
+   "exampleRo": "Huwa urduniyyun wa-hiya urduniyyatun.",
+   "lit": "lui · jordanien · [et] · elle · jordanienne"
+  },
+  "0-0-5": null,
+  "0-0-6": null,
+  "0-0-7": null,
+  "0-0-8": null,
+  "0-0-9": {
+   "title": "Ce que tu sais déjà : leçons 6 à 10",
+   "example": "C'est le livre de l'étudiant. — هَذَا <b>كِتَابُ الطَّالِبِ</b>.",
+   "body": "Tu as fait dix leçons. Voici l'essentiel des cinq dernières. Premièrement, pour poser une question, on ajoute « hal » au début : « hal anta mutabun », es-tu fatigué ? Deuxièmement, « hadha » veut dire ceci, pour un nom masculin, et « hadhihi » pour un nom féminin : « hadhihi al-madinatu qadimatun », cette ville est ancienne. Troisièmement, pour dire ne pas être, on emploie « laysa » : « at-taamu laysa ghaliyan », la nourriture n'est pas chère. Quatrièmement, mon et ton se collent à la fin du nom : « kitab », le livre, « kitabi », mon livre, « kitabuka », ton livre. Enfin, pour dire de, on met simplement les deux noms côte à côte : « kitabu at-talibi », le livre de l'étudiant.",
+   "exampleRo": "Hādhā kitābu aṭ-ṭālibi.",
+   "lit": "ceci · livre · [de l']étudiant"
+  },
+  "0-0-10": null,
+  "0-0-11": null,
+  "0-0-12": null,
+  "0-0-13": null,
+  "0-0-14": {
+   "title": "Ce que tu sais déjà : leçons 11 à 15",
+   "example": "J'ai un téléphone neuf. — <b>عِنْدِي</b> هَاتِفٌ جَدِيدٌ.",
+   "body": "Tu as fait quinze leçons. Voici l'essentiel des cinq dernières. Premièrement, les petits mots des questions : « ma, man, ayna, mata, kayfa », quoi, qui, où, quand, comment. Deuxièmement, au présent, le début du verbe change selon la personne : « aktubu », j'écris, « taktubu », tu écris, « yaktubu », il écrit. Troisièmement, beaucoup de mots d'une même famille partagent trois sons : « kitab », le livre, « katib », l'écrivain, « maktab », le bureau. Quatrièmement, les petits mots de lieu : « fi, ala, min, ila », dans, sur, de, vers. Enfin, pour dire j'ai, on dit chez moi : « Indi hatifun jadidun », j'ai un téléphone neuf.",
+   "exampleRo": "ʿIndī hātifun jadīdun.",
+   "lit": "chez-moi · téléphone · neuf"
+  },
+  "0-0-15": null,
+  "0-0-16": null,
+  "0-0-17": null,
+  "0-0-18": null,
+  "0-0-19": {
+   "title": "Ce que tu sais déjà : leçons 16 à 20",
+   "example": "Un thé à la menthe, s'il vous plaît. — شَايٌ بِالنَّعْنَاعِ <b>مِنْ فَضْلِكَ</b>.",
+   "body": "Tu as fini le module. Voici l'essentiel des cinq dernières leçons. Premièrement, compter : « wahid », un, « ithnan », deux, « thalatha », trois, jusqu'à « ashara », dix. Deuxièmement, l'adjectif se place après le nom et s'accorde avec lui : « qamisun abyadu », une chemise blanche, « as-sutratu al-khadrau », la veste verte. Troisièmement, il y a se dit « hunaka » : « hunaka suqun qaribun min huna », il y a un marché près d'ici. Quatrièmement, pour dire non devant un verbe au présent, on met « la » : « la afhamu », je ne comprends pas. Enfin, les mots de politesse : « min fadlik », s'il te plaît, « shukran », merci, « afwan », de rien, et « ahlan wa sahlan », bienvenue. Tu as maintenant de quoi te débrouiller dans les situations de tous les jours.",
+   "exampleRo": "Shāyun bi-n-naʿnāʿi min faḍlika.",
+   "lit": "thé · avec · [la] menthe · de · faveur-de-toi"
+  }
  }
 }

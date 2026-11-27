@@ -13788,5 +13788,51 @@
     }
    }
   ]
+ },
+ "tipsReplace": {
+  "0-0-0": null,
+  "0-0-1": null,
+  "0-0-2": null,
+  "0-0-3": null,
+  "0-0-4": {
+   "title": "Ce que tu sais déjà : leçons 1 à 5",
+   "example": "Le bureau n'est pas loin. — அலுவலகம் தூரம் <b>இல்லை</b>.",
+   "body": "Tu as fait cinq leçons. Voici l'essentiel à retenir. Premièrement, le verbe se place à la fin : « Nāṉ kāppi kuḍikkiṛēṉ », mot à mot je, café, bois. Deuxièmement, pas de verbe être : « Nāṉ māṇavaṉ », mot à mot je, étudiant, veut dire je suis étudiant. Troisièmement, les pronoms : « nāṉ », je, « nīngaḷ », vous, « avaṉ », il, « avaḷ », elle. Quatrièmement, pour poser une question, on allonge la fin du dernier mot : « Idu kāppi », c'est du café, devient « Idu kāppiyā ? », c'est du café ? Enfin, pour dire ce n'est pas, ou il n'y a pas, on ajoute « illai » à la fin : « Aluvalagam tūram illai », le bureau n'est pas loin.",
+   "exampleRo": "Aluvalagam tūram illai.",
+   "lit": "bureau · loin · pas"
+  },
+  "0-0-5": null,
+  "0-0-6": null,
+  "0-0-7": null,
+  "0-0-8": null,
+  "0-0-9": {
+   "title": "Ce que tu sais déjà : leçons 6 à 10",
+   "example": "Où est l'arrêt de bus ? — பேருந்து நிறுத்தம் <b>எங்கே</b>?",
+   "body": "Tu as fait dix leçons. Voici l'essentiel des cinq dernières. Premièrement, « vaṇakkam » sert à saluer en toute occasion, à toute heure de la journée. Deuxièmement, pour se présenter, on dit mon nom : « Eṉ peyar Tāmas », je m'appelle Thomas, et pour demander, « Ungaḷ peyar eṉṉa ? », comment vous appelez-vous ? Troisièmement, « idu » veut dire ceci et « adu » cela, « ingē » ici et « angē » là-bas. Quatrièmement, certains sons se disent la langue retournée vers le haut, comme dans « Tamiḻ », le tamoul. Enfin, les petits mots des questions : « eṉṉa », quoi, « engē », où, « yār », qui.",
+   "exampleRo": "Pērundu niṛuttam engē?",
+   "lit": "bus · arrêt · où"
+  },
+  "0-0-10": null,
+  "0-0-11": null,
+  "0-0-12": null,
+  "0-0-13": null,
+  "0-0-14": {
+   "title": "Ce que tu sais déjà : leçons 11 à 15",
+   "example": "J'ai une voiture. — <b>என்னிடம்</b> ஒரு கார் <b>இருக்கிறது</b>.",
+   "body": "Tu as fait quinze leçons. Voici l'essentiel des cinq dernières. Premièrement, compter : « oṉṛu », « iraṇḍu », « mūṉṛu », un, deux, trois, jusqu'à « pattu », dix. Devant un nom, un se dit « oru » : « oru kāppi », un café. Deuxièmement, une petite fin veut dire à ou pour : « Ravikku », à Ravi, « aluvalagattukku », au bureau. Troisièmement, une autre petite fin veut dire dans : « paiyil », dans le sac, « Chennaiyil », à Chennai. Quatrièmement, il y a se dit « irukkiṛadu » : « Ingē pakkattil oru marundukkaḍai irukkiṛadu », il y a une pharmacie tout près d'ici. Enfin, pour avoir, on dit chez moi, il y a : « Eṉṉiḍam oru kār irukkiṛadu », j'ai une voiture.",
+   "exampleRo": "Eṉṉiḍam oru kār irukkiṛadu.",
+   "lit": "moi [chez] (-iḍam) · une · voiture · il y a"
+  },
+  "0-0-15": null,
+  "0-0-16": null,
+  "0-0-17": null,
+  "0-0-18": null,
+  "0-0-19": {
+   "title": "Ce que tu sais déjà : leçons 16 à 20",
+   "example": "Excusez-moi, je n'ai pas compris. — <b>மன்னிக்கவும்</b>, எனக்குப் புரியவில்லை.",
+   "body": "Tu as fini le module. Voici l'essentiel des cinq dernières leçons. Premièrement, pour l'heure, on demande « Maṇi eṉṉa ? » et on répond par exemple « Maṇi ēḻu », il est sept heures. Deuxièmement, pour dire je veux ou il me faut, on dit « Eṉakku oru tōchai vēṇḍum », je voudrais une dosa, et je n'en veux pas se dit « vēṇḍām ». Troisièmement, au présent, je fais se termine toujours de la même façon : « paḍikkiṛēṉ », j'étudie, « cheygiṛēṉ », je fais. Quatrièmement, et ou aussi se dit avec une petite fin collée au mot : « Nāṉum eṉ maṉaiviyum », moi et ma femme. Enfin, les formules magiques : « naṉṛi », merci, « maṉṉikkavum », excusez-moi, et « paravāyillai », ce n'est pas grave. Tu as maintenant de quoi te débrouiller dans les situations de tous les jours.",
+   "exampleRo": "Maṉṉikkavum, eṉakkup puriyavillai.",
+   "lit": "pardonnez · moi [à] (-ukku) · pas compris (-illai)"
+  }
  }
 }

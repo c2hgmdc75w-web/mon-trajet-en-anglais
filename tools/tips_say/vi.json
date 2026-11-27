@@ -1,228 +1,53 @@
 {
- "0-0-0": {
-  "Ăn": "Ăn",
-  "ăn": "ăn",
-  "hôm qua": "hôm qua",
-  "ngày mai": "ngày mai",
+ "0-0-4": {
   "hôm qua tôi ăn phở": "hôm qua tôi ăn phở",
-  "tôi đi": "tôi đi",
-  "chúng tôi đi": "chúng tôi đi",
-  "ngày mai tôi đi": "ngày mai tôi đi",
-  "phở": "phở"
- },
- "0-0-1": {
   "ma": "ma",
   "má": "má",
   "mà": "mà",
-  "bán": "bán",
-  "bàn": "bàn",
-  "bạn": "bạn",
-  "cà phê đá": "cà phê đá",
-  "cà": "cà",
-  "phê": "phê",
-  "đá": "đá"
- },
- "0-0-2": {
-  "Là": "Là",
   "là": "là",
   "tôi là khách du lịch": "tôi là khách du lịch",
-  "tôi": "tôi",
-  "khách du lịch": "khách du lịch",
-  "đây là hồ Hoàn Kiếm": "đây là hồ Hoàn Kiếm",
-  "tên tôi là Lucie": "tên tôi là Lucie",
-  "Hoàn Kiếm": "Hoàn Kiếm"
- },
- "0-0-3": {
-  "Không": "Không",
-  "không phải là": "không phải là",
   "không": "không",
   "tôi không hút thuốc": "tôi không hút thuốc",
-  "tiền nhà không đắt": "tiền nhà không đắt",
-  "là": "là",
-  "tôi không phải là sinh viên": "tôi không phải là sinh viên"
+  "phở ở đây ngon không ?": "phở ở đây ngon không ?"
  },
- "0-0-4": {
-  "… không ?": "… không ?",
-  "không": "không",
-  "Phở ở đây ngon": "Phở ở đây ngon",
-  "phở ở đây ngon không ?": "phở ở đây ngon không ?",
-  "ngon": "ngon",
-  "không ngon": "không ngon",
-  "có … không ?": "có … không ?",
-  "có phở gà không ?": "có phở gà không ?",
-  "phở": "phở"
- },
- "0-0-5": {
-  "tôi": "tôi",
+ "0-0-9": {
   "anh": "anh",
   "chị": "chị",
   "em": "em",
-  "chị khỏe": "chị khỏe",
-  "bác": "bác",
-  "cháu": "cháu",
-  "ạ": "ạ",
-  "cháu chào bác ạ": "cháu chào bác ạ"
- },
- "0-0-6": {
-  "Của": "Của",
+  "tôi": "tôi",
   "của": "của",
-  "Sách của tôi": "Sách của tôi",
-  "sách của tôi ở trên bàn": "sách của tôi ở trên bàn",
-  "phòng của tôi": "phòng của tôi",
-  "chìa khóa của bà chủ nhà": "chìa khóa của bà chủ nhà",
-  "gia đình tôi": "gia đình tôi",
-  "bạn tôi": "bạn tôi",
-  "của chị hàng xóm": "của chị hàng xóm",
-  "sách của tôi": "sách của tôi"
- },
- "0-0-7": {
+  "sách của tôi": "sách của tôi",
   "tôi mệt": "tôi mệt",
   "rất": "rất",
-  "là": "là",
-  "tôi là mệt": "tôi là mệt",
   "hôm nay trời rất nóng": "hôm nay trời rất nóng",
-  "lắm": "lắm",
-  "quá": "quá",
-  "nóng quá": "nóng quá",
-  "tôi khát nước": "tôi khát nước",
-  "phố rất ồn": "phố rất ồn"
- },
- "0-0-8": {
-  "Này": "Này",
+  "này": "này",
   "kia": "kia",
-  "này": "này",
-  "Rau này rất tươi": "Rau này rất tươi",
-  "hàng kia bán hoa": "hàng kia bán hoa",
-  "sáng nay": "sáng nay",
-  "hôm nay": "hôm nay",
   "cái này": "cái này",
-  "cái kia": "cái kia"
+  "cà phê đen": "cà phê đen"
  },
- "0-0-9": {
-  "áo sơ mi trắng": "áo sơ mi trắng",
-  "phố cổ": "phố cổ",
-  "cà phê đen": "cà phê đen",
-  "áo dài": "áo dài",
-  "màu": "màu",
-  "túi màu xanh dương": "túi màu xanh dương",
-  "này": "này",
-  "kia": "kia"
- },
- "0-0-10": {
+ "0-0-14": {
   "một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười": "một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười",
-  "mười một": "mười một",
-  "hai mươi": "hai mươi",
-  "năm mươi nghìn đồng": "năm mươi nghìn đồng",
-  "lăm": "lăm",
-  "mười lăm": "mười lăm",
-  "mốt": "mốt",
-  "hai mươi mốt": "hai mươi mốt",
-  "trăm": "trăm",
-  "nghìn": "nghìn"
- },
- "0-0-11": {
-  "cái": "cái",
-  "con": "con",
-  "chiếc": "chiếc",
-  "Con": "Con",
   "hai con mèo": "hai con mèo",
-  "Cái": "Cái",
   "một cái ghế": "một cái ghế",
-  "Chiếc": "Chiếc",
-  "một chiếc xe máy": "một chiếc xe máy",
-  "tôi muốn mua một cái ghế": "tôi muốn mua một cái ghế",
-  "này": "này",
-  "con mèo này": "con mèo này"
- },
- "0-0-12": {
-  "Có": "Có",
-  "không có": "không có",
   "có": "có",
   "Tôi có xe đạp": "Tôi có xe đạp",
   "gần đây có chợ": "gần đây có chợ",
-  "không": "không",
-  "bạn có xe đạp không ?": "bạn có xe đạp không ?",
-  "phố này có nhiều quán cà phê": "phố này có nhiều quán cà phê",
-  "có … không ?": "có … không ?"
- },
- "0-0-13": {
-  "Ở": "Ở",
   "ở": "ở",
-  "Tôi ở phố Hàng Gai": "Tôi ở phố Hàng Gai",
   "Chợ ở cuối phố": "Chợ ở cuối phố",
-  "đâu": "đâu",
-  "hồ Hoàn Kiếm ở đâu ?": "hồ Hoàn Kiếm ở đâu ?",
-  "là": "là",
-  "Hàng Gai": "Hàng Gai",
-  "Hoàn Kiếm": "Hoàn Kiếm"
- },
- "0-0-14": {
-  "giờ": "giờ",
-  "phút": "phút",
-  "mấy giờ rồi": "mấy giờ rồi",
   "mấy giờ rồi ?": "mấy giờ rồi ?",
-  "bảy giờ": "bảy giờ",
-  "chín giờ mười lăm phút": "chín giờ mười lăm phút",
-  "rưỡi": "rưỡi",
-  "mười giờ rưỡi": "mười giờ rưỡi",
-  "lúc": "lúc",
-  "lúc tám giờ": "lúc tám giờ",
-  "sáng": "sáng",
-  "tối": "tối",
-  "rồi": "rồi"
- },
- "0-0-15": {
-  "Gì": "Gì",
-  "đâu": "đâu",
-  "ai": "ai",
-  "mấy": "mấy",
-  "bạn tên là gì ?": "bạn tên là gì ?",
-  "tôi tên là Lucie": "tôi tên là Lucie",
-  "bạn uống gì ?": "bạn uống gì ?",
-  "bạn đi với ai ?": "bạn đi với ai ?",
-  "Mấy": "Mấy",
-  "cháu mấy tuổi ?": "cháu mấy tuổi ?",
-  "gì, đâu, ai, mấy": "gì, đâu, ai, mấy"
- },
- "0-0-16": {
-  "Cũng": "Cũng",
-  "đều": "đều",
-  "cũng": "cũng",
-  "Vợ tôi cũng dậy lúc sáu giờ": "Vợ tôi cũng dậy lúc sáu giờ",
-  "chúng tôi đều thích phở": "chúng tôi đều thích phở",
-  "tôi cũng vậy": "tôi cũng vậy",
-  "nào": "nào",
-  "sáng nào tôi cũng đi làm": "sáng nào tôi cũng đi làm",
-  "phở": "phở"
- },
- "0-0-17": {
-  "Muốn": "Muốn",
-  "cần": "cần",
-  "muốn": "muốn",
-  "tôi muốn mua hoa quả": "tôi muốn mua hoa quả",
-  "tôi cần gạo": "tôi cần gạo",
-  "tôi không cần túi ni lông": "tôi không cần túi ni lông",
-  "không": "không",
-  "bạn muốn đi cùng tôi không ?": "bạn muốn đi cùng tôi không ?"
- },
- "0-0-18": {
-  "Nhé": "Nhé",
-  "nhé": "nhé",
-  "Chúng ta đi uống bia nhé": "Chúng ta đi uống bia nhé",
-  "mai gặp lại nhé": "mai gặp lại nhé",
-  "về cẩn thận nhé": "về cẩn thận nhé"
+  "bảy giờ": "bảy giờ"
  },
  "0-0-19": {
-  "Xin chào": "Xin chào",
-  "chào": "chào",
-  "chào anh": "chào anh",
-  "chào chị": "chào chị",
-  "Cảm ơn": "Cảm ơn",
-  "cảm ơn nhiều": "cảm ơn nhiều",
-  "Xin lỗi": "Xin lỗi",
-  "không sao": "không sao",
-  "không sao đâu": "không sao đâu",
-  "đâu": "đâu",
+  "gì, đâu, ai, mấy": "gì, đâu, ai, mấy",
+  "bạn uống gì ?": "bạn uống gì ?",
+  "cũng": "cũng",
+  "đều": "đều",
+  "tôi cũng vậy": "tôi cũng vậy",
+  "muốn": "muốn",
+  "cần": "cần",
+  "tôi muốn mua hoa quả": "tôi muốn mua hoa quả",
+  "nhé": "nhé",
+  "Chúng ta đi uống bia nhé": "Chúng ta đi uống bia nhé",
   "xin chào, cảm ơn, xin lỗi, không sao": "xin chào, cảm ơn, xin lỗi, không sao"
  },
  "0-1-1": {

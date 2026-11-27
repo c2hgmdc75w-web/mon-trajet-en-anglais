@@ -14712,5 +14712,51 @@
     }
    }
   ]
+ },
+ "tipsReplace": {
+  "0-0-0": null,
+  "0-0-1": null,
+  "0-0-2": null,
+  "0-0-3": null,
+  "0-0-4": {
+   "title": "Ce que tu sais déjà : leçons 1 à 5",
+   "example": "Moi, je ne mange pas de viande. — আমি মাংস খাই <b>না</b>।",
+   "body": "Tu as fait cinq leçons. Voici l'essentiel à retenir. Premièrement, les pronoms : « āmi », je, « āpni », vous, et « tumi », tu, pour les proches. Deuxièmement, au présent, pas de verbe être : « Āmi ḍāktār », mot à mot je, médecin, veut dire je suis médecin. Troisièmement, le verbe se place à la fin : « Āmi dokān theke dudh kini », mot à mot je, magasin, depuis, lait, achète. Quatrièmement, pour poser une question, on ajoute « ki » après le sujet : « Tumi ki bānglā bojho ? », tu comprends le bengali ? Enfin, pour dire non, on ajoute « nā » après le verbe : « Āmi māngsho khāi nā », je ne mange pas de viande.",
+   "exampleRo": "Āmi māngsho khāi nā.",
+   "lit": "je · viande · mange · pas"
+  },
+  "0-0-5": null,
+  "0-0-6": null,
+  "0-0-7": null,
+  "0-0-8": null,
+  "0-0-9": {
+   "title": "Ce que tu sais déjà : leçons 6 à 10",
+   "example": "J'ai un petit appartement. — আমার একটা ছোট বাসা <b>আছে</b>।",
+   "body": "Tu as fait dix leçons. Voici l'essentiel des cinq dernières. Premièrement, le verbe change selon la personne : « āmi khāi », je mange, « āpni khān », vous mangez. Deuxièmement, les possessifs : « āmār », mon, « āpnār », votre, « tomār », ton : « āmār ghor », ma chambre. Troisièmement, « eṭā » veut dire ceci et « oṭā » cela : « Eṭā kī ? », qu'est-ce que c'est ? Quatrièmement, on colle au nom un petit mot qui fait le ou la : « rikshāṭā », le rickshaw, « bāṛiṭi », la maison. Enfin, il y a se dit « āchhe », et pour avoir, on dit à moi, il y a : « Āmār ekṭā chhoṭo bāshā āchhe », j'ai un petit appartement.",
+   "exampleRo": "Āmār ekṭā chhoṭo bāshā āchhe.",
+   "lit": "mon · un-[classificateur] · petit · appartement · il y a"
+  },
+  "0-0-10": null,
+  "0-0-11": null,
+  "0-0-12": null,
+  "0-0-13": null,
+  "0-0-14": {
+   "title": "Ce que tu sais déjà : leçons 11 à 15",
+   "example": "Qui fait les courses chez vous ? — আপনাদের বাসায় <b>কে</b> বাজার করে?",
+   "body": "Tu as fait quinze leçons. Voici l'essentiel des cinq dernières. Premièrement, il n'y a pas, ou je n'ai pas, se dit « nei » : « Āmār gāṛi nei », je n'ai pas de voiture. Deuxièmement, compter : « ek, dui, tin, chār, pāṃch », puis « chhoy, shāt, āṭ, noy, dosh ». Troisièmement, où se dit « kothāy », et une petite fin ajoutée au lieu veut dire dans ou à : « bājār », le marché, devient « bājāre », au marché. Quatrièmement, pour l'heure, on demande « Koṭā bāje ? » et on répond par exemple « Shātṭā bāje », il est sept heures. Enfin, les petits mots des questions : « kī », quoi, « ke », qui, « kobe », quand, « keno », pourquoi.",
+   "exampleRo": "Āpnāder bāshāy ke bājār kore?",
+   "lit": "votre · maison-[dans] · qui · marché · fait"
+  },
+  "0-0-15": null,
+  "0-0-16": null,
+  "0-0-17": null,
+  "0-0-18": null,
+  "0-0-19": {
+   "title": "Ce que tu sais déjà : leçons 16 à 20",
+   "example": "D'accord, pas de problème. — <b>ঠিক</b> <b>আছে</b>, কোনো সমস্যা নেই।",
+   "body": "Tu as fini le module. Voici l'essentiel des cinq dernières leçons. Premièrement, je veux se dit « chāi » : « Āmi ek kāp dudh chā chāi », je voudrais une tasse de thé au lait. Deuxièmement, l'adjectif se place devant le nom : « gorom chā », du thé chaud, « tājā māchh », du poisson frais. Troisièmement, pour le pluriel, on ajoute une petite fin, une pour les personnes : « bondhurā », les amis, une autre pour les choses : « āmgulo », les mangues. Quatrièmement, pour demander comment ça va, on dit « Kemon āchhen ? », et on répond « Bhālo āchhi », je vais bien. Enfin, les formules magiques : « dhonnobād », merci, « māf korben », excusez-moi, et « ṭhik āchhe », d'accord. Tu as maintenant de quoi te débrouiller dans les situations de tous les jours.",
+   "exampleRo": "Ṭhik āchhe, kono shomoshshā nei.",
+   "lit": "juste · il y a · aucun · problème · il n'y a pas"
+  }
  }
 }

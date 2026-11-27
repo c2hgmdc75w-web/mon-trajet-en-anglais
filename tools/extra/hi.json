@@ -16564,5 +16564,51 @@
     }
    }
   ]
+ },
+ "tipsReplace": {
+  "0-0-0": null,
+  "0-0-1": null,
+  "0-0-2": null,
+  "0-0-3": null,
+  "0-0-4": {
+   "title": "Ce que tu sais déjà : leçons 1 à 5",
+   "example": "Le rickshaw n'est pas là. — रिक्शा यहाँ <b>नहीं</b> है।",
+   "body": "Tu as fait cinq leçons. Voici l'essentiel à retenir. Premièrement, le verbe se place à la fin : « Maiṃ chāy pītā hūṃ », mot à mot je, thé, bois, suis, veut dire je bois du thé. Deuxièmement, être se dit « hai », à la fin de la phrase : « Kamrā baṛā hai », la chambre est grande. Troisièmement, le hindi a des sons nouveaux : des consonnes avec un souffle, comme dans « dūdh », le lait, et d'autres dites la langue retournée, comme dans « ṭhīk », bien. Quatrièmement, pour poser une question, on ajoute « kyā » au début : « Kyā sṭeshan dūr hai ? », la gare est loin ? Enfin, pour dire non, on met « nahīṃ » juste avant le verbe : « Rikshā yahāṃ nahīṃ hai », le rickshaw n'est pas là.",
+   "exampleRo": "Rikshā yahāṃ nahīṃ hai.",
+   "lit": "rickshaw · ici · pas · est"
+  },
+  "0-0-5": null,
+  "0-0-6": null,
+  "0-0-7": null,
+  "0-0-8": null,
+  "0-0-9": {
+   "title": "Ce que tu sais déjà : leçons 6 à 10",
+   "example": "La sœur de Rahul habite à Delhi. — राहुल <b>की</b> बहन दिल्ली में रहती है।",
+   "body": "Tu as fait dix leçons. Voici l'essentiel des cinq dernières. Premièrement, les pronoms « maiṃ, āp, tum, vah » : je, vous, tu, il ou elle. Deuxièmement, « āp » est poli, pour les inconnus et les aînés, et « tum » est pour les amis : « Āp kaise haiṃ ? », comment allez-vous ? et « Tum kaise ho ? », comment vas-tu ? Troisièmement, les noms sont masculins ou féminins, et l'adjectif suit : « Samosā achchhā hai », le samosa est bon, mais « Dāl bahut achchhī hai », le dal est très bon. Quatrièmement, « yah » veut dire ceci, tout près, et « vah » cela, plus loin. Enfin, de se dit « kā », « kī » ou « ke », selon ce qui suit : « Rāhul kā fon », le téléphone de Rahul, « Rāhul kī bahan », la sœur de Rahul.",
+   "exampleRo": "Rāhul kī bahan Dillī meṃ rahtī hai.",
+   "lit": "Rahul · [de] · sœur · Delhi · [dans] · habitant · est"
+  },
+  "0-0-10": null,
+  "0-0-11": null,
+  "0-0-12": null,
+  "0-0-13": null,
+  "0-0-14": {
+   "title": "Ce que tu sais déjà : leçons 11 à 15",
+   "example": "Où est la station de métro ? — मेट्रो स्टेशन <b>कहाँ</b> है?",
+   "body": "Tu as fait quinze leçons. Voici l'essentiel des cinq dernières. Premièrement, compter : « ek, do, tīn », un, deux, trois, jusqu'à « das », dix. Deuxièmement, les petits mots de lieu se placent après le nom : « meṃ », dans, « par », sur, « se », de : « Fon mez par hai », le téléphone est sur la table. Troisièmement, pour dire j'ai, on dit près de moi, il y a : « Mere pās chhātā hai », j'ai un parapluie. Quatrièmement, ce qu'on fait d'habitude se dit avec une fin qui change pour un homme ou une femme : « Maiṃ jaldī uṭhtā hūṃ » pour un homme, « Maiṃ jaldī uṭhtī hūṃ » pour une femme, je me lève tôt. Enfin, les petits mots des questions : « kyā », quoi, « kahāṃ », où, « kaun », qui, « kab », quand, « kitnā », combien.",
+   "exampleRo": "Meṭro sṭeshan kahāṃ hai?",
+   "lit": "métro · station · où · est ?"
+  },
+  "0-0-15": null,
+  "0-0-16": null,
+  "0-0-17": null,
+  "0-0-18": null,
+  "0-0-19": {
+   "title": "Ce que tu sais déjà : leçons 16 à 20",
+   "example": "Excusez-moi, une minute. — <b>माफ़</b> <b>कीजिए</b>, एक मिनट।",
+   "body": "Tu as fini le module. Voici l'essentiel des cinq dernières leçons. Premièrement, aussi se dit « bhī », placé juste après le mot : « Mujhe bhī bārish pasand hai », moi aussi, j'aime la pluie. Deuxièmement, pour l'heure, on demande « Kitne baje haiṃ ? » et on répond par exemple « Do baje haiṃ », il est deux heures. Troisièmement, pour dire il me faut ou je voudrais, on dit « chāhie » : « Mujhe ek kurtā chāhie », il me faut une kurta. Quatrièmement, pour proposer d'y aller, on dit « Chalie ! » poliment, ou « chalo » entre amis. Enfin, les formules magiques : « Namaste », bonjour, « dhanyavād » ou « shukriyā », merci, et « māf kījie », excusez-moi. Tu as maintenant de quoi te débrouiller dans les situations de tous les jours.",
+   "exampleRo": "Māf kījie, ek minaṭ.",
+   "lit": "pardon · faites · une · minute"
+  }
  }
 }
